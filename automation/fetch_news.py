@@ -25,7 +25,7 @@ import requests
 from bs4 import BeautifulSoup
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(ROOT, "data")
+DATA_DIR = os.path.join(ROOT,"..", "data")
 FEED_PATH = os.path.join(DATA_DIR, "feed.json")
 CACHE_PATH = os.path.join(DATA_DIR, ".image-cache.json")
 
