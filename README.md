@@ -101,3 +101,4 @@ open tab keeps updating without a reload.
 - Keep a human review step before promoting anything into the Scandals section.
   The status labels (Active / Inquiry / Resolved) are assigned by position right
   now, not by verified case state.
+Deployment test
