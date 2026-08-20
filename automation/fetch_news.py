@@ -618,7 +618,7 @@ def scrape_mea(url="https://www.mea.gov.in/press-releases.htm", limit=10):
             m = re.search(r"(\w+ \d{1,2}, \d{4}|\d{1,2} \w+ \d{4})", holder.get_text())
             if m:
                 date = m.group(1)
-      published = page_published_date(full) or to_iso(date)
+        published = page_published_date(full) or to_iso(date)
 
         if not published or not is_recent(published):
             continue
