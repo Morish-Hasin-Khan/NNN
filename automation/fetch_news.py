@@ -1389,7 +1389,7 @@ def main():
         "sources": (["Press Information Bureau", "Ministry of External Affairs",
                      "Reserve Bank of India", "Global Voices", "Google News"]
                     + [name for _, name in WORLD_PAPERS]
-                    + [name for _, name in INDIA_PAPERS],
+                    + [name for _, name in INDIA_PAPERS]),
     }
     with open(FEED_PATH, "w") as fh:
         json.dump(feed, fh, ensure_ascii=False, indent=1)
