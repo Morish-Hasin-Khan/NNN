@@ -517,20 +517,20 @@ def scrape_rbi(url="https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx", lim
         if full in seen:
             continue
         seen.add(full)
-       published = page_published_date(full)
+        published = page_published_date(full)
 
-if not published or not is_recent(published):
-    continue
+        if not published or not is_recent(published):
+            continue
 
-out.append({
-    "title": title,
-    "url": full,
-    "summary": "",
-    "published": published,
-    "source": "Reserve Bank of India",
-    "image": None,
-    "licence": "linkout",
-})
+        out.append({
+            "title": title,
+            "url": full,
+            "summary": "",
+            "published": published,
+            "source": "Reserve Bank of India",
+            "image": None,
+            "licence": "linkout",
+        })
         if len(out) >= limit:
             break
     return out
@@ -575,20 +575,20 @@ def scrape_pib(url="https://www.pib.gov.in/Allrel.aspx?reg=48&lang=1", limit=12)
         seen.add(href)
         published = page_published_date(href)
 
-if not published or not is_recent(published):
-    continue
+        if not published or not is_recent(published):
+            continue
 
-out.append({
-    "title": title,
-    "url": href,
-    "summary": "",
-    "published": published,
-    "source": ministry or "Press Information Bureau",
-    "image": None,
-    "licence": "gov-open",
-    "publisher": "Press Information Bureau",
-    "body_selectors": PIB_BODY,
-})
+        out.append({
+            "title": title,
+            "url": href,
+            "summary": "",
+            "published": published,
+            "source": ministry or "Press Information Bureau",
+            "image": None,
+            "licence": "gov-open",
+            "publisher": "Press Information Bureau",
+            "body_selectors": PIB_BODY,
+        })
         if len(out) >= limit:
             break
     return out
@@ -618,22 +618,22 @@ def scrape_mea(url="https://www.mea.gov.in/press-releases.htm", limit=10):
             m = re.search(r"(\w+ \d{1,2}, \d{4}|\d{1,2} \w+ \d{4})", holder.get_text())
             if m:
                 date = m.group(1)
-       published = page_published_date(full) or to_iso(date)
+      published = page_published_date(full) or to_iso(date)
 
-if not published or not is_recent(published):
-    continue
+        if not published or not is_recent(published):
+            continue
 
-out.append({
-    "title": title,
-    "url": full,
-    "summary": "",
-    "published": published,
-    "source": "Ministry of External Affairs",
-    "image": None,
-    "licence": "gov-open",
-    "publisher": "Ministry of External Affairs",
-    "body_selectors": MEA_BODY,
-})
+        out.append({
+            "title": title,
+            "url": full,
+            "summary": "",
+            "published": published,
+            "source": "Ministry of External Affairs",
+            "image": None,
+            "licence": "gov-open",
+            "publisher": "Ministry of External Affairs",
+            "body_selectors": MEA_BODY,
+        })
         if len(out) >= limit:
             break
     return out
@@ -1248,13 +1248,13 @@ def build_front_page(sections, limit=30):
     # 30 candidates, 3 per category, so every category is represented and the
     # front end can re-rank for a reader who wants sport before crime.
    pool.sort(
-    key=lambda x: (
-        CATEGORY_RANK.get(x["category"], 99),
-        -(len(x.get("also") or [])),
-        -(datetime.fromisoformat(x["published"]).timestamp())
-        if x.get("published") else 0
+        key=lambda x: (
+            CATEGORY_RANK.get(x["category"], 99),
+            -(len(x.get("also") or [])),
+            -(datetime.fromisoformat(x["published"]).timestamp())
+            if x.get("published") else 0
+        )
     )
-)
     # a front page that is nine crime stories is not a front page
     out, per_cat = [], {}
     for it in pool:
