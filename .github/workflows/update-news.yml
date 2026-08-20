@@ -24,7 +24,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install requirements
-        run: pip install -r automation/requirements.txt
+        run: pip install requests beautifulsoup4
 
       - name: Fetch latest news
         run: python automation/fetch_news.py
