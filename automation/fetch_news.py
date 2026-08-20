@@ -36,6 +36,9 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-IN,en;q=0.9",
 }
+# Only allow genuinely recent news into the feed.
+# 24 hours = today's news / very recent breaking news.
+MAX_NEWS_AGE_HOURS = 24
 TIMEOUT = 20
 NS = {"media": "http://search.yahoo.com/mrss/",
       "content": "http://purl.org/rss/1.0/modules/content/",
@@ -90,23 +93,24 @@ def norm_key(title):
 
 
 def to_iso(value):
-    if not value:
-        return None
-    value = value.strip()
+    def is_recent(published, max_hours=MAX_NEWS_AGE_HOURS):
+    """Return True only for articles published within the freshness window."""
+    if not published:
+        return False
+
     try:
-        return parsedate_to_datetime(value).astimezone(timezone.utc).isoformat()
+        dt = datetime.fromisoformat(published)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+
+        age_hours = (
+            datetime.now(timezone.utc) - dt.astimezone(timezone.utc)
+        ).total_seconds() / 3600
+
+        return 0 <= age_hours <= max_hours
+
     except Exception:
-        pass
-    for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d",
-                "%d %b %Y", "%B %d, %Y", "%d/%m/%Y", "%b %d, %Y"):
-        try:
-            dt = datetime.strptime(value[:len(datetime.now().strftime(fmt)) + 6].strip(), fmt)
-            if dt.tzinfo is None:
-                dt = dt.replace(tzinfo=timezone.utc)
-            return dt.astimezone(timezone.utc).isoformat()
-        except Exception:
-            continue
-    return None
+        return False
 
 
 BYLINE_JUNK = re.compile(r"^(by|from)\s+", re.I)
