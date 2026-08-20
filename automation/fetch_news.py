@@ -1247,7 +1247,7 @@ def build_front_page(sections, limit=30):
                          "from_section": sec["title"]})
     # 30 candidates, 3 per category, so every category is represented and the
     # front end can re-rank for a reader who wants sport before crime.
-   pool.sort(
+    pool.sort(
         key=lambda x: (
             CATEGORY_RANK.get(x["category"], 99),
             -(len(x.get("also") or [])),
