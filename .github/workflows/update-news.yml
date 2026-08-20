@@ -2,7 +2,7 @@ name: Update NNN News
 
 on:
   schedule:
-    - cron: '30 18 * * *'
+    - cron: '00 1 * * *'
   workflow_dispatch:
 
 permissions:
