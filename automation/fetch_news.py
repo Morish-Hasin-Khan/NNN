@@ -91,18 +91,55 @@ def trim_words(text, limit):
 def norm_key(title):
     return re.sub(r"[^a-z0-9]+", "", (title or "").lower())[:70]
 
- def is_recent(published, max_hours=MAX_NEWS_AGE_HOURS):
+
+def to_iso(value):
+    if not value:
+        return None
+
+    value = value.strip()
+
+    try:
+        return parsedate_to_datetime(value).astimezone(timezone.utc).isoformat()
+    except Exception:
+        pass
+
+    for fmt in (
+        "%Y-%m-%dT%H:%M:%S%z",
+        "%Y-%m-%d %H:%M:%S",
+        "%Y-%m-%d",
+        "%d %b %Y",
+        "%B %d, %Y",
+        "%d/%m/%Y",
+        "%b %d, %Y",
+    ):
+        try:
+            dt = datetime.strptime(value, fmt)
+
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+
+            return dt.astimezone(timezone.utc).isoformat()
+
+        except Exception:
+            continue
+
+    return None
+
+
+def is_recent(published, max_hours=MAX_NEWS_AGE_HOURS):
     """Return True only for articles published within the freshness window."""
     if not published:
         return False
 
     try:
         dt = datetime.fromisoformat(published)
+
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
 
         age_hours = (
-            datetime.now(timezone.utc) - dt.astimezone(timezone.utc)
+            datetime.now(timezone.utc) -
+            dt.astimezone(timezone.utc)
         ).total_seconds() / 3600
 
         return 0 <= age_hours <= max_hours
