@@ -125,7 +125,71 @@ def to_iso(value):
 
     return None
 
+def page_published_date(url):
+    """Extract the publisher's actual publication date from an article page."""
+    if not url:
+        return None
 
+    r = get(url)
+    if r is None:
+        return None
+
+    try:
+        soup = BeautifulSoup(r.text, "html.parser")
+    except Exception:
+        return None
+
+    # Common metadata used by news websites.
+    for selector, attr in (
+        ('meta[property="article:published_time"]', "content"),
+        ('meta[name="article:published_time"]', "content"),
+        ('meta[property="datePublished"]', "content"),
+        ('meta[name="datePublished"]', "content"),
+        ('meta[itemprop="datePublished"]', "content"),
+        ('time[datetime]', "datetime"),
+    ):
+        tag = soup.select_one(selector)
+        if tag and tag.get(attr):
+            date = to_iso(tag.get(attr))
+            if date:
+                return date
+
+    # PIB: "Posted On: 25 APR 2026 11:56AM by PIB Delhi"
+    text = clean(soup.get_text(" ", strip=True))
+    match = re.search(
+        r"Posted\s+On\s*:\s*(\d{1,2}\s+[A-Za-z]{3}\s+\d{4})",
+        text,
+        re.I,
+    )
+    if match:
+        date = to_iso(match.group(1))
+        if date:
+            return date
+
+    # RBI: "Date : Feb 24, 2020"
+    match = re.search(
+        r"\bDate\s*:\s*([A-Za-z]{3,9}\s+\d{1,2},\s+\d{4})",
+        text,
+        re.I,
+    )
+    if match:
+        date = to_iso(match.group(1))
+        if date:
+            return date
+
+    # MEA and some other government pages:
+    # "Published On: 30-Apr-2026"
+    match = re.search(
+        r"Published\s+On\s*:\s*(\d{1,2}-[A-Za-z]{3}-\d{4})",
+        text,
+        re.I,
+    )
+    if match:
+        date = to_iso(match.group(1))
+        if date:
+            return date
+
+    return None
 def is_recent(published, max_hours=MAX_NEWS_AGE_HOURS):
     """Return True only for articles published within the freshness window."""
     if not published:
@@ -305,6 +369,8 @@ def parse_rss(url, source_name=None, limit=12, licence="linkout", keep_body=Fals
             if body:
                 item["body"] = body
         out.append(item)
+        if len(out) >=limit:
+            break
     return out
 
 
@@ -451,10 +517,20 @@ def scrape_rbi(url="https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx", lim
         if full in seen:
             continue
         seen.add(full)
-        out.append({"title": title, "url": full, "summary": "",
-                    "published": datetime.now(timezone.utc).isoformat(),
-                    "source": "Reserve Bank of India", "image": None,
-                    "licence": "linkout"})
+       published = page_published_date(full)
+
+if not published or not is_recent(published):
+    continue
+
+out.append({
+    "title": title,
+    "url": full,
+    "summary": "",
+    "published": published,
+    "source": "Reserve Bank of India",
+    "image": None,
+    "licence": "linkout",
+})
         if len(out) >= limit:
             break
     return out
@@ -497,11 +573,22 @@ def scrape_pib(url="https://www.pib.gov.in/Allrel.aspx?reg=48&lang=1", limit=12)
         if len(title) < 25 or href in seen:
             continue
         seen.add(href)
-        out.append({"title": title, "url": href, "summary": "",
-                    "published": datetime.now(timezone.utc).isoformat(),
-                    "source": ministry or "Press Information Bureau", "image": None,
-                    "licence": "gov-open", "publisher": "Press Information Bureau",
-                    "body_selectors": PIB_BODY})
+        published = page_published_date(href)
+
+if not published or not is_recent(published):
+    continue
+
+out.append({
+    "title": title,
+    "url": href,
+    "summary": "",
+    "published": published,
+    "source": ministry or "Press Information Bureau",
+    "image": None,
+    "licence": "gov-open",
+    "publisher": "Press Information Bureau",
+    "body_selectors": PIB_BODY,
+})
         if len(out) >= limit:
             break
     return out
@@ -531,11 +618,22 @@ def scrape_mea(url="https://www.mea.gov.in/press-releases.htm", limit=10):
             m = re.search(r"(\w+ \d{1,2}, \d{4}|\d{1,2} \w+ \d{4})", holder.get_text())
             if m:
                 date = m.group(1)
-        out.append({"title": title, "url": full, "summary": "",
-                    "published": to_iso(date) or datetime.now(timezone.utc).isoformat(),
-                    "source": "Ministry of External Affairs", "image": None,
-                    "licence": "gov-open", "publisher": "Ministry of External Affairs",
-                    "body_selectors": MEA_BODY})
+       published = page_published_date(full) or to_iso(date)
+
+if not published or not is_recent(published):
+    continue
+
+out.append({
+    "title": title,
+    "url": full,
+    "summary": "",
+    "published": published,
+    "source": "Ministry of External Affairs",
+    "image": None,
+    "licence": "gov-open",
+    "publisher": "Ministry of External Affairs",
+    "body_selectors": MEA_BODY,
+})
         if len(out) >= limit:
             break
     return out
@@ -1149,9 +1247,14 @@ def build_front_page(sections, limit=30):
                          "from_section": sec["title"]})
     # 30 candidates, 3 per category, so every category is represented and the
     # front end can re-rank for a reader who wants sport before crime.
-    pool.sort(key=lambda x: (CATEGORY_RANK.get(x["category"], 99),
-                             -(len(x.get("also") or [])),
-                             x.get("published") or ""), reverse=False)
+   pool.sort(
+    key=lambda x: (
+        CATEGORY_RANK.get(x["category"], 99),
+        -(len(x.get("also") or [])),
+        -(datetime.fromisoformat(x["published"]).timestamp())
+        if x.get("published") else 0
+    )
+)
     # a front page that is nine crime stories is not a front page
     out, per_cat = [], {}
     for it in pool:
@@ -1167,7 +1270,7 @@ def build_front_page(sections, limit=30):
 
 # ------------------------------------------------------------------ markets
 MARKETS = [
-    {"key": "sensex",  "label": "SENSEX",    "symbol": "^BSESN",  "stooq": "^spx", "decimals": 2},
+    {"key": "sensex",  "label": "SENSEX",    "symbol": "^BSESN",  "decimals": 2},
     {"key": "nifty",   "label": "NIFTY 50",  "symbol": "^NSEI",   "decimals": 2},
     {"key": "banknifty", "label": "BANK NIFTY", "symbol": "^NSEBANK", "decimals": 2},
     {"key": "gold",    "label": "GOLD",      "symbol": "GC=F",    "convert": "inr_10g", "unit": "₹/10g", "decimals": 0},
@@ -1305,16 +1408,28 @@ def attach_upsc_notes(sections):
 
 
 def fill_images(sections, workers=8):
-    """Fetch missing preview images from each article's own page."""
-    targets = [it for sec in sections for it in sec["items"][:5] if not it.get("image")]
+    """Fetch missing publisher preview images for every story."""
+    targets = [
+        it
+        for sec in sections
+        for it in sec["items"]
+        if not it.get("image") and it.get("url")
+    ]
+
     if not targets:
         return
+
     log(f"· resolving {len(targets)} preview images")
+
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        for it, img in zip(targets, pool.map(lambda x: scrape_og_image(x["url"]), targets)):
+        results = pool.map(
+            lambda item: scrape_og_image(item["url"]),
+            targets
+        )
+
+        for it, img in zip(targets, results):
             if img:
                 it["image"] = img
-
 
 def main():
     global LOG
