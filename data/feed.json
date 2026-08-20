@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T19:45:12.692233+00:00",
+ "generated_at": "2026-08-20T21:02:48.508492+00:00",
  "podcasts_fetched_at": "2026-08-20T05:00:00+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Pretends Transgender",
-  "Workers Killed",
+  "Four Japan",
+  "Landslide Colombia",
   "Jazeera English",
   "News",
   "Protesters Indian",
   "Govt India",
-  "Construction Pallikaranai",
-  "Barracuda Networks",
-  "Walmart",
-  "University Jason"
+  "Deliveries Keralam",
+  "Supreme Court",
+  "Cuban",
+  "Jailed Pakistan"
  ],
  "sections": [
   {
@@ -103,80 +103,89 @@
    "upsc": false,
    "items": [
     {
-     "title": "Man Pretends To Be Transgender, Enters Woman's Home And Rapes Her In Mumbai",
-     "url": "https://www.ndtv.com/india-news/man-pretends-to-be-transgender-enters-womans-home-and-rapes-her-in-mumbai-11938023#publisher=newsstand",
-     "summary": "The accused, identified as Anil Sheshrao Shinde, entered the house of the survivor under the pretext of warding off evil eyes",
-     "published": "2026-08-20T18:19:59+00:00",
-     "source": "NDTV",
+     "title": "Four railway workers killed by express train at station in Japan",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
+     "summary": "Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train.",
+     "published": "2026-08-20T20:27:27+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/u16h96l_transgender-rape-case_625x300_20_August_26.jpeg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787257496.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "59cacbc291c0",
+     "id": "fc1a31eeaf5f",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Four workers dead after being hit by train in Japan",
+       "url": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+       "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say."
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+     "summary": "At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.",
+     "published": "2026-08-20T20:36:51+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787258175.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "d67931891224",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "13 people in Colombia",
+      "13 people have been killed"
+     ]
+    },
+    {
+     "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+     "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+     "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+     "published": "2026-08-20T17:14:55+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "cedf7f5c0142",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "17 people were killed"
+     ]
+    },
+    {
+     "title": "China To Be India's Main Competitor Across Multiple Fields: Ex-Army Chief",
+     "url": "https://www.ndtv.com/india-news/china-to-be-indias-main-competitor-across-multiple-fields-army-chief-general-manoj-naravane-11938167#publisher=newsstand",
+     "summary": "Former Army chief General Manoj Naravane said that China would compete with India across multiple domains, including politics, economics, trade and military affairs.",
+     "published": "2026-08-20T19:38:31+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-05/r1ng6rjs_manoj-naravane_625x300_07_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2f1cdf4836e5",
+     "category": "conflict",
+     "category_label": "War & conflict",
      "from_section": "National News"
     },
     {
-     "title": "2 Workers Killed As Under-Construction Hospital's Roof Collapses In Mohali",
-     "url": "https://www.ndtv.com/india-news/2-workers-killed-as-under-construction-hospitals-roof-collapses-in-mohali-11937816#publisher=newsstand",
-     "summary": "Sources said some labourers are still trapped under the debris. The rescue operation is in progress.",
-     "published": "2026-08-20T18:11:16+00:00",
-     "source": "NDTV",
+     "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+     "summary": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
+     "published": "2026-08-20T20:32:13+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/3u0b0fm8_mohali_625x300_20_August_26.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Mini-SV_Tibetan-protest-unity-law-NDelhi_WIDE-THUMB-1787257904.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "caf0f26616ab",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "2 Workers Killed As Under-Construction Hospital's"
-     ]
-    },
-    {
-     "title": "Death Count Rises To 8 In Gujarat Toxic Liquor Case, 39 Being Treated",
-     "url": "https://www.ndtv.com/india-news/death-count-rises-to-8-in-gujarat-toxic-liquor-case-39-being-treated-11937977#publisher=newsstand",
-     "summary": "One of the accused, Narendra Yadav, who hails from Madhya Pradesh, died after consuming the same spurious liquor that he was involved in manufacturing, he said.",
-     "published": "2026-08-20T18:07:22+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/kmbq765s_online-liquor_625x300_07_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "c4ea19d884e3",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "39 Being Treated"
-     ]
-    },
-    {
-     "title": "IUML orders probe into resolution against Minister Basheer; Jaleel questions ‘ED silence’",
-     "url": "https://www.thehindu.com/news/national/kerala/iuml-orders-probe-into-resolution-against-minister-basheer-jaleel-questions-ed-silence/article71369788.ece",
-     "summary": "The resolution alleged that money was being collected in connection with admissions to EMEA College of Arts and Science, Kondotty, and named Minister Basheer in connection with the allegation. The IUML district committee directed the camp facilitator and the constituency committee to investigate the incident and submit reports.",
-     "published": "2026-08-20T18:54:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "ef7847ac624a",
+     "id": "6fb5bccb1b97",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Tamim Iqbal's Bombshell Update Leaves India's Bangladesh Tour In Limbo",
-     "url": "https://sports.ndtv.com/cricket/big-twist-in-indias-bangladesh-tour-tamim-iqbals-statement-sparks-speculation-11937863#publisher=newsstand",
-     "summary": "Bangladesh Cricket Board (BCB) president Tamim Iqbal has hinted that India's scheduled tour of Bangladesh could be postponed again",
-     "published": "2026-08-20T18:21:24+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-09/ct1clai4_india-vs-bangladesh_625x300_24_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "48c2114ff5f4",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Sports"
+     "from_section": "Global News"
     },
     {
      "title": "Only two consumption funds gave over 10% SIP returns in 3 years, while one scheme posted less than 1%: Here's why",
@@ -196,10 +205,38 @@
      ]
     },
     {
+     "title": "School assembly news headlines today- August 21: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa0lUZDBYOGpLQkJTRzliVDV2X19pandDS1FzNWlQX2lYbGduRnVJeU9aYTdmQklpV3BvQllwQUMxSjVlWUdGQ2NGaUpOdjZKTEtZMGppMHlGU1ZDV2tyWXNsZDlRZ1c3eTFXLUg4NExqWU15T3RwVjJkY0E3TjdEVm5TMndHZlpMV19GWmFDSC0za3FEVWVLeExPcHVwOGRfQlF3TmdwN1lpVmVOZzcwbVZ0dEgwWXAtSG9xcFMtcV9CMEl1cFF5dFhwOUlmam82cnItNVhScmdiT09PSlBrUXFVZlI?oc=5",
+     "summary": "School assembly news headlines today- August 21: Top national, sports and world news curated for you India Today",
+     "published": "2026-08-20T11:32:35+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "3b4742108636",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "US pummels Cuban economy with new sanctions on mining, construction",
+     "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+     "summary": "US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.",
+     "published": "2026-08-20T20:37:25+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a874baa-1787251626.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "982b143754f5",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News"
+    },
+    {
      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-     "summary": "The US treasury secretary says allies will need to decide whether they \"are with us or against us\".",
-     "published": "2026-08-20T19:19:20+00:00",
+     "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+     "published": "2026-08-20T19:52:48+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
@@ -208,23 +245,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Global News"
-    },
-    {
-     "title": "Walmart sees sales drop as US consumer spending retreats",
-     "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
-     "summary": "Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart's growth.",
-     "published": "2026-08-20T19:18:38+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a87169f-1787238047.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "f8f85bc7a28a",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News",
-     "figures": [
-      "$4  per gallon impact consumer"
-     ]
     },
     {
      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -269,20 +289,6 @@
      "from_section": "Culture"
     },
     {
-     "title": "Fishermen rescued after five days clinging to cooler at sea",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fishermen-rescued-after-five-days-clinging-to-cooler-at-sea?traffic_source=rss",
-     "summary": "Fishermen were rescued after being found floating in the Pacific where they spent five days clinging to a fish cooler",
-     "published": "2026-08-20T19:10:45+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787253035.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "d024110edcca",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
-    },
-    {
      "title": "Barracuda Networks opens five cybersecurity COEs in Karnataka",
      "url": "https://www.thehindu.com/news/national/karnataka/barracuda-networks-opens-five-cybersecurity-coes-in-karnataka/article71369573.ece",
      "summary": "",
@@ -325,24 +331,10 @@
      "from_section": "Technology"
     },
     {
-     "title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-     "url": "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-     "summary": "Holders Arsenal face Coventry in the Premier League opener with doubts over Declan Rice and Bukayo Saka's match fitness.",
-     "published": "2026-08-20T19:12:56+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-29T180301Z_418469915_UP1EM5T1D0O79_RTRMADP_3_SOCCER-CHAMPIONS-PSG-ARS-PREVIEW-1787234728_4bb416-1787251428.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "e0b2bb707b45",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
-    },
-    {
      "title": "Badminton World Championships 2026: PV Sindhu Knocked Out, Satwiksairaj Rankireddy/Chirag Shetty In QF",
      "url": "https://sports.ndtv.com/badminton/badminton-world-championships-2026-live-updates-pv-sindhu-ayush-shetty-and-satwiksairaj-rankireddy-and-chirag-shetty-bwf-live-score-11935272#publisher=newsstand",
-     "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match",
-     "published": "2026-08-20T18:44:11+00:00",
+     "summary": "Badminton World Championships 2026 Highlights: PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match",
+     "published": "2026-08-20T19:43:06+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-07/5sc2v9p8_pv-sindhu_625x300_23_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -356,20 +348,34 @@
      ]
     },
     {
-     "title": "East Bengal Rewrite Indian Football History With Record 12-0 Win In AFC Women's Champions League",
-     "url": "https://sports.ndtv.com/football/east-bengal-rewrite-indian-football-history-with-record-12-0-win-in-afc-womens-champions-league-11938019#publisher=newsstand",
-     "summary": "East Bengal FC secured their second consecutive victory after romping to a 12-0 win over Rovers FC (Guam) in the AFC Women's Champions League 2026-27 preliminary stage",
-     "published": "2026-08-20T18:19:08+00:00",
+     "title": "Trailblazing Heptathlete Swapna Barman Fails Dope Test; Shivpal Singh Handed 10-Year Ban For 2nd Offence",
+     "url": "https://sports.ndtv.com/athletics/trailblazing-heptathlete-swapna-barman-fails-dope-test-shivpal-singh-handed-10-year-ban-for-2nd-offence-11936562#publisher=newsstand",
+     "summary": "India's first Asian Games gold-winning heptathlete Swapna Barman has been provisionally suspended by the National Anti Doping Agency (NADA) after testing positive for a banned substance and disciplinary proceedings against her will go ahead despite her recent decision to retire.",
+     "published": "2026-08-20T18:52:37+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/4voesnp8_east-bengal-women_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2018-11/k9e1c95k_swapna-barman_625x300_05_November_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "13db8583e287",
+     "id": "46f7e3c45d85",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
+     "title": "\"Maybe That Was Her Tactic\": PV Sindhu Raises Tough Questions On Wang Zhi Yi's Injury Break After World Championships Loss",
+     "url": "https://sports.ndtv.com/badminton/injury-or-strategy-pv-sindhus-candid-take-sparks-debate-after-loss-to-chinas-wang-zhi-yi-at-badminton-world-championships-11937396#publisher=newsstand",
+     "summary": "It was heartbreak for PV Sindhu at the Badminton World Championships as she went down in three games against China's Wang Zhi Yi, who prevailed 21-11, 15-21, 21-17 in a gripping Round-of-16 contest",
+     "published": "2026-08-20T18:51:43+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/p3viadag_pv-sindhu_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "982559eb7ce3",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports",
      "figures": [
-      "27 preliminary stage"
+      "16 contest"
      ]
     },
     {
@@ -400,7 +406,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-20T19:44:59.371250+00:00",
+     "published": "2026-08-20T21:02:33.959223+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -411,7 +417,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-20T19:44:59.371269+00:00",
+     "published": "2026-08-20T21:02:33.959239+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -422,7 +428,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-20T19:44:59.371274+00:00",
+     "published": "2026-08-20T21:02:33.959244+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -433,7 +439,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-20T19:44:59.371279+00:00",
+     "published": "2026-08-20T21:02:33.959248+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -444,7 +450,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-20T19:44:59.371283+00:00",
+     "published": "2026-08-20T21:02:33.959251+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -455,10 +461,28 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-20T19:44:59.371287+00:00",
+     "published": "2026-08-20T21:02:33.959255+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "England vs Pakistan, 1st Test Day 2 Highlights: England Take 195-Run Lead",
+     "url": "https://sports.ndtv.com/cricket/england-vs-pakistan-1st-test-day-2-live-score-updates-11934984#publisher=newsstand",
+     "summary": "England vs Pakistan, 1st Test Day 2, Highlights: Harry Brook (91) top-scored for England against Pakistan as the side took a 195-run lead at Stumps on Day 2 of the first Test at Headingley",
+     "published": "2026-08-20T18:49:35+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/2jsom5ec_jordan-cox-afp_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "06702b0bbd9e",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2 Highlights : England Take 195-Run",
+      "2, Highlights : Harry Brook (91)"
+     ]
     }
    ]
   },
@@ -470,14 +494,14 @@
    "items": [
     {
      "title": "Protesters call off 26-day agitation over exam irregularities in Indian state",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aSDJZemZ5NDd4bmkwcjZsT3B6TDFoVlBvdW43Mm9rZGxYaXlNT0JPWVhVUkU2c3hFemlwVlZ1VWtBSFFYLUUwMmgxOEh3bTBzUUNFZk0xWXJpUjNI?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1adXJZYXBuaHozM1NsczRJR1llbDExZzFwOFVlejZlNUJUZkVUbUFPaFZVbi1JV3dFTElrVjEtM0piNjJqRXIxbHlnUUJac3IxcklsbFlRbmllQQ?oc=5",
      "summary": "Protesters call off 26-day agitation over exam irregularities in Indian state BBC",
      "published": "2026-08-20T08:02:13+00:00",
      "source": "BBC",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "07b4ce0a12db",
+     "id": "91c30cd4a1b1",
      "category": "politics",
      "category_label": "Political controversy"
     },
@@ -493,6 +517,19 @@
      "id": "315a9a6f776c",
      "category": "mystery",
      "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "CJP conducts 10-point social audit of govt, municipal schools in Maharashtra's Latur - Mid-Day",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU3JkMjRHXzhJV2lrLVlLQ3VwQW9TT3N0SWFyemxRSjRfNXhUV1dtVml2bWRYaWp3eVpXbWhNNF9fMlBuekJ2eGlSd1VTOG1iYW4yQlhHR0hzdHpfUkpBQnhsWk8wNWhuLVlLWVdLQ29EdGdleUgzaW1zampyTVlYc1hvdWRJWDRud0RVWWxCOGlXVFdBVG5paWRlZ3BMR2tDY3EzT3RwaC1SbjlGUWVqZGdwQW9NQkdrWlRfSEQwLW9LZDlBeUJSTnNNaFZVZE5jSmszUm11R200cUQyVXRWc2ktMVZaSDlUUzlPN1pKSdIB9AFBVV95cUxQaG1ZS2tLeldOLTRCUlR2UUw4Z0pESGlrX1RLQTVmc2FHcTAxRlE4S0NRNkcxWS1DV2QwQ1FKcFBwM2MxQ0NlaDA3VTBEU0daSlFtRGROQ2dIWnpaRUN2SkV6dFNQampFT09RUE1wT0VvUmcxMW5GOEJmbFAtbDBwR0g2c00wYnc5Z1B3WDZLT0xZOVhWSHF5dlg1MTdXVE1fQTAxeGpHTWJKczFYVFBfZzZMV1owbWJJdFlIcmM5NEctS1BlSzR4YUxwNlpkYklSdFZGY2JSTTFzNFZ2TE9PWENaX2xnRjBkb1NXeXBHQ3dfNkdP?oc=5",
+     "summary": "CJP conducts 10-point social audit of govt, municipal schools in Maharashtra's Latur Mid-Day",
+     "published": "2026-08-20T10:26:00+00:00",
+     "source": "Google News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "fe5937bc6a99",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Prominent criminal lawyer Vijay Aggarwal arrested in London on sexaul assault charge",
@@ -516,6 +553,38 @@
    "upsc": false,
    "items": [
     {
+     "title": "Deliveries at Keralam’s Kozhikode Government Women and Children’s Hospital decline",
+     "url": "https://www.thehindu.com/news/national/kerala/deliveries-at-keralams-kozhikode-government-women-and-childrens-hospital-decline/article71368209.ece",
+     "summary": "According to Health department, there were a total of 5,201 deliveries (2,729 normal and 2,472 C-section) in 2020-21. This number came down to 2,238 (1,387 normal and 851 C-section) in 2025-26. A large number of people from the urban areas of Kozhikode are dependant on the hospital",
+     "published": "2026-08-20T20:40:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/xtbjmy/article71368384.ece/alternates/LANDSCAPE_1200/preg.jpg",
+     "licence": "linkout",
+     "id": "9a549e4fa786",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5,201 deliveries (2,729 normal and 2,472",
+      "2,729 normal and 2,472 C-section)",
+      "21. This number came down",
+      "1,387 normal and 851 C-section)"
+     ]
+    },
+    {
+     "title": "Supreme Court scraps worker-friendly 1978 ‘industry’ precedent for new labour code",
+     "url": "https://www.thehindu.com/news/national/supreme-court-upholds-definition-of-industry-as-per-industrial-relations-code-2020/article71367986.ece",
+     "summary": "‘Industry’ under Industrial Relation Code will be interpreted in its ‘own text and context’, says top court; the 1978 verdict had enabled workers employed in a wide range of jobs to have a legal recourse, including collective bargaining, against unfair labour practices by employers",
+     "published": "2026-08-20T20:36:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/exrfit/article71368007.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
+     "licence": "linkout",
+     "id": "09871a0e4404",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Construction activities around Pallikaranai marshland can be regulated, not banned: TNSWA tells Madras High Court",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/construction-activities-around-pallikaranai-marshland-can-be-regulated-not-banned-tnswa-tells-madras-high-court/article71369543.ece",
      "summary": "It also submits a proposed interim ‘Zone of Influence’ prepared by the National Centre for Sustainable Coastal Management",
@@ -527,19 +596,6 @@
      "id": "7f2ba31f8d79",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Barracuda Networks opens five cybersecurity COEs in Karnataka",
-     "url": "https://www.thehindu.com/news/national/karnataka/barracuda-networks-opens-five-cybersecurity-coes-in-karnataka/article71369573.ece",
-     "summary": "",
-     "published": "2026-08-20T19:29:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/p74ilm/article71370856.ece/alternates/LANDSCAPE_1200/IMG_iStock-2214024616_2_1_HMFS1GKK.jpg",
-     "licence": "linkout",
-     "id": "e93093cb577e",
-     "category": "tech",
-     "category_label": "AI & technology"
     },
     {
      "title": "Noida workers’ agitation: plea in Allahabad High Court to club multiple FIRs",
@@ -555,64 +611,61 @@
      "category_label": "General"
     },
     {
-     "title": "NTA and NEP have only helped private coaching institutions flourish, says student leader Neha Bora",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/nta-and-nep-have-only-helped-private-coaching-institutions-flourish-says-student-leader-neha-bora/article71370349.ece",
-     "summary": "",
-     "published": "2026-08-20T19:27:37+00:00",
-     "source": "The Hindu",
+     "title": "To Wean Young Punjab From Drugs, Bhagwant Mann's New Recipe: Sports",
+     "url": "https://www.ndtv.com/india-news/to-wean-young-punjab-from-drugs-bhagwant-manns-new-recipe-sports-11938113#publisher=newsstand",
+     "summary": "The government has announced the fourth edition of \"Khedan Wattan Punjab Diyan\", positioning sports as a key weapon in its fight against drugs",
+     "published": "2026-08-20T18:56:25+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5r150i/article71370705.ece/alternates/LANDSCAPE_1200/BVR_5815.JPG",
+     "image": "https://c.ndtvimg.com/2026-07/du2g8r34_bhagwant-mann_625x300_16_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b7975b7d1b20",
+     "id": "3a0626713ee7",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Job card mela launched across Mysuru district to strengthen VB-G RAM G",
-     "url": "https://www.thehindu.com/news/national/karnataka/job-card-mela-launched-across-mysuru-district-to-strengthen-vb-g-ram-g/article71370230.ece",
-     "summary": "Campaign launched in all 255 gram panchayats",
-     "published": "2026-08-20T19:24:42+00:00",
-     "source": "The Hindu",
+     "title": "Video: Bengaluru Man Almost Run Over By Tanker After Bike Hits Pothole",
+     "url": "https://www.ndtv.com/india-news/video-bengaluru-rider-almost-run-over-by-tanker-after-bike-hits-pothole-11937368#publisher=newsstand",
+     "summary": "As he lost control, a tanker approaching from behind appeared to fail to notice the rider and subsequently ran over the motorcycle.",
+     "published": "2026-08-20T18:54:57+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://c.ndtvimg.com/2026-08/ai6d5gck_bengaluru-news_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "029ae049ae20",
+     "id": "6187655dd381",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Speeding Aston Martin Rams, Kills Woman In Hyderabad, MP's Son Charged",
+     "url": "https://www.ndtv.com/india-news/rajya-sabha-lingamaneni-rameshs-son-sanjush-booked-as-aston-martin-car-crash-kills-woman-in-hyderabad-11937375#publisher=newsstand",
+     "summary": "Car was being driven by Lingamaneni Ramesh's son Sanjush, 21, allegedly at high speed and in a rash manner when it struck Bharathi, a 26-year-old mall saleswoman",
+     "published": "2026-08-20T18:54:37+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/ncaq2vac_hyderabad-aston-martin-accident_650x400_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "c7c55bd15959",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "255 gram panchayats"
+      "21, allegedly at high speed"
      ]
     },
     {
-     "title": "Burqa-Clad Gang, Mystery Hand, And Rs 2-Crore Jewellery Gone In Maharashtra",
-     "url": "https://www.ndtv.com/india-news/burqa-clad-gang-steals-1-5-kg-gold-from-jewellery-store-in-chhatrapati-sambhajinagar-11938005#publisher=newsstand",
-     "summary": "CCTV footage showed gang, including four women wearing burqas and two men, took away 1.5-kg gold jewellery from shop in Chhatrapati Sambhajinagar",
-     "published": "2026-08-20T18:24:42+00:00",
+     "title": "Fungus In Vegetables, Expired Products Found At 36 Train Stations In Karnataka",
+     "url": "https://www.ndtv.com/india-news/fungus-in-vegetables-expired-products-found-at-36-train-stations-in-karnataka-11938102#publisher=newsstand",
+     "summary": "The team also noticed fungal growth on onions and vegetables, while chutney was found to be stored in plastic buckets that were not suitable for food storage",
+     "published": "2026-08-20T18:50:26+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/rr6c5mmo_chhatrapati-sambhajinagar-district_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2020-03/5p2n47h_indian-railways-journey-basket_625x300_19_March_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f7466792b741",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "Rs 2 -Crore Jewellery Gone"
-     ]
-    },
-    {
-     "title": "Over 1,200 Auto, Taxi Drivers Get Notice For Not Knowing Enough Marathi",
-     "url": "https://www.ndtv.com/india-news/over-1-200-auto-taxi-drivers-get-notice-for-not-knowing-enough-marathi-11937979#publisher=newsstand",
-     "summary": "After announcing in May that basic proficiency in Marathi is compulsory, the state government introduced a course in Marathi for the benefit of non-Marathi drivers. It had also set a deadline of August 15 for them to learn Marathi.",
-     "published": "2026-08-20T18:07:39+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2023-10/9em560hg_mumbai-kaali-peeli_625x300_28_October_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "22f34cd09c36",
+     "id": "80252c9b6ec4",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "1,200 Auto , Taxi Drivers Get"
+      "36 Train Stations In Karnataka"
      ]
     }
    ]
@@ -624,101 +677,86 @@
    "upsc": false,
    "items": [
     {
-     "title": "Walmart sees sales drop as US consumer spending retreats",
-     "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
-     "summary": "Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart's growth.",
-     "published": "2026-08-20T19:18:38+00:00",
+     "title": "US pummels Cuban economy with new sanctions on mining, construction",
+     "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+     "summary": "US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.",
+     "published": "2026-08-20T20:37:25+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a87169f-1787238047.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a874baa-1787251626.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "f8f85bc7a28a",
+     "id": "982b143754f5",
      "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$4  per gallon impact consumer"
-     ]
+     "category_label": "Money & scams"
     },
     {
-     "title": "University suspends US academic leading Jason Arday plagiarism accusations",
-     "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
-     "summary": "Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race.",
-     "published": "2026-08-20T19:13:53+00:00",
+     "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+     "summary": "At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.",
+     "published": "2026-08-20T20:36:51+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a873cae6c9c-1787247790.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787258175.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "9ea4d2c5d7a9",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-     "url": "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-     "summary": "Holders Arsenal face Coventry in the Premier League opener with doubts over Declan Rice and Bukayo Saka's match fitness.",
-     "published": "2026-08-20T19:12:56+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-29T180301Z_418469915_UP1EM5T1D0O79_RTRMADP_3_SOCCER-CHAMPIONS-PSG-ARS-PREVIEW-1787234728_4bb416-1787251428.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "e0b2bb707b45",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
-     "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
-     "summary": "Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.",
-     "published": "2026-08-20T19:11:44+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a872dad556d-1787243949.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "08fce72eee64",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-     "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-     "published": "2026-08-20T17:14:55+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "cedf7f5c0142",
+     "id": "d67931891224",
      "category": "crime",
      "category_label": "Crime",
      "figures": [
-      "17 people were killed"
+      "13 people in Colombia",
+      "13 people have been killed"
      ]
     },
     {
-     "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-     "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-     "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-     "published": "2026-08-20T06:08:02+00:00",
-     "source": "BBC News",
+     "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+     "summary": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
+     "published": "2026-08-20T20:32:13+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Mini-SV_Tibetan-protest-unity-law-NDelhi_WIDE-THUMB-1787257904.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "f340445905c0",
+     "id": "6fb5bccb1b97",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
+     "summary": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+     "published": "2026-08-20T20:28:44+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787257705.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "0916ed88bd02",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+     "title": "Dozens dead after boat capsizes in north-western Nigeria",
+     "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+     "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+     "published": "2026-08-20T20:27:36+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a98/live/09ab3ba0-9cd5-11f1-8a94-1b7813744e0b.jpg",
+     "licence": "linkout",
+     "id": "7e1d630fe606",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-     "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
-     "published": "2026-08-20T16:53:20+00:00",
+     "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
+     "published": "2026-08-20T20:08:29+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
      "licence": "linkout",
      "id": "8b65c32ad1d8",
-     "category": "crime",
-     "category_label": "Crime"
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -728,6 +766,19 @@
    "title": "Global Hotline",
    "upsc": false,
    "items": [
+    {
+     "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+     "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+     "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
+     "published": "2026-08-20T20:40:17+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b38/live/42cda0b0-9cd7-11f1-8c2c-67800657f112.jpg",
+     "licence": "linkout",
+     "id": "8fa036f59528",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
@@ -789,6 +840,38 @@
    "upsc": false,
    "items": [
     {
+     "title": "Deliveries at Keralam’s Kozhikode Government Women and Children’s Hospital decline",
+     "url": "https://www.thehindu.com/news/national/kerala/deliveries-at-keralams-kozhikode-government-women-and-childrens-hospital-decline/article71368209.ece",
+     "summary": "According to Health department, there were a total of 5,201 deliveries (2,729 normal and 2,472 C-section) in 2020-21. This number came down to 2,238 (1,387 normal and 851 C-section) in 2025-26. A large number of people from the urban areas of Kozhikode are dependant on the hospital",
+     "published": "2026-08-20T20:40:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/xtbjmy/article71368384.ece/alternates/LANDSCAPE_1200/preg.jpg",
+     "licence": "linkout",
+     "id": "9a549e4fa786",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5,201 deliveries (2,729 normal and 2,472",
+      "2,729 normal and 2,472 C-section)",
+      "21. This number came down",
+      "1,387 normal and 851 C-section)"
+     ]
+    },
+    {
+     "title": "Supreme Court scraps worker-friendly 1978 ‘industry’ precedent for new labour code",
+     "url": "https://www.thehindu.com/news/national/supreme-court-upholds-definition-of-industry-as-per-industrial-relations-code-2020/article71367986.ece",
+     "summary": "‘Industry’ under Industrial Relation Code will be interpreted in its ‘own text and context’, says top court; the 1978 verdict had enabled workers employed in a wide range of jobs to have a legal recourse, including collective bargaining, against unfair labour practices by employers",
+     "published": "2026-08-20T20:36:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/exrfit/article71368007.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
+     "licence": "linkout",
+     "id": "09871a0e4404",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Construction activities around Pallikaranai marshland can be regulated, not banned: TNSWA tells Madras High Court",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/construction-activities-around-pallikaranai-marshland-can-be-regulated-not-banned-tnswa-tells-madras-high-court/article71369543.ece",
      "summary": "It also submits a proposed interim ‘Zone of Influence’ prepared by the National Centre for Sustainable Coastal Management",
@@ -802,30 +885,33 @@
      "category_label": "General"
     },
     {
-     "title": "Barracuda Networks opens five cybersecurity COEs in Karnataka",
-     "url": "https://www.thehindu.com/news/national/karnataka/barracuda-networks-opens-five-cybersecurity-coes-in-karnataka/article71369573.ece",
+     "title": "NTA and NEP have only helped private coaching institutions flourish, says student leader Neha Bora",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/nta-and-nep-have-only-helped-private-coaching-institutions-flourish-says-student-leader-neha-bora/article71370349.ece",
      "summary": "",
-     "published": "2026-08-20T19:29:35+00:00",
+     "published": "2026-08-20T19:27:37+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/p74ilm/article71370856.ece/alternates/LANDSCAPE_1200/IMG_iStock-2214024616_2_1_HMFS1GKK.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/5r150i/article71370705.ece/alternates/LANDSCAPE_1200/BVR_5815.JPG",
      "licence": "linkout",
-     "id": "e93093cb577e",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Noida workers’ agitation: plea in Allahabad High Court to club multiple FIRs",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-agitationplea-in-allahabad-high-court-to-club-multiple-firs/article71370787.ece",
-     "summary": "",
-     "published": "2026-08-20T19:29:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yo3b3s/article71370836.ece/alternates/LANDSCAPE_1200/TH08-Shrimansi-GEGGC8P4M.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "7248b7247cfa",
+     "id": "b7975b7d1b20",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Job card mela launched across Mysuru district to strengthen VB-G RAM G",
+     "url": "https://www.thehindu.com/news/national/karnataka/job-card-mela-launched-across-mysuru-district-to-strengthen-vb-g-ram-g/article71370230.ece",
+     "summary": "Campaign launched in all 255 gram panchayats",
+     "published": "2026-08-20T19:24:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "029ae049ae20",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "255 gram panchayats"
+     ]
     },
     {
      "title": "Wider engagement with universities and youth can bring new, unconventional ideas: PM Modi after high-level meeting",
@@ -842,32 +928,6 @@
      "figures": [
       "19 pandemic and the West Asia"
      ]
-    },
-    {
-     "title": "When adventurism takes a dangerous turn",
-     "url": "https://www.thehindu.com/news/national/kerala/when-adventurism-takes-a-dangerous-turn/article71366638.ece",
-     "summary": "Wannabe adventurists perform motorbike stunts on roads, venture into unknown forests, and step into unfamiliar waterbodies, posing risk to their lives as well as others’. An attempt to read their thoughts and to elicit response from govt. authorities who usually bail out the adventure-seekers of distress",
-     "published": "2026-08-20T19:06:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/fgz4ac/article71370835.ece/alternates/LANDSCAPE_1200/6678_8_2_2022_17_37_5_5_RESCUEOPERATION_5.JPG",
-     "licence": "linkout",
-     "id": "527b2646095a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "School assembly news headlines today- August 21: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa0lUZDBYOGpLQkJTRzliVDV2X19pandDS1FzNWlQX2lYbGduRnVJeU9aYTdmQklpV3BvQllwQUMxSjVlWUdGQ2NGaUpOdjZKTEtZMGppMHlGU1ZDV2tyWXNsZDlRZ1c3eTFXLUg4NExqWU15T3RwVjJkY0E3TjdEVm5TMndHZlpMV19GWmFDSC0za3FEVWVLeExPcHVwOGRfQlF3TmdwN1lpVmVOZzcwbVZ0dEgwWXAtSG9xcFMtcV9CMEl1cFF5dFhwOUlmam82cnItNVhScmdiT09PSlBrUXFVZlI?oc=5",
-     "summary": "School assembly news headlines today- August 21: Top national, sports and world news curated for you India Today",
-     "published": "2026-08-20T11:32:35+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "3b4742108636",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "India celebrates National Panchayati Raj Day, strengthening local self | Akashvani News",
@@ -1440,23 +1500,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "England All-Rounder Sam Curran Out For Rest Of Home Season After Groin Surgery",
-     "url": "https://sports.ndtv.com/cricket/england-all-rounder-sam-curran-out-for-rest-of-home-season-after-groin-surgery-11935901#publisher=newsstand",
-     "summary": "England's seam-bowling all-rounder Sam Curran's hopes of making a Test comeback have been dealt a significant blow after he was ruled out for the remainder of the home season due to groin surgery.",
-     "published": "2026-08-20T18:45:18+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2024-06/r586tclg_sam-curran-afp_625x300_23_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "ea96ee21f7a0",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Badminton World Championships 2026: PV Sindhu Knocked Out, Satwiksairaj Rankireddy/Chirag Shetty In QF",
      "url": "https://sports.ndtv.com/badminton/badminton-world-championships-2026-live-updates-pv-sindhu-ayush-shetty-and-satwiksairaj-rankireddy-and-chirag-shetty-bwf-live-score-11935272#publisher=newsstand",
-     "summary": "Badminton World Championships 2026 Highlights: Former world No. 1 PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match",
-     "published": "2026-08-20T18:44:11+00:00",
+     "summary": "Badminton World Championships 2026 Highlights: PV Sindhu has been knocked out by an injured Wang Zhi Yi of China in a Round of 16 match",
+     "published": "2026-08-20T19:43:06+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-07/5sc2v9p8_pv-sindhu_625x300_23_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -1469,35 +1516,65 @@
      ]
     },
     {
-     "title": "More Than Rs 50 Crore: US Open Singles Champions To Earn Record Prize Money In 2026",
-     "url": "https://sports.ndtv.com/tennis/more-than-rs-50-crore-us-open-singles-champions-to-earn-record-prize-money-in-2026-11937033#publisher=newsstand",
-     "summary": "The U.S. Open singles champions will earn $5.5 million (approx. Rs 52.66 crore), the highest winnings in Grand Slam tennis history.",
-     "published": "2026-08-20T18:38:37+00:00",
+     "title": "Trailblazing Heptathlete Swapna Barman Fails Dope Test; Shivpal Singh Handed 10-Year Ban For 2nd Offence",
+     "url": "https://sports.ndtv.com/athletics/trailblazing-heptathlete-swapna-barman-fails-dope-test-shivpal-singh-handed-10-year-ban-for-2nd-offence-11936562#publisher=newsstand",
+     "summary": "India's first Asian Games gold-winning heptathlete Swapna Barman has been provisionally suspended by the National Anti Doping Agency (NADA) after testing positive for a banned substance and disciplinary proceedings against her will go ahead despite her recent decision to retire.",
+     "published": "2026-08-20T18:52:37+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/7vt4a3q_carlos-alcaraz-us-open-2025_625x300_21_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2018-11/k9e1c95k_swapna-barman_625x300_05_November_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4fdeb9300557",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "46f7e3c45d85",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "\"Maybe That Was Her Tactic\": PV Sindhu Raises Tough Questions On Wang Zhi Yi's Injury Break After World Championships Loss",
+     "url": "https://sports.ndtv.com/badminton/injury-or-strategy-pv-sindhus-candid-take-sparks-debate-after-loss-to-chinas-wang-zhi-yi-at-badminton-world-championships-11937396#publisher=newsstand",
+     "summary": "It was heartbreak for PV Sindhu at the Badminton World Championships as she went down in three games against China's Wang Zhi Yi, who prevailed 21-11, 15-21, 21-17 in a gripping Round-of-16 contest",
+     "published": "2026-08-20T18:51:43+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/p3viadag_pv-sindhu_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "982559eb7ce3",
+     "category": "sports",
+     "category_label": "Sports",
      "figures": [
-      "Rs 50 Crore : US Open Singles",
-      "$5.5 million (approx",
-      "Rs 52.66 crore ), the highest winnings"
+      "16 contest"
      ]
     },
     {
-     "title": "Mohun Bagan Set Up Durand Cup Final vs East Bengal After Beating NorthEast United In Penalties",
-     "url": "https://sports.ndtv.com/football/mohun-bagan-set-up-durand-cup-final-vs-east-bengal-after-beating-northeast-united-in-penalties-11938048#publisher=newsstand",
-     "summary": "Vishal Kaith turned hero once again, pulling off two crucial saves in the penalty shootout, to send Mohun Bagan Super Giant into the final of the Durand Cup",
-     "published": "2026-08-20T18:28:31+00:00",
+     "title": "India vs England Highlights, Women's Hockey World Cup 2026: Goals Disallowed, India Survive Scare To Advance",
+     "url": "https://sports.ndtv.com/hockey/india-vs-england-live-score-womens-hockey-world-cup-2026-ind-w-vs-eng-w-live-updates-navneet-kaur-lalremsiami-sushila-chanu-11935448#publisher=newsstand",
+     "summary": "India vs England Highlights, Women's Hockey World Cup 2026: Indian defended with their lives to thwart the English attack and eked out a 0-0 draw in their final Pool D match",
+     "published": "2026-08-20T18:50:53+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ut79mm1s_mohun-bagan_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/t42krid8_indian-hockey-team_625x300_20_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c228243c5f46",
-     "category": "general",
-     "category_label": "General"
+     "id": "96076612eacf",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "0 draw in their final Pool"
+     ]
+    },
+    {
+     "title": "FIFA Women's World Cup 2027 Schedule Unveiled; Brazil To Open Campaign At Maracana",
+     "url": "https://sports.ndtv.com/football/fifa-womens-world-cup-2027-schedule-unveiled-brazil-to-open-campaign-at-maracana-11936981#publisher=newsstand",
+     "summary": "FIFA on Thursday unveiled the match schedule for the FIFA Women's World Cup 2027, with all 64 fixtures set to be played across eight host cities in Brazil.",
+     "published": "2026-08-20T18:48:10+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/4lfkq728_brazil-football-team_625x300_21_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "78d0a1736da2",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "64 fixtures set to be played"
+     ]
     }
    ]
   },
