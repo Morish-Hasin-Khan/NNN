@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#101015" />
+    <meta name="description" content="NNN — live news across investigations, national and global affairs, business, technology and sport, with markets, gold and currency at a glance." />
+    <title>NNN — News. No Noise.</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Playfair+Display:opsz,wght@5..120,600;5..120,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="#top" aria-label="NNN home">NNN<span class="brand-dot">.</span></a>
+        <nav class="main-nav" aria-label="Main navigation">
+          <a class="active" href="#front"><span class="nav-icon hot">↯</span>Front Page</a>
+          <a href="#live"><span class="nav-icon live">●</span>Live</a>
+          <a href="#scandals"><span class="nav-icon scandals">!</span>Scandals</a>
+          <a href="#national-news"><span class="nav-icon national">IN</span>National</a>
+          <a href="#global-news"><span class="nav-icon world">◎</span>Global</a>
+          <a href="#global-hotline"><span class="nav-icon global-hotline">↯</span>Global Hotline</a>
+          <a href="#national-hotlines"><span class="nav-icon headlines">•</span>Headlines</a>
+          <a href="#upsc"><span class="nav-icon upsc">UP</span>UPSC</a>
+          <a href="#editorial"><span class="nav-icon editorial">✎</span>Editorial</a>
+          <a href="#podcasts"><span class="nav-icon podcasts">▶</span>Podcasts</a>
+          <a href="#business"><span class="nav-icon business">₹</span>Business</a>
+          <a href="#technology"><span class="nav-icon technology">AI</span>Tech</a>
+          <a href="#sports"><span class="nav-icon sports">○</span>Sports</a>
+          <a href="#culture"><span class="nav-icon culture">✦</span>Culture</a>
+          <a href="#health"><span class="nav-icon health">+</span>Health</a>
+        </nav>
+        <div class="header-actions">
+          <button class="icon-button" id="searchToggle" aria-label="Open search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.6"></circle><path d="m16 16 4.3 4.3"></path></svg>
+          </button>
+          <button class="icon-button saved-toggle" id="savedToggle" aria-label="Saved items">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4.6L6 21z"></path></svg>
+            <b class="saved-count" id="savedCount" hidden>0</b>
+          </button>
+          <button class="menu-button" id="menuToggle" aria-expanded="false" aria-controls="mobileNav">Menu</button>
+        </div>
+      </header>
+
+      <nav class="mobile-nav" id="mobileNav" aria-label="Mobile navigation">
+        <a href="#front">Front Page</a><a href="#live">Live</a><a href="#scandals">Scandals</a><a href="#global-news">Global News</a><a href="#global-hotline">Global Hotline</a><a href="#national-news">National News</a><a href="#national-hotlines">National Hotlines</a><a href="#upsc">UPSC Current Affairs</a><a href="#editorial">Editorial</a><a href="#podcasts">Podcasts</a><a href="#business">Business</a><a href="#technology">Technology</a><a href="#sports">Sports</a><a href="#culture">Culture</a><a href="#health">Health</a>
+      </nav>
+
+      <section class="search-panel" id="searchPanel" aria-label="Search NNN">
+        <label for="searchInput">Search NNN</label>
+        <div class="search-field"><input id="searchInput" type="search" placeholder="Topics, people, cases, sources…" autocomplete="off" /><kbd>Esc</kbd></div>
+        <div class="search-results" id="searchResults"></div>
+      </section>
+
+      <main id="top">
+        <section class="masthead">
+          <p class="eyebrow">Independent, live-curated news</p>
+          <h1>What the world is talking about.<br /><em>What it’s not saying.</em></h1>
+          <div class="masthead-meta">
+            <p><span id="todayDate">—</span> <span aria-hidden="true">•</span> <span id="feedStatus">Loading live feed…</span></p>
+            <button class="feed-button" id="personaliseButton">✦ Personalise my feed</button>
+          </div>
+        </section>
+
+        <!-- Live market strip -->
+        <section class="market-strip" aria-label="Live markets, metals and currency">
+          <div class="market-label"><span class="pulse" aria-hidden="true"></span>Markets</div>
+          <div class="market-viewport">
+            <div class="market-track" id="marketTrack">
+              <span class="quote skeleton">Loading live prices…</span>
+            </div>
+          </div>
+          <button class="market-refresh" id="marketRefresh" aria-label="Refresh market data" title="Refresh">⟳</button>
+        </section>
+
+        <!-- Live topic line -->
+        <section class="ticker" aria-label="Trending topics">
+          <span class="ticker-label">Now</span>
+          <div class="ticker-viewport"><div class="ticker-track" id="tickerTrack"><span>Live desk</span><span>Markets</span><span>Policy</span><span>Global</span></div></div>
+        </section>
+
+        <section class="feed-section front-section" id="front">
+          <div class="section-heading">
+            <div><p class="eyebrow">01 — What everyone is reading</p><h2>Front Page</h2></div>
+            <button class="for-you" id="forYouToggle" type="button" hidden>Top stories</button>
+          </div>
+          <div class="front-grid" data-render="front" data-section="front"></div>
+          <p class="accuracy-note">Ordered by the kind of story that draws attention — crime, conflict, politics, money, and on down — capped at three per category so one bad news day can't take over the page.</p>
+        </section>
+
+        <section class="feed-section live-section" id="live">
+          <div class="section-heading">
+            <div><p class="eyebrow">02 — Happening now</p><h2>Live<span class="live-dot" aria-hidden="true"></span></h2></div>
+            <span class="reviewed-label">Streams &amp; running blogs</span>
+          </div>
+          <div class="live-grid" data-render="live" data-section="live"></div>
+        </section>
+
+        <section class="feed-section scandals-section" id="scandals">
+          <div class="section-heading">
+            <div><p class="eyebrow">03 — Public interest</p><h2>Scandals &amp; Investigations</h2></div>
+            <div class="status-key" aria-label="Story status key"><span><i class="dot active"></i> Active</span><span><i class="dot inquiry"></i> Inquiry</span><span><i class="dot resolved"></i> Resolved</span></div>
+          </div>
+          <div class="investigation-layout" data-render="investigation" data-section="scandals"></div>
+          <p class="accuracy-note">NNN marks every case by its current evidence status. Allegations are not presented as fact.</p>
+        </section>
+
+        <section class="feed-section topic-section national-news-section" id="national-news">
+          <div class="section-heading"><div><p class="eyebrow">04 — Across the country</p><h2>National News</h2></div><a href="#all-news" class="text-link">Explore national news <span>→</span></a></div>
+          <div class="lead-grid" data-render="lead" data-section="national-news"></div>
+        </section>
+
+        <section class="feed-section topic-section global-news-section" id="global-news">
+          <div class="section-heading"><div><p class="eyebrow">05 — Beyond borders</p><h2>Global News</h2></div><a href="#all-news" class="text-link">Explore world news <span>→</span></a></div>
+          <div class="lead-grid" data-render="lead" data-section="global-news"></div>
+        </section>
+
+        <section class="feed-section topic-section global-hotline-section" id="global-hotline">
+          <div class="section-heading"><div><p class="eyebrow">06 — Essential global read</p><h2>Global Hotline</h2></div><a href="#all-news" class="text-link">See all headlines <span>→</span></a></div>
+          <div class="lead-grid" data-render="lead" data-section="global-hotline"></div>
+        </section>
+
+        <section class="feed-section topic-section national-hotline-section" id="national-hotlines">
+          <div class="section-heading"><div><p class="eyebrow">07 — Essential national read</p><h2>National Hotlines</h2></div><a href="#all-news" class="text-link">See all headlines <span>→</span></a></div>
+          <div class="lead-grid" data-render="lead" data-section="national-hotlines"></div>
+        </section>
+
+        <section class="feed-section topic-section upsc-section" id="upsc">
+          <div class="section-heading"><div><p class="eyebrow">08 — Study-ready every day</p><h2>UPSC Current Affairs</h2></div><span class="reviewed-label">✓ Government releases in full</span></div>
+          <div class="lead-grid" data-render="lead" data-section="upsc"></div>
+          <p class="accuracy-note">PIB and MEA releases open in full on NNN under the Government of India reproduction policy, with the source acknowledged. RBI and news-agency items link back to their publisher.</p>
+        </section>
+
+        <section class="feed-section editorial-section" id="editorial">
+          <div class="section-heading">
+            <div><p class="eyebrow">09 — Argument and analysis</p><h2>Editorial</h2></div>
+            <span class="reviewed-label">✓ Readable in full on NNN</span>
+          </div>
+          <div class="editorial-grid" data-render="editorial" data-section="editorial"></div>
+          <p class="accuracy-note">NNN originals plus openly licensed commentary. Every piece here is licensed for republication, credited to its author and carries its licence.</p>
+        </section>
+
+        <section class="feed-section podcasts-section" id="podcasts">
+          <div class="section-heading">
+            <div><p class="eyebrow">10 — Listen instead</p><h2>Podcasts</h2></div>
+            <span class="reviewed-label">Opens at the publisher</span>
+          </div>
+          <div class="podcast-grid" data-render="podcasts" data-section="podcasts"></div>
+          <p class="accuracy-note">Episodes play on the publisher's own site or app — NNN lists what's out today and links straight to it.</p>
+        </section>
+
+        <section class="feed-section all-news-section" id="all-news">
+          <div class="section-heading"><div><p class="eyebrow">11 — The wider picture</p><h2>All Other News</h2></div><button class="filter-button" id="filterButton">Filter <span>⌄</span></button></div>
+          <div class="news-columns" data-render="columns" data-section="mixed"></div>
+        </section>
+
+        <section class="newsletter">
+          <div><p class="eyebrow">The daily signal</p><h2>Smart reads. <em>No noise.</em></h2><p class="newsletter-note">A welcome note with the link, then a briefing shaped by the topics you pick.</p></div>
+          <form id="newsletterForm"><label class="sr-only" for="email">Email address</label><input id="email" type="email" placeholder="Your email address" required /><button class="button button-primary" type="submit">Get the briefing <span>→</span></button></form>
+          <p class="form-message" id="formMessage" aria-live="polite"></p>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <a class="brand" href="#top">NNN<span class="brand-dot">.</span></a>
+        <p>News. No Noise. <span>© 2026 NNN</span></p>
+        <div><a href="#top">Editorial standards</a><a href="#top">Privacy</a><a href="#top">About</a></div>
+      </footer>
+      <p class="source-strip" id="sourceStrip"></p>
+    </div>
+    <div class="saved-panel" id="savedPanel" role="dialog" aria-labelledby="savedTitle" hidden>
+      <div class="panel-backdrop" data-close></div>
+      <aside class="panel-body">
+        <header class="panel-bar">
+          <h2 id="savedTitle">Saved &amp; watch later</h2>
+          <button class="reader-close" id="savedClose" type="button" aria-label="Close saved">✕</button>
+        </header>
+        <div class="saved-list" id="savedList"></div>
+        <p class="panel-note">Kept in this browser only. Clearing site data clears the list.</p>
+      </aside>
+    </div>
+
+    <div class="prefs-dialog" id="prefsDialog" role="dialog" aria-labelledby="prefsTitle" hidden>
+      <div class="panel-backdrop" data-close></div>
+      <div class="prefs-card">
+        <p class="eyebrow">Your feed</p>
+        <h2 id="prefsTitle">What do you actually want to read?</h2>
+        <p id="prefsIntro">Pick what you want more of. You can change this whenever you like.</p>
+        <div class="pref-chips" id="prefsChips"></div>
+        <div class="prefs-actions">
+          <button class="button button-primary" id="prefsSave" type="button">Save my feed</button>
+          <button class="button button-quiet" id="prefsSkip" type="button">Not now</button>
+        </div>
+        <small>Stored on this device. Nothing is sent anywhere.</small>
+      </div>
+    </div>
+
+    <div class="reader" id="reader" role="dialog" aria-modal="true" aria-labelledby="readerTitle" hidden>
+      <div class="reader-backdrop" data-close></div>
+      <article class="reader-panel" tabindex="-1">
+        <header class="reader-bar">
+          <span class="reader-brand">NNN<span class="brand-dot">.</span></span>
+          <span class="reader-section" id="readerSection">Story</span>
+          <button class="reader-close" id="readerClose" type="button" aria-label="Close story">✕</button>
+        </header>
+        <div class="reader-body" id="readerBody"></div>
+      </article>
+    </div>
+    <div class="toast" id="toast" aria-live="polite"></div>
+    <script src="data/feed.js" onerror="console.info('no bundled feed')"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
