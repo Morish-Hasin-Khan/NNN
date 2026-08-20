@@ -91,9 +91,7 @@ def trim_words(text, limit):
 def norm_key(title):
     return re.sub(r"[^a-z0-9]+", "", (title or "").lower())[:70]
 
-
-def to_iso(value):
-    def is_recent(published, max_hours=MAX_NEWS_AGE_HOURS):
+ def is_recent(published, max_hours=MAX_NEWS_AGE_HOURS):
     """Return True only for articles published within the freshness window."""
     if not published:
         return False
@@ -111,7 +109,6 @@ def to_iso(value):
 
     except Exception:
         return False
-
 
 BYLINE_JUNK = re.compile(r"^(by|from)\s+", re.I)
 
@@ -217,7 +214,7 @@ def parse_rss(url, source_name=None, limit=12, licence="linkout", keep_body=Fals
 
     items = root.findall(".//item") or root.findall(".//atom:entry", NS)
     out = []
-    for node in items[:limit]:
+    for node in items:
         def text(tag):
             el = node.find(tag, NS) if ":" in tag else node.find(tag)
             return (el.text or "").strip() if el is not None and el.text else ""
@@ -232,6 +229,8 @@ def parse_rss(url, source_name=None, limit=12, licence="linkout", keep_body=Fals
                 link = el.get("href", "")
         summary = clean(text("description") or text("atom:summary"))
         published = to_iso(text("pubDate") or text("dc:date") or text("atom:published") or text("atom:updated"))
+        if not is_recent(published):
+            continue
 
         # byline: the journalist, where the publisher supplies one
         byline = clean(text("dc:creator") or text("author"))
