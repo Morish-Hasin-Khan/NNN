@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T13:46:19.725251+00:00",
+ "generated_at": "2026-08-23T14:54:40.909505+00:00",
  "podcasts_fetched_at": "2026-08-22T05:01:49.354101+00:00",
  "markets": [
   {
@@ -49,7 +49,8 @@
    "value": 194483.0,
    "change": 15633.0,
    "changePct": 8.74,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Indian",
-  "More Onam",
+  "Internal Onam",
+  "Body Parts",
   "Jazeera English",
   "News",
-  "High Court",
   "Bangladesh World",
-  "Focus Pralhad",
-  "Heavy Israeli",
-  "Dozens Thailand",
-  "Global Hotline"
+  "High Court",
+  "Original",
+  "Minister Karumuri",
+  "Tarique Rahman",
+  "Nordic Infantino"
  ],
  "sections": [
   {
@@ -102,58 +103,60 @@
    "upsc": false,
    "items": [
     {
-     "title": "Indian citizen arrested on charges of elder fraud, money laundering in US",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlJlNG9aUnNpLTA0eFBieHVtdC1wZFBQTWpQLUIxZDRSQUtaYmRCNzNvVV9jTFZtOWpSV19WcVZOWGM4SlFYQlBEVmd6OWloUm1SZVBldW1Xb3dLSldGTkZhbDJCTzVCWkdlVERVa3ljb0YwNDNxSmNWdzBVVU5KSU9PMUdWTE5TMFhwQnpHTjd0MVnSAZsBQVVfeXFMTnBBaEJwU0lOWDctSjlkOTV1ZHNtT1ljdmo4TjRNb3c2Q1NGazh2ZURyb0FGRGdFWktFb3Y5WDh5cEx4Z2t5R2xYREo1cS0tMGF1bzBENGFNTWgzRWZ6ZS1ETEh0OXJDVkw5b092NnN5THl1a3cySnBoTGlGNGVrWm8zSzR6azBEbmtNcER3UWZyUmgwMWp2ZzhVYms?oc=5",
-     "summary": "Indian citizen arrested on charges of elder fraud, money laundering in US Khaleej Times",
-     "published": "2026-08-23T08:42:08+00:00",
-     "source": "Khaleej Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "0dd1da3e61fb",
-     "also": [
-      {
-       "source": "Dallas Express",
-       "title": "Indian National Accused In $7.5M Elder Fraud Scheme Nabbed At Airport During Escape Bid",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajRLWTRxcEd0UHpxQXlONXppanRFc3hjc0NKNnhTQ0xCb3lOZTlUSS1Kd0NSaDQxUFRzdXpBZU5tcFAwVmEtNWh2eHZNYjczNFBOcnl6b3d2aE5kWWh0N0lSbEMxQlRpNWgtZ1JfcVc3RTZ1Uks3N1FsT3hUVjVZaHlWVEdacU14eF9EbTZMMUJLNVRkUzZ3LW83bVVJRmkwZks1T0VuWHR6eW1yMTJtTC1KR0JKSVFJQ1hj?oc=5",
-       "summary": "Indian National Accused In $7.5M Elder Fraud Scheme Nabbed At Airport During Escape Bid Dallas Express"
-      }
-     ],
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "More free parking spots identified to ease Onam rush in Kozhikode city",
-     "url": "https://www.thehindu.com/news/national/kerala/more-free-parking-spots-identified-to-ease-onam-rush-in-kozhikode-city/article71380978.ece",
-     "summary": "Police have identified 25 locations offering free parking for over 2,495 cars and deployed special squads to remove illegally parked vehicles. The measures are expected to ease pressure on the city’s roads during the festival season",
-     "published": "2026-08-23T13:37:44+00:00",
+     "title": "Internal inquiry on into police 'hosting' ED attack case-accused during official Onam celebrations",
+     "url": "https://www.thehindu.com/news/national/kerala/internal-probe-faults-museum-police-for-hosting-ed-attack-case-accused-during-official-onam-celebrations-in-keralam/article71380874.ece",
+     "summary": "Social media reels of CPI(M)’s former Corporation councillor and prime accused in the case, along with other accused, taking part in the celebrations in front of the station house went viral. The episode became a major source of embarrassment for the UDF government. Home Minister Ramesh Chennithala ordered an intelligence inquiry",
+     "published": "2026-08-23T14:41:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7dd2wo/article71381282.ece/alternates/LANDSCAPE_1200/80692_19_8_2026_20_17_37_1_20TVKZPARKING.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/4fwa4n/article71380903.ece/alternates/LANDSCAPE_1200/EDRAID_NH27EDraid18.JPG",
      "licence": "linkout",
-     "id": "0f5520185fc8",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "25 locations offering free parking",
-      "2,495 cars and deployed special squads"
-     ]
-    },
-    {
-     "title": "Three women killed, several injured in road accident near Madnal village",
-     "url": "https://www.thehindu.com/news/national/karnataka/three-women-killed-several-injured-in-road-accident-near-madnal-village/article71381106.ece",
-     "summary": "Sources say that the accident occurred when the driver lost control of the vehicle causing it to ram an electricity pole",
-     "published": "2026-08-23T13:35:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "f7fcc6dd9cee",
+     "id": "709aa79f0719",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National Hotlines"
+    },
+    {
+     "title": "Body Parts Were Found On Train. This Chennai House Held More Secrets",
+     "url": "https://www.ndtv.com/india-news/body-parts-were-found-on-train-this-chennai-house-held-more-secrets-11948348#publisher=newsstand",
+     "summary": "Local police searched the house in Chennai's Guduvancheri area and allegedly found decomposed body parts in a vessel.",
+     "published": "2026-08-23T14:40:57+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/s1vgi23o_chennai_625x300_23_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "afdecbe296bf",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Ex-Andhra Minister Karumuri Nageswara Rao Arrested In Alleged Liquor Scam",
+     "url": "https://www.ndtv.com/india-news/former-andhra-pradesh-minister-karumuri-nageswara-rao-arrested-in-andhra-pradesh-liquor-scam-11948378#publisher=newsstand",
+     "summary": "",
+     "published": "2026-08-23T14:16:45+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/2bgka7bs_karumuri-nageswara-rao_625x300_23_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "33f2ab27fb60",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+     "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
+     "summary": "In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.",
+     "published": "2026-08-23T13:37:50+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787492198.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "c57d04ddac32",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "Heavy Israeli air strike hits warehouse in central Gaza",
@@ -184,60 +187,99 @@
      "from_section": "Global News"
     },
     {
-     "title": "Focus on moral values in education, says Pralhad Joshi",
-     "url": "https://www.thehindu.com/news/national/karnataka/focus-on-moral-values-in-education-says-pralhad-joshi/article71380876.ece",
-     "summary": "The new National Education Policy has given additional emphasis on skill development and value-based teaching: Union Minister",
-     "published": "2026-08-23T13:36:37+00:00",
-     "source": "The Hindu",
+     "title": "School Assembly News Headlines (August 24): Top National, International, Sports News",
+     "url": "https://www.ndtv.com/education/school-assembly-news-headlines-august-24-top-national-international-sports-news-11948466#publisher=newsstand",
+     "summary": "Today's News Bulletin: Leaders are debating preventive healthcare as an economic-security priority while key institutions evolve.",
+     "published": "2026-08-23T14:29:30+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uk6v3s/article71381155.ece/alternates/LANDSCAPE_1200/cTH13-Devesh-BJGKRGD2GH9.3.jpg.jpg",
+     "image": "https://c.ndtvimg.com/2026-08/k8e74tsg_school-assembly-news-headlines_625x300_23_August_26.jpeg",
      "licence": "linkout",
-     "id": "d6d6ac538e44",
+     "id": "325d76dca669",
+     "also": [
+      {
+       "source": "The Indian Express",
+       "title": "Today News Headlines for School Assembly, August 24, 2026: Jaishankar to visit Russia ahead of BRICS leaders’ summit, Devdutt Padikkal bags second Test century in Colombo",
+       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNem5WMW9seXJPeXZQVU9DRzA4RWVBZXNwb3hVSHdWTTE2OUQyNDZ1cG9VVGIza3NBUTZUQm1oRjlscEJSaTFia2hpMmE0NHNlQlkwTER5OGQwTTk2b0dEazBDZGFLTVBlSS1SdzNCZFhqZjd6WTdILVh1dnR0Qy1kV25CSnF1UW5JZV9fT3AzdTdhenA3V2R6eGJndzJwVVVDY3NPVXcyT1VHSWw4aVE0QV9JcGxXRTYtcU9tLVRFVFl3RVFNNUd3cm5uNXFnclRTWjFxZDB5SV9HLVVhblY3QTg3cUMydHRKLWY5S3haRVFnRmc2dWMxV08xWllQTWRDdHk4a1l5bkU5bFBFSnBhV3Vvdi1vblZPTk5xS0lubGxSQVhyMEd3U2hDWWJvX1JlMURxZnBIOEZ0VU5fVnZEatIBxwJBVV95cUxOazREeTk0VVF5MGFYV2Rycml5STA1TVNmX0ctR0s4di1VRGN2NVhLb241LVFObmMyMXRwazVoeFJxNWdGOVE5ekF0QzFUQVREaUpncEtUcHNGai10SnI1UVhjZWgzOWs3TnYzakZwZnVzaFd2YTFrR2c5TEVBZGExYmdtVTlIVzdHejFYTF9zQktmd3FxRFVndE5GZ0MzTHN2UTU0S1d5SjM4Y1h2cnR3VF8xaE16LUdjOHpndmpQaERYUWc4czZfdW5UUkYyRzZGRmkyeTdWSnZmQ0ZINnZuclFFRDR2QmR4RC0zVnU5cm1jZWFwQi1uS1FyRjJmTVJpdHJCdnpxdHdnVDRSR0xDSUFPVWNPT3lyZEhFU0R1WXpOUGJfaFBQaHlrR0dtMUhVcjdBT1A5Ql84X0J3YXV2d0owTkY5TlE?oc=5",
+       "summary": "Today News Headlines for School Assembly, August 24, 2026: Jaishankar to visit Russia ahead of BRICS leaders’ summit, Devdutt Padikkal bags second Test century in Colombo The Indian Express"
+      },
+      {
+       "source": "NDTV Sports",
+       "title": "India vs Sri Lanka Highlights, 2nd Test Day 1: Devdutt Padikkal Shines With Ton As India Reach 300/5 At Stumps",
+       "url": "https://sports.ndtv.com/cricket/india-vs-sri-lanka-live-score-2nd-test-day-1-ind-vs-sl-live-updates-scorecard-colombo-test-match-result-11946082#publisher=newsstand",
+       "summary": "India vs Sri Lanka Highlights, 2nd Test Day 1: Devdutt Padikkal starred with yet another Test century on Sri Lankan soil as India capped off Day 1 of the second game on a high in Colombo."
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "BRICS Sports Ministers adopt Joint Declaration in Visakhapatnam",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/brics-sports-ministers-adopt-joint-declaration-in-visakhapatnam/article71381024.ece",
-     "summary": "Udaipur to host Sports Manufacturing Conclave in November; Ahmedabad to hold traditional and indigenous sports games on October 12 and 13",
-     "published": "2026-08-23T13:35:02+00:00",
-     "source": "The Hindu",
+     "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+     "url": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
+     "summary": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino's resignation amid FIFA crisis.",
+     "published": "2026-08-23T13:50:02+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i75plf/article71381279.ece/alternates/LANDSCAPE_1200/9604_23_8_2026_18_39_9_1_IMG_20260823_WA0033.JPG",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE-1785425233.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "4d95b0312475",
+     "id": "80bce3e73409",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Today News Headlines for School Assembly, August 24, 2026: Jaishankar to visit Russia ahead of BRICS leaders’ summit, Devdutt Padikkal bags second Test century in Colombo",
+     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNem5WMW9seXJPeXZQVU9DRzA4RWVBZXNwb3hVSHdWTTE2OUQyNDZ1cG9VVGIza3NBUTZUQm1oRjlscEJSaTFia2hpMmE0NHNlQlkwTER5OGQwTTk2b0dEazBDZGFLTVBlSS1SdzNCZFhqZjd6WTdILVh1dnR0Qy1kV25CSnF1UW5JZV9fT3AzdTdhenA3V2R6eGJndzJwVVVDY3NPVXcyT1VHSWw4aVE0QV9JcGxXRTYtcU9tLVRFVFl3RVFNNUd3cm5uNXFnclRTWjFxZDB5SV9HLVVhblY3QTg3cUMydHRKLWY5S3haRVFnRmc2dWMxV08xWllQTWRDdHk4a1l5bkU5bFBFSnBhV3Vvdi1vblZPTk5xS0lubGxSQVhyMEd3U2hDWWJvX1JlMURxZnBIOEZ0VU5fVnZEatIBxwJBVV95cUxOazREeTk0VVF5MGFYV2Rycml5STA1TVNmX0ctR0s4di1VRGN2NVhLb241LVFObmMyMXRwazVoeFJxNWdGOVE5ekF0QzFUQVREaUpncEtUcHNGai10SnI1UVhjZWgzOWs3TnYzakZwZnVzaFd2YTFrR2c5TEVBZGExYmdtVTlIVzdHejFYTF9zQktmd3FxRFVndE5GZ0MzTHN2UTU0S1d5SjM4Y1h2cnR3VF8xaE16LUdjOHpndmpQaERYUWc4czZfdW5UUkYyRzZGRmkyeTdWSnZmQ0ZINnZuclFFRDR2QmR4RC0zVnU5cm1jZWFwQi1uS1FyRjJmTVJpdHJCdnpxdHdnVDRSR0xDSUFPVWNPT3lyZEhFU0R1WXpOUGJfaFBQaHlrR0dtMUhVcjdBT1A5Ql84X0J3YXV2d0owTkY5TlE?oc=5",
+     "summary": "Today News Headlines for School Assembly, August 24, 2026: Jaishankar to visit Russia ahead of BRICS leaders’ summit, Devdutt Padikkal bags second Test century in Colombo The Indian Express",
+     "published": "2026-08-23T13:21:03+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "4752fee107fd",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
     },
     {
-     "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-     "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-     "published": "2026-08-23T12:56:43+00:00",
-     "source": "BBC News",
+     "title": "ED arrests former Minister Karumuri Nageswara Rao in liquor transport scam",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ed-arrests-former-minister-karumuri-nageswara-rao-in-liquor-transport-scam/article71381318.ece",
+     "summary": "YSRCP leaders condemn arrest as political vendetta; ED probes alleged ₹195-crore money laundering racket and tender irregularities",
+     "published": "2026-08-23T14:48:36+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/wzjort/article71381609.ece/alternates/LANDSCAPE_1200/06GNRAO-CIVIL%20SUPPLY%20MINISTER-01%203.JPG",
      "licence": "linkout",
-     "id": "c85614423c82",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "AI fraud costing victims millions of dollars",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
-     "summary": "Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.",
-     "published": "2026-08-23T13:08:06+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787490426.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "52ba3f9c74aa",
+     "id": "c34e29cdf7d7",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Ex-Andhra Minister Karumuri Nageswara Rao Arrested In Alleged Liquor Scam",
+       "url": "https://www.ndtv.com/india-news/former-andhra-pradesh-minister-karumuri-nageswara-rao-arrested-in-andhra-pradesh-liquor-scam-11948378#publisher=newsstand",
+       "summary": ""
+      }
+     ],
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Global News"
+     "from_section": "National News",
+     "figures": [
+      "₹195 -crore money laundering racket"
+     ]
+    },
+    {
+     "title": "KPSC ‘scam’ case: ED raids IAS officer Gangwar's premises in Karnataka, U.P.",
+     "url": "https://www.thehindu.com/news/national/kpsc-scam-case-ed-raids-ias-officer-gangwars-premises-in-karnataka-up/article71381000.ece",
+     "summary": "Officials said IAS officer Gyanendra Kumar Gangwar’s premises in Bengaluru and Uttar Pradesh's Bareilly were searched under the Prevention of Money Laundering Act (PMLA)",
+     "published": "2026-08-23T14:41:16+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/n8bjvi/article71381578.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-23%20at%2020.09.26.jpeg",
+     "licence": "linkout",
+     "id": "1286eabb5782",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
     },
     {
      "title": "Income Tax Department explains how to choose between ITR-3 and ITR-4: Quick checklist for taxpayers",
@@ -252,23 +294,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
-    },
-    {
-     "title": "Hexaware eyes $3 billion revenue by 2029, looks to capture SaaS market",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNREFadmYxX0xvWW5QU2hidWdwaFlOdVJIanBPaW1Ral85c25HaHBXWUQtUTJ0a3F5SDRLdUs4TGt1eGRaRjVoWVQ1dVZCYUZ6THBOUGZpOFhrWThxY3E1NWlJVEpPVHJqN0FIVlI2MDZMVVFabldjeDR3Y09OZ0NEek5EWmplVjdEUW4xMGxzeFVLTmQwRGZNRGlPdGlqdm5TTUNUVW1JY2J4eXVPbXVPaXFiMk9ZcHpXT3pySDI4ZFFwTmhTMlZBWl9qREZaV1J1QWh6ejBiZ0w0QUYyQllsSFNZODRMUlVUamZxZlpn0gHzAUFVX3lxTFAyaTRadkloaElpT3pHVkdmNGxUbXk4R3ozMElVN2YtZDVfTDNHajB5ckg4a1FLYmhTZ3ZoZXpEY3Z4TG0yWWFHWDloSFFHa1MxUFVjbWhSamlRT0NlcTZXS0ZOSlgzLUJtcTU3V3F4OHBobnlBSXp6SVdoak9uSnV2R3NQYWtvbXFWWDJMQUw3MmtodW9ILWNGMkYxaHZ0cVVDdGQtUVhXRUpuY2dubDhQUXotWS1xN0N2dXZYLUVXN0xHVFJGNE9MYTFycWJFV1Znc1NNNmVNRXNUdlpjMmFsT0Vrd1owVTZoOERtVHlrWWhNYw?oc=5",
-     "summary": "Hexaware eyes $3 billion revenue by 2029, looks to capture SaaS market Business Standard",
-     "published": "2026-08-23T12:45:39+00:00",
-     "source": "Business Standard",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "a25e7e916260",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Technology",
-     "figures": [
-      "$3 billion revenue by 2029, looks"
-     ]
     },
     {
      "title": "Wicker Man director's sons complete their late father's film trilogy",
@@ -288,6 +313,23 @@
      ]
     },
     {
+     "title": "2 Rescued, Search On For Other Crew Members Of Panama-Flagged Ship: Minister",
+     "url": "https://www.ndtv.com/india-news/2-rescued-search-on-for-other-crew-members-of-panama-flagged-ship-minister-11948421#publisher=newsstand",
+     "summary": "Sonowal said in a post on X that the rescued survivors are being given medical care and their rank and identity is being verified.",
+     "published": "2026-08-23T14:14:06+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/eed737_mv-ocean-winner_625x300_22_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "9408f488d497",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "National News",
+     "figures": [
+      "2 Rescued , Search"
+     ]
+    },
+    {
      "title": "Blue plaque unveiled at home of Paddington creator",
      "url": "https://www.bbc.co.uk/news/articles/c4g6g3547zlo?at_medium=RSS&at_campaign=rss",
      "summary": "Chairman of the Haslemere Society, Chris Harrison, says it was a day where \"friends were reunited\".",
@@ -300,6 +342,28 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Culture"
+    },
+    {
+     "title": "The Permanent Underclass: Artificial Intelligence and the Future of Work",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dmSmZhQkdiX283RVpER1RCWmtaWHdHTzh3OFEtUGhZYlgyNzJmMEhydGlEVC1NbkYxcC1jMFhsbE9OLXozSkkzc3VmbHRaWWxJOU5vb3FRby1SUVB2bEJYRFh3T2JRYnpZdUFQQTNRaHVyUmZyWVRpX0liVWpHQkxBV3Rsa0RDeHZBUnV4ZlpYTFlJVmFmSklnU18yMVJrQmNlY0VB?oc=5",
+     "summary": "The Permanent Underclass: Artificial Intelligence and the Future of Work www.lvivherald.com",
+     "published": "2026-08-23T14:50:30+00:00",
+     "source": "www.lvivherald.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "16e4cefbd4fb",
+     "also": [
+      {
+       "source": "foundermagazine.in",
+       "title": "Sam Altman: OpenAI CEO, AI Visionary and Leader Shaping the Future of Artificial Intelligence",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVVlheGNwME1wX1FUQzJIQkJoMllHcHhXdEVkZTIwSTRhNXdFc1Z6TkNMeTJVYXpYRUJtUENrWUZPenloS2RUMTdBLXBBUFE4aU9NWEtVTFR6dlBpYThsemNOeWU4eXdzdlhzdEVuWQ?oc=5",
+       "summary": "Sam Altman: OpenAI CEO, AI Visionary and Leader Shaping the Future of Artificial Intelligence foundermagazine.in"
+      }
+     ],
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
     },
     {
      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
@@ -330,32 +394,36 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "Sam Altman: OpenAI CEO, AI Visionary and Leader Shaping the Future of Artificial Intelligence",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVVlheGNwME1wX1FUQzJIQkJoMllHcHhXdEVkZTIwSTRhNXdFc1Z6TkNMeTJVYXpYRUJtUENrWUZPenloS2RUMTdBLXBBUFE4aU9NWEtVTFR6dlBpYThsemNOeWU4eXdzdlhzdEVuWQ?oc=5",
-     "summary": "Sam Altman: OpenAI CEO, AI Visionary and Leader Shaping the Future of Artificial Intelligence foundermagazine.in",
-     "published": "2026-08-22T18:45:10+00:00",
-     "source": "foundermagazine.in",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "24824340dd76",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Four-Time IPL Champion Announces Retirement, Rinku Singh Says \"Everything Has Been Great In Bhaiya's Career\"",
-     "url": "https://sports.ndtv.com/cricket/four-time-ipl-champion-announces-retirement-rinku-singh-says-everything-has-been-great-in-bhaiyas-career-11947697#publisher=newsstand",
-     "summary": "Visibly emotional and fighting back tears, veteran Indian leg-spinner Karn Sharma announced his retirement from all formats of competitive cricket.",
-     "published": "2026-08-23T13:14:15+00:00",
+     "title": "Rishabh Pant To Bat Again After Injury In 2nd Sri Lanka Test? India Coach Provides Major Update",
+     "url": "https://sports.ndtv.com/cricket/rishabh-pant-to-bat-against-after-injury-in-2nd-sri-lanka-test-india-coach-provides-major-update-11948301#publisher=newsstand",
+     "summary": "Indian cricket team batting coach Sitanshu Kotak provided a huge update on Rishabh Pant after the wicket-keeper batter left the field retired hurt on Day 1 of the second Test match against Sri Lanka in Colombo.",
+     "published": "2026-08-23T14:02:36+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://i.ndtvimg.com/i/2017-05/karn-sharma-celebrates-mumbai-indians-bcci_806x605_71495281159.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/erub0slo_cs_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "bb7bb6fee16a",
+     "id": "952a689400ec",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
+    },
+    {
+     "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
+     "url": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+     "summary": "Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?",
+     "published": "2026-08-23T13:33:39+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14148075-1787153596.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "6d76d563faca",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News",
+     "figures": [
+      "27 Premier League season",
+      "30 years"
+     ]
     },
     {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India",
@@ -370,23 +438,6 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "'Represented India In 3 Nations': Ex Envoy After Details Don't Match In SIR",
-     "url": "https://www.ndtv.com/india-news/represented-india-in-3-nations-ex-envoy-navdeep-suri-after-details-dont-match-in-sir-11947972#publisher=newsstand",
-     "summary": "This is not the first instance when a person who has been in public life found their name missing or with some error in respect to the SIR list",
-     "published": "2026-08-23T11:47:53+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/rtcr5reo_navdeep-suri_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "93d40132bb06",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News",
-     "figures": [
-      "3 Nations ': Ex Envoy"
-     ]
     },
     {
      "title": "No High Court judge-monitored probe into Chester Hills project: Himachal government",
@@ -416,7 +467,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-23T13:46:08.214575+00:00",
+     "published": "2026-08-23T14:54:27.989309+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -427,7 +478,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-23T13:46:08.214589+00:00",
+     "published": "2026-08-23T14:54:27.989329+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -438,7 +489,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-23T13:46:08.214594+00:00",
+     "published": "2026-08-23T14:54:27.989333+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -449,7 +500,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-23T13:46:08.214599+00:00",
+     "published": "2026-08-23T14:54:27.989341+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -460,7 +511,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-23T13:46:08.214603+00:00",
+     "published": "2026-08-23T14:54:27.989345+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -471,27 +522,10 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-23T13:46:08.214607+00:00",
+     "published": "2026-08-23T14:54:27.989349+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
-    },
-    {
-     "title": "East Bengal vs Mohun Bagan LIVE Score, Durand Cup Final: East Bengal On Verge Of Glory After Edmund's Stunning Hattrick | EBFC 4-1 MBSG",
-     "url": "https://sports.ndtv.com/football/east-bengal-vs-mohun-bagan-live-score-durand-cup-2026-final-kolkata-derby-live-updates-ebfc-vs-mbsg-full-scorecard-11947773#publisher=newsstand",
-     "summary": "East Bengal vs Mohun Bagan, Durand Cup Final LIVE Score Updates: East Bengal are leading Mohun Bagan 4-1 in a thrilling first half of their Durand Cup 2026 final.",
-     "published": "2026-08-23T13:17:31+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/gq9devfo_east-bengal_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "5770c6b7f08d",
-     "kind": "liveblog",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1 MBSG"
-     ]
     }
    ]
   },
@@ -501,19 +535,6 @@
    "title": "Scandals & Investigations",
    "upsc": false,
    "items": [
-    {
-     "title": "No High Court judge-monitored probe into Chester Hills project: Himachal government",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0RzQU5vU3BkYVBMQVNiNzZ6ZU5za2FRWm5fR2wwTi1SUWVxUDRuZ0RrN1c0QTVRTnhVdTdKUU5jSllBNWtlSUxsU2JnQUZ6alpHWVlER1F0QklaaW8wVXR5aHdFa1IxQkFNUFMtdWUyVTNfcnRhZUpaVEN2bU02cXA3U2R6V05aX1NpcWZ3S1V2WWVmU1RONTYyeDVwODF1bU5FRmxaME16eFN1UXJlQXM1X1lQV2fSAb4BQVVfeXFMUEFTcFpFNkhSelVVbVRvSW9TV2Z1TlJZdkNlMllVTGVnSk1Ka3F3VWt5OHFKNk1qRmZlVnVPak1MZm5WWl9EUFYxRHdudnhuS0RiUENMcXJBTk1vT2R5YTA5b2NpWUIxMEhCOHdkcndmNUdIQUlPcmJuMUhpcHBPMGlNcTJjYVM5N1BZbEh1YmVOZUlxazJZaVBNWTVkeE5MTG42UlpVY0p0bmdhRzA5RmQ3Ty1qR0l3Qi10MjByZw?oc=5",
-     "summary": "No High Court judge-monitored probe into Chester Hills project: Himachal government The Indian Express",
-     "published": "2026-08-22T16:25:56+00:00",
-     "source": "The Indian Express",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9d495a91ffcc",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
     {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
@@ -526,6 +547,19 @@
      "id": "44ac1cfc8520",
      "category": "sports",
      "category_label": "Sports"
+    },
+    {
+     "title": "No High Court judge-monitored probe into Chester Hills project: Himachal government",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0RzQU5vU3BkYVBMQVNiNzZ6ZU5za2FRWm5fR2wwTi1SUWVxUDRuZ0RrN1c0QTVRTnhVdTdKUU5jSllBNWtlSUxsU2JnQUZ6alpHWVlER1F0QklaaW8wVXR5aHdFa1IxQkFNUFMtdWUyVTNfcnRhZUpaVEN2bU02cXA3U2R6V05aX1NpcWZ3S1V2WWVmU1RONTYyeDVwODF1bU5FRmxaME16eFN1UXJlQXM1X1lQV2fSAb4BQVVfeXFMUEFTcFpFNkhSelVVbVRvSW9TV2Z1TlJZdkNlMllVTGVnSk1Ka3F3VWt5OHFKNk1qRmZlVnVPak1MZm5WWl9EUFYxRHdudnhuS0RiUENMcXJBTk1vT2R5YTA5b2NpWUIxMEhCOHdkcndmNUdIQUlPcmJuMUhpcHBPMGlNcTJjYVM5N1BZbEh1YmVOZUlxazJZaVBNWTVkeE5MTG42UlpVY0p0bmdhRzA5RmQ3Ty1qR0l3Qi10MjByZw?oc=5",
+     "summary": "No High Court judge-monitored probe into Chester Hills project: Himachal government The Indian Express",
+     "published": "2026-08-22T16:25:56+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "9d495a91ffcc",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
     },
     {
      "title": "What are the U.S.’s latest allegations against India? | Explained",
@@ -541,20 +575,17 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Indian National Accused In $7.5M Elder Fraud Scheme Nabbed At Airport During Escape Bid",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajRLWTRxcEd0UHpxQXlONXppanRFc3hjc0NKNnhTQ0xCb3lOZTlUSS1Kd0NSaDQxUFRzdXpBZU5tcFAwVmEtNWh2eHZNYjczNFBOcnl6b3d2aE5kWWh0N0lSbEMxQlRpNWgtZ1JfcVc3RTZ1Uks3N1FsT3hUVjVZaHlWVEdacU14eF9EbTZMMUJLNVRkUzZ3LW83bVVJRmkwZks1T0VuWHR6eW1yMTJtTC1KR0JKSVFJQ1hj?oc=5",
-     "summary": "Indian National Accused In $7.5M Elder Fraud Scheme Nabbed At Airport During Escape Bid Dallas Express",
-     "published": "2026-08-22T14:31:30+00:00",
-     "source": "Dallas Express",
+     "title": "Indian citizen arrested on charges of elder fraud, money laundering in US",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlJlNG9aUnNpLTA0eFBieHVtdC1wZFBQTWpQLUIxZDRSQUtaYmRCNzNvVV9jTFZtOWpSV19WcVZOWGM4SlFYQlBEVmd6OWloUm1SZVBldW1Xb3dLSldGTkZhbDJCTzVCWkdlVERVa3ljb0YwNDNxSmNWdzBVVU5KSU9PMUdWTE5TMFhwQnpHTjd0MVnSAZsBQVVfeXFMTnBBaEJwU0lOWDctSjlkOTV1ZHNtT1ljdmo4TjRNb3c2Q1NGazh2ZURyb0FGRGdFWktFb3Y5WDh5cEx4Z2t5R2xYREo1cS0tMGF1bzBENGFNTWgzRWZ6ZS1ETEh0OXJDVkw5b092NnN5THl1a3cySnBoTGlGNGVrWm8zSzR6azBEbmtNcER3UWZyUmgwMWp2ZzhVYms?oc=5",
+     "summary": "Indian citizen arrested on charges of elder fraud, money laundering in US Khaleej Times",
+     "published": "2026-08-23T08:42:08+00:00",
+     "source": "Khaleej Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "1c5b809c4772",
+     "id": "0dd1da3e61fb",
      "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "$7.5 M Elder Fraud Scheme"
-     ]
+     "category_label": "Crime"
     }
    ]
   },
@@ -565,129 +596,83 @@
    "upsc": false,
    "items": [
     {
-     "title": "More free parking spots identified to ease Onam rush in Kozhikode city",
-     "url": "https://www.thehindu.com/news/national/kerala/more-free-parking-spots-identified-to-ease-onam-rush-in-kozhikode-city/article71380978.ece",
-     "summary": "Police have identified 25 locations offering free parking for over 2,495 cars and deployed special squads to remove illegally parked vehicles. The measures are expected to ease pressure on the city’s roads during the festival season",
-     "published": "2026-08-23T13:37:44+00:00",
+     "title": "Original reporting key to regaining public trust in media: N. Ram",
+     "url": "https://www.thehindu.com/news/national/telangana/original-reporting-key-to-regaining-public-trust-in-media-n-ram/article71381481.ece",
+     "summary": "",
+     "published": "2026-08-23T14:49:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7dd2wo/article71381282.ece/alternates/LANDSCAPE_1200/80692_19_8_2026_20_17_37_1_20TVKZPARKING.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/mqx0ck/article71381601.ece/alternates/LANDSCAPE_1200/23082026_%20Federation%20of%20Press%20Clubs%20National%20Conclave%20%2006.jpg",
      "licence": "linkout",
-     "id": "0f5520185fc8",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "25 locations offering free parking",
-      "2,495 cars and deployed special squads"
-     ]
-    },
-    {
-     "title": "Focus on moral values in education, says Pralhad Joshi",
-     "url": "https://www.thehindu.com/news/national/karnataka/focus-on-moral-values-in-education-says-pralhad-joshi/article71380876.ece",
-     "summary": "The new National Education Policy has given additional emphasis on skill development and value-based teaching: Union Minister",
-     "published": "2026-08-23T13:36:37+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uk6v3s/article71381155.ece/alternates/LANDSCAPE_1200/cTH13-Devesh-BJGKRGD2GH9.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "d6d6ac538e44",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Mangattu Bhattathiri sets sail for Aranmula",
-     "url": "https://www.thehindu.com/news/national/kerala/mangattu-bhattathiri-sets-sail-for-aranmula/article71380925.ece",
-     "summary": "A Churulan boat carrying Mr. Bhattathiri and a team of oarsmen began the journey around 11.45 a.m. and is scheduled to reach Aranmula on the eve of Thiruvonam",
-     "published": "2026-08-23T13:36:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/a13ytj/article71381214.ece/alternates/LANDSCAPE_1200/80687_23_8_2026_18_38_39_1_IMG_20260823_183723.JPG",
-     "licence": "linkout",
-     "id": "7ec13745a15a",
+     "id": "35bdbbb6683c",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "BJP MLA urges govt. to cancel all 4,350 MUDA sites allotted under 50:50 scheme",
-     "url": "https://www.thehindu.com/news/national/karnataka/bjp-mla-urges-govt-to-cancel-all-4350-muda-sites-allotted-under-5050-scheme/article71380962.ece",
-     "summary": "",
-     "published": "2026-08-23T13:36:03+00:00",
+     "title": "ED arrests former Minister Karumuri Nageswara Rao in liquor transport scam",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ed-arrests-former-minister-karumuri-nageswara-rao-in-liquor-transport-scam/article71381318.ece",
+     "summary": "YSRCP leaders condemn arrest as political vendetta; ED probes alleged ₹195-crore money laundering racket and tender irregularities",
+     "published": "2026-08-23T14:48:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/u0zdyi/article71381238.ece/alternates/LANDSCAPE_1200/5964_23_8_2026_18_47_34_1_MLASRIVATSAADDRESSINGAPRESSCONFERENCEINMYSURU.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/wzjort/article71381609.ece/alternates/LANDSCAPE_1200/06GNRAO-CIVIL%20SUPPLY%20MINISTER-01%203.JPG",
      "licence": "linkout",
-     "id": "2f8d12c69178",
+     "id": "c34e29cdf7d7",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Ex-Andhra Minister Karumuri Nageswara Rao Arrested In Alleged Liquor Scam",
+       "url": "https://www.ndtv.com/india-news/former-andhra-pradesh-minister-karumuri-nageswara-rao-arrested-in-andhra-pradesh-liquor-scam-11948378#publisher=newsstand",
+       "summary": ""
+      }
+     ],
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹195 -crore money laundering racket"
+     ]
+    },
+    {
+     "title": "Telangana PGLCET admissions: 967 LLM seats allotted in first phase",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-pglcet-admissions-967-llm-seats-allotted-in-first-phase/article71381487.ece",
+     "summary": "",
+     "published": "2026-08-23T14:48:22+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "86f5f71fcbf0",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Case filed against event organisers, university management after sound box collapse injures five during pre-release event of Yash’s movie in Hyderabad",
+     "url": "https://www.thehindu.com/news/national/telangana/engineering-student-fractures-leg-as-stage-equipment-collapses-at-yashs-toxic-event/article71380484.ece",
+     "summary": "",
+     "published": "2026-08-23T14:44:27+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/x8gusg/article71380482.ece/alternates/LANDSCAPE_1200/IMG_3241.jpeg",
+     "licence": "linkout",
+     "id": "a12558b1acb5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Gatherings Curbed In Noida Ahead Of Eid, Janmashtami, NEET PG Exam",
+     "url": "https://www.ndtv.com/india-news/gatherings-curbed-in-noida-ahead-of-eid-janmashtami-neet-pg-exam-11948431#publisher=newsstand",
+     "summary": "Section 163 will remain in force covering the entire Gautam Buddh Nagar Commissionerate till September 4, in view of various festivals and the upcoming NEET PG examination.",
+     "published": "2026-08-23T14:16:27+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2019-06/7li51288_noida-police-twitter-650_625x300_29_June_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "7eb739a4ca25",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "4,350 MUDA sites allotted under 50:50",
-      "50 scheme"
+      "163 will remain in force covering"
      ]
-    },
-    {
-     "title": "Political parties urged to empower youth beyond party lines",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/political-parties-urged-to-empower-youth-beyond-party-lines/article71381066.ece",
-     "summary": "",
-     "published": "2026-08-23T13:35:54+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ozribl/article71381251.ece/alternates/LANDSCAPE_1200/DSC_6954.JPG",
-     "licence": "linkout",
-     "id": "61c0573ffdb7",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "\"Kitab Ek, Padhe Anek\": Audio, Braille, Indian Sign Language In One Textbook",
-     "url": "https://www.ndtv.com/education/kitab-ek-padhe-anek-audio-braille-indian-sign-language-in-one-textbook-11948105#publisher=newsstand",
-     "summary": "Designed to support diverse learning needs, KEPA embeds audio, print, tactile, Braille, Indian Sign Language (ISL) and visual cues within a single textbook",
-     "published": "2026-08-23T12:34:14+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/rkbs6lj4_education-ministry_625x300_23_August_26.jpeg",
-     "licence": "linkout",
-     "id": "2ce07f0af3d0",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "No End To Assam-Meghalaya Cab Crisis, Vehicles Stopped At Shillong Border",
-     "url": "https://www.ndtv.com/india-news/no-end-to-assam-meghalaya-cab-crisis-vehicles-stopped-at-shillong-border-11948100#publisher=newsstand",
-     "summary": "The members claimed that the Meghalaya government had failed to take their concerns seriously amid the tensions that have risen between commercial vehicle operators from Assam and Meghalaya.",
-     "published": "2026-08-23T12:32:55+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/bitiikhk_assam-meghalaya_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "74c71254caa6",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "After China, Microdrama Mania Hits India. Gen Z Driving Demand For 'Fast Food Of Entertainment'",
-     "url": "https://www.ndtv.com/india-news/china-microdrama-mania-hits-india-gen-z-driving-demand-fast-food-of-entertainment-11940141#publisher=newsstand",
-     "summary": "India is witnessing the early stages of a microdrama boom. And much of the demand is coming from younger viewers.",
-     "published": "2026-08-23T11:57:57+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/oguskvbs_microdrama_625x300_21_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a93008786269",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Deepender Hooda's U-Turn After Criticism Over Sajjan Kumar Remark",
-     "url": "https://www.ndtv.com/india-news/deepender-hoodas-u-turn-after-criticism-over-sajjan-kumar-remark-11947970#publisher=newsstand",
-     "summary": "The Lok Sabha MP said he was being attacked for words he didn't utter.",
-     "published": "2026-08-23T11:51:01+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://i.ndtvimg.com/i/2015-05/deepender-hooda_650x400_61432133922.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "7bcb8159fa5d",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -698,80 +683,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
-     "summary": "Heavy Israeli air strike hits warehouse in central Gaza",
-     "published": "2026-08-23T13:20:57+00:00",
+     "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
+     "url": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
+     "summary": "India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.",
+     "published": "2026-08-23T14:17:18+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787491242.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-02-17T114849Z_591341353_RC2NNJAJ1WPO_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION-1787480278.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "4cf31a4e1517",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Dozens of attacks in southern Thailand wound three people",
-     "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
-     "summary": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
-     "published": "2026-08-23T13:08:37+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8ad9fa1814-1787484666.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "f94e98ac98af",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-       "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-       "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
-      }
-     ],
+     "id": "4e868a2d1673",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "51 attacks late on Saturday"
-     ]
+     "category_label": "General"
     },
     {
-     "title": "AI fraud costing victims millions of dollars",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
-     "summary": "Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.",
-     "published": "2026-08-23T13:08:06+00:00",
+     "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+     "url": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
+     "summary": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino's resignation amid FIFA crisis.",
+     "published": "2026-08-23T13:50:02+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787490426.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE-1785425233.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "52ba3f9c74aa",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-     "url": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
-     "summary": "The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' that would 'split' the country.",
-     "published": "2026-08-23T12:19:12+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8acc62-1787481186.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "b419e45d8d6d",
+     "id": "80bce3e73409",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "DR Congo miners risk Ebola to make a living",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
-     "summary": "DR Congo miners risk Ebola to make a living",
-     "published": "2026-08-23T12:13:20+00:00",
+     "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+     "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
+     "summary": "In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.",
+     "published": "2026-08-23T13:37:50+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Congo-horizontal-thumb-1787487037.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787492198.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "3747cde2a5de",
-     "category": "general",
-     "category_label": "General"
+     "id": "c57d04ddac32",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -785,6 +733,19 @@
      "id": "f4c36d47d3dd",
      "category": "crime",
      "category_label": "Crime"
+    },
+    {
+     "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+     "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+     "published": "2026-08-23T12:56:43+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+     "licence": "linkout",
+     "id": "c85614423c82",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
@@ -832,32 +793,6 @@
      "id": "1c70cb419c67",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "Fourteen killed in strike on Myanmar monastery",
-     "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-     "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-     "published": "2026-08-22T13:48:06+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
-     "licence": "linkout",
-     "id": "347841731a2a",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-     "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-     "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-     "published": "2026-08-22T14:35:11+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
-     "licence": "linkout",
-     "id": "47b46dfdfc59",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -868,76 +803,74 @@
    "upsc": false,
    "items": [
     {
-     "title": "More free parking spots identified to ease Onam rush in Kozhikode city",
-     "url": "https://www.thehindu.com/news/national/kerala/more-free-parking-spots-identified-to-ease-onam-rush-in-kozhikode-city/article71380978.ece",
-     "summary": "Police have identified 25 locations offering free parking for over 2,495 cars and deployed special squads to remove illegally parked vehicles. The measures are expected to ease pressure on the city’s roads during the festival season",
-     "published": "2026-08-23T13:37:44+00:00",
+     "title": "Original reporting key to regaining public trust in media: N. Ram",
+     "url": "https://www.thehindu.com/news/national/telangana/original-reporting-key-to-regaining-public-trust-in-media-n-ram/article71381481.ece",
+     "summary": "",
+     "published": "2026-08-23T14:49:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7dd2wo/article71381282.ece/alternates/LANDSCAPE_1200/80692_19_8_2026_20_17_37_1_20TVKZPARKING.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/mqx0ck/article71381601.ece/alternates/LANDSCAPE_1200/23082026_%20Federation%20of%20Press%20Clubs%20National%20Conclave%20%2006.jpg",
      "licence": "linkout",
-     "id": "0f5520185fc8",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "25 locations offering free parking",
-      "2,495 cars and deployed special squads"
-     ]
-    },
-    {
-     "title": "Focus on moral values in education, says Pralhad Joshi",
-     "url": "https://www.thehindu.com/news/national/karnataka/focus-on-moral-values-in-education-says-pralhad-joshi/article71380876.ece",
-     "summary": "The new National Education Policy has given additional emphasis on skill development and value-based teaching: Union Minister",
-     "published": "2026-08-23T13:36:37+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uk6v3s/article71381155.ece/alternates/LANDSCAPE_1200/cTH13-Devesh-BJGKRGD2GH9.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "d6d6ac538e44",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Mangattu Bhattathiri sets sail for Aranmula",
-     "url": "https://www.thehindu.com/news/national/kerala/mangattu-bhattathiri-sets-sail-for-aranmula/article71380925.ece",
-     "summary": "A Churulan boat carrying Mr. Bhattathiri and a team of oarsmen began the journey around 11.45 a.m. and is scheduled to reach Aranmula on the eve of Thiruvonam",
-     "published": "2026-08-23T13:36:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/a13ytj/article71381214.ece/alternates/LANDSCAPE_1200/80687_23_8_2026_18_38_39_1_IMG_20260823_183723.JPG",
-     "licence": "linkout",
-     "id": "7ec13745a15a",
+     "id": "35bdbbb6683c",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Obscene QR code stickers found near Garuda Mall; Hyderabad man arrested",
-     "url": "https://www.thehindu.com/news/national/karnataka/obscene-qr-code-stickers-found-near-garuda-mall-hyderabad-man-arrested/article71381030.ece",
+     "title": "ED arrests former Minister Karumuri Nageswara Rao in liquor transport scam",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ed-arrests-former-minister-karumuri-nageswara-rao-in-liquor-transport-scam/article71381318.ece",
+     "summary": "YSRCP leaders condemn arrest as political vendetta; ED probes alleged ₹195-crore money laundering racket and tender irregularities",
+     "published": "2026-08-23T14:48:36+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/wzjort/article71381609.ece/alternates/LANDSCAPE_1200/06GNRAO-CIVIL%20SUPPLY%20MINISTER-01%203.JPG",
+     "licence": "linkout",
+     "id": "c34e29cdf7d7",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹195 -crore money laundering racket"
+     ]
+    },
+    {
+     "title": "Telangana PGLCET admissions: 967 LLM seats allotted in first phase",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-pglcet-admissions-967-llm-seats-allotted-in-first-phase/article71381487.ece",
      "summary": "",
-     "published": "2026-08-23T13:32:49+00:00",
+     "published": "2026-08-23T14:48:22+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "8d5c27c93078",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "86f5f71fcbf0",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "India news: Gandhi's notes sold for $1.7 million at auction",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalVmSFlhZzBNUV9Pby12eVZxMmhKc1c2c3AyV2RjUXh2REdhUktYQ0h6T2F3YWJTN3RSdUZURHVUbXJuYUtfMlZPTTFoUk1mYjBxRFNDMXBYSGdRc0IwY0RWTGtHcEw4QWZiM3VjUFRweGtvZXlnZVlqdHUyY1cxdmwyV1BYTHlpT1E2eU96bWMxaTQ3VDd0ZHNpMXZkdGt6bTA4WmtVWG1fUk9mS3VZ?oc=5",
-     "summary": "India news: Gandhi's notes sold for $1.7 million at auction DW",
-     "published": "2026-08-22T15:47:27+00:00",
-     "source": "DW",
+     "title": "'Real life Batman': Posters comparing Rahul to caped crusader put up near Congress’ headquarters",
+     "url": "https://www.thehindu.com/news/national/real-life-batman-posters-comparing-rahul-to-caped-crusader-put-up-near-congress-headquarters/article71381544.ece",
+     "summary": "\"Not all heroes wear capes, some wear a white T-shirt,\" says Pawan Khera",
+     "published": "2026-08-23T14:40:59+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/7at1f4/article71381581.ece/alternates/LANDSCAPE_1200/20260823069L.jpg",
      "licence": "linkout",
-     "id": "e14378d8a0f1",
+     "id": "ed5cfb1dba84",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Over 980 motorists booked for drunk driving cases in weekend drives across Hyderabad’s quad-commissionerates limits",
+     "url": "https://www.thehindu.com/news/national/telangana/over-980-motorists-booked-for-drunk-driving-cases-in-weekend-drives-across-hyderabads-quad-commissionerates-limits/article71381363.ece",
+     "summary": "",
+     "published": "2026-08-23T14:39:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "378a061f3ea4",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "$1.7 million at auction",
-      "$1.7 million at auction DW"
+      "980 motorists booked for drunk driving"
      ]
     }
    ]
@@ -1192,7 +1125,7 @@
      "title": "CrossCountry cancels 'almost all' UK services after power cut",
      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
      "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
-     "published": "2026-08-23T13:09:58+00:00",
+     "published": "2026-08-23T14:05:16+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8766/live/9b0d2440-9ef2-11f1-aed4-af6fe65bfcd6.jpg",
@@ -1304,6 +1237,40 @@
      ]
     },
     {
+     "title": "The Permanent Underclass: Artificial Intelligence and the Future of Work",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3dmSmZhQkdiX283RVpER1RCWmtaWHdHTzh3OFEtUGhZYlgyNzJmMEhydGlEVC1NbkYxcC1jMFhsbE9OLXozSkkzc3VmbHRaWWxJOU5vb3FRby1SUVB2bEJYRFh3T2JRYnpZdUFQQTNRaHVyUmZyWVRpX0liVWpHQkxBV3Rsa0RDeHZBUnV4ZlpYTFlJVmFmSklnU18yMVJrQmNlY0VB?oc=5",
+     "summary": "The Permanent Underclass: Artificial Intelligence and the Future of Work www.lvivherald.com",
+     "published": "2026-08-23T14:50:30+00:00",
+     "source": "www.lvivherald.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "16e4cefbd4fb",
+     "also": [
+      {
+       "source": "foundermagazine.in",
+       "title": "Sam Altman: OpenAI CEO, AI Visionary and Leader Shaping the Future of Artificial Intelligence",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVVlheGNwME1wX1FUQzJIQkJoMllHcHhXdEVkZTIwSTRhNXdFc1Z6TkNMeTJVYXpYRUJtUENrWUZPenloS2RUMTdBLXBBUFE4aU9NWEtVTFR6dlBpYThsemNOeWU4eXdzdlhzdEVuWQ?oc=5",
+       "summary": "Sam Altman: OpenAI CEO, AI Visionary and Leader Shaping the Future of Artificial Intelligence foundermagazine.in"
+      }
+     ],
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Are Smart Glasses Really the Next Step Beyond Smartphones?",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTAwTHhxNlQ3cVBPb3Y3TFN1Z1pIX3F6ZktWeGtkYnZ6dnRGV1Q4bEtHQ3RDV0dlcWFNa3owbm0yQm9FX3MxYjNaa0JxYkdVMWwzRlQtTzZXbl9GUTVJUnp2UDR6X3RCZVR0RHlLWFJSUG9ySmoxYnpqZFp6dXZjMmxoakpwcXlWVHNqOQ?oc=5",
+     "summary": "Are Smart Glasses Really the Next Step Beyond Smartphones? ascendants.in",
+     "published": "2026-08-23T08:48:17+00:00",
+     "source": "ascendants.in",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "7f299cd5210c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Sam Altman: OpenAI CEO, AI Visionary and Leader Shaping the Future of Artificial Intelligence",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVVlheGNwME1wX1FUQzJIQkJoMllHcHhXdEVkZTIwSTRhNXdFc1Z6TkNMeTJVYXpYRUJtUENrWUZPenloS2RUMTdBLXBBUFE4aU9NWEtVTFR6dlBpYThsemNOeWU4eXdzdlhzdEVuWQ?oc=5",
      "summary": "Sam Altman: OpenAI CEO, AI Visionary and Leader Shaping the Future of Artificial Intelligence foundermagazine.in",
@@ -1338,6 +1305,58 @@
    "upsc": false,
    "items": [
     {
+     "title": "East Bengal vs Mohun Bagan Highlights, Durand Cup Final: East Bengal Crowned Champions After 4-1 Win, Equal Mohun Bagan's Record",
+     "url": "https://sports.ndtv.com/football/east-bengal-vs-mohun-bagan-live-score-durand-cup-2026-final-kolkata-derby-live-updates-ebfc-vs-mbsg-full-scorecard-11947773#publisher=newsstand",
+     "summary": "East Bengal vs Mohun Bagan, Durand Cup Final Score Updates: East Bengal rode on an Edmund Lalrindika hattrick to clinch a sensational 4-1 win over Mohun Bagan in the Durand Cup 2026 final, in Kolkata on Sunday.",
+     "published": "2026-08-23T14:11:30+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/gq9devfo_east-bengal_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=270,height=300",
+     "licence": "linkout",
+     "id": "5770c6b7f08d",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Edmund Lalrindika Hattrick Fires East Bengal To 17th Durand Cup Title With 4-1 Win Over Mohun Bagan",
+     "url": "https://sports.ndtv.com/football/edmund-hat-trick-fires-east-bengal-to-17th-durand-cup-title-end-22-years-wait-11948343#publisher=newsstand",
+     "summary": "Edmund Lalrindika struck a dream derby hat-trick as a compact East Bengal produced a scintillating show to rout Mohun Bagan 4-1 and clinch a record-equalling 17th Durand Cup title on Sunday.",
+     "published": "2026-08-23T14:09:29+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/ah25g41s_east-bengal_625x300_23_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "344005f5c653",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Rishabh Pant To Bat Again After Injury In 2nd Sri Lanka Test? India Coach Provides Major Update",
+     "url": "https://sports.ndtv.com/cricket/rishabh-pant-to-bat-against-after-injury-in-2nd-sri-lanka-test-india-coach-provides-major-update-11948301#publisher=newsstand",
+     "summary": "Indian cricket team batting coach Sitanshu Kotak provided a huge update on Rishabh Pant after the wicket-keeper batter left the field retired hurt on Day 1 of the second Test match against Sri Lanka in Colombo.",
+     "published": "2026-08-23T14:02:36+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/erub0slo_cs_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "952a689400ec",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "'Dream Achieved' - Saransh Jain Expresses Gratitude To God, Family After Getting India Cap",
+     "url": "https://sports.ndtv.com/cricket/dream-achieved-saransh-jain-expresses-gratitude-to-god-family-after-getting-india-cap-11947249#publisher=newsstand",
+     "summary": "Off-spin bowling all-rounder Saransh Jain expressed deep gratitude to God and his family after receiving his India cap from veteran all-rounder Ravindra Jadeja.",
+     "published": "2026-08-23T13:34:54+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-07/ebq97dh8_saransh-jain-x_625x300_30_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "86a902d4134d",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "India vs Sri Lanka Highlights, 2nd Test Day 1: Devdutt Padikkal Shines With Ton As India Reach 300/5 At Stumps",
      "url": "https://sports.ndtv.com/cricket/india-vs-sri-lanka-live-score-2nd-test-day-1-ind-vs-sl-live-updates-scorecard-colombo-test-match-result-11946082#publisher=newsstand",
      "summary": "India vs Sri Lanka Highlights, 2nd Test Day 1: Devdutt Padikkal starred with yet another Test century on Sri Lankan soil as India capped off Day 1 of the second game on a high in Colombo.",
@@ -1360,48 +1379,6 @@
      "image": "https://c.ndtvimg.com/2026-08/cgpo1r9g_sc_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "8eb9b8289583",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "East Bengal vs Mohun Bagan LIVE Score, Durand Cup Final: East Bengal On Verge Of Glory After Edmund's Stunning Hattrick | EBFC 4-1 MBSG",
-     "url": "https://sports.ndtv.com/football/east-bengal-vs-mohun-bagan-live-score-durand-cup-2026-final-kolkata-derby-live-updates-ebfc-vs-mbsg-full-scorecard-11947773#publisher=newsstand",
-     "summary": "East Bengal vs Mohun Bagan, Durand Cup Final LIVE Score Updates: East Bengal are leading Mohun Bagan 4-1 in a thrilling first half of their Durand Cup 2026 final.",
-     "published": "2026-08-23T13:17:31+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/gq9devfo_east-bengal_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "5770c6b7f08d",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1 MBSG"
-     ]
-    },
-    {
-     "title": "Saransh's Jain Test Journey: Letting Go A Chance To Be In IPL To Work On Red-Ball Game",
-     "url": "https://sports.ndtv.com/cricket/saranshs-jain-test-journey-letting-go-a-chance-to-be-in-ipl-to-work-on-red-ball-game-11947484#publisher=newsstand",
-     "summary": "Saransh Jain's journey to becoming India's Test cap No. 320 on Sunday is a touching story of never-dying belief in himself and diligent work to improve his skills in red-ball format.",
-     "published": "2026-08-23T13:01:04+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/qk8vhhpc_saransh-jain-_625x300_28_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "5a836bd4e8e1",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "\"Enjoy This Moment Instead Of Taking Pressure\": Ravindra Jadeja Advises India Debutant Saransh Jain",
-     "url": "https://sports.ndtv.com/cricket/enjoy-this-moment-instead-of-taking-pressure-ravindra-jadeja-advises-india-debutant-saransh-jain-11947288#publisher=newsstand",
-     "summary": "Veteran all-rounder Ravindra Jadeja on Sunday advised debutant Saransh Jain to not take pressure of playing for India and treat his maiden outing for the country as yet another First-Class match.",
-     "published": "2026-08-23T12:52:20+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/clt2aubk_saransh-jain-bcci_625x300_23_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b90f1980edb2",
      "category": "general",
      "category_label": "General"
     }
