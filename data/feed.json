@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T19:55:45.672294+00:00",
+ "generated_at": "2026-08-23T20:51:26.843807+00:00",
  "podcasts_fetched_at": "2026-08-22T05:01:49.354101+00:00",
  "markets": [
   {
@@ -79,7 +79,8 @@
    "value": 77370.0,
    "change": 8104.0,
    "changePct": 11.7,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
@@ -89,10 +90,10 @@
   "News",
   "Charges Three",
   "What India",
-  "Abandon Kodungaiyur",
-  "Zhou China",
-  "Global Hotline",
-  "Scheduled Tribes"
+  "Broadway Onam",
+  "Israel West",
+  "Severe Italian",
+  "Global Hotline"
  ],
  "sections": [
   {
@@ -144,15 +145,15 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-     "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.",
-     "published": "2026-08-23T18:15:22+00:00",
+     "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+     "summary": "Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.",
+     "published": "2026-08-23T19:40:11+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787508914.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787513962.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "1590ed4db511",
+     "id": "34bb771e2031",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -170,20 +171,6 @@
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
-    },
-    {
-     "title": "T.N. to explore alternative sites for Chennai’s second airport, also keen on Hosur project",
-     "url": "https://www.thehindu.com/news/cities/chennai/tn-to-explore-alternative-sites-for-chennais-second-airport-also-keen-onhosurproject/article71381035.ece",
-     "summary": "Chief Minister C. Joseph Vijay held a review meeting for the second airport at the Secretariat recently. Within a few days, the government will likely disclose its plans for both airports, say sources",
-     "published": "2026-08-23T19:15:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gggk86/article71381370.ece/alternates/LANDSCAPE_1200/BVR_7122.JPG",
-     "licence": "linkout",
-     "id": "00b8361ae4cb",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
     },
     {
      "title": "CJP Warns Of Fresh Protests, To Decide Strategy In Monday Meeting",
@@ -217,6 +204,48 @@
      ]
     },
     {
+     "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+     "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+     "published": "2026-08-23T12:56:43+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+     "licence": "linkout",
+     "id": "c85614423c82",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Is Israel about to split the occupied West Bank in half?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+     "summary": "Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?",
+     "published": "2026-08-23T20:23:01+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787516543.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "229356291b31",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Broadway bustles with Onam shoppers, but rain dampens cheer",
+     "url": "https://www.thehindu.com/news/national/kerala/broadway-bustles-with-onam-shoppers-but-rain-dampens-cheer/article71381754.ece",
+     "summary": "Even as online stores are said to be drawing customers away, the internet is also bringing some shoppers to the market",
+     "published": "2026-08-23T19:55:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/um0620/article71381853.ece/alternates/LANDSCAPE_1200/Onam_cloths_11.JPG",
+     "licence": "linkout",
+     "id": "33b3bed4f5e7",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
+    },
+    {
      "title": "When does agri land sale qualify for tax exemption?",
      "url": "https://www.livemint.com/money/personal-finance/when-does-agri-land-sale-qualify-for-tax-exemption-11787466070503.html",
      "summary": "Agricultural land is generally not a capital asset unless it falls within urban limits. If taxable as LTCG, Section 54F may allow a deduction for reinvestment in a house.",
@@ -226,37 +255,6 @@
      "image": "https://www.livemint.com/lm-img/img/2026/08/23/600x338/Screenshot_2023-05-23_175056_1684844663029_1787486005253_39ebbddc-6146-4a20-b83f-937216f80566.png",
      "licence": "linkout",
      "id": "77ce347ad1b0",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "8th pay commission: Here's how much fitment factor of 1.83, 2, 2.57 and 3.83 can hike salaries for govt employees",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-much-fitment-factor-calculation-expect-1-83-2-2-57-3-83-hike-salary-govt-employees-pay-pensioners-11787486078341.html",
-     "summary": "8th pay commission decisions are expected to benefit more than 1 crore beneficiaries. Here's how much fitment factor between 1.83, 2, 2.57 and 3.83 can hike salaries for central government employees and pensioners.",
-     "published": "2026-08-23T14:52:41+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/23/600x338/EMI_1763399961375_1763399961539_1787490442525_fbded9df-9c42-488b-b50a-eb4cfd731c4f.jpg",
-     "licence": "linkout",
-     "id": "5f2d35d95a92",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "1 crore beneficiaries"
-     ]
-    },
-    {
-     "title": "Income Tax Department explains how to choose between ITR-3 and ITR-4: Quick checklist for taxpayers",
-     "url": "https://www.livemint.com/money/personal-finance/income-tax-department-explains-how-to-choose-between-itr-3-and-itr-4-quick-checklist-for-taxpayers-11787485642544.html",
-     "summary": "Confused between ITR-3 and ITR-4 for AY 2026-27? The Income Tax Department has shared a quick checklist to help taxpayers identify the right form based on their income, taxation method and other conditions. Here’s what you need to know before filing by 31 August.",
-     "published": "2026-08-23T13:03:35+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/23/600x338/itr_filing_aug_1787488491135_1787488511740_ee3da1bf-3cfb-4d3b-b5c4-f6e718097f8c.png",
-     "licence": "linkout",
-     "id": "e141f354878f",
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
@@ -393,7 +391,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-23T19:55:33.622989+00:00",
+     "published": "2026-08-23T20:51:13.932375+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -404,7 +402,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-23T19:55:33.623002+00:00",
+     "published": "2026-08-23T20:51:13.932383+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -415,7 +413,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-23T19:55:33.623008+00:00",
+     "published": "2026-08-23T20:51:13.932387+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -426,7 +424,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-23T19:55:33.623013+00:00",
+     "published": "2026-08-23T20:51:13.932389+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -437,7 +435,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-23T19:55:33.623018+00:00",
+     "published": "2026-08-23T20:51:13.932391+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -448,7 +446,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-23T19:55:33.623023+00:00",
+     "published": "2026-08-23T20:51:13.932393+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -528,6 +526,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Broadway bustles with Onam shoppers, but rain dampens cheer",
+     "url": "https://www.thehindu.com/news/national/kerala/broadway-bustles-with-onam-shoppers-but-rain-dampens-cheer/article71381754.ece",
+     "summary": "Even as online stores are said to be drawing customers away, the internet is also bringing some shoppers to the market",
+     "published": "2026-08-23T19:55:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/um0620/article71381853.ece/alternates/LANDSCAPE_1200/Onam_cloths_11.JPG",
+     "licence": "linkout",
+     "id": "33b3bed4f5e7",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Rajasthan High Court questions police as probe into attack on Dalit family changes hands six times",
      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-dalit-family-case-changed-hands-six-times-hc-seeks-explanation/article71380790.ece",
      "summary": "High Court seeks affidavits from investigating officers and supervisory committee over delay in probe into alleged land encroachment and attack on Dalit family",
@@ -576,19 +587,6 @@
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
      "id": "c77f7549704f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Rain lashes city on Sunday evening",
-     "url": "https://www.thehindu.com/news/cities/chennai/rain-lashes-city-on-sunday-evening/article71382111.ece",
-     "summary": "",
-     "published": "2026-08-23T19:21:53+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/a56vte/article71382134.ece/alternates/LANDSCAPE_1200/BVR_6945.JPG",
-     "licence": "linkout",
-     "id": "1cddc0926c6e",
      "category": "general",
      "category_label": "General"
     },
@@ -656,69 +654,50 @@
    "upsc": false,
    "items": [
     {
-     "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
-     "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India.",
-     "published": "2026-08-23T19:27:17+00:00",
+     "title": "Is Israel about to split the occupied West Bank in half?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+     "summary": "Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?",
+     "published": "2026-08-23T20:23:01+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-20.24.03-1787513155.png?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787516543.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "560bb90d6734",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "229356291b31",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "Zhou Bo: China’s alternative to Western power",
-     "url": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
-     "summary": "Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.",
-     "published": "2026-08-23T19:00:56+00:00",
+     "title": "Severe winds toss four aircraft across Italian airport tarmac",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
+     "summary": "Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.",
+     "published": "2026-08-23T20:00:22+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787511637.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-20.56.47-1787515138.png?resize=1200%2C675",
      "licence": "linkout",
-     "id": "c147a1c24b77",
+     "id": "828fc1dc9994",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "120 km /h swept through Forlì"
+     ]
     },
     {
-     "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
-     "summary": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.",
-     "published": "2026-08-23T18:47:11+00:00",
+     "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+     "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+     "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
+     "published": "2026-08-23T19:52:12+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787510762.jpg?resize=1618%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-23T151711Z_1708087170_RC2E4NAAOMNA_RTRMADP_3_USA-250-GRAND-PRIX-1787509400.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "6cc64a16aeee",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
-     "summary": "Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.",
-     "published": "2026-08-23T18:27:46+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787509660.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "a3ba3e622ed6",
+     "id": "678ce317dfa5",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-     "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-     "published": "2026-08-23T12:56:43+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
-     "licence": "linkout",
-     "id": "c85614423c82",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "category_label": "General",
+     "figures": [
+      "250. Race cars take over central",
+      "250 Grand Prix debuts"
+     ]
     },
     {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -777,6 +756,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Broadway bustles with Onam shoppers, but rain dampens cheer",
+     "url": "https://www.thehindu.com/news/national/kerala/broadway-bustles-with-onam-shoppers-but-rain-dampens-cheer/article71381754.ece",
+     "summary": "Even as online stores are said to be drawing customers away, the internet is also bringing some shoppers to the market",
+     "published": "2026-08-23T19:55:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/um0620/article71381853.ece/alternates/LANDSCAPE_1200/Onam_cloths_11.JPG",
+     "licence": "linkout",
+     "id": "33b3bed4f5e7",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Rajasthan High Court questions police as probe into attack on Dalit family changes hands six times",
      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-dalit-family-case-changed-hands-six-times-hc-seeks-explanation/article71380790.ece",
      "summary": "High Court seeks affidavits from investigating officers and supervisory committee over delay in probe into alleged land encroachment and attack on Dalit family",
@@ -803,15 +795,15 @@
      "category_label": "General"
     },
     {
-     "title": "YSRCP leader accuses government of failing to safeguard temple assets",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-accuses-government-of-failing-to-safeguard-temple-assets/article71380927.ece",
+     "title": "Rain lashes city on Sunday evening",
+     "url": "https://www.thehindu.com/news/cities/chennai/rain-lashes-city-on-sunday-evening/article71382111.ece",
      "summary": "",
-     "published": "2026-08-23T19:27:10+00:00",
+     "published": "2026-08-23T19:21:53+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/a56vte/article71382134.ece/alternates/LANDSCAPE_1200/BVR_6945.JPG",
      "licence": "linkout",
-     "id": "355c5191c7d9",
+     "id": "1cddc0926c6e",
      "category": "general",
      "category_label": "General"
     },
@@ -1140,6 +1132,35 @@
      "id": "649481f21c25",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "8th pay commission: Here's how much fitment factor of 1.83, 2, 2.57 and 3.83 can hike salaries for govt employees",
+     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-much-fitment-factor-calculation-expect-1-83-2-2-57-3-83-hike-salary-govt-employees-pay-pensioners-11787486078341.html",
+     "summary": "8th pay commission decisions are expected to benefit more than 1 crore beneficiaries. Here's how much fitment factor between 1.83, 2, 2.57 and 3.83 can hike salaries for central government employees and pensioners.",
+     "published": "2026-08-23T14:52:41+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/23/600x338/EMI_1763399961375_1763399961539_1787490442525_fbded9df-9c42-488b-b50a-eb4cfd731c4f.jpg",
+     "licence": "linkout",
+     "id": "5f2d35d95a92",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "1 crore beneficiaries"
+     ]
+    },
+    {
+     "title": "Income Tax Department explains how to choose between ITR-3 and ITR-4: Quick checklist for taxpayers",
+     "url": "https://www.livemint.com/money/personal-finance/income-tax-department-explains-how-to-choose-between-itr-3-and-itr-4-quick-checklist-for-taxpayers-11787485642544.html",
+     "summary": "Confused between ITR-3 and ITR-4 for AY 2026-27? The Income Tax Department has shared a quick checklist to help taxpayers identify the right form based on their income, taxation method and other conditions. Here’s what you need to know before filing by 31 August.",
+     "published": "2026-08-23T13:03:35+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/23/600x338/itr_filing_aug_1787488491135_1787488511740_ee3da1bf-3cfb-4d3b-b5c4-f6e718097f8c.png",
+     "licence": "linkout",
+     "id": "e141f354878f",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "How changing jobs affects your EPF account and balance portability",
