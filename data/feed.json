@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T20:52:31.119456+00:00",
+ "generated_at": "2026-08-25T21:56:38.904303+00:00",
  "podcasts_fetched_at": "2026-08-24T05:58:19.263955+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Kochi Thiruvonam",
-  "Assam Steals",
+  "Village Bareli",
+  "Nigeria",
   "Jazeera English",
   "News",
-  "Hits Operation",
   "Operation Sindoor",
+  "Missing From",
   "Bombay High",
-  "Identify Amit",
-  "Dolly Parton",
-  "What India"
+  "Trump",
+  "Trump American",
+  "British Singapore"
  ],
  "sections": [
   {
@@ -102,6 +102,37 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Village in Rae Bareli tense after mud smeared on Ambedkar’s statue",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/village-in-rae-bareli-tense-after-mud-smeared-on-ambedkars-statue/article71389654.ece",
+     "summary": "The police assured the villagers of swift identification of the culprits and strict legal action; police have been deployed in the village as a precautionary measure, and the situation is under control",
+     "published": "2026-08-25T20:51:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "6507665c422a",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Nigeria launches operation to rescue 600 kidnapped victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
+     "summary": "Nigerian President Bola Ahmed Tinubu announced a rescue operation on Tuesday for victims of 600-person mass abduction.",
+     "published": "2026-08-25T20:37:42+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787690273.jpg?resize=1620%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "97eedf6ab130",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "600 kidnapped victims"
+     ]
+    },
     {
      "title": "Kochi wakes to Thiruvonam festivities",
      "url": "https://www.thehindu.com/news/national/kerala/kochi-wakes-to-thiruvonam-festivities/article71389927.ece",
@@ -117,40 +148,6 @@
      "from_section": "National News"
     },
     {
-     "title": "Assam Man Steals 50 Lakh From Father, Splurges On Girlfriend, iPhone: Cops",
-     "url": "https://www.ndtv.com/india-news/assam-man-steals-50-lakh-from-father-splurges-on-girlfriend-iphone-hotels-11958837#publisher=newsstand",
-     "summary": "During investigation, the police, with the help of the cyber security cell, suspected it to be an inside job.Yash Agarwal had left Jorhat after the incident. The police traced his cellphone and found it in Ahmedabad.",
-     "published": "2026-08-25T19:31:53+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ag78o4es_assam-man-_625x300_26_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "22936a4c8d3a",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "50 Lakh From Father, Splurges"
-     ]
-    },
-    {
-     "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-     "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-     "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
-     "published": "2026-08-25T19:30:37+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/ffb85360-a0b9-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "8a33f55feeca",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "39 people in South Africa"
-     ]
-    },
-    {
      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -162,6 +159,20 @@
      "id": "94a6ef56b551",
      "category": "conflict",
      "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "US soldier who called for Trump impeachment facing military charges",
+     "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+     "summary": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
+     "published": "2026-08-25T21:16:43+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14166504-1-1787689086.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "d14675ed15b9",
+     "category": "politics",
+     "category_label": "Political controversy",
      "from_section": "Global News"
     },
     {
@@ -179,32 +190,18 @@
      "from_section": "National News"
     },
     {
-     "title": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
-     "summary": "Youth-led movement plans more demonstrations for next month.",
-     "published": "2026-08-25T20:08:41+00:00",
-     "source": "Al Jazeera",
+     "title": "IAMC and allied faith organisations protest against Mohan Bhagwat’s event at Madison Square Garden",
+     "url": "https://www.thehindu.com/news/national/iamc-and-allied-faith-organisations-protest-against-mohan-bhagwats-event-at-madison-square-garden/article71390230.ece",
+     "summary": "Held under the banner “No Platform for Hate,” the protest brought together representatives of Muslim, Hindu, Sikh, Christian, Dalit and interfaith organisations",
+     "published": "2026-08-25T19:56:45+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787687713.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://th-i.thgim.com/public/incoming/54oba8/article71390393.ece/alternates/LANDSCAPE_1200/20260825480L.jpeg",
      "licence": "linkout",
-     "id": "61e89e740695",
+     "id": "4383c60f3c42",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
-     "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
-     "summary": "Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help.",
-     "published": "2026-08-25T20:08:33+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8dec24e926-1787685924.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "2f3af55a4470",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "PM Narendra Modi reviews cyber fraud cases, calls for regular capacity building",
@@ -437,28 +434,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Hits on government sites during Operation Sindoor: NIA begins probe",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVFZYWVRhWERqYndNUXlMRHZkZGYwVU5jZ28wa1d2UUFEdHF1LXMxMmowcFNoLUlLcENJQU8yMjJ1MG5nN084dnJ1UUN4VGNZLUpXU3pRbXhSNDlmU2FFY0pLdFB0T2VTWUczcmUxaTlZOEJWWlFLWnBKeUU3WFhjb3hXaHdlREo3eUZoU0owMEZiRExfMDE1ZkhPQUN2SEI0VWdubFZSOUx5dnBXb2tlTFNSNXpWQjcyVmhyc01EcXpQeTc1aVgzb2Y5MWVqdkXSAdQBQVVfeXFMUE9RLWpCRURVWlJWdTg1OXdpUHBCdzBJb1pOSkhIV0I5RVJxTkMyTGZJeEJnc21oQlJ6SU96Nm1DVFJsUUdrWjhUZzdKZFFmRTBQS1ZqWXRPZWY3dm04bGRVeXJLejdfak43RXpoN00wQms4ci0xVWhDdmhEcjZxNlFyOVNZM3pzelAxSVhGNWlKMWZ6ZnoxdmZwcExJcmFUeXB6MXJxcmo3dFJfdE1UMXlLRWJ5YlFyTTd4eG1iRlpJaHhRcXhYZ3VlYXJHekptX2JKN3k?oc=5",
-     "summary": "Hits on government sites during Operation Sindoor: NIA begins probe timesofindia.indiatimes.com",
-     "published": "2026-08-24T20:52:00+00:00",
-     "source": "timesofindia.indiatimes.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "40ba5270b8dc",
-     "also": [
-      {
-       "source": "Firstpost",
-       "title": "Operation Sindoor: NIA raids Delhi and four states over cyberattacks on government websites",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRjRuc3VLRktER01VWmRYaXF5dzk2VWN1OFJfd1JDazk3MGdsbThvUnFlbkgyYklKUlhsSWMyZ3YtR1h1ejJWbENIdFYzZDdXOVpQR1N1cVk2RFdaQVI5MDdEZmdWZFlJcWFRTVczYUlvS2Q4ZFhkeEhLMWFyVHNCQXZtUktmTl9PM25QTlBFUFd0c1Q5bm96ZU93OTN2S2lEemZhSGFUSVJXN1F5SlN5THIxTHE4cThLQTNpM0N0SEFLMUwzTjVvZFQyRF81T0xN0gHWAUFVX3lxTE9nS19LeXdmOXBoc2RwTDRuOWM5V2VORGp4VF94cERkTkd1YmlZUjZBcW9Zc1pNa2lGMERrVzB4Sy1YVndqUEl2OWN4anM2N0RfeUgyRmI3MnlJSVlVTVN6eEQ5bzYzeXU1NVJRSTZ5NkoxczVKbGxScVJ2X3NacGdCdDlpNXN6b1ljVmoyVGR2SnU4aEpmMmRTN2ZtWmRWMF9SX2stN2E4SE5VaWQzNkJWLTRPWEhkTENqSmFKNHRhVzVnd1hyQUwyUzhqajFOS2FfMmx5cFE?oc=5",
-       "summary": "Operation Sindoor: NIA raids Delhi and four states over cyberattacks on government websites Firstpost"
-      }
-     ],
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
-    },
-    {
      "title": "Missing From a Mass Wedding in India: Brides",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSUtJZDRDS05DLVpiZFNMRDJfZXlTQS1hMTFHODJjSFNwS05oV3Y5Z0pld1BBU0lGaXZkSUZoa2NoY0J3NXRUU2NkMk5EMGl2YlBVa1pwNlRRdjEtV19ZNUtyU1lsRl9Jd1FqYnBkYlZOb19OYmZKTE5oTjRTQW8?oc=5",
      "summary": "Missing From a Mass Wedding in India: Brides The New York Times",
@@ -475,9 +450,9 @@
     {
      "title": "Where did corruption cases against gazetted officers go in Kerala? Vigilance probes",
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdVNIRjEwSnJiakRPZmluS2phX2lacE9kRUI3NXpXZ3MxUVNiT05obGM3UmljRHN3dGVtQm1TNkZOZ3NLREN0TTZ3N1Q2UWFiZWpFOWtST0cxbUlKQWRCTFVNbU5oazloQ1FESG9SX0pIQU55V2VXN3hkbzM4MVRVT2l6OFdfb25TTVNfQWNtbFZiZy0tdkVXS2tCRWJrQ0JObmdmdDItY1dlZ19fX0FzS3dDbGtNWG5Va2dJLWhqb2pER3FXU09hNy1WN2VtSlhaQ3dueVdkR2Q2YzBvZXV2ZEhRYV9RdFpaWmRyNjJqdkt5RllRZHRWM1MtbDLSAYICQVVfeXFMTnMyalNiMXFpNHYzS2JLbS1aeDgxNjJmY2hYWnlaZE1NZXhuaEF2bVd2S0FreXNIZTlCYVN6S3Z4aEd3QWwweEkxYXVqaDhrRzhycS1nSnJQYXU1NEZTMnhxX25raTk4Z09pQkg5N2Vhd3hjMmRST3RsOTdMcTJ3ZzFZS0VWckxZVjRpdFE5Z2hyVlpReWZnU0NUMTJ0dWg4MkZDX1o5MUVFQko2WmdJRXV4Q0NVMDEtMXhzYy02LVlvMkk4c2FISU9WN2VYSFNtaVVEY05aN3JZWWpTSEYxODlwSWZKVnBJM1NNUDduZ0VodzdzVVVXVDV0bVF5emxWemNB?oc=5",
-     "summary": "Where did corruption cases against gazetted officers go in Kerala? Vigilance probes timesofindia.indiatimes.com",
+     "summary": "Where did corruption cases against gazetted officers go in Kerala? Vigilance probes The Times of India",
      "published": "2026-08-25T15:30:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -500,7 +475,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-25T20:52:18.030499+00:00",
+     "published": "2026-08-25T21:56:25.479001+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -511,7 +486,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-25T20:52:18.030520+00:00",
+     "published": "2026-08-25T21:56:25.479016+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -522,7 +497,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-25T20:52:18.030525+00:00",
+     "published": "2026-08-25T21:56:25.479019+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -533,7 +508,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-25T20:52:18.030529+00:00",
+     "published": "2026-08-25T21:56:25.479022+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -544,7 +519,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-25T20:52:18.030533+00:00",
+     "published": "2026-08-25T21:56:25.479024+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -555,7 +530,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-25T20:52:18.030537+00:00",
+     "published": "2026-08-25T21:56:25.479031+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -583,27 +558,6 @@
    "upsc": false,
    "items": [
     {
-     "title": "Hits on government sites during Operation Sindoor: NIA begins probe",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVFZYWVRhWERqYndNUXlMRHZkZGYwVU5jZ28wa1d2UUFEdHF1LXMxMmowcFNoLUlLcENJQU8yMjJ1MG5nN084dnJ1UUN4VGNZLUpXU3pRbXhSNDlmU2FFY0pLdFB0T2VTWUczcmUxaTlZOEJWWlFLWnBKeUU3WFhjb3hXaHdlREo3eUZoU0owMEZiRExfMDE1ZkhPQUN2SEI0VWdubFZSOUx5dnBXb2tlTFNSNXpWQjcyVmhyc01EcXpQeTc1aVgzb2Y5MWVqdkXSAdQBQVVfeXFMUE9RLWpCRURVWlJWdTg1OXdpUHBCdzBJb1pOSkhIV0I5RVJxTkMyTGZJeEJnc21oQlJ6SU96Nm1DVFJsUUdrWjhUZzdKZFFmRTBQS1ZqWXRPZWY3dm04bGRVeXJLejdfak43RXpoN00wQms4ci0xVWhDdmhEcjZxNlFyOVNZM3pzelAxSVhGNWlKMWZ6ZnoxdmZwcExJcmFUeXB6MXJxcmo3dFJfdE1UMXlLRWJ5YlFyTTd4eG1iRlpJaHhRcXhYZ3VlYXJHekptX2JKN3k?oc=5",
-     "summary": "Hits on government sites during Operation Sindoor: NIA begins probe timesofindia.indiatimes.com",
-     "published": "2026-08-24T20:52:00+00:00",
-     "source": "timesofindia.indiatimes.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "40ba5270b8dc",
-     "also": [
-      {
-       "source": "Firstpost",
-       "title": "Operation Sindoor: NIA raids Delhi and four states over cyberattacks on government websites",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRjRuc3VLRktER01VWmRYaXF5dzk2VWN1OFJfd1JDazk3MGdsbThvUnFlbkgyYklKUlhsSWMyZ3YtR1h1ejJWbENIdFYzZDdXOVpQR1N1cVk2RFdaQVI5MDdEZmdWZFlJcWFRTVczYUlvS2Q4ZFhkeEhLMWFyVHNCQXZtUktmTl9PM25QTlBFUFd0c1Q5bm96ZU93OTN2S2lEemZhSGFUSVJXN1F5SlN5THIxTHE4cThLQTNpM0N0SEFLMUwzTjVvZFQyRF81T0xN0gHWAUFVX3lxTE9nS19LeXdmOXBoc2RwTDRuOWM5V2VORGp4VF94cERkTkd1YmlZUjZBcW9Zc1pNa2lGMERrVzB4Sy1YVndqUEl2OWN4anM2N0RfeUgyRmI3MnlJSVlVTVN6eEQ5bzYzeXU1NVJRSTZ5NkoxczVKbGxScVJ2X3NacGdCdDlpNXN6b1ljVmoyVGR2SnU4aEpmMmRTN2ZtWmRWMF9SX2stN2E4SE5VaWQzNkJWLTRPWEhkTENqSmFKNHRhVzVnd1hyQUwyUzhqajFOS2FfMmx5cFE?oc=5",
-       "summary": "Operation Sindoor: NIA raids Delhi and four states over cyberattacks on government websites Firstpost"
-      }
-     ],
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
      "title": "Operation Sindoor: NIA raids Delhi and four states over cyberattacks on government websites",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRjRuc3VLRktER01VWmRYaXF5dzk2VWN1OFJfd1JDazk3MGdsbThvUnFlbkgyYklKUlhsSWMyZ3YtR1h1ejJWbENIdFYzZDdXOVpQR1N1cVk2RFdaQVI5MDdEZmdWZFlJcWFRTVczYUlvS2Q4ZFhkeEhLMWFyVHNCQXZtUktmTl9PM25QTlBFUFd0c1Q5bm96ZU93OTN2S2lEemZhSGFUSVJXN1F5SlN5THIxTHE4cThLQTNpM0N0SEFLMUwzTjVvZFQyRF81T0xN0gHWAUFVX3lxTE9nS19LeXdmOXBoc2RwTDRuOWM5V2VORGp4VF94cERkTkd1YmlZUjZBcW9Zc1pNa2lGMERrVzB4Sy1YVndqUEl2OWN4anM2N0RfeUgyRmI3MnlJSVlVTVN6eEQ5bzYzeXU1NVJRSTZ5NkoxczVKbGxScVJ2X3NacGdCdDlpNXN6b1ljVmoyVGR2SnU4aEpmMmRTN2ZtWmRWMF9SX2stN2E4SE5VaWQzNkJWLTRPWEhkTENqSmFKNHRhVzVnd1hyQUwyUzhqajFOS2FfMmx5cFE?oc=5",
      "summary": "Operation Sindoor: NIA raids Delhi and four states over cyberattacks on government websites Firstpost",
@@ -630,11 +584,38 @@
      "category_label": "Mystery & investigation"
     },
     {
+     "title": "PM Narendra Modi reviews cyber fraud cases, calls for regular capacity building",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1RUNk9YMXlWS3dzS1I3YXpuWmt3ZnA0RFYyYWdoeU5TWFB3UWk2cVZVbGNFdVVuem5vNkZMcXpjVUppbGQ2eVZ0R3F3emVuamVNVTN2bVhOdzlDYzFNOGt5Z0FvVTUyZWhITnRHa21GR091RkxzN1IwN1FDZ1dUT181ajVRZUtRQUZmeVVlNGx2T1RjZjAtNVJFUHFQaHRsMlZldHZiTndUelVXdnU0NVp3SjRkTC1NSHM5LVNZbjktUGpvRk1R0gHOAUFVX3lxTE9fMkw4X0xEOVc4WG9Gc3Q4bXhVbmx0LVBRZ2hBejBkWk5Gc3hkRlptWTdZRkpHWHJYUmVnR2FKZ1ljWFpZeDVWNFNnM0g3Vmk1MkN1QXN0NTE5cFpqU0NpaGNUYUJhU0tVcEFsczlWaElPbkRLYXh4QTBRLVNFbU5yNW5LSngzN3VZYUlrQlJFWkl2ZWNwM1lHdkduRXdSU25YdlNMRm00ZXQyMjFlUVAxazZkbnFoVXZaTFdvMXg1UUFFSkVlblJEVmhlSU93?oc=5",
+     "summary": "PM Narendra Modi reviews cyber fraud cases, calls for regular capacity building The Indian Express",
+     "published": "2026-08-25T19:52:23+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "d8a926069a90",
+     "also": [
+      {
+       "source": "News18",
+       "title": "PM Modi Reviews Cyber Fraud Cases, Calls For Targeted Awareness Drive Against 'Digital Arrest' Scams",
+       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeU85d0lPQnJ6WXZVdTZRZW0yRE1pakU1Ykg4MGphWWhSbDJ6a0NmVVpqYXJMM2VyeDd4YkZXNmtxXzNrY0MtbjludENrMzlXcnpReG1vLWkxazJ2ZTdDRlpHWERaU25VTjRvYnNxS2lOZzlvOFgxc1UyV3Z5WUVKejZBRjhDdlF3LVNRVzk3VDgxdlljamF1aHlzbzllSGU4Z2xBSlFqVDRlekQzWWp1dGtlcE92cVZmWFpYSHB2bW5kOXk3c2FxLUZpSUtIckxFY2Qyc2lvVU0yandqQ2c?oc=5",
+       "summary": "PM Modi Reviews Cyber Fraud Cases, Calls For Targeted Awareness Drive Against 'Digital Arrest' Scams News18"
+      },
+      {
+       "source": "NDTV",
+       "title": "PM Modi Chairs PRAGATI Meet, Pushes AI Use In Farming And Cyber Fraud Fight",
+       "url": "https://www.ndtv.com/india-news/pm-modi-chairs-pragati-meet-pushes-ai-use-in-farming-and-cyber-fraud-fight-11958736#publisher=newsstand",
+       "summary": "The Prime Minister emphasised that delays in infrastructure projects have consequences beyond cost escalation, as they also postpone the benefits intended for citizens, businesses and the economy."
+      }
+     ],
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "No discharge to Indian Bank clerk, wife of PNB scam accused, in disproportionate assets case",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOV9xeEtRX0d3LW5pVzRMTkRXcjdMWDVPc0dDdElNNjI4dFNWdUFXXzVvNWVLc2hxMUVqN0V3ZHR1ekFEZTJQV194TjZPdEh6RGlZdUI2Q1dCMUk4eW5NbGYtemtDSnlCeC1NM0NQM1BjMGl6NHpNWTlhakRkU2padGk3Vi1iMWhGa2pYUS1WRDE4ektaWkFnWWgtOWg0QjNLc1pXZXd0bVdKenF1TVVXX3F2WlNaTXJMbjMyV2hZMEVGdFJINFlLVV9uaDB0RmR2N2llMTdiMVN5T2tZekZ3Q1BDV2RGNUZjcjVRbGlzamxNbGROTjZV0gH8AUFVX3lxTE9fSVdfb1M3RW1mX0dYaGF0XzcwaDdjVnBYZDk2UVNQb25JdmZQQ0U2OEN0ODZ0T2EzZkxud0xmZTQ4MzVjR2ZCdlFjMFByQWMwRTNsSjlxWk9INjBxRnpRNzROME16UFJPZlhxeS13RFFIX2k0ZTN3M0VEOUFpbnppTGtiV1ZZZnA3VWhEeVR5dE1QaDJjZkxKek83UDlLOHZ5VHhBc1N0SEpreXhJUmFqbUYtbElQVkFUaTYyNXpKX0tXOXBmRWxVQ0puN1JUOFJFb0JFVFlTZjFnUDlVQUF4NW95ZHJmXzItZlBpR1c5NzF3YmJrejYzd1hMTQ?oc=5",
-     "summary": "No discharge to Indian Bank clerk, wife of PNB scam accused, in disproportionate assets case timesofindia.indiatimes.com",
+     "summary": "No discharge to Indian Bank clerk, wife of PNB scam accused, in disproportionate assets case The Times of India",
      "published": "2026-08-25T15:37:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -645,9 +626,9 @@
     {
      "title": "Loan fraud cases fall, but value soars; PSBs account for 74% of amount",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdW4yMEJZa3RlMWFhUDBpSU1xU2I5VWVYY2VpU2pHZWFMYUR4Qms3aFZnMjIydWJPQTlUU21NV2tiaG9HVm9SNVduc2JYdjl0YmpBNk5MZHNDYzB6Z2V4UmFWdXRlcXhybmRZZW9HV0NnNW5qalZNWHBjNGJPajR1NU5fcmFKOU5VLW02cDFGWHFiTjFqVGxXLUMyX2g5Qmt5SmNuLXZqR2RHdGZRcTUtdS1wcWduYTlYZEM5clZBVkthQ0NLTU5ELTBKUl9EdnNTWm5JOUp3ZF9YNnA2MkpIRXpjNmxuRzVZ0gHuAUFVX3lxTE0yTmNDY1QySlhiZ2FkMW9INlZ1bEdTT29fLXJsd1ljNHdfcVRNMXZpUDFnSk8zTDc2TV9fMTd6azBodU9SOURPTUx1N3B3dF9ZOGNSdFA5S0hMcW5MX0Z6UFIwMEVHb0VVYXFHYlZRR2FwTW04Q1pGaGE3REg2WXY3bWZLbEVtNzNDdkVzclg1eW5vbmthRFB5YUVaNE1rTHhZNEZLVUo4aVNPSFJYeWs2ekVsSzIydF9sM2loeF85V2dNSFlzZ1BfRWRuaDVlX1JpTE5KdTI5MVN0VkJvcG56WUFDNlZvYzdIYjc4Tnc?oc=5",
-     "summary": "Loan fraud cases fall, but value soars; PSBs account for 74% of amount timesofindia.indiatimes.com",
+     "summary": "Loan fraud cases fall, but value soars; PSBs account for 74% of amount The Times of India",
      "published": "2026-08-25T17:01:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -676,6 +657,19 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Village in Rae Bareli tense after mud smeared on Ambedkar’s statue",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/village-in-rae-bareli-tense-after-mud-smeared-on-ambedkars-statue/article71389654.ece",
+     "summary": "The police assured the villagers of swift identification of the culprits and strict legal action; police have been deployed in the village as a precautionary measure, and the situation is under control",
+     "published": "2026-08-25T20:51:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "6507665c422a",
+     "category": "crime",
+     "category_label": "Crime"
+    },
     {
      "title": "Bombay High Court to hear PIL against Marathi rule for drivers",
      "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-to-hear-pil-against-marathi-rule-for-drivers/article71389848.ece",
@@ -719,19 +713,6 @@
      "category_label": "General"
     },
     {
-     "title": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event",
-     "url": "https://www.thehindu.com/news/national/nyc-mayor-mamdani-opposes-rss-chief-bhagwats-madison-square-event/article71390368.ece",
-     "summary": "Zohran Mamdani said the vision of India that his family taught him was that of \"a pluralistic society, of a secular republic that believed in the belonging of each and every person who was from India\"",
-     "published": "2026-08-25T20:00:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pllikx/article71390381.ece/alternates/LANDSCAPE_1200/2026-08-12T191157Z_893822250_RC25XMAFBBXC_RTRMADP_3_USA-TRUMP-IMMIGRATION-NEW-YORK.JPG",
-     "licence": "linkout",
-     "id": "7da025114a9c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Gujarat's Khijadiya Sanctuary Confirmed As Key Black-Necked Stork Site",
      "url": "https://www.ndtv.com/india-news/gujarats-khijadiya-sanctuary-confirmed-as-key-black-necked-stork-site-11958911#publisher=newsstand",
      "summary": "A comprehensive study by the Gujarat Ecological Education and Research (GEER) Foundation has confirmed that the Ramsar-designated Khijadiya Bird Sanctuary in Jamnagar serves as a critical breeding sanctuary for the Black-necked Stork.",
@@ -743,6 +724,22 @@
      "id": "e6a48e1989ab",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Assam Man Steals 50 Lakh From Father, Splurges On Girlfriend, iPhone: Cops",
+     "url": "https://www.ndtv.com/india-news/assam-man-steals-50-lakh-from-father-splurges-on-girlfriend-iphone-hotels-11958837#publisher=newsstand",
+     "summary": "During investigation, the police, with the help of the cyber security cell, suspected it to be an inside job.Yash Agarwal had left Jorhat after the incident. The police traced his cellphone and found it in Ahmedabad.",
+     "published": "2026-08-25T19:31:53+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/ag78o4es_assam-man-_625x300_26_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "22936a4c8d3a",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "50 Lakh From Father, Splurges"
+     ]
     }
    ]
   },
@@ -753,86 +750,54 @@
    "upsc": false,
    "items": [
     {
-     "title": "Dolly Parton, beloved US country music icon, dies at 80",
-     "url": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
-     "summary": "Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.",
-     "published": "2026-08-25T20:14:21+00:00",
+     "title": "US soldier who called for Trump impeachment facing military charges",
+     "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+     "summary": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
+     "published": "2026-08-25T21:16:43+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8deeffbae0b-1787686655.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14166504-1-1787689086.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "3aa7bb6eb60e",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Dolly Parton: Life of the music legend whose songs touched millions",
-       "url": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-       "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You."
-      }
-     ],
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "80. Parton won worldwide acclaim"
-     ]
-    },
-    {
-     "title": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
-     "summary": "Youth-led movement plans more demonstrations for next month.",
-     "published": "2026-08-25T20:08:41+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787687713.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "61e89e740695",
+     "id": "d14675ed15b9",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
-     "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
-     "summary": "Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help.",
-     "published": "2026-08-25T20:08:33+00:00",
+     "title": "US lawmakers urge Trump team to free of American student held by Israel",
+     "url": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
+     "summary": "Congress members call on Marco Rubio to 'use every tool' at his disposal to secure release of 20-year-old Sama Safi.",
+     "published": "2026-08-25T21:09:35+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8dec24e926-1787685924.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-14T082842Z_1294921662_RC28YMAPUWGI_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-SETTLEMENT-1787688893.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "2f3af55a4470",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Video: US country music legend Dolly Parton dies",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-us-country-music-legend-dolly-parton-dies?traffic_source=rss",
-     "summary": "US country music star Dolly Parton has died aged 80, her family have announced in a video on social media.",
-     "published": "2026-08-25T19:58:56+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787687912.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "a05311bf12a1",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Dolly Parton: The life of an iconic country singer",
-       "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
-       "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media."
-      }
-     ],
+     "id": "01c63a2ac363",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
-     "url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss",
-     "summary": "Omani FM hopes the two countries will 'soon announce' a joint temporary transit corridor through the Strait of Hormuz.",
-     "published": "2026-08-25T19:47:51+00:00",
+     "title": "Syrian Democratic Forces announce their dissolution",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+     "summary": "The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus",
+     "published": "2026-08-25T21:09:05+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8daa9d-1787669149.jpg?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787692133.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "dcd1aff95af6",
+     "id": "556741ad4090",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Real Madrid vs Sociedad: La Liga – prediction, team news, lineups",
+     "url": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss",
+     "summary": "Kylian Mbappe and Jude Bellingham headline against Sociedad as Real seek consecutive wins to open La Liga season.",
+     "published": "2026-08-25T20:41:50+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14233260-1787654599.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "91af863ad509",
      "category": "general",
      "category_label": "General"
     },
@@ -861,6 +826,22 @@
      "id": "89c4e17188b2",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+     "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+     "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+     "published": "2026-08-25T19:30:37+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/ffb85360-a0b9-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "8a33f55feeca",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "39 people in South Africa"
+     ]
     },
     {
      "title": "Brain disease in dead NFL players 'higher than previously shown'",
@@ -944,6 +925,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Village in Rae Bareli tense after mud smeared on Ambedkar’s statue",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/village-in-rae-bareli-tense-after-mud-smeared-on-ambedkars-statue/article71389654.ece",
+     "summary": "The police assured the villagers of swift identification of the culprits and strict legal action; police have been deployed in the village as a precautionary measure, and the situation is under control",
+     "published": "2026-08-25T20:51:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "6507665c422a",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Bombay High Court to hear PIL against Marathi rule for drivers",
      "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-to-hear-pil-against-marathi-rule-for-drivers/article71389848.ece",
      "summary": "The petition challenges the August 12 notification of the Home (Transport) Department, which amended the Maharashtra Motor Vehicles Rules, 1989 to include this condition for licence grants, renewals, and permit holders",
@@ -973,15 +967,15 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Loitering munition may have hit Kirana Hills during Operation Sindoor: former CDS Anil Chauhan",
-     "url": "https://www.thehindu.com/news/national/loitering-munition-may-have-hit-kirana-hills-during-operation-sindoor-former-cds-anil-chauhan/article71390353.ece",
-     "summary": "Nuclear-related facilities are located in the Kirana Hills area near Pakistan’s Sargodha",
-     "published": "2026-08-25T20:14:44+00:00",
+     "title": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event",
+     "url": "https://www.thehindu.com/news/national/nyc-mayor-mamdani-opposes-rss-chief-bhagwats-madison-square-event/article71390368.ece",
+     "summary": "Zohran Mamdani said the vision of India that his family taught him was that of \"a pluralistic society, of a secular republic that believed in the belonging of each and every person who was from India\"",
+     "published": "2026-08-25T20:00:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bx10qz/article71390395.ece/alternates/LANDSCAPE_1200/20260213331L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/pllikx/article71390381.ece/alternates/LANDSCAPE_1200/2026-08-12T191157Z_893822250_RC25XMAFBBXC_RTRMADP_3_USA-TRUMP-IMMIGRATION-NEW-YORK.JPG",
      "licence": "linkout",
-     "id": "a1169c363b29",
+     "id": "7da025114a9c",
      "category": "general",
      "category_label": "General"
     },
@@ -997,32 +991,6 @@
      "id": "0811a2e81069",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "IAMC and allied faith organisations protest against Mohan Bhagwat’s event at Madison Square Garden",
-     "url": "https://www.thehindu.com/news/national/iamc-and-allied-faith-organisations-protest-against-mohan-bhagwats-event-at-madison-square-garden/article71390230.ece",
-     "summary": "Held under the banner “No Platform for Hate,” the protest brought together representatives of Muslim, Hindu, Sikh, Christian, Dalit and interfaith organisations",
-     "published": "2026-08-25T19:56:45+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/54oba8/article71390393.ece/alternates/LANDSCAPE_1200/20260825480L.jpeg",
-     "licence": "linkout",
-     "id": "4383c60f3c42",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Several injured as police stop Bihar students’ protest march",
-     "url": "https://www.thehindu.com/news/national/bihar/students-in-bihar-break-through-barricades-in-bid-to-gherao-cm-residence-police-use-water-cannons/article71387958.ece",
-     "summary": "Protesting since August 18, the students have made several demands, including conducting a single Teacher Recruitment Examination",
-     "published": "2026-08-25T19:18:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/41xd8e/article71387970.ece/alternates/LANDSCAPE_1200/PTI08_25_2026_000122A.jpg",
-     "licence": "linkout",
-     "id": "a03ff52aa3fd",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "School assembly news headlines today- August 26: Top national, sports and world news curated for you",
@@ -1709,19 +1677,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ea/live/dedd8720-a094-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
      "id": "a504a6509efc",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Is school to blame for mum's asbestos death?",
-     "url": "https://www.bbc.co.uk/news/videos/cyvzpjlv2ejo?at_medium=RSS&at_campaign=rss",
-     "summary": "Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos.",
-     "published": "2026-08-24T21:28:24+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91db/live/d883b340-9fdb-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "c2857290a329",
      "category": "general",
      "category_label": "General"
     }
