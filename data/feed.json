@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T17:03:23.832681+00:00",
+ "generated_at": "2026-08-29T17:32:40.299711+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Special Fort",
-  "India Explained",
+  "Kolkata Police",
+  "Drugs Seized",
   "Jazeera English",
   "News",
   "Keralam Messi",
   "Scandals & Investigations",
-  "Chirag Paswan",
-  "Nepal Keralam",
-  "Hindu",
-  "Israeli Gaza"
+  "Locations India",
+  "Niger",
+  "Russian Kyiv",
+  "Footage Tibet"
  ],
  "sections": [
   {
@@ -103,46 +103,60 @@
    "upsc": false,
    "items": [
     {
-     "title": "Special court takes cognisance of NIA chargesheet in 2025 Red Fort blast case",
-     "url": "https://www.thehindu.com/news/national/delhi-court-takes-cognisance-of-nia-chargesheet-in-red-fort-blast-case/article71403911.ece",
-     "summary": "It is alleged that the accused had links to Ansar Ghazwat-ul-Hind, an organisation the NIA has described as an offshoot of Al-Qaeda in the Indian Subcontinent",
-     "published": "2026-08-29T16:42:02+00:00",
+     "title": "Kolkata Police file FIR against Mamata Banerjee for violating Calcutta High Court order",
+     "url": "https://www.thehindu.com/news/national/west-bengal/fir-against-mamata-banerjee-for-violation-of-calcutta-high-court-order-on-trinamool-student-wing-foundation-day-event/article71404160.ece",
+     "summary": "The court had ordered the event to be held from 12 p.m. to 3 p.m. The rally, however, went beyond 3 p.m., as the former Chief Minister could not finish her speech in time",
+     "published": "2026-08-29T17:20:02+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3kax8g/article71403936.ece/alternates/LANDSCAPE_1200/20260225134L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/6l4kfv/article71404170.ece/alternates/LANDSCAPE_1200/PTI08_28_2026_000299B.jpg",
      "licence": "linkout",
-     "id": "e013f3d03f9f",
+     "id": "32bea069ced1",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "Why a UN committee asked India to act against hate speech and hate crimes | Explained",
-     "url": "https://www.thehindu.com/videos/why-a-un-committee-asked-india-to-act-against-hate-speech-and-hate-crimes-explained/article71405681.ece",
-     "summary": "The UN Committee on the Elimination of Racial Discrimination (UNCERD) has raised concerns over hate speech, hate crimes, citizenship policies, and the treatment of minorities in India. The committee made several recommendations, while the Indian government rejected what it called “sweeping generalisations” in the findings.",
-     "published": "2026-08-29T16:34:00+00:00",
-     "source": "The Hindu",
+     "title": "12.8-Kg Drugs Seized From Car In Coimbatore. 100-Grams Bust Led Cops To It",
+     "url": "https://www.ndtv.com/india-news/12-8-kg-drugs-seized-from-car-in-coimbatore-100-grams-bust-led-cops-to-it-11975726#publisher=newsstand",
+     "summary": "Three accused, part of an interstate drug trafficking network, were arrested after police uncovered the major gang several weeks ago, when six persons were caught with 100 grams of MDMA.",
+     "published": "2026-08-29T15:51:16+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2knhwd/article71405680.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN.png",
+     "image": "https://c.ndtvimg.com/2026-08/70uandbs_mdma_625x300_29_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c553a69fee46",
+     "id": "b588c4676fe0",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National Hotlines"
+     "from_section": "National News",
+     "figures": [
+      "100 grams of MDMA"
+     ]
     },
     {
-     "title": "Mamata Banerjee booked: FIR filed over TMCP event in Kolkata",
-     "url": "https://www.thehindu.com/videos/mamata-banerjee-booked-fir-filed-over-tmcp-event-in-kolkata/article71405663.ece",
-     "summary": "Kolkata Police have registered an FIR against former West Bengal Chief Minister Mamata Banerjee and organisers of the TMCP foundation day programme, alleging violations of conditions imposed by the Calcutta High Court. The case has sparked a fresh political controversy in the state.",
-     "published": "2026-08-29T16:31:50+00:00",
-     "source": "The Hindu",
+     "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
+     "summary": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.",
+     "published": "2026-08-29T16:53:55+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i2dmww/article71405662.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-29%20at%209.58.30%E2%80%AFPM.png",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788022346.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "1513392c1d1c",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
+     "id": "4e1ad2cbb272",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+       "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
+     "figures": [
+      "38 people and wounding dozens"
+     ]
     },
     {
      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
@@ -176,51 +190,66 @@
      "from_section": "Global News"
     },
     {
-     "title": "Chirag Paswan hits back at Rahul Gandhi’s caste discrimination remarks",
-     "url": "https://www.thehindu.com/news/national/bihar/chirag-paswan-hits-back-at-rahul-gandhis-caste-discrimination-remarks/article71404753.ece",
-     "summary": "Chirag Paswan also demanded the resignation of Hindustani Awam Morcha (Secular) leader, Santosh Kumar Suman from the Bihar Cabinet after the party, an NDA ally, sought a review of the reservation policy and sub-categorisation of Scheduled Castes and Scheduled Tribes.",
-     "published": "2026-08-29T16:46:43+00:00",
-     "source": "The Hindu",
+     "title": "Dussehra bonus: Central govt employees demand 3x jump in ₹7,000 payment ceiling",
+     "url": "https://www.livemint.com/money/dussehra-bonus-central-govt-employees-demand-3x-jump-in-7-000-payment-ceiling-11788018015639.html",
+     "summary": "In a letter to the Cabinet Secretary, the National Council &nbsp;highlighted that the central government's revision of the minimum wage to ₹21,000 per month alters the calculation formula",
+     "published": "2026-08-29T16:31:54+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qyn92c/article71405719.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/Gemini_Generated_Image_ngoddnngoddnngod_1788020784533_1788020802968_270612ae-087f-409c-8fe1-95fe88aba22b.png",
      "licence": "linkout",
-     "id": "e802940b0da4",
+     "id": "277e075cca54",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "17 days after protest, Maharashtra Government accepts all the demands of tribal students",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-accepts-demands-of-tribal-students-appeals-them-to-call-off-hunger-strike/article71404503.ece",
-     "summary": "Protesters thank Rahul Gandhi among other leaders, say this is the first time their issues were heard at the national level",
-     "published": "2026-08-29T16:44:37+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/4gli1m/article71404575.ece/alternates/LANDSCAPE_1200/09_IMG_2007.jpg",
-     "licence": "linkout",
-     "id": "c7dc7e015fa0",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "Business",
      "figures": [
-      "17 days after protest, Maharashtra Government"
+      "₹7,000  payment ceiling",
+      "₹21,000  per month alters"
      ]
     },
     {
-     "title": "Why Maharashtra wants to regulate coaching centres | Explained",
-     "url": "https://www.thehindu.com/videos/why-maharashtra-wants-to-regulate-coaching-centres-explained/article71405676.ece",
-     "summary": "Maharashtra’s proposed Private Coaching Centres Bill, 2026 seeks to regulate coaching institutes with new rules on admissions, fees, safety standards and student welfare. From banning school-coaching tie-ups to restricting enrolment of children below 13, here’s everything you need to know about the proposed law and its impact on students, parents and coaching centres.",
-     "published": "2026-08-29T16:32:23+00:00",
-     "source": "The Hindu",
+     "title": "\"Didn't Perform To Expectations\": Hockey India President 'Not Happy' With India's World Cup 2026 Showing",
+     "url": "https://sports.ndtv.com/hockey/didnt-perform-to-expectations-hockey-india-president-not-happy-with-indias-world-cup-2026-showing-11975706#publisher=newsstand",
+     "summary": "Hockey India president Dilip Tirkey has expressed disappointment with the performance of the Indian men's team at the FIH Hockey World Cup 2026, saying the side failed to live up to expectations.",
+     "published": "2026-08-29T16:25:03+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/stig6a/article71405670.ece/alternates/LANDSCAPE_1200/mamata%202.png",
+     "image": "https://c.ndtvimg.com/2026-08/66r2ls7g_india-hockey_625x300_29_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "731bad600fc8",
+     "id": "c256286bfb46",
      "category": "politics",
      "category_label": "Political controversy",
+     "from_section": "Sports"
+    },
+    {
+     "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+     "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+     "published": "2026-08-29T16:15:56+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "d1fd3bc001a5",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "District Collector given additional charge as MD of Kochi metro, with Loknath Behera’s term ending on August 30",
+     "url": "https://www.thehindu.com/news/national/kerala/district-collector-given-additional-charge-as-md-of-kochi-metro-with-loknath-beheras-term-ending-on-august-30/article71405323.ece",
+     "summary": "A new MD is awaited at a time when the metro’s ₹1,957-crore Kakkanad extension is due for commissioning in a year, after which KMRL is expected to shift focus to the third phase",
+     "published": "2026-08-29T17:01:08+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/t9vji6/article71405774.ece/alternates/LANDSCAPE_1200/metro_01.jpg",
+     "licence": "linkout",
+     "id": "00feab55822d",
+     "category": "money",
+     "category_label": "Money & scams",
      "from_section": "National Hotlines",
      "figures": [
-      "13, here ’s everything you need"
+      "₹1,957 -crore Kakkanad extension is"
      ]
     },
     {
@@ -241,38 +270,24 @@
      ]
     },
     {
-     "title": "UPI transaction limits explained: From ₹1,000 to ₹5 lakh, how much can you transfer?",
-     "url": "https://www.livemint.com/money/personal-finance/upi-transaction-limits-explained-from-1-000-to-5-lakh-how-much-can-you-transfer-11788013480318.html",
-     "summary": "NPCI and the RBI have permitted higher transaction limits for certain categories. These include tax payments, initial public offerings (IPOs), hospitals and educational institutions, among others",
-     "published": "2026-08-29T15:16:02+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/29/600x338/Gemini_Generated_Image_hrbmc9hrbmc9hrbm_1788016532626_1788016536005_739ed926-fda5-4d19-a619-5bb1301ee1aa.png",
-     "licence": "linkout",
-     "id": "1127bde7eb7b",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹1,000  to ₹5 lakh, how",
-      "₹5 lakh , how much can"
-     ]
-    },
-    {
-     "title": "HDFC CEO Sashidhar Jagdishan Not Seeking Extension, To Retire On October 26",
-     "url": "https://www.ndtv.com/india-news/hdfc-ceo-sashidhar-jagdishan-not-seeking-extension-to-retire-on-october-26-11975506#publisher=newsstand",
-     "summary": "HDFC Bank's board tried to convince him to continue as the financial institution's chief executive. He, however, conveyed his decision to retire.",
-     "published": "2026-08-29T14:45:51+00:00",
+     "title": "2 Myanmar Nationals Detained In Arunachal With Drugs Worth Rs 26 Lakh",
+     "url": "https://www.ndtv.com/india-news/2-myanmar-nationals-detained-in-arunachal-with-drugs-worth-rs-26-lakh-11975625#publisher=newsstand",
+     "summary": "The security personnel also recovered 130.09 grams of a substance suspected to be brown sugar or heroin, concealed in 10 soap cases. The seized substance is estimated to be worth around Rs 26 lakh in the international market.",
+     "published": "2026-08-29T15:20:53+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/mj2e6dhg_sashidhar_625x300_29_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2024-07/74kf44go_police-photo_625x300_26_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "da9119a3abca",
+     "id": "bc902450acfd",
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "National News",
      "figures": [
-      "26. HDFC Bank's board tried"
+      "2 Myanmar Nationals Detained In Arunachal",
+      "Rs 26 Lakh",
+      "130.09 grams of a substance suspected",
+      "10 soap cases",
+      "Rs 26 lakh in the international market"
      ]
     },
     {
@@ -290,6 +305,24 @@
      "from_section": "Culture"
     },
     {
+     "title": "Nepal flash flood: India sends tunnel rescue team to Nepal",
+     "url": "https://www.thehindu.com/news/national/nepal-flash-flood-india-sends-tunnel-rescue-team-to-nepal/article71405468.ece",
+     "summary": "The MEA says at least 287 Indians remain missing as on Saturday, August 29, and in addition, 128 persons of Indian origin are also missing following the disaster",
+     "published": "2026-08-29T17:02:52+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/21muwi/article71405770.ece/alternates/LANDSCAPE_1200/HQ05umqbAAA8a3r.jpg",
+     "licence": "linkout",
+     "id": "2546834bcbf1",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "National Hotlines",
+     "figures": [
+      "287 Indians remain missing",
+      "128 persons of Indian origin are"
+     ]
+    },
+    {
      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
      "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
      "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
@@ -304,64 +337,74 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-     "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-     "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-     "published": "2026-08-28T19:40:45+00:00",
-     "source": "BBC News",
+     "title": "Forensic Expert Team From Gujarat Leaves For Nepal To Identify Flood Victims",
+     "url": "https://www.ndtv.com/india-news/forensic-expert-team-from-gujarat-leaves-for-nepal-to-identify-flood-victims-11975845#publisher=newsstand",
+     "summary": "The mission is conducted under the joint guidance of India's Ministry of External Affairs and the Ministry of Home Affairs, and focuses on critical Disaster Victim Identification protocol directly on the ground.",
+     "published": "2026-08-29T16:35:25+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg",
+     "image": "https://c.ndtvimg.com/2026-08/8sfco7qc_nepal-flood_625x300_27_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "1dd516218cfb",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
+     "id": "8990d568252a",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Nepal flash flood: India sends tunnel rescue team to Nepal",
+       "url": "https://www.thehindu.com/news/national/nepal-flash-flood-india-sends-tunnel-rescue-team-to-nepal/article71405468.ece",
+       "summary": "The MEA says at least 287 Indians remain missing as on Saturday, August 29, and in addition, 128 persons of Indian origin are also missing following the disaster"
+      }
+     ],
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News"
     },
     {
-     "title": "Nepal floods: 16 more reach Keralam, safety of 45 confirmed",
-     "url": "https://www.thehindu.com/news/national/kerala/nepal-floods-16-more-reach-keralam-safety-of-45-confirmed/article71405657.ece",
-     "summary": "",
-     "published": "2026-08-29T16:46:27+00:00",
-     "source": "The Hindu",
+     "title": "Assam Professor, Husband Among Indians Missing In Flood-Hit Nepal",
+     "url": "https://www.ndtv.com/india-news/assam-professor-husband-among-indians-missing-in-flood-hit-nepal-11975747#publisher=newsstand",
+     "summary": "Sarkar and Ghosh had travelled to Nepal as part of a larger tourist group.",
+     "published": "2026-08-29T15:59:19+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://c.ndtvimg.com/2026-08/8sfco7qc_nepal-flood_625x300_27_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "a57d16768b0f",
+     "id": "9d803a8185ab",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News"
+    },
+    {
+     "title": "Before The Nepal Flood, A Glacial Fall: Tracing The Trigger, And A 100-km Killer Run",
+     "url": "https://www.ndtv.com/india-news/before-the-deluge-a-glacial-fall-tracing-the-trigger-of-nepal-catastrophe-and-the-100-km-killer-run-11975599#publisher=newsstand",
+     "summary": "A glacier came off a ridge on the Nepal-China border and travelled 100 km down multiple rivers, the longest part of the run being in the Trishuli.",
+     "published": "2026-08-29T15:53:39+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/922dq5dk_nepal_625x300_29_August_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "17bde2d66c0f",
      "category": "weather",
      "category_label": "Weather & disaster",
      "from_section": "National News",
      "figures": [
-      "16 more reach Keralam, safety",
-      "45 confirmed"
+      "100 km down multiple rivers"
      ]
     },
     {
-     "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-     "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-     "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-     "published": "2026-08-29T03:54:11+00:00",
-     "source": "BBC News",
+     "title": "19 unauthorised constructions demolished on August 29 by Cyberabad civic body",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/19-unauthorised-constructions-demolished-on-august-29-by-cyberabad-civic-body/article71405750.ece",
+     "summary": "",
+     "published": "2026-08-29T17:17:51+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/6ck3om/article71405758.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-29%20at%205.18.22%20PM.jpeg",
      "licence": "linkout",
-     "id": "929aeaf9b438",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Satellite images reveal scale of flood devastation in Nepal villages",
-     "url": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
-     "summary": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
-     "published": "2026-08-28T17:36:54+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787d/live/19ed92c0-a305-11f1-a291-b542ee92de7c.png",
-     "licence": "linkout",
-     "id": "5654be3a506b",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline"
+     "id": "f8e2099cf757",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News",
+     "figures": [
+      "19 unauthorised constructions demolished on August"
+     ]
     },
     {
      "title": "AI challenges trust in photography as Visa pour l’Image festival opens",
@@ -392,18 +435,18 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "How AI and Smart Manufacturing Are Transforming China's Optical Fiber Giant",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1lxQjZxX3VSMXp1NXhwMEgzN2FpNTBuYmwyNU50aWY2QlFtanRuTmI1RVZaZm1oZ04tMHpZd1laLUJKZUxKVTJZc2FfbXMwWk41dERXM1F2SlB3TnZLV0sybkFzTVpwUDluejZwSkRWczBYalhOcldfOHdGSHNjWWl3bmFtZURiVXVnM083T3VDT3BkbldUeE9hTkhxRW1TUEdQcG5R?oc=5",
-     "summary": "How AI and Smart Manufacturing Are Transforming China's Optical Fiber Giant Alwihda Info",
-     "published": "2026-08-29T05:10:25+00:00",
-     "source": "Alwihda Info",
+     "title": "A.P. Speaker calls for effective implementation of sports quota for athletes",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-speaker-calls-for-effective-implementation-of-sports-quota-for-athletes/article71405187.ece",
+     "summary": "Addressing the gathering at the Amaravati Championship 2026 conclusion, Chintakayala Ayyanna Patrudu says providing incentives and job opportunities to students who excel in sports would further boost interest in athletics",
+     "published": "2026-08-29T17:18:18+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/j38y6x/article71405820.ece/alternates/LANDSCAPE_1200/VJ29Chintakayala.jpg",
      "licence": "linkout",
-     "id": "3f6d97b60db3",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
+     "id": "30180602e370",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "National News"
     },
     {
      "title": "Sunil Chhetri \"Jealous\" Of India Playing Brazil, Uruguay. Here's Why",
@@ -434,18 +477,22 @@
      "from_section": "Sports"
     },
     {
-     "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
-     "url": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
-     "summary": "United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.",
-     "published": "2026-08-29T14:33:45+00:00",
-     "source": "Al Jazeera",
+     "title": "Around 50 Karnataka tourists stranded in Nepal return home; 24 remain missing",
+     "url": "https://www.thehindu.com/news/national/karnataka/28-from-karnataka-stranded-or-missing-in-nepal-tibet-amid-flash-flood/article71403924.ece",
+     "summary": "The group included tourists from Haveri, Shivamogga and Bengaluru. They travelled from Gorakhpur in Uttar Pradesh and arrived at Kempegowda International Airport in Bengaluru on Saturday.",
+     "published": "2026-08-29T17:19:15+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a92d241-1788006977_fc5874-1788007024.jpg?resize=1200%2C630&quality=80",
+     "image": "https://th-i.thgim.com/public/incoming/g408bh/article71404191.ece/alternates/LANDSCAPE_1200/Nepal_Flash_Floods_38_5_.jpg",
      "licence": "linkout",
-     "id": "3c8a8b76078a",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
+     "id": "0481c89e797a",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News",
+     "figures": [
+      "50 Karnataka tourists stranded in Nepal",
+      "24 remain missing"
+     ]
     },
     {
      "title": "Keralam government likely to go for SIT inquiry into irregularities surrounding Messi’s visit",
@@ -475,7 +522,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-29T17:03:10.404823+00:00",
+     "published": "2026-08-29T17:32:27.179261+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -486,7 +533,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-29T17:03:10.404834+00:00",
+     "published": "2026-08-29T17:32:27.179272+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -497,7 +544,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-29T17:03:10.404837+00:00",
+     "published": "2026-08-29T17:32:27.179278+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -508,7 +555,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-29T17:03:10.404839+00:00",
+     "published": "2026-08-29T17:32:27.179281+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -519,7 +566,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-29T17:03:10.404844+00:00",
+     "published": "2026-08-29T17:32:27.179283+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -530,7 +577,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-29T17:03:10.404848+00:00",
+     "published": "2026-08-29T17:32:27.179285+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -568,19 +615,6 @@
      "id": "15027d0b2636",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "B Nagendra Quits Karnataka Cabinet Amid Valmiki Scam Allegations, Calls Charges Politically Driven",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOalFJTGpDZE9NM1pOZlQ0UHVqN0lxdWpUcnlxdkFMWmpDWUtydTAyYjQ1SmR5OWVqb01XZG1HU2RaeTRHbVNNeHdvZTYzQ09xdXVmQ0ItWEtxaWlaWnk4ZDFCX3VvUk1tWFVucDdpV0MwMjdnWXIwWHlWX0VSUDZJbzZNVzc5Yjh6UnBaNGRKVUdCU2c0UG8zQmY3S2pYQ1BOX0std25OWGo0ZkJWY1BwdTJVelZnVTY1QnZPakJWalVmVGhqSloyTWZmaVFZR2ZKNzVPOFZOa3BCdklyLTFYNXJNbjBRTlliRlFpOVE4UkduMXY4NmRTOTNWRHd6QdIBgwJBVV95cUxQdHBPNWlqcXVtY2NhMWJZTlI1SnAzb3ppOW5iajIwckZrY0Nnb3BVN3NnYTh1VnBCN0labGhsN2dTRHlJLWtDUWxkWVJnZjMzUmRfMUc3d0R6cDE4TGlsYVV0TjlWZXdudVNRSUZUck1ubXhiSExVeElrWjZRR2tJTkh5bzhpU3J5RURPTFhZOXJLTWg2SkFFMkx3U0lHQ3JKcXMyYllZZnVzZEZYMkItWVlha2I5OF9VdU9UZmJYcF9WSHEwMTUweVRwSE5FMU1zdlZPNkdUV3A4ZTVaUzRZOTltTnpxZ0ZKblNzdHI5WDU2cEV2UG14V0pFbkVSWUhVZ1Zj?oc=5",
-     "summary": "B Nagendra Quits Karnataka Cabinet Amid Valmiki Scam Allegations, Calls Charges Politically Driven The Times of India",
-     "published": "2026-08-28T17:11:22+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e08c8ba2eafd",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -591,122 +625,50 @@
    "upsc": false,
    "items": [
     {
-     "title": "Chirag Paswan hits back at Rahul Gandhi’s caste discrimination remarks",
-     "url": "https://www.thehindu.com/news/national/bihar/chirag-paswan-hits-back-at-rahul-gandhis-caste-discrimination-remarks/article71404753.ece",
-     "summary": "Chirag Paswan also demanded the resignation of Hindustani Awam Morcha (Secular) leader, Santosh Kumar Suman from the Bihar Cabinet after the party, an NDA ally, sought a review of the reservation policy and sub-categorisation of Scheduled Castes and Scheduled Tribes.",
-     "published": "2026-08-29T16:46:43+00:00",
+     "title": "Locations of two additional India-China border meeting points yet to be announced",
+     "url": "https://www.thehindu.com/news/national/locations-of-two-additional-india-china-border-meeting-points-yet-to-be-announced/article71405590.ece",
+     "summary": "According to an eight-point outcome document released by both countries on August 26 following the 25th round of talks between the Special Representatives (SRs) on the Boundary Question, India and China have also agreed to establish two additional meeting points to hold General-level or Senior Highest Military Commander-level meetings.",
+     "published": "2026-08-29T17:25:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qyn92c/article71405719.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/q580pz/article71405815.ece/alternates/LANDSCAPE_1200/IMG_PTI1_27_2015_000067A_2_1_IA97VAF9.jpg",
      "licence": "linkout",
-     "id": "e802940b0da4",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Nepal floods: 16 more reach Keralam, safety of 45 confirmed",
-     "url": "https://www.thehindu.com/news/national/kerala/nepal-floods-16-more-reach-keralam-safety-of-45-confirmed/article71405657.ece",
-     "summary": "",
-     "published": "2026-08-29T16:46:27+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "a57d16768b0f",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "figures": [
-      "16 more reach Keralam, safety",
-      "45 confirmed"
-     ]
-    },
-    {
-     "title": "17 days after protest, Maharashtra Government accepts all the demands of tribal students",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-accepts-demands-of-tribal-students-appeals-them-to-call-off-hunger-strike/article71404503.ece",
-     "summary": "Protesters thank Rahul Gandhi among other leaders, say this is the first time their issues were heard at the national level",
-     "published": "2026-08-29T16:44:37+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/4gli1m/article71404575.ece/alternates/LANDSCAPE_1200/09_IMG_2007.jpg",
-     "licence": "linkout",
-     "id": "c7dc7e015fa0",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "17 days after protest, Maharashtra Government"
-     ]
-    },
-    {
-     "title": "BJP says 'no caste angle' in Haldwani incident, accuses Rahul Gandhi of playing divisive politics",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/bjp-says-no-caste-angle-in-haldwani-incident-accuses-rahul-gandhi-of-playing-divisive-politics/article71405561.ece",
-     "summary": "The attack came after Rahul Gandhi targeted the party and the RSS, alleging that a “purification” ceremony was organised at a rally venue addressed by Mallikarjun Kharge in Haldwani",
-     "published": "2026-08-29T16:42:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/ko8alh/article71386675.ece/alternates/LANDSCAPE_1200/TH24-Phukan-ConGUQGELTI4.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "80a0f65feeb8",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "2 Arrested, 2 Minors Detained In Arunachal Gang-Rape Case",
-     "url": "https://www.ndtv.com/india-news/2-arrested-2-minors-detained-in-arunachal-gang-rape-case-11975528#publisher=newsstand",
-     "summary": "Police subsequently launched a sustained search for the remaining suspects. Investigators said the suspects had fled to Delhi and Dehradun before returning to Arunachal Pradesh and hiding in the Deban area.",
-     "published": "2026-08-29T14:50:00+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2020-01/7qbdof68_assam-police-generic-pti-_625x300_26_January_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "9dee995f6fab",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "2 Arrested , 2 Minors Detained",
-      "2 Minors Detained In Arunachal Gang-Rape"
-     ]
-    },
-    {
-     "title": "IISER Seat Allotment Result 2026 Round 6 Out: Know How To Download",
-     "url": "https://www.ndtv.com/education/iiser-seat-allotment-result-2026-round-6-out-know-how-to-download-11975305#publisher=newsstand",
-     "summary": "IISER Seat Allotment Result 2026 Round 6 is out. Candidates can check their allotment status online and pay the Seat Acceptance Fee by August 30. Check steps and details.",
-     "published": "2026-08-29T13:54:14+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/t6ke1f9k_iiser_625x300_29_August_26.jpeg",
-     "licence": "linkout",
-     "id": "75130969a86e",
+     "id": "688f904b2a9b",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "30. Check steps and details"
+      "26 following the 25th round"
      ]
     },
     {
-     "title": "Samay Raina's New 'Latent' Row Involves Banter On Kashmiri Roots",
-     "url": "https://www.ndtv.com/india-news/samay-rainas-new-latent-row-involves-banter-on-kashmiri-roots-11975138#publisher=newsstand",
-     "summary": "Comic Sharon Verma appeared on the new episode of India's Got Latent.She and Raina, the host, exchanged quick jokes. Soon, the session veered into roasting territory.",
-     "published": "2026-08-29T13:52:00+00:00",
-     "source": "NDTV",
+     "title": "Kolkata Police file FIR against Mamata Banerjee for violating Calcutta High Court order",
+     "url": "https://www.thehindu.com/news/national/west-bengal/fir-against-mamata-banerjee-for-violation-of-calcutta-high-court-order-on-trinamool-student-wing-foundation-day-event/article71404160.ece",
+     "summary": "The court had ordered the event to be held from 12 p.m. to 3 p.m. The rally, however, went beyond 3 p.m., as the former Chief Minister could not finish her speech in time",
+     "published": "2026-08-29T17:20:02+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-04/rb1q7ka8_samay-rainas-still-alive-becomes-most-watched-comedy-special-on-youtube_625x300_23_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/6l4kfv/article71404170.ece/alternates/LANDSCAPE_1200/PTI08_28_2026_000299B.jpg",
      "licence": "linkout",
-     "id": "8000618296cb",
-     "category": "general",
-     "category_label": "General"
+     "id": "32bea069ced1",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "\"Sub-Standard\": Everest, Laljee Godhoo Banned From Selling Hing Powder",
-     "url": "https://www.ndtv.com/india-news/substandard-everest-laljee-godhoo-banned-from-selling-hing-powder-11975319#publisher=newsstand",
-     "summary": "In the case of Everest, FSSAI has prohibited the sale of compounded asafoetida (hing powder) variants with immediate effect.",
-     "published": "2026-08-29T13:49:41+00:00",
-     "source": "NDTV",
+     "title": "Around 50 Karnataka tourists stranded in Nepal return home; 24 remain missing",
+     "url": "https://www.thehindu.com/news/national/karnataka/28-from-karnataka-stranded-or-missing-in-nepal-tibet-amid-flash-flood/article71403924.ece",
+     "summary": "The group included tourists from Haveri, Shivamogga and Bengaluru. They travelled from Gorakhpur in Uttar Pradesh and arrived at Kempegowda International Airport in Bengaluru on Saturday.",
+     "published": "2026-08-29T17:19:15+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2022-12/sqelakhg_hing_625x300_28_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/g408bh/article71404191.ece/alternates/LANDSCAPE_1200/Nepal_Flash_Floods_38_5_.jpg",
      "licence": "linkout",
-     "id": "700b9dab2279",
-     "category": "general",
-     "category_label": "General"
+     "id": "0481c89e797a",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "figures": [
+      "50 Karnataka tourists stranded in Nepal",
+      "24 remain missing"
+     ]
     }
    ]
   },
@@ -716,6 +678,43 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Niger military says it is regaining control after attempted mutiny",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
+     "summary": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.",
+     "published": "2026-08-29T17:03:10+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788022898.jpg?resize=1920%2C1077&quality=80",
+     "licence": "linkout",
+     "id": "6f0107bee274",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
+     "summary": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.",
+     "published": "2026-08-29T16:53:55+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788022346.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "4e1ad2cbb272",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+       "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "38 people and wounding dozens"
+     ]
+    },
     {
      "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
      "url": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
@@ -728,19 +727,6 @@
      "id": "18d6c8786a71",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-     "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-     "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
-     "published": "2026-08-29T15:25:43+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a92f0855d931-1788014725.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "5cf9c84c3416",
-     "category": "conflict",
-     "category_label": "War & conflict"
     },
     {
      "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
@@ -756,46 +742,30 @@
      "category_label": "Sports"
     },
     {
-     "title": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
-     "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss",
-     "summary": "Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.",
-     "published": "2026-08-29T14:19:23+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-29T131452Z_646684551_UP1EM8T10SQ5U_RTRMADP_3_SOCCER-ENGLAND-LIV-NFO-1788011355.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "b55c7017b26b",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "2 draw for Liverpool after Nottingham"
-     ]
-    },
-    {
-     "title": "People stranded for days on dilapidated Nigerian highway",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
-     "summary": "Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.",
-     "published": "2026-08-29T14:01:46+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788012099.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "410af4fe82b0",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-     "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-     "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-     "published": "2026-08-29T16:15:56+00:00",
+     "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+     "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+     "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+     "published": "2026-08-29T03:54:11+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
      "licence": "linkout",
-     "id": "d1fd3bc001a5",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "929aeaf9b438",
+     "category": "weather",
+     "category_label": "Weather & disaster"
+    },
+    {
+     "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+     "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+     "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+     "published": "2026-08-29T17:25:01+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "627c6dfa54ca",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
@@ -895,50 +865,63 @@
    "upsc": false,
    "items": [
     {
-     "title": "Chirag Paswan hits back at Rahul Gandhi’s caste discrimination remarks",
-     "url": "https://www.thehindu.com/news/national/bihar/chirag-paswan-hits-back-at-rahul-gandhis-caste-discrimination-remarks/article71404753.ece",
-     "summary": "Chirag Paswan also demanded the resignation of Hindustani Awam Morcha (Secular) leader, Santosh Kumar Suman from the Bihar Cabinet after the party, an NDA ally, sought a review of the reservation policy and sub-categorisation of Scheduled Castes and Scheduled Tribes.",
-     "published": "2026-08-29T16:46:43+00:00",
+     "title": "Locations of two additional India-China border meeting points yet to be announced",
+     "url": "https://www.thehindu.com/news/national/locations-of-two-additional-india-china-border-meeting-points-yet-to-be-announced/article71405590.ece",
+     "summary": "According to an eight-point outcome document released by both countries on August 26 following the 25th round of talks between the Special Representatives (SRs) on the Boundary Question, India and China have also agreed to establish two additional meeting points to hold General-level or Senior Highest Military Commander-level meetings.",
+     "published": "2026-08-29T17:25:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qyn92c/article71405719.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/q580pz/article71405815.ece/alternates/LANDSCAPE_1200/IMG_PTI1_27_2015_000067A_2_1_IA97VAF9.jpg",
      "licence": "linkout",
-     "id": "e802940b0da4",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "688f904b2a9b",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "26 following the 25th round"
+     ]
     },
     {
-     "title": "Nepal floods: 16 more reach Keralam, safety of 45 confirmed",
-     "url": "https://www.thehindu.com/news/national/kerala/nepal-floods-16-more-reach-keralam-safety-of-45-confirmed/article71405657.ece",
+     "title": "Kolkata Police file FIR against Mamata Banerjee for violating Calcutta High Court order",
+     "url": "https://www.thehindu.com/news/national/west-bengal/fir-against-mamata-banerjee-for-violation-of-calcutta-high-court-order-on-trinamool-student-wing-foundation-day-event/article71404160.ece",
+     "summary": "The court had ordered the event to be held from 12 p.m. to 3 p.m. The rally, however, went beyond 3 p.m., as the former Chief Minister could not finish her speech in time",
+     "published": "2026-08-29T17:20:02+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6l4kfv/article71404170.ece/alternates/LANDSCAPE_1200/PTI08_28_2026_000299B.jpg",
+     "licence": "linkout",
+     "id": "32bea069ced1",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Around 50 Karnataka tourists stranded in Nepal return home; 24 remain missing",
+     "url": "https://www.thehindu.com/news/national/karnataka/28-from-karnataka-stranded-or-missing-in-nepal-tibet-amid-flash-flood/article71403924.ece",
+     "summary": "The group included tourists from Haveri, Shivamogga and Bengaluru. They travelled from Gorakhpur in Uttar Pradesh and arrived at Kempegowda International Airport in Bengaluru on Saturday.",
+     "published": "2026-08-29T17:19:15+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/g408bh/article71404191.ece/alternates/LANDSCAPE_1200/Nepal_Flash_Floods_38_5_.jpg",
+     "licence": "linkout",
+     "id": "0481c89e797a",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "figures": [
+      "50 Karnataka tourists stranded in Nepal",
+      "24 remain missing"
+     ]
+    },
+    {
+     "title": "National Sports Day celebrated across Telangana",
+     "url": "https://www.thehindu.com/news/national/telangana/national-sports-day-celebrated-across-telangana/article71404734.ece",
      "summary": "",
-     "published": "2026-08-29T16:46:27+00:00",
+     "published": "2026-08-29T17:08:05+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/tz85gu/article71404859.ece/alternates/LANDSCAPE_1200/Sports%20Day%20.jpeg",
      "licence": "linkout",
-     "id": "a57d16768b0f",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "figures": [
-      "16 more reach Keralam, safety",
-      "45 confirmed"
-     ]
-    },
-    {
-     "title": "17 days after protest, Maharashtra Government accepts all the demands of tribal students",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-accepts-demands-of-tribal-students-appeals-them-to-call-off-hunger-strike/article71404503.ece",
-     "summary": "Protesters thank Rahul Gandhi among other leaders, say this is the first time their issues were heard at the national level",
-     "published": "2026-08-29T16:44:37+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/4gli1m/article71404575.ece/alternates/LANDSCAPE_1200/09_IMG_2007.jpg",
-     "licence": "linkout",
-     "id": "c7dc7e015fa0",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "17 days after protest, Maharashtra Government"
-     ]
+     "id": "a0225f08ec53",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -1412,21 +1395,17 @@
      "category_label": "General"
     },
     {
-     "title": "Dussehra bonus: Central govt employees demand 3x jump in ₹7,000 payment ceiling",
-     "url": "https://www.livemint.com/money/dussehra-bonus-central-govt-employees-demand-3x-jump-in-7-000-payment-ceiling-11788018015639.html",
-     "summary": "In a letter to the Cabinet Secretary, the National Council &nbsp;highlighted that the central government's revision of the minimum wage to ₹21,000 per month alters the calculation formula",
-     "published": "2026-08-29T16:31:54+00:00",
+     "title": "Demand for education loans surges to 86.5% in Tier II, III cities, financing trends shifting, finds Kuhoo Finance report",
+     "url": "https://www.livemint.com/money/personal-finance/demand-education-loans-surge-tier-ii-iii-city-shift-financing-trend-up-maharashtra-mba-job-training-kuhoo-finance-report-11788018675409.html",
+     "summary": "There is increasing demand for education loans from Tier II and III cities, lending data from Kuhoo Finance platform showed. Smaller cities account for 86.5% of applications on the platform, it added.",
+     "published": "2026-08-29T17:26:17+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/Gemini_Generated_Image_ngoddnngoddnngod_1788020784533_1788020802968_270612ae-087f-409c-8fe1-95fe88aba22b.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/29/600x338/Gemini_Generated_Image_nzvqaunzvqaunzvq_1788024559695_1788024568960_8042ed45-6787-4b72-a966-0db5a16e1f5e.png",
      "licence": "linkout",
-     "id": "277e075cca54",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹7,000  payment ceiling",
-      "₹21,000  per month alters"
-     ]
+     "id": "3bfcb9fb88e4",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "EPFO 3.0: Centralised database, UPI and ATM withdrawal options, quicker settlement — Changes for subscribers, explained",
@@ -1442,17 +1421,21 @@
      "category_label": "General"
     },
     {
-     "title": "8th pay commission meeting in Jaipur on Monday — Here is what's on the agenda and latest updates",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-meeting-jaipur-rajasthan-monday-31-august-1-september-what-agenda-visits-october-city-latest-updates-11788005255139.html",
-     "summary": "The 8th pay commission has scheduled a meeting in Jaipur from 31 August to 1 September to consult with employee groups and stakeholders before finalising recommendations. The announcement is expected latest by May 2027.",
-     "published": "2026-08-29T14:22:54+00:00",
+     "title": "UPI transaction limits explained: From ₹1,000 to ₹5 lakh, how much can you transfer?",
+     "url": "https://www.livemint.com/money/personal-finance/upi-transaction-limits-explained-from-1-000-to-5-lakh-how-much-can-you-transfer-11788013480318.html",
+     "summary": "NPCI and the RBI have permitted higher transaction limits for certain categories. These include tax payments, initial public offerings (IPOs), hospitals and educational institutions, among others",
+     "published": "2026-08-29T15:16:02+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/Jaipur_meet_1788020551533_1788020562970_4744fc3c-7ddf-4d36-89b9-a8352e9c054f.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/29/600x338/Gemini_Generated_Image_hrbmc9hrbmc9hrbm_1788016532626_1788016536005_739ed926-fda5-4d19-a619-5bb1301ee1aa.png",
      "licence": "linkout",
-     "id": "46ca9107f821",
-     "category": "general",
-     "category_label": "General"
+     "id": "1127bde7eb7b",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹1,000  to ₹5 lakh, how",
+      "₹5 lakh , how much can"
+     ]
     }
    ]
   },
