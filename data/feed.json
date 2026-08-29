@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T21:01:35.251210+00:00",
+ "generated_at": "2026-08-29T21:31:43.458992+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "British Right",
   "Algeria",
+  "Judiciary",
   "Jazeera English",
   "News",
   "Delhi Government",
   "Keralam Messi",
   "National News",
   "Hindus Muslims",
-  "Iceland",
-  "Norway"
+  "Anger Nepal",
+  "Iceland"
  ],
  "sections": [
   {
@@ -102,28 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "British Far-Right Commentator Deported After Immigration Agents Arrest Him",
-     "url": "https://www.ndtv.com/india-news/british-far-right-commentator-deported-after-immigration-agents-arrest-him-11976251#publisher=newsstand",
-     "summary": "The deportation on Friday came a day after Yiannopoulos, 41, was arrested at the Louis Armstrong New Orleans International Airport by Immigration and Customs Enforcement (ICE).",
-     "published": "2026-08-29T19:20:42+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/4d7jeuo_milo_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "43da26495a27",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-       "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-       "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
-      }
-     ],
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
     {
      "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
@@ -154,6 +132,23 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
+    },
+    {
+     "title": "Abhishek Banerjee Summoned By Kolkata Police Over Illegal Billboards Row",
+     "url": "https://www.ndtv.com/india-news/abhishek-banerjee-summoned-by-kolkata-police-over-illegal-billboards-row-11976220#publisher=newsstand",
+     "summary": "The notice, delivered at Abhishek Banerjee's residence on Kalighat Road, directed him to appear at Shakespeare Sarani Police Station on September 1 at 12 noon.",
+     "published": "2026-08-29T19:05:01+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2023-10/vnkd0nfs_abhishek-banerjee-ani_625x300_07_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "434281df5456",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "12 noon"
+     ]
     },
     {
      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
@@ -187,6 +182,34 @@
      "from_section": "Global News"
     },
     {
+     "title": "Nepal Flash Flood LIVE Updates: Damage May Cost Up To $5 Billion To Rebuild, Says Minister",
+     "url": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand",
+     "summary": "Nepal Flash Flood Death Count LIVE News Updates: At least 676 bodies have so far been found, with nearly 3,000 people still unaccounted for, including more than 300 Indians.",
+     "published": "2026-08-29T18:47:13+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/ec2cnoi_nepal-flood_625x300_29_August_26.jpeg",
+     "licence": "linkout",
+     "id": "8f8f90277aaa",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "Anger mounts in Nepal over the government’s response to flash flood",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss",
+       "summary": "Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives."
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "$5 Billion To Rebuild, Says Minister",
+      "676 bodies have so far been",
+      "3,000 people still unaccounted for, including",
+      "300 Indians"
+     ]
+    },
+    {
      "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
      "summary": "Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.",
@@ -213,20 +236,6 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "Global News"
-    },
-    {
-     "title": "Doctors to be recruited to CCRC on priority basis: Keralam fisheries Minister",
-     "url": "https://www.thehindu.com/news/national/kerala/doctors-to-be-recruited-to-ccrc-on-priority-basis-keralam-fisheries-minister/article71405307.ece",
-     "summary": "A recruitment board has been constituted, and the required staff will be recruited soon so that the facility gets fully operational: Abdul Gafoor",
-     "published": "2026-08-29T19:40:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ba0l57/article71405906.ece/alternates/LANDSCAPE_1200/10018_6_5_2025_19_14_52_5_COCHIN_CANCER_CENTRE_05.JPG",
-     "licence": "linkout",
-     "id": "14b5dbf3f421",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
     },
     {
      "title": "Money rules changing from September 1: ITR deadlines, KYC updates and cost revisions you need to know",
@@ -299,6 +308,20 @@
      "from_section": "Global News"
     },
     {
+     "title": "Anger mounts in Nepal over the government’s response to flash flood",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss",
+     "summary": "Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.",
+     "published": "2026-08-29T20:58:25+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788037057.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "cb39a63a84c7",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global News"
+    },
+    {
      "title": "Norway's new king remembers 'my dear father' in first speech",
      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
@@ -311,23 +334,6 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Global News"
-    },
-    {
-     "title": "Premier League: Victor Munoz Saves Andoni Iraola In Liverpool Draw, Big-Spending Spurs Lose Again",
-     "url": "https://sports.ndtv.com/football/premier-league-victor-munoz-saves-andoni-iraola-in-liverpool-draw-big-spending-spurs-lose-again-11976161#publisher=newsstand",
-     "summary": "Victor Munoz saved Andoni Iraola from his first defeat as Liverpool manager with the late strike that rescued a 2-2 draw against Nottingham Forest on Saturday, while Newcastle condemned big-spending Tottenham to a second successive defeat.",
-     "published": "2026-08-29T18:48:20+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ogl2umqk_liverpool-afp_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "8a021416cd43",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Sports",
-     "figures": [
-      "2 draw against Nottingham Forest"
-     ]
     },
     {
      "title": "What we know about deadly Nepal-Tibet floods",
@@ -442,6 +448,20 @@
      "from_section": "Sports"
     },
     {
+     "title": "Missing Assam Man Detained In Bangladesh For Illegal Entry, Smuggling Drugs",
+     "url": "https://www.ndtv.com/india-news/missing-assam-man-detained-in-bangladesh-for-illegal-entry-smuggling-drugs-11976296#publisher=newsstand",
+     "summary": "According to Balai's wife, Mamata Namasudra, he used to go fishing near the border pillar every day.",
+     "published": "2026-08-29T19:58:05+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-05/4n06ghto_border_625x300_09_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "86a1b3adc3c1",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News"
+    },
+    {
      "title": "Delhi Government Deploys Top Officers To Probe 139 Waterlogging Hotspots",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVhvajA5ZW95TVVoNWNscXJQMkgwNXZsSEFwNkV4Y1g5ZHM5QzVra1p3MlBCM1N6R3dTWDJuLXhTWnBXTERSZTMtNVZIbjNZSThiZFhqU1dvWTdWNEVFRkx6TnAwYnBCdk5GYzg2UGw4ZkNoWS1ENU91c1VtUzNwNndra1BmakQxQWJtdGdKdmpKT1Zzd0pyd2pObEJqMVFYSzd1ZTB5WjVLdlJxRGNlUy1iRdIBuwFBVV95cUxNRk9LYzNpV2trQXZqdTJGQ2VSOXhTd3p0RTJHR0h1SGw0SXM5Nk1LUTdxLUpKQ0E4aVV4azV1U3ZoNDNGeVh0ak9PQ2IxVlFhdC02SzZ4UkI2bWFiNzlwcHl2Rm0xd1I5SmtNUEhYeUJZNFNKaHg4YXdaX3ZYZzNyZlFtT0RhQmpZZkVienlBR0VaeDRTMEM4NDNjTXl3Zm44bG0tNkM4VzU3ZUlReXBzdlhUTDliamw3LUZJ?oc=5",
      "summary": "Delhi Government Deploys Top Officers To Probe 139 Waterlogging Hotspots NDTV",
@@ -487,7 +507,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-29T21:01:22.033265+00:00",
+     "published": "2026-08-29T21:31:30.811344+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -498,7 +518,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-29T21:01:22.033281+00:00",
+     "published": "2026-08-29T21:31:30.811356+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -509,7 +529,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-29T21:01:22.033285+00:00",
+     "published": "2026-08-29T21:31:30.811363+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -520,7 +540,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-29T21:01:22.033287+00:00",
+     "published": "2026-08-29T21:31:30.811367+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -531,7 +551,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-29T21:01:22.033290+00:00",
+     "published": "2026-08-29T21:31:30.811371+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -542,30 +562,10 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-29T21:01:22.033293+00:00",
+     "published": "2026-08-29T21:31:30.811375+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
-    },
-    {
-     "title": "Nepal Flash Flood LIVE Updates: Damage May Cost Up To $5 Billion To Rebuild, Says Minister",
-     "url": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand",
-     "summary": "Nepal Flash Flood Death Count LIVE News Updates: At least 676 bodies have so far been found, with nearly 3,000 people still unaccounted for, including more than 300 Indians.",
-     "published": "2026-08-29T18:47:13+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ec2cnoi_nepal-flood_625x300_29_August_26.jpeg",
-     "licence": "linkout",
-     "id": "8f8f90277aaa",
-     "kind": "liveblog",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "$5 Billion To Rebuild, Says Minister",
-      "676 bodies have so far been",
-      "3,000 people still unaccounted for, including",
-      "300 Indians"
-     ]
     }
    ]
   },
@@ -636,6 +636,14 @@
      "image": "https://th-i.thgim.com/public/incoming/od2qkm/article71405969.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000432B.jpg",
      "licence": "linkout",
      "id": "90721430e69c",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "\"Unity And Diversity In India's DNA\": RSS Chief Mohan Bhagwat At New York Event",
+       "url": "https://www.ndtv.com/india-news/unity-and-diversity-in-indias-dna-rss-chief-mohan-bhagwat-at-new-york-event-11976351#publisher=newsstand",
+       "summary": "Mohan Bhagwat, chief of the Rashtriya Swayamsevak Sangh (RSS), addresses a gathering at Madison Square Garden. The event had leaders from across religions among the first-row audience."
+      }
+     ],
      "category": "general",
      "category_label": "General"
     },
@@ -666,20 +674,17 @@
      "category_label": "General"
     },
     {
-     "title": "Abhishek Banerjee Summoned By Kolkata Police Over Illegal Billboards Row",
-     "url": "https://www.ndtv.com/india-news/abhishek-banerjee-summoned-by-kolkata-police-over-illegal-billboards-row-11976220#publisher=newsstand",
-     "summary": "The notice, delivered at Abhishek Banerjee's residence on Kalighat Road, directed him to appear at Shakespeare Sarani Police Station on September 1 at 12 noon.",
-     "published": "2026-08-29T19:05:01+00:00",
+     "title": "\"Unity And Diversity In India's DNA\": RSS Chief Mohan Bhagwat At New York Event",
+     "url": "https://www.ndtv.com/india-news/unity-and-diversity-in-indias-dna-rss-chief-mohan-bhagwat-at-new-york-event-11976351#publisher=newsstand",
+     "summary": "Mohan Bhagwat, chief of the Rashtriya Swayamsevak Sangh (RSS), addresses a gathering at Madison Square Garden. The event had leaders from across religions among the first-row audience.",
+     "published": "2026-08-29T21:10:32+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2023-10/vnkd0nfs_abhishek-banerjee-ani_625x300_07_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/h5mqk7oo_mohan-bhagwat_625x300_30_August_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "434281df5456",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "12 noon"
-     ]
+     "id": "3a98524dbf3b",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Delhi Man Dies Of Electrocution, Government Says No Fault In Streetlight Pole",
@@ -693,19 +698,6 @@
      "id": "6bc1196070d7",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Congress Councillor Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
-     "url": "https://www.ndtv.com/india-news/congress-councillor-gurpreet-singh-gopi-shot-dead-in-punjab-after-being-chased-election-dispute-suspected-behind-attack-11976132#publisher=newsstand",
-     "summary": "\"The two parties had an old dispute. The attackers have been identified and our teams have been formed. We will arrest them as soon as possible,\" SSP Bhupinder Singh Sidhu said.",
-     "published": "2026-08-29T18:19:19+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/5ln4c1i8_gopi-ludhiana_625x300_29_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b56b6f028619",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -715,6 +707,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Anger mounts in Nepal over the government’s response to flash flood",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss",
+     "summary": "Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.",
+     "published": "2026-08-29T20:58:25+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788037057.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "cb39a63a84c7",
+     "category": "human",
+     "category_label": "Human interest"
+    },
     {
      "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
@@ -750,32 +755,6 @@
      "category_label": "Human interest"
     },
     {
-     "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
-     "summary": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
-     "published": "2026-08-29T20:07:47+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788034023.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "2ea49e00fdf1",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Can international diplomacy find a way forward in Libya?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
-     "summary": "Efforts intensify to break political impasse in a divided country.",
-     "published": "2026-08-29T20:01:02+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788030952.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "10cf78584d6c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
@@ -808,19 +787,6 @@
      "id": "929aeaf9b438",
      "category": "weather",
      "category_label": "Weather & disaster"
-    },
-    {
-     "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-     "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-     "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
-     "published": "2026-08-28T21:17:54+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7491/live/38bbbe20-a382-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "61e44c76636c",
-     "category": "human",
-     "category_label": "Human interest"
     },
     {
      "title": "What we know about deadly Nepal-Tibet floods",
@@ -881,6 +847,19 @@
      "id": "e54e92270152",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Doctors to be recruited to CCRC on priority basis: Keralam fisheries Minister",
+     "url": "https://www.thehindu.com/news/national/kerala/doctors-to-be-recruited-to-ccrc-on-priority-basis-keralam-fisheries-minister/article71405307.ece",
+     "summary": "A recruitment board has been constituted, and the required staff will be recruited soon so that the facility gets fully operational: Abdul Gafoor",
+     "published": "2026-08-29T19:40:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ba0l57/article71405906.ece/alternates/LANDSCAPE_1200/10018_6_5_2025_19_14_52_5_COCHIN_CANCER_CENTRE_05.JPG",
+     "licence": "linkout",
+     "id": "14b5dbf3f421",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Wayalaying of Keralam CM: K.V. Thomas flays action against Cong. leader",
@@ -1643,17 +1622,17 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "SimLionics brings Artificial Intelligence to real-world batteries | Hindustan Times",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQTE0ZTRoLVZxVXM3SG14WDJTNmpsVG1fa2ZvV0cwaFpPczV0UFo0aEFmMlFrVUxlSUtmb19pLTNvYTdsTjhDQVZsc2RIVWdtaDVlTUc0TmFsTG83R25NSmZQM2hyVmJMc3g3eW5DWHVVNWg4SEVkZGlXSVJlclh5amg0R3dWb0QzWHBoWExDTEJqa00xei1QamdPZmVZNkNJcy04dEVja2otNHNlSWx0ZFBUZ1FEUFRrUWE0dWhKOFZ5WHc5WTJkT3ZpMGgwTmvSAdQBQVVfeXFMUGVXcFFNMVBPanVKTXlycFRyZWhHaXVzQ2RaQjVVZTE4TzRkWG9jZk04TW1Kc255ZEVvTnFnQXBMV3E2bGZYeDhLQUlfMzdsb1E0b0ZMVUdJRVFBbm1UYjVKR1I1VDVrNmtzRFVxdmlkckZtSDd2b1hTV205WjgxQ3VkbTYtOUh2aTRCR2ZoelAxeDBHaVdYRWxpTURDamtvR2RUTGRwMVNzeUxOTV9DY1VCN3pZT3c4bmZjTjcyT1FJdmpIb1R0TnZEVWRqdlM2Q0ktcWI?oc=5",
-     "summary": "SimLionics brings Artificial Intelligence to real-world batteries | Hindustan Times Hindustan Times",
-     "published": "2026-08-29T02:40:10+00:00",
-     "source": "Hindustan Times",
+     "title": "The Fed confronts a powerful new economic force",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+     "summary": "The Fed confronts a powerful new economic force The Washington Post",
+     "published": "2026-08-29T16:00:00+00:00",
+     "source": "The Washington Post",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "3b529bbd1171",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "id": "e5e4f840e5a8",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
