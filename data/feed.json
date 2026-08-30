@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T22:01:43.514928+00:00",
+ "generated_at": "2026-08-30T22:31:49.626535+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 126706.0,
    "change": -3026.0,
    "changePct": -2.33,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -353,7 +354,7 @@
      "also": [
       {
        "source": "BBC News",
-       "title": "Hikers feared missing after flash flooding hits Grand Canyon",
+       "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
        "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
        "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday."
       }
@@ -368,13 +369,13 @@
      ]
     },
     {
-     "title": "Hikers feared missing after flash flooding hits Grand Canyon",
+     "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
      "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday.",
-     "published": "2026-08-30T21:32:32+00:00",
+     "published": "2026-08-30T22:14:37+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a011/live/0c763ce0-a4b4-11f1-b109-879e35c24276.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
      "licence": "linkout",
      "id": "a2ad7f2294c2",
      "category": "weather",
@@ -517,7 +518,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T22:01:29.516716+00:00",
+     "published": "2026-08-30T22:31:32.245492+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -528,7 +529,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T22:01:29.516729+00:00",
+     "published": "2026-08-30T22:31:32.245500+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -539,7 +540,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T22:01:29.516734+00:00",
+     "published": "2026-08-30T22:31:32.245504+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -550,7 +551,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T22:01:29.516738+00:00",
+     "published": "2026-08-30T22:31:32.245506+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -561,7 +562,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T22:01:29.516742+00:00",
+     "published": "2026-08-30T22:31:32.245508+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -572,7 +573,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T22:01:29.516747+00:00",
+     "published": "2026-08-30T22:31:32.245510+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
