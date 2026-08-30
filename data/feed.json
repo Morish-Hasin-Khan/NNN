@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T06:02:22.752827+00:00",
+ "generated_at": "2026-08-30T06:31:47.659915+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -49,7 +49,8 @@
    "value": 189605.0,
    "change": -2378.0,
    "changePct": -1.24,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -75,24 +76,23 @@
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 78182.0,
-   "change": 5149.0,
-   "changePct": 7.05,
-   "decimals": 0,
-   "stale": true
+   "value": 78178.0,
+   "change": -849.0,
+   "changePct": -1.07,
+   "decimals": 0
   }
  ],
  "topics": [
-  "Gurpreet Gopi",
-  "WhatsApp",
+  "Swiss",
+  "Panjab University",
   "Jazeera English",
   "News",
   "Delhi Government",
   "Station Basti",
-  "Congregation Mass",
-  "National News",
-  "Mapping Iran",
-  "Arkansas"
+  "India Russia",
+  "Bihar Congress",
+  "Hrgovic Itauma",
+  "Mapping Iran"
  ],
  "sections": [
   {
@@ -101,6 +101,34 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "One dead and five injured in Swiss shooting, police say",
+     "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+     "summary": "\"The manhunt for the unknown perpetrator is under way,\" local police said.",
+     "published": "2026-08-30T06:27:12+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe9b/live/618de8d0-a438-11f1-8b59-3de1e8d7e523.jpg",
+     "licence": "linkout",
+     "id": "868f6bb6e2a9",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Panjab University Law Student Dies By Suicide In Campus Hostel",
+     "url": "https://www.ndtv.com/india-news/panjab-university-law-student-dies-by-suicide-in-campus-hostel-11976983#publisher=newsstand",
+     "summary": "The victim has been identified as Chatanniya Singh, a resident of Panipat, Haryana, police said on Saturday. He was an LLB student at the University Institute of Legal Studies (UILS).",
+     "published": "2026-08-30T05:40:25+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://i.ndtvimg.com/i/2017-03/police-generic_650x400_51489747586.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "7e6d72821292",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "AAP leader Gurpreet Gopi shot dead in Punjab’s Ferozepur",
      "url": "https://www.thehindu.com/news/national/punjab/aap-leader-gurpreet-gopi-shot-dead-in-punjabs-ferozepur/article71406995.ece",
@@ -114,34 +142,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
-    },
-    {
-     "title": "WhatsApp chat used to send cash for crime and extremism",
-     "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-     "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-     "published": "2026-08-30T04:59:56+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
-     "licence": "linkout",
-     "id": "7680d743616e",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
-     "summary": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
-     "published": "2026-08-30T04:50:17+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788065401.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "376a67534972",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
     },
     {
      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
@@ -161,6 +161,23 @@
      ]
     },
     {
+     "title": "Bihar Congress leaders plan Delhi protest on Sept. 8 seeking removal of in-charge, State chief",
+     "url": "https://www.thehindu.com/news/national/bihar/bihar-congress-leaders-plan-delhi-protest-on-sept-8-seeking-removal-of-in-charge-state-chief/article71407082.ece",
+     "summary": "In a letter dated August 15, the workers alleged “disorder” in the Bihar Pradesh Congress Committee (BPCC) during the Assembly election and accused the party’s in-charge of acting arbitrarily in the distribution of tickets.",
+     "published": "2026-08-30T06:07:12+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/du557i/article71407101.ece/alternates/LANDSCAPE_1200/CONGRESS%20PC%20on%20Bihar%205.JPG",
+     "licence": "linkout",
+     "id": "6d40a189df50",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "8 seeking removal of in-charge, State"
+     ]
+    },
+    {
      "title": "Watch: Parandur airport scrapped: What do the youth say? | The Hindu Ground Report",
      "url": "https://www.thehindu.com/videos/watch-parandur-airport-scrapped-what-do-the-youth-say-the-hindu-ground-report/article71407036.ece",
      "summary": "Following Chief Minister C. Joseph Vijay’s announcement to officially drop the proposed greenfield airport at Parandur, social media and political corridors have been consumed by debates over Chennai’s aviation capacity, economic growth, and ecological preservation. This ground report focuses on the voices living with the immediate consequences: the local youth across Parandur’s affected belt, whose lives and careers have been split into two distinct paths.",
@@ -172,7 +189,7 @@
      "id": "2ed436d22b84",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Protests as India’s Hindu nationalists take centre stage in New York",
@@ -189,20 +206,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "Ministers Chirag Paswan, Jitan Manjhi Clash Over Quota, Demand Resignations",
-     "url": "https://www.ndtv.com/india-news/ministers-chirag-paswan-jitan-manjhi-clash-over-quota-demand-resignations-11976886#publisher=newsstand",
-     "summary": "Chirag Paswan's stance is in line with that of his late father Ram Vilas Paswan, who had fiercely opposed a separate \"Mahadalit\" category introduced in the state more than a decade ago by the then chief minister Nitish Kumar.",
-     "published": "2026-08-30T04:04:24+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/gle367b_paswan-manjhi_625x300_30_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "197709a054ab",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
      "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
      "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
@@ -215,6 +218,20 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Global News"
+    },
+    {
+     "title": "Karnataka IAS Officer Gyanendra Kumar Gangwar Detained In Exam Scam",
+     "url": "https://www.ndtv.com/india-news/karnataka-ias-officer-gyanendra-kumar-gangwar-detained-in-kpsc-veterinary-exam-scam-11976988#publisher=newsstand",
+     "summary": "IAS officer Gyanendra Kumar Gangwar was serving as Controller of Examinations at the KPSC when the irregularities occurred.",
+     "published": "2026-08-30T04:57:20+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/1b02h404_gyanendra-kumar-gangwar_625x300_30_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a7c72f70e4c7",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
     },
     {
      "title": "8th Pay Commission: Big fitment factor gives an instant boost, but higher increments may win over time",
@@ -245,24 +262,10 @@
      "from_section": "National News"
     },
     {
-     "title": "What we know about deadly Nepal-Tibet floods",
-     "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
-     "published": "2026-08-30T04:34:20+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/a575cfc0-a2c3-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "ff8d8d19e796",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline"
-    },
-    {
      "title": "Nepal Flash Flood LIVE Updates: 734 Bodies Recovered, 275 Indians Among Nearly 2,500 Still Missing",
      "url": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand",
      "summary": "Nepal Flash Flood LIVE News Updates: A glacier collapseled to a sudden massive flood in Nepal and Tibet on Wednesday, causing widespread damage.",
-     "published": "2026-08-30T04:18:36+00:00",
+     "published": "2026-08-30T04:38:39+00:00",
      "source": "NDTV",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-08/tg5rg77o_nepal-floods_625x300_29_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -276,6 +279,20 @@
       "275 Indians Among Nearly 2,500 Still",
       "2,500 Still Missing"
      ]
+    },
+    {
+     "title": "What we know about deadly Nepal-Tibet floods",
+     "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+     "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+     "published": "2026-08-30T04:34:20+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/a575cfc0-a2c3-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "ff8d8d19e796",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global Hotline"
     },
     {
      "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
@@ -320,6 +337,41 @@
      "from_section": "Technology"
     },
     {
+     "title": "Boy, 8, Dies After Pitch Roller Crushes Him At Gurugram Cricket Academy",
+     "url": "https://www.ndtv.com/india-news/boy-8-dies-after-pitch-roller-crushes-him-at-gurugram-cricket-academy-11977037#publisher=newsstand",
+     "summary": "An eight-year-old boy died after being hit by a mini pitch roller at a cricket academy in Gurugram while he was playing with other children.",
+     "published": "2026-08-30T05:16:01+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/n7qe51m4_gurugram-accident_625x300_30_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "db240e2e9ffd",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "National News",
+     "figures": [
+      "8, Dies After Pitch Roller Crushes"
+     ]
+    },
+    {
+     "title": "\"Didn't Work Hard Enough\": Suryakumar Yadav's Blunt Confession Over ODI Catastrophe",
+     "url": "https://sports.ndtv.com/cricket/didnt-work-hard-enough-suryakumar-yadavs-blunt-confession-over-odi-catastrophe-11977004#publisher=newsstand",
+     "summary": "Suryakumar Yadav scored 773 runs in 35 ODI innings at an average of 25.76 and a strike rate of over 105, with four fifties and a highest score of 72 not-out.",
+     "published": "2026-08-30T05:05:42+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-07/c3u9h7oc_suryakumar-yadav_625x300_07_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2bc5f0e68c40",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "773 runs in 35 ODI innings",
+      "105, with four fifties"
+     ]
+    },
+    {
      "title": "\"Aise Bhi Log Hote Hain\": Suryakumar Yadav Reveals Sanju Samson's Stunning Reaction To Being Dropped",
      "url": "https://sports.ndtv.com/cricket/aise-bhi-log-hote-hai-suryakumar-yadav-reveals-sanju-samsons-stunning-reaction-to-being-dropped-11975029#publisher=newsstand",
      "summary": "Sanju Samson was dropped from India's playing XI ahead of the T20 World Cup 2026, and then-captain Suryakumar Yadav revealed how he was left surprised by Samson's reaction.",
@@ -332,20 +384,6 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
-    },
-    {
-     "title": "\"Do You Feel You Are A Lord?\" High Court Pulls Up Tukaram Mundhe's Food Safety Body",
-     "url": "https://www.ndtv.com/india-news/tukaram-mundhe-bombay-high-court-pulls-up-maharashtra-food-and-drugs-administration-fda-cipla-pharma-mumbai-cricket-association-11976851#publisher=newsstand",
-     "summary": "The high court pulled up the Maharashtra FDA for showing \"undue haste\" in passing orders in connection with eateries on the Mumbai Cricket Association premises.",
-     "published": "2026-08-30T03:50:08+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/cp9tu4mo_tukaram-mundhe_625x300_20_August_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "2c79b93ad729",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "National News"
     },
     {
      "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
@@ -407,7 +445,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T06:02:11.538342+00:00",
+     "published": "2026-08-30T06:31:36.616834+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -418,7 +456,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T06:02:11.538355+00:00",
+     "published": "2026-08-30T06:31:36.616849+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -429,7 +467,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T06:02:11.538377+00:00",
+     "published": "2026-08-30T06:31:36.616855+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -440,7 +478,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T06:02:11.538381+00:00",
+     "published": "2026-08-30T06:31:36.616859+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -451,7 +489,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T06:02:11.538385+00:00",
+     "published": "2026-08-30T06:31:36.616863+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -462,16 +500,16 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T06:02:11.538389+00:00",
+     "published": "2026-08-30T06:31:36.616867+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Updates: Vaibhav Sooryavanshi The Bowler In Focus As East Zone Opt To Field",
+     "title": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Updates: Onus On Rajat Patidar As Central Zone Go 2 Down vs East",
      "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-1st-semi-final-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-rajat-patidar-11975999#publisher=newsstand",
      "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Score: East Zone captain Ishan Kishan won the toss and opted to bowl against Central Zone in the Duleep Trophy semi-final.",
-     "published": "2026-08-30T04:12:34+00:00",
+     "published": "2026-08-30T05:21:45+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-07/rlk3v3m_vaibhav-sooryavanshi_650x400_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -479,7 +517,10 @@
      "id": "a9e04e0ea7d1",
      "kind": "liveblog",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "2 Down vs East"
+     ]
     }
    ]
   },
@@ -541,6 +582,35 @@
    "upsc": false,
    "items": [
     {
+     "title": "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
+     "url": "https://www.thehindu.com/news/international/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407088.ece",
+     "summary": "Since 2022, India has pivoted towards Russia to meet the bulk of its crude oil needs — raw material for making fuels like petrol and diesel",
+     "published": "2026-08-30T06:19:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/j7xlek/article71407112.ece/alternates/LANDSCAPE_1200/India-improvisiGVJGESU94.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "15a4e494ed8b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Bihar Congress leaders plan Delhi protest on Sept. 8 seeking removal of in-charge, State chief",
+     "url": "https://www.thehindu.com/news/national/bihar/bihar-congress-leaders-plan-delhi-protest-on-sept-8-seeking-removal-of-in-charge-state-chief/article71407082.ece",
+     "summary": "In a letter dated August 15, the workers alleged “disorder” in the Bihar Pradesh Congress Committee (BPCC) during the Assembly election and accused the party’s in-charge of acting arbitrarily in the distribution of tickets.",
+     "published": "2026-08-30T06:07:12+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/du557i/article71407101.ece/alternates/LANDSCAPE_1200/CONGRESS%20PC%20on%20Bihar%205.JPG",
+     "licence": "linkout",
+     "id": "6d40a189df50",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "8 seeking removal of in-charge, State"
+     ]
+    },
+    {
      "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
      "url": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
      "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
@@ -554,75 +624,17 @@
      "category_label": "General"
     },
     {
-     "title": "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
-     "url": "https://www.thehindu.com/news/national/bjp-brainstorming-on-genz-outreach-concludes-cohort-is-not-homogenous/article71407040.ece",
-     "summary": "Sources said some leaders in the meeting suggested avoiding the term “Gen Z” and instead using the broader term “youth” or references to specific age groups",
-     "published": "2026-08-30T05:24:43+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5fdsz7/article71407052.ece/alternates/LANDSCAPE_1200/CM%20RAVIDAS%20JAYANTI%20%20DELHI%202026-24_08_31.jpg",
-     "licence": "linkout",
-     "id": "26f121a64e5c",
-     "category": "weather",
-     "category_label": "Weather & disaster"
-    },
-    {
-     "title": "AAP leader Gurpreet Gopi shot dead in Punjab’s Ferozepur",
-     "url": "https://www.thehindu.com/news/national/punjab/aap-leader-gurpreet-gopi-shot-dead-in-punjabs-ferozepur/article71406995.ece",
-     "summary": "The four car-borne assailants got down from their vehicle in the main bazaar of Mamdot in Ferozepur on Saturday (August 29) evening and opened fire towards the car in which the 45-year-old Singh was travelling",
-     "published": "2026-08-30T05:16:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d73f3fb570c3",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Can an accused be denied a copy of the FIR? | Explained",
-     "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
-     "summary": "A three-judge Bench headed by Chief Justice of India (CJI) Surya Kant directed the Ghaziabad Police Commissioner to provide him with the FIR and CCTV footage and to file a compliance report by September 7. It also protected him from arrest and allowed him to approach the jurisdictional High Court for further relief.",
-     "published": "2026-08-30T04:38:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/eugpwd/article71405904.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
-     "licence": "linkout",
-     "id": "92ef16d9a5a3",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "CTET SEP 2026: Extended Application Deadline Ends On September 1, Direct Link To Apply",
-     "url": "https://www.ndtv.com/education/ctet-2026-application-window-reopens-know-when-the-exam-will-be-held-11956490#publisher=newsstand",
-     "summary": "CTET SEP 2026: According to the official notice, the application window has been reopened in view of the Supreme Court's ruling on the mandatory Teacher Eligibility Test (TET) qualification for eligible teachers.",
-     "published": "2026-08-30T03:41:45+00:00",
+     "title": "How Teachers, Students, Parents Can Send Suggestions To Centre For Exam Reforms, Check Steps",
+     "url": "https://www.ndtv.com/education/how-teachers-students-parents-can-send-suggestions-to-centre-for-exam-reforms-check-steps-11976938#publisher=newsstand",
+     "summary": "The inputs received through this consultation will assist the High-Powered Task Force in developing recommendations.",
+     "published": "2026-08-30T04:29:34+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/h0c7mues_ctet-application-window-reopens_625x300_25_August_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-08/4iotupuo_education-ministry_625x300_30_August_26.jpeg",
      "licence": "linkout",
-     "id": "fae088b069d8",
+     "id": "a3c164397da0",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1, Direct Link To Apply"
-     ]
-    },
-    {
-     "title": "ICAR AIEEA Postgraduate, AICE Fellowship For PhD Admission Results 2026 Out",
-     "url": "https://www.ndtv.com/education/icar-aieea-postgraduate-aice-fellowship-for-phd-admission-results-2026-out-11976799#publisher=newsstand",
-     "summary": "ICAR Results: A total of 42,110 candidates had registered for the exam: 30,619 for AIEEA PG and 11,491 for AICE JRF/SRF.",
-     "published": "2026-08-30T03:20:27+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/iaan0di8_icar-result-2026_625x300_30_August_26.jpeg",
-     "licence": "linkout",
-     "id": "9ee128693311",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "42,110 candidates had registered"
-     ]
+     "category_label": "General"
     }
    ]
   },
@@ -632,6 +644,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
+     "url": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
+     "summary": "Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.",
+     "published": "2026-08-30T05:58:28+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-29T224656Z_1864948735_UP1EM8T1RA6V2_RTRMADP_3_BOXING-HEAVYWEIGHT-ITAUMA-HRGOVIC-1788068219.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "830b39f5a89b",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
@@ -659,32 +684,6 @@
      "category_label": "Crime"
     },
     {
-     "title": "Protests as India’s Hindu nationalists take centre stage in New York",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
-     "summary": "Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.",
-     "published": "2026-08-30T04:31:06+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788064255.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "6a63bbcdae76",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Sudanese repair roads by hand in Darfur to improve emergency access",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
-     "summary": "Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.",
-     "published": "2026-08-30T04:05:04+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788062621.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "8d9e5bf9e275",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Iceland EU referendum on a knife edge as counting continues",
      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
      "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
@@ -698,17 +697,17 @@
      "category_label": "General"
     },
     {
-     "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-     "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-     "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-     "published": "2026-08-29T17:52:42+00:00",
+     "title": "WhatsApp chat used to send cash for crime and extremism",
+     "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+     "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+     "published": "2026-08-30T04:59:56+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
      "licence": "linkout",
-     "id": "627c6dfa54ca",
-     "category": "general",
-     "category_label": "General"
+     "id": "7680d743616e",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "Canada installs large Lake Ontario sign in latest jab at US",
@@ -753,6 +752,35 @@
    "upsc": false,
    "items": [
     {
+     "title": "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
+     "url": "https://www.thehindu.com/news/international/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407088.ece",
+     "summary": "Since 2022, India has pivoted towards Russia to meet the bulk of its crude oil needs — raw material for making fuels like petrol and diesel",
+     "published": "2026-08-30T06:19:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/j7xlek/article71407112.ece/alternates/LANDSCAPE_1200/India-improvisiGVJGESU94.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "15a4e494ed8b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Bihar Congress leaders plan Delhi protest on Sept. 8 seeking removal of in-charge, State chief",
+     "url": "https://www.thehindu.com/news/national/bihar/bihar-congress-leaders-plan-delhi-protest-on-sept-8-seeking-removal-of-in-charge-state-chief/article71407082.ece",
+     "summary": "In a letter dated August 15, the workers alleged “disorder” in the Bihar Pradesh Congress Committee (BPCC) during the Assembly election and accused the party’s in-charge of acting arbitrarily in the distribution of tickets.",
+     "published": "2026-08-30T06:07:12+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/du557i/article71407101.ece/alternates/LANDSCAPE_1200/CONGRESS%20PC%20on%20Bihar%205.JPG",
+     "licence": "linkout",
+     "id": "6d40a189df50",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "8 seeking removal of in-charge, State"
+     ]
+    },
+    {
      "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
      "url": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
      "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
@@ -766,28 +794,15 @@
      "category_label": "General"
     },
     {
-     "title": "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
-     "url": "https://www.thehindu.com/news/national/bjp-brainstorming-on-genz-outreach-concludes-cohort-is-not-homogenous/article71407040.ece",
-     "summary": "Sources said some leaders in the meeting suggested avoiding the term “Gen Z” and instead using the broader term “youth” or references to specific age groups",
-     "published": "2026-08-30T05:24:43+00:00",
+     "title": "Can an accused be denied a copy of the FIR? | Explained",
+     "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
+     "summary": "A three-judge Bench headed by Chief Justice of India (CJI) Surya Kant directed the Ghaziabad Police Commissioner to provide him with the FIR and CCTV footage and to file a compliance report by September 7. It also protected him from arrest and allowed him to approach the jurisdictional High Court for further relief.",
+     "published": "2026-08-30T04:38:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5fdsz7/article71407052.ece/alternates/LANDSCAPE_1200/CM%20RAVIDAS%20JAYANTI%20%20DELHI%202026-24_08_31.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/eugpwd/article71405904.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
      "licence": "linkout",
-     "id": "26f121a64e5c",
-     "category": "weather",
-     "category_label": "Weather & disaster"
-    },
-    {
-     "title": "AAP leader Gurpreet Gopi shot dead in Punjab’s Ferozepur",
-     "url": "https://www.thehindu.com/news/national/punjab/aap-leader-gurpreet-gopi-shot-dead-in-punjabs-ferozepur/article71406995.ece",
-     "summary": "The four car-borne assailants got down from their vehicle in the main bazaar of Mamdot in Ferozepur on Saturday (August 29) evening and opened fire towards the car in which the 45-year-old Singh was travelling",
-     "published": "2026-08-30T05:16:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d73f3fb570c3",
+     "id": "92ef16d9a5a3",
      "category": "crime",
      "category_label": "Crime"
     },
@@ -803,32 +818,6 @@
      "id": "8761981db0b3",
      "category": "weather",
      "category_label": "Weather & disaster"
-    },
-    {
-     "title": "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
-     "url": "https://www.thehindu.com/news/national/if-hindus-think-muslims-have-no-place-they-cease-to-be-hindu-mohan-bhagwat-in-new-york/article71405968.ece",
-     "summary": "In a notable address in New York City, RSS chief Mohan Bhagwat stated that true Hindutva does not exclude Muslims from Bharat, asserting that any Hindu who believes otherwise ceases to be a Hindu",
-     "published": "2026-08-30T03:09:55+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/od2qkm/article71405969.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000432B.jpg",
-     "licence": "linkout",
-     "id": "90721430e69c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Chirag Paswan hits back at Rahul Gandhi’s caste discrimination remarks",
-     "url": "https://www.thehindu.com/news/national/bihar/chirag-paswan-hits-back-at-rahul-gandhis-caste-discrimination-remarks/article71404753.ece",
-     "summary": "Chirag Paswan also demanded the resignation of Hindustani Awam Morcha (Secular) leader, Santosh Kumar Suman from the Bihar Cabinet after the party, an NDA ally, sought a review of the reservation policy and sub-categorisation of Scheduled Castes and Scheduled Tribes.",
-     "published": "2026-08-30T02:48:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qyn92c/article71405719.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
-     "licence": "linkout",
-     "id": "e802940b0da4",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -1593,6 +1582,52 @@
    "upsc": false,
    "items": [
     {
+     "title": "\"This Is Such A Mess\": Tearful Roger Federer Breaks Down During Tennis Hall Of Fame Speech",
+     "url": "https://sports.ndtv.com/tennis/this-is-such-a-mess-tearful-roger-federer-breaks-down-during-tennis-hall-of-fame-speech-11977152#publisher=newsstand",
+     "summary": "Roger Federer became emotional as he was inducted into the International Tennis Hall of Fame.",
+     "published": "2026-08-30T05:58:39+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/a98qv018_federer-getty_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a3a08348d351",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Updates: Onus On Rajat Patidar As Central Zone Go 2 Down vs East",
+     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-1st-semi-final-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-rajat-patidar-11975999#publisher=newsstand",
+     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Score: East Zone captain Ishan Kishan won the toss and opted to bowl against Central Zone in the Duleep Trophy semi-final.",
+     "published": "2026-08-30T05:21:45+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-07/rlk3v3m_vaibhav-sooryavanshi_650x400_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a9e04e0ea7d1",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2 Down vs East"
+     ]
+    },
+    {
+     "title": "\"Didn't Work Hard Enough\": Suryakumar Yadav's Blunt Confession Over ODI Catastrophe",
+     "url": "https://sports.ndtv.com/cricket/didnt-work-hard-enough-suryakumar-yadavs-blunt-confession-over-odi-catastrophe-11977004#publisher=newsstand",
+     "summary": "Suryakumar Yadav scored 773 runs in 35 ODI innings at an average of 25.76 and a strike rate of over 105, with four fifties and a highest score of 72 not-out.",
+     "published": "2026-08-30T05:05:42+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-07/c3u9h7oc_suryakumar-yadav_625x300_07_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2bc5f0e68c40",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "773 runs in 35 ODI innings",
+      "105, with four fifties"
+     ]
+    },
+    {
      "title": "Emotional Roger Federer Inducted Into Tennis Hall Of Fame",
      "url": "https://sports.ndtv.com/tennis/emotional-federer-inducted-into-tennis-hall-of-fame-11976587#publisher=newsstand",
      "summary": "A tearful Roger Federer was inducted into the International Tennis Hall of Fame on Saturday, describing his formal entrance into the sport's pantheon as one of the \"greatest honors of my life.\"",
@@ -1604,32 +1639,6 @@
      "id": "f30fd887992e",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Updates: Vaibhav Sooryavanshi The Bowler In Focus As East Zone Opt To Field",
-     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-1st-semi-final-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-rajat-patidar-11975999#publisher=newsstand",
-     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Score: East Zone captain Ishan Kishan won the toss and opted to bowl against Central Zone in the Duleep Trophy semi-final.",
-     "published": "2026-08-30T04:12:34+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/rlk3v3m_vaibhav-sooryavanshi_650x400_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a9e04e0ea7d1",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "\"Aise Bhi Log Hote Hain\": Suryakumar Yadav Reveals Sanju Samson's Stunning Reaction To Being Dropped",
-     "url": "https://sports.ndtv.com/cricket/aise-bhi-log-hote-hai-suryakumar-yadav-reveals-sanju-samsons-stunning-reaction-to-being-dropped-11975029#publisher=newsstand",
-     "summary": "Sanju Samson was dropped from India's playing XI ahead of the T20 World Cup 2026, and then-captain Suryakumar Yadav revealed how he was left surprised by Samson's reaction.",
-     "published": "2026-08-30T04:08:06+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/1qs8p2vg_suryakumar-yadav-sanju-samson_625x300_29_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "810c89bec936",
-     "category": "sports",
-     "category_label": "Sports"
     },
     {
      "title": "Atletico Madrid Down Sevilla To Go Top Of La Liga",
@@ -1646,32 +1655,6 @@
      "figures": [
       "1 victory at Sevilla on Saturday"
      ]
-    },
-    {
-     "title": "US Open Top Seed Alexander Zverev Downplays Favorite Status",
-     "url": "https://sports.ndtv.com/tennis/us-open-top-seed-zverev-downplays-favorite-status-11976442#publisher=newsstand",
-     "summary": "The US Open looks more open than ever, and top-seeded Alexander Zverev says the absence of Jannik Sinner and questions surrounding defending champion Carlos Alcaraz as he returns from injury do little to enhance his own status as favorite.",
-     "published": "2026-08-30T03:46:03+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/5lhlb4fs_alexander-zverev-getty_625x300_30_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "493f8db1136e",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Novak Djokovic 'Prepared' For US Open Bid For History",
-     "url": "https://sports.ndtv.com/tennis/djokovic-prepared-for-us-open-bid-for-history-11976434#publisher=newsstand",
-     "summary": "Since Novak Djokovic last lifted the US Open trophy in 2023 to tie Margaret Court with a 24th Grand Slam title, the Serbian superstar has relentlessly pursued record-breaking number 25.",
-     "published": "2026-08-30T03:41:13+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ffk1afp8_novak-djokovic-getty_625x300_30_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4ffd501519cd",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
