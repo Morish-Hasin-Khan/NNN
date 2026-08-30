@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T14:03:04.545716+00:00",
+ "generated_at": "2026-08-30T14:33:10.519355+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -19,7 +19,8 @@
    "value": 24175.65,
    "change": -43.4,
    "changePct": -0.18,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "banknifty",
@@ -35,11 +36,10 @@
    "key": "gold",
    "label": "GOLD",
    "unit": "₹/10g",
-   "value": 130144.0,
-   "change": 6573.0,
-   "changePct": 5.32,
-   "decimals": 0,
-   "stale": true
+   "value": 126706.0,
+   "change": -3026.0,
+   "changePct": -2.33,
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -83,16 +83,16 @@
   }
  ],
  "topics": [
-  "Woman Keralam",
-  "Thalaghattapura",
+  "Four Meghalaya",
+  "Dozens Niger",
   "Jazeera English",
   "News",
   "Delhi Government",
   "Station Basti",
-  "Anjadiv Island",
-  "Banque Misr",
-  "Dijk Cody",
-  "What Nepal"
+  "Scattered Hyderabad",
+  "Kuppam Palamaner",
+  "Global News",
+  "Iceland What"
  ],
  "sections": [
   {
@@ -102,36 +102,18 @@
    "upsc": false,
    "items": [
     {
-     "title": "Woman passenger held with suspected ganja in Keralam’s Kozhikode",
-     "url": "https://www.thehindu.com/news/national/kerala/woman-passenger-held-with-suspected-ganja-in-keralams-kozhikode/article71407365.ece",
-     "summary": "Police suspect woman procured stock from Andhra Pradesh",
-     "published": "2026-08-30T13:53:35+00:00",
+     "title": "Four armed men killed in encounter with Meghalaya Police-ATS",
+     "url": "https://www.thehindu.com/news/national/meghalaya/four-armed-men-killed-in-encounter-with-meghalaya-police-ats/article71408094.ece",
+     "summary": "The gunfight took place around 4 a.m. when the joint team had set up a checkpoint on the road from Songsak towards Kagal following intelligence inputs, says East Garo Hills SP Pawar S. Vasantrao",
+     "published": "2026-08-30T14:20:29+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/ps8enj/article71408143.ece/alternates/LANDSCAPE_1200/iStock-579777946.jpg",
      "licence": "linkout",
-     "id": "8d56cbec9e34",
+     "id": "8b0bb2e04b26",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
-    },
-    {
-     "title": "Thalaghattapura police arrest chain-snatcher within 24 hours, recover ₹2.5 lakh worth gold chain",
-     "url": "https://www.thehindu.com/news/national/karnataka/thalaghattapura-police-arrest-chain-snatcher-within-24-hours-recover-25-lakh-worth-gold-chain/article71407464.ece",
-     "summary": "",
-     "published": "2026-08-30T13:40:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "ed71db466466",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines",
-     "figures": [
-      "24 hours , recover ₹2",
-      "₹2.5 lakh worth gold chain"
-     ]
     },
     {
      "title": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
@@ -148,22 +130,34 @@
      "from_section": "Global News"
     },
     {
-     "title": "After Rakhi Celebrations At Rashtrapati Bhavan, Students Visit War Memorial, Science Centre",
-     "url": "https://www.ndtv.com/education/after-rakhi-celebrations-at-rashtrapati-bhavan-students-visit-war-memorial-science-centre-11977988#publisher=newsstand",
-     "summary": "Raksha Bandhan Celebration at Rashtrapati Bhavan: 122 participants, including 89 students and 32 teachers participated in the special celebration.",
-     "published": "2026-08-30T10:52:48+00:00",
-     "source": "NDTV",
+     "title": "WhatsApp chat used to send cash for crime and extremism",
+     "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+     "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+     "published": "2026-08-30T04:59:56+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ftak8qus_droupadi-murmu_625x300_30_August_26.jpeg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
      "licence": "linkout",
-     "id": "b7570ed3a244",
+     "id": "7680d743616e",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Today News Headlines for School Assembly, August 31, 2026: Army pilots evacuate casualty from 18,600 feet; NBEMS to hold NEET-PG re-exam",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPYTdXQ3BZeXR0bU9Id2xGeWZKRGpBSDR5UmJxbUtKMkVDMUFTTVBkT19ZRG1zaG1YZUItaEVxdGQ1UkR1eFlZX01qd2NBSGZuNEdWV2dWT05kcmowWmFJMjNjazUtaGY1cG5hWkZjcWVmMEhabWRWUnUzZ1RCcFZRM3NRZmMyNEo3N2w2b0lJODVkQnNMeERGTFJSYWh0Zmg3RHNOQU1rYmM1TTJsREtTRWpTSzNPbnYtNUg1Y2NBRjdWV09hZmJxel83LVhoN1QtVHRkWi1JaWsxSkJoMDlpeG9IT3ZMcWNQT0dkYkdPeGNPLUJYN0FqcnhfNTJxSkR2NHRsQ0hiZU8wcFkwLTJhdUJTMNIBmgJBVV95cUxQOG1Gb1VzWldIWUl5MVdOdXZ1Y3N1YTNXbThoMDREVnVhYTZEN04wc0loZFpzVnFZS1dlUEtjY1plQnFBUDUyMUdJdkdJSmpkS1FYUUxTYWJoNGc4SFFEY01VQXJTa3NVRVBBc3VQbl9BZFRvMjlvOWdqQ3BNbDdHV0JTWWZuN1J4VHBtVHdtMXFkeGpSZlBGZUoyTDFURHpxd3g3RU5LUVN2Q2hqdDUxSkRuNko0SFk3WFRxMGNHVXVWS1pfbFg5d3pQUGY5S1JoVWotNFJXTUVPdTVaZlQyMF81RFhRQkttWkZHN3RrQnlodWpIZXJvejFvT09vMXBYdTlDRlZuUXlVVll1bmRWeHk1azdhamdpYkE?oc=5",
+     "summary": "Today News Headlines for School Assembly, August 31, 2026: Army pilots evacuate casualty from 18,600 feet; NBEMS to hold NEET-PG re-exam The Indian Express",
+     "published": "2026-08-30T12:48:26+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "fad850eb63b7",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
-      "122 participants , including 89 students",
-      "89 students and 32 teachers participated",
-      "32 teachers participated in the special"
+      "18,600 feet ; NBEMS to hold"
      ]
     },
     {
@@ -184,46 +178,83 @@
      ]
     },
     {
-     "title": "Keralam Home Minister to open senior citizens’ meet as part of Operation Toofan in Vadakara",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-to-open-senior-citizens-meet-as-part-of-operation-toofan-in-vadakara/article71407477.ece",
-     "summary": "An anti-drug awareness rally will also be organised in Vadakara town ahead of the senior citizens’ gathering. K.K. Rema, MLA, will preside over the inaugural function.",
-     "published": "2026-08-30T13:48:28+00:00",
+     "title": "24x7 specialty services in Keralam hospitals: KGMOA, govt. iron out differences",
+     "url": "https://www.thehindu.com/news/national/kerala/24x7-specialty-services-in-keralam-hospitals-kgmoa-govt-iron-out-differences/article71407906.ece",
+     "summary": "KGMOA State leadership, which met Health Minister K. Muraleedharan, says that most of its major apprehensions regarding the government’s move were addressed",
+     "published": "2026-08-30T14:22:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/hc0wul/article71408110.ece/alternates/LANDSCAPE_1200/Kerala-governmeGC6G8BH0J.3.jpg.jpg",
      "licence": "linkout",
-     "id": "7998144f0777",
+     "id": "c0f39ebd9e8e",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "School assembly news headlines today- August 31: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWM4U1d3cE8wbEprd2VxZ2F5Y2FLcllsczdrWnB3Y0kwVUZQTXduRllRU2F6cTBVTkZvcVM4MHRKcmtxNVNxVGU4alBYeTJOUHpnZUpTaDhUeDVVY3cyRlVKclFwN2xuNFFqX1VGeVFoNHBFbjRlVGFQZng2WUFuUUFyNy14SUV5Ymd1QTdPUHhJNnJULUcxZTRMelk0cUduQVhJdXJQRlBYTVVZeVhQVE1zMEJiaG9kRWh4TWcwdWZTMl93SFFnOU1BOWhOZ0c2eF8za0ZiMWhvTi1WUTNCYmx4Y1g?oc=5",
-     "summary": "School assembly news headlines today- August 31: Top national, sports and world news curated for you India Today",
-     "published": "2026-08-30T13:25:52+00:00",
-     "source": "India Today",
+     "title": "Aranmula water regatta symbolises Keralam’s rich cultural heritage: Vice-President C. P. Radhakrishnan",
+     "url": "https://www.thehindu.com/news/national/kerala/aranmula-water-regatta-symbolises-keralams-rich-cultural-heritage-vice-president-c-p-radhakrishnan/article71407845.ece",
+     "summary": "Stressing the importance of safeguarding cultural legacies, Vice-President points out the vital need to preserve and promote traditional arts and crafts",
+     "published": "2026-08-30T14:12:56+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/wpp978/article71407944.ece/alternates/LANDSCAPE_1200/20260830272L.jpg",
      "licence": "linkout",
-     "id": "56fb813f79d2",
+     "id": "296fe8eb5c60",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
     },
     {
-     "title": "Niger’s military-led government says it contained mutiny: What next?",
-     "url": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss",
-     "summary": "Mutiny began at a military base in Niamey and spread to area near the presidential palace and state broadcaster.",
-     "published": "2026-08-30T13:01:20+00:00",
-     "source": "Al Jazeera",
+     "title": "Kerala Excise Bribery Racket Busted, 7 Officers Suspended After Sting Op",
+     "url": "https://www.ndtv.com/india-news/kerala-excise-bribery-racket-busted-7-officers-suspended-after-sting-op-11978571#publisher=newsstand",
+     "summary": "Excise Commissioner Seeram Sambasiva Rao ordered the suspensions following directions from Excise Minister M Liju.",
+     "published": "2026-08-30T14:00:05+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a94293e-1788094782.jpg?resize=1200%2C675",
+     "image": "https://c.ndtvimg.com/2020-11/ot9qoiqo_kerala-police-van_625x300_03_November_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "8b73db578d6e",
+     "id": "3942627d1b21",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National News",
+     "figures": [
+      "7 Officers Suspended After Sting Op"
+     ]
+    },
+    {
+     "title": "₹1,886-crore drinking water grid to end water woes in Kuppam, Palamaner, Punganur belts",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/1886-crore-drinking-water-grid-to-end-water-woes-in-kuppam-palamaner-punganur-belts/article71407489.ece",
+     "summary": "Gandikota reservoir water to be pumped to drought-prone areas across Chittoor, Annamayya and Tirupati districts",
+     "published": "2026-08-30T14:24:31+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/2aipz2/article71408166.ece/alternates/LANDSCAPE_1200/9604_4_11_2025_18_12_2_2_IMG_20251104_WA0021.JPG",
+     "licence": "linkout",
+     "id": "4323236d19e4",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "₹1,886 -crore drinking water grid"
+     ]
+    },
+    {
+     "title": "These taxpayers can't switch between old and new regimes every year: Know Form 10-IEA rules, deadline and filing process",
+     "url": "https://www.livemint.com/money/personal-finance/these-taxpayers-cant-switch-between-old-and-new-regimes-every-year-know-form-10-iea-rules-deadline-and-filing-process-11787489727637.html",
+     "summary": "Taxpayers with business or professional income cannot switch between the old and new tax regimes every year. Form 10-IEA is required for the switch, with restrictions on re-entering the old regime. Here's what taxpayers filing ITR-3 and ITR-4 need to know for AY 2026-27.",
+     "published": "2026-08-30T14:01:39+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/23/600x338/form_iea_1787493595322_1787493616134_dd7b7d64-6342-47a9-a67e-822428702b73.png",
+     "licence": "linkout",
+     "id": "c8efa5f79089",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "4 need to know for AY"
+     ]
     },
     {
      "title": "Want to sell inherited agricultural land? Here are the tax breaks available",
@@ -240,54 +271,40 @@
      "from_section": "Business"
     },
     {
-     "title": "Why Gurgaon court upheld ₹2 lakh monthly maintenance for estranged wife despite husband’s 50% income drop",
-     "url": "https://www.livemint.com/money/gurgaon-family-court-orders-husband-to-pay-rs-2-lakh-monthly-maintenance-to-wife-despite-income-drop-rs-1-7-crore-home-11788086207643.html",
-     "summary": "Gurgaon court upheld ₹2 lakh monthly maintenance for an estranged wife despite her husband’s reported income decline and home loan liabilities.",
-     "published": "2026-08-30T12:33:34+00:00",
-     "source": "Mint",
+     "title": "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVlFVXJ5NnhHbU14WEFTeFBhY0hYUmNQTkp6bmtReDdnLWxWV3NjVGhBeVp3RS05TXRqZ1JPNGlKY1VzMHI3MFdueTl4TEtNbWliT1pfM2ZLRFBMX2t4VGUxTnRrbkg0WjlPRFZRYUlUUnc0U3hGVjc2ZXpISlNWY3BXdFNMVHg5WmtR?oc=5",
+     "summary": "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost CBC",
+     "published": "2026-08-29T16:30:53+00:00",
+     "source": "CBC",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/Gemini_Generated_Image_6e195m6e195m6e19_1788093099558_1788093107364_1a58f04a-516a-453e-8716-1e2bae798962.png",
+     "image": null,
      "licence": "linkout",
-     "id": "4a1a798e831e",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
+     "id": "c2b01da0b7dc",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Technology",
      "figures": [
-      "₹2 lakh monthly maintenance for estranged"
+      "$195 M federal boost",
+      "$195 M federal boost CBC"
      ]
     },
     {
-     "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
-     "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-     "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-     "published": "2026-08-30T04:01:02+00:00",
-     "source": "BBC News",
+     "title": "Nepal Flash Flood LIVE Updates: 734 Bodies Recovered, 275 Indians Among Nearly 2,500 Still Missing",
+     "url": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand",
+     "summary": "Nepal Flash Flood LIVE News Updates: A glacier collapseled to a sudden massive flood in Nepal and Tibet on Wednesday, causing widespread damage.",
+     "published": "2026-08-30T13:33:55+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+     "image": "https://c.ndtvimg.com/2026-08/tg5rg77o_nepal-floods_625x300_29_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "d1fd3bc001a5",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "65 billion barrels of Venezuelan oil"
-     ]
-    },
-    {
-     "title": "24 fishermen rescued as boat capsizes in Anjadiv Island",
-     "url": "https://www.thehindu.com/news/national/karnataka/24-fishermen-rescued-as-boat-capsizes-in-anjadiv-island/article71407812.ece",
-     "summary": "",
-     "published": "2026-08-30T13:50:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "2dfffaac0d7f",
-     "category": "human",
-     "category_label": "Human interest",
+     "id": "8f8f90277aaa",
+     "category": "weather",
+     "category_label": "Weather & disaster",
      "from_section": "National News",
      "figures": [
-      "24 fishermen rescued as boat capsizes"
+      "734 Bodies Recovered, 275 Indians Among",
+      "275 Indians Among Nearly 2,500 Still",
+      "2,500 Still Missing"
      ]
     },
     {
@@ -361,20 +378,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Suryakumar Yadav Breaks Silence On Viral T20 World Cup Spat With Kuldeep Yadav: \"He Turned Red In Anger\"",
-     "url": "https://sports.ndtv.com/cricket/i-got-angry-suryakumar-yadav-explains-what-prompted-heated-exchange-with-kuldeep-yadav-11977005#publisher=newsstand",
-     "summary": "Suryakumar Yadav recently opened up about his on-field reaction to Kuldeep Yadav's fielding blunder during India's T20 World Cup 2026 match against Pakistan.",
-     "published": "2026-08-30T13:03:47+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/icei8f6g_suryakumar-yadav-with-kuldeep-yadav_625x300_30_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "7a0d0bcc2e8e",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
      "title": "22-Year-Old Delhi Woman Found Dead In Toilet, Husband, Child Missing",
      "url": "https://www.ndtv.com/india-news/22-year-old-delhi-woman-found-dead-in-toilet-husband-child-missing-11978345#publisher=newsstand",
      "summary": "The body of Sabila Khatoon was found in the toilet of her house on Saturday.",
@@ -434,7 +437,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T14:02:52.617592+00:00",
+     "published": "2026-08-30T14:32:59.043470+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -445,7 +448,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T14:02:52.617611+00:00",
+     "published": "2026-08-30T14:32:59.043495+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -456,7 +459,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T14:02:52.617617+00:00",
+     "published": "2026-08-30T14:32:59.043502+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -467,7 +470,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T14:02:52.617621+00:00",
+     "published": "2026-08-30T14:32:59.043507+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -478,7 +481,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T14:02:52.617625+00:00",
+     "published": "2026-08-30T14:32:59.043513+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -489,28 +492,55 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T14:02:52.617630+00:00",
+     "published": "2026-08-30T14:32:59.043518+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "England vs Pakistan 2nd Test Day 4, Live Score Updates",
-     "url": "https://sports.ndtv.com/cricket/england-vs-pakistan-2nd-test-day-4-live-score-updates-11977576#publisher=newsstand",
-     "summary": "England vs Pakistan 2nd Test Day 4, Live Updates: Pakistan are staring at a crushing defeat against England on Day 4 of the second Test at Lord's.",
-     "published": "2026-08-30T11:16:47+00:00",
+     "title": "India vs Thailand LIVE Score, Women's Asia Cup 2026: Harmanpreet Kaur-Led India Invited To Bat By Thailand",
+     "url": "https://sports.ndtv.com/cricket/india-vs-thailand-live-score-womens-asia-cup-2026-ind-w-vs-tha-w-live-updates-group-a-harmanpreet-kaur-harmanpreet-kaur-shafali-verma-11978288#publisher=newsstand",
+     "summary": "India vs Thailand LIVE Score Updates, Women's Asia Cup 2026: India have been invited to bat first by Thailand in their Women's T20 Asia Cup Group A opener.",
+     "published": "2026-08-30T14:12:48+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/0n0efkj4_dan-lawrence-getty_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/v6d23qss_india-women-x-bcci_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "a5020f094dc9",
+     "id": "4d5f3fb410e1",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Highlights: Vaibhav Sooryavanshi's East Zone Bowl East Zone Out For 266",
+     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-1st-semi-final-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-rajat-patidar-11975999#publisher=newsstand",
+     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Highlights: A relentless bowling display led by Abhijit Sarkar alongside the Bengal seam bowling duo of Mukesh Kumar and Mohammed Shami helped East Zone bundle out Central Zone for 266 on day one of the Duleep Trophy semi-final.",
+     "published": "2026-08-30T13:43:07+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/cgp2rpmg_vaibhav-sooryavanshi-_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a9e04e0ea7d1",
      "kind": "liveblog",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "4, Live Score Updates",
-      "4, Live Updates: Pakistan are staring"
+      "266. Central Zone vs East Zone"
      ]
+    },
+    {
+     "title": "Real Madrid vs Malaga Live Streaming La Liga Live Telecast: When And Where To Watch",
+     "url": "https://sports.ndtv.com/football/real-madrid-vs-malaga-live-streaming-la-liga-live-telecast-when-and-where-to-watch-11978381#publisher=newsstand",
+     "summary": "Real Madrid vs Malaga Live Streaming La Liga Live Telecast: When And Where To Watch",
+     "published": "2026-08-30T13:32:04+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/guc1rd58_real-madrid-afp_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "29688bf80b61",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -572,70 +602,70 @@
    "upsc": false,
    "items": [
     {
-     "title": "Woman passenger held with suspected ganja in Keralam’s Kozhikode",
-     "url": "https://www.thehindu.com/news/national/kerala/woman-passenger-held-with-suspected-ganja-in-keralams-kozhikode/article71407365.ece",
-     "summary": "Police suspect woman procured stock from Andhra Pradesh",
-     "published": "2026-08-30T13:53:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "8d56cbec9e34",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "24 fishermen rescued as boat capsizes in Anjadiv Island",
-     "url": "https://www.thehindu.com/news/national/karnataka/24-fishermen-rescued-as-boat-capsizes-in-anjadiv-island/article71407812.ece",
+     "title": "Scattered showers lash Hyderabad on August 30",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/scattered-showers-lash-hyderabad-on-august-30/article71408029.ece",
      "summary": "",
-     "published": "2026-08-30T13:50:46+00:00",
+     "published": "2026-08-30T14:24:37+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "2dfffaac0d7f",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "24 fishermen rescued as boat capsizes"
-     ]
-    },
-    {
-     "title": "Keralam Home Minister to open senior citizens’ meet as part of Operation Toofan in Vadakara",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-to-open-senior-citizens-meet-as-part-of-operation-toofan-in-vadakara/article71407477.ece",
-     "summary": "An anti-drug awareness rally will also be organised in Vadakara town ahead of the senior citizens’ gathering. K.K. Rema, MLA, will preside over the inaugural function.",
-     "published": "2026-08-30T13:48:28+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "7998144f0777",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Mysore Grahakara Parishat sounds alarm over proposed dilution of parks Act",
-     "url": "https://www.thehindu.com/news/national/karnataka/mysore-grahakara-parishat-sounds-alarm-over-proposed-dilution-of-parks-act/article71407877.ece",
-     "summary": "",
-     "published": "2026-08-30T13:46:39+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/faonha/article71407931.ece/alternates/LANDSCAPE_1200/2303_30_8_2026_18_50_17_1_PROTESTSAVINGPARKS.JPG",
-     "licence": "linkout",
-     "id": "2066d8a68874",
+     "id": "9c4f6d1307ae",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Fisherman falls into sea near Karwar, dies",
-     "url": "https://www.thehindu.com/news/national/karnataka/fisherman-falls-into-sea-near-karwar-dies/article71407784.ece",
+     "title": "₹1,886-crore drinking water grid to end water woes in Kuppam, Palamaner, Punganur belts",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/1886-crore-drinking-water-grid-to-end-water-woes-in-kuppam-palamaner-punganur-belts/article71407489.ece",
+     "summary": "Gandikota reservoir water to be pumped to drought-prone areas across Chittoor, Annamayya and Tirupati districts",
+     "published": "2026-08-30T14:24:31+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/2aipz2/article71408166.ece/alternates/LANDSCAPE_1200/9604_4_11_2025_18_12_2_2_IMG_20251104_WA0021.JPG",
+     "licence": "linkout",
+     "id": "4323236d19e4",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹1,886 -crore drinking water grid"
+     ]
+    },
+    {
+     "title": "24x7 specialty services in Keralam hospitals: KGMOA, govt. iron out differences",
+     "url": "https://www.thehindu.com/news/national/kerala/24x7-specialty-services-in-keralam-hospitals-kgmoa-govt-iron-out-differences/article71407906.ece",
+     "summary": "KGMOA State leadership, which met Health Minister K. Muraleedharan, says that most of its major apprehensions regarding the government’s move were addressed",
+     "published": "2026-08-30T14:22:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hc0wul/article71408110.ece/alternates/LANDSCAPE_1200/Kerala-governmeGC6G8BH0J.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "c0f39ebd9e8e",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "MBA, MCA aspirants seek special phase of ICET counselling",
+     "url": "https://www.thehindu.com/news/national/telangana/mba-mca-aspirants-seek-special-phase-of-icet-counselling/article71407665.ece",
      "summary": "",
-     "published": "2026-08-30T13:44:25+00:00",
+     "published": "2026-08-30T14:21:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "4d926116c124",
+     "id": "9412ee6c677c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "SBI PO Prelims Result 2026 Out: Check Roll Number-Wise PDF, Shortlist Status",
+     "url": "https://www.ndtv.com/education/sbi-po-prelims-result-2026-out-check-roll-number-wise-pdf-shortlist-status-11978421#publisher=newsstand",
+     "summary": "SBI PO Prelims Result 2026 has been announced. Check the roll number-wise PDF, shortlist status, recruitment details and steps to download the result online.",
+     "published": "2026-08-30T13:54:06+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/3r3kelck_sbi_625x300_30_August_26.jpeg",
+     "licence": "linkout",
+     "id": "f47154def79f",
      "category": "general",
      "category_label": "General"
     },
@@ -654,36 +684,6 @@
      "figures": [
       "2,445 candidates"
      ]
-    },
-    {
-     "title": "9 UDP MLAs In Talks With BJP In Meghalaya For Likely Merger: Sources",
-     "url": "https://www.ndtv.com/india-news/meghalaya-politics-9-udp-mlas-likely-to-cross-over-to-bjp-says-sources-11978131#publisher=newsstand",
-     "summary": "The political intrigue has also deepened after the recent meeting between UDP legislators and Union Home Minister and BJP leader Amit Shah.",
-     "published": "2026-08-30T11:54:37+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/8s2emue4_shah_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "7c2627b73fe0",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "CBSE Class 12 Supplementary 2026: Scanned Copy Applications Start Tomorrow",
-     "url": "https://www.ndtv.com/education/cbse-class-12-supplementary-2026-scanned-copy-applications-start-tomorrow-11977996#publisher=newsstand",
-     "summary": "CBSE Class 12 Supplementary 2026 post-result process begins tomorrow. Check scanned copy, verification and re-evaluation dates, fees and key guidelines.",
-     "published": "2026-08-30T10:56:11+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/pc8tk9p_cbse_625x300_30_August_26.jpeg",
-     "licence": "linkout",
-     "id": "efffb2f27bf4",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "12 Supplementary 2026: Scanned Copy Applications",
-      "12 Supplementary 2026 post-result process begins"
-     ]
     }
    ]
   },
@@ -694,6 +694,43 @@
    "upsc": false,
    "items": [
     {
+     "title": "How does your name taste? The strange science of synaesthesia",
+     "url": "https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss",
+     "summary": "Experiencing names as tastes - a form of synaesthesia - reveals how differently people perceive the same world.",
+     "published": "2026-08-30T14:14:06+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/nils-final-1787963447.jpg?resize=1620%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "7bbd6640f2e0",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Iceland votes to reject EU accession talks: What happens next?",
+     "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
+     "summary": "The referendum result halts Iceland's bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
+     "published": "2026-08-30T13:37:54+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26241525119272-1788096865.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "4a4242998a84",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Iceland votes against restarting talks on joining EU",
+       "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+       "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
+      }
+     ],
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "52.5 percent voting against the proposal"
+     ]
+    },
+    {
      "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
      "url": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
      "summary": "Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks.",
@@ -703,45 +740,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2023-12-27T112934Z_365673183_RC2Z45AMRPS9_RTRMADP_3_EGYPT-NEW-CAPITAL-1788087663.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "127ad4eabc9d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Van Dijk wants Cody Gakpo to stay at Liverpool despite Man City interest",
-     "url": "https://www.aljazeera.com/sports/2026/8/30/van-dijk-wants-cody-gakpo-to-stay-at-liverpool-despite-man-city-interest?traffic_source=rss",
-     "summary": "Liverpool's Dutch forward Gakpo is a transfer target for Premier League rivals Manchester City.",
-     "published": "2026-08-30T13:10:33+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260823__C6BZ7LV__v1__HighRes__FblEngPrNewcastleLiverpool-1788093222.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "2d39e88014f4",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
-     "summary": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
-     "published": "2026-08-30T13:03:15+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/COUP-1788094978.jpg?resize=1920%2C1417",
-     "licence": "linkout",
-     "id": "cdd6d47f0fb4",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Alvarez returns to Atletico training amid Barcelona, Arsenal transfer links",
-     "url": "https://www.aljazeera.com/sports/2026/8/30/alvarez-returns-to-atletico-training-amid-barcelona-arsenal-transfer-links?traffic_source=rss",
-     "summary": "Atletico Madrid forward missed two earlier training sessions amid ongoing speculation about his future at the club.",
-     "published": "2026-08-30T12:52:28+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T121940Z_774773223_RC2G4NAOA9JQ_RTRMADP_3_SOCCER-SPAIN-ATM-ALVAREZ-1788092263.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "f387e09686d7",
      "category": "general",
      "category_label": "General"
     },
@@ -772,10 +770,10 @@
      "category_label": "General"
     },
     {
-     "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+     "title": "Canada installs large Lake Ontario sign in latest jab at US",
      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-     "published": "2026-08-30T00:17:25+00:00",
+     "published": "2026-08-30T14:25:43+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg",
@@ -783,19 +781,6 @@
      "id": "4dcd5aa8edee",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "WhatsApp chat used to send cash for crime and extremism",
-     "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-     "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-     "published": "2026-08-30T04:59:56+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
-     "licence": "linkout",
-     "id": "7680d743616e",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -827,70 +812,70 @@
    "upsc": false,
    "items": [
     {
-     "title": "Woman passenger held with suspected ganja in Keralam’s Kozhikode",
-     "url": "https://www.thehindu.com/news/national/kerala/woman-passenger-held-with-suspected-ganja-in-keralams-kozhikode/article71407365.ece",
-     "summary": "Police suspect woman procured stock from Andhra Pradesh",
-     "published": "2026-08-30T13:53:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "8d56cbec9e34",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "24 fishermen rescued as boat capsizes in Anjadiv Island",
-     "url": "https://www.thehindu.com/news/national/karnataka/24-fishermen-rescued-as-boat-capsizes-in-anjadiv-island/article71407812.ece",
+     "title": "Scattered showers lash Hyderabad on August 30",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/scattered-showers-lash-hyderabad-on-august-30/article71408029.ece",
      "summary": "",
-     "published": "2026-08-30T13:50:46+00:00",
+     "published": "2026-08-30T14:24:37+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "2dfffaac0d7f",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "24 fishermen rescued as boat capsizes"
-     ]
-    },
-    {
-     "title": "Keralam Home Minister to open senior citizens’ meet as part of Operation Toofan in Vadakara",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-to-open-senior-citizens-meet-as-part-of-operation-toofan-in-vadakara/article71407477.ece",
-     "summary": "An anti-drug awareness rally will also be organised in Vadakara town ahead of the senior citizens’ gathering. K.K. Rema, MLA, will preside over the inaugural function.",
-     "published": "2026-08-30T13:48:28+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "7998144f0777",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Calicut varsity seeks amendment to SNGOU Act to run distance learning programmes",
-     "url": "https://www.thehindu.com/news/national/kerala/calicut-varsity-seeks-amendment-to-sngou-act-to-run-distance-learning-programmes/article71407667.ece",
-     "summary": "Under sections 47(2) and 72 of the Act, only the Sreenarayanaguru Open University has the exclusive authority to conduct distance learning and private registration courses",
-     "published": "2026-08-30T13:44:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "8df62a4ab4d3",
+     "id": "9c4f6d1307ae",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Telangana families await word on kin stranded in Nepal",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-families-await-word-on-kin-stranded-in-nepal/article71407636.ece",
-     "summary": "",
-     "published": "2026-08-30T13:38:36+00:00",
+     "title": "₹1,886-crore drinking water grid to end water woes in Kuppam, Palamaner, Punganur belts",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/1886-crore-drinking-water-grid-to-end-water-woes-in-kuppam-palamaner-punganur-belts/article71407489.ece",
+     "summary": "Gandikota reservoir water to be pumped to drought-prone areas across Chittoor, Annamayya and Tirupati districts",
+     "published": "2026-08-30T14:24:31+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ylzsal/article71407658.ece/alternates/LANDSCAPE_1200/Urgent%20Appeal%20for%20Information%20on%20eight%20Indian-Origin%20US%20Nationals%20missing%20in%20Nepal--pic%203.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/2aipz2/article71408166.ece/alternates/LANDSCAPE_1200/9604_4_11_2025_18_12_2_2_IMG_20251104_WA0021.JPG",
      "licence": "linkout",
-     "id": "040eea039b16",
+     "id": "4323236d19e4",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹1,886 -crore drinking water grid"
+     ]
+    },
+    {
+     "title": "24x7 specialty services in Keralam hospitals: KGMOA, govt. iron out differences",
+     "url": "https://www.thehindu.com/news/national/kerala/24x7-specialty-services-in-keralam-hospitals-kgmoa-govt-iron-out-differences/article71407906.ece",
+     "summary": "KGMOA State leadership, which met Health Minister K. Muraleedharan, says that most of its major apprehensions regarding the government’s move were addressed",
+     "published": "2026-08-30T14:22:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hc0wul/article71408110.ece/alternates/LANDSCAPE_1200/Kerala-governmeGC6G8BH0J.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "c0f39ebd9e8e",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Krishna Byre Gowda directs GBA to take disciplinary action against officials over failure to address streetlight issue",
+     "url": "https://www.thehindu.com/news/cities/bangalore/krishna-byre-gowda-directs-gba-to-take-disciplinary-action-against-officials-over-failure-to-address-streetlight-issue/article71407902.ece",
+     "summary": "",
+     "published": "2026-08-30T14:14:55+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/wzx265/article71408119.ece/alternates/LANDSCAPE_1200/FIR-over-unauthG6BGE1B5C.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "2c3bffeafe59",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Former MP seeks reduction of NEET-PG All India Quota to 15%",
+     "url": "https://www.thehindu.com/news/national/telangana/former-mp-seeks-reduction-of-neet-pg-all-india-quota-to-15/article71408074.ece",
+     "summary": "",
+     "published": "2026-08-30T14:14:38+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/jldhms/article71408113.ece/alternates/LANDSCAPE_1200/18hyngg_%20B%20Vinod%20Kumar%2005.jpg",
+     "licence": "linkout",
+     "id": "343df1e35392",
      "category": "general",
      "category_label": "General"
     },
@@ -1422,6 +1407,22 @@
      "category_label": "General"
     },
     {
+     "title": "These taxpayers can't switch between old and new regimes every year: Know Form 10-IEA rules, deadline and filing process",
+     "url": "https://www.livemint.com/money/personal-finance/these-taxpayers-cant-switch-between-old-and-new-regimes-every-year-know-form-10-iea-rules-deadline-and-filing-process-11787489727637.html",
+     "summary": "Taxpayers with business or professional income cannot switch between the old and new tax regimes every year. Form 10-IEA is required for the switch, with restrictions on re-entering the old regime. Here's what taxpayers filing ITR-3 and ITR-4 need to know for AY 2026-27.",
+     "published": "2026-08-30T14:01:39+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/23/600x338/form_iea_1787493595322_1787493616134_dd7b7d64-6342-47a9-a67e-822428702b73.png",
+     "licence": "linkout",
+     "id": "c8efa5f79089",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "4 need to know for AY"
+     ]
+    },
+    {
      "title": "Odisha govt employees: Salary may be deducted for unpaid alimony, maintenance; what order means for your money",
      "url": "https://www.livemint.com/money/personal-finance/odisha-govt-employees-salary-may-be-deducted-for-unpaid-alimony-maintenance-what-order-means-for-your-money-11788096892938.html",
      "summary": "Odisha govt employees who default on court-ordered alimony or maintenance payments may now have the amount deducted directly from their salaries. The payment will be transferred to beneficiaries, with cases integrated into the state’s HRMS for automated compliance.",
@@ -1536,69 +1537,47 @@
    "upsc": false,
    "items": [
     {
-     "title": "Cricketer Turned ICC Match Referee's Metro Journey Goes Viral. Internet Reacts",
-     "url": "https://sports.ndtv.com/cricket/ex-india-star-now-icc-match-referee-chooses-metro-over-luxury-travel-internet-impressed-11978241#publisher=newsstand",
-     "summary": "Former India pacer Javagal Srinath has caught the attention of fans with his recent act of simplicity.",
-     "published": "2026-08-30T13:05:53+00:00",
+     "title": "India vs Thailand LIVE Score, Women's Asia Cup 2026: Harmanpreet Kaur-Led India Invited To Bat By Thailand",
+     "url": "https://sports.ndtv.com/cricket/india-vs-thailand-live-score-womens-asia-cup-2026-ind-w-vs-tha-w-live-updates-group-a-harmanpreet-kaur-harmanpreet-kaur-shafali-verma-11978288#publisher=newsstand",
+     "summary": "India vs Thailand LIVE Score Updates, Women's Asia Cup 2026: India have been invited to bat first by Thailand in their Women's T20 Asia Cup Group A opener.",
+     "published": "2026-08-30T14:12:48+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/il0oeem_javagal-srinath_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/v6d23qss_india-women-x-bcci_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "5d6d38dc6c8e",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "4d5f3fb410e1",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Suryakumar Yadav Breaks Silence On Viral T20 World Cup Spat With Kuldeep Yadav: \"He Turned Red In Anger\"",
-     "url": "https://sports.ndtv.com/cricket/i-got-angry-suryakumar-yadav-explains-what-prompted-heated-exchange-with-kuldeep-yadav-11977005#publisher=newsstand",
-     "summary": "Suryakumar Yadav recently opened up about his on-field reaction to Kuldeep Yadav's fielding blunder during India's T20 World Cup 2026 match against Pakistan.",
-     "published": "2026-08-30T13:03:47+00:00",
+     "title": "Babar Azam Left Clueless After Jofra Archer's Brutal Bouncer In 2nd Test, Gets Trolled",
+     "url": "https://sports.ndtv.com/cricket/babar-azam-left-clueless-after-jofra-archers-brutal-bouncer-in-2nd-test-gets-trolled-11978617#publisher=newsstand",
+     "summary": "Pakistan captain Babar Azam was brutally criticised on social media after his flop show on Day 4 of the second Test against England at Lord's on Sunday.",
+     "published": "2026-08-30T14:12:16+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/icei8f6g_suryakumar-yadav-with-kuldeep-yadav_625x300_30_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/4cv5vghg_babar-azam-afp_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "7a0d0bcc2e8e",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "8bc7cbea8271",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Mohammad Amir Can No Longer Play For Pakistan. Here Is The Reason",
-     "url": "https://sports.ndtv.com/cricket/mohammad-amir-drops-bombshell-says-his-pakistan-chapter-is-closed-11977982#publisher=newsstand",
-     "summary": "Mohammad Amir recently played in The Hundred as a local player after going unsold in the tournament's player draft earlier this year as an overseas player.",
-     "published": "2026-08-30T11:35:25+00:00",
+     "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 1 Highlights",
+     "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-live-score-updates-11976198#publisher=newsstand",
+     "summary": "South Zone vs North Zone, Duleep Trophy Semi-Final Day 1 Highlights: Karnataka pacer Vidwath Kaverappa's four-for helped South Zone dismiss North Zone for 195 to take an upper hand on the opening day.",
+     "published": "2026-08-30T13:44:40+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-03/rabdoqng_mohammad-amir_625x300_14_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-01/e2v1700k_ayush-badoni_625x300_18_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "cbe9a0a4072f",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Pacer Auqib Nabi Likely To Represent Surrey In Ongoing County Championship",
-     "url": "https://sports.ndtv.com/cricket/pacer-auqib-nabi-likely-to-represent-surrey-in-ongoing-county-championship-11977665#publisher=newsstand",
-     "summary": "Jammu & Kashmir fast bowler Auqib Nabi is likely to turn out for English county side Surrey for a brief stint in the ongoing County Championship Division One season.",
-     "published": "2026-08-30T11:27:52+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/fe529krk_auqib-nabi-pti_625x300_13_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "d3f68b6bdebe",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Australia All-Rounder Michael Neser Signs Two-Year BBL Extension With Brisbane Heat",
-     "url": "https://sports.ndtv.com/cricket/australia-all-rounder-michael-neser-signs-two-year-bbl-extension-with-brisbane-heat-11977787#publisher=newsstand",
-     "summary": "Australia's fast-bowling all-rounder Michael Neser has signed a two-year contract extension with Brisbane Heat, which commits him to the franchise until the end of the 17th edition of the Big Bash League.",
-     "published": "2026-08-30T11:23:04+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2021-11/i971cing_michael-neser_625x300_11_November_21.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "80e654554a1f",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "3585732a699c",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "1 Highlights",
+      "1 Highlights : Karnataka pacer Vidwath"
+     ]
     }
    ]
   },
