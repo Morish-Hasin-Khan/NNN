@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T02:31:47.918532+00:00",
+ "generated_at": "2026-08-30T03:02:01.200114+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -19,7 +19,8 @@
    "value": 24175.65,
    "change": -43.4,
    "changePct": -0.18,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "banknifty",
@@ -83,8 +84,8 @@
   }
  ],
  "topics": [
+  "Leader Murdered",
   "Turkiye Somalia",
-  "Judiciary",
   "Jazeera English",
   "News",
   "Delhi Government",
@@ -101,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "AAP Leader Murdered In Punjab. Attackers Chased His Bike, Opened Fire",
+     "url": "https://www.ndtv.com/india-news/aap-leader-gurpreet-singh-gopi-shot-dead-in-punjab-after-being-chased-election-dispute-suspected-behind-attack-11976132#publisher=newsstand",
+     "summary": "\"The two parties had an old dispute. The attackers have been identified and our teams have been formed. We will arrest them as soon as possible,\" SSP Bhupinder Singh Sidhu said.",
+     "published": "2026-08-30T02:33:24+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/5ln4c1i8_gopi-ludhiana_625x300_29_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "bc182daa3cec",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
      "url": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss",
@@ -131,23 +146,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National Hotlines"
-    },
-    {
-     "title": "Abhishek Banerjee Summoned By Kolkata Police Over Illegal Billboards Row",
-     "url": "https://www.ndtv.com/india-news/abhishek-banerjee-summoned-by-kolkata-police-over-illegal-billboards-row-11976220#publisher=newsstand",
-     "summary": "The notice, delivered at Abhishek Banerjee's residence on Kalighat Road, directed him to appear at Shakespeare Sarani Police Station on September 1 at 12 noon.",
-     "published": "2026-08-29T19:05:01+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2023-10/vnkd0nfs_abhishek-banerjee-ani_625x300_07_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "434281df5456",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "12 noon"
-     ]
     },
     {
      "title": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
@@ -224,6 +222,20 @@
      "id": "d1fd3bc001a5",
      "category": "politics",
      "category_label": "Political controversy",
+     "from_section": "Business"
+    },
+    {
+     "title": "Can a credit report mistake raise your loan cost? Expert explains what borrowers should know",
+     "url": "https://www.livemint.com/money/personal-finance/can-a-credit-report-mistake-raise-your-loan-cost-expert-explains-what-borrowers-should-know-11787840371100.html",
+     "summary": "Credit report mistakes can affect how lenders assess borrowers and potentially influence loan eligibility, interest rates and terms. Here’s how to spot inaccurate information, dispute errors and protect your credit profile before borrowing.",
+     "published": "2026-08-30T02:35:52+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/cs_image_1788056421780_1788056426180_1a5aa81a-970b-4de4-9ae3-315b149a03e1.jpg",
+     "licence": "linkout",
+     "id": "4f2e61c02da2",
+     "category": "money",
+     "category_label": "Money & scams",
      "from_section": "Business"
     },
     {
@@ -316,8 +328,8 @@
     {
      "title": "Nepal Flash Flood LIVE Updates: 275 Indians Still Missing, New Delhi Sends 4th Aid Flight",
      "url": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand",
-     "summary": "Nepal Flash Flood Death Count LIVE News Updates: At least 676 bodies have so far been found, with about 3,000 people still unaccounted for.",
-     "published": "2026-08-30T00:59:47+00:00",
+     "summary": "Nepal Flash Flood Death Count LIVE News Updates: Nearly 676 bodies have so far been found in Nepal and Tibet, with about 3,000 people still unaccounted for.",
+     "published": "2026-08-30T01:17:23+00:00",
      "source": "NDTV",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-08/ec2cnoi_nepal-flood_625x300_29_August_26.jpeg",
@@ -431,20 +443,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Missing Assam Man Detained In Bangladesh For Illegal Entry, Smuggling Drugs",
-     "url": "https://www.ndtv.com/india-news/missing-assam-man-detained-in-bangladesh-for-illegal-entry-smuggling-drugs-11976296#publisher=newsstand",
-     "summary": "According to Balai's wife, Mamata Namasudra, he used to go fishing near the border pillar every day.",
-     "published": "2026-08-29T19:58:05+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-05/4n06ghto_border_625x300_09_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "86a1b3adc3c1",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News"
-    },
-    {
      "title": "Delhi Government Deploys Top Officers To Probe 139 Waterlogging Hotspots",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVhvajA5ZW95TVVoNWNscXJQMkgwNXZsSEFwNkV4Y1g5ZHM5QzVra1p3MlBCM1N6R3dTWDJuLXhTWnBXTERSZTMtNVZIbjNZSThiZFhqU1dvWTdWNEVFRkx6TnAwYnBCdk5GYzg2UGw4ZkNoWS1ENU91c1VtUzNwNndra1BmakQxQWJtdGdKdmpKT1Zzd0pyd2pObEJqMVFYSzd1ZTB5WjVLdlJxRGNlUy1iRdIBuwFBVV95cUxNRk9LYzNpV2trQXZqdTJGQ2VSOXhTd3p0RTJHR0h1SGw0SXM5Nk1LUTdxLUpKQ0E4aVV4azV1U3ZoNDNGeVh0ak9PQ2IxVlFhdC02SzZ4UkI2bWFiNzlwcHl2Rm0xd1I5SmtNUEhYeUJZNFNKaHg4YXdaX3ZYZzNyZlFtT0RhQmpZZkVienlBR0VaeDRTMEM4NDNjTXl3Zm44bG0tNkM4VzU3ZUlReXBzdlhUTDliamw3LUZJ?oc=5",
      "summary": "Delhi Government Deploys Top Officers To Probe 139 Waterlogging Hotspots NDTV",
@@ -476,7 +474,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T02:31:36.841297+00:00",
+     "published": "2026-08-30T03:01:48.603203+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -487,7 +485,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T02:31:36.841306+00:00",
+     "published": "2026-08-30T03:01:48.603215+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -498,7 +496,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T02:31:36.841309+00:00",
+     "published": "2026-08-30T03:01:48.603221+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -509,7 +507,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T02:31:36.841312+00:00",
+     "published": "2026-08-30T03:01:48.603226+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -520,7 +518,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T02:31:36.841314+00:00",
+     "published": "2026-08-30T03:01:48.603230+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -531,7 +529,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T02:31:36.841316+00:00",
+     "published": "2026-08-30T03:01:48.603234+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -643,10 +641,28 @@
      "category_label": "General"
     },
     {
+     "title": "AIAPGET 2026 Re-Exam: Admit Card Out For 49 Candidates",
+     "url": "https://www.ndtv.com/education/aiapget-2026-re-exam-admit-card-out-for-49-candidates-11976719#publisher=newsstand",
+     "summary": "According to official information, 192 applicants appeared at Shri Satya Sai PG College, Jaipur. Of these 49 candidates could not complete the exam.",
+     "published": "2026-08-30T02:43:01+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/fb3vg7tg_aiapget_625x300_23_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "adba806d5993",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "49 Candidates",
+      "192 applicants appeared at Shri Satya",
+      "49 candidates could not complete"
+     ]
+    },
+    {
      "title": "\"Unity And Diversity In India's DNA\": RSS Chief Mohan Bhagwat At New York Event",
      "url": "https://www.ndtv.com/india-news/unity-and-diversity-in-indias-dna-rss-chief-mohan-bhagwat-at-new-york-event-11976351#publisher=newsstand",
      "summary": "Mohan Bhagwat, chief of the Rashtriya Swayamsevak Sangh (RSS), addresses a gathering at Madison Square Garden. The event had leaders from across religions among the first-row audience.",
-     "published": "2026-08-29T21:40:15+00:00",
+     "published": "2026-08-30T01:43:43+00:00",
      "source": "NDTV",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-08/h5mqk7oo_mohan-bhagwat_625x300_30_August_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
@@ -876,7 +892,7 @@
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
      "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
-     "published": "2026-08-29T23:33:09+00:00",
+     "published": "2026-08-29T08:16:50+00:00",
      "source": "News On AIR",
      "byline": "",
      "image": null,
@@ -1502,30 +1518,20 @@
      "category_label": "General"
     },
     {
-     "title": "Trust and jargon can be dangerous. Invest only in what you understand",
-     "url": "https://www.livemint.com/money/personal-finance/trust-and-jargon-can-be-dangerous-invest-only-in-what-you-understand-11787910647439.html",
-     "summary": "Opacity, complexity, apparent sophistication, can all become proxies for a good investment, and investors can fall for that.",
-     "published": "2026-08-30T01:30:51+00:00",
+     "title": "American Express to discontinue Reward Multiplier in India after 6 years — Here's what cardholders need to know",
+     "url": "https://www.livemint.com/money/personal-finance/american-express-to-discontinue-reward-multiplier-in-india-after-6-years-heres-what-cardholders-need-to-know-11788054591758.html",
+     "summary": "Amex Cardholders have until 11:59 PM on 29 September 2026 to maximise the programme.",
+     "published": "2026-08-30T02:54:09+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/28/600x338/3-0-86449917-iStock-1167137273-0_1679793048835_1787914759340_389d6ab6-4a61-4c65-92a1-3e4cbe34d6c7.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/pexels-photo-32641816_1788055281965_1788055324361_64517544-fffd-4da0-9cb0-8534b83de776.jpeg",
      "licence": "linkout",
-     "id": "03eb5df88ca3",
+     "id": "3cd777a6fa74",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "How to spot IPO red flags before you invest",
-     "url": "https://www.livemint.com/money/personal-finance/how-to-spot-ipo-red-flags-before-you-invest-11787906949563.html",
-     "summary": "IPO activity is heating up, but investors need to look beyond the hype. Here’s how to use an IPO's red herring propsectus to assess financials, governance, valuation and other warning signs before subscribing.",
-     "published": "2026-08-30T01:30:51+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/28/600x338/oden-cubes-cold-grey-light-background-w_1782374793794_1782374794358_e983381b-0b6c-4707-b446-724b15f45b22_1787915296296_8d9e614c-4912-49f4-9903-0f94e625ce88.jpg",
-     "licence": "linkout",
-     "id": "2563c3a87236",
-     "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "6 years — Here's what cardholders"
+     ]
     }
    ]
   },
@@ -1601,15 +1607,15 @@
      "category_label": "General"
     },
     {
-     "title": "SimLionics brings Artificial Intelligence to real-world batteries | Hindustan Times",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQTE0ZTRoLVZxVXM3SG14WDJTNmpsVG1fa2ZvV0cwaFpPczV0UFo0aEFmMlFrVUxlSUtmb19pLTNvYTdsTjhDQVZsc2RIVWdtaDVlTUc0TmFsTG83R25NSmZQM2hyVmJMc3g3eW5DWHVVNWg4SEVkZGlXSVJlclh5amg0R3dWb0QzWHBoWExDTEJqa00xei1QamdPZmVZNkNJcy04dEVja2otNHNlSWx0ZFBUZ1FEUFRrUWE0dWhKOFZ5WHc5WTJkT3ZpMGgwTmvSAdQBQVVfeXFMUGVXcFFNMVBPanVKTXlycFRyZWhHaXVzQ2RaQjVVZTE4TzRkWG9jZk04TW1Kc255ZEVvTnFnQXBMV3E2bGZYeDhLQUlfMzdsb1E0b0ZMVUdJRVFBbm1UYjVKR1I1VDVrNmtzRFVxdmlkckZtSDd2b1hTV205WjgxQ3VkbTYtOUh2aTRCR2ZoelAxeDBHaVdYRWxpTURDamtvR2RUTGRwMVNzeUxOTV9DY1VCN3pZT3c4bmZjTjcyT1FJdmpIb1R0TnZEVWRqdlM2Q0ktcWI?oc=5",
-     "summary": "SimLionics brings Artificial Intelligence to real-world batteries | Hindustan Times Hindustan Times",
-     "published": "2026-08-29T02:40:10+00:00",
-     "source": "Hindustan Times",
+     "title": "C3.ai vs. UiPath: Which Artificial Intelligence Stock Is a Better Investment in 2026?",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMXcyMTJnUm1ZSFZTbk9wRXVZOTgxNGFFQ1k1cDRlZUJlM2l2LWdxR1FSa1lkaG9jZjU4OEJUR0hvTTAxOEl4Q2NveTh0NEc3eGxQdUhSeEhxdzRKQ0g3Z2NiUXpnT292ZDNRVXRmRnZJZzBQcjlXSlFZZ3dVSndyTG1oemZmT081M2o1aXJxZzRaT1RrUXYtaERTU3JLcmZLTDE3M1lLelN6QU9rV3pTRDBhbTZydkVReWhDQjFCQ0lOcDJxQkkwN1hnY1F3TFZ2?oc=5",
+     "summary": "C3.ai vs. UiPath: Which Artificial Intelligence Stock Is a Better Investment in 2026? The Motley Fool",
+     "published": "2026-08-29T04:12:00+00:00",
+     "source": "The Motley Fool",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "3b529bbd1171",
+     "id": "960be1b36126",
      "category": "tech",
      "category_label": "AI & technology"
     }
