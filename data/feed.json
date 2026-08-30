@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-30T21:32:00.544934+00:00",
- "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
+ "generated_at": "2026-08-30T22:01:43.514928+00:00",
+ "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
    "key": "sensex",
@@ -39,8 +39,7 @@
    "value": 126706.0,
    "change": -3026.0,
    "changePct": -2.33,
-   "decimals": 0,
-   "stale": true
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -84,16 +83,16 @@
   }
  ],
  "topics": [
-  "Iran Larak",
   "Iranian Larak",
+  "Three Patna",
   "Jazeera English",
   "News",
   "Station Basti",
-  "India",
   "FPIs August",
-  "Three Patna",
+  "Lamine Yamal",
   "Israeli Gaza",
-  "Jose Andres"
+  "Head Nepal",
+  "Mount Fuji"
  ],
  "sections": [
   {
@@ -102,28 +101,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "US strikes Iran’s Larak Island in first attack in weeks",
-     "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
-     "summary": "IRGC says attack in southern Iran killed and injured several soldiers.",
-     "published": "2026-08-30T20:15:47+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-13T045642Z_1917073729_RC2YSMASJR9K_RTRMADP_3_IRAN-CRISIS-OIL-COLUMN-RUSSELL-1786661630.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "5de9cb0aa694",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-       "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July."
-      }
-     ],
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
     {
      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
@@ -151,6 +128,23 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
+    },
+    {
+     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+     "published": "2026-08-30T20:02:43+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "80226a3cb4a8",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "270 people turns over after leaving"
+     ]
     },
     {
      "title": "Israeli strike kills 3-year-old child in Gaza",
@@ -277,22 +271,18 @@
      ]
     },
     {
-     "title": "CAG urges Mizoram govt to probe disbursement of Rs 9.19 crore GIM funds",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0Y2YjhqV3VJd1BLVkFFanNMMk91TVpBN2ZhU3Rnbms4aWJ4ZkJwUmVYMEhrZ0tHckFONkhmbEtzNzYxdFdmQjFRdXFNUEFGREZUclN5cDR1eFdVUjdfdHdIWk1fYUtCdkdEdzBEZGhQZzRuejJMeEtTX1RpVktCOHBZSFBEbXNSbksyUHJLVG5TT29vZHJUcUFzdGNnSGRNam1qNEpCYTlXNlc5MG5mOXhvRmJTOC1jbklLM3cyTVJSQnpCSXR1WEM5dVJiV3BKd2EwUVFiZTBSdTFqTkwtddIB5gFBVV95cUxQeWVSWHk4QWNrd1ZPRGhCaFF5dDl1RmxNTXV3d2dpVW5mX24yVWhPbmdNeWxJNUljdUlFaGt2SkZCb3BIVjVnUkthUnJXWjVTVlFtVk9YTVhhbTFjejJVc2JxZEpZV1hnWFp3RXpEZjhFaUZraDM2Zk83aFA0UzNibl9fWVNfWDUyYUJXa1paczUwOHpCbTFLUWR2UUxvbEVjSmx6S3hWY05NRUF0Yl9mOGJ0c2FtRERZakMtUGZrc1pKRHVPbVN6cHN3TVlITEU0U05XNXpuVUU1dUpXNGd5MmlWNHdyZw?oc=5",
-     "summary": "CAG urges Mizoram govt to probe disbursement of Rs 9.19 crore GIM funds The Times of India",
-     "published": "2026-08-30T18:29:00+00:00",
-     "source": "The Times of India",
+     "title": "IPOs are booming, but 37% fell below issue price: 6 red flags to check hiding in the RHP",
+     "url": "https://www.livemint.com/money/personal-finance/ipos-are-booming-but-37-per-cent-fell-below-issue-price-6-red-flags-to-check-11788100375779.html",
+     "summary": "Since IPO-bound companies do not have a listed-market track record or exchange trading history, investors largely have to depend on information provided before the listing",
+     "published": "2026-08-30T17:05:28+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": null,
+     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/Gemini_Generated_Image_4jhkwi4jhkwi4jhk_1788109346647_1788109353247_5c77fee2-5df9-4b40-88ef-1450028c3e1b.png",
      "licence": "linkout",
-     "id": "164dbc5a0797",
+     "id": "71f164aa41ff",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Scandals & Investigations",
-     "figures": [
-      "Rs 9.19 crore GIM funds",
-      "Rs 9.19 crore GIM funds The Times"
-     ]
+     "from_section": "Business"
     },
     {
      "title": "Lola Young surprises Reading Festival with final day set",
@@ -323,6 +313,20 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+     "url": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss",
+     "summary": "Teenager struggled in Barca's La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.",
+     "published": "2026-08-30T21:28:16+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8ae3f92f-1787487225_7f4d2c-1787487253.jpg?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "6385942defff",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global News"
+    },
+    {
      "title": "UPI set for Uzbekistan rollout as India expands digital payments footprint and strengthens bilateral ties",
      "url": "https://www.livemint.com/money/personal-finance/upi-rollout-uzbekistan-to-adopt-qr-scan-india-expands-digital-footprint-international-payments-strengthen-bilateral-ties-11788095998478.html",
      "summary": "Uzbekistan has joined the list of countries that is set to adopt the UPI, the Ministry of External Affairs announced today after PM Narendra Modi's two-day official visit to the Central Asian country.&nbsp;",
@@ -335,6 +339,50 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Business"
+    },
+    {
+     "title": "Nepal Flash Flood Highlights : 734 Bodies Recovered, 275 Indians Among Nearly 2,500 Still Missing",
+     "url": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand",
+     "summary": "Nepal Flash Flood LIVE Highlights: A glacier collapse led to a sudden massive flood in Nepal and Tibet on Wednesday, causing widespread damage.",
+     "published": "2026-08-30T18:39:39+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/tg5rg77o_nepal-floods_625x300_29_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8f8f90277aaa",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Hikers feared missing after flash flooding hits Grand Canyon",
+       "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+       "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday."
+      }
+     ],
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News",
+     "figures": [
+      "734 Bodies Recovered, 275 Indians Among",
+      "275 Indians Among Nearly 2,500 Still",
+      "2,500 Still Missing"
+     ]
+    },
+    {
+     "title": "Hikers feared missing after flash flooding hits Grand Canyon",
+     "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+     "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday.",
+     "published": "2026-08-30T21:32:32+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a011/live/0c763ce0-a4b4-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "a2ad7f2294c2",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global News",
+     "figures": [
+      "20 people are thought to be"
+     ]
     },
     {
      "title": "Video: Raging floodwaters sweep away lorry in the Philippines",
@@ -351,40 +399,18 @@
      "from_section": "Global News"
     },
     {
-     "title": "Nepal Flash Flood Highlights : 734 Bodies Recovered, 275 Indians Among Nearly 2,500 Still Missing",
-     "url": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand",
-     "summary": "Nepal Flash Flood LIVE Highlights: A glacier collapse led to a sudden massive flood in Nepal and Tibet on Wednesday, causing widespread damage.",
-     "published": "2026-08-30T18:39:39+00:00",
-     "source": "NDTV",
+     "title": "'A wave of AI attacks on critical infrastructure is coming', tech giants warn",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oa3psUHIwcnVCZzJnNXhuVHZfdkdjck5qVF9relFpVnhNdmhXeXpiV2xUMU5uRzNNdlhHTjdxQWdIVlhiTVdBa0JEeDRsc1owRHNOazlSRnhna0JfbHJCV0kyVmRZbmRXM1p4UE5B?oc=5",
+     "summary": "'A wave of AI attacks on critical infrastructure is coming', tech giants warn Ynetnews",
+     "published": "2026-08-30T18:34:03+00:00",
+     "source": "Ynetnews",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/tg5rg77o_nepal-floods_625x300_29_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": null,
      "licence": "linkout",
-     "id": "8f8f90277aaa",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National News",
-     "figures": [
-      "734 Bodies Recovered, 275 Indians Among",
-      "275 Indians Among Nearly 2,500 Still",
-      "2,500 Still Missing"
-     ]
-    },
-    {
-     "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
-     "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
-     "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
-     "published": "2026-08-30T16:48:13+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da6/live/8518ba10-a482-11f1-bed8-470734b5b662.png",
-     "licence": "linkout",
-     "id": "1202fec4338c",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline",
-     "figures": [
-      "900 children minutes before Nepal floods"
-     ]
+     "id": "748155d722a9",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
     },
     {
      "title": "AI’s worst disasters will arrive unannounced | Letters",
@@ -410,20 +436,6 @@
      "image": null,
      "licence": "linkout",
      "id": "75426166157e",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zQ2xqdjJOZF80cUFfcjR1SE1VRGRVdzZ5Z0M2S1pRR2o3LTVjcEo1WHQtak5CbGlFLWdtWGlEdE03LW1JaDVGam5ZZlB2Nmg0R3Z3NXhVaWxjS3Q0TDFzdXFHZU5KTl83anBXNFRKcw?oc=5",
-     "summary": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up MedCity News",
-     "published": "2026-08-30T15:12:21+00:00",
-     "source": "MedCity News",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5ec4a6ee3223",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -505,7 +517,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T21:31:46.884157+00:00",
+     "published": "2026-08-30T22:01:29.516716+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -516,7 +528,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T21:31:46.884170+00:00",
+     "published": "2026-08-30T22:01:29.516729+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -527,7 +539,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T21:31:46.884172+00:00",
+     "published": "2026-08-30T22:01:29.516734+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -538,7 +550,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T21:31:46.884173+00:00",
+     "published": "2026-08-30T22:01:29.516738+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -549,7 +561,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T21:31:46.884175+00:00",
+     "published": "2026-08-30T22:01:29.516742+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -560,7 +572,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T21:31:46.884176+00:00",
+     "published": "2026-08-30T22:01:29.516747+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -585,49 +597,6 @@
      "id": "78064006caba",
      "category": "mystery",
      "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "India's citizen-led school audits test limits of activism",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZHZxSHBLdlN5TEQyX1BaTXUwei1WR2pldU5KdG5hUUdBbVlPSHV2cGRCLS1jM0R4ZXEzN2oyRmxURzNQTl9PZ0hlaUFtMklfXzhIa0U4R29fUF83dlAwc2w0SUl1VjBzbmtyc245ZC1GOEg5c2R4a3RQMzVLb3Q5dVJXSnJJTExHRUlnOE5zSjlWdWvSAZMBQVVfeXFMTkJzdndiTS1GYjFTWXVSb0RkV21iOHJHdDV6ejg5ejB4c1lFcTBpN000LVJ1YlZ4anR6MXZuMm5zdTJjLVM3OXZCcVQ2cEFITUp6NERTUVpZSW1oTnRzR0x2YVkyaWlFSXR6ZkpDLWpLSkxUXzhXZEF2Uks4R1h5Y3dVbXYtdlltYzB1Wjl1TlNkZEZN?oc=5",
-     "summary": "India's citizen-led school audits test limits of activism DW.com",
-     "published": "2026-08-30T09:10:12+00:00",
-     "source": "DW.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e63566d9c201",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "CAG urges Mizoram govt to probe disbursement of Rs 9.19 crore GIM funds",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0Y2YjhqV3VJd1BLVkFFanNMMk91TVpBN2ZhU3Rnbms4aWJ4ZkJwUmVYMEhrZ0tHckFONkhmbEtzNzYxdFdmQjFRdXFNUEFGREZUclN5cDR1eFdVUjdfdHdIWk1fYUtCdkdEdzBEZGhQZzRuejJMeEtTX1RpVktCOHBZSFBEbXNSbksyUHJLVG5TT29vZHJUcUFzdGNnSGRNam1qNEpCYTlXNlc5MG5mOXhvRmJTOC1jbklLM3cyTVJSQnpCSXR1WEM5dVJiV3BKd2EwUVFiZTBSdTFqTkwtddIB5gFBVV95cUxQeWVSWHk4QWNrd1ZPRGhCaFF5dDl1RmxNTXV3d2dpVW5mX24yVWhPbmdNeWxJNUljdUlFaGt2SkZCb3BIVjVnUkthUnJXWjVTVlFtVk9YTVhhbTFjejJVc2JxZEpZV1hnWFp3RXpEZjhFaUZraDM2Zk83aFA0UzNibl9fWVNfWDUyYUJXa1paczUwOHpCbTFLUWR2UUxvbEVjSmx6S3hWY05NRUF0Yl9mOGJ0c2FtRERZakMtUGZrc1pKRHVPbVN6cHN3TVlITEU0U05XNXpuVUU1dUpXNGd5MmlWNHdyZw?oc=5",
-     "summary": "CAG urges Mizoram govt to probe disbursement of Rs 9.19 crore GIM funds The Times of India",
-     "published": "2026-08-30T18:29:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "164dbc5a0797",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "Rs 9.19 crore GIM funds",
-      "Rs 9.19 crore GIM funds The Times"
-     ]
-    },
-    {
-     "title": "After Dipke’s ‘School Theek Karo’ campaign, SFI, DYFI to audit Maharashtra schools",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0dNT0ktTWg5NTlaZ3Zxdmt1WmluMmh0NzY4d25ESkVaOVhjZEdxWWlVZE43c2JUQ0pMWk9GaFpyX1VXVzhHZmRMM1hkei0tYmJQOHB6MlQxdTZsdGtId0M5WjU3ampOYkh2bzRPOFhXWHNfd0RrSVBsWHYyYzRfdGhVV3Z0cFluWDd0RkhVa3NSMDhkcy1sZGZFcVdhWlB0WkZNXzNBOA?oc=5",
-     "summary": "After Dipke’s ‘School Theek Karo’ campaign, SFI, DYFI to audit Maharashtra schools Telangana Today",
-     "published": "2026-08-30T14:58:20+00:00",
-     "source": "Telangana Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "0bcc0f6aef6c",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -757,6 +726,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+     "url": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss",
+     "summary": "Teenager struggled in Barca's La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.",
+     "published": "2026-08-30T21:28:16+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8ae3f92f-1787487225_7f4d2c-1787487253.jpg?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "6385942defff",
+     "category": "human",
+     "category_label": "Human interest"
+    },
+    {
      "title": "Israeli strike kills 3-year-old child in Gaza",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
      "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
@@ -783,35 +765,6 @@
      "category_label": "War & conflict"
     },
     {
-     "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-     "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-     "summary": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
-     "published": "2026-08-30T20:38:56+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a947b927a47-1788115858.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "4bd6e54d246d",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-     "published": "2026-08-30T20:02:43+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "80226a3cb4a8",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "270 people turns over after leaving"
-     ]
-    },
-    {
      "title": "Iceland votes against restarting EU membership talks",
      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
@@ -834,19 +787,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
      "licence": "linkout",
      "id": "868f6bb6e2a9",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-     "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
-     "published": "2026-08-30T18:53:53+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "61d0db549830",
      "category": "general",
      "category_label": "General"
     }
@@ -1294,53 +1234,39 @@
    "upsc": false,
    "items": [
     {
-     "title": "Rescue efforts after Tibet floods reach ‘critical phase'",
-     "url": "http://www.bbc.co.uk/programmes/p0p6v823",
-     "summary": "Two days after massive floods and landslides in the Himalayas, authorities in Tibet have resumed search and rescue operations, despite the ongoing threat that a debris-filled lake could collapse. The Chinese government has offered to send aid to Nepal to help survivors of the disaster. Also: King Haakon VIII has acceded to the throne in Norway after the death of his father, Harald V, at the age of 89. A group of more than 80 actors are calling on the British government to give every person in the UK a legal right to own their voice in response to the rise in the use of AI \"voice cloning\". And Apple prepares to shake up the tech industry with its first foldable iPhone expected to be unveiled next month. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk Photo: Firefighters conduct search and rescue operations after a mudslide in Gyirong county in Tibet. Credit: Reuters",
-     "published": "2026-08-28T14:58:00+00:00",
+     "title": "The Global Story: Will the new cancer vaccine survive RFK Jr’s America?",
+     "url": "http://www.bbc.co.uk/programmes/p0p6shvl",
+     "summary": "A new personalised vaccine given in combination with a drug has stopped skin cancer returning in patients during a trial, representing a potentially watershed moment in cancer treatment. Scientists used mRNA technology, which was used for some Covid-19 vaccines. But that technology - and vaccines more generally - have become increasingly controversial in the United States since the Covid-19 pandemic. The Health Secretary Robert F Kennedy Jr, is a vaccine sceptic. In August 2025 cancelled $500m (£376m) in funding for mRNA vaccine research. The move impacted 22 projects being led by major pharmaceutical companies, including Pfizer and Moderna, for vaccines against bird flu and other viruses, according to Kennedy’s department. We speak to Tom Whipple, host of the BBC’s Inside Science programme, about the science of this new vaccine. And we ask how funding cuts for vaccine research could impact health outcomes not just for Americans, but for the world. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.",
+     "published": "2026-08-30T19:00:00+00:00",
      "source": "BBC Global News Podcast",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p6v87s.jpg",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p6syft.jpg",
      "licence": "linkout",
      "kind": "podcast",
      "show": "BBC Global News Podcast",
      "show_url": "https://www.bbc.co.uk/programmes/p02nq0gn",
-     "id": "a495b5109e4e"
+     "id": "c86c15607fe9"
     },
     {
-     "title": "Bots on the ground: China leads humanoid race",
-     "url": "https://shows.acast.com/theintelligencepodcast/episodes/bots-on-the-ground-china-leads-humanoid-race",
-     "summary": "Our correspondent goes inside a Chinese robot facility to see thousands of droids being taught to complete useful tasks. Is it worth the time and money? How Meta ’s $17bn settlement at its blockbuster trial could change teen social-media use. And 75 years of the Paris bookshop Shakespeare and Company . Watch extended clips from Insider here , plus the full Elon Musk interview Guests and host: Don Weinland, China business editor Alice Fulwood, “Money Talks” host and US business editor Alexandra Suich-Bass, culture editor Rosie Blau, co-host of “The Intelligence” Topics covered: Robots, humanoids, China, AI Meta, Instagram, Facebook, social media, addiction, Shakespeare and Company, Paris, bookshops Listen to what matters most, from global politics and business to science and technology— subscribe to The Economist . Hosted on Acast. See acast.com/privacy for more information.",
-     "published": "2026-08-28T09:35:07+00:00",
-     "source": "The Intelligence",
-     "byline": "",
-     "image": "https://open-images.acast.com/shows/62e286a934d4d93d6587424a/1787909561480-1f504768-54b2-4777-a175-53117a30de5a.jpeg?height=315",
-     "licence": "linkout",
-     "kind": "podcast",
-     "show": "The Intelligence",
-     "show_url": "https://shows.acast.com/theintelligencepodcast",
-     "id": "42e914c7ed8f"
-    },
-    {
-     "title": "China warns of further floods near Nepal border",
-     "url": "http://www.bbc.co.uk/programmes/p0p6q9fy",
-     "summary": "There are fears a lake formed by debris after the China-Nepal flash flood could burst, causing further damage and hampering rescue efforts. Nearly 500 people have already been confirmed dead. Also: Bosnian Serb commander Ratko Mladić who oversaw the worst atrocities in Europe since the Second World War dies; President Trump renames Lake Ontario as the trade war with Canada continues; a US jury deliberates whether Lindsay Clancy is responsible for the murder of her 3 children; top tech firms warn about the dangers of AI; Uefa prepares criminal legal action against Fifa president Gianni Infantino; NASA gears up to launch its flagship space observatory; and the highly-anticipated children's fantasy book \"The Neverfear\" is released. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk Photo: A boy looks at the devastation caused by flash flooding along the Trishuli River in Nepal's Nuwakot district. Credit: AP",
-     "published": "2026-08-28T04:53:00+00:00",
+     "title": "Netanyahu condemns West Bank attacks by settlers",
+     "url": "http://www.bbc.co.uk/programmes/p0p71qxh",
+     "summary": "The Israeli prime minister has condemned Jewish settlers who attacked two Palestinian villages in the occupied West Bank including Qusra where an earlier siege by settlers sparked an international outcry. Benjamin Netanyahu called the settlers rioters who violated the law and harmed Israel's standing in the world. Also: A Russian drone strike on an ammunition store in Ukraine kills 37 civilians in a residential area of Kyiv. Lake Ontario gets a new sign - the latest salvo in the ongoing trade war between Canada and the United States. The world's number one cyclist Tadej Pogačar requires surgery after crashing out of La Vuelta in Spain, and why the Japanese custom of removing and tidying shoes is causing problems for emergency services. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk Photo: Settlers throwing stones at a house in the Palestinian village of Qusra in the Israeli-occupied West Bank Credit: Reuters",
+     "published": "2026-08-30T03:17:00+00:00",
      "source": "BBC Global News Podcast",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p6q9gg.jpg",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p71qy0.jpg",
      "licence": "linkout",
      "kind": "podcast",
      "show": "BBC Global News Podcast",
      "show_url": "https://www.bbc.co.uk/programmes/p02nq0gn",
-     "id": "5341db9c1ed9"
+     "id": "1707f843a2a2"
     },
     {
      "title": "In Our Time",
      "url": "https://www.bbc.co.uk/programmes/b006qykl",
      "summary": "BBC — history and ideas",
      "source": "In Our Time",
-     "published": "2026-08-28T21:54:31.739041+00:00",
+     "published": "2026-08-30T22:01:08.068568+00:00",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0m1q0kc.jpg",
      "licence": "linkout",
@@ -1350,11 +1276,25 @@
      "id": "0f339c61b8bb"
     },
     {
+     "title": "The Intelligence",
+     "url": "https://shows.acast.com/theintelligencepodcast",
+     "summary": "The Economist, daily",
+     "source": "The Intelligence",
+     "published": "2026-08-30T22:01:08.389895+00:00",
+     "byline": "",
+     "image": "https://open-images.acast.com/shows/62e286a934d4d93d6587424a/1784634926736-00c7d25b-3e89-4367-a4e1-f7a47693dbeb.jpeg?height=315",
+     "licence": "linkout",
+     "kind": "show",
+     "show": "The Intelligence",
+     "show_url": "https://shows.acast.com/theintelligencepodcast",
+     "id": "b88bdce8fa3e"
+    },
+    {
      "title": "Al Jazeera Podcasts",
      "url": "https://www.aljazeera.com/podcasts/",
      "summary": "The Take and others",
      "source": "Al Jazeera Podcasts",
-     "published": "2026-08-28T21:54:33.340213+00:00",
+     "published": "2026-08-30T22:01:10.017737+00:00",
      "byline": "",
      "image": "https://www.omnycontent.com/d/programs/9c074afa-3313-47e8-b802-a9f900789975/162e23ca-cdc2-49a0-b237-b47700b53a7c/image.jpg?t=1784721640&size=Small",
      "licence": "linkout",
@@ -1368,9 +1308,9 @@
      "url": "https://www.theguardian.com/news/series/todayinfocus",
      "summary": "The Guardian, daily",
      "source": "Today in Focus",
-     "published": "2026-08-28T21:54:32.159829+00:00",
+     "published": "2026-08-30T22:01:07.826946+00:00",
      "byline": "",
-     "image": "https://i.guim.co.uk/img/media/b52866513b82797c7c5fe60463e0cc074caf2ce4/438_0_4446_3559/master/4446.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+     "image": "https://i.guim.co.uk/img/media/6d7f02c5ba8ccaed766363b366355602b232b4aa/0_460_4803_3842/master/4803.jpg?width=465&dpr=1&s=none&crop=5%3A4",
      "licence": "linkout",
      "kind": "show",
      "show": "Today in Focus",
@@ -1382,7 +1322,7 @@
      "url": "https://www.youtube.com/@ANIPodcastwithSmitaPrakash",
      "summary": "Long-form interviews — politics, policy, foreign affairs",
      "source": "ANI Podcast with Smita Prakash",
-     "published": "2026-08-28T21:54:31.099499+00:00",
+     "published": "2026-08-30T22:01:07.566455+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1396,7 +1336,7 @@
      "url": "https://www.youtube.com/@CarvakaPodcast",
      "summary": "Kushal Mehra — philosophy, Indic thought, debate",
      "source": "The Cārvāka Podcast",
-     "published": "2026-08-28T21:54:31.099764+00:00",
+     "published": "2026-08-30T22:01:07.567631+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1410,7 +1350,7 @@
      "url": "https://www.youtube.com/results?search_query=The+Bigger+Picture+Podcast",
      "summary": "Set the exact channel URL in PODCAST_SOURCES",
      "source": "The Bigger Picture Podcast",
-     "published": "2026-08-28T21:54:31.099778+00:00",
+     "published": "2026-08-30T22:01:07.567651+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1424,7 +1364,7 @@
      "url": "https://www.youtube.com/@AjeetBharti",
      "summary": "Commentary and long-form discussion",
      "source": "Ajeet Bharti",
-     "published": "2026-08-28T21:54:31.099938+00:00",
+     "published": "2026-08-30T22:01:07.567847+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1485,19 +1425,6 @@
      "id": "f71a1d95d3e4",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "IPOs are booming, but 37% fell below issue price: 6 red flags to check hiding in the RHP",
-     "url": "https://www.livemint.com/money/personal-finance/ipos-are-booming-but-37-per-cent-fell-below-issue-price-6-red-flags-to-check-11788100375779.html",
-     "summary": "Since IPO-bound companies do not have a listed-market track record or exchange trading history, investors largely have to depend on information provided before the listing",
-     "published": "2026-08-30T17:05:28+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/Gemini_Generated_Image_4jhkwi4jhkwi4jhk_1788109346647_1788109353247_5c77fee2-5df9-4b40-88ef-1450028c3e1b.png",
-     "licence": "linkout",
-     "id": "71f164aa41ff",
-     "category": "money",
-     "category_label": "Money & scams"
     },
     {
      "title": "Ahead of festive season, sugar prices remain above ₹60/kg across India despite govt measures — Check city-wise cost",
@@ -1577,6 +1504,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zQ2xqdjJOZF80cUFfcjR1SE1VRGRVdzZ5Z0M2S1pRR2o3LTVjcEo1WHQtak5CbGlFLWdtWGlEdE03LW1JaDVGam5ZZlB2Nmg0R3Z3NXhVaWxjS3Q0TDFzdXFHZU5KTl83anBXNFRKcw?oc=5",
+     "summary": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up MedCity News",
+     "published": "2026-08-30T15:12:21+00:00",
+     "source": "MedCity News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "5ec4a6ee3223",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Open source ecosystems defeat Washington’s attempts at technological partition",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0dpbDF1WktnZ3hHeEQ4TUt0bXlKSGpwazNJZ1B5SGdkaGlrQ1hlYUxVSjJPX21zenlNV0JJVDkzTWk5M1RDdTNnbkNXSktDRVZNYTlhMXJNbVBCQXdxVUtnZHdoR1c0TXVaUXZOeEdLb0wySm1WV3c0Nnp5dVFRSHlnWkRPRVc4bEZuZ3JObl9vU3B5eW9SRFVFZk9tbzhoa3lLLVFqRnRUNDVFS0FSeW5WaHNFdlJhREhiUGYtbw?oc=5",
      "summary": "Open source ecosystems defeat Washington’s attempts at technological partition Mail & Guardian",
@@ -1588,19 +1528,6 @@
      "id": "01b99f0e8af1",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Between the medical field and artificial intelligence (AI) technology, there is the so-called Death",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wb2dXZFpqQzFOYUdhT3ptaW1NT3BJbTdkQ1dFOW1aRDZQX0Z3N1ozd0k1VzU2Q2xBczZGdHZXVjFUWnl1blVSMXZYc2ZDbVM3TUE?oc=5",
-     "summary": "Between the medical field and artificial intelligence (AI) technology, there is the so-called Death 매일경제",
-     "published": "2026-08-30T07:39:59+00:00",
-     "source": "매일경제",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4039ddb68655",
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
