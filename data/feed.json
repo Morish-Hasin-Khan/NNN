@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T05:32:28.075800+00:00",
+ "generated_at": "2026-08-30T06:02:22.752827+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -46,11 +46,10 @@
    "key": "silver",
    "label": "SILVER",
    "unit": "₹/kg",
-   "value": 194483.0,
-   "change": 15633.0,
-   "changePct": 8.74,
-   "decimals": 0,
-   "stale": true
+   "value": 189605.0,
+   "change": -2378.0,
+   "changePct": -1.24,
+   "decimals": 0
   },
   {
    "key": "usdinr",
@@ -90,10 +89,10 @@
   "News",
   "Delhi Government",
   "Station Basti",
+  "Congregation Mass",
   "National News",
-  "Arkansas",
-  "Protests India",
-  "What Nepal"
+  "Mapping Iran",
+  "Arkansas"
  ],
  "sections": [
   {
@@ -204,24 +203,18 @@
      "from_section": "National News"
     },
     {
-     "title": "₹1 crore home loan for 20 years: Check how higher interest rates can add ₹46 lakh to your interest cost",
-     "url": "https://www.livemint.com/money/personal-finance/1-crore-home-loan-for-20-years-check-how-higher-interest-rates-can-add-46-lakh-to-your-interest-cost-11788053078784.html",
-     "summary": "A ₹1 crore home loan for 20 years can cost significantly more as interest rates rise. Here is a simple comparison of EMI, total interest and repayment at rates from 7% to 10%. Before locking in on any home loan offers it is wise to carry out proper due diligence.&nbsp;",
-     "published": "2026-08-30T03:05:53+00:00",
-     "source": "Mint",
+     "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+     "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+     "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+     "published": "2026-08-30T05:09:11+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/cs_image2_1788056681074_1788056684839_8f8963bb-380d-406d-9141-a1f1c9514443.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/INTERACTIVE-oil-poster-1788067413.jpg?resize=1200%2C630",
      "licence": "linkout",
-     "id": "63d7c538ee8a",
+     "id": "2cb3cb1fc751",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹1 crore home loan for 20",
-      "20 years : Check how higher",
-      "₹46 lakh to your interest cost",
-      "20 years can cost significantly more"
-     ]
+     "from_section": "Global News"
     },
     {
      "title": "8th Pay Commission: Big fitment factor gives an instant boost, but higher increments may win over time",
@@ -414,7 +407,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T05:32:14.308006+00:00",
+     "published": "2026-08-30T06:02:11.538342+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -425,7 +418,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T05:32:14.308023+00:00",
+     "published": "2026-08-30T06:02:11.538355+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -436,7 +429,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T05:32:14.308026+00:00",
+     "published": "2026-08-30T06:02:11.538377+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -447,7 +440,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T05:32:14.308029+00:00",
+     "published": "2026-08-30T06:02:11.538381+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -458,7 +451,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T05:32:14.308031+00:00",
+     "published": "2026-08-30T06:02:11.538385+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +462,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T05:32:14.308034+00:00",
+     "published": "2026-08-30T06:02:11.538389+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -548,6 +541,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
+     "url": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
+     "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
+     "published": "2026-08-30T05:40:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/9d6d3m/article71407068.ece/alternates/LANDSCAPE_1200/80968_30_8_2026_9_56_53_3_7O3A0140.JPEG",
+     "licence": "linkout",
+     "id": "c0b3a5ce5933",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
      "url": "https://www.thehindu.com/news/national/bjp-brainstorming-on-genz-outreach-concludes-cohort-is-not-homogenous/article71407040.ece",
      "summary": "Sources said some leaders in the meeting suggested avoiding the term “Gen Z” and instead using the broader term “youth” or references to specific age groups",
@@ -574,19 +580,6 @@
      "category_label": "Crime"
     },
     {
-     "title": "Watch: Parandur airport scrapped: What do the youth say? | The Hindu Ground Report",
-     "url": "https://www.thehindu.com/videos/watch-parandur-airport-scrapped-what-do-the-youth-say-the-hindu-ground-report/article71407036.ece",
-     "summary": "Following Chief Minister C. Joseph Vijay’s announcement to officially drop the proposed greenfield airport at Parandur, social media and political corridors have been consumed by debates over Chennai’s aviation capacity, economic growth, and ecological preservation. This ground report focuses on the voices living with the immediate consequences: the local youth across Parandur’s affected belt, whose lives and careers have been split into two distinct paths.",
-     "published": "2026-08-30T04:51:26+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gtawoe/article71407033.ece/alternates/LANDSCAPE_1200/T%20THUMBNAIL%205.png",
-     "licence": "linkout",
-     "id": "2ed436d22b84",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Can an accused be denied a copy of the FIR? | Explained",
      "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
      "summary": "A three-judge Bench headed by Chief Justice of India (CJI) Surya Kant directed the Ghaziabad Police Commissioner to provide him with the FIR and CCTV footage and to file a compliance report by September 7. It also protected him from arrest and allowed him to approach the jurisdictional High Court for further relief.",
@@ -598,19 +591,6 @@
      "id": "92ef16d9a5a3",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "The Bhotekoshi flood | A Himalayan tragedy",
-     "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
-     "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
-     "published": "2026-08-30T04:16:06+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
-     "licence": "linkout",
-     "id": "8761981db0b3",
-     "category": "weather",
-     "category_label": "Weather & disaster"
     },
     {
      "title": "CTET SEP 2026: Extended Application Deadline Ends On September 1, Direct Link To Apply",
@@ -653,6 +633,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+     "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+     "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+     "published": "2026-08-30T05:09:11+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/INTERACTIVE-oil-poster-1788067413.jpg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "2cb3cb1fc751",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
      "summary": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
@@ -679,19 +672,6 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
-     "url": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
-     "summary": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
-     "published": "2026-08-30T04:28:10+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-13T160233Z_1326698443_RC2QGJA8IX43_RTRMADP_3_MYANMAR-CONFLICT-1788064239_efe15f-1788064283.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "de1b251d9b3d",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
      "title": "Sudanese repair roads by hand in Darfur to improve emergency access",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
      "summary": "Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.",
@@ -703,22 +683,6 @@
      "id": "8d9e5bf9e275",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Venezuela says it retains ‘sovereignty’ following US oil deal",
-     "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
-     "summary": "Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.",
-     "published": "2026-08-30T03:51:26+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a939c5058-1788058704.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "2c46dba8115c",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "$19  from every barrel"
-     ]
     },
     {
      "title": "Iceland EU referendum on a knife edge as counting continues",
@@ -789,6 +753,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
+     "url": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
+     "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
+     "published": "2026-08-30T05:40:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/9d6d3m/article71407068.ece/alternates/LANDSCAPE_1200/80968_30_8_2026_9_56_53_3_7O3A0140.JPEG",
+     "licence": "linkout",
+     "id": "c0b3a5ce5933",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
      "url": "https://www.thehindu.com/news/national/bjp-brainstorming-on-genz-outreach-concludes-cohort-is-not-homogenous/article71407040.ece",
      "summary": "Sources said some leaders in the meeting suggested avoiding the term “Gen Z” and instead using the broader term “youth” or references to specific age groups",
@@ -815,17 +792,17 @@
      "category_label": "Crime"
     },
     {
-     "title": "Watch: Parandur airport scrapped: What do the youth say? | The Hindu Ground Report",
-     "url": "https://www.thehindu.com/videos/watch-parandur-airport-scrapped-what-do-the-youth-say-the-hindu-ground-report/article71407036.ece",
-     "summary": "Following Chief Minister C. Joseph Vijay’s announcement to officially drop the proposed greenfield airport at Parandur, social media and political corridors have been consumed by debates over Chennai’s aviation capacity, economic growth, and ecological preservation. This ground report focuses on the voices living with the immediate consequences: the local youth across Parandur’s affected belt, whose lives and careers have been split into two distinct paths.",
-     "published": "2026-08-30T04:51:26+00:00",
+     "title": "The Bhotekoshi flood | A Himalayan tragedy",
+     "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
+     "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
+     "published": "2026-08-30T04:16:06+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gtawoe/article71407033.ece/alternates/LANDSCAPE_1200/T%20THUMBNAIL%205.png",
+     "image": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
      "licence": "linkout",
-     "id": "2ed436d22b84",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "8761981db0b3",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     },
     {
      "title": "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York",
@@ -850,19 +827,6 @@
      "image": "https://th-i.thgim.com/public/incoming/qyn92c/article71405719.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
      "licence": "linkout",
      "id": "e802940b0da4",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "PM Modi’s SCO visit is loaded with expectations on BRICS Summit and UNSC election",
-     "url": "https://www.thehindu.com/news/national/pms-sco-visit-is-loaded-with-expectations-on-brics-summit-and-unsc-election/article71404574.ece",
-     "summary": "PM’s visit will focus on strengthening ties with Iran, Tajikistan, and other Central Asian countries; the agenda will include engagements aimed at the upcoming BRICS Summit in September, the two-year UN Security Council term of 2028-2029, and planning for the long-pending India-Central Asia Summit, which has not met since 2022",
-     "published": "2026-08-30T02:34:08+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ssjw83/article71404856.ece/alternates/LANDSCAPE_1200/PTI09_01_2025_000105A.jpg",
-     "licence": "linkout",
-     "id": "e8ca32dfe80c",
      "category": "politics",
      "category_label": "Political controversy"
     },
@@ -1492,6 +1456,19 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c521/live/9e0cce50-a395-11f1-b666-4bd8c8e39163.jpg",
      "licence": "linkout",
      "id": "c79816594dfe",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Sukanya Samriddhi Yojana: Can you open an account if your daughter has turned 10?",
+     "url": "https://www.livemint.com/money/personal-finance/sukanya-samriddhi-yojana-can-you-open-an-account-if-your-daughter-has-turned-10-11788065850638.html",
+     "summary": "Sukanya Samriddhi Yojana has a clear age cut-off for opening new accounts. Know the SSY eligibility rules, deposit limits, maturity period, interest rate and what happens after a girl turns 10.",
+     "published": "2026-08-30T05:42:58+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/sukanya_yojana_photo_1788068476588_1788068480560_4929ddfd-718b-4beb-a291-b7efcd0652ff.jpg",
+     "licence": "linkout",
+     "id": "441c552f0746",
      "category": "general",
      "category_label": "General"
     },
