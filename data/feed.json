@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T14:33:10.519355+00:00",
+ "generated_at": "2026-08-30T15:02:59.740328+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 126706.0,
    "change": -3026.0,
    "changePct": -2.33,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,14 +84,14 @@
   }
  ],
  "topics": [
-  "Four Meghalaya",
   "Dozens Niger",
+  "WhatsApp",
   "Jazeera English",
   "News",
   "Delhi Government",
   "Station Basti",
-  "Scattered Hyderabad",
-  "Kuppam Palamaner",
+  "Nagendra Minister",
+  "Keralam KGMOA",
   "Global News",
   "Iceland What"
  ],
@@ -101,20 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "Four armed men killed in encounter with Meghalaya Police-ATS",
-     "url": "https://www.thehindu.com/news/national/meghalaya/four-armed-men-killed-in-encounter-with-meghalaya-police-ats/article71408094.ece",
-     "summary": "The gunfight took place around 4 a.m. when the joint team had set up a checkpoint on the road from Songsak towards Kagal following intelligence inputs, says East Garo Hills SP Pawar S. Vasantrao",
-     "published": "2026-08-30T14:20:29+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/ps8enj/article71408143.ece/alternates/LANDSCAPE_1200/iStock-579777946.jpg",
-     "licence": "linkout",
-     "id": "8b0bb2e04b26",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
     {
      "title": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
@@ -178,10 +165,24 @@
      ]
     },
     {
-     "title": "24x7 specialty services in Keralam hospitals: KGMOA, govt. iron out differences",
+     "title": "Nagendra’s resignation not due to BJP protests, claims Minister",
+     "url": "https://www.thehindu.com/news/national/karnataka/nagendras-resignation-not-due-to-bjp-protests-claims-minister/article71407987.ece",
+     "summary": "",
+     "published": "2026-08-30T14:59:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "8eb01d638c8e",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "24x7 specialty services in Keralam hospitals: meeting between KGMOA, govt. ‘positive’",
      "url": "https://www.thehindu.com/news/national/kerala/24x7-specialty-services-in-keralam-hospitals-kgmoa-govt-iron-out-differences/article71407906.ece",
      "summary": "KGMOA State leadership, which met Health Minister K. Muraleedharan, says that most of its major apprehensions regarding the government’s move were addressed",
-     "published": "2026-08-30T14:22:40+00:00",
+     "published": "2026-08-30T14:58:35+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/hc0wul/article71408110.ece/alternates/LANDSCAPE_1200/Kerala-governmeGC6G8BH0J.3.jpg.jpg",
@@ -192,52 +193,18 @@
      "from_section": "National News"
     },
     {
-     "title": "Aranmula water regatta symbolises Keralam’s rich cultural heritage: Vice-President C. P. Radhakrishnan",
-     "url": "https://www.thehindu.com/news/national/kerala/aranmula-water-regatta-symbolises-keralams-rich-cultural-heritage-vice-president-c-p-radhakrishnan/article71407845.ece",
-     "summary": "Stressing the importance of safeguarding cultural legacies, Vice-President points out the vital need to preserve and promote traditional arts and crafts",
-     "published": "2026-08-30T14:12:56+00:00",
+     "title": "No campus, no students as Uttarakhand’s NLU remains on paper",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/no-campus-no-students-as-uttarakhands-nlu-remains-on-paper/article71407328.ece",
+     "summary": "In 2019, then Chief Minister Trivendra Singh Rawat laid the foundation stone at Ranipokhari for what was projected as the country’s 23rd NLU. Seven years later, the university remains non-functional",
+     "published": "2026-08-30T14:57:43+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wpp978/article71407944.ece/alternates/LANDSCAPE_1200/20260830272L.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "296fe8eb5c60",
+     "id": "e934c23ec36e",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Kerala Excise Bribery Racket Busted, 7 Officers Suspended After Sting Op",
-     "url": "https://www.ndtv.com/india-news/kerala-excise-bribery-racket-busted-7-officers-suspended-after-sting-op-11978571#publisher=newsstand",
-     "summary": "Excise Commissioner Seeram Sambasiva Rao ordered the suspensions following directions from Excise Minister M Liju.",
-     "published": "2026-08-30T14:00:05+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2020-11/ot9qoiqo_kerala-police-van_625x300_03_November_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "3942627d1b21",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "7 Officers Suspended After Sting Op"
-     ]
-    },
-    {
-     "title": "₹1,886-crore drinking water grid to end water woes in Kuppam, Palamaner, Punganur belts",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/1886-crore-drinking-water-grid-to-end-water-woes-in-kuppam-palamaner-punganur-belts/article71407489.ece",
-     "summary": "Gandikota reservoir water to be pumped to drought-prone areas across Chittoor, Annamayya and Tirupati districts",
-     "published": "2026-08-30T14:24:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2aipz2/article71408166.ece/alternates/LANDSCAPE_1200/9604_4_11_2025_18_12_2_2_IMG_20251104_WA0021.JPG",
-     "licence": "linkout",
-     "id": "4323236d19e4",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News",
-     "figures": [
-      "₹1,886 -crore drinking water grid"
-     ]
+     "from_section": "National News"
     },
     {
      "title": "These taxpayers can't switch between old and new regimes every year: Know Form 10-IEA rules, deadline and filing process",
@@ -257,18 +224,21 @@
      ]
     },
     {
-     "title": "Want to sell inherited agricultural land? Here are the tax breaks available",
-     "url": "https://www.livemint.com/money/personal-finance/want-to-sell-inherited-agricultural-land-here-are-the-tax-breaks-available-11788073405599.html",
-     "summary": "Inherited agricultural land can attract capital gains tax if it qualifies as urban agricultural land, but reinvestment in a home, agricultural land or specified bonds can help reduce the tax burden.",
-     "published": "2026-08-30T13:11:44+00:00",
-     "source": "Mint",
+     "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+     "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+     "published": "2026-08-30T04:01:02+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/2-0-321245317-cotton-farmer-0_1680668754152_1788082061532_3539a658-231f-4ea6-b5a7-e9785faebf17.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
-     "id": "cfd3440bed92",
+     "id": "d1fd3bc001a5",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
+     "from_section": "Business",
+     "figures": [
+      "65 billion barrels of Venezuelan oil"
+     ]
     },
     {
      "title": "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost",
@@ -287,6 +257,20 @@
       "$195 M federal boost",
       "$195 M federal boost CBC"
      ]
+    },
+    {
+     "title": "UPI set for Uzbekistan rollout as India expands digital payments footprint and strengthens bilateral ties",
+     "url": "https://www.livemint.com/money/personal-finance/upi-rollout-uzbekistan-to-adopt-qr-scan-india-expands-digital-footprint-international-payments-strengthen-bilateral-ties-11788095998478.html",
+     "summary": "Uzbekistan has joined the list of countries that is set to adopt the UPI, the Ministry of External Affairs announced today after PM Narendra Modi's two-day official visit to the Central Asian country.&nbsp;",
+     "published": "2026-08-30T14:52:16+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/Gemini_Generated_Image_nel6a9nel6a9nel6_1788101262732_1788101272980_370ddbbb-75b8-40f8-b60b-d938cac5512e.png",
+     "licence": "linkout",
+     "id": "5d1604fe10aa",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Business"
     },
     {
      "title": "Nepal Flash Flood LIVE Updates: 734 Bodies Recovered, 275 Indians Among Nearly 2,500 Still Missing",
@@ -437,7 +421,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T14:32:59.043470+00:00",
+     "published": "2026-08-30T15:02:45.808023+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -448,7 +432,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T14:32:59.043495+00:00",
+     "published": "2026-08-30T15:02:45.808033+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -459,7 +443,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T14:32:59.043502+00:00",
+     "published": "2026-08-30T15:02:45.808039+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -470,7 +454,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T14:32:59.043507+00:00",
+     "published": "2026-08-30T15:02:45.808043+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -481,7 +465,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T14:32:59.043513+00:00",
+     "published": "2026-08-30T15:02:45.808045+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -492,7 +476,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T14:32:59.043518+00:00",
+     "published": "2026-08-30T15:02:45.808047+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -602,39 +586,23 @@
    "upsc": false,
    "items": [
     {
-     "title": "Scattered showers lash Hyderabad on August 30",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/scattered-showers-lash-hyderabad-on-august-30/article71408029.ece",
+     "title": "Nagendra’s resignation not due to BJP protests, claims Minister",
+     "url": "https://www.thehindu.com/news/national/karnataka/nagendras-resignation-not-due-to-bjp-protests-claims-minister/article71407987.ece",
      "summary": "",
-     "published": "2026-08-30T14:24:37+00:00",
+     "published": "2026-08-30T14:59:07+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "9c4f6d1307ae",
-     "category": "general",
-     "category_label": "General"
+     "id": "8eb01d638c8e",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "₹1,886-crore drinking water grid to end water woes in Kuppam, Palamaner, Punganur belts",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/1886-crore-drinking-water-grid-to-end-water-woes-in-kuppam-palamaner-punganur-belts/article71407489.ece",
-     "summary": "Gandikota reservoir water to be pumped to drought-prone areas across Chittoor, Annamayya and Tirupati districts",
-     "published": "2026-08-30T14:24:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2aipz2/article71408166.ece/alternates/LANDSCAPE_1200/9604_4_11_2025_18_12_2_2_IMG_20251104_WA0021.JPG",
-     "licence": "linkout",
-     "id": "4323236d19e4",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹1,886 -crore drinking water grid"
-     ]
-    },
-    {
-     "title": "24x7 specialty services in Keralam hospitals: KGMOA, govt. iron out differences",
+     "title": "24x7 specialty services in Keralam hospitals: meeting between KGMOA, govt. ‘positive’",
      "url": "https://www.thehindu.com/news/national/kerala/24x7-specialty-services-in-keralam-hospitals-kgmoa-govt-iron-out-differences/article71407906.ece",
      "summary": "KGMOA State leadership, which met Health Minister K. Muraleedharan, says that most of its major apprehensions regarding the government’s move were addressed",
-     "published": "2026-08-30T14:22:40+00:00",
+     "published": "2026-08-30T14:58:35+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/hc0wul/article71408110.ece/alternates/LANDSCAPE_1200/Kerala-governmeGC6G8BH0J.3.jpg.jpg",
@@ -644,17 +612,46 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "MBA, MCA aspirants seek special phase of ICET counselling",
-     "url": "https://www.thehindu.com/news/national/telangana/mba-mca-aspirants-seek-special-phase-of-icet-counselling/article71407665.ece",
+     "title": "Mysuru palace glows pink as Gruha Lakshmi completes three years",
+     "url": "https://www.thehindu.com/news/national/karnataka/mysuru-palace-glows-pink-as-gruha-lakshmi-completes-three-years/article71408196.ece",
      "summary": "",
-     "published": "2026-08-30T14:21:36+00:00",
+     "published": "2026-08-30T14:58:32+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/opwa97/article71408287.ece/alternates/LANDSCAPE_1200/2303_30_8_2026_20_2_49_1_PINKPALACE.JPEG",
      "licence": "linkout",
-     "id": "9412ee6c677c",
+     "id": "1421ca610309",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "As students protest in law varsities, Justice Bhuyan calls for appointment of SC judges from legal academia",
+     "url": "https://www.thehindu.com/news/national/as-students-protest-in-national-law-varsities-justice-bhuyan-pushes-for-appointment-of-sc-judges-from-legal-academia/article71407244.ece",
+     "summary": "The Supreme Court judge says due to the 76-year reluctance to activate Article 124(3) of the Constitution for appointment of legal academics as judges, brilliant minds with legal scholarship missed the opportunity to serve as judges of the top court",
+     "published": "2026-08-30T14:56:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/29e1qb/article71407287.ece/alternates/LANDSCAPE_1200/PTI08_08_2026_000326A.jpg",
+     "licence": "linkout",
+     "id": "39259987488a",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Kerala Excise Bribery Racket Busted, 7 Officers Suspended After Sting Op",
+     "url": "https://www.ndtv.com/india-news/kerala-excise-bribery-racket-busted-7-officers-suspended-after-sting-op-11978571#publisher=newsstand",
+     "summary": "Excise Commissioner Seeram Sambasiva Rao ordered the suspensions following directions from Excise Minister M Liju.",
+     "published": "2026-08-30T14:00:05+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2020-11/ot9qoiqo_kerala-police-van_625x300_03_November_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3942627d1b21",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "7 Officers Suspended After Sting Op"
+     ]
     },
     {
      "title": "SBI PO Prelims Result 2026 Out: Check Roll Number-Wise PDF, Shortlist Status",
@@ -719,9 +716,9 @@
      "also": [
       {
        "source": "BBC News",
-       "title": "Iceland votes against restarting talks on joining EU",
+       "title": "Iceland votes against restarting EU membership talks",
        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-       "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
+       "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
       }
      ],
      "category": "general",
@@ -744,13 +741,13 @@
      "category_label": "General"
     },
     {
-     "title": "Iceland votes against restarting talks on joining EU",
+     "title": "Iceland votes against restarting EU membership talks",
      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-     "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
-     "published": "2026-08-30T10:49:11+00:00",
+     "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+     "published": "2026-08-30T14:45:05+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4e3/live/84b452f0-a482-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
      "id": "a3d0d3ca0dff",
      "category": "general",
@@ -812,39 +809,23 @@
    "upsc": false,
    "items": [
     {
-     "title": "Scattered showers lash Hyderabad on August 30",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/scattered-showers-lash-hyderabad-on-august-30/article71408029.ece",
+     "title": "Nagendra’s resignation not due to BJP protests, claims Minister",
+     "url": "https://www.thehindu.com/news/national/karnataka/nagendras-resignation-not-due-to-bjp-protests-claims-minister/article71407987.ece",
      "summary": "",
-     "published": "2026-08-30T14:24:37+00:00",
+     "published": "2026-08-30T14:59:07+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "9c4f6d1307ae",
-     "category": "general",
-     "category_label": "General"
+     "id": "8eb01d638c8e",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "₹1,886-crore drinking water grid to end water woes in Kuppam, Palamaner, Punganur belts",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/1886-crore-drinking-water-grid-to-end-water-woes-in-kuppam-palamaner-punganur-belts/article71407489.ece",
-     "summary": "Gandikota reservoir water to be pumped to drought-prone areas across Chittoor, Annamayya and Tirupati districts",
-     "published": "2026-08-30T14:24:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2aipz2/article71408166.ece/alternates/LANDSCAPE_1200/9604_4_11_2025_18_12_2_2_IMG_20251104_WA0021.JPG",
-     "licence": "linkout",
-     "id": "4323236d19e4",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹1,886 -crore drinking water grid"
-     ]
-    },
-    {
-     "title": "24x7 specialty services in Keralam hospitals: KGMOA, govt. iron out differences",
+     "title": "24x7 specialty services in Keralam hospitals: meeting between KGMOA, govt. ‘positive’",
      "url": "https://www.thehindu.com/news/national/kerala/24x7-specialty-services-in-keralam-hospitals-kgmoa-govt-iron-out-differences/article71407906.ece",
      "summary": "KGMOA State leadership, which met Health Minister K. Muraleedharan, says that most of its major apprehensions regarding the government’s move were addressed",
-     "published": "2026-08-30T14:22:40+00:00",
+     "published": "2026-08-30T14:58:35+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/hc0wul/article71408110.ece/alternates/LANDSCAPE_1200/Kerala-governmeGC6G8BH0J.3.jpg.jpg",
@@ -854,28 +835,60 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Krishna Byre Gowda directs GBA to take disciplinary action against officials over failure to address streetlight issue",
-     "url": "https://www.thehindu.com/news/cities/bangalore/krishna-byre-gowda-directs-gba-to-take-disciplinary-action-against-officials-over-failure-to-address-streetlight-issue/article71407902.ece",
+     "title": "Mysuru palace glows pink as Gruha Lakshmi completes three years",
+     "url": "https://www.thehindu.com/news/national/karnataka/mysuru-palace-glows-pink-as-gruha-lakshmi-completes-three-years/article71408196.ece",
      "summary": "",
-     "published": "2026-08-30T14:14:55+00:00",
+     "published": "2026-08-30T14:58:32+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wzx265/article71408119.ece/alternates/LANDSCAPE_1200/FIR-over-unauthG6BGE1B5C.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/opwa97/article71408287.ece/alternates/LANDSCAPE_1200/2303_30_8_2026_20_2_49_1_PINKPALACE.JPEG",
      "licence": "linkout",
-     "id": "2c3bffeafe59",
+     "id": "1421ca610309",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Former MP seeks reduction of NEET-PG All India Quota to 15%",
-     "url": "https://www.thehindu.com/news/national/telangana/former-mp-seeks-reduction-of-neet-pg-all-india-quota-to-15/article71408074.ece",
+     "title": "₹131.61 crore development push for Madhira Assembly constituency: Bhatti",
+     "url": "https://www.thehindu.com/news/national/telangana/13161-crore-development-push-for-madhira-assembly-constituency-bhatti/article71408209.ece",
      "summary": "",
-     "published": "2026-08-30T14:14:38+00:00",
+     "published": "2026-08-30T14:55:24+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jldhms/article71408113.ece/alternates/LANDSCAPE_1200/18hyngg_%20B%20Vinod%20Kumar%2005.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/winlkl/article71408283.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-30%20at%208.10.53%20PM.jpeg",
      "licence": "linkout",
-     "id": "343df1e35392",
+     "id": "7df630049bb7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "₹131.61 crore development push for Madhira"
+     ]
+    },
+    {
+     "title": "Mega DSC-selected teachers stage ‘Atma Gaurava Garjana’ in Visakhapatnam",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/mega-dsc-selected-teachers-stage-atma-gaurava-garjana-in-visakhapatnam/article71408160.ece",
+     "summary": "Over 3,500 participants join rally against allegations of irregularities in recruitment process",
+     "published": "2026-08-30T14:54:33+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xo36ja/article71408270.ece/alternates/LANDSCAPE_1200/00002Rally.jpg",
+     "licence": "linkout",
+     "id": "a2cc6d4db0b2",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "3,500 participants join rally against allegations"
+     ]
+    },
+    {
+     "title": "Kurnool hospital performs liver, kidney transplants",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-hospital-performs-liver-kidney-transplants/article71408052.ece",
+     "summary": "",
+     "published": "2026-08-30T14:51:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "88028d0e246e",
      "category": "general",
      "category_label": "General"
     },
@@ -1407,20 +1420,17 @@
      "category_label": "General"
     },
     {
-     "title": "These taxpayers can't switch between old and new regimes every year: Know Form 10-IEA rules, deadline and filing process",
-     "url": "https://www.livemint.com/money/personal-finance/these-taxpayers-cant-switch-between-old-and-new-regimes-every-year-know-form-10-iea-rules-deadline-and-filing-process-11787489727637.html",
-     "summary": "Taxpayers with business or professional income cannot switch between the old and new tax regimes every year. Form 10-IEA is required for the switch, with restrictions on re-entering the old regime. Here's what taxpayers filing ITR-3 and ITR-4 need to know for AY 2026-27.",
-     "published": "2026-08-30T14:01:39+00:00",
+     "title": "UPI set for Uzbekistan rollout as India expands digital payments footprint and strengthens bilateral ties",
+     "url": "https://www.livemint.com/money/personal-finance/upi-rollout-uzbekistan-to-adopt-qr-scan-india-expands-digital-footprint-international-payments-strengthen-bilateral-ties-11788095998478.html",
+     "summary": "Uzbekistan has joined the list of countries that is set to adopt the UPI, the Ministry of External Affairs announced today after PM Narendra Modi's two-day official visit to the Central Asian country.&nbsp;",
+     "published": "2026-08-30T14:52:16+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/23/600x338/form_iea_1787493595322_1787493616134_dd7b7d64-6342-47a9-a67e-822428702b73.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/Gemini_Generated_Image_nel6a9nel6a9nel6_1788101262732_1788101272980_370ddbbb-75b8-40f8-b60b-d938cac5512e.png",
      "licence": "linkout",
-     "id": "c8efa5f79089",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "4 need to know for AY"
-     ]
+     "id": "5d1604fe10aa",
+     "category": "human",
+     "category_label": "Human interest"
     },
     {
      "title": "Odisha govt employees: Salary may be deducted for unpaid alimony, maintenance; what order means for your money",
