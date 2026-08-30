@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T06:31:47.659915+00:00",
+ "generated_at": "2026-08-30T07:02:35.410215+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -79,20 +79,21 @@
    "value": 78178.0,
    "change": -849.0,
    "changePct": -1.07,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
-  "Swiss",
-  "Panjab University",
+  "Manhunt Swiss",
+  "Explained",
   "Jazeera English",
   "News",
   "Delhi Government",
   "Station Basti",
-  "India Russia",
-  "Bihar Congress",
+  "India Bailey",
   "Hrgovic Itauma",
-  "Mapping Iran"
+  "Mapping Iran",
+  "What Nepal"
  ],
  "sections": [
   {
@@ -102,10 +103,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "One dead and five injured in Swiss shooting, police say",
+     "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-     "summary": "\"The manhunt for the unknown perpetrator is under way,\" local police said.",
-     "published": "2026-08-30T06:27:12+00:00",
+     "summary": "A major police operation has been launched after the shooting at an event near Zurich overnight.",
+     "published": "2026-08-30T06:43:26+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe9b/live/618de8d0-a438-11f1-8b59-3de1e8d7e523.jpg",
@@ -114,6 +115,23 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
+    },
+    {
+     "title": "Can an accused be denied a copy of the FIR? | Explained",
+     "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
+     "summary": "Experts told The Hindu that police officials routinely fail to comply with the Supreme Court’s directive to upload FIRs online within 24 hours of registration. What do statutory provisions stipulate? What are the implications?",
+     "published": "2026-08-30T06:38:33+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/eugpwd/article71405904.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
+     "licence": "linkout",
+     "id": "92ef16d9a5a3",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "24 hours of registration"
+     ]
     },
     {
      "title": "Panjab University Law Student Dies By Suicide In Campus Hostel",
@@ -125,20 +143,6 @@
      "image": "https://i.ndtvimg.com/i/2017-03/police-generic_650x400_51489747586.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "7e6d72821292",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "AAP leader Gurpreet Gopi shot dead in Punjab’s Ferozepur",
-     "url": "https://www.thehindu.com/news/national/punjab/aap-leader-gurpreet-gopi-shot-dead-in-punjabs-ferozepur/article71406995.ece",
-     "summary": "The four car-borne assailants got down from their vehicle in the main bazaar of Mamdot in Ferozepur on Saturday (August 29) evening and opened fire towards the car in which the 45-year-old Singh was travelling",
-     "published": "2026-08-30T05:16:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d73f3fb570c3",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
@@ -206,7 +210,7 @@
      "from_section": "Global News"
     },
     {
-     "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+     "title": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
      "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
      "published": "2026-08-30T05:09:11+00:00",
@@ -248,6 +252,24 @@
      "from_section": "Business"
     },
     {
+     "title": "India provides 68.5 tonnes of relief, Bailey bridge, tunnel expertise to flood-hit Nepal",
+     "url": "https://www.thehindu.com/news/international/india-provides-685-tonnes-of-relief-bailey-bridge-tunnel-expertise-to-flood-hit-nepal/article71407149.ece",
+     "summary": "A fourth flight carrying 11 tonnes of relief assistance landed in Nepal on Sunday (August 30, 2026), the Ministry of External Affairs (MEA) said in a post on X",
+     "published": "2026-08-30T06:51:44+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/kzocay/article71407164.ece/alternates/LANDSCAPE_1200/HQ7mS69aUAAU-zl.jpg",
+     "licence": "linkout",
+     "id": "5603600ed8ff",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News",
+     "figures": [
+      "68.5 tonnes of relief, Bailey bridge",
+      "11 tonnes of relief assistance landed"
+     ]
+    },
+    {
      "title": "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
      "url": "https://www.thehindu.com/news/national/bjp-brainstorming-on-genz-outreach-concludes-cohort-is-not-homogenous/article71407040.ece",
      "summary": "Sources said some leaders in the meeting suggested avoiding the term “Gen Z” and instead using the broader term “youth” or references to specific age groups",
@@ -259,7 +281,7 @@
      "id": "26f121a64e5c",
      "category": "weather",
      "category_label": "Weather & disaster",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Nepal Flash Flood LIVE Updates: 734 Bodies Recovered, 275 Indians Among Nearly 2,500 Still Missing",
@@ -279,20 +301,6 @@
       "275 Indians Among Nearly 2,500 Still",
       "2,500 Still Missing"
      ]
-    },
-    {
-     "title": "What we know about deadly Nepal-Tibet floods",
-     "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
-     "published": "2026-08-30T04:34:20+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/a575cfc0-a2c3-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "ff8d8d19e796",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline"
     },
     {
      "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
@@ -445,7 +453,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T06:31:36.616834+00:00",
+     "published": "2026-08-30T07:02:22.932653+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -456,7 +464,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T06:31:36.616849+00:00",
+     "published": "2026-08-30T07:02:22.932671+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -467,7 +475,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T06:31:36.616855+00:00",
+     "published": "2026-08-30T07:02:22.932679+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -478,7 +486,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T06:31:36.616859+00:00",
+     "published": "2026-08-30T07:02:22.932682+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -489,7 +497,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T06:31:36.616863+00:00",
+     "published": "2026-08-30T07:02:22.932686+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -500,7 +508,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T06:31:36.616867+00:00",
+     "published": "2026-08-30T07:02:22.932689+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -582,6 +590,39 @@
    "upsc": false,
    "items": [
     {
+     "title": "India provides 68.5 tonnes of relief, Bailey bridge, tunnel expertise to flood-hit Nepal",
+     "url": "https://www.thehindu.com/news/international/india-provides-685-tonnes-of-relief-bailey-bridge-tunnel-expertise-to-flood-hit-nepal/article71407149.ece",
+     "summary": "A fourth flight carrying 11 tonnes of relief assistance landed in Nepal on Sunday (August 30, 2026), the Ministry of External Affairs (MEA) said in a post on X",
+     "published": "2026-08-30T06:51:44+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/kzocay/article71407164.ece/alternates/LANDSCAPE_1200/HQ7mS69aUAAU-zl.jpg",
+     "licence": "linkout",
+     "id": "5603600ed8ff",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "68.5 tonnes of relief, Bailey bridge",
+      "11 tonnes of relief assistance landed"
+     ]
+    },
+    {
+     "title": "Can an accused be denied a copy of the FIR? | Explained",
+     "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
+     "summary": "Experts told The Hindu that police officials routinely fail to comply with the Supreme Court’s directive to upload FIRs online within 24 hours of registration. What do statutory provisions stipulate? What are the implications?",
+     "published": "2026-08-30T06:38:33+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/eugpwd/article71405904.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
+     "licence": "linkout",
+     "id": "92ef16d9a5a3",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "24 hours of registration"
+     ]
+    },
+    {
      "title": "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
      "url": "https://www.thehindu.com/news/international/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407088.ece",
      "summary": "Since 2022, India has pivoted towards Russia to meet the bulk of its crude oil needs — raw material for making fuels like petrol and diesel",
@@ -593,22 +634,6 @@
      "id": "15a4e494ed8b",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Bihar Congress leaders plan Delhi protest on Sept. 8 seeking removal of in-charge, State chief",
-     "url": "https://www.thehindu.com/news/national/bihar/bihar-congress-leaders-plan-delhi-protest-on-sept-8-seeking-removal-of-in-charge-state-chief/article71407082.ece",
-     "summary": "In a letter dated August 15, the workers alleged “disorder” in the Bihar Pradesh Congress Committee (BPCC) during the Assembly election and accused the party’s in-charge of acting arbitrarily in the distribution of tickets.",
-     "published": "2026-08-30T06:07:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/du557i/article71407101.ece/alternates/LANDSCAPE_1200/CONGRESS%20PC%20on%20Bihar%205.JPG",
-     "licence": "linkout",
-     "id": "6d40a189df50",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "8 seeking removal of in-charge, State"
-     ]
     },
     {
      "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
@@ -658,7 +683,7 @@
      "category_label": "General"
     },
     {
-     "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+     "title": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
      "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
      "published": "2026-08-30T05:09:11+00:00",
@@ -710,7 +735,7 @@
      "category_label": "Crime"
     },
     {
-     "title": "Canada installs large Lake Ontario sign in latest jab at US",
+     "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
      "published": "2026-08-30T00:17:25+00:00",
@@ -752,6 +777,39 @@
    "upsc": false,
    "items": [
     {
+     "title": "India provides 68.5 tonnes of relief, Bailey bridge, tunnel expertise to flood-hit Nepal",
+     "url": "https://www.thehindu.com/news/international/india-provides-685-tonnes-of-relief-bailey-bridge-tunnel-expertise-to-flood-hit-nepal/article71407149.ece",
+     "summary": "A fourth flight carrying 11 tonnes of relief assistance landed in Nepal on Sunday (August 30, 2026), the Ministry of External Affairs (MEA) said in a post on X",
+     "published": "2026-08-30T06:51:44+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/kzocay/article71407164.ece/alternates/LANDSCAPE_1200/HQ7mS69aUAAU-zl.jpg",
+     "licence": "linkout",
+     "id": "5603600ed8ff",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "68.5 tonnes of relief, Bailey bridge",
+      "11 tonnes of relief assistance landed"
+     ]
+    },
+    {
+     "title": "Can an accused be denied a copy of the FIR? | Explained",
+     "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
+     "summary": "Experts told The Hindu that police officials routinely fail to comply with the Supreme Court’s directive to upload FIRs online within 24 hours of registration. What do statutory provisions stipulate? What are the implications?",
+     "published": "2026-08-30T06:38:33+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/eugpwd/article71405904.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
+     "licence": "linkout",
+     "id": "92ef16d9a5a3",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "24 hours of registration"
+     ]
+    },
+    {
      "title": "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
      "url": "https://www.thehindu.com/news/international/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407088.ece",
      "summary": "Since 2022, India has pivoted towards Russia to meet the bulk of its crude oil needs — raw material for making fuels like petrol and diesel",
@@ -765,59 +823,17 @@
      "category_label": "General"
     },
     {
-     "title": "Bihar Congress leaders plan Delhi protest on Sept. 8 seeking removal of in-charge, State chief",
-     "url": "https://www.thehindu.com/news/national/bihar/bihar-congress-leaders-plan-delhi-protest-on-sept-8-seeking-removal-of-in-charge-state-chief/article71407082.ece",
-     "summary": "In a letter dated August 15, the workers alleged “disorder” in the Bihar Pradesh Congress Committee (BPCC) during the Assembly election and accused the party’s in-charge of acting arbitrarily in the distribution of tickets.",
-     "published": "2026-08-30T06:07:12+00:00",
+     "title": "AAP leader Gurpreet Gopi shot dead in Punjab’s Ferozepur",
+     "url": "https://www.thehindu.com/news/national/punjab/aap-leader-gurpreet-gopi-shot-dead-in-punjabs-ferozepur/article71406995.ece",
+     "summary": "The four car-borne assailants got down from their vehicle in the main bazaar of Mamdot in Ferozepur on Saturday (August 29) evening and opened fire towards the car in which the 45-year-old Singh was travelling",
+     "published": "2026-08-30T05:16:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/du557i/article71407101.ece/alternates/LANDSCAPE_1200/CONGRESS%20PC%20on%20Bihar%205.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "6d40a189df50",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "8 seeking removal of in-charge, State"
-     ]
-    },
-    {
-     "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
-     "url": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
-     "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
-     "published": "2026-08-30T05:40:21+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9d6d3m/article71407068.ece/alternates/LANDSCAPE_1200/80968_30_8_2026_9_56_53_3_7O3A0140.JPEG",
-     "licence": "linkout",
-     "id": "c0b3a5ce5933",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Can an accused be denied a copy of the FIR? | Explained",
-     "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
-     "summary": "A three-judge Bench headed by Chief Justice of India (CJI) Surya Kant directed the Ghaziabad Police Commissioner to provide him with the FIR and CCTV footage and to file a compliance report by September 7. It also protected him from arrest and allowed him to approach the jurisdictional High Court for further relief.",
-     "published": "2026-08-30T04:38:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/eugpwd/article71405904.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
-     "licence": "linkout",
-     "id": "92ef16d9a5a3",
+     "id": "d73f3fb570c3",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "The Bhotekoshi flood | A Himalayan tragedy",
-     "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
-     "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
-     "published": "2026-08-30T04:16:06+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
-     "licence": "linkout",
-     "id": "8761981db0b3",
-     "category": "weather",
-     "category_label": "Weather & disaster"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
