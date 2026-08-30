@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T20:31:46.493805+00:00",
+ "generated_at": "2026-08-30T21:02:16.195759+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -69,7 +69,8 @@
    "value": 88.1,
    "change": -0.48,
    "changePct": -0.54,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Eight Cyprus",
-  "Islam Superior",
+  "Three Patna",
+  "Iran Larak",
   "Jazeera English",
   "News",
   "Station Basti",
-  "Should",
-  "State India",
-  "Real Madrid",
-  "Israeli Palestinians",
-  "Head Nepal"
+  "IISER Pune",
+  "Jose Andres",
+  "Opening Syria",
+  "Head Nepal",
+  "Mount Fuji"
  ],
  "sections": [
   {
@@ -101,6 +102,34 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Three, including two police officials, injured in Patna encounter",
+     "url": "https://www.thehindu.com/news/national/bihar/one-criminal-arrested-after-gunfight-with-police-in-patna-two-officers-injured/article71407200.ece",
+     "summary": "Two police personnel sustained injuried during the confrontation along Son River, according to Patna Senior Superintendent of Police",
+     "published": "2026-08-30T20:42:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "546f0538e657",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "US strikes Iran’s Larak Island in first attack in weeks",
+     "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+     "summary": "IRGC says attack in southern Iran killed and injured several soldiers.",
+     "published": "2026-08-30T20:15:47+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-13T045642Z_1917073729_RC2YSMASJR9K_RTRMADP_3_IRAN-CRISIS-OIL-COLUMN-RUSSELL-1786661630.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "5de9cb0aa694",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
@@ -119,18 +148,18 @@
      ]
     },
     {
-     "title": "\"Islam Superior,\" Says Karnataka Minister. BJP Demands Apology To Hindus",
-     "url": "https://www.ndtv.com/india-news/islam-superior-says-karnataka-ministerbasavaraj-rayareddy-bjp-reads-sanatan-demeaned-11979307#publisher=newsstand",
-     "summary": "BJP spokesperson Ashok Gowda accused the minister and the Congress government of trying to appease \"his voters\".",
-     "published": "2026-08-30T18:47:33+00:00",
-     "source": "NDTV",
+     "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+     "summary": "World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.",
+     "published": "2026-08-30T20:50:04+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/tj1nqg04_basavraj_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788122907.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "ee49efe63138",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
+     "id": "f50988e06aa0",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "Today News Headlines for School Assembly, August 31, 2026: Army pilots evacuate casualty from 18,600 feet; NBEMS to hold NEET-PG re-exam",
@@ -150,6 +179,34 @@
      ]
     },
     {
+     "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+     "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+     "summary": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
+     "published": "2026-08-30T20:38:56+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a947b927a47-1788115858.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "4bd6e54d246d",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "IISER students’ protest continues in Pune",
+     "url": "https://www.thehindu.com/news/national/maharashtra/iiser-students-protest-continues-in-pune/article71408753.ece",
+     "summary": "Their demands include improvement to mental health infrastructure, end to ‘oppressive gender-based hostel curbs’, adequate space and access to campus facilities, protection from disciplinary action for peaceful protests",
+     "published": "2026-08-30T20:07:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "2752862cf931",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "Congress will quit Vijay Cabinet if Rahul is not accepted as PM candidate, says Minister",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-will-quit-vijay-cabinet-if-rahul-is-not-accepted-as-pm-candidate-says-minister/article71408561.ece",
      "summary": "S. Rajesh Kumar’s warning comes against the backdrop of some TVK Ministers and functionaries openly seeking to present CM Vijay as the Prime Minister candidate",
@@ -162,37 +219,6 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
-    },
-    {
-     "title": "Activist Manoj Jarange Sets Mumbai Protest Deadline, Devendra Fadnavis Reaches Out",
-     "url": "https://www.ndtv.com/india-news/activist-manoj-jarange-sets-mumbai-protest-deadline-devendra-fadnavis-reaches-out-11979420#publisher=newsstand",
-     "summary": "Manoj Jarange is demanding immediate issuance of Kunbi certificates to eligible members of the Maratha community based on 58 lakh historical records, asserting that the community will not grant any further time.",
-     "published": "2026-08-30T18:54:34+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2024-06/3dd2k344_maratha-reservation-activist-manoj-jarange-patil-ani_625x300_08_June_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "3de391994873",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "58 lakh historical records, asserting"
-     ]
-    },
-    {
-     "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
-     "summary": "Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.",
-     "published": "2026-08-30T19:33:18+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788118379.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "267e524c862e",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News"
     },
     {
      "title": "Assam Clears Rs 50,000-Crore Package For Women, Health, Roads, Schools",
@@ -228,6 +254,24 @@
      "from_section": "Business"
     },
     {
+     "title": "Ahead of festive season, sugar prices remain above ₹60/kg across India despite govt measures — Check city-wise cost",
+     "url": "https://www.livemint.com/money/personal-finance/sugar-prices-remain-above-rs-60-per-kg-in-india-despite-govt-measures-festive-season-city-wise-cost-mumbai-delhi-chennai-11788106922471.html",
+     "summary": "Sugar prices have remained steadily over ₹60 per kg in most retail markets across India today on 30 August. This high price stability comes despite several steps taken by the central government to check rise in cost, according to official data.",
+     "published": "2026-08-30T17:03:03+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/sugar_1788108499425_1788108511668_e2c188f6-a05e-4d71-9aba-3d4a7fa9e063.png",
+     "licence": "linkout",
+     "id": "05d882c37102",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹60 /kg across India despite",
+      "₹60  per kg in most"
+     ]
+    },
+    {
      "title": "Lola Young surprises Reading Festival with final day set",
      "url": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss",
      "summary": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
@@ -256,6 +300,20 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss",
+     "summary": "Hundreds of Bosnian Serbs gathered to pay tribute to former Bosnian Serb commander Ratko Mladić.",
+     "published": "2026-08-30T20:12:36+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788120625.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "141a7e71efb5",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global News"
+    },
+    {
      "title": "UPI set for Uzbekistan rollout as India expands digital payments footprint and strengthens bilateral ties",
      "url": "https://www.livemint.com/money/personal-finance/upi-rollout-uzbekistan-to-adopt-qr-scan-india-expands-digital-footprint-international-payments-strengthen-bilateral-ties-11788095998478.html",
      "summary": "Uzbekistan has joined the list of countries that is set to adopt the UPI, the Ministry of External Affairs announced today after PM Narendra Modi's two-day official visit to the Central Asian country.&nbsp;",
@@ -268,6 +326,20 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Business"
+    },
+    {
+     "title": "Video: Raging floodwaters sweep away lorry in the Philippines",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/video-raging-floodwaters-sweep-away-lorry-in-the-philippines?traffic_source=rss",
+     "summary": "Video shows a lorry being swept away by raging floodwaters in Rodriguez as torrential rains batter the Philippines.",
+     "published": "2026-08-30T20:31:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/WIDE-THUMB-LORRY-SWEPT-AWAY-1788121852.png?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "81ae34a3b0e9",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global News"
     },
     {
      "title": "Nepal Flash Flood Highlights : 734 Bodies Recovered, 275 Indians Among Nearly 2,500 Still Missing",
@@ -286,24 +358,6 @@
       "734 Bodies Recovered, 275 Indians Among",
       "275 Indians Among Nearly 2,500 Still",
       "2,500 Still Missing"
-     ]
-    },
-    {
-     "title": "Devastation from the Nepal-China Floods in 30 photos",
-     "url": "https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods?traffic_source=rss",
-     "summary": "More than 3,000 people missing after glacier collapse unleashes destruction in Himalayas.",
-     "published": "2026-08-30T18:34:59+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260830__C6UQ4P4__v2__HighRes__TopshotNepalDisasterFlood-1788101342.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "30198808334e",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News",
-     "figures": [
-      "30 photos",
-      "3,000 people missing after glacier collapse"
      ]
     },
     {
@@ -442,7 +496,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T20:31:35.187207+00:00",
+     "published": "2026-08-30T21:02:02.733157+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -453,7 +507,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T20:31:35.187219+00:00",
+     "published": "2026-08-30T21:02:02.733168+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -464,7 +518,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T20:31:35.187225+00:00",
+     "published": "2026-08-30T21:02:02.733172+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -475,7 +529,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T20:31:35.187230+00:00",
+     "published": "2026-08-30T21:02:02.733175+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -486,7 +540,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T20:31:35.187234+00:00",
+     "published": "2026-08-30T21:02:02.733178+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -497,7 +551,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T20:31:35.187238+00:00",
+     "published": "2026-08-30T21:02:02.733180+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -532,6 +586,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Three, including two police officials, injured in Patna encounter",
+     "url": "https://www.thehindu.com/news/national/bihar/one-criminal-arrested-after-gunfight-with-police-in-patna-two-officers-injured/article71407200.ece",
+     "summary": "Two police personnel sustained injuried during the confrontation along Son River, according to Patna Senior Superintendent of Police",
+     "published": "2026-08-30T20:42:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "546f0538e657",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "IISER students’ protest continues in Pune",
+     "url": "https://www.thehindu.com/news/national/maharashtra/iiser-students-protest-continues-in-pune/article71408753.ece",
+     "summary": "Their demands include improvement to mental health infrastructure, end to ‘oppressive gender-based hostel curbs’, adequate space and access to campus facilities, protection from disciplinary action for peaceful protests",
+     "published": "2026-08-30T20:07:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "2752862cf931",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "Should the CJP be a political party?",
      "url": "https://www.thehindu.com/opinion/op-ed/should-the-cjp-be-a-political-party/article71408640.ece",
      "summary": "If the CJP does turn into a political party, there is hardly any doubt that it will attract young voters",
@@ -558,45 +638,6 @@
      "category_label": "General"
     },
     {
-     "title": "Congress will quit Vijay Cabinet if Rahul is not accepted as PM candidate, says Minister",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-will-quit-vijay-cabinet-if-rahul-is-not-accepted-as-pm-candidate-says-minister/article71408561.ece",
-     "summary": "S. Rajesh Kumar’s warning comes against the backdrop of some TVK Ministers and functionaries openly seeking to present CM Vijay as the Prime Minister candidate",
-     "published": "2026-08-30T19:24:15+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t568il/article71408814.ece/alternates/LANDSCAPE_1200/11658_22_8_2026_18_8_35_1__DSC7596.JPG",
-     "licence": "linkout",
-     "id": "609d89d7ee9c",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Neelakurinji-like bloom adds charm to Kudremukh Hills",
-     "url": "https://www.thehindu.com/news/national/karnataka/neelakurinji-like-bloom-adds-charm-to-kudremukh-hills/article71407940.ece",
-     "summary": "Adding a distinctive charm to the beauty of the Western Ghats, a rare blue-violet flower resembling Neelakurinji has bloomed big along some trekking trails in the Kudremukh region of Chikkamagaluru district, attracting more trekkers and nature enthusiasts",
-     "published": "2026-08-30T19:19:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/50nxri/article71408516.ece/alternates/LANDSCAPE_1200/IMG_9476.jpeg",
-     "licence": "linkout",
-     "id": "e38a9be1afaf",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Farmers’ associations seek lifting of toddy ban in Tamil Nadu",
-     "url": "https://www.thehindu.com/news/cities/chennai/farmers-associations-seek-lifting-of-toddy-ban-in-tamil-nadu/article71408355.ece",
-     "summary": "C. Nallasamy, coordinator, Tamil Nadu Toddy Movement, says the lifting of the band will create jobs and help many families",
-     "published": "2026-08-30T19:09:14+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uq1lmo/article71408811.ece/alternates/LANDSCAPE_1200/4861_22-11-2018_21-17-34_1_PALM1.JPG",
-     "licence": "linkout",
-     "id": "b08a01286c15",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Amid Alliance Suspense, Akali-BJP Student Wings Tie Up For University Polls",
      "url": "https://www.ndtv.com/india-news/amid-alliance-suspense-akali-bjp-student-wings-tie-up-for-university-polls-11979430#publisher=newsstand",
      "summary": "The Akhil Bharatiya Vidyarthi Parishad or ABVP, affiliated with the BJP, and the Shiromani Akali Dal-backed Students' Organisation of India (SOI) announced an alliance on Sunday.",
@@ -608,6 +649,35 @@
      "id": "93832f349760",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Activist Manoj Jarange Sets Mumbai Protest Deadline, Devendra Fadnavis Reaches Out",
+     "url": "https://www.ndtv.com/india-news/activist-manoj-jarange-sets-mumbai-protest-deadline-devendra-fadnavis-reaches-out-11979420#publisher=newsstand",
+     "summary": "Manoj Jarange is demanding immediate issuance of Kunbi certificates to eligible members of the Maratha community based on 58 lakh historical records, asserting that the community will not grant any further time.",
+     "published": "2026-08-30T18:54:34+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2024-06/3dd2k344_maratha-reservation-activist-manoj-jarange-patil-ani_625x300_08_June_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3de391994873",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "58 lakh historical records, asserting"
+     ]
+    },
+    {
+     "title": "\"Islam Superior,\" Says Karnataka Minister. BJP Demands Apology To Hindus",
+     "url": "https://www.ndtv.com/india-news/islam-superior-says-karnataka-ministerbasavaraj-rayareddy-bjp-reads-sanatan-demeaned-11979307#publisher=newsstand",
+     "summary": "BJP spokesperson Ashok Gowda accused the minister and the Congress government of trying to appease \"his voters\".",
+     "published": "2026-08-30T18:47:33+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/tj1nqg04_basavraj_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ee49efe63138",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -618,64 +688,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
-     "url": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss",
-     "summary": "Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho's Real Madrid continues to move at pace in La Liga.",
-     "published": "2026-08-30T19:50:15+00:00",
+     "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+     "summary": "World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.",
+     "published": "2026-08-30T20:50:04+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2292710390-1788118745.jpg?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788122907.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "136e41bd013d",
-     "also": [
-      {
-       "source": "NDTV Sports",
-       "title": "Jude Bellingham, Kylian Mbappe Fire As Real Madrid Ease To Malaga Win",
-       "url": "https://sports.ndtv.com/football/jude-bellingham-kylian-mbappe-fire-as-real-madrid-ease-to-malaga-win-11979165#publisher=newsstand",
-       "summary": "Jude Bellingham and Kylian Mbappe both struck as Real Madrid's perfect start to La Liga under Jose Mourinho continued in a 4-0 cruise against Malaga on Sunday."
-      }
-     ],
-     "category": "general",
-     "category_label": "General"
+     "id": "f50988e06aa0",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
-     "summary": "Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.",
-     "published": "2026-08-30T19:33:18+00:00",
+     "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+     "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+     "summary": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
+     "published": "2026-08-30T20:38:56+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788118379.jpg?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a947b927a47-1788115858.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "267e524c862e",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "4bd6e54d246d",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss",
-     "summary": "Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.",
-     "published": "2026-08-30T19:06:11+00:00",
+     "title": "Video: Raging floodwaters sweep away lorry in the Philippines",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/video-raging-floodwaters-sweep-away-lorry-in-the-philippines?traffic_source=rss",
+     "summary": "Video shows a lorry being swept away by raging floodwaters in Rodriguez as torrential rains batter the Philippines.",
+     "published": "2026-08-30T20:31:34+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/wide-thumb-idf-3008-1788116714.png?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/WIDE-THUMB-LORRY-SWEPT-AWAY-1788121852.png?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "a6a23b2b286f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
-     "summary": "How a far-right party with neo-Nazi roots bought every ad surface in Sweden's biggest train station.",
-     "published": "2026-08-30T18:51:33+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788115863.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "44e7f3dc6807",
-     "category": "general",
-     "category_label": "General"
+     "id": "81ae34a3b0e9",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     },
     {
      "title": "Iceland votes against restarting EU membership talks",
@@ -788,6 +837,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Three, including two police officials, injured in Patna encounter",
+     "url": "https://www.thehindu.com/news/national/bihar/one-criminal-arrested-after-gunfight-with-police-in-patna-two-officers-injured/article71407200.ece",
+     "summary": "Two police personnel sustained injuried during the confrontation along Son River, according to Patna Senior Superintendent of Police",
+     "published": "2026-08-30T20:42:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "546f0538e657",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "IISER students’ protest continues in Pune",
+     "url": "https://www.thehindu.com/news/national/maharashtra/iiser-students-protest-continues-in-pune/article71408753.ece",
+     "summary": "Their demands include improvement to mental health infrastructure, end to ‘oppressive gender-based hostel curbs’, adequate space and access to campus facilities, protection from disciplinary action for peaceful protests",
+     "published": "2026-08-30T20:07:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "2752862cf931",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "Should the CJP be a political party?",
      "url": "https://www.thehindu.com/opinion/op-ed/should-the-cjp-be-a-political-party/article71408640.ece",
      "summary": "If the CJP does turn into a political party, there is hardly any doubt that it will attract young voters",
@@ -801,30 +876,30 @@
      "category_label": "General"
     },
     {
-     "title": "State of exception: On India, the UN CERD report",
-     "url": "https://www.thehindu.com/opinion/editorial/state-of-exception-on-india-the-un-cerd-report/article71407847.ece",
-     "summary": "India must not normalise a culture of discrimination",
-     "published": "2026-08-30T19:27:59+00:00",
+     "title": "Neelakurinji-like bloom adds charm to Kudremukh Hills",
+     "url": "https://www.thehindu.com/news/national/karnataka/neelakurinji-like-bloom-adds-charm-to-kudremukh-hills/article71407940.ece",
+     "summary": "Adding a distinctive charm to the beauty of the Western Ghats, a rare blue-violet flower resembling Neelakurinji has bloomed big along some trekking trails in the Kudremukh region of Chikkamagaluru district, attracting more trekkers and nature enthusiasts",
+     "published": "2026-08-30T19:19:38+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/50nxri/article71408516.ece/alternates/LANDSCAPE_1200/IMG_9476.jpeg",
      "licence": "linkout",
-     "id": "c733bc828e79",
+     "id": "e38a9be1afaf",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Congress will quit Vijay Cabinet if Rahul is not accepted as PM candidate, says Minister",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-will-quit-vijay-cabinet-if-rahul-is-not-accepted-as-pm-candidate-says-minister/article71408561.ece",
-     "summary": "S. Rajesh Kumar’s warning comes against the backdrop of some TVK Ministers and functionaries openly seeking to present CM Vijay as the Prime Minister candidate",
-     "published": "2026-08-30T19:24:15+00:00",
+     "title": "Farmers’ associations seek lifting of toddy ban in Tamil Nadu",
+     "url": "https://www.thehindu.com/news/cities/chennai/farmers-associations-seek-lifting-of-toddy-ban-in-tamil-nadu/article71408355.ece",
+     "summary": "C. Nallasamy, coordinator, Tamil Nadu Toddy Movement, says the lifting of the band will create jobs and help many families",
+     "published": "2026-08-30T19:09:14+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t568il/article71408814.ece/alternates/LANDSCAPE_1200/11658_22_8_2026_18_8_35_1__DSC7596.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/uq1lmo/article71408811.ece/alternates/LANDSCAPE_1200/4861_22-11-2018_21-17-34_1_PALM1.JPG",
      "licence": "linkout",
-     "id": "609d89d7ee9c",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "b08a01286c15",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "PM Modi’s 36 international honours, at a glance | Graphics",
@@ -841,32 +916,6 @@
      "figures": [
       "36 international honours, at a glance"
      ]
-    },
-    {
-     "title": "Krishna Byre Gowda directs GBA to take disciplinary action against officials over failure to address streetlight issue",
-     "url": "https://www.thehindu.com/news/cities/bangalore/krishna-byre-gowda-directs-gba-to-take-disciplinary-action-against-officials-over-failure-to-address-streetlight-issue/article71407902.ece",
-     "summary": "",
-     "published": "2026-08-30T19:01:20+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wzx265/article71408119.ece/alternates/LANDSCAPE_1200/FIR-over-unauthG6BGE1B5C.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "2c3bffeafe59",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
-     "url": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
-     "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
-     "published": "2026-08-30T18:50:33+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9d6d3m/article71407068.ece/alternates/LANDSCAPE_1200/80968_30_8_2026_9_56_53_3_7O3A0140.JPEG",
-     "licence": "linkout",
-     "id": "c0b3a5ce5933",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -1376,23 +1425,6 @@
      "id": "f71a1d95d3e4",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Ahead of festive season, sugar prices remain above ₹60/kg across India despite govt measures — Check city-wise cost",
-     "url": "https://www.livemint.com/money/personal-finance/sugar-prices-remain-above-rs-60-per-kg-in-india-despite-govt-measures-festive-season-city-wise-cost-mumbai-delhi-chennai-11788106922471.html",
-     "summary": "Sugar prices have remained steadily over ₹60 per kg in most retail markets across India today on 30 August. This high price stability comes despite several steps taken by the central government to check rise in cost, according to official data.",
-     "published": "2026-08-30T17:03:03+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/sugar_1788108499425_1788108511668_e2c188f6-a05e-4d71-9aba-3d4a7fa9e063.png",
-     "licence": "linkout",
-     "id": "05d882c37102",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹60 /kg across India despite",
-      "₹60  per kg in most"
-     ]
     },
     {
      "title": "8th pay commission: Deadline for consultant role applications ends tomorrow — Here's how to submit, check eligibility",
