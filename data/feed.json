@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T18:32:31.346284+00:00",
+ "generated_at": "2026-08-30T19:01:45.913036+00:00",
  "podcasts_fetched_at": "2026-08-28T21:54:40.159972+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Eight Cyprus",
   "Woman Manipur",
-  "Five",
   "Jazeera English",
   "News",
   "Station Basti",
-  "AIADMK Alanganallur",
+  "Kochi",
+  "Tributes Moopanar",
   "Turkiye Saudi",
   "Nepal",
-  "What Nepal",
-  "Auction State"
+  "What Nepal"
  ],
  "sections": [
   {
@@ -102,6 +102,23 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+     "published": "2026-08-30T18:31:17+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "80226a3cb4a8",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "270 people turns over after leaving"
+     ]
+    },
     {
      "title": "Woman’s murder: couple arrested in Manipur being brought to Chennai",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/womans-murder-couple-arrested-in-manipur-being-brought-to-chennai/article71407982.ece",
@@ -117,38 +134,6 @@
      "from_section": "National News",
      "figures": [
       "5, when the body was found"
-     ]
-    },
-    {
-     "title": "Five arrested in sexual assault case",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/five-arrested-in-sexual-assault-case/article71408586.ece",
-     "summary": "",
-     "published": "2026-08-30T17:26:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "ca6383b4f912",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
-     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-     "published": "2026-08-30T16:48:02+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "80226a3cb4a8",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "23 missing in boat capsizing off",
-      "270 people turns over after leaving"
      ]
     },
     {
@@ -208,7 +193,7 @@
      "id": "80bcd5f2986b",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "IPOs are booming, but 37% fell below issue price: 6 red flags to check hiding in the RHP",
@@ -258,6 +243,20 @@
      "figures": [
       "65 billion barrels of Venezuelan oil"
      ]
+    },
+    {
+     "title": "Tributes paid to Moopanar on his 25th death anniversary",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tributes-paid-to-moopanar-on-his-25th-death-anniversary/article71408366.ece",
+     "summary": "",
+     "published": "2026-08-30T18:44:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ye2fjr/article71408566.ece/alternates/LANDSCAPE_1200/4871_30_8_2026_11_27_14_1_DSC_2199.JPG",
+     "licence": "linkout",
+     "id": "12763ebcf1b8",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "National News"
     },
     {
      "title": "Nepal’s flood survivors search for missing loved ones",
@@ -437,7 +436,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-30T18:32:18.350500+00:00",
+     "published": "2026-08-30T19:01:33.047965+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -448,7 +447,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-30T18:32:18.350513+00:00",
+     "published": "2026-08-30T19:01:33.047978+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -459,7 +458,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-30T18:32:18.350515+00:00",
+     "published": "2026-08-30T19:01:33.047984+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -470,7 +469,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-30T18:32:18.350518+00:00",
+     "published": "2026-08-30T19:01:33.047990+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -481,7 +480,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-30T18:32:18.350520+00:00",
+     "published": "2026-08-30T19:01:33.047994+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -492,7 +491,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-30T18:32:18.350522+00:00",
+     "published": "2026-08-30T19:01:33.048000+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -545,57 +544,41 @@
    "upsc": false,
    "items": [
     {
-     "title": "Woman’s murder: couple arrested in Manipur being brought to Chennai",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/womans-murder-couple-arrested-in-manipur-being-brought-to-chennai/article71407982.ece",
-     "summary": "The murder came to light on August 5, when the body was found in the rear general compartment of the Tamil Nadu Express in Agra",
-     "published": "2026-08-30T18:25:27+00:00",
+     "title": "V-P to inaugurate college’s silver jubilee celebrations in Kochi",
+     "url": "https://www.thehindu.com/news/national/kerala/v-p-to-inaugurate-colleges-silver-jubilee-celebrations-in-kochi/article71408638.ece",
+     "summary": "",
+     "published": "2026-08-30T18:46:19+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/sj5hvo/article71408757.ece/alternates/LANDSCAPE_1200/Vice-President-GU6FLR1SB.3.jpg.jpg",
      "licence": "linkout",
-     "id": "d6bbecd8a361",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "5, when the body was found"
-     ]
-    },
-    {
-     "title": "AIADMK to protest in Alanganallur condemning TVK MLA's comments on jallikattu",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-to-protest-in-alanganallur-condemning-tvk-mlas-comments-on-jallikattu/article71407876.ece",
-     "summary": "The agitation would be held in the jallikattu area at Alanganallur on September 3",
-     "published": "2026-08-30T18:24:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7ey4ck/article71408781.ece/alternates/LANDSCAPE_1200/9868_31_7_2026_15_40_17_2_EPS_AIRPORT_4.JPEG",
-     "licence": "linkout",
-     "id": "811a9b58816f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Create a large reservoir in Parandur: Anbumani",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/create-a-large-reservoir-in-parandur-anbumani/article71408276.ece",
-     "summary": "Chennai needs a second airport since the runway at the current airport is not of the same standard or convenience as those at international airports, says PMK leader",
-     "published": "2026-08-30T18:19:02+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pxfe7w/article71408776.ece/alternates/LANDSCAPE_1200/9868_23_8_2026_15_15_0_1_PMK_SPEACH_4.JPEG",
-     "licence": "linkout",
-     "id": "82e0e2ea2b46",
+     "id": "174ca91fc5f7",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Four persons in Ambur held for selling baby",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/four-persons-in-ambur-held-for-selling-baby/article71407972.ece",
+     "title": "Tributes paid to Moopanar on his 25th death anniversary",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tributes-paid-to-moopanar-on-his-25th-death-anniversary/article71408366.ece",
      "summary": "",
-     "published": "2026-08-30T18:17:41+00:00",
+     "published": "2026-08-30T18:44:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ye2fjr/article71408566.ece/alternates/LANDSCAPE_1200/4871_30_8_2026_11_27_14_1_DSC_2199.JPG",
+     "licence": "linkout",
+     "id": "12763ebcf1b8",
+     "category": "human",
+     "category_label": "Human interest"
+    },
+    {
+     "title": "Benaka to organise month-long ‘Karantha Maasa’ celebration in September",
+     "url": "https://www.thehindu.com/news/national/karnataka/benaka-to-organise-month-long-karantha-maasa-celebration-in-september/article71408334.ece",
+     "summary": "",
+     "published": "2026-08-30T18:33:56+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "cc72dbe26f94",
+     "id": "69d31ef651f7",
      "category": "general",
      "category_label": "General"
     },
@@ -695,6 +678,14 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a944848-1788102728.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "54e4b0b5141a",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+       "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+       "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
+      }
+     ],
      "category": "general",
      "category_label": "General",
      "figures": [
@@ -754,6 +745,22 @@
      "category_label": "General"
     },
     {
+     "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+     "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+     "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+     "published": "2026-08-30T18:53:53+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "61d0db549830",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "100 times more than Hubble"
+     ]
+    },
+    {
      "title": "Canada installs large Lake Ontario sign in latest jab at US",
      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
@@ -765,19 +772,6 @@
      "id": "4dcd5aa8edee",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "WhatsApp chat used to send cash for crime and extremism",
-     "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-     "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-     "published": "2026-08-30T04:59:56+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
-     "licence": "linkout",
-     "id": "7680d743616e",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -809,33 +803,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Woman’s murder: couple arrested in Manipur being brought to Chennai",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/womans-murder-couple-arrested-in-manipur-being-brought-to-chennai/article71407982.ece",
-     "summary": "The murder came to light on August 5, when the body was found in the rear general compartment of the Tamil Nadu Express in Agra",
-     "published": "2026-08-30T18:25:27+00:00",
+     "title": "V-P to inaugurate college’s silver jubilee celebrations in Kochi",
+     "url": "https://www.thehindu.com/news/national/kerala/v-p-to-inaugurate-colleges-silver-jubilee-celebrations-in-kochi/article71408638.ece",
+     "summary": "",
+     "published": "2026-08-30T18:46:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/sj5hvo/article71408757.ece/alternates/LANDSCAPE_1200/Vice-President-GU6FLR1SB.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "174ca91fc5f7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Tributes paid to Moopanar on his 25th death anniversary",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tributes-paid-to-moopanar-on-his-25th-death-anniversary/article71408366.ece",
+     "summary": "",
+     "published": "2026-08-30T18:44:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ye2fjr/article71408566.ece/alternates/LANDSCAPE_1200/4871_30_8_2026_11_27_14_1_DSC_2199.JPG",
+     "licence": "linkout",
+     "id": "12763ebcf1b8",
+     "category": "human",
+     "category_label": "Human interest"
+    },
+    {
+     "title": "Benaka to organise month-long ‘Karantha Maasa’ celebration in September",
+     "url": "https://www.thehindu.com/news/national/karnataka/benaka-to-organise-month-long-karantha-maasa-celebration-in-september/article71408334.ece",
+     "summary": "",
+     "published": "2026-08-30T18:33:56+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "d6bbecd8a361",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "5, when the body was found"
-     ]
-    },
-    {
-     "title": "AIADMK to protest in Alanganallur condemning TVK MLA's comments on jallikattu",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-to-protest-in-alanganallur-condemning-tvk-mlas-comments-on-jallikattu/article71407876.ece",
-     "summary": "The agitation would be held in the jallikattu area at Alanganallur on September 3",
-     "published": "2026-08-30T18:24:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7ey4ck/article71408781.ece/alternates/LANDSCAPE_1200/9868_31_7_2026_15_40_17_2_EPS_AIRPORT_4.JPEG",
-     "licence": "linkout",
-     "id": "811a9b58816f",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "69d31ef651f7",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Create a large reservoir in Parandur: Anbumani",
@@ -851,33 +855,17 @@
      "category_label": "General"
     },
     {
-     "title": "Congress will quit Vijay Cabinet if Rahul is not accepted as PM candidate, says Minister",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-will-quit-vijay-cabinet-if-rahul-is-not-accepted-as-pm-candidate-says-minister/article71408561.ece",
-     "summary": "S. Rajesh Kumar’s warning comes against the backdrop of some TVK Ministers and functionaries openly seeking to present Mr Vijay as the Prime Minister candidate",
-     "published": "2026-08-30T18:07:49+00:00",
+     "title": "Four persons in Ambur held for selling baby",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/four-persons-in-ambur-held-for-selling-baby/article71407972.ece",
+     "summary": "",
+     "published": "2026-08-30T18:17:41+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "609d89d7ee9c",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "PM Modi’s 36 international honours, at a glance | Graphics",
-     "url": "https://www.thehindu.com/news/national/thirty-five-honorary-awards-bestowed-upon-prime-minister-narendra-modi-by-other-countries-graphics/article71206617.ece",
-     "summary": "On August 30, 2026, PM Modi was conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
-     "published": "2026-08-30T17:52:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zeds0j/article71408745.ece/alternates/LANDSCAPE_1200/AFP_C6UE8ZQ.jpg",
-     "licence": "linkout",
-     "id": "8fb7a06f8502",
+     "id": "cc72dbe26f94",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "36 international honours, at a glance"
-     ]
+     "category_label": "General"
     }
    ]
   },
