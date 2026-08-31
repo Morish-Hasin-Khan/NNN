@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T16:34:47.935028+00:00",
+ "generated_at": "2026-08-31T17:04:43.863659+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -84,14 +84,14 @@
   }
  ],
  "topics": [
-  "Kaushambi",
-  "Three Kuki",
+  "Israeli Palestinians",
+  "Taken Delhi",
   "Jazeera English",
   "News",
   "Delhi",
   "Maharashtra DYFI",
-  "Special Chinnakkanal",
-  "Railways Nepal",
+  "Bihar Jharkhand",
+  "Motor Jagat",
   "Over Ebola",
   "India Hague"
  ],
@@ -102,37 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "11 killed, several injured in explosion at firecracker factory in U.P.’s Kaushambi",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/massive-explosion-at-a-firecracker-factory-in-uttar-pradeshs-kaushambi-district/article71410423.ece",
-     "summary": "‘The fire brigade brought the blaze under control, and rescue operations are underway to evacuate those trapped inside the factory,’ Kaushambi District Magistrate says",
-     "published": "2026-08-31T16:25:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/a9xbpn/article71412243.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000436A.jpg",
-     "licence": "linkout",
-     "id": "539b41be897d",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "11 killed , several injured"
-     ]
-    },
-    {
-     "title": "Three Kuki villagers killed in Manipur",
-     "url": "https://www.thehindu.com/news/national/manipur/kuki-villagers-killed-in-manipur/article71411650.ece",
-     "summary": "They were gunned down along the same road in Kangpokpi district, where four Liangmai Naga civilians were killed on August 27",
-     "published": "2026-08-31T16:18:53+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "63d115e87d99",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
     {
      "title": "Israeli strikes kill at least five Palestinians in Gaza City",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
@@ -146,6 +115,51 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
+    },
+    {
+     "title": "\"Taken To Delhi, Thrown Into Tihar\": K Kavitha Breaks Down, Recalls Arrest",
+     "url": "https://www.ndtv.com/india-news/taken-to-delhi-thrown-into-tihar-k-kavitha-breaks-down-recalls-arrest-11983236#publisher=newsstand",
+     "summary": "K Kavitha questioned why she was \"pushed out\" after years of work for Telangana and the party.",
+     "published": "2026-08-31T15:15:32+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/tbkjggsk_kavitha_625x300_31_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2bae382a696b",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+     "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+     "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
+     "published": "2026-08-31T14:50:36+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png",
+     "licence": "linkout",
+     "id": "8b8dbefcc48a",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "20 missing in an incident"
+     ]
+    },
+    {
+     "title": "AI could could cause global economic downturn, Andrew Bailey warns G20",
+     "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+     "summary": "The governor of the bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+     "published": "2026-08-31T16:49:11+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "b6772066296d",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Technology"
     },
     {
      "title": "\"Move From Endless War To End Of War\": PM Modi's Message To Putin On Ukraine",
@@ -176,34 +190,6 @@
      "from_section": "Business"
     },
     {
-     "title": "Youth Congress protest at BJP State office triggers tension",
-     "url": "https://www.thehindu.com/news/national/telangana/youth-congress-protest-at-bjp-state-office-triggers-tension/article71410842.ece",
-     "summary": "Bandi Sanjay blames intelligence failure",
-     "published": "2026-08-31T16:26:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vkvfa7/article71412255.ece/alternates/LANDSCAPE_1200/20260831388L.jpg",
-     "licence": "linkout",
-     "id": "ae47119474f8",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "‘Operation Toofan’ has become a people’s movement against drug mafia: Chennithala",
-     "url": "https://www.thehindu.com/news/national/kerala/operation-toofan-has-become-a-peoples-movement-against-drug-mafia-chennithala/article71411304.ece",
-     "summary": "People are voluntarily joining the fight against drugs without any specific invitation or mobilisation, sending a clear message against drug traffickers, says Home Minister",
-     "published": "2026-08-31T16:23:23+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9qlqjy/article71412248.ece/alternates/LANDSCAPE_1200/8d35fb6b-a0be-421b-ac29-8f925101c83c.jpeg",
-     "licence": "linkout",
-     "id": "df640e61971c",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
      "title": "Tribunal Hurdle To Subhash Chandra's Rs 22,000 Crore Debt Cut",
      "url": "https://www.ndtv.com/india-news/tribunal-hurdle-to-subhash-chandras-rs-22-000-crore-debt-cut-11983557#publisher=newsstand",
      "summary": "The matter has been sent to the NCLT President again following the difference of opinion. The President may appoint a third member or issue an order himself to reach a majority view.",
@@ -219,6 +205,20 @@
      "figures": [
       "Rs 22,000 Crore Debt Cut"
      ]
+    },
+    {
+     "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
+     "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times",
+     "published": "2026-08-31T12:41:48+00:00",
+     "source": "The Economic Times",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "299131fb2594",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
     },
     {
      "title": "Last few hours to file tax return: Key pre-filled details ITR-3 and ITR-4 filers must cross-check",
@@ -315,20 +315,6 @@
      "from_section": "Culture"
     },
     {
-     "title": "Railways making arrangements to transport rescued victims of Nepal floods",
-     "url": "https://www.thehindu.com/news/national/railways-making-arrangements-to-transport-rescued-victims-of-nepal-floods/article71411769.ece",
-     "summary": "Railway Board coordinating with railway zones, district and State authorities and the Ministry of External Affairs to facilitate the safe movement",
-     "published": "2026-08-31T16:27:19+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zl6od/article71412241.ece/alternates/LANDSCAPE_1200/20260831115L.jpg",
-     "licence": "linkout",
-     "id": "5b80c48e23f3",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National News"
-    },
-    {
      "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000",
      "url": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss",
      "summary": "Outbreak in the DRC 'the fastest-spreading Ebola epidemic ever recorded,' as country struggles to contain infections.",
@@ -361,6 +347,20 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "New home means 'big ambitions' for wood enterprise",
+     "url": "https://www.bbc.co.uk/news/articles/cn078vqllgqo?at_medium=RSS&at_campaign=rss",
+     "summary": "Wolverhampton Wood Recycling's bigger premises will bring more volunteers together, its founders say.",
+     "published": "2026-08-31T06:11:34+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/0e7b4200-a46f-11f1-8259-2dbebdceda25.png",
+     "licence": "linkout",
+     "id": "46e9db6a415e",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Health & Science"
+    },
+    {
      "title": "Once a village, now barren land - BBC in valley devastated by floods",
      "url": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss",
      "summary": "The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.",
@@ -373,23 +373,6 @@
      "category": "weather",
      "category_label": "Weather & disaster",
      "from_section": "Global Hotline"
-    },
-    {
-     "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
-     "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
-     "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
-     "published": "2026-08-30T16:48:13+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da6/live/8518ba10-a482-11f1-bed8-470734b5b662.png",
-     "licence": "linkout",
-     "id": "1202fec4338c",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline",
-     "figures": [
-      "900 children minutes before Nepal floods"
-     ]
     },
     {
      "title": "Punjab BJP Deletes AI Video Showing Bhagwant Mann Being Slapped",
@@ -434,18 +417,26 @@
      "from_section": "Technology"
     },
     {
-     "title": "LIVE: Aston Villa vs Arsenal – Premier League",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss",
-     "summary": "As Villa host Arsenal, follow updates, including the build-up, analysis and live text commentary, of the game.",
-     "published": "2026-08-31T16:00:00+00:00",
-     "source": "Al Jazeera",
+     "title": "\"Hurts Deep In My Soul\": Lionel Messi Retires From International Football",
+     "url": "https://sports.ndtv.com/football/lionel-messi-retires-from-international-football-argentina-great-announces-decision-on-instagram-hurts-deep-in-my-soul-11983260#publisher=newsstand",
+     "summary": "It's the end of an era. Months after Argentina's FIFA World Cup 2026 campaign ended in a loss to Spain, Messi decided that the time was right to bid adieu to the Beautiful Game",
+     "published": "2026-08-31T16:00:32+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a953ead-1788165805_cfb4d2-1788166344.jpg?resize=1200%2C630&quality=80",
+     "image": "https://c.ndtvimg.com/2026-08/tg0tio24_lionel-messi_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "61b231fa26ef",
+     "id": "a538b68a4e6d",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "Argentina legend Lionel Messi retires from international football",
+       "url": "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss",
+       "summary": "Messi led Argentina to World Cup glory in 2022, but his side lost 1-0 to Spain in the 2026 final."
+      }
+     ],
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Global News"
+     "from_section": "Sports"
     },
     {
      "title": "Argentina legend Lionel Messi retires from international football",
@@ -457,28 +448,87 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a95a1a9-1788191145.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "2c4cfc6f8e8e",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "'There Is No Comparison': What Lionel Messi's Argentina Teammates Said After His Retirement",
+       "url": "https://sports.ndtv.com/football/there-is-no-comparison-what-lionel-messis-argentina-teammates-said-after-his-retirement-11983506#publisher=newsstand",
+       "summary": "Argentine Football Association thanked legendary footballer Lionel Messi for his remarkable contribution and lasting legacy after he announced his retirement from international football in a social media post on Monday."
+      }
+     ],
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Global News"
     },
     {
-     "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2 Highlights: Tilak Varma's Unbeaten Ton Gives South Zone Bragging Rights",
-     "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-day-2-live-updates-11979986#publisher=newsstand",
-     "summary": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2, Highlights: Captain Tilak Varma stood tall with a patient unbeaten 106 while Shreyas Gopal made 87 to give South Zone a vital first-innings lead",
-     "published": "2026-08-31T14:43:29+00:00",
+     "title": "\"There Isn't Much Time Left\": Lionel Messi's Emotional Retirement Message",
+     "url": "https://sports.ndtv.com/football/im-going-to-be-one-of-you-lionel-messis-full-statement-on-retirement-11983330#publisher=newsstand",
+     "summary": "Argentine maestro Lionel Messi on Monday officially announced his retirement from international football after nearly two decades representing the national team.",
+     "published": "2026-08-31T16:31:44+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/vk1359h_tilak-varma_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/1lq0qg48_lionel-messi-getty_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "5d3e8eda070d",
+     "id": "3b30e00ccc05",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "2 Highlights : Tilak Varma's Unbeaten",
-      "2, Highlights : Captain Tilak Varma",
-      "106 while Shreyas Gopal made 87"
-     ]
+     "from_section": "Sports"
+    },
+    {
+     "title": "Delhi govt starts inquiry into Beacon Public School for no recognition",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFhtRG1PQXRSeG54Ukw4ekM2YWhhbERqcWdyUnV2WTJUNGhLRkF2ZnBhamlaNmQ5ZUhWS3pWUndzQ19vcmNVV3ZDUVNvNGVLR1J5ZnlOV3BYMExkRno2a1hsaWp1YzJEU0VWWW1abG52MUM4OU42VDhRb3FzQmljenk5emgxV1lTZXlvQzhrV1dIOTYxYzlXdUhZcUM1NzZJcGZiOWV2ejRCNmVlSGxjVlRDdzViVnRlYWZUVmdzS2lQbTNtajMyMtIBzgFBVV95cUxPNko5dko0TEw4WkZBWDBIM2JZRzh3akhEd0ZjMDZoZ3Rpd0RmUWlYYVFOZlV1RndjV3VxcnY0b3FDTEVaeW1aclJjd2VFVUtyb2JtY0M2VnE1TFJMUktHNzRrS3MzSElBTGgxcEdCam45b002UFJoWGVWekx4TEoxc2s1Z0FxX285WWZiTGJKMEo4TllSRTkzVUlpaEFqaF9lQ0ZldWN1WHB0RWVfZmVxOGlvQ1dhUEFLWFZFMzlrLTU1eDFqOFpOZ0ZtWHlWUQ?oc=5",
+     "summary": "Delhi govt starts inquiry into Beacon Public School for no recognition Asianet Newsable",
+     "published": "2026-08-31T14:00:56+00:00",
+     "source": "Asianet Newsable",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "601fc0d26092",
+     "also": [
+      {
+       "source": "latestly.com",
+       "title": "India News | Delhi Govt Begins Probe into Beacon Public School over Alleged Lack of Recognition",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0dBNU5VbUsyclBRWnpWYmRfRmxMYW5aQ2Vxd3FCWGdjbGJlOFNPUjhjZXRjQ0dLcFFjQzFCQlF0M2NxYmVJbnh1ZV91M2VVWTRoaThHWWxTM1lVTG5sNjZ6RGUxOTdRbmpmLTBLTkFTWm9KenlUNHVCVTdYR0NrVXlWanRZNTI3N1UzTTFNNVFtc1Z0Z3pha0hlNzd2QmVNRTA5T3gzZmI5YnlBVW5uUldNMk1pWm5JNUxQSVJrOG9TNGhYVDBjV1FsQnNmS1Z1R0dDTlRPLW5BejjSAeABQVVfeXFMUFJIUnZveWJ4ZGtCdEdvcjlaaUZmNUlvcWt6NmJ0M1QxTVJTYXVNcVQxXzZBSG4tNHJ6ajVUVWpIYmlmV0ZFQ2JhQ2VBaUFfRlByYndNaXlZZU9SV2txSlg4UHB1U0NJczZGZkZocmV5ZlFfUkxfbllXc3NpMHZnaS11blpyYmFoT1d4X1BUTEQ2bDdTUWt4ZkgwNjVjR3doWHRMV1dKalhuYmRRNFFkek04eUg0cVFJdnRfM3VORG9fbnZHOU1SM0dlWVc5aGhZcG8yTUxpNDVJenhNcVRRcUs?oc=5",
+       "summary": "India News | Delhi Govt Begins Probe into Beacon Public School over Alleged Lack of Recognition latestly.com"
+      },
+      {
+       "source": "The Economic Times",
+       "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
+       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
+       "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times"
+      }
+     ],
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "Bomb threat forces diversion of Air India Express flight to Ahmedabad",
+     "url": "https://www.thehindu.com/news/national/bomb-threat-forces-diversion-of-air-india-express-flight-to-ahmedabad/article71412205.ece",
+     "summary": "After the aircraft landed in Ahmedabad, security agencies checked the aircraft and found nothing suspicious; the official said an investigation has been launched",
+     "published": "2026-08-31T16:47:18+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/pz6vmk/article71317488.ece/alternates/LANDSCAPE_1200/2026-08-05T130201Z_911165123_RC2DK5ASTM2P_RTRMADP_3_AIR-INDIA-CEO.JPG",
+     "licence": "linkout",
+     "id": "263228922825",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "India News | Delhi Govt Begins Probe into Beacon Public School over Alleged Lack of Recognition",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0dBNU5VbUsyclBRWnpWYmRfRmxMYW5aQ2Vxd3FCWGdjbGJlOFNPUjhjZXRjQ0dLcFFjQzFCQlF0M2NxYmVJbnh1ZV91M2VVWTRoaThHWWxTM1lVTG5sNjZ6RGUxOTdRbmpmLTBLTkFTWm9KenlUNHVCVTdYR0NrVXlWanRZNTI3N1UzTTFNNVFtc1Z0Z3pha0hlNzd2QmVNRTA5T3gzZmI5YnlBVW5uUldNMk1pWm5JNUxQSVJrOG9TNGhYVDBjV1FsQnNmS1Z1R0dDTlRPLW5BejjSAeABQVVfeXFMUFJIUnZveWJ4ZGtCdEdvcjlaaUZmNUlvcWt6NmJ0M1QxTVJTYXVNcVQxXzZBSG4tNHJ6ajVUVWpIYmlmV0ZFQ2JhQ2VBaUFfRlByYndNaXlZZU9SV2txSlg4UHB1U0NJczZGZkZocmV5ZlFfUkxfbllXc3NpMHZnaS11blpyYmFoT1d4X1BUTEQ2bDdTUWt4ZkgwNjVjR3doWHRMV1dKalhuYmRRNFFkek04eUg0cVFJdnRfM3VORG9fbnZHOU1SM0dlWVc5aGhZcG8yTUxpNDVJenhNcVRRcUs?oc=5",
+     "summary": "India News | Delhi Govt Begins Probe into Beacon Public School over Alleged Lack of Recognition latestly.com",
+     "published": "2026-08-31T13:56:25+00:00",
+     "source": "latestly.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "bb464dd5b426",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Scandals & Investigations"
     }
    ]
   },
@@ -494,7 +544,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-31T16:34:34.863657+00:00",
+     "published": "2026-08-31T17:04:30.293789+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -505,7 +555,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-31T16:34:34.863666+00:00",
+     "published": "2026-08-31T17:04:30.293817+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -516,7 +566,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-31T16:34:34.863675+00:00",
+     "published": "2026-08-31T17:04:30.293823+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -527,7 +577,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-31T16:34:34.863680+00:00",
+     "published": "2026-08-31T17:04:30.293828+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -538,7 +588,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-31T16:34:34.863685+00:00",
+     "published": "2026-08-31T17:04:30.293831+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -549,28 +599,42 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-31T16:34:34.863689+00:00",
+     "published": "2026-08-31T17:04:30.293835+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "Duleep Trophy Semi-final 1 Highlights: Vaibhav Sooryavanshi Slams 92, East Zone Locked In Intense Battle With Central Zone",
-     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
-     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Highlights:Vaibhav Sooryavanshi underlined his red-ball credentials with a 92 full of fire and brimstone, but East Zone failed to take an innings lead over Central Zone",
-     "published": "2026-08-31T14:38:40+00:00",
+     "title": "LIVE: Aston Villa vs Arsenal – Premier League",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss",
+     "summary": "As Villa host Arsenal, follow updates, including the build-up, analysis and live text commentary, of the game.",
+     "published": "2026-08-31T16:00:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a953ead-1788165805_cfb4d2-1788166344.jpg?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "61b231fa26ef",
+     "kind": "liveblog",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2 Highlights: Tilak Varma's Unbeaten Ton Gives South Zone Bragging Rights",
+     "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-day-2-live-updates-11979986#publisher=newsstand",
+     "summary": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2, Highlights: Captain Tilak Varma stood tall with a patient unbeaten 106 while Shreyas Gopal made 87 to give South Zone a vital first-innings lead",
+     "published": "2026-08-31T14:43:29+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ui8i9prc_vs_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/vk1359h_tilak-varma_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b5192e2072f6",
+     "id": "5d3e8eda070d",
      "kind": "liveblog",
      "category": "sports",
      "category_label": "Sports",
      "figures": [
-      "1 Highlights : Vaibhav Sooryavanshi Slams",
-      "92, East Zone Locked In Intense",
-      "92 full of fire and brimstone"
+      "2 Highlights : Tilak Varma's Unbeaten",
+      "2, Highlights : Captain Tilak Varma",
+      "106 while Shreyas Gopal made 87"
      ]
     }
    ]
@@ -612,6 +676,23 @@
      ]
     },
     {
+     "title": "Operation Sindoor: NIA Widens Probe Into DDoS Attacks Targeting 54 Indian Government Websites",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg0aWNDRlFzd0dtVW9udlBnd1VDQ0JSSWJKemtGenFvZmM1b0RWdWhhd1V0bTBqTmU1ZDlwMmxzZTRUZ3Rhai1uWEMxRzJiUFk1dVV2RFJEaG5XaEJNdW1aRTgyLThKOHhNQUkzZEdBS3Q4di1yVVRwLUdlN05NeGpJUTJsQ19rSWkzOGdCWmhrUVhJQ29CMnV1Q3gxenZWVVcwUjdEckdodjRwcDdpcUZ1NFNNV1VZTUZjQmxxbXJiLWlOMU4ybdIBzgFBVV95cUxNallSbmRSSzdHVU5yY2IzM0tLcmltWXNCbWZFV3BqdVhpdDBxNUc4ODZodWJHcjlGNy1OT2pzX2VhREtRMElNR24xRWtqSHU2NXRnWWJNM2pUZlpZMF92Vmw3b0VmdnlTNnMxYS1ZaHdqQ0ZobUo2UXBGYzBIc0NNTUJadl9FMVI4cVlyWTNyOTJ4Ql9UbXRyTl93aFRhbnUwOUlKdC1sQ0VoZmtTZjBfSVlzTzVydTR0Mm9tc1RDT203YUJsRi01U0VvTTJCdw?oc=5",
+     "summary": "Operation Sindoor: NIA Widens Probe Into DDoS Attacks Targeting 54 Indian Government Websites Free Press Journal",
+     "published": "2026-08-31T09:49:55+00:00",
+     "source": "Free Press Journal",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "5597bd3e831c",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "figures": [
+      "54 Indian Government Websites",
+      "54 Indian Government Websites Free Press"
+     ]
+    },
+    {
      "title": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVJRR2tDdlFKSi12OG56MTF3cEFZa0wtdHZvOXpuY1dRNTFUNVpLTlZfVHZsZ2JXajZwTXUxYUVUTi1hanR5YjZEUEdDS3RWdWd4cGFCRk1DRkJEcXFNYzJlejR6TGRnV1NfTUJEcnlUTlJvRnF1TUVoVEdBRUdLbjFYa3lCLUFlMjN1bzB1VDZDb1V3S2VzWk56WS1ob2N0dGg4?oc=5",
      "summary": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket News On AIR",
@@ -633,43 +714,80 @@
    "upsc": false,
    "items": [
     {
-     "title": "Special RRT to become operational at Chinnakkanal within a week",
-     "url": "https://www.thehindu.com/news/national/kerala/special-rrt-to-become-operational-at-chinnakkanal-within-a-week/article71411774.ece",
-     "summary": "Forest officials expect the dedicated RRT to help curb the rising number of human-wildlife conflict incidents across the belt",
-     "published": "2026-08-31T16:27:29+00:00",
+     "title": "Bihar, Jharkhand sign agreement on sharing Sone River water",
+     "url": "https://www.thehindu.com/news/national/bihar-jharkhand-sign-agreement-on-sharing-sone-river-water/article71411282.ece",
+     "summary": "Bihar CM says his State has been allocated 5.75 million-acre feet of the river water, and Jharkhand 2 MAF. The two States had a dispute over sharing 7.75 MAF of water allocated for the then undivided Bihar under a 1973 agreement",
+     "published": "2026-08-31T16:58:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jsmgdm/article71411773.ece/alternates/LANDSCAPE_1200/80759_31_8_2026_18_41_1_1_ELEPHANTPANNIYAR.JPEG",
+     "image": "https://th-i.thgim.com/public/news/national/sn2rje/article71411935.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-31%20at%2018.29.14.jpeg",
      "licence": "linkout",
-     "id": "c62aa6d96bb9",
+     "id": "05da3503d050",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5.75 million -acre feet"
+     ]
+    },
+    {
+     "title": "Motor racing ace Jagat Nanjappa no more",
+     "url": "https://www.thehindu.com/news/national/karnataka/motor-racing-ace-jagath-nanjappa-no-more/article71411869.ece",
+     "summary": "",
+     "published": "2026-08-31T16:54:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/cnlazx/article71412349.ece/alternates/LANDSCAPE_1200/HSP38193.jpg",
+     "licence": "linkout",
+     "id": "470870f9b934",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Railways making arrangements to transport rescued victims of Nepal floods",
-     "url": "https://www.thehindu.com/news/national/railways-making-arrangements-to-transport-rescued-victims-of-nepal-floods/article71411769.ece",
-     "summary": "Railway Board coordinating with railway zones, district and State authorities and the Ministry of External Affairs to facilitate the safe movement",
-     "published": "2026-08-31T16:27:19+00:00",
+     "title": "Navy commissions INS Nipun to support advanced underwater operations",
+     "url": "https://www.thehindu.com/news/national/indian-navy-commissions-deep-sea-diving-vessel-ins-nipun/article71409836.ece",
+     "summary": "The vessel is designed primarily to support deep-sea diving and underwater operations, including saturation, air and heliox diving",
+     "published": "2026-08-31T16:50:31+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zl6od/article71412241.ece/alternates/LANDSCAPE_1200/20260831115L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/a3avft/article71409846.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000043A.jpg",
      "licence": "linkout",
-     "id": "5b80c48e23f3",
-     "category": "human",
-     "category_label": "Human interest"
+     "id": "99cfb10b554a",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Youth Congress protest at BJP State office triggers tension",
-     "url": "https://www.thehindu.com/news/national/telangana/youth-congress-protest-at-bjp-state-office-triggers-tension/article71410842.ece",
-     "summary": "Bandi Sanjay blames intelligence failure",
-     "published": "2026-08-31T16:26:11+00:00",
+     "title": "Citing lack of jurisdiction, India rejects Hague court’s Indus Waters Treaty ruling",
+     "url": "https://www.thehindu.com/news/national/citing-lack-of-jurisdiction-india-rejects-hague-courts-indus-waters-treaty-ruling/article71411927.ece",
+     "summary": "MEA says India has 'never recognised the existence in law of this illegally-constituted and so-called Court of Arbitration'",
+     "published": "2026-08-31T16:50:26+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vkvfa7/article71412255.ece/alternates/LANDSCAPE_1200/20260831388L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/3quxpu/article71412324.ece/alternates/LANDSCAPE_1200/2025-04-24T141635Z_330321599_RC2B4EA6D7VI_RTRMADP_3_INDIA-KASHMIR-ATTACK-WATER.JPG",
      "licence": "linkout",
-     "id": "ae47119474f8",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "d480b1093187",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "India rejects Hague court order to restore Indus waters pact with Pakistan",
+       "url": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss",
+       "summary": "New Delhi says the Permanent Court of Arbitration has no jurisdiction over its sovereign choice."
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "41% growth in domestic cargo in Thiruvananthapuram airport",
+     "url": "https://www.thehindu.com/news/national/kerala/41-growth-in-domestic-cargo-in-thiruvananthapuram-airport/article71411538.ece",
+     "summary": "",
+     "published": "2026-08-31T16:49:20+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "5de0aa4062a3",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "\"Was Engrossed In Her Phone\": Eyewitness On Bandra Woman Who Mowed Down Boy",
@@ -683,19 +801,6 @@
      "id": "32f31b319f7c",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "\"Taken To Delhi, Thrown Into Tihar\": K Kavitha Breaks Down, Recalls Arrest",
-     "url": "https://www.ndtv.com/india-news/taken-to-delhi-thrown-into-tihar-k-kavitha-breaks-down-recalls-arrest-11983236#publisher=newsstand",
-     "summary": "K Kavitha questioned why she was \"pushed out\" after years of work for Telangana and the party.",
-     "published": "2026-08-31T15:15:32+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/tbkjggsk_kavitha_625x300_31_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "2bae382a696b",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -799,22 +904,6 @@
      "id": "608a9487eb92",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-     "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-     "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
-     "published": "2026-08-31T14:50:36+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png",
-     "licence": "linkout",
-     "id": "8b8dbefcc48a",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "20 missing in an incident"
-     ]
     }
    ]
   },
@@ -891,6 +980,19 @@
      "id": "c3a04b585823",
      "category": "human",
      "category_label": "Human interest"
+    },
+    {
+     "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
+     "url": "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&at_campaign=rss",
+     "summary": "Leah Stewart, 34, was mauled by a great white shark in June during a morning swim at Coogee Beach.",
+     "published": "2026-08-31T00:44:51+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg",
+     "licence": "linkout",
+     "id": "a2bc87b33eb2",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -901,67 +1003,70 @@
    "upsc": false,
    "items": [
     {
-     "title": "Special RRT to become operational at Chinnakkanal within a week",
-     "url": "https://www.thehindu.com/news/national/kerala/special-rrt-to-become-operational-at-chinnakkanal-within-a-week/article71411774.ece",
-     "summary": "Forest officials expect the dedicated RRT to help curb the rising number of human-wildlife conflict incidents across the belt",
-     "published": "2026-08-31T16:27:29+00:00",
+     "title": "Bihar, Jharkhand sign agreement on sharing Sone River water",
+     "url": "https://www.thehindu.com/news/national/bihar-jharkhand-sign-agreement-on-sharing-sone-river-water/article71411282.ece",
+     "summary": "Bihar CM says his State has been allocated 5.75 million-acre feet of the river water, and Jharkhand 2 MAF. The two States had a dispute over sharing 7.75 MAF of water allocated for the then undivided Bihar under a 1973 agreement",
+     "published": "2026-08-31T16:58:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jsmgdm/article71411773.ece/alternates/LANDSCAPE_1200/80759_31_8_2026_18_41_1_1_ELEPHANTPANNIYAR.JPEG",
+     "image": "https://th-i.thgim.com/public/news/national/sn2rje/article71411935.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-31%20at%2018.29.14.jpeg",
      "licence": "linkout",
-     "id": "c62aa6d96bb9",
+     "id": "05da3503d050",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5.75 million -acre feet"
+     ]
+    },
+    {
+     "title": "Motor racing ace Jagat Nanjappa no more",
+     "url": "https://www.thehindu.com/news/national/karnataka/motor-racing-ace-jagath-nanjappa-no-more/article71411869.ece",
+     "summary": "",
+     "published": "2026-08-31T16:54:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/cnlazx/article71412349.ece/alternates/LANDSCAPE_1200/HSP38193.jpg",
+     "licence": "linkout",
+     "id": "470870f9b934",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Railways making arrangements to transport rescued victims of Nepal floods",
-     "url": "https://www.thehindu.com/news/national/railways-making-arrangements-to-transport-rescued-victims-of-nepal-floods/article71411769.ece",
-     "summary": "Railway Board coordinating with railway zones, district and State authorities and the Ministry of External Affairs to facilitate the safe movement",
-     "published": "2026-08-31T16:27:19+00:00",
+     "title": "Navy commissions INS Nipun to support advanced underwater operations",
+     "url": "https://www.thehindu.com/news/national/indian-navy-commissions-deep-sea-diving-vessel-ins-nipun/article71409836.ece",
+     "summary": "The vessel is designed primarily to support deep-sea diving and underwater operations, including saturation, air and heliox diving",
+     "published": "2026-08-31T16:50:31+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zl6od/article71412241.ece/alternates/LANDSCAPE_1200/20260831115L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/a3avft/article71409846.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000043A.jpg",
      "licence": "linkout",
-     "id": "5b80c48e23f3",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "Youth Congress protest at BJP State office triggers tension",
-     "url": "https://www.thehindu.com/news/national/telangana/youth-congress-protest-at-bjp-state-office-triggers-tension/article71410842.ece",
-     "summary": "Bandi Sanjay blames intelligence failure",
-     "published": "2026-08-31T16:26:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vkvfa7/article71412255.ece/alternates/LANDSCAPE_1200/20260831388L.jpg",
-     "licence": "linkout",
-     "id": "ae47119474f8",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Rayaraddi clarifies that he treats all faiths equally",
-     "url": "https://www.thehindu.com/news/national/karnataka/rayaraddi-clarifies-that-he-treats-all-faiths-equally/article71411332.ece",
-     "summary": "He says that he does not belong to any religion and that his comments have to be understood in the context in which they have been made",
-     "published": "2026-08-31T16:18:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ri837i/article71411495.ece/alternates/LANDSCAPE_1200/ALL_3989.JPG",
-     "licence": "linkout",
-     "id": "20260ec2a916",
+     "id": "99cfb10b554a",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Keralam government reconstitutes GIDA general council",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-government-reconstitutes-gida-general-council/article71410034.ece",
-     "summary": "Goshree Islands Development Authority was initially set up in May 1994 to build the Goshree bridges linking the islands of Mulavukad, Vallarpadam and Vypeen with the Ernakulam mainland",
-     "published": "2026-08-31T16:15:03+00:00",
+     "title": "A.P. CM felicitates Poola Subbaiah’s daughters at Veligonda project inauguration",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-felicitates-poola-subbaiahs-daughters-at-veligonda-project-inauguration/article71410822.ece",
+     "summary": "",
+     "published": "2026-08-31T16:42:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/6kvp7l/article71412314.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_21_57_54_1_IMG_20260831_WA0047.JPG",
      "licence": "linkout",
-     "id": "13fbde876930",
+     "id": "835d2db30f6f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Kanthapuram’s directive on curbs on women puts CPI(M) ties under strain",
+     "url": "https://www.thehindu.com/news/national/kerala/news-analysis-kanthapurams-directive-on-curbs-on-women-puts-cpim-ties-under-strain/article71411776.ece",
+     "summary": "A Samastha circular asking mahals and madrasas to prevent women from sharing stage or public space with unrelated men during religious celebrations draw criticism from CPI(M) leaders and women’s organisations",
+     "published": "2026-08-31T16:42:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/yng57d/article71412102.ece/alternates/LANDSCAPE_1200/IMG_Kanthapuram_2_1_V1CLITHG.jpg",
+     "licence": "linkout",
+     "id": "619e671aa535",
      "category": "general",
      "category_label": "General"
     },
@@ -977,19 +1082,6 @@
      "id": "723347f12081",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
-     "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times",
-     "published": "2026-08-31T12:41:48+00:00",
-     "source": "The Economic Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "299131fb2594",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -1742,6 +1834,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "AI could could cause global economic downturn, Andrew Bailey warns G20",
+     "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+     "summary": "The governor of the bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+     "published": "2026-08-31T16:49:11+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "b6772066296d",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
      "title": "A Sample Grant Proposals On“ Artificial Intelligence: Technology, Society and Learning in the Arab Region”",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeEozZEE2dGZmbHk1REl1QjZrTDhGbVVXb2stTUw1eGxVTmpTbUZwRjBvVjNUTHZSZVlteTZBTU9mVG94cktwNlgtT0FEVTY0dEVkSzU5Vk5PU2lNRUdISmR2QmlocW9hN1ZpLTFPTzJ1SUpoTk5Qd1htOHRHTi05dkZuUTBlcEVlY0dhWlByUzNfTXcxZHdVZVJoZ1V6eTVQZlB5SUdpQ0JYQU9xa25YbV9vZXFLZXVFbHZDN1ZDSjlXV3BnblcwUTh4a25yRkJYak1LOHJMdkdjTXpTUERR?oc=5",
      "summary": "A Sample Grant Proposals On“ Artificial Intelligence: Technology, Society and Learning in the Arab Region” fundsforNGOs",
@@ -1781,6 +1886,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "Why we need technology economists",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrR2g4cE9PTXFMOVp4R19CTk80UVQ5TC1ibjZ0ZkRhUW1qc0JhLUIxWVdCU09MQTFjZGRraTMzX0RyUXdMTHdLRkpNaFhIQ3BYOVRYbUVUbmlLWHNBUThrcmlNYTBnbUZLVE1KY0hDbW0tT3VPTXRlbm12SUxheG8?oc=5",
+     "summary": "Why we need technology economists cio.com",
+     "published": "2026-08-31T12:05:11+00:00",
+     "source": "cio.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "7c1e0aabd91c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Next space race could be fuelled by AI: How technology may reshape the orbital economy by 2030",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcDE3RWVEVVk4dDFJTGxKaDNhX3dpbmcyV0ZFaVZ0ZENDOEo1a0drY2d3Z1dtVFBpQW5sd1YySGFoYnJ0U0plaTc4YkZoMktBNFZESXNfczhpam90TnU5UXZhZ2hqem42c01oeGxMUmZaOU5SeURENFZrM2loenNDalFhdVRBdFptNmpyME1nYkV4VXZvWktMUnFLWmt5Rks3VlpfR1pFbGdNUXNFR19kUG1iWkNEcENrSHlRLXdaNVItcWxUdl8ta2laUGtZY3c1OGtsekpNOVJzMmp4aDh5OWpvd014d1FNUXhWYURSVEw2SVJSb29raDdyWldRbklLdUVlUlphUk43dXd1U2fSAZMCQVVfeXFMTzJCVFBNRFhaZ3I0c2l6OHN0U1BBd0RtQnJyMVdKcGJMQ3N2eUVYOHhUOW9nZlZPbFA4TGVOeHZHdjZ2U2cyV2dOV1FCUE1IbVFYWnJsWmxVVkRuNHlEN2ptNlJ0ZzZPbGxONTdwSUNpa0FJd0Y4YXJQSTRJTE5HVjdIeVpncnFoTnJ4VVVwM2ZnUkV5YTIybWotZmZKRjNwT0FzSlRZS1hKaHZZSWxPQk1WdHlvbkxLaXlGaXdMclU4bEZlZmtPcnZVSDlhRk5COFdOZkNXYkNid1BnNFg5THVWc1hEN0FkY2R1Z0R4dGpCbm1OLXdIaFNPZkJmLWhZOTVjRGJmWC1OMjVLZGVUM2Rqdm8?oc=5",
      "summary": "Next space race could be fuelled by AI: How technology may reshape the orbital economy by 2030 Business Today",
@@ -1792,19 +1910,6 @@
      "id": "1c28079d86db",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Huawei H1 profit drop quickens to 36% on rising costs, R&D spending",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1I4TEstT1VlcF91UEZnTXNwSHVuaFNrc1dhQ2F1dFNZdG9YZmFFR2YydTEzRDlUZ1lzN3lFbFZnTFRkejJ6TDFWcF9NcU9BUlVJWmJ3TzM2bTNJby1pS1FETXFpOWtFblNfdWJKZjk3UU1ybkwtbHZfNmZ6MGhYcUZGMGZrUGswRHM2RU9VQ0lfc3RUUjR1QXFmdUUwMUVJQUduRHFqNFJsbTJzUHRNMXVJSQ?oc=5",
-     "summary": "Huawei H1 profit drop quickens to 36% on rising costs, R&D spending Reuters",
-     "published": "2026-08-31T11:08:59+00:00",
-     "source": "Reuters",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4ff1cc39f1fe",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1815,98 +1920,62 @@
    "upsc": false,
    "items": [
     {
-     "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2 Highlights: Tilak Varma's Unbeaten Ton Gives South Zone Bragging Rights",
-     "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-day-2-live-updates-11979986#publisher=newsstand",
-     "summary": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2, Highlights: Captain Tilak Varma stood tall with a patient unbeaten 106 while Shreyas Gopal made 87 to give South Zone a vital first-innings lead",
-     "published": "2026-08-31T14:43:29+00:00",
+     "title": "\"There Isn't Much Time Left\": Lionel Messi's Emotional Retirement Message",
+     "url": "https://sports.ndtv.com/football/im-going-to-be-one-of-you-lionel-messis-full-statement-on-retirement-11983330#publisher=newsstand",
+     "summary": "Argentine maestro Lionel Messi on Monday officially announced his retirement from international football after nearly two decades representing the national team.",
+     "published": "2026-08-31T16:31:44+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/vk1359h_tilak-varma_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/1lq0qg48_lionel-messi-getty_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "5d3e8eda070d",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "2 Highlights : Tilak Varma's Unbeaten",
-      "2, Highlights : Captain Tilak Varma",
-      "106 while Shreyas Gopal made 87"
-     ]
-    },
-    {
-     "title": "Duleep Trophy Semi-final 1 Highlights: Vaibhav Sooryavanshi Slams 92, East Zone Locked In Intense Battle With Central Zone",
-     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
-     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Highlights:Vaibhav Sooryavanshi underlined his red-ball credentials with a 92 full of fire and brimstone, but East Zone failed to take an innings lead over Central Zone",
-     "published": "2026-08-31T14:38:40+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ui8i9prc_vs_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b5192e2072f6",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "1 Highlights : Vaibhav Sooryavanshi Slams",
-      "92, East Zone Locked In Intense",
-      "92 full of fire and brimstone"
-     ]
-    },
-    {
-     "title": "Pakistan Star Faked Injury To Not Bat Against England Despite Team In Danger? Report Says He Is Repeat Offender",
-     "url": "https://sports.ndtv.com/cricket/pakistan-star-imam-ul-haq-faked-injury-to-not-bat-against-england-despite-team-in-danger-report-says-he-is-repeat-offender-11982946#publisher=newsstand",
-     "summary": "Trouble is brewing in Pakistan cricket. Opener Imam-ul-Haq could face strong disciplinary action after the Pakistan Cricket Board decided to conduct a probe into his left calf muscle injury",
-     "published": "2026-08-31T14:25:32+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/q5dvc4pk_imamulhaq_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "bf4b6f55b6bf",
+     "id": "3b30e00ccc05",
      "category": "sports",
      "category_label": "Sports"
     },
     {
-     "title": "Bradley Barcola Becomes Liverpool's Second-Most Expensive Signing After $145 Million PSG Transfer",
-     "url": "https://sports.ndtv.com/football/bradley-barcola-becomes-liverpools-second-most-expensive-signing-after-145-million-psg-transfer-11982792#publisher=newsstand",
-     "summary": "France winger Bradley Barcola has become Liverpool's second-most expensive signing after joining the Premier League giants from Paris Saint-Germain on Monday.",
-     "published": "2026-08-31T14:14:00+00:00",
+     "title": "Lionel Messi Wrote Retirement Letter 2 Days After World Cup Final Loss To Spain. Here's Why He Delayed Announcement",
+     "url": "https://sports.ndtv.com/football/lionel-messi-wrote-retirement-letter-2-days-after-fifa-world-cup-final-loss-to-spain-heres-why-he-delayed-announcement-11983541#publisher=newsstand",
+     "summary": "Lionel Messi explained that he wrote his retirement letter on July 21, two days after losing the FIFA World Cup 2026 final",
+     "published": "2026-08-31T16:27:20+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/25820tfo_bradley-barcola-_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/1mo45mp4_lionel-messi_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f4140e4f2a18",
+     "id": "48325dd5e37e",
      "category": "sports",
      "category_label": "Sports",
      "figures": [
-      "$145 Million PSG Transfer"
+      "2 Days After World Cup Final"
      ]
     },
     {
-     "title": "Pakistan's Test Crisis: Two Stars Asked To Return Home After England Debacle - Report",
-     "url": "https://sports.ndtv.com/cricket/pakistans-test-crisis-two-stars-mohammad-rizwan-imam-ul-haq-asked-to-return-home-after-england-debacle-11982766#publisher=newsstand",
-     "summary": "The touring Pakistan media in England has also reported on a high-level meeting of officials from the Pakistan Cricket Board following the team's defeat in the second Test.",
-     "published": "2026-08-31T13:56:21+00:00",
+     "title": "'There Is No Comparison': What Lionel Messi's Argentina Teammates Said After His Retirement",
+     "url": "https://sports.ndtv.com/football/there-is-no-comparison-what-lionel-messis-argentina-teammates-said-after-his-retirement-11983506#publisher=newsstand",
+     "summary": "Argentine Football Association thanked legendary footballer Lionel Messi for his remarkable contribution and lasting legacy after he announced his retirement from international football in a social media post on Monday.",
+     "published": "2026-08-31T16:26:56+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/sc1nn7q8_rizwan_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/oph4lqc4_lionel-messi-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "af5dbd4ebf9e",
+     "id": "298fc81eafc5",
      "category": "sports",
      "category_label": "Sports"
     },
     {
-     "title": "'Ruined This Team': Mohsin Naqvi-Led PCB Blamed For Pakistan's Debacle In England",
-     "url": "https://sports.ndtv.com/cricket/mohsin-naqvi-led-pcb-labelled-worst-board-in-70-years-in-scathing-verdict-by-ex-pakistan-star-11982308#publisher=newsstand",
-     "summary": "Placed at the bottom of the points table in the World Test Championship, Pakistan lost the opening Test to England by an innings and 103 runs at Leeds and the second Test at Lord's by 194 runs.",
-     "published": "2026-08-31T13:22:51+00:00",
+     "title": "Tilak Varma's Gritty Century Gives South Zone Crucial First-Innings Lead In Duleep Trophy Semi-Final Against North Zone",
+     "url": "https://sports.ndtv.com/cricket/tilak-varmas-gritty-century-gives-south-zone-crucial-first-innings-lead-in-duleep-trophy-semi-final-against-north-zone-11982493#publisher=newsstand",
+     "summary": "Captain Tilak Varma stood tall with a patient unbeaten 106 while Shreyas Gopal made 87 to give South Zone a vital first-innings lead of 90 runs in their Duleep Trophy semifinal against North Zone on Monday.",
+     "published": "2026-08-31T15:21:18+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-02/ih2bc7ag_mohsin-naqvi-afp_625x300_16_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/vbsf86io_tilak-varma_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f0ece44b47a8",
+     "id": "1e6098620fd0",
      "category": "sports",
      "category_label": "Sports",
      "figures": [
-      "103 runs at Leeds",
-      "194 runs"
+      "106 while Shreyas Gopal made 87",
+      "90 runs in their Duleep Trophy"
      ]
     }
    ]
