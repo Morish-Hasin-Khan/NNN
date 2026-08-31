@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T06:01:55.112532+00:00",
+ "generated_at": "2026-08-31T06:31:53.281275+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 125490.0,
    "change": -3127.0,
    "changePct": -2.43,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,14 +84,14 @@
   }
  ],
  "topics": [
+  "Youth Onam",
   "Year Allegedly",
-  "Iran",
   "Jazeera English",
   "News",
   "Maharashtra DYFI",
   "Charges Three",
-  "Nepal Himalayas",
-  "Venganoor Thiruvananthapuram",
+  "Benaka Karantha",
+  "Indian Navy",
   "Aston Villa",
   "Tennis Djokovic"
  ],
@@ -101,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Youth attacks civil police officer with helmet during Onam celebrations in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/youth-attacks-civil-police-officer-with-helmet-during-onam-celebrations-in-thiruvananthapuram/article71409809.ece",
+     "summary": "The Museum Police have arrested the accused, identified as Akhil Krishnadev",
+     "published": "2026-08-31T06:06:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "88dae0b25ded",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "3-Year-old Boy Allegedly Tied To Chair, Slapped, Hit At Delhi Day Care",
      "url": "https://www.ndtv.com/india-news/3-year-old-boy-tied-to-chair-allegedly-assaulted-at-delhi-day-care-11980496#publisher=newsstand",
@@ -128,24 +143,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
-    },
-    {
-     "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-     "published": "2026-08-31T03:56:15+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "80226a3cb4a8",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "18 missing after ferry capsizes off",
-      "270 people turns over after leaving"
-     ]
     },
     {
      "title": "How the US-Canada trade war is being felt on both sides of the border",
@@ -179,6 +176,31 @@
      ]
     },
     {
+     "title": "Nepal flash floods LIVE: At least 933 workers trapped in hydropower projects",
+     "url": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece",
+     "summary": "Prime Minister Balendra Shah has said the country is facing an “unimaginable and heartbreaking” disaster",
+     "published": "2026-08-31T06:14:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/w3yd2x/article71409643.ece/alternates/LANDSCAPE_1200/2026-08-30T133732Z_35845283_RC2X8NAFC30J_RTRMADP_3_NEPAL-FLOODS.JPG",
+     "licence": "linkout",
+     "id": "458e345a6e5b",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+       "url": "https://www.bbc.co.uk/news/videos/c86x39p6we1o?at_medium=RSS&at_campaign=rss",
+       "summary": "Thousands in Nepal are still waiting to be rescued, but unpredictable weather is making such operations increasingly difficult."
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "933 workers trapped in hydropower projects"
+     ]
+    },
+    {
      "title": "FIR registered against Rahul Gandhi over Haldwani 'purification' remarks",
      "url": "https://www.thehindu.com/news/national/uttarakhand/fir-registered-against-rahul-gandhi-over-haldwani-purification-remarks/article71409565.ece",
      "summary": "A political row erupted after some individuals allegedly performed a 'purification yajna' at the Ramlila Ground in Haldwani on August 11, following a public meeting held there by Congress President Mallikarjun Kharge on August 8",
@@ -190,24 +212,10 @@
      "id": "db645f993131",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "11, following a public meeting held"
      ]
-    },
-    {
-     "title": "Keralam Islamic scholar says women’s public appearances will cause ‘great destruction’",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-islamic-scholar-says-womens-public-appearances-will-cause-great-destruction/article71408754.ece",
-     "summary": "In a recent circular, Samastha Kerala Jamiyyathul Ulama president E. Sulaiman Musliar and general secretary Kanthapuram A.P. Aboobacker Musliar directed that women should not share stages with men or appear in public spaces alongside them",
-     "published": "2026-08-31T05:35:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r0gbnh/article71408764.ece/alternates/LANDSCAPE_1200/IMG_Kanthapuram_2_1_V1CLITHG.jpg",
-     "licence": "linkout",
-     "id": "80bcd5f2986b",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
     },
     {
      "title": "\"Will Cost You Dearly\": Kiren Rijiju Warns Protesters Who Stepped On National Flag In New York",
@@ -222,6 +230,23 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
+    },
+    {
+     "title": "X user questions extra verification after OTP for ₹1.05 lakh credit-card payment; what RBI rules say",
+     "url": "https://www.livemint.com/money/personal-finance/x-user-questions-extra-verification-after-otp-for-1-05-lakh-credit-card-payment-what-rbi-rules-say-11788156102493.html",
+     "summary": "An X user questioned why HDFC Bank sought additional confirmation after he authenticated a ₹1.05 lakh credit-card payment with an OTP. RBI rules allow banks to use risk-based security measures and adaptive authentication for digital payments.",
+     "published": "2026-08-31T06:17:01+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_f1yltf1yltf1yltf_1788156924901_1788156931811_31df303a-ec27-4ae6-945d-6663e6e106e2.png",
+     "licence": "linkout",
+     "id": "a5ad87e6678d",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹1.05 lakh credit-card payment; what RBI"
+     ]
     },
     {
      "title": "Inherited agricultural land sale: When is it tax-free and what exemptions apply?",
@@ -262,24 +287,6 @@
      ]
     },
     {
-     "title": "Gold, silver prices today, 31 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-     "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-31-august-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11788141195314.html",
-     "summary": "Gold and silver prices today, 31 August: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-     "published": "2026-08-31T03:56:43+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/3-0-81176192-gold2-0_1679795319376_1788141719424_07ec1916-9c69-414a-af4d-709a541cb64d.jpg",
-     "licence": "linkout",
-     "id": "acd2237dfe1d",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "999 silver in Delhi, Mumbai",
-      "999 silver retail rates across Delhi"
-     ]
-    },
-    {
      "title": "Lola Young surprises Reading Festival with final day set",
      "url": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss",
      "summary": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
@@ -292,6 +299,34 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
+    },
+    {
+     "title": "Rescue efforts continue on both sides of Nepal-Tibet border",
+     "url": "https://www.bbc.co.uk/news/videos/cd94qq37wgdo?at_medium=RSS&at_campaign=rss",
+     "summary": "Rescue dogs searched for flood victims in Tibet while authorities worked through the night at a Nepal power plant where hundreds are missing.",
+     "published": "2026-08-31T06:20:49+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5869/live/988c4310-a503-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "a50776df3656",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global Hotline"
+    },
+    {
+     "title": "New home means 'big ambitions' for wood enterprise",
+     "url": "https://www.bbc.co.uk/news/articles/cn078vqllgqo?at_medium=RSS&at_campaign=rss",
+     "summary": "Wolverhampton Wood Recycling's bigger premises will bring more volunteers together, its founders say.",
+     "published": "2026-08-31T06:11:34+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/0e7b4200-a46f-11f1-8259-2dbebdceda25.png",
+     "licence": "linkout",
+     "id": "46e9db6a415e",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Health & Science"
     },
     {
      "title": "People return to their flood-ravaged homes in Nepal",
@@ -308,38 +343,10 @@
      "from_section": "Global News"
     },
     {
-     "title": "Why is this teenager fighting fires dressed as Superman?",
-     "url": "https://www.bbc.co.uk/news/videos/cp84ql8lld9o?at_medium=RSS&at_campaign=rss",
-     "summary": "A 17-year-old boy has gone viral for wearing a superhero costume while volunteer firefighting in Indonesia, as the country faces a super El Niño.",
-     "published": "2026-08-31T01:07:06+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/608a/live/c565c0e0-a4d7-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "c3a04b585823",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
-     "url": "https://www.bbc.co.uk/news/videos/c86x39p6we1o?at_medium=RSS&at_campaign=rss",
-     "summary": "Thousands in Nepal are still waiting to be rescued, but unpredictable weather is making such operations increasingly difficult.",
-     "published": "2026-08-30T23:53:34+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2b8/live/3b204ea0-a4cd-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "f8606f8c409a",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global Hotline"
-    },
-    {
      "title": "Nepal flash floods: A wake-up call against infrastructure building spree across Himalayas, warns geo-scientist C.P. Rajendran",
      "url": "https://www.thehindu.com/news/nepal-flash-floods-a-wake-up-call-against-infrastructure-building-spree-across-himalayas-warns-geo-scientist-cp-rajendran/article71409672.ece",
      "summary": "The region already suffers from unstable slopes and reduced river efficiency, largely due to development projects carried out with little regard for ecological consequences, he the adjunct professor at National Institute of Advanced Studies, Bengaluru",
-     "published": "2026-08-31T05:52:00+00:00",
+     "published": "2026-08-31T06:06:48+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
@@ -348,20 +355,6 @@
      "category": "weather",
      "category_label": "Weather & disaster",
      "from_section": "National News"
-    },
-    {
-     "title": "What we know about deadly Nepal-Tibet floods",
-     "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
-     "published": "2026-08-31T03:03:51+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/a575cfc0-a2c3-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "ff8d8d19e796",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline"
     },
     {
      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
@@ -381,6 +374,40 @@
      ]
     },
     {
+     "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+     "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+     "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+     "published": "2026-08-30T16:48:13+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da6/live/8518ba10-a482-11f1-bed8-470734b5b662.png",
+     "licence": "linkout",
+     "id": "1202fec4338c",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global Hotline",
+     "figures": [
+      "900 children minutes before Nepal floods"
+     ]
+    },
+    {
+     "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXphMHdyc0RJdm5qNXhySXBvODBrVWZYTmdLQ0x5QVlPaFlONktCLWpkTW52Rmk1Um1tdnk2NkRPa0FrajR1VVRFN0V5bU5nNUtKRnMyRlpibmN4T2U0Y2FUM1otbGFjZV9yV0RxcTdzUmxONU83WWFsQWZJaDh0WGNnZTlnMlNPQTVUM0R3dldla09UbFp3Sg?oc=5",
+     "summary": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term The Motley Fool",
+     "published": "2026-08-31T06:00:00+00:00",
+     "source": "The Motley Fool",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "02208b9072b9",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology",
+     "figures": [
+      "$50  and Hold"
+     ]
+    },
+    {
      "title": "Gen Z Girl Power From 108 Countries Builds ShaktiSat, Aiming For Nothing Less Than The Moon",
      "url": "https://www.ndtv.com/education/gen-z-girl-power-from-108-countries-builds-shaktisat-aiming-for-nothing-less-than-the-moon-11980431#publisher=newsstand",
      "summary": "The mission aims to involve 12,000 girls worldwide. Participants were exposed to space science, coding, electronics, payload systems, satellite structures and mission design.",
@@ -396,23 +423,6 @@
      "figures": [
       "108 Countries Builds ShaktiSat, Aiming",
       "12,000 girls worldwide"
-     ]
-    },
-    {
-     "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXphMHdyc0RJdm5qNXhySXBvODBrVWZYTmdLQ0x5QVlPaFlONktCLWpkTW52Rmk1Um1tdnk2NkRPa0FrajR1VVRFN0V5bU5nNUtKRnMyRlpibmN4T2U0Y2FUM1otbGFjZV9yV0RxcTdzUmxONU83WWFsQWZJaDh0WGNnZTlnMlNPQTVUM0R3dldla09UbFp3Sg?oc=5",
-     "summary": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term The Motley Fool",
-     "published": "2026-08-31T05:29:56+00:00",
-     "source": "The Motley Fool",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "02208b9072b9",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "$50  and Hold"
      ]
     },
     {
@@ -488,7 +498,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-31T06:01:43.256553+00:00",
+     "published": "2026-08-31T06:31:39.897648+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -499,7 +509,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-31T06:01:43.256563+00:00",
+     "published": "2026-08-31T06:31:39.897660+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -510,7 +520,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-31T06:01:43.256566+00:00",
+     "published": "2026-08-31T06:31:39.897667+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -521,7 +531,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-31T06:01:43.256568+00:00",
+     "published": "2026-08-31T06:31:39.897671+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -532,7 +542,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-31T06:01:43.256569+00:00",
+     "published": "2026-08-31T06:31:39.897675+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -543,7 +553,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-31T06:01:43.256574+00:00",
+     "published": "2026-08-31T06:31:39.897679+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -612,62 +622,54 @@
    "upsc": false,
    "items": [
     {
-     "title": "Nepal flash floods: A wake-up call against infrastructure building spree across Himalayas, warns geo-scientist C.P. Rajendran",
-     "url": "https://www.thehindu.com/news/nepal-flash-floods-a-wake-up-call-against-infrastructure-building-spree-across-himalayas-warns-geo-scientist-cp-rajendran/article71409672.ece",
-     "summary": "The region already suffers from unstable slopes and reduced river efficiency, largely due to development projects carried out with little regard for ecological consequences, he the adjunct professor at National Institute of Advanced Studies, Bengaluru",
-     "published": "2026-08-31T05:52:00+00:00",
+     "title": "Benaka to organise month-long ‘Karantha Maasa’ celebration in September",
+     "url": "https://www.thehindu.com/news/national/karnataka/benaka-to-organise-month-long-karantha-maasa-celebration-in-september/article71408334.ece",
+     "summary": "The theatre festival will be held from September 5 to 22",
+     "published": "2026-08-31T06:20:26+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "image": "https://th-i.thgim.com/public/incoming/dsz7pz/article71409851.ece/alternates/LANDSCAPE_1200/Karantha%20Maasa%20theatre%20festival.jpeg",
      "licence": "linkout",
-     "id": "ddcdb3616f86",
-     "category": "weather",
-     "category_label": "Weather & disaster"
-    },
-    {
-     "title": "1 burnt to death after moving car catches fire at Venganoor in Thiruvananthapuram",
-     "url": "https://www.thehindu.com/news/national/kerala/1-burnt-to-death-after-moving-car-catches-fire-at-venganoor-in-thiruvananthapuram/article71409735.ece",
-     "summary": "A family dispute had allegedly taken place in his home in Kottayam prior to his journey",
-     "published": "2026-08-31T05:42:50+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/20zb2y/article71409790.ece/alternates/LANDSCAPE_1200/car%20new.jpg",
-     "licence": "linkout",
-     "id": "932dadada6aa",
+     "id": "69d31ef651f7",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1 burnt to death after moving"
-     ]
+     "category_label": "General"
     },
     {
-     "title": "FIR registered against Rahul Gandhi over Haldwani 'purification' remarks",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/fir-registered-against-rahul-gandhi-over-haldwani-purification-remarks/article71409565.ece",
-     "summary": "A political row erupted after some individuals allegedly performed a 'purification yajna' at the Ramlila Ground in Haldwani on August 11, following a public meeting held there by Congress President Mallikarjun Kharge on August 8",
-     "published": "2026-08-31T05:40:09+00:00",
+     "title": "Indian Navy commissions deep-sea diving vessel INS Nipun",
+     "url": "https://www.thehindu.com/news/national/indian-navy-commissions-deep-sea-diving-vessel-ins-nipun/article71409836.ece",
+     "summary": "INS Nipun was commissioned in the presence of Navy chief Admiral Krishna Swaminathan.",
+     "published": "2026-08-31T06:17:33+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/tvp2rz/article71409571.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000196A.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/a3avft/article71409846.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000043A.jpg",
      "licence": "linkout",
-     "id": "db645f993131",
+     "id": "99cfb10b554a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Nepal flash floods LIVE: At least 933 workers trapped in hydropower projects",
+     "url": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece",
+     "summary": "Prime Minister Balendra Shah has said the country is facing an “unimaginable and heartbreaking” disaster",
+     "published": "2026-08-31T06:14:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/w3yd2x/article71409643.ece/alternates/LANDSCAPE_1200/2026-08-30T133732Z_35845283_RC2X8NAFC30J_RTRMADP_3_NEPAL-FLOODS.JPG",
+     "licence": "linkout",
+     "id": "458e345a6e5b",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+       "url": "https://www.bbc.co.uk/news/videos/c86x39p6we1o?at_medium=RSS&at_campaign=rss",
+       "summary": "Thousands in Nepal are still waiting to be rescued, but unpredictable weather is making such operations increasingly difficult."
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
      "figures": [
-      "11, following a public meeting held"
+      "933 workers trapped in hydropower projects"
      ]
-    },
-    {
-     "title": "Madras, a place where women found home, and freedom, says Kalpana Karunakaran",
-     "url": "https://www.thehindu.com/news/cities/chennai/madras-a-place-where-women-found-home-and-freedom-says-kalpana-karunakaran/article71335130.ece",
-     "summary": "Kalpana Karunakaran is the author of A Woman of No Consequence: Memory, Letters and Resistance in Madras",
-     "published": "2026-08-31T05:33:42+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/wqph8t/article71335174.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-12%20at%2010.24.51.jpeg",
-     "licence": "linkout",
-     "id": "4c5274705bda",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Over 200 HIV Cases Reported Across 31 Jails In Assam Within 4 Months",
@@ -775,6 +777,23 @@
      "category_label": "General"
     },
     {
+     "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+     "published": "2026-08-31T03:56:15+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "80226a3cb4a8",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "18 missing after ferry capsizes off",
+      "270 people turns over after leaving"
+     ]
+    },
+    {
      "title": "Iceland votes against restarting EU membership talks",
      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
@@ -808,6 +827,19 @@
    "title": "Global Hotline",
    "upsc": false,
    "items": [
+    {
+     "title": "Rescue efforts continue on both sides of Nepal-Tibet border",
+     "url": "https://www.bbc.co.uk/news/videos/cd94qq37wgdo?at_medium=RSS&at_campaign=rss",
+     "summary": "Rescue dogs searched for flood victims in Tibet while authorities worked through the night at a Nepal power plant where hundreds are missing.",
+     "published": "2026-08-31T06:20:49+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5869/live/988c4310-a503-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "a50776df3656",
+     "category": "human",
+     "category_label": "Human interest"
+    },
     {
      "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
      "url": "https://www.bbc.co.uk/news/videos/c86x39p6we1o?at_medium=RSS&at_campaign=rss",
@@ -885,17 +917,59 @@
    "upsc": false,
    "items": [
     {
-     "title": "Nepal flash floods: A wake-up call against infrastructure building spree across Himalayas, warns geo-scientist C.P. Rajendran",
-     "url": "https://www.thehindu.com/news/nepal-flash-floods-a-wake-up-call-against-infrastructure-building-spree-across-himalayas-warns-geo-scientist-cp-rajendran/article71409672.ece",
-     "summary": "The region already suffers from unstable slopes and reduced river efficiency, largely due to development projects carried out with little regard for ecological consequences, he the adjunct professor at National Institute of Advanced Studies, Bengaluru",
-     "published": "2026-08-31T05:52:00+00:00",
+     "title": "Benaka to organise month-long ‘Karantha Maasa’ celebration in September",
+     "url": "https://www.thehindu.com/news/national/karnataka/benaka-to-organise-month-long-karantha-maasa-celebration-in-september/article71408334.ece",
+     "summary": "The theatre festival will be held from September 5 to 22",
+     "published": "2026-08-31T06:20:26+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "image": "https://th-i.thgim.com/public/incoming/dsz7pz/article71409851.ece/alternates/LANDSCAPE_1200/Karantha%20Maasa%20theatre%20festival.jpeg",
      "licence": "linkout",
-     "id": "ddcdb3616f86",
-     "category": "weather",
-     "category_label": "Weather & disaster"
+     "id": "69d31ef651f7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Indian Navy commissions deep-sea diving vessel INS Nipun",
+     "url": "https://www.thehindu.com/news/national/indian-navy-commissions-deep-sea-diving-vessel-ins-nipun/article71409836.ece",
+     "summary": "INS Nipun was commissioned in the presence of Navy chief Admiral Krishna Swaminathan.",
+     "published": "2026-08-31T06:17:33+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/a3avft/article71409846.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000043A.jpg",
+     "licence": "linkout",
+     "id": "99cfb10b554a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Nepal flash floods LIVE: At least 933 workers trapped in hydropower projects",
+     "url": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece",
+     "summary": "Prime Minister Balendra Shah has said the country is facing an “unimaginable and heartbreaking” disaster",
+     "published": "2026-08-31T06:14:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/w3yd2x/article71409643.ece/alternates/LANDSCAPE_1200/2026-08-30T133732Z_35845283_RC2X8NAFC30J_RTRMADP_3_NEPAL-FLOODS.JPG",
+     "licence": "linkout",
+     "id": "458e345a6e5b",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "933 workers trapped in hydropower projects"
+     ]
+    },
+    {
+     "title": "Wildlife Institute of India report lists persistent hotspots for elephant mortality and human casualties in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/report-lists-persistent-hotspots-for-elephant-mortality-and-human-casualties-in-keralam/article71408251.ece",
+     "summary": "Kanan Devan Hills, Kuttampuzha, Chittar, Mankulam, Padavayal, and Peechi identified as hotspots, as per a report released by the Wildlife Institute of India",
+     "published": "2026-08-31T05:57:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/vx4opy/article71408356.ece/alternates/LANDSCAPE_1200/PTI08_11_2026_000328B.jpg",
+     "licence": "linkout",
+     "id": "3f37456a2af8",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "1 burnt to death after moving car catches fire at Venganoor in Thiruvananthapuram",
@@ -912,61 +986,6 @@
      "figures": [
       "1 burnt to death after moving"
      ]
-    },
-    {
-     "title": "FIR registered against Rahul Gandhi over Haldwani 'purification' remarks",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/fir-registered-against-rahul-gandhi-over-haldwani-purification-remarks/article71409565.ece",
-     "summary": "A political row erupted after some individuals allegedly performed a 'purification yajna' at the Ramlila Ground in Haldwani on August 11, following a public meeting held there by Congress President Mallikarjun Kharge on August 8",
-     "published": "2026-08-31T05:40:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/tvp2rz/article71409571.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000196A.jpg",
-     "licence": "linkout",
-     "id": "db645f993131",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "11, following a public meeting held"
-     ]
-    },
-    {
-     "title": "BJP thinks it is bigger than RSS; should listen to Mohan Bhagwat: Dipke",
-     "url": "https://www.thehindu.com/news/national/bjp-thinks-it-is-bigger-than-rss-should-listen-to-mohan-bhagwat-dipke/article71409632.ece",
-     "summary": "He also said that Sonam Wangchuk's statement in an interview about CJP leaders’ political ambition was being distorted.",
-     "published": "2026-08-31T05:32:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8uqsws/article71409652.ece/alternates/LANDSCAPE_1200/PTI08_30_2026_000464B.jpg",
-     "licence": "linkout",
-     "id": "5100ef3d8964",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Garbage, water shortages and broken fans: inside CJP’s ‘School Theek Karo’ campaign",
-     "url": "https://www.thehindu.com/education/garbage-water-shortages-and-broken-fans-inside-cjps-school-theek-karo-campaign/article71404938.ece",
-     "summary": "",
-     "published": "2026-08-31T05:32:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/education/t8lbmd/article71407481.ece/alternates/LANDSCAPE_1200/entrance%20of%20the%20mcd%20high%20school%20bhatti%20mines.jpeg",
-     "licence": "linkout",
-     "id": "786ac657e121",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "CJP finds in AAP an all-weather friend supporting it at every turn",
-     "url": "https://www.thehindu.com/news/national/cjp-finds-in-aap-an-all-weather-friend-supporting-it-at-every-turn/article71407670.ece",
-     "summary": "Since the beginning of the CJP, Arvind Kejriwal, other top leaders, and the AAP ecosystem have supported it, even before it became a mass movement in Delhi",
-     "published": "2026-08-31T05:31:28+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qah43c/article71409567.ece/alternates/LANDSCAPE_1200/20260721526L.jpg",
-     "licence": "linkout",
-     "id": "4e7dfe6ac1f4",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -989,6 +1008,27 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 31, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63473",
+     "summary": "",
+     "published": "2026-08-31T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "93328cfd2285",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "VRRR"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 31, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63472",
@@ -1070,25 +1110,6 @@
      },
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Auction of State Government Securities",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63468",
-     "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "9d8395056c93",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1500,6 +1521,23 @@
      ]
     },
     {
+     "title": "Gold, silver prices today, 31 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+     "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-31-august-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11788141195314.html",
+     "summary": "Gold and silver prices today, 31 August: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+     "published": "2026-08-31T03:56:43+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/3-0-81176192-gold2-0_1679795319376_1788141719424_07ec1916-9c69-414a-af4d-709a541cb64d.jpg",
+     "licence": "linkout",
+     "id": "acd2237dfe1d",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "999 silver in Delhi, Mumbai",
+      "999 silver retail rates across Delhi"
+     ]
+    },
+    {
      "title": "ITR filing deadline August 31 today: What happens if you miss the deadline? Know belated return and late fee rules",
      "url": "https://www.livemint.com/money/personal-finance/itr-filing-deadline-august-31-today-what-happens-if-you-miss-the-deadline-know-belated-return-and-late-fee-rules-11788146507305.html",
      "summary": "August 31 is the ITR filing deadline for non-audit taxpayers for AY 2026-27. Here’s what happens if you miss the deadline, including belated ITR filing, late fees, interest and loss carry-forward rules.",
@@ -1515,19 +1553,6 @@
       "31 today : What happens if",
       "27. Here ’s what happens if"
      ]
-    },
-    {
-     "title": "How much gold jewellery can you keep at home? Nagpur ITAT explains rules on ownership, gifts, taxability",
-     "url": "https://www.livemint.com/money/personal-finance/how-much-gold-jewellery-can-you-keep-at-home-nagpur-itat-explains-the-rules-on-ownership-gifts-and-taxability-11788144811728.html",
-     "summary": "The Nagpur ITAT deleted a tax addition on jewellery found during an income-tax search, stressing ownership, source and family circumstances. The ruling also examined the CBDT’s prescribed jewellery limits and whether possession within those limits can be treated as reasonably explained.",
-     "published": "2026-08-31T03:00:56+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_3yzwt3yzwt3yzwt3_1788145204388_1788145211762_94c2e5c0-1d02-40e8-b9bc-d2239fcbd144.png",
-     "licence": "linkout",
-     "id": "e61d57799e62",
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -1575,6 +1600,19 @@
      "id": "75426166157e",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Technology That Performs: A Strategic Outlook for Healthcare Leaders",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkVqZXJzRFN1bWlnVlFvbklEc2NtWWR4NkN5aFFmRFE4allKVlhXcE14M1I2cHdibHZTQ2dIWlBIYWN6QTVwMWhTSkw0THlkXzh0MjF2aDZ2ZC00MjdwMlVUNGluTF9FQjR0YlM3MUJoMUt3QVVYZ0lJNWdLOTloLU1uWXBubTAyZzFkMkhDYU9uV09HY3ZQbTYxYVBUcXJ0aHdNNjA4azV4M1ZsYUxzS1FBeHNRel8tNUE?oc=5",
+     "summary": "Technology That Performs: A Strategic Outlook for Healthcare Leaders Modern Healthcare",
+     "published": "2026-08-31T05:06:45+00:00",
+     "source": "Modern Healthcare",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "06f024bedace",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1711,20 +1749,19 @@
    "upsc": false,
    "items": [
     {
-     "title": "What are the symptoms of Hypermobility Spectrum Disorder?",
-     "url": "https://www.bbc.co.uk/news/videos/c4gvx94djpdo?at_medium=RSS&at_campaign=rss",
-     "summary": "The disorder may affect hundreds of thousands of people in the UK, but many face significant delays in getting a diagnosis.",
-     "published": "2026-08-28T10:23:21+00:00",
+     "title": "New home means 'big ambitions' for wood enterprise",
+     "url": "https://www.bbc.co.uk/news/articles/cn078vqllgqo?at_medium=RSS&at_campaign=rss",
+     "summary": "Wolverhampton Wood Recycling's bigger premises will bring more volunteers together, its founders say.",
+     "published": "2026-08-31T06:11:34+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9528/live/a92fa6a0-a2c7-11f1-a291-b542ee92de7c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/0e7b4200-a46f-11f1-8259-2dbebdceda25.png",
      "licence": "linkout",
-     "id": "fad3146526f1",
-     "category": "general",
-     "category_label": "General"
+     "id": "46e9db6a415e",
+     "category": "human",
+     "category_label": "Human interest"
     }
-   ],
-   "stale": true
+   ]
   }
  ],
  "sources": [
