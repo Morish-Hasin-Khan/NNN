@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T12:02:26.074396+00:00",
+ "generated_at": "2026-08-31T12:33:26.953428+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -76,22 +76,21 @@
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 78178.0,
-   "change": -849.0,
-   "changePct": -1.07,
-   "decimals": 0,
-   "stale": true
+   "value": 78073.0,
+   "change": -2185.0,
+   "changePct": -2.72,
+   "decimals": 0
   }
  ],
  "topics": [
-  "Five Kaushambi",
-  "Mohammad Deepak",
+  "Rescuers Northern",
+  "Minor Noida",
   "Jazeera English",
   "News",
   "Maharashtra DYFI",
-  "Conditional Thiruvananthapuram",
-  "Iran",
-  "Operation Economic",
+  "Nine Tamil",
+  "Congress Govt",
+  "Israel Iran",
   "Once",
   "Rescue Nepal"
  ],
@@ -103,46 +102,89 @@
    "upsc": false,
    "items": [
     {
-     "title": "Five killed in firecracker factory blast in U.P.’s Kaushambi, rescue operations underway",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/massive-explosion-at-a-firecracker-factory-in-uttar-pradeshs-kaushambi-district/article71410423.ece",
-     "summary": "Five killed in explosion at firecracker factory in UP’s Kaushambi district: DM Amit Pal",
-     "published": "2026-08-31T11:58:09+00:00",
+     "title": "Rescuers search for 18 missing after boat capsizes off Northern Cyprus",
+     "url": "https://www.aljazeera.com/news/2026/8/31/rescue-teams-continue-search-for-missing-after-north-cyprus-ferry-sinking?traffic_source=rss",
+     "summary": "The captain and crew of the ferry have been brought before a judge and placed under formal arrest.",
+     "published": "2026-08-31T11:59:37+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a954fdb-1788170203.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "80a121ce6a49",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
+       "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+       "summary": "Eight people have died after the ferry started taking on water shortly after setting off for Turkey."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "18 missing after boat capsizes off"
+     ]
+    },
+    {
+     "title": "Minor girl gang-raped inside moving bus during Noida-Delhi journey after being offered lift amid heavy rain",
+     "url": "https://www.thehindu.com/news/cities/Delhi/minor-girl-raped-inside-moving-bus-on-noida-delhi-journey/article71410233.ece",
+     "summary": "The driver and conductor were arrested after the girl was allegedly abandoned near Kashmere Gate ISBT; the sleeper bus has been seized and sent for forensic examination",
+     "published": "2026-08-31T12:09:43+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yzf8f6/article71410474.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000111B.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/k6v0rs/article71410524.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-31%20at%2016.31.00.jpeg",
      "licence": "linkout",
-     "id": "539b41be897d",
+     "id": "ad82a855676e",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "FIR against ‘Mohammad’ Deepak: Uttarakhand High Court seeks status report",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-high-court-seeks-fir-status-report-against-mohammed-deepak/article70754371.ece",
-     "summary": "The High Court also asked the police to clarify why no case had been registered based on Mr. Deepak’s complaint against individuals who were clearly identifiable in the video recordings.",
-     "published": "2026-08-31T11:56:59+00:00",
-     "source": "The Hindu",
+     "title": "The jury's options in Lindsay Clancy's murder trial",
+     "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+     "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
+     "published": "2026-08-31T11:53:21+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qct7h6/article70754940.ece/alternates/LANDSCAPE_1200/KOTDWAR%20SPOTLIGHT_7.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c17/live/80180ab0-a4d3-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
-     "id": "4d83ad2c67e2",
+     "id": "608a9487eb92",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "Global News"
     },
     {
-     "title": "Uttarakhand HC declines to quash FIR against ‘Mohammad Deepak’, orders him to refrain from social media posts",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-hc-declines-to-quash-fir-against-mohammad-deepak/article70765679.ece",
-     "summary": "Gym owner Deepak Kumar came into national focus after he confronted a group of right-wing activists accused of harassing an elderly Muslim shop owner and pressuring him to rename his store on January 26",
-     "published": "2026-08-31T11:55:46+00:00",
+     "title": "Credit war over Veligonda: Jagan says his father built it, Lokesh says his did",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/credit-war-over-veligonda-jagan-says-his-father-built-it-lokesh-says-his-did/article71410370.ece",
+     "summary": "Jagan Mohan Reddy said 20 of the twin tunnels’ 37.5 km were dug in his father’s tenure and asked why water had not reached Nallamala Sagar for 26 months; the Nara Lokesh shared visuals of the March 2024 event, calling it an inauguration without water",
+     "published": "2026-08-31T12:11:53+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pcy2br/article70765868.ece/alternates/LANDSCAPE_1200/KOTDWAR%20SPOTLIGHT_8.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/uq27xt/article71385206.ece/alternates/LANDSCAPE_1200/9604_12_8_2026_18_31_40_1_IMG_20260812_WA0022.JPG",
      "licence": "linkout",
-     "id": "8da0ca1fd8b5",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
+     "id": "eb1427dc53f5",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News",
+     "figures": [
+      "37.5 km were dug in his",
+      "26 months ; the Nara Lokesh"
+     ]
+    },
+    {
+     "title": "Who are the economic winners and losers of the US-Israel war on Iran?",
+     "url": "https://www.aljazeera.com/economy/2026/8/31/who-are-the-economic-winners-and-losers-of-the-us-israel-war-on-iran?traffic_source=rss",
+     "summary": "Airlines and automakers have taken a hit, while banks and energy firms have raked in big profits.",
+     "published": "2026-08-31T12:01:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/SoH-1788139711_506973-1788161471.jpeg?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "c2b793ea5066",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "How the US-Canada trade war is being felt on both sides of the border",
@@ -159,71 +201,49 @@
      "from_section": "Business"
     },
     {
-     "title": "Advocates stage sit-in protest outside Rajasthan acting Chief Justice’s courtroom",
-     "url": "https://www.thehindu.com/news/national/rajasthan/advocates-stage-sit-in-protest-outside-rajasthan-acting-chief-justices-courtroom/article71410540.ece",
-     "summary": "The development comes days after Supreme Court judge Justice Sandeep Mehta wrote three letters to Chief Justice of India Surya Kant raising serious allegations against Justice Sharma and seeking his transfer out of Rajasthan.",
-     "published": "2026-08-31T11:49:24+00:00",
+     "title": "Nine seed storage warehouses to be set up across Tamil Nadu at ₹11.64 crore, Minister tells Assembly",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/nine-seed-storage-warehouses-to-be-set-up-across-tamil-nadu-at-1164-crore-minister-tells-assembly/article71410600.ece",
+     "summary": "The facilities are intended to preserve the quality, germination capacity and vigour of seeds procured from farmers",
+     "published": "2026-08-31T12:23:08+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bvgnc/article71410575.ece/alternates/LANDSCAPE_1200/01_Congress_government_20_JPR.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/4rl6fu/article71410814.ece/alternates/LANDSCAPE_1200/T.N.-AgriculturG1JGBVDM1.3.jpg.jpg",
      "licence": "linkout",
-     "id": "18eba4bb9e50",
+     "id": "c89533e9b7e0",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "₹11.64 crore , Minister tells Assembly"
+     ]
+    },
+    {
+     "title": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy",
+     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPekM5R2QyTEVHMlBreU9taldkX3E1TU1sY2FTbkpEcWhHUDktdzhKVlpNSHB1cFNrdmxPNWRDckdRNDVVR19CSHhwSmo3WnpIczdwODhuTFpMcTZxZ2tETDRzS1ZRM1JFbXJUR2x5SHg3X3E5NVVOUnJuT0FyZ2RRbGVxZXZ0Z0dLQzVOd2JTZXZxWEpGZ1BVMWY0RmNCLW0wSFNjdmZLZEdacnpjY1ctSjdLZXRUMU1yLUZZbUhiaDNvd0N2ZXVDXzY4NHFsSklOQ1hGZnROdXhYRC1oeTNySzdyQTBsNjVrTjlfd203X1lGdy12T2V2c2h1Y0RDem5QbkZ0bTdkaUtMb3hPUWREb2x5Zlo1X2xCOHN5SnB6SG8tS3Jja1VJY2Vva296SXBCRWNSa3A2bWRreTJRX2N3dkNzNlFhSFZyQXRtNTdWTC0tWnRBd1NBaVVfQTFFUdIB5AJBVV95cUxPTFR3d3FVYjNYMHgwOVIwNWtGZHRqU0E1YXRmMWpsQ2hoSVh4ZjZ1N3ptakVJcHRjMm1ES2tVdUVueWxjTmN4T2s4U1NNLTU5UDcwc2FlLW9rdkhLS2RLVU5fOWZfYk1BMF9udjA3Tm80bmx5eXhOT3ItSERlVHlYLVRjNzhkR2xSc1hBa055MWVzS0JSNm1RaHV1WkJIUE9LeFkxaWQ0Z3pMa0wyUjlvS2pFLWs1Vlk1VUt0dkRzdW9iZjg4djA0NXcwVWFhODJVNEF2LXlqbmFOTU4zdG40MjZSRG55Sjc1S1JHYUdKeERsWTZOMjdaVWRtTG5EZk1LVEhVUW9HeGs4Z1FUTWpreUZud3ZNVzlRVUVTdXFnNFFZUXdCZ2N3MlpqUDNCLXVZN0VIVXRUZVFrZ3FraGtLcHF3cDdidWRFOGw5NWtFWm51Y2xrVnR4R3c2ZVBCbTZvd0V2UQ?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy The Indian Express",
+     "published": "2026-08-31T12:05:33+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "7a971189f6f2",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
     },
     {
-     "title": "47 Lakh Names Off Delhi Voter List After Revision, Arvind Kejriwal Issues Jibe",
-     "url": "https://www.ndtv.com/india-news/47-lakh-names-off-delhi-voter-list-after-revision-arvind-kejriwal-issues-jibe-11982026#publisher=newsstand",
-     "summary": "In Delhi, 43,32,775 voters were found to have either shifted residence or were unavailable. 1,41,535 voters were found to be enrolled at multiple locations or were duplicate entries. 2,82,412 voters were found to be deceased, the Election Commission said.",
-     "published": "2026-08-31T11:40:57+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/mvb7k6v_delhi-sir-process_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "d0ed87fce151",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "47 Lakh Names Off Delhi Voter",
-      "43,32,775 voters were found to have",
-      "1,41,535 voters were found to be",
-      "2,82,412 voters were found to be"
-     ]
-    },
-    {
-     "title": "'CJP Wanted Me To Tell People To End Protest': Sonam Wangchuk In Podcast",
-     "url": "https://www.ndtv.com/india-news/cjp-wanted-me-to-tell-people-to-end-protest-says-sonam-wangchuk-in-podcast-11981981#publisher=newsstand",
-     "summary": "Activist Sonam Wangchuk praised young students for not letting the NEET paper leak agitation lose steam",
-     "published": "2026-08-31T11:32:17+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/v38gs3h_sonam-wangchuk_625x300_31_August_26.jpeg",
-     "licence": "linkout",
-     "id": "a1d90cd52d79",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Conditional environmental clearance for ₹8,707-crore Thiruvananthapuram airport expansion project",
-     "url": "https://www.thehindu.com/news/national/kerala/conditional-environmental-clearance-for-8707-crore-thiruvananthapuram-airport-expansion-project/article71410154.ece",
-     "summary": "The proposed expansion is designed to increase the airport’s passenger-handling capacity to 27 million passengers per annum (MPPA) and its cargo-handling capacity to 0.42 million tonnes per annum (MTPA)",
-     "published": "2026-08-31T11:57:35+00:00",
+     "title": "Keralam to launch resting hubs for gig workers in three cities",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-to-launch-resting-hubs-for-gig-workers-in-three-cities/article71410163.ece",
+     "summary": "Move as part of UDF government’s 100-day action plan. Project to be expanded to more places based on response of gig workers to the three hubs in initial phase, says State Labour Minister’s office",
+     "published": "2026-08-31T12:00:23+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t0j39v/article71410378.ece/alternates/LANDSCAPE_1200/West-Asia-conflGMLFNMG1S.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/v804hc/article71410344.ece/alternates/LANDSCAPE_1200/gig.jpg",
      "licence": "linkout",
-     "id": "89ea577535bf",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News",
-     "figures": [
-      "₹8,707 -crore Thiruvananthapuram airport expansio",
-      "27 million passengers per annum (MPPA)",
-      "0.42 million tonnes per annum (MTPA)"
-     ]
+     "id": "95ce0943f029",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
     },
     {
      "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
@@ -243,22 +263,32 @@
      ]
     },
     {
-     "title": "MPLADS: Telangana’s 23 MPs spend only ₹94 crore of ₹394.8 crore",
-     "url": "https://www.thehindu.com/news/national/telangana/mplads-telanganas-23-mps-spend-only-94-crore-of-3948-crore/article71410595.ece",
-     "summary": "The 23.8% MPLAD funds spent by Telangana MPs is below the national average of 33%",
-     "published": "2026-08-31T11:51:55+00:00",
-     "source": "The Hindu",
+     "title": "Adding your wife to property deed? Know the tax and Benami risks before signing any papers",
+     "url": "https://www.livemint.com/money/personal-finance/adding-your-wife-to-property-deed-know-the-tax-and-benami-risks-before-signing-any-papers-11788176137390.html",
+     "summary": "Adding names to property documents is common in India, with tax authorities scrutinising financial capacity. Parties must clarify arrangements such as ownership, gifts, or loans to avoid compliance issues.&nbsp;",
+     "published": "2026-08-31T11:40:30+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/cid81t/article71410695.ece/alternates/LANDSCAPE_1200/Telangana%20finances%20M%20Venkat%20Rao.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Wife_deed_1788176192464_1788176201246_d7918905-9aef-49a7-a958-fdafe9fef8dd.jpg",
      "licence": "linkout",
-     "id": "bb9cbf854e85",
+     "id": "f407c87b6fca",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National Hotlines",
-     "figures": [
-      "₹94 crore of ₹394",
-      "₹394.8 crore"
-     ]
+     "from_section": "Business"
+    },
+    {
+     "title": "Next space race could be fuelled by AI: How technology may reshape the orbital economy by 2030",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcDE3RWVEVVk4dDFJTGxKaDNhX3dpbmcyV0ZFaVZ0ZENDOEo1a0drY2d3Z1dtVFBpQW5sd1YySGFoYnJ0U0plaTc4YkZoMktBNFZESXNfczhpam90TnU5UXZhZ2hqem42c01oeGxMUmZaOU5SeURENFZrM2loenNDalFhdVRBdFptNmpyME1nYkV4VXZvWktMUnFLWmt5Rks3VlpfR1pFbGdNUXNFR19kUG1iWkNEcENrSHlRLXdaNVItcWxUdl8ta2laUGtZY3c1OGtsekpNOVJzMmp4aDh5OWpvd014d1FNUXhWYURSVEw2SVJSb29raDdyWldRbklLdUVlUlphUk43dXd1U2fSAZMCQVVfeXFMTzJCVFBNRFhaZ3I0c2l6OHN0U1BBd0RtQnJyMVdKcGJMQ3N2eUVYOHhUOW9nZlZPbFA4TGVOeHZHdjZ2U2cyV2dOV1FCUE1IbVFYWnJsWmxVVkRuNHlEN2ptNlJ0ZzZPbGxONTdwSUNpa0FJd0Y4YXJQSTRJTE5HVjdIeVpncnFoTnJ4VVVwM2ZnUkV5YTIybWotZmZKRjNwT0FzSlRZS1hKaHZZSWxPQk1WdHlvbkxLaXlGaXdMclU4bEZlZmtPcnZVSDlhRk5COFdOZkNXYkNid1BnNFg5THVWc1hEN0FkY2R1Z0R4dGpCbm1OLXdIaFNPZkJmLWhZOTVjRGJmWC1OMjVLZGVUM2Rqdm8?oc=5",
+     "summary": "Next space race could be fuelled by AI: How technology may reshape the orbital economy by 2030 Business Today",
+     "published": "2026-08-30T22:50:02+00:00",
+     "source": "Business Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "1c28079d86db",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Technology"
     },
     {
      "title": "Dolly Parton laid to rest alongside husband in Nashville",
@@ -321,34 +351,45 @@
      ]
     },
     {
-     "title": "Nepal tunnel traps hinder flood rescue: How many are dead or missing?",
-     "url": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing?traffic_source=rss",
-     "summary": "Flash floods on the Nepal-Tibet border have left nearly 5,000 people missing, many trapped in hydropower tunnels.",
-     "published": "2026-08-31T10:17:22+00:00",
-     "source": "Al Jazeera",
+     "title": "Rescue efforts continue on both sides of Nepal-Tibet border",
+     "url": "https://www.bbc.co.uk/news/videos/cd94qq37wgdo?at_medium=RSS&at_campaign=rss",
+     "summary": "Rescue dogs searched for flood victims in Tibet while authorities worked through the night at a Nepal power plant where hundreds are missing.",
+     "published": "2026-08-31T06:20:49+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-30T100622Z_954564188_RC2X8NAI4VZY_RTRMADP_3_NEPAL-FLOODS-1-1788172050.jpg?resize=1200%2C630",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5869/live/988c4310-a503-11f1-aed2-8d6da8d75094.jpg",
      "licence": "linkout",
-     "id": "09e2c42009b0",
+     "id": "a50776df3656",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "Global News",
-     "figures": [
-      "5,000 people missing, many trapped"
-     ]
+     "from_section": "Global Hotline"
     },
     {
-     "title": "\"Vomiting, Throwing Up, A Serious Issue There\": Novak Djokovic On US Open 1st Round Defeat",
-     "url": "https://sports.ndtv.com/tennis/vomiting-throwing-up-a-serious-issue-there-novak-djokovic-on-us-open-1st-round-defeat-11980593#publisher=newsstand",
-     "summary": "The Tennis legend explained that he struggled with vomiting, cramps and pain during the contest, which affected his movement and ability to close out the match.",
-     "published": "2026-08-31T08:53:42+00:00",
-     "source": "NDTV Sports",
+     "title": "New home means 'big ambitions' for wood enterprise",
+     "url": "https://www.bbc.co.uk/news/articles/cn078vqllgqo?at_medium=RSS&at_campaign=rss",
+     "summary": "Wolverhampton Wood Recycling's bigger premises will bring more volunteers together, its founders say.",
+     "published": "2026-08-31T06:11:34+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/mn0um96c_novak-djokovic-health-afp_625x300_31_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/0e7b4200-a46f-11f1-8259-2dbebdceda25.png",
      "licence": "linkout",
-     "id": "3d9b6ff19028",
+     "id": "46e9db6a415e",
      "category": "human",
      "category_label": "Human interest",
+     "from_section": "Health & Science"
+    },
+    {
+     "title": "Kairav Roberson, Rehan Khan Rasheed Win Titles At IAME Series India 2026",
+     "url": "https://sports.ndtv.com/othersports/kairav-roberson-rehan-khan-rasheed-win-titles-at-iame-series-india-2026-11982086#publisher=newsstand",
+     "summary": "The inaugural IAME Series India 2026 concluded at the floodlit Madras International Karting Arena on Saturday",
+     "published": "2026-08-31T11:54:55+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/7h36b94k_shiv-neel_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ef495b8bc909",
+     "category": "weather",
+     "category_label": "Weather & disaster",
      "from_section": "Sports"
     },
     {
@@ -364,20 +405,6 @@
      "category": "weather",
      "category_label": "Weather & disaster",
      "from_section": "Global Hotline"
-    },
-    {
-     "title": "After the flash flood disaster, here is what Nepal really needs",
-     "url": "https://www.aljazeera.com/opinions/2026/8/31/after-the-flash-flood-disaster-here-is-what-nepal-really-needs?traffic_source=rss",
-     "summary": "The country urgently needs to set up early warning systems, monitoring and safe shelters.",
-     "published": "2026-08-31T10:12:38+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T020529Z_2041126474_RC2E9NAWY3MD_RTRMADP_3_NEPAL-FLOODS-1788170846_1da5a2-1788171149.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "3f2ef6cefc28",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News"
     },
     {
      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
@@ -442,21 +469,24 @@
      "from_section": "Technology"
     },
     {
-     "title": "Duleep Trophy Semi-final 1 Live Score: East Zone Out For 266 After Vaibhav Sooryavanshi's Blitz",
-     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
-     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Live: Harsh Dubey took four wickets as Central Zone bowled out East Zone for 266 on Day 2 of the Duleep Trophy semi-final in Bengaluru.",
-     "published": "2026-08-31T10:09:00+00:00",
+     "title": "Adani Sportsline Academy Speedskaters Win 43 Medals At SGFI District Roller Skating Tournament 2026",
+     "url": "https://sports.ndtv.com/othersports/adani-sportsline-academy-speedskaters-win-43-medals-at-sgfi-district-roller-skating-tournament-2026-11981998#publisher=newsstand",
+     "summary": "Speedskaters from Adani Sportsline Academy won 43 medals, including 15 Gold, 18 Silver and 10 Bronze, at the School Games Federation of India (SGFI) District Roller Skating Tournament 2026",
+     "published": "2026-08-31T11:37:16+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ui8i9prc_vs_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/otm476es_parth-shah-rahi-joshi_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b5192e2072f6",
+     "id": "ffedb8dab58e",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports",
      "figures": [
-      "1 Live Score: East Zone Out",
-      "266 After Vaibhav Sooryavanshi's Blitz"
+      "43 Medals At SGFI District Roller",
+      "43 medals , including 15 Gold",
+      "15 Gold , 18 Silver",
+      "18 Silver and 10 Bronze",
+      "10 Bronze , at the School"
      ]
     }
    ]
@@ -473,7 +503,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-31T12:02:12.717569+00:00",
+     "published": "2026-08-31T12:33:14.034926+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -484,7 +514,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-31T12:02:12.717590+00:00",
+     "published": "2026-08-31T12:33:14.034935+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -495,7 +525,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-31T12:02:12.717596+00:00",
+     "published": "2026-08-31T12:33:14.034939+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -506,7 +536,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-31T12:02:12.717600+00:00",
+     "published": "2026-08-31T12:33:14.034941+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -517,7 +547,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-31T12:02:12.717605+00:00",
+     "published": "2026-08-31T12:33:14.034943+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -528,7 +558,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-31T12:02:12.717609+00:00",
+     "published": "2026-08-31T12:33:14.034945+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -567,50 +597,68 @@
    "upsc": false,
    "items": [
     {
-     "title": "Five killed in firecracker factory blast in U.P.’s Kaushambi, rescue operations underway",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/massive-explosion-at-a-firecracker-factory-in-uttar-pradeshs-kaushambi-district/article71410423.ece",
-     "summary": "Five killed in explosion at firecracker factory in UP’s Kaushambi district: DM Amit Pal",
-     "published": "2026-08-31T11:58:09+00:00",
+     "title": "Nine seed storage warehouses to be set up across Tamil Nadu at ₹11.64 crore, Minister tells Assembly",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/nine-seed-storage-warehouses-to-be-set-up-across-tamil-nadu-at-1164-crore-minister-tells-assembly/article71410600.ece",
+     "summary": "The facilities are intended to preserve the quality, germination capacity and vigour of seeds procured from farmers",
+     "published": "2026-08-31T12:23:08+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yzf8f6/article71410474.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000111B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/4rl6fu/article71410814.ece/alternates/LANDSCAPE_1200/T.N.-AgriculturG1JGBVDM1.3.jpg.jpg",
      "licence": "linkout",
-     "id": "539b41be897d",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Conditional environmental clearance for ₹8,707-crore Thiruvananthapuram airport expansion project",
-     "url": "https://www.thehindu.com/news/national/kerala/conditional-environmental-clearance-for-8707-crore-thiruvananthapuram-airport-expansion-project/article71410154.ece",
-     "summary": "The proposed expansion is designed to increase the airport’s passenger-handling capacity to 27 million passengers per annum (MPPA) and its cargo-handling capacity to 0.42 million tonnes per annum (MTPA)",
-     "published": "2026-08-31T11:57:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t0j39v/article71410378.ece/alternates/LANDSCAPE_1200/West-Asia-conflGMLFNMG1S.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "89ea577535bf",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "c89533e9b7e0",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "₹8,707 -crore Thiruvananthapuram airport expansio",
-      "27 million passengers per annum (MPPA)",
-      "0.42 million tonnes per annum (MTPA)"
+      "₹11.64 crore , Minister tells Assembly"
      ]
     },
     {
-     "title": "Supreme Court stays proceedings against gym owner ‘Mohammad’ Deepak Kumar in rioting case",
-     "url": "https://www.thehindu.com/news/national/supreme-court-stays-proceedings-against-gym-owner-mohammad-deepak-kumar-in-rioting-case/article71409954.ece",
-     "summary": "The apex court also stays a March 20 order of the Uttarakhand High Court, restraining Kumar from making social media posts concerning the incident and the case",
-     "published": "2026-08-31T11:57:09+00:00",
+     "title": "Congress Govt people-centric in 1000 days: TPCC chief",
+     "url": "https://www.thehindu.com/news/national/telangana/congress-govt-was-people-centric-in-1000-days-of-rule-tpcc-chief/article71410252.ece",
+     "summary": "",
+     "published": "2026-08-31T12:14:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hwvrks/article71410657.ece/alternates/LANDSCAPE_1200/KOTDWAR%20SPOTLIGHT_8.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/kpotk6/article71410328.ece/alternates/LANDSCAPE_1200/IMG_HYD-CM-Sonia_1_1_SCCRIGU1.jpg",
      "licence": "linkout",
-     "id": "82bbde4a6381",
+     "id": "8e5207857314",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "20 order of the Uttarakhand High"
+      "1000 days : TPCC chief"
+     ]
+    },
+    {
+     "title": "Credit war over Veligonda: Jagan says his father built it, Lokesh says his did",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/credit-war-over-veligonda-jagan-says-his-father-built-it-lokesh-says-his-did/article71410370.ece",
+     "summary": "Jagan Mohan Reddy said 20 of the twin tunnels’ 37.5 km were dug in his father’s tenure and asked why water had not reached Nallamala Sagar for 26 months; the Nara Lokesh shared visuals of the March 2024 event, calling it an inauguration without water",
+     "published": "2026-08-31T12:11:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/uq27xt/article71385206.ece/alternates/LANDSCAPE_1200/9604_12_8_2026_18_31_40_1_IMG_20260812_WA0022.JPG",
+     "licence": "linkout",
+     "id": "eb1427dc53f5",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "37.5 km were dug in his",
+      "26 months ; the Nara Lokesh"
+     ]
+    },
+    {
+     "title": "Telangana | 50 fertility centres found violating norms, two registrations cancelled",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-50-fertility-centres-found-violating-norms-two-registrations-cancelled/article71410626.ece",
+     "summary": "",
+     "published": "2026-08-31T12:11:20+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/etjza4/article71410756.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U8G2G8573_R1505566921_1_bb6849e9-0b4e-41ba-96f5-3cccd1ef9722.jpg",
+     "licence": "linkout",
+     "id": "ce9ddb8a392e",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "50 fertility centres found violating norms"
      ]
     },
     {
@@ -625,6 +673,38 @@
      "id": "c94a070100cd",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "47 Lakh Names Off Delhi Voter List After Revision, Arvind Kejriwal Issues Jibe",
+     "url": "https://www.ndtv.com/india-news/47-lakh-names-off-delhi-voter-list-after-revision-arvind-kejriwal-issues-jibe-11982026#publisher=newsstand",
+     "summary": "In Delhi, 43,32,775 voters were found to have either shifted residence or were unavailable. 1,41,535 voters were found to be enrolled at multiple locations or were duplicate entries. 2,82,412 voters were found to be deceased, the Election Commission said.",
+     "published": "2026-08-31T11:40:57+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/mvb7k6v_delhi-sir-process_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d0ed87fce151",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "47 Lakh Names Off Delhi Voter",
+      "43,32,775 voters were found to have",
+      "1,41,535 voters were found to be",
+      "2,82,412 voters were found to be"
+     ]
+    },
+    {
+     "title": "'CJP Wanted Me To Tell People To End Protest': Sonam Wangchuk In Podcast",
+     "url": "https://www.ndtv.com/india-news/cjp-wanted-me-to-tell-people-to-end-protest-says-sonam-wangchuk-in-podcast-11981981#publisher=newsstand",
+     "summary": "Activist Sonam Wangchuk praised young students for not letting the NEET paper leak agitation lose steam",
+     "published": "2026-08-31T11:32:17+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/v38gs3h_sonam-wangchuk_625x300_31_August_26.jpeg",
+     "licence": "linkout",
+     "id": "a1d90cd52d79",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "\"He's Anxious, Cries Non-Stop\": Father Of Boy, 3, 'Assaulted' At Delhi Day Care",
@@ -648,6 +728,69 @@
    "upsc": false,
    "items": [
     {
+     "title": "Who are the economic winners and losers of the US-Israel war on Iran?",
+     "url": "https://www.aljazeera.com/economy/2026/8/31/who-are-the-economic-winners-and-losers-of-the-us-israel-war-on-iran?traffic_source=rss",
+     "summary": "Airlines and automakers have taken a hit, while banks and energy firms have raked in big profits.",
+     "published": "2026-08-31T12:01:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/SoH-1788139711_506973-1788161471.jpeg?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "c2b793ea5066",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Rescuers search for 18 missing after boat capsizes off Northern Cyprus",
+     "url": "https://www.aljazeera.com/news/2026/8/31/rescue-teams-continue-search-for-missing-after-north-cyprus-ferry-sinking?traffic_source=rss",
+     "summary": "The captain and crew of the ferry have been brought before a judge and placed under formal arrest.",
+     "published": "2026-08-31T11:59:37+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a954fdb-1788170203.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "80a121ce6a49",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
+       "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+       "summary": "Eight people have died after the ferry started taking on water shortly after setting off for Turkey."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "18 missing after boat capsizes off"
+     ]
+    },
+    {
+     "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad-2?traffic_source=rss",
+     "summary": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
+     "published": "2026-08-31T11:58:57+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788177333.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "011736458200",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Turkiye, Saudi Arabia, Pakistan hold first Mecca defence pact meeting",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/turkiye-saudi-arabia-pakistan-hold-first-mecca-defence-pact-meeting?traffic_source=rss",
+     "summary": "Turkiye, Saudi Arabia, Pakistan hold first Mecca defence pact meeting",
+     "published": "2026-08-31T11:49:03+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/MECCA-PACT-1788176934.jpg?resize=1920%2C1417",
+     "licence": "linkout",
+     "id": "3682c4d4cb88",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "UAE intercepts drone after US and Iran exchange attacks",
      "url": "https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks?traffic_source=rss",
      "summary": "The UAE says it intercepted a drone coming from Iran and rejected 'false' reports of an attack on its Al Menhad airbase.",
@@ -657,48 +800,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T085336Z_115528668_RC2J9NAP5OBK_RTRMADP_3_IRAN-CRISIS-STRIKE-1788171980.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "5e2e1e9bcb41",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "The looming failure of Operation Economic Outcast",
-     "url": "https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss",
-     "summary": "The latest package of US sanctions on Iran is unlikely to achieve Washington’s objectives.",
-     "published": "2026-08-31T10:18:40+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8c7daf-1787592111_68f889-1788171500.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "412ce275ec15",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Nepal tunnel traps hinder flood rescue: How many are dead or missing?",
-     "url": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing?traffic_source=rss",
-     "summary": "Flash floods on the Nepal-Tibet border have left nearly 5,000 people missing, many trapped in hydropower tunnels.",
-     "published": "2026-08-31T10:17:22+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-30T100622Z_954564188_RC2X8NAI4VZY_RTRMADP_3_NEPAL-FLOODS-1-1788172050.jpg?resize=1200%2C630",
-     "licence": "linkout",
-     "id": "09e2c42009b0",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "5,000 people missing, many trapped"
-     ]
-    },
-    {
-     "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad?traffic_source=rss",
-     "summary": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
-     "published": "2026-08-31T10:11:59+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788170888.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "e7a1791aa437",
      "category": "general",
      "category_label": "General"
     },
@@ -740,19 +841,6 @@
      "id": "96e5581ef800",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "The jury's options in Lindsay Clancy's murder trial",
-     "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-     "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
-     "published": "2026-08-31T11:53:21+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c17/live/80180ab0-a4d3-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "608a9487eb92",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
@@ -855,62 +943,77 @@
    "upsc": false,
    "items": [
     {
-     "title": "Five killed in firecracker factory blast in U.P.’s Kaushambi, rescue operations underway",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/massive-explosion-at-a-firecracker-factory-in-uttar-pradeshs-kaushambi-district/article71410423.ece",
-     "summary": "Five killed in explosion at firecracker factory in UP’s Kaushambi district: DM Amit Pal",
-     "published": "2026-08-31T11:58:09+00:00",
+     "title": "Nine seed storage warehouses to be set up across Tamil Nadu at ₹11.64 crore, Minister tells Assembly",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/nine-seed-storage-warehouses-to-be-set-up-across-tamil-nadu-at-1164-crore-minister-tells-assembly/article71410600.ece",
+     "summary": "The facilities are intended to preserve the quality, germination capacity and vigour of seeds procured from farmers",
+     "published": "2026-08-31T12:23:08+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yzf8f6/article71410474.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000111B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/4rl6fu/article71410814.ece/alternates/LANDSCAPE_1200/T.N.-AgriculturG1JGBVDM1.3.jpg.jpg",
      "licence": "linkout",
-     "id": "539b41be897d",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Conditional environmental clearance for ₹8,707-crore Thiruvananthapuram airport expansion project",
-     "url": "https://www.thehindu.com/news/national/kerala/conditional-environmental-clearance-for-8707-crore-thiruvananthapuram-airport-expansion-project/article71410154.ece",
-     "summary": "The proposed expansion is designed to increase the airport’s passenger-handling capacity to 27 million passengers per annum (MPPA) and its cargo-handling capacity to 0.42 million tonnes per annum (MTPA)",
-     "published": "2026-08-31T11:57:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t0j39v/article71410378.ece/alternates/LANDSCAPE_1200/West-Asia-conflGMLFNMG1S.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "89ea577535bf",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "c89533e9b7e0",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "₹8,707 -crore Thiruvananthapuram airport expansio",
-      "27 million passengers per annum (MPPA)",
-      "0.42 million tonnes per annum (MTPA)"
+      "₹11.64 crore , Minister tells Assembly"
      ]
     },
     {
-     "title": "Supreme Court stays proceedings against gym owner ‘Mohammad’ Deepak Kumar in rioting case",
-     "url": "https://www.thehindu.com/news/national/supreme-court-stays-proceedings-against-gym-owner-mohammad-deepak-kumar-in-rioting-case/article71409954.ece",
-     "summary": "The apex court also stays a March 20 order of the Uttarakhand High Court, restraining Kumar from making social media posts concerning the incident and the case",
-     "published": "2026-08-31T11:57:09+00:00",
+     "title": "Congress Govt people-centric in 1000 days: TPCC chief",
+     "url": "https://www.thehindu.com/news/national/telangana/congress-govt-was-people-centric-in-1000-days-of-rule-tpcc-chief/article71410252.ece",
+     "summary": "",
+     "published": "2026-08-31T12:14:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hwvrks/article71410657.ece/alternates/LANDSCAPE_1200/KOTDWAR%20SPOTLIGHT_8.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/kpotk6/article71410328.ece/alternates/LANDSCAPE_1200/IMG_HYD-CM-Sonia_1_1_SCCRIGU1.jpg",
      "licence": "linkout",
-     "id": "82bbde4a6381",
+     "id": "8e5207857314",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "20 order of the Uttarakhand High"
+      "1000 days : TPCC chief"
      ]
     },
     {
-     "title": "Left organisations in Keralam object to higher education council’s FYUGP review proposals",
-     "url": "https://www.thehindu.com/news/national/kerala/left-organisations-in-keralam-object-to-higher-education-councils-fyugp-review-proposals/article71409964.ece",
-     "summary": "They urge the council to retain Four-Year Undergraduate Programme’s existing academic framework and avoid changes that could conflict with Outcome-Based Education (OBE), university autonomy and statutory provisions that govern FYUGP",
-     "published": "2026-08-31T11:55:12+00:00",
+     "title": "Credit war over Veligonda: Jagan says his father built it, Lokesh says his did",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/credit-war-over-veligonda-jagan-says-his-father-built-it-lokesh-says-his-did/article71410370.ece",
+     "summary": "Jagan Mohan Reddy said 20 of the twin tunnels’ 37.5 km were dug in his father’s tenure and asked why water had not reached Nallamala Sagar for 26 months; the Nara Lokesh shared visuals of the March 2024 event, calling it an inauguration without water",
+     "published": "2026-08-31T12:11:53+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/65x6q2/article71410702.ece/alternates/LANDSCAPE_1200/IMG_iStock-155033354_2_1_8UG7LDP9.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/uq27xt/article71385206.ece/alternates/LANDSCAPE_1200/9604_12_8_2026_18_31_40_1_IMG_20260812_WA0022.JPG",
      "licence": "linkout",
-     "id": "7fb8a5ccae05",
+     "id": "eb1427dc53f5",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "37.5 km were dug in his",
+      "26 months ; the Nara Lokesh"
+     ]
+    },
+    {
+     "title": "SC panel asked to consider rehabilitation of nine Assam elephants held in Tamil Nadu",
+     "url": "https://www.thehindu.com/news/national/assam/sc-panel-asked-to-consider-rehabilitation-of-nine-assam-elephants-held-in-tamil-nadu/article71410614.ece",
+     "summary": "The Gauhati High Court directs the Tamil Nadu government to carry out monthly inspections at facilities housing the elephants",
+     "published": "2026-08-31T12:04:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6tcczp/article71410731.ece/alternates/LANDSCAPE_1200/IMG_BL16_States_Gauhati__2_1_M7ASNFQA.jpg",
+     "licence": "linkout",
+     "id": "cc1e5d95d45e",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "People ready to question the behaviour of legislators, says Speaker JCD Prabhakar",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/people-ready-to-question-the-behaviour-of-legislators-says-speaker-jcd-prabhakar/article71410736.ece",
+     "summary": "He calls for self-restraint and self-regulation among members of the House as its proceedings are being broadcast live",
+     "published": "2026-08-31T12:01:57+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/gkv7ay/article71410742.ece/alternates/LANDSCAPE_1200/IMG_DSC_2775_2_1_0RGEJSQ2.jpg",
+     "licence": "linkout",
+     "id": "c3a8da2bee4e",
      "category": "general",
      "category_label": "General"
     },
@@ -926,22 +1029,6 @@
      "id": "723347f12081",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Today News Headlines for School Assembly, August 31, 2026: Nepal’s death toll crosses 900",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPYTdXQ3BZeXR0bU9Id2xGeWZKRGpBSDR5UmJxbUtKMkVDMUFTTVBkT19ZRG1zaG1YZUItaEVxdGQ1UkR1eFlZX01qd2NBSGZuNEdWV2dWT05kcmowWmFJMjNjazUtaGY1cG5hWkZjcWVmMEhabWRWUnUzZ1RCcFZRM3NRZmMyNEo3N2w2b0lJODVkQnNMeERGTFJSYWh0Zmg3RHNOQU1rYmM1TTJsREtTRWpTSzNPbnYtNUg1Y2NBRjdWV09hZmJxel83LVhoN1QtVHRkWi1JaWsxSkJoMDlpeG9IT3ZMcWNQT0dkYkdPeGNPLUJYN0FqcnhfNTJxSkR2NHRsQ0hiZU8wcFkwLTJhdUJTMNIBmgJBVV95cUxQOG1Gb1VzWldIWUl5MVdOdXZ1Y3N1YTNXbThoMDREVnVhYTZEN04wc0loZFpzVnFZS1dlUEtjY1plQnFBUDUyMUdJdkdJSmpkS1FYUUxTYWJoNGc4SFFEY01VQXJTa3NVRVBBc3VQbl9BZFRvMjlvOWdqQ3BNbDdHV0JTWWZuN1J4VHBtVHdtMXFkeGpSZlBGZUoyTDFURHpxd3g3RU5LUVN2Q2hqdDUxSkRuNko0SFk3WFRxMGNHVXVWS1pfbFg5d3pQUGY5S1JoVWotNFJXTUVPdTVaZlQyMF81RFhRQkttWkZHN3RrQnlodWpIZXJvejFvT09vMXBYdTlDRlZuUXlVVll1bmRWeHk1azdhamdpYkE?oc=5",
-     "summary": "Today News Headlines for School Assembly, August 31, 2026: Nepal’s death toll crosses 900 The Indian Express",
-     "published": "2026-08-30T12:48:26+00:00",
-     "source": "The Indian Express",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "fad850eb63b7",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "900. Today News Headlines for School"
-     ]
     }
    ]
   },
@@ -951,6 +1038,67 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "RBI imposes monetary penalty on Jai Bhawani Sahakari Bank Ltd., Pune",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63483",
+     "summary": "",
+     "published": "2026-08-31T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "bdc54a4d3649",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "RBI"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "RBI imposes monetary penalty on The Mumbai District Central Co-operative Bank Ltd., Maharashtra",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63482",
+     "summary": "",
+     "published": "2026-08-31T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "e6525e5d19f4",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "RBI"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Lending and Deposit Rates of Scheduled Commercial Banks – August 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63481",
+     "summary": "",
+     "published": "2026-08-31T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "c9e53a1e39b7",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Monthly Data on India’s International Trade in Services for the Month of July 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63480",
@@ -987,65 +1135,6 @@
        "BSR"
       ],
       "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Quarterly Basic Statistical Return (BSR)-1 on Credit by Scheduled Commercial Banks – June 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63477",
-     "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "4166f2401652",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [
-       "BSR"
-      ],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Sectoral Deployment of Bank Credit – July 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63478",
-     "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "36134b59b9fb",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Survey of Foreign Liabilities and Assets of Mutual Funds – 2025-26",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63479",
-     "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "008355e05d78",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
      },
      "category": "general",
      "category_label": "General"
@@ -1097,6 +1186,186 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Nepal floods: Reporter’s diary, August 27, 2026",
+     "url": "https://globalvoices.org/2026/08/31/nepal-floods-reporters-diary-august-27-2026/",
+     "summary": "A photo-based report captures Nepal’s devastating avalanche-floods through loss, survival, and absence, as families search for loved ones, homes, and certainty after torrents of mud transformed lives in moments.",
+     "published": "2026-08-31T12:16:04+00:00",
+     "source": "Global Voices",
+     "byline": "Nepali Times",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/08/2026-Central-Nepal-flood-36-800x450.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "Nepali Times’ photographer finds his camera inadequate to capture the true scale of the tragedy"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "School ID Card of Biswas Tamang from Rasuwa. Image by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "This story, written by photojournalist Suman Nepali, was originally published in Nepali Times on August 28, 2026. A slightly edited version is republished on Global Voices as part of a content-sharing agreement."
+      },
+      {
+       "kind": "p",
+       "text": "They were hiding in the forest above the river. Bruised and in total shock. Five-year-old Kirti Tamang watched as her mother and sister were swept away by the angry flood. She was flung onto the slope and survived, and was later found in the forest with two other children."
+      },
+      {
+       "kind": "p",
+       "text": "Kirti has not been able to speak. Another boy from her school, Biswas Tamang, is even more badly bruised, his school ID around his neck. His schoolteachers, who found him, use the information on his ID to get ahold of his mother, who lives in a neighbouring district and had sent her child to attend an English-medium public school in Betrawati."
+      },
+      {
+       "kind": "p",
+       "text": "I sat looking at these scenes. The emotion swept over me like the flood itself. I did not take my camera out of its case; it seemed disrespectful. All I could do was bear witness and share in the pain and sorrow."
+      },
+      {
+       "kind": "p",
+       "text": "Kirti Tamang’s injuries. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "We had left Kathmandu at 4:00 a.m. on our motorbikes, and it was dawn when we got to the top of the pass at Tokha. We stopped for a quick tea along the way, and moved on."
+      },
+      {
+       "kind": "p",
+       "text": "The first signs of death and destruction were soon visible: scars where the river had engulfed entire towns 24 hours before. Edges of forests flattened with muddy trees unbelievably high on either side of the river. Debris dangled from the roofs of buildings three storeys up that still stood. Overturned and half-buried tipper trucks."
+      },
+      {
+       "kind": "p",
+       "text": "Trisuli Bazar was gone. Devighat was gone. The road further up to the Chinese border was gone. We pushed our bikes through forest trails to reach Betrawati at 1:00 p.m. A distance of 10 kilometers I had done before in a few minutes took five hours."
+      },
+      {
+       "kind": "p",
+       "text": "We fell off our bike many times as it slid in the sludge. All along the way, there were streams of people walking down, peering at the muddy banks of the river for signs of relatives carried away by the flood. There were some Chinese people, looking for co-workers from a hydropower plant."
+      },
+      {
+       "kind": "p",
+       "text": "Photo of a clock tower by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "Photo showing mud on the left and houses and green earth on the left. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "Buildings engulfed in mud, Nepal. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "Then we saw the bodies. I sat in the shade of a tree, and could not lift my camera. There was a young woman, perhaps 35, covered in sediment outside the walls of what used to be someone’s home."
+      },
+      {
+       "kind": "p",
+       "text": "Her body had been hastily covered. She had painted toenails."
+      },
+      {
+       "kind": "p",
+       "text": "People milled around to see if she was someone they knew. They covered their noses and mouths with shawls, shook their heads and moved on down."
+      },
+      {
+       "kind": "p",
+       "text": "Finally, a man came. He was her husband. He collapsed silently on the dirt, and was helped by those accompanying him."
+      },
+      {
+       "kind": "p",
+       "text": "Riverbed covered in mud, house on the side. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "Feet of the women with painted toe nails who died in the floods. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "Photo of destructed house, by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "h",
+       "text": "Collossal calamity"
+      },
+      {
+       "kind": "p",
+       "text": "This loss is colossal. It is a national calamity, sure. But these are also tragedies for thousands of families. You had to be really lucky to survive, or fit enough to outclimb the raging brown waters."
+      },
+      {
+       "kind": "p",
+       "text": "Even the ones who can find the bodies of their relatives and friends are lucky; most cannot trace family members they shared tea with that morning. Or sons, daughters, sisters, or parents they held on to until the torrent of mud took them away."
+      },
+      {
+       "kind": "p",
+       "text": "This catastrophe is too big even for the most efficient and well-resourced post-disaster relief organisation to tackle. And even if food arrives and temporary shelters are set up soon, how will so many people ever come to terms with what they have witnessed: the loss of family members, homes, fields, livestock, and property?"
+      },
+      {
+       "kind": "p",
+       "text": "I covered the 2015 earthquake, but this tragedy is on a different dimension. I told my editor I could not do this as a journalistic assignment; it had to be deeper than that, a situation where what I saw changed me and my outlook on life itself. The impermanence, the feeling of how the universe can vanish in an instant."
+      },
+      {
+       "kind": "p",
+       "text": "The desk asked me to take pictures, interview people, find out their names, ages and how they felt. I could not bring myself to ask those questions. I did finally muster the courage to click some shots with a long lens."
+      },
+      {
+       "kind": "p",
+       "text": "Two women in the foreground and others survey the mud, after the flood. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "People look on at the mud in the aftermath of the flood. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "“We had no warning, no one called from up the river to tell us a flood was coming,” said one woman survivor to no one in particular. “One second it was up there, and the next it was here. It moved so fast.”"
+      },
+      {
+       "kind": "p",
+       "text": "One thing that struck me was that in all the villages we passed, there were mostly women, children and the elderly. There were very few men — proof of the massive outmigration of young men to the cities and abroad. Some of them are returning to find their homes and families gone."
+      },
+      {
+       "kind": "p",
+       "text": "My guess is that most of those who perished here will be women. And children getting ready to go to school on Wednesday morning."
+      },
+      {
+       "kind": "p",
+       "text": "A Ward Chair came around making a list of survivors. The dead will be subtracted from the list of the living. He had also lost colleagues."
+      },
+      {
+       "kind": "p",
+       "text": "List of survivors. Photo by Suman Nepali of Nepali Times. Used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "A lone house standing amid the mud. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "Army trucks arrived, bringing some supplies; helicopters flew back and forth all day long in the deep blue sky. Amidst all this, there were pilgrims taking the high road to Dhunche on their way to Gosainkunda for the full moon Janai Purnima festival on Friday. Life, it seems, goes on."
+      },
+      {
+       "kind": "p",
+       "text": "It would soon be dark, so we gunned our bikes to head back to Kathmandu. Local volunteers were preparing to set off on their motorbike to finally reunite a distraught Biswas with his mother. On the way, we saw survivors trying to find where their homes used to be."
+      },
+      {
+       "kind": "p",
+       "text": "People crossing over the mud. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "A ground of people on higher ground look on at the land covered in mud. Photo by Suman Nepali of Nepali Times, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "Man putting a young boy on a motorcycle. Another motorcyclist is in the background. Photo by Suman Nepali of Nepali Times, used with permission."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "b2f3ab4b408a",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     },
     {
      "title": "How Croatian communities are taking on planned poultry slaughterhouses",
@@ -1476,6 +1745,38 @@
      ]
     },
     {
+     "title": "NPS schemes get a new classification: What PFRDA's revised framework means for your investment choices",
+     "url": "https://www.livemint.com/money/personal-finance/nps-schemes-get-a-new-classification-what-pfrdas-revised-framework-means-for-your-investment-choices-11788171304290.html",
+     "summary": "PFRDA has revamped the classification and display of NPS schemes, with MSF schemes grouped by equity exposure. The framework aims to make scheme comparison easier for subscribers, with clearer information on risk, returns and other key parameters.",
+     "published": "2026-08-31T12:13:43+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/msd_1788175221957_1788175238432_d72584ca-629f-4c39-b2be-1b4059dbe17b.png",
+     "licence": "linkout",
+     "id": "5ec3a32125b7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "DA update: Himachal CM announces welfare measures, additional ₹20,000 in salary arrears for retirees. Key things to know",
+     "url": "https://www.livemint.com/money/personal-finance/da-pay-due-course-himachal-cm-sukhu-welfare-measure-additional-rs-20000-over-salary-arrear-retirees-financial-assistance-11788173710451.html",
+     "summary": "Himachal CM says state committed to welfare of employees and pensioners, assures that DA payment will come in due course. Sukhu also announced an additional ₹20,000 above salary arrears for retirees, and ₹3,500 each as financial assistance for 800 fishermen.&nbsp;",
+     "published": "2026-08-31T12:11:09+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/2-0-1440388023-iStock-1130639007-0_1679745245390_1788177366500_c71129c2-cc23-48a7-a2fa-daecb9e10c1c.jpg",
+     "licence": "linkout",
+     "id": "bd2697da3561",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "₹20,000  in salary arrears",
+      "₹20,000  above salary arrears",
+      "₹3,500  each as financial assistance",
+      "800 fishermen"
+     ]
+    },
+    {
      "title": "Motor insurance: Why Kiwi is rethinking the no-claim bonus",
      "url": "https://www.livemint.com/money/personal-finance/kiwi-general-insurance-super-ncb-car-insurance-11788157726836.html",
      "summary": "Kiwi General Insurance’s Super NCB feature lets policyholders build a bonus of up to 90% and reduces it by one level instead of wiping it out after a claim.",
@@ -1489,19 +1790,6 @@
      "category_label": "General"
     },
     {
-     "title": "Adding your wife to property deed? Know the tax and Benami risks before signing any papers",
-     "url": "https://www.livemint.com/money/personal-finance/adding-your-wife-to-property-deed-know-the-tax-and-benami-risks-before-signing-any-papers-11788176137390.html",
-     "summary": "Adding names to property documents is common in India, with tax authorities scrutinising financial capacity. Parties must clarify arrangements such as ownership, gifts, or loans to avoid compliance issues.&nbsp;",
-     "published": "2026-08-31T11:40:30+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Wife_deed_1788176192464_1788176201246_d7918905-9aef-49a7-a958-fdafe9fef8dd.jpg",
-     "licence": "linkout",
-     "id": "f407c87b6fca",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
      "title": "8th pay commission begins 2-day Jaipur meet today — What's likely on agenda at talks with employee unions, stakeholders?",
      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-2-days-jaipur-meet-likely-agenda-employees-unions-stakeholders-fitment-factor-basic-pay-salary-da-hra-11788169766076.html",
      "summary": "The 8th pay commission today began its two-day state visit to Rajasthan, with official meetings in Jaipur from 31 August to 1 September. Talks will include consultations with employee groups and stakeholders over a number of key issues.",
@@ -1513,39 +1801,6 @@
      "id": "6354b42a7462",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "NPS changes 2026: PFRDA asks pension funds to rename and restructure MSF schemes within 30 days; check new rules",
-     "url": "https://www.livemint.com/money/personal-finance/nps-changes-2026-pfrda-asks-pension-funds-to-rename-and-restructure-msf-schemes-within-30-days-check-new-rules-11788171200062.html",
-     "summary": "PFRDA has directed pension funds to rename and restructure existing NPS Multiple Scheme Framework (MSF) schemes to align with its new standardised classification framework. Pension funds have 30 days to comply.",
-     "published": "2026-08-31T10:21:12+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_d3j8ctd3j8ctd3j8_1788171634245_1788171649605_5539e269-eacb-4e22-8505-eb910752a96a.png",
-     "licence": "linkout",
-     "id": "e3e77a5d26e2",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "30 days ; check new rules",
-      "30 days to comply"
-     ]
-    },
-    {
-     "title": "7 factors to consider before closing education loan early: From penalty-free prepayment to emergency fund",
-     "url": "https://www.livemint.com/money/personal-finance/7-factors-to-consider-before-closing-education-loan-early-from-penalty-free-prepayment-to-emergency-fund-11788166685381.html",
-     "summary": "Loan terms, interest structure, and lenders are crucial in deciding early closure of education loans. Here are 7 factors to consider before closing education loan early.",
-     "published": "2026-08-31T09:55:57+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/kk_1788169941166_1788169941292_e462c553-32d7-450d-b5ff-0c45a35b2489.jpg",
-     "licence": "linkout",
-     "id": "ed5824c07af7",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "7 factors to consider before closing"
-     ]
     }
    ]
   },
@@ -1616,27 +1871,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "Duleep Trophy Semi-final 1 Live Score: East Zone Out For 266 After Vaibhav Sooryavanshi's Blitz",
-     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
-     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Live: Harsh Dubey took four wickets as Central Zone bowled out East Zone for 266 on Day 2 of the Duleep Trophy semi-final in Bengaluru.",
-     "published": "2026-08-31T10:09:00+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ui8i9prc_vs_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b5192e2072f6",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "1 Live Score: East Zone Out",
-      "266 After Vaibhav Sooryavanshi's Blitz"
-     ]
-    },
-    {
      "title": "'Need To Check Our Batting Unit': Shafali Verma After India's Collapse vs Thailand At Women's Asia Cup",
      "url": "https://sports.ndtv.com/cricket/need-to-check-our-batting-unit-shafali-verma-after-indias-collapse-vs-thailand-at-womens-asia-cup-11980456#publisher=newsstand",
      "summary": "India opener Shafali Verma said the team's batting unit will have to assess its shortcomings on turners despite opening with a facile 94-run victory in the Women's Asia Cup opener in Dubai.",
-     "published": "2026-08-31T09:42:52+00:00",
+     "published": "2026-08-31T11:55:36+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-08/p4ehgf98_shafali-verma-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -1646,43 +1884,64 @@
      "category_label": "General"
     },
     {
-     "title": "\"Little Variety To Trouble Batters\": Sunil Gavaskar's Blunt Take On India Debutant",
-     "url": "https://sports.ndtv.com/cricket/little-variety-to-trouble-batters-sunil-gavaskars-blunt-take-on-india-debutant-11977995#publisher=newsstand",
-     "summary": "Sunil Gavaskar said the player could have been nervous as it was his first game for the country.",
-     "published": "2026-08-31T09:39:02+00:00",
+     "title": "Kairav Roberson, Rehan Khan Rasheed Win Titles At IAME Series India 2026",
+     "url": "https://sports.ndtv.com/othersports/kairav-roberson-rehan-khan-rasheed-win-titles-at-iame-series-india-2026-11982086#publisher=newsstand",
+     "summary": "The inaugural IAME Series India 2026 concluded at the floodlit Madras International Karting Arena on Saturday",
+     "published": "2026-08-31T11:54:55+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/t0ckr99_sunil-gavaskar-getty_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/7h36b94k_shiv-neel_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "1a825ed1942d",
+     "id": "ef495b8bc909",
+     "category": "weather",
+     "category_label": "Weather & disaster"
+    },
+    {
+     "title": "\"Pakistan's Performance A Concern For Everyone\": Star Makes Big Admission",
+     "url": "https://sports.ndtv.com/cricket/pakistans-performance-a-concern-for-everyone-star-makes-big-admission-11981910#publisher=newsstand",
+     "summary": "Once an Asian side that challenged all opponents away from home, Pakistan dominated the English conditions, especially in the late 1980s and the 1990s.",
+     "published": "2026-08-31T11:49:20+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/jp00jnpk_pakistan-afp_625x300_31_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "e3d281f5d83d",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "India And Bangladesh To Play White-Ball Series? BCB President Gives Big Update",
-     "url": "https://sports.ndtv.com/cricket/india-and-bangladesh-to-play-white-ball-series-bcb-president-gives-big-upda-11981004#publisher=newsstand",
-     "summary": "The three one-day internationals and three T20 matches in Bangladesh were originally planned for August 2025 but then political relations soured between the two countries.",
-     "published": "2026-08-31T09:11:54+00:00",
+     "title": "BCB Chief Drops Big Update On India's Long-Pending White-Ball Tour Of Bangladesh",
+     "url": "https://sports.ndtv.com/cricket/bcb-chief-drops-big-update-on-indias-long-pending-white-ball-tour-of-bangladesh-11981778#publisher=newsstand",
+     "summary": "BCB has expressed optimism that India will tour Bangladesh for a six-match white-ball series during the 2026-27 season.",
+     "published": "2026-08-31T11:29:26+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/oomr33g4_ind-vs-ban_625x300_31_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/c8lkt6jo_virat-kohli-afp_625x300_09_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6c13946db2b9",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "a12eece75b8b",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "27 season"
+     ]
     },
     {
-     "title": "Venus Williams Falls At First Hurdle In US Open, Loses To Sofia Kenin",
-     "url": "https://sports.ndtv.com/tennis/venus-williams-falls-at-first-hurdle-in-us-open-11980605#publisher=newsstand",
-     "summary": "Venus Williams tumbled out of the US Open first round early Monday, the veteran US tennis icon losing in straight sets to compatriot Sofia Kenin.",
-     "published": "2026-08-31T09:04:05+00:00",
+     "title": "ETPL Continues To Capture Global Attention As Trent Boult, Mitchell Santner, Anrich Nortje Rewrite T20 Career Bests",
+     "url": "https://sports.ndtv.com/cricket/etpl-continues-to-capture-global-attention-as-trent-boult-mitchell-santner-anrich-nortje-rewrite-t20-career-bests-11981905#publisher=newsstand",
+     "summary": "New Zealand's Trent Boult set the tone with 5/24 against Glasgow Cosmic on August 27, surpassing his previous best T20 figures of 4/13, recorded against Sri Lanka in 2022",
+     "published": "2026-08-31T11:17:23+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/e8uorom4_venus-williams-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/b19mgulc_trent-boult_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "38a4ec858f78",
+     "id": "720d28d6ab50",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "24 against Glasgow Cosmic on August",
+      "27, surpassing his previous best T20",
+      "13, recorded against Sri Lanka"
+     ]
     }
    ]
   },
