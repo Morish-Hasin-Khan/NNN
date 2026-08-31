@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T15:34:06.425012+00:00",
+ "generated_at": "2026-08-31T16:04:41.404865+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -79,20 +79,21 @@
    "value": 78567.0,
    "change": -1691.0,
    "changePct": -2.11,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
-  "Odisha Shefeen",
-  "Cyprus",
+  "Overseas Kerala",
+  "Israeli Palestinians",
   "Jazeera English",
   "News",
   "Delhi",
   "Maharashtra DYFI",
-  "Hyderabad",
-  "Foundation Khammam",
-  "Trump",
-  "Greece Israel"
+  "Stakeholders Kochi",
+  "Nepal Minister",
+  "Trump Iran",
+  "Once"
  ],
  "sections": [
   {
@@ -102,18 +103,32 @@
    "upsc": false,
    "items": [
     {
-     "title": "Odisha cadre IPS officer Shefeen Ahamed K. dies",
-     "url": "https://www.thehindu.com/news/national/kerala/odisha-cadre-ips-officer-shefeen-ahamed-k-dies/article71411343.ece",
-     "summary": "He was serving as Inspector General of Police, CID Crime Branch and Cybercrime, Odisha",
-     "published": "2026-08-31T15:20:02+00:00",
+     "title": "Overseas drug links under Kerala Police scanner, says IG",
+     "url": "https://www.thehindu.com/news/national/kerala/overseas-drug-links-under-kerala-police-scanner-says-ig/article71410501.ece",
+     "summary": "Inspector General (IG) Putta Vimaladitya says investigators are examining suspected international supply chains, with Afghanistan, Oman, and Thailand figuring among countries whose links are being verified",
+     "published": "2026-08-31T15:46:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/rhoxb/article71411306.ece/alternates/LANDSCAPE_1200/Shefeen.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "0494218dc7a7",
+     "id": "4d263fb0f4ed",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National Hotlines"
+    },
+    {
+     "title": "Israeli strikes kill at least five Palestinians in Gaza City",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
+     "summary": "At least five Palestinians have been killed in two Israeli attacks in Gaza City.",
+     "published": "2026-08-31T15:20:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-16.15.56-1788189493.png?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "a56d881faf4f",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
     },
     {
      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
@@ -133,21 +148,18 @@
      ]
     },
     {
-     "title": "11 Killed, Several Injured After Explosion In UP Firecracker Factory",
-     "url": "https://www.ndtv.com/india-news/24-injured-15-feared-trapped-after-explosion-in-up-firecracker-factory-11981906#publisher=newsstand",
-     "summary": "The blast occurred in the Pipri police station area near the Manori power house, following which police, fire brigade and Air Force personnel stationed nearby, launched a joint rescue operation, officials said.",
-     "published": "2026-08-31T14:14:22+00:00",
-     "source": "NDTV",
+     "title": "Tata Advanced Systems, Javelin Joint Venture sign pact for co-production of anti-tank missiles in India",
+     "url": "https://www.thehindu.com/news/national/tata-advanced-systems-javelin-joint-venture-sign-pact-for-co-production-of-anti-tank-missiles-in-india/article71409877.ece",
+     "summary": "The agreement comes days after the Indian Army signed a Letter of Offer and Acceptance with the United States for the procurement of the Javelin anti-tank guided missile system through the Foreign Military Sales route under emergency procurement powers.",
+     "published": "2026-08-31T15:56:04+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ga1u0318_up_625x300_31_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/4lqkdd/article71412107.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
      "licence": "linkout",
-     "id": "069314354ed5",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "11 Killed , Several Injured"
-     ]
+     "id": "dcbe10b63c47",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News"
     },
     {
      "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
@@ -181,90 +193,51 @@
      "from_section": "National News"
     },
     {
-     "title": "War and heat: Why are wheat prices soaring?",
-     "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss",
-     "summary": "Russia and Ukraine have stepped up attacks on their respective grain terminals in the Black Sea.",
-     "published": "2026-08-31T14:42:40+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a957094a9-1788178580.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "c8cbfa40be92",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
-     "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times",
-     "published": "2026-08-31T12:41:48+00:00",
-     "source": "The Economic Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "299131fb2594",
-     "also": [
-      {
-       "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy",
-       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPekM5R2QyTEVHMlBreU9taldkX3E1TU1sY2FTbkpEcWhHUDktdzhKVlpNSHB1cFNrdmxPNWRDckdRNDVVR19CSHhwSmo3WnpIczdwODhuTFpMcTZxZ2tETDRzS1ZRM1JFbXJUR2x5SHg3X3E5NVVOUnJuT0FyZ2RRbGVxZXZ0Z0dLQzVOd2JTZXZxWEpGZ1BVMWY0RmNCLW0wSFNjdmZLZEdacnpjY1ctSjdLZXRUMU1yLUZZbUhiaDNvd0N2ZXVDXzY4NHFsSklOQ1hGZnROdXhYRC1oeTNySzdyQTBsNjVrTjlfd203X1lGdy12T2V2c2h1Y0RDem5QbkZ0bTdkaUtMb3hPUWREb2x5Zlo1X2xCOHN5SnB6SG8tS3Jja1VJY2Vva296SXBCRWNSa3A2bWRreTJRX2N3dkNzNlFhSFZyQXRtNTdWTC0tWnRBd1NBaVVfQTFFUdIB5AJBVV95cUxPTFR3d3FVYjNYMHgwOVIwNWtGZHRqU0E1YXRmMWpsQ2hoSVh4ZjZ1N3ptakVJcHRjMm1ES2tVdUVueWxjTmN4T2s4U1NNLTU5UDcwc2FlLW9rdkhLS2RLVU5fOWZfYk1BMF9udjA3Tm80bmx5eXhOT3ItSERlVHlYLVRjNzhkR2xSc1hBa055MWVzS0JSNm1RaHV1WkJIUE9LeFkxaWQ0Z3pMa0wyUjlvS2pFLWs1Vlk1VUt0dkRzdW9iZjg4djA0NXcwVWFhODJVNEF2LXlqbmFOTU4zdG40MjZSRG55Sjc1S1JHYUdKeERsWTZOMjdaVWRtTG5EZk1LVEhVUW9HeGs4Z1FUTWpreUZud3ZNVzlRVUVTdXFnNFFZUXdCZ2N3MlpqUDNCLXVZN0VIVXRUZVFrZ3FraGtLcHF3cDdidWRFOGw5NWtFWm51Y2xrVnR4R3c2ZVBCbTZvd0V2UQ?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy The Indian Express"
-      },
-      {
-       "source": "NDTV Sports",
-       "title": "Duleep Trophy Semi-final 1 Highlights: Vaibhav Sooryavanshi Slams 92, East Zone Locked In Intense Battle With Central Zone",
-       "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
-       "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Highlights:Vaibhav Sooryavanshi underlined his red-ball credentials with a 92 full of fire and brimstone, but East Zone failed to take an innings lead over Central…"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "YSRCP will sweep local body polls in Srikakulam dist.: ex-Minister",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-will-sweep-local-body-polls-in-srikakulam-dist-ex-minister/article71409532.ece",
+     "title": "220 T.N. pilgrims in Nepal safe, no details about 84 persons: Minister",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/220-tn-pilgrims-in-nepal-safe-no-details-about-84-persons-minister/article71412131.ece",
      "summary": "",
-     "published": "2026-08-31T15:26:07+00:00",
+     "published": "2026-08-31T15:56:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ikz3d5/article71411944.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_19_13_29_1_IMG_20260831_WA0038.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "6b1151e73b31",
+     "id": "eee161253472",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "84 persons : Minister"
+     ]
+    },
+    {
+     "title": "Bhu Bharati resurvey aims to settle long pending land disputes, says Minister",
+     "url": "https://www.thehindu.com/news/national/telangana/bhu-bharati-resurvey-aims-to-settle-long-pending-land-disputes-says-minister/article71411707.ece",
+     "summary": "",
+     "published": "2026-08-31T15:54:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "0c744f6287ca",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Keralam has to focus on high-tech industries to reverse migration, says Vice-President",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-has-to-focus-on-high-tech-industries-to-reverse-migration-says-vice-president/article71411030.ece",
-     "summary": "“In Kerala, land is a scarce commodity. But you have to develop the State with more opportunities. Traditional industry may not be possible because of the land cost”",
-     "published": "2026-08-31T15:21:56+00:00",
+     "title": "Tamil Nadu government to implement State-level plan to prevent drug abuse",
+     "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-government-to-implement-state-level-plan-to-prevent-drug-abuse/article71410897.ece",
+     "summary": "It will be implemented at a cost ₹3.80 crore to prevent drug abuse among children and youth and provide rehabilitation and social integration support to the victims, says Minister for Social Welfare and Women Empowerment K. Jegadeshwari",
+     "published": "2026-08-31T15:52:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6mbuu1/article71411532.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000367B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/n5h4yu/article71411325.ece/alternates/LANDSCAPE_1200/Audio-clipping-G8AGAFCE9.3.jpg.jpg",
      "licence": "linkout",
-     "id": "15504fea3e1f",
+     "id": "6d9892e25bd9",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Foundation stone laid for ₹12 crore BT road and central lighting works in Khammam",
-     "url": "https://www.thehindu.com/news/national/telangana/foundation-stone-laid-for-12-crore-bt-road-and-central-lighting-works-in-khammam/article71411832.ece",
-     "summary": "",
-     "published": "2026-08-31T15:26:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "e467fb44e785",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
-      "₹12 crore BT road and central"
+      "₹3.80 crore to prevent drug abuse"
      ]
     },
     {
@@ -298,6 +271,23 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
+    },
+    {
+     "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
+     "url": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
+     "summary": "More than 20 organisations have written a joint letter to John Swinney urging him to scrap his plan for a legal cap on some food and drink prices.",
+     "published": "2026-08-31T11:56:50+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8867/live/3df65690-a510-11f1-89d5-dd5482a9fcc2.jpg",
+     "licence": "linkout",
+     "id": "685eb9897e00",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "20 organisations have written a joint"
+     ]
     },
     {
      "title": "8th Pay Commission Arrears: Check how much Level 4-7 employees may receive; fitment factor-wise calculation",
@@ -460,20 +450,6 @@
      "from_section": "Technology"
     },
     {
-     "title": "INL criticises IUML’s silence over Vande Mataram controversy",
-     "url": "https://www.thehindu.com/news/national/kerala/inl-criticises-iumls-silence-over-vande-mataram-controversy/article71410733.ece",
-     "summary": "INL State general secretary Kasim Irikkur alleges that Keralam is being saffronised with the silence of the Muslim League leadership.",
-     "published": "2026-08-31T15:21:57+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "94f34f6970da",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "National News"
-    },
-    {
      "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2 Highlights: Tilak Varma's Unbeaten Ton Gives South Zone Bragging Rights",
      "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-day-2-live-updates-11979986#publisher=newsstand",
      "summary": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2, Highlights: Captain Tilak Varma stood tall with a patient unbeaten 106 while Shreyas Gopal made 87 to give South Zone a vital first-innings lead",
@@ -510,6 +486,20 @@
       "92, East Zone Locked In Intense",
       "92 full of fire and brimstone"
      ]
+    },
+    {
+     "title": "Pakistan Star Faked Injury To Not Bat Against England Despite Team In Danger? Report Says He Is Repeat Offender",
+     "url": "https://sports.ndtv.com/cricket/pakistan-star-imam-ul-haq-faked-injury-to-not-bat-against-england-despite-team-in-danger-report-says-he-is-repeat-offender-11982946#publisher=newsstand",
+     "summary": "Trouble is brewing in Pakistan cricket. Opener Imam-ul-Haq could face strong disciplinary action after the Pakistan Cricket Board decided to conduct a probe into his left calf muscle injury",
+     "published": "2026-08-31T14:25:32+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/q5dvc4pk_imamulhaq_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "bf4b6f55b6bf",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
     }
    ]
   },
@@ -525,7 +515,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-31T15:33:54.673970+00:00",
+     "published": "2026-08-31T16:04:28.183459+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -536,7 +526,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-31T15:33:54.673979+00:00",
+     "published": "2026-08-31T16:04:28.183481+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -547,7 +537,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-31T15:33:54.673982+00:00",
+     "published": "2026-08-31T16:04:28.183485+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -558,7 +548,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-31T15:33:54.673987+00:00",
+     "published": "2026-08-31T16:04:28.183488+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -569,7 +559,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-31T15:33:54.673992+00:00",
+     "published": "2026-08-31T16:04:28.183491+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -580,7 +570,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-31T15:33:54.673996+00:00",
+     "published": "2026-08-31T16:04:28.183494+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -645,57 +635,60 @@
    "upsc": false,
    "items": [
     {
-     "title": "Hyderabad eyes global knowledge hub status with top universities",
-     "url": "https://www.thehindu.com/news/national/telangana/hyderabad-eyes-global-knowledge-hub-status-with-top-universities/article71411857.ece",
-     "summary": "",
-     "published": "2026-08-31T15:27:02+00:00",
+     "title": "Stakeholders seek extension of Kochi metro airport line to Angamaly",
+     "url": "https://www.thehindu.com/news/national/kerala/stakeholders-seek-extension-of-kochi-metro-airport-line-to-angamaly/article71411578.ece",
+     "summary": "The Aluva-Angamaly NH 544 stretch, with numerous bottlenecks at junctions, is among the most congested of the NH stretches in Keralam",
+     "published": "2026-08-31T15:57:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/706epn/article71411853.ece/alternates/LANDSCAPE_1200/CM%20review%20.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/2zs7nj/article71412124.ece/alternates/LANDSCAPE_1200/Metro01.jpg",
      "licence": "linkout",
-     "id": "4e3f4734a417",
+     "id": "f5e1093f1f9c",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Foundation stone laid for ₹12 crore BT road and central lighting works in Khammam",
-     "url": "https://www.thehindu.com/news/national/telangana/foundation-stone-laid-for-12-crore-bt-road-and-central-lighting-works-in-khammam/article71411832.ece",
-     "summary": "",
-     "published": "2026-08-31T15:26:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "e467fb44e785",
-     "category": "money",
-     "category_label": "Money & scams",
+     "category_label": "General",
      "figures": [
-      "₹12 crore BT road and central"
+      "544 stretch , with numerous bottlenecks"
      ]
     },
     {
-     "title": "YSRCP will sweep local body polls in Srikakulam dist.: ex-Minister",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-will-sweep-local-body-polls-in-srikakulam-dist-ex-minister/article71409532.ece",
+     "title": "220 T.N. pilgrims in Nepal safe, no details about 84 persons: Minister",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/220-tn-pilgrims-in-nepal-safe-no-details-about-84-persons-minister/article71412131.ece",
      "summary": "",
-     "published": "2026-08-31T15:26:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ikz3d5/article71411944.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_19_13_29_1_IMG_20260831_WA0038.JPG",
-     "licence": "linkout",
-     "id": "6b1151e73b31",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Waylaying of Keralam CM’s vehicle: court orders production of Chenthi Anil",
-     "url": "https://www.thehindu.com/news/national/kerala/waylaying-of-keralam-cms-vehicle-court-orders-production-of-chenthi-anil/article71411482.ece",
-     "summary": "",
-     "published": "2026-08-31T15:25:32+00:00",
+     "published": "2026-08-31T15:56:13+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "1a19dec1c4cf",
+     "id": "eee161253472",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "84 persons : Minister"
+     ]
+    },
+    {
+     "title": "Tata Advanced Systems, Javelin Joint Venture sign pact for co-production of anti-tank missiles in India",
+     "url": "https://www.thehindu.com/news/national/tata-advanced-systems-javelin-joint-venture-sign-pact-for-co-production-of-anti-tank-missiles-in-india/article71409877.ece",
+     "summary": "The agreement comes days after the Indian Army signed a Letter of Offer and Acceptance with the United States for the procurement of the Javelin anti-tank guided missile system through the Foreign Military Sales route under emergency procurement powers.",
+     "published": "2026-08-31T15:56:04+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/4lqkdd/article71412107.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
+     "licence": "linkout",
+     "id": "dcbe10b63c47",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "News Analysis: Kanthapuram’s directive on curbs on women puts CPI(M) ties under strain",
+     "url": "https://www.thehindu.com/news/national/kerala/news-analysis-kanthapurams-directive-on-curbs-on-women-puts-cpim-ties-under-strain/article71411776.ece",
+     "summary": "A Samastha circular asking mahals and madrasas to prevent women from sharing stage or public space with unrelated men during religious celebrations draw criticism from CPI(M) leaders and women’s organisations",
+     "published": "2026-08-31T15:52:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/yng57d/article71412102.ece/alternates/LANDSCAPE_1200/IMG_Kanthapuram_2_1_V1CLITHG.jpg",
+     "licence": "linkout",
+     "id": "619e671aa535",
      "category": "general",
      "category_label": "General"
     },
@@ -727,6 +720,22 @@
      "figures": [
       "Rs 3,000  prize money for her"
      ]
+    },
+    {
+     "title": "11 Killed, Several Injured After Explosion In UP Firecracker Factory",
+     "url": "https://www.ndtv.com/india-news/24-injured-15-feared-trapped-after-explosion-in-up-firecracker-factory-11981906#publisher=newsstand",
+     "summary": "The blast occurred in the Pipri police station area near the Manori power house, following which police, fire brigade and Air Force personnel stationed nearby, launched a joint rescue operation, officials said.",
+     "published": "2026-08-31T14:14:22+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/ga1u0318_up_625x300_31_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "069314354ed5",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "11 Killed , Several Injured"
+     ]
     }
    ]
   },
@@ -736,6 +745,32 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Israeli strikes kill at least five Palestinians in Gaza City",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
+     "summary": "At least five Palestinians have been killed in two Israeli attacks in Gaza City.",
+     "published": "2026-08-31T15:20:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-16.15.56-1788189493.png?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "a56d881faf4f",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Trump says Iran is ‘dead’, vows to respond after renewed clashes",
+     "url": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
+     "summary": "US president promises to hit Iran and calls for the country's leaders to be prosecuted for killing protesters.",
+     "published": "2026-08-31T15:11:15+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T125522Z_1548621550_RC2M9NAFIWQG_RTRMADP_3_IRAN-CRISIS-1788184271.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "a3227fb686cf",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
     {
      "title": "Is Trump testing the limits of US power?",
      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss",
@@ -750,22 +785,6 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
-     "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
-     "summary": "Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye's growing capabilities.",
-     "published": "2026-08-31T14:57:56+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-09-25T041945Z_745137952_RC2G7AAYQZBF_RTRMADP_3_ISRAEL-PALESTINIANS-TEL-AVIV-1788181715.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "a91f51d40dea",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "figures": [
-      "$3.5bn missile deal with Israel?"
-     ]
-    },
-    {
      "title": "Jason Arday mural displayed at London’s Notting Hill Carnival",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss",
      "summary": "A mural commemorating late Cambridge professor Jason Arday is displayed at London’s Notting Hill Carnival.",
@@ -775,19 +794,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788187919.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
      "id": "4875bb32224d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Sleeping in on weekends is good for the heart: What research has shown",
-     "url": "https://www.aljazeera.com/news/2026/8/31/sleeping-in-on-weekends-is-good-for-the-heart-what-research-has-shown?traffic_source=rss",
-     "summary": "Study finds that catching up on sleep at weekends is linked to a lower risk of hypertension.",
-     "published": "2026-08-31T14:01:26+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/shutterstock_2767891749-1-1788184745.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "aa44ca4179bb",
      "category": "general",
      "category_label": "General"
     },
@@ -915,70 +921,86 @@
    "upsc": false,
    "items": [
     {
-     "title": "Hyderabad eyes global knowledge hub status with top universities",
-     "url": "https://www.thehindu.com/news/national/telangana/hyderabad-eyes-global-knowledge-hub-status-with-top-universities/article71411857.ece",
-     "summary": "",
-     "published": "2026-08-31T15:27:02+00:00",
+     "title": "Stakeholders seek extension of Kochi metro airport line to Angamaly",
+     "url": "https://www.thehindu.com/news/national/kerala/stakeholders-seek-extension-of-kochi-metro-airport-line-to-angamaly/article71411578.ece",
+     "summary": "The Aluva-Angamaly NH 544 stretch, with numerous bottlenecks at junctions, is among the most congested of the NH stretches in Keralam",
+     "published": "2026-08-31T15:57:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/706epn/article71411853.ece/alternates/LANDSCAPE_1200/CM%20review%20.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/2zs7nj/article71412124.ece/alternates/LANDSCAPE_1200/Metro01.jpg",
      "licence": "linkout",
-     "id": "4e3f4734a417",
+     "id": "f5e1093f1f9c",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "544 stretch , with numerous bottlenecks"
+     ]
+    },
+    {
+     "title": "220 T.N. pilgrims in Nepal safe, no details about 84 persons: Minister",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/220-tn-pilgrims-in-nepal-safe-no-details-about-84-persons-minister/article71412131.ece",
+     "summary": "",
+     "published": "2026-08-31T15:56:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "eee161253472",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "84 persons : Minister"
+     ]
+    },
+    {
+     "title": "Tata Advanced Systems, Javelin Joint Venture sign pact for co-production of anti-tank missiles in India",
+     "url": "https://www.thehindu.com/news/national/tata-advanced-systems-javelin-joint-venture-sign-pact-for-co-production-of-anti-tank-missiles-in-india/article71409877.ece",
+     "summary": "The agreement comes days after the Indian Army signed a Letter of Offer and Acceptance with the United States for the procurement of the Javelin anti-tank guided missile system through the Foreign Military Sales route under emergency procurement powers.",
+     "published": "2026-08-31T15:56:04+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/4lqkdd/article71412107.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
+     "licence": "linkout",
+     "id": "dcbe10b63c47",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Krishna Byre Gowda inspects solid waste management system",
+     "url": "https://www.thehindu.com/news/cities/bangalore/krishna-byre-gowda-inspects-solid-waste-management-system/article71411848.ece",
+     "summary": "He directed officials to ensure proper door-to-door collection of segregated waste and instructed sanitation workers to collect waste kept outside residents’ gates instead of waiting for them to hand it over.",
+     "published": "2026-08-31T15:52:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/w1q60h/article71412100.ece/alternates/LANDSCAPE_1200/_DSC6337.JPG",
+     "licence": "linkout",
+     "id": "5c75572091a7",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Foundation stone laid for ₹12 crore BT road and central lighting works in Khammam",
-     "url": "https://www.thehindu.com/news/national/telangana/foundation-stone-laid-for-12-crore-bt-road-and-central-lighting-works-in-khammam/article71411832.ece",
-     "summary": "",
-     "published": "2026-08-31T15:26:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "e467fb44e785",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹12 crore BT road and central"
-     ]
-    },
-    {
-     "title": "YSRCP will sweep local body polls in Srikakulam dist.: ex-Minister",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-will-sweep-local-body-polls-in-srikakulam-dist-ex-minister/article71409532.ece",
-     "summary": "",
-     "published": "2026-08-31T15:26:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ikz3d5/article71411944.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_19_13_29_1_IMG_20260831_WA0038.JPG",
-     "licence": "linkout",
-     "id": "6b1151e73b31",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Pinarayi 'intimidating’ former party workers, accuses Keralam Minister C.P. John",
-     "url": "https://www.thehindu.com/news/national/kerala/pinarayi-intimidating-former-party-workers-accuses-keralam-minister-cp-john/article71411381.ece",
-     "summary": "He says demands for Pinarayi Vijayan to vacate the position of the Leader of the Opposition and M.V. Govindan to vacate the position of CPI(M) State secretary has been raised from the branch level to the State level",
-     "published": "2026-08-31T15:21:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "bac695b710d2",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy",
-     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPekM5R2QyTEVHMlBreU9taldkX3E1TU1sY2FTbkpEcWhHUDktdzhKVlpNSHB1cFNrdmxPNWRDckdRNDVVR19CSHhwSmo3WnpIczdwODhuTFpMcTZxZ2tETDRzS1ZRM1JFbXJUR2x5SHg3X3E5NVVOUnJuT0FyZ2RRbGVxZXZ0Z0dLQzVOd2JTZXZxWEpGZ1BVMWY0RmNCLW0wSFNjdmZLZEdacnpjY1ctSjdLZXRUMU1yLUZZbUhiaDNvd0N2ZXVDXzY4NHFsSklOQ1hGZnROdXhYRC1oeTNySzdyQTBsNjVrTjlfd203X1lGdy12T2V2c2h1Y0RDem5QbkZ0bTdkaUtMb3hPUWREb2x5Zlo1X2xCOHN5SnB6SG8tS3Jja1VJY2Vva296SXBCRWNSa3A2bWRreTJRX2N3dkNzNlFhSFZyQXRtNTdWTC0tWnRBd1NBaVVfQTFFUdIB5AJBVV95cUxPTFR3d3FVYjNYMHgwOVIwNWtGZHRqU0E1YXRmMWpsQ2hoSVh4ZjZ1N3ptakVJcHRjMm1ES2tVdUVueWxjTmN4T2s4U1NNLTU5UDcwc2FlLW9rdkhLS2RLVU5fOWZfYk1BMF9udjA3Tm80bmx5eXhOT3ItSERlVHlYLVRjNzhkR2xSc1hBa055MWVzS0JSNm1RaHV1WkJIUE9LeFkxaWQ0Z3pMa0wyUjlvS2pFLWs1Vlk1VUt0dkRzdW9iZjg4djA0NXcwVWFhODJVNEF2LXlqbmFOTU4zdG40MjZSRG55Sjc1S1JHYUdKeERsWTZOMjdaVWRtTG5EZk1LVEhVUW9HeGs4Z1FUTWpreUZud3ZNVzlRVUVTdXFnNFFZUXdCZ2N3MlpqUDNCLXVZN0VIVXRUZVFrZ3FraGtLcHF3cDdidWRFOGw5NWtFWm51Y2xrVnR4R3c2ZVBCbTZvd0V2UQ?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy The Indian Express",
-     "published": "2026-08-31T12:05:33+00:00",
-     "source": "The Indian Express",
+     "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
+     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
+     "published": "2026-08-31T11:44:46+00:00",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "7a971189f6f2",
+     "id": "723347f12081",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
+     "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times",
+     "published": "2026-08-31T12:41:48+00:00",
+     "source": "The Economic Times",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "299131fb2594",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -1093,8 +1115,7 @@
      "category": "general",
      "category_label": "General"
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "id": "editorial",
@@ -1700,9 +1721,9 @@
      ]
     },
     {
-     "title": "EPFO: Uncovered workers get one-time window to enroll under special social security drive — Check dates, other details",
+     "title": "EPFO: Uncovered workers get one-time window to enrol under special social security drive — check dates, other details",
      "url": "https://www.livemint.com/money/personal-finance/epfo-uncovered-workers-welfare-one-time-window-deadline-31-october-employers-enroll-special-social-security-drive-labour-11788183731384.html",
-     "summary": "EPFO has urged employers to enroll uncovered workers under its one-time Employees' Enrolment Campaign, 2026 to expand social security coverage. The scheme was notified in June and will continue till 31 October.&nbsp;",
+     "summary": "EPFO has urged employers to enrol uncovered workers under its one-time Employees' Enrolment Campaign, 2026, to expand social security coverage. The scheme was notified in June and will continue till 31 October.&nbsp;",
      "published": "2026-08-31T15:12:32+00:00",
      "source": "Mint",
      "byline": "",
@@ -1909,6 +1930,19 @@
    "title": "Culture",
    "upsc": false,
    "items": [
+    {
+     "title": "John Galliano exhibition at New York Met cancelled after backlash",
+     "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
+     "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
+     "published": "2026-08-31T15:30:05+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87bf/live/7e3a5850-a547-11f1-8689-6589354d0f8e.jpg",
+     "licence": "linkout",
+     "id": "a156df430f32",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Dolly Parton laid to rest alongside husband in Nashville",
      "url": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
