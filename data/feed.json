@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T03:01:52.581253+00:00",
+ "generated_at": "2026-08-31T03:31:38.245384+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Venezuela Maduro",
-  "That Show",
+  "Ankit Balyan",
+  "Iranian Larak",
   "Jazeera English",
   "News",
   "Station Basti",
   "Rahul Gandhi",
-  "National News",
   "Niger Russia",
   "Tunisia",
-  "Head Nepal"
+  "Head Nepal",
+  "What Nepal"
  ],
  "sections": [
   {
@@ -103,38 +103,32 @@
    "upsc": false,
    "items": [
     {
-     "title": "Venezuela’s Maduro shares first photos from US detention",
-     "url": "https://www.aljazeera.com/news/2026/8/31/venezuelas-maduro-shares-first-photos-from-us-detention?traffic_source=rss",
-     "summary": "Abducted Venezuelan leader's post appears to show him in US detention, published two days after US-Venezuela oil deal.",
-     "published": "2026-08-31T01:54:58+00:00",
-     "source": "Al Jazeera",
+     "title": "Ankit Balyan murder case: Two suspects killed in encounter with Shamli Police",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/ankit-balyan-murder-case-two-suspects-killed-in-encounter-with-shamli-police/article71409580.ece",
+     "summary": "Police said the two sharpshooters were ‘injured by gunfire during retaliatory firing carried out by the police in self-defence’",
+     "published": "2026-08-31T03:05:54+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.37.39-AM-1788137191.jpg?resize=1200%2C675",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
      "licence": "linkout",
-     "id": "0aced311e941",
+     "id": "876072dbd8d9",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "2 Suspected Shooters Of Haryanvi Singer Ankit Balyan Killed In UP Encounter",
+       "url": "https://www.ndtv.com/india-news/ankit-balyan-2-shooters-of-haryanvi-singer-youtuber-killed-by-up-police-in-shamli-encounter-11979874#publisher=newsstand",
+       "summary": "Ankit Balyan was shot dead outside his gym in Uttar Pradesh's Shamli by four assailants on August 26."
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "'That's All For Show': England Great Blasts Imam-ul-Haq's Injury Drama In 2nd Test",
-     "url": "https://sports.ndtv.com/cricket/thats-all-for-show-england-great-blasts-imam-ul-haq-over-injury-drama-in-2nd-test-11979048#publisher=newsstand",
-     "summary": "Stuart Broad was unimpressed by the visuals and accused Imam-ul-Haq of putting on a show for the cameras.",
-     "published": "2026-08-31T01:05:42+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/acqrrll_imam-ul-haq-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a6ee69bec752",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Sports"
+     "from_section": "National News"
     },
     {
      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-     "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
-     "published": "2026-08-30T23:53:03+00:00",
+     "summary": "Iran says the attack killed two people and injured two others, in the first known US strike on Iran since late July.",
+     "published": "2026-08-31T03:25:36+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
@@ -143,6 +137,23 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
+    },
+    {
+     "title": "2 Suspected Shooters Of Haryanvi Singer Ankit Balyan Killed In UP Encounter",
+     "url": "https://www.ndtv.com/india-news/ankit-balyan-2-shooters-of-haryanvi-singer-youtuber-killed-by-up-police-in-shamli-encounter-11979874#publisher=newsstand",
+     "summary": "Ankit Balyan was shot dead outside his gym in Uttar Pradesh's Shamli by four assailants on August 26.",
+     "published": "2026-08-31T02:25:12+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/4pk6v88c_ankit-balyan-shooters_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "00754d38d819",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "2 Suspected Shooters Of Haryanvi Singer"
+     ]
     },
     {
      "title": "How the US-Canada trade war is being felt on both sides of the border",
@@ -185,6 +196,14 @@
      "image": "https://th-i.thgim.com/public/incoming/tvp2rz/article71409571.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000196A.jpg",
      "licence": "linkout",
      "id": "db645f993131",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Case Against Rahul Gandhi Over 'Casteist' Remarks On Uttarakhand 'Purification' Row",
+       "url": "https://www.ndtv.com/india-news/case-against-rahul-gandhi-over-casteist-remarks-on-uttarakhand-purification-row-11979939#publisher=newsstand",
+       "summary": "FIR registered against Rahul Gandhi over alleged casteist remarks during event in Uttarakhand's Haldwani."
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News",
@@ -221,7 +240,21 @@
      "id": "609d89d7ee9c",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "How much gold jewellery can you keep at home? Nagpur ITAT explains the rules on ownership, gifts and taxability",
+     "url": "https://www.livemint.com/money/personal-finance/how-much-gold-jewellery-can-you-keep-at-home-nagpur-itat-explains-the-rules-on-ownership-gifts-and-taxability-11788144811728.html",
+     "summary": "The Nagpur ITAT deleted a tax addition on jewellery found during an income-tax search, stressing ownership, source and family circumstances. The ruling also examined the CBDT’s prescribed jewellery limits and whether possession within those limits can be treated as reasonably explained.",
+     "published": "2026-08-31T03:00:56+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_3yzwt3yzwt3yzwt3_1788145204388_1788145211762_94c2e5c0-1d02-40e8-b9bc-d2239fcbd144.png",
+     "licence": "linkout",
+     "id": "e61d57799e62",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business"
     },
     {
      "title": "US plans to sanction another bank to keep economic pressure on Iran",
@@ -250,25 +283,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Technology"
-    },
-    {
-     "title": "Assam Clears Rs 50,000-Crore Package For Women, Health, Roads, Schools",
-     "url": "https://www.ndtv.com/india-news/assam-clears-rs-50-000-crore-package-for-women-health-roads-schools-11979412#publisher=newsstand",
-     "summary": "A substantial part of the package will go towards public infrastructure. The government has set aside around Rs 700 crore for upgrading nearly 1,000 high schools across Assam.",
-     "published": "2026-08-30T18:47:58+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-06/00jsvl18_himanta-biswa-sarma_625x300_10_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "cd49368520b3",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News",
-     "figures": [
-      "Rs 50,000 -Crore Package For Women",
-      "Rs 700 crore for upgrading nearly 1,000",
-      "1,000 high schools across Assam"
-     ]
     },
     {
      "title": "Lola Young surprises Reading Festival with final day set",
@@ -302,45 +316,18 @@
      ]
     },
     {
-     "title": "UPI set for Uzbekistan rollout as India expands digital payments footprint and strengthens bilateral ties",
-     "url": "https://www.livemint.com/money/personal-finance/upi-rollout-uzbekistan-to-adopt-qr-scan-india-expands-digital-footprint-international-payments-strengthen-bilateral-ties-11788095998478.html",
-     "summary": "Uzbekistan has joined the list of countries that is set to adopt the UPI, the Ministry of External Affairs announced today after PM Narendra Modi's two-day official visit to the Central Asian country.&nbsp;",
-     "published": "2026-08-30T14:52:16+00:00",
-     "source": "Mint",
+     "title": "What we know about deadly Nepal-Tibet floods",
+     "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+     "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+     "published": "2026-08-31T03:03:51+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/Gemini_Generated_Image_nel6a9nel6a9nel6_1788101262732_1788101272980_370ddbbb-75b8-40f8-b60b-d938cac5512e.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/a575cfc0-a2c3-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
-     "id": "5d1604fe10aa",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Business"
-    },
-    {
-     "title": "Nepal Flash Flood Highlights : 734 Bodies Recovered, 275 Indians Among Nearly 2,500 Still Missing",
-     "url": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand",
-     "summary": "Nepal Flash Flood LIVE Highlights: A glacier collapse led to a sudden massive flood in Nepal and Tibet on Wednesday, causing widespread damage.",
-     "published": "2026-08-30T18:39:39+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/tg5rg77o_nepal-floods_625x300_29_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "8f8f90277aaa",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-       "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-       "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC."
-      }
-     ],
+     "id": "ff8d8d19e796",
      "category": "weather",
      "category_label": "Weather & disaster",
-     "from_section": "National News",
-     "figures": [
-      "734 Bodies Recovered, 275 Indians Among",
-      "275 Indians Among Nearly 2,500 Still",
-      "2,500 Still Missing"
-     ]
+     "from_section": "Global Hotline"
     },
     {
      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
@@ -451,6 +438,20 @@
      ]
     },
     {
+     "title": "NEET PG 2026: 3-Member Committee To Probe Power Failure At Jaipur Centres, Say Sources",
+     "url": "https://www.ndtv.com/education/neet-pg-2026-3-member-committee-to-probe-power-failure-at-jaipur-centres-as-per-sources-11979917#publisher=newsstand",
+     "summary": "The committee has been constituted to examine the circumstances leading to the power supply failure and ascertain the reasons for the disruption.",
+     "published": "2026-08-31T02:21:14+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-06/fhtin6d_neet-ug-2025-examinees-in-noida_625x300_14_June_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "7518d918578b",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News"
+    },
+    {
      "title": "Niger mutiny puts Russia’s expanding role in the Sahel to the test",
      "url": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss",
      "summary": "Failed uprising in Niamey exposed tensions in Niger’s military, and the role of the Africa Corps in suppressing unrest.",
@@ -477,20 +478,6 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Sports"
-    },
-    {
-     "title": "Station officer found hanging at govt residence in UP’s Basti; probe underway",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZy1JY2VKc18tQWxuMEJYQ3I1N3k1bFhHdmVBYUJhR3JndWw3V0VWT1VQalEyMU5wbFNCdEJMN3daWWR6UTE3aVRMMWFTc3dDWW0tV21wNVRXRERDV1RuWEpLb2xWcm82VDRJTzd6aGMwZWJkV0JhUThTYlNaWXlJcjdfWWtqTzNDU1RTeE0xaXBxTGpSVmxYaGFTLUJJVm5HaEdXUWF2NDdqXzk0Y1h30gG0AUFVX3lxTE0yM0luU3RZb1ZlMnZ2NVNJQ3RXb1p6dmdUT0tOQ0VlaXpHUGUteWtzVkhKNmRCQ3JxVmZuYWxHT256RFFFVi00cmYxaXBtVDByODlNcmZsUGdkdFlCZE0td3dYOTlVOWNOV2xMWHA5d3BTcVU5VUNudGRhS1h4Q2FyWmd6Qm1HalFZN0k5Mml6QmxxbXNLdlJwaFpkWkEyZU9UeWxvUlRmcXN4bG5DMlphRGF4Ng?oc=5",
-     "summary": "Station officer found hanging at govt residence in UP’s Basti; probe underway ThePrint",
-     "published": "2026-08-30T03:45:46+00:00",
-     "source": "ThePrint",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "78064006caba",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
     }
    ]
   },
@@ -506,7 +493,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-31T03:01:39.865614+00:00",
+     "published": "2026-08-31T03:31:24.714365+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -517,7 +504,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-31T03:01:39.865631+00:00",
+     "published": "2026-08-31T03:31:24.714377+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -528,7 +515,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-31T03:01:39.865638+00:00",
+     "published": "2026-08-31T03:31:24.714380+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -539,7 +526,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-31T03:01:39.865642+00:00",
+     "published": "2026-08-31T03:31:24.714383+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -550,7 +537,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-31T03:01:39.865646+00:00",
+     "published": "2026-08-31T03:31:24.714385+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -561,7 +548,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-31T03:01:39.865650+00:00",
+     "published": "2026-08-31T03:31:24.714387+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -596,6 +583,27 @@
    "upsc": false,
    "items": [
     {
+     "title": "Ankit Balyan murder case: Two suspects killed in encounter with Shamli Police",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/ankit-balyan-murder-case-two-suspects-killed-in-encounter-with-shamli-police/article71409580.ece",
+     "summary": "Police said the two sharpshooters were ‘injured by gunfire during retaliatory firing carried out by the police in self-defence’",
+     "published": "2026-08-31T03:05:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "licence": "linkout",
+     "id": "876072dbd8d9",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "2 Suspected Shooters Of Haryanvi Singer Ankit Balyan Killed In UP Encounter",
+       "url": "https://www.ndtv.com/india-news/ankit-balyan-2-shooters-of-haryanvi-singer-youtuber-killed-by-up-police-in-shamli-encounter-11979874#publisher=newsstand",
+       "summary": "Ankit Balyan was shot dead outside his gym in Uttar Pradesh's Shamli by four assailants on August 26."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "FIR registered against Rahul Gandhi over Haldwani 'purification' remarks",
      "url": "https://www.thehindu.com/news/national/uttarakhand/fir-registered-against-rahul-gandhi-over-haldwani-purification-remarks/article71409565.ece",
      "summary": "A political row erupted after some individuals allegedly performed a 'purification yajna' at the Ramlila Ground in Haldwani on August 11, following a public meeting held there by Congress President Mallikarjun Kharge on August 8",
@@ -605,6 +613,14 @@
      "image": "https://th-i.thgim.com/public/incoming/tvp2rz/article71409571.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000196A.jpg",
      "licence": "linkout",
      "id": "db645f993131",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Case Against Rahul Gandhi Over 'Casteist' Remarks On Uttarakhand 'Purification' Row",
+       "url": "https://www.ndtv.com/india-news/case-against-rahul-gandhi-over-casteist-remarks-on-uttarakhand-purification-row-11979939#publisher=newsstand",
+       "summary": "FIR registered against Rahul Gandhi over alleged casteist remarks during event in Uttarakhand's Haldwani."
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
      "figures": [
@@ -638,46 +654,43 @@
      "category_label": "General"
     },
     {
-     "title": "Amid Alliance Suspense, Akali-BJP Student Wings Tie Up For University Polls",
-     "url": "https://www.ndtv.com/india-news/amid-alliance-suspense-akali-bjp-student-wings-tie-up-for-university-polls-11979430#publisher=newsstand",
-     "summary": "The Akhil Bharatiya Vidyarthi Parishad or ABVP, affiliated with the BJP, and the Shiromani Akali Dal-backed Students' Organisation of India (SOI) announced an alliance on Sunday.",
-     "published": "2026-08-30T19:03:29+00:00",
+     "title": "Case Against Rahul Gandhi Over 'Casteist' Remarks On Uttarakhand 'Purification' Row",
+     "url": "https://www.ndtv.com/india-news/case-against-rahul-gandhi-over-casteist-remarks-on-uttarakhand-purification-row-11979939#publisher=newsstand",
+     "summary": "FIR registered against Rahul Gandhi over alleged casteist remarks during event in Uttarakhand's Haldwani.",
+     "published": "2026-08-31T02:36:38+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/93dhe61c_panjab-university-polls_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/5c2kj5vg_rahul-gandhi-chhatron-ki-goonj-indore-visit-congress-_625x300_29_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "93832f349760",
+     "id": "01ae2046c24a",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Activist Manoj Jarange Sets Mumbai Protest Deadline, Devendra Fadnavis Reaches Out",
-     "url": "https://www.ndtv.com/india-news/activist-manoj-jarange-sets-mumbai-protest-deadline-devendra-fadnavis-reaches-out-11979420#publisher=newsstand",
-     "summary": "Manoj Jarange is demanding immediate issuance of Kunbi certificates to eligible members of the Maratha community based on 58 lakh historical records, asserting that the community will not grant any further time.",
-     "published": "2026-08-30T18:54:34+00:00",
+     "title": "Centre Mandates Indian Standard Time As Single Reference For Official Use",
+     "url": "https://www.ndtv.com/india-news/centre-mandates-indian-standard-time-as-single-reference-for-official-use-11979927#publisher=newsstand",
+     "summary": "Centre mandates Indian Standard Time as single official time for legal and administrative purposes.",
+     "published": "2026-08-31T02:35:43+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2024-06/3dd2k344_maratha-reservation-activist-manoj-jarange-patil-ani_625x300_08_June_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2025-11/b4btrpp8_clock_625x300_02_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "3de391994873",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "58 lakh historical records, asserting"
-     ]
+     "id": "4da78d9b6342",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "\"Islam Superior,\" Says Karnataka Minister. BJP Demands Apology To Hindus",
-     "url": "https://www.ndtv.com/india-news/islam-superior-says-karnataka-ministerbasavaraj-rayareddy-bjp-reads-sanatan-demeaned-11979307#publisher=newsstand",
-     "summary": "BJP spokesperson Ashok Gowda accused the minister and the Congress government of trying to appease \"his voters\".",
-     "published": "2026-08-30T18:47:33+00:00",
+     "title": "India A \"Vishwaguru, Not A Mahashakti\": RSS Chief Mohan Bhagwat In Toronto",
+     "url": "https://www.ndtv.com/india-news/india-a-vishwaguru-not-a-mahashakti-rss-chief-mohan-bhagwat-in-toronto-11979879#publisher=newsstand",
+     "summary": "RSS Chief Mohan Bhagwat recalled historical and modern examples of India stepping up during international humanitarian crises.",
+     "published": "2026-08-31T01:46:24+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/tj1nqg04_basavraj_625x300_30_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/1auqaju4_mohan-bhagwat-pti_625x300_31_August_26.jpeg",
      "licence": "linkout",
-     "id": "ee49efe63138",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "0b03aead80d1",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -725,6 +738,19 @@
      "id": "efdea8122ef7",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Venezuela’s Maduro shares first photos from US detention",
+     "url": "https://www.aljazeera.com/news/2026/8/31/venezuelas-maduro-shares-first-photos-from-us-detention?traffic_source=rss",
+     "summary": "Abducted Venezuelan leader's post appears to show him in US detention, published two days after US-Venezuela oil deal.",
+     "published": "2026-08-31T01:54:58+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.37.39-AM-1788137191.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "0aced311e941",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "What are the implications of the US-Venezuela oil deal?",
@@ -809,7 +835,7 @@
      "title": "What we know about deadly Nepal-Tibet floods",
      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
      "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
-     "published": "2026-08-30T10:49:24+00:00",
+     "published": "2026-08-31T03:03:51+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/a575cfc0-a2c3-11f1-b109-879e35c24276.jpg",
@@ -826,6 +852,19 @@
    "title": "National Hotlines",
    "upsc": false,
    "items": [
+    {
+     "title": "Ankit Balyan murder case: Two suspects killed in encounter with Shamli Police",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/ankit-balyan-murder-case-two-suspects-killed-in-encounter-with-shamli-police/article71409580.ece",
+     "summary": "Police said the two sharpshooters were ‘injured by gunfire during retaliatory firing carried out by the police in self-defence’",
+     "published": "2026-08-31T03:05:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "licence": "linkout",
+     "id": "876072dbd8d9",
+     "category": "crime",
+     "category_label": "Crime"
+    },
     {
      "title": "FIR registered against Rahul Gandhi over Haldwani 'purification' remarks",
      "url": "https://www.thehindu.com/news/national/uttarakhand/fir-registered-against-rahul-gandhi-over-haldwani-purification-remarks/article71409565.ece",
@@ -856,19 +895,6 @@
      "category_label": "General"
     },
     {
-     "title": "All registered workers migrated to VB-G RAM G; e-KYC not mandatory for employment: Centre",
-     "url": "https://www.thehindu.com/news/national/all-registered-workers-migrated-to-vb-g-ram-g-e-kyc-not-mandatory-for-employment-centre/article71408080.ece",
-     "summary": "The Union Rural Development Ministry says pending e-KYC will not prevent workers from demanding or receiving employment. It urges States/Union Territories to expedite verification",
-     "published": "2026-08-31T02:43:56+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r7f513/article71408521.ece/alternates/LANDSCAPE_1200/AK5_5733.JPG.jpeg",
-     "licence": "linkout",
-     "id": "4443048f6f55",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Direct Karnataka to release backlog of 17.604 tmcft Cauvery water: T.N. to Supreme Court",
      "url": "https://www.thehindu.com/news/national/direct-karnataka-to-release-backlog-of-17604-tmcft-cauvery-water-tn-to-supreme-court/article71408408.ece",
      "summary": "Cauvery Delta farmers are severely affected as they are not getting their due share, T.N. tells court; says CWRC and CWMA failed to consider accumulated backlog; top court to hear Cauvery case on August 31",
@@ -882,22 +908,6 @@
      "category_label": "General",
      "figures": [
       "17.604 tmcft Cauvery water: T"
-     ]
-    },
-    {
-     "title": "Revanth’s govt. leaves its imprint after 1,000 days in office",
-     "url": "https://www.thehindu.com/news/national/telangana/revanths-govt-leaves-its-imprint-after-1000-days-in-office/article71408545.ece",
-     "summary": "One of the clearest areas where the government has sought to make its mark is in maintaining Telangana’s reputation as an investment destination.",
-     "published": "2026-08-30T22:03:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ionsjw/article71408579.ece/alternates/LANDSCAPE_1200/Design-and-faciGACG0OB92.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "7784aef7b12d",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1,000 days in office"
      ]
     },
     {
@@ -922,10 +932,29 @@
    "upsc": true,
    "items": [
     {
+     "title": "Money Market Operations as on August 28, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63469",
+     "summary": "",
+     "published": "2026-08-31T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "244c12148db1",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Auction of State Government Securities",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63468",
      "summary": "",
-     "published": "2026-08-29T00:00:00+00:00",
+     "published": "2026-08-31T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -944,7 +973,7 @@
      "title": "RBI to conduct 15-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 31, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63467",
      "summary": "",
-     "published": "2026-08-29T00:00:00+00:00",
+     "published": "2026-08-31T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -967,7 +996,7 @@
      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Ashok Sahakari Bank Ltd., Ahmednagar",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63466",
      "summary": "",
-     "published": "2026-08-29T00:00:00+00:00",
+     "published": "2026-08-31T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -989,7 +1018,7 @@
      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63465",
      "summary": "",
-     "published": "2026-08-29T00:00:00+00:00",
+     "published": "2026-08-31T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1003,28 +1032,8 @@
      },
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Buyback of Government of India Dated Securities",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63464",
-     "summary": "",
-     "published": "2026-08-29T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "d6b806e74daf",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "id": "editorial",
