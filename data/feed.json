@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T05:31:34.753719+00:00",
+ "generated_at": "2026-08-31T06:01:55.112532+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -36,11 +36,10 @@
    "key": "gold",
    "label": "GOLD",
    "unit": "₹/10g",
-   "value": 126706.0,
-   "change": -3026.0,
-   "changePct": -2.33,
-   "decimals": 0,
-   "stale": true
+   "value": 125490.0,
+   "change": -3127.0,
+   "changePct": -2.43,
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -84,16 +83,16 @@
   }
  ],
  "topics": [
-  "Jharkhand",
-  "Explained",
+  "Year Allegedly",
+  "Iran",
   "Jazeera English",
   "News",
   "Maharashtra DYFI",
   "Charges Three",
-  "Nepal LIVE",
-  "People Nepal",
-  "Russia China",
-  "Nepal"
+  "Nepal Himalayas",
+  "Venganoor Thiruvananthapuram",
+  "Aston Villa",
+  "Tennis Djokovic"
  ],
  "sections": [
   {
@@ -103,41 +102,24 @@
    "upsc": false,
    "items": [
     {
-     "title": "Jharkhand CID arrests one more person in ‘exam irregularities’ case",
-     "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cid-arrests-one-more-person-in-exam-irregularities-case/article71409687.ece",
-     "summary": "With the latest apprehension, a total of nine people have been arrested by the agency since August 18",
-     "published": "2026-08-31T05:14:15+00:00",
-     "source": "The Hindu",
+     "title": "3-Year-old Boy Allegedly Tied To Chair, Slapped, Hit At Delhi Day Care",
+     "url": "https://www.ndtv.com/india-news/3-year-old-boy-tied-to-chair-allegedly-assaulted-at-delhi-day-care-11980496#publisher=newsstand",
+     "summary": "The incident was reported from Makoons Play School in the Maujpur area of Northeast Delhi. Delhi Police has registered a case under the Protection of Children from Sexual Offences (POCSO) Act.",
+     "published": "2026-08-31T05:56:53+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rv6u9o/article71397834.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+     "image": "https://c.ndtvimg.com/2026-08/bnji9d34_assault-_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "93ee6f626639",
+     "id": "63c7a811b802",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "Can an accused be denied a copy of the FIR? | Explained",
-     "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
-     "summary": "Experts told The Hindu that police officials routinely fail to comply with the Supreme Court’s directive to upload FIRs online within 24 hours of registration. What do statutory provisions stipulate? What are the implications?",
-     "published": "2026-08-31T05:06:21+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/eugpwd/article71405904.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
-     "licence": "linkout",
-     "id": "92ef16d9a5a3",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "24 hours of registration"
-     ]
-    },
-    {
      "title": "US and Iran trade strikes for first time in weeks",
      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
-     "published": "2026-08-31T04:54:32+00:00",
+     "published": "2026-08-31T05:49:37+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
@@ -146,6 +128,24 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
+    },
+    {
+     "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+     "published": "2026-08-31T03:56:15+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "80226a3cb4a8",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "18 missing after ferry capsizes off",
+      "270 people turns over after leaving"
+     ]
     },
     {
      "title": "How the US-Canada trade war is being felt on both sides of the border",
@@ -179,61 +179,87 @@
      ]
     },
     {
-     "title": "Nepal flash floods LIVE: At least 933 workers trapped in hydropower projects",
-     "url": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece",
-     "summary": "Prime Minister Balendra Shah has said the country is facing an “unimaginable and heartbreaking” disaster",
-     "published": "2026-08-31T05:15:55+00:00",
+     "title": "FIR registered against Rahul Gandhi over Haldwani 'purification' remarks",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/fir-registered-against-rahul-gandhi-over-haldwani-purification-remarks/article71409565.ece",
+     "summary": "A political row erupted after some individuals allegedly performed a 'purification yajna' at the Ramlila Ground in Haldwani on August 11, following a public meeting held there by Congress President Mallikarjun Kharge on August 8",
+     "published": "2026-08-31T05:40:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/w3yd2x/article71409643.ece/alternates/LANDSCAPE_1200/2026-08-30T133732Z_35845283_RC2X8NAFC30J_RTRMADP_3_NEPAL-FLOODS.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/tvp2rz/article71409571.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000196A.jpg",
      "licence": "linkout",
-     "id": "458e345a6e5b",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
-       "url": "https://www.bbc.co.uk/news/videos/c86x39p6we1o?at_medium=RSS&at_campaign=rss",
-       "summary": "Thousands in Nepal are still waiting to be rescued, but unpredictable weather is making such operations increasingly difficult."
-      }
-     ],
+     "id": "db645f993131",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News",
      "figures": [
-      "933 workers trapped in hydropower projects"
+      "11, following a public meeting held"
      ]
     },
     {
-     "title": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
-     "url": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece",
-     "summary": "U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
-     "published": "2026-08-31T05:09:19+00:00",
+     "title": "Keralam Islamic scholar says women’s public appearances will cause ‘great destruction’",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-islamic-scholar-says-womens-public-appearances-will-cause-great-destruction/article71408754.ece",
+     "summary": "In a recent circular, Samastha Kerala Jamiyyathul Ulama president E. Sulaiman Musliar and general secretary Kanthapuram A.P. Aboobacker Musliar directed that women should not share stages with men or appear in public spaces alongside them",
+     "published": "2026-08-31T05:35:41+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uyxmy4/article71409604.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000005B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/r0gbnh/article71408764.ece/alternates/LANDSCAPE_1200/IMG_Kanthapuram_2_1_V1CLITHG.jpg",
      "licence": "linkout",
-     "id": "f550b300cfa9",
+     "id": "80bcd5f2986b",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "National News"
+    },
+    {
+     "title": "\"Will Cost You Dearly\": Kiren Rijiju Warns Protesters Who Stepped On National Flag In New York",
+     "url": "https://www.ndtv.com/india-news/will-cost-you-dearly-kiren-rijiju-warns-khalistani-protesters-who-stepped-on-national-flag-in-new-york-11980310#publisher=newsstand",
+     "summary": "Many on social media appealed to the authorities to see whether any of the protesters were Indian citizens who could be made to face the law back home",
+     "published": "2026-08-31T05:03:36+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/4em1pd5o_madison_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "40e2c5ca24b3",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Inherited agricultural land sale: When is it tax-free and what exemptions apply?",
+     "url": "https://www.livemint.com/money/personal-finance/inherited-agricultural-land-sale-when-is-it-tax-free-and-what-exemptions-apply-11788150847528.html",
+     "summary": "Tax on sale of inherited agricultural land: Section 54B, 54F and 54EC exemptions explained, reinvestment in residential property or farm land, ₹10 crore and ₹50 lakh exemption caps, capital gains tax at 12.5% or 20% with indexation for siblings selling jointly-inherited land",
+     "published": "2026-08-31T05:45:08+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/pexels-photo-8291490_1788154381087_1788154401703_9fbb4940-07a6-48f4-9e5f-f441a73b2a6b.jpeg",
+     "licence": "linkout",
+     "id": "45bebfde427e",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
      "figures": [
-      "20 finance ministerial meet",
-      "20 Finance Ministers and central bank"
+      "₹10 crore and ₹50 lakh exemption",
+      "₹50 lakh exemption caps, capital gains"
      ]
     },
     {
-     "title": "'FIFA President Gianni Infantino Must Go': Ex-UEFA Chief Michel Platini",
-     "url": "https://sports.ndtv.com/football/fifa-president-infantino-must-go-says-ex-uefa-boss-platini-11979521#publisher=newsstand",
-     "summary": "French football great Michel Platini said on Sunday FIFA president Gianni Infantino \"must go\" following the scandals that have rocked world football's governing body.",
-     "published": "2026-08-31T03:53:09+00:00",
-     "source": "NDTV Sports",
+     "title": "Insurance scam: Ahmedabad police inspector loses ₹5.4 lakh after fraudsters promise ₹19.5 lakh policy payout",
+     "url": "https://www.livemint.com/money/personal-finance/insurance-scam-ahmedabad-police-inspector-loses-5-4-lakh-after-fraudsters-promise-19-5-lakh-policy-payout-11788154563596.html",
+     "summary": "An Ahmedabad police inspector lost ₹5.4 lakh after fraudsters allegedly posed as insurance officials and promised a ₹19.5 lakh payout. The case highlights key red flags in insurance refund scams, including upfront fees, QR-code payments and repeated demands for money.",
+     "published": "2026-08-31T05:42:45+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/mtd6b5sc_michel-platini_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_rs9sjnrs9sjnrs9s_1788154905563_1788154911835_6e46f56b-5808-44c8-9497-e2acbc215fcc.png",
      "licence": "linkout",
-     "id": "d4b896c6094e",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Sports"
+     "id": "635c370a70a0",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹5.4 lakh after fraudsters promise ₹19",
+      "₹19.5 lakh policy payout",
+      "₹5.4 lakh after fraudsters allegedly posed",
+      "₹19.5 lakh payout"
+     ]
     },
     {
      "title": "Gold, silver prices today, 31 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
@@ -252,34 +278,6 @@
       "999 silver in Delhi, Mumbai",
       "999 silver retail rates across Delhi"
      ]
-    },
-    {
-     "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
-     "summary": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
-     "published": "2026-08-31T03:08:35+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788145682.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "c46e2f8ab782",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News"
-    },
-    {
-     "title": "How much gold jewellery can you keep at home? Nagpur ITAT explains rules on ownership, gifts, taxability",
-     "url": "https://www.livemint.com/money/personal-finance/how-much-gold-jewellery-can-you-keep-at-home-nagpur-itat-explains-the-rules-on-ownership-gifts-and-taxability-11788144811728.html",
-     "summary": "The Nagpur ITAT deleted a tax addition on jewellery found during an income-tax search, stressing ownership, source and family circumstances. The ruling also examined the CBDT’s prescribed jewellery limits and whether possession within those limits can be treated as reasonably explained.",
-     "published": "2026-08-31T03:00:56+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_3yzwt3yzwt3yzwt3_1788145204388_1788145211762_94c2e5c0-1d02-40e8-b9bc-d2239fcbd144.png",
-     "licence": "linkout",
-     "id": "e61d57799e62",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
     },
     {
      "title": "Lola Young surprises Reading Festival with final day set",
@@ -338,6 +336,20 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "Nepal flash floods: A wake-up call against infrastructure building spree across Himalayas, warns geo-scientist C.P. Rajendran",
+     "url": "https://www.thehindu.com/news/nepal-flash-floods-a-wake-up-call-against-infrastructure-building-spree-across-himalayas-warns-geo-scientist-cp-rajendran/article71409672.ece",
+     "summary": "The region already suffers from unstable slopes and reduced river efficiency, largely due to development projects carried out with little regard for ecological consequences, he the adjunct professor at National Institute of Advanced Studies, Bengaluru",
+     "published": "2026-08-31T05:52:00+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "licence": "linkout",
+     "id": "ddcdb3616f86",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News"
+    },
+    {
      "title": "What we know about deadly Nepal-Tibet floods",
      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
      "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
@@ -369,20 +381,21 @@
      ]
     },
     {
-     "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
-     "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
-     "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
-     "published": "2026-08-30T16:48:13+00:00",
-     "source": "BBC News",
+     "title": "Gen Z Girl Power From 108 Countries Builds ShaktiSat, Aiming For Nothing Less Than The Moon",
+     "url": "https://www.ndtv.com/education/gen-z-girl-power-from-108-countries-builds-shaktisat-aiming-for-nothing-less-than-the-moon-11980431#publisher=newsstand",
+     "summary": "The mission aims to involve 12,000 girls worldwide. Participants were exposed to space science, coding, electronics, payload systems, satellite structures and mission design.",
+     "published": "2026-08-31T05:36:28+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da6/live/8518ba10-a482-11f1-bed8-470734b5b662.png",
+     "image": "https://c.ndtvimg.com/2026-08/69vlmuu4_space-research_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "1202fec4338c",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline",
+     "id": "b2b98c53e0c0",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News",
      "figures": [
-      "900 children minutes before Nepal floods"
+      "108 Countries Builds ShaktiSat, Aiming",
+      "12,000 girls worldwide"
      ]
     },
     {
@@ -417,36 +430,49 @@
      "from_section": "Technology"
     },
     {
-     "title": "Indian telcos bet on AI networks to drive revenue growth, infras upgrades",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjVxS0hmbkliVTV0ZkZ6T0RtbktNelNJbUtFWDlrd3dxbnk2dWdNeWhLdENwbmhiM0N3ZXVoeXNxSzNFVmQ4UURzNnkyOHVsRkxrbnp1RFJMU0N3RXVXZGx4WDdFdS1GdGk3UzE0dms1M2xyVHFIUllHN2NrM0V5R3JRVmlnU2ZfWWc1dll1eS1LN1lwZnp6bll5cUtGbEtOV2R0ZUhRc3BwVVJZTGxqdTZnbWFLSExSdTNydnhtTldRbnJ6cFBaOTl4cW5lLVBMRUpOTUNaWFZHb2RuOUhFd1N0T09HUTFXd1d3SUU5aDhETUXSAfgBQVVfeXFMUDdGc1RDMEx6UGp5NTFRZ2tiZ1NJeW5hSHV1VnF4MWd1eFZUUVRJSndPOVZIczFGTUpPaGNkTzM2RGZKendzRjVCOGd1VEo4d3djMVp1dFBYQVlPN2JMVC05bnQwcGNTc1hXdTVZMXBTRkF6cFFodXB0VGpuYWs1YWtTTHhkcEhXc3hTOWZpM2hLUi1KdXZ0Y202SUZvNnR1a2UyaWVRcUdMTGlZZDF6aTNJb0w5MFJwaGxFSy0wbEJpR0VILUR1MWwzcGxtdllWcFpscl9pdmJ3dWstQkxNakFKb2ZJMVFqbk5pWFNGNmdKOUJQY2xwUXU?oc=5",
-     "summary": "Indian telcos bet on AI networks to drive revenue growth, infras upgrades Business Standard",
-     "published": "2026-08-30T16:18:06+00:00",
-     "source": "Business Standard",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "75426166157e",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2, Live Updates",
-     "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-day-2-live-updates-11979986#publisher=newsstand",
-     "summary": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2, Live Updates: South Zone will resume their innings from 40/2 on Day 2 of the semi-final match of Duleep Trophy 2026 against North Zone in Bengaluru.",
-     "published": "2026-08-31T03:01:56+00:00",
+     "title": "Pakistan Hit Panic Button: Squad Clear-Out And Coaching Change Unloading Ahead Of 3rd Test",
+     "url": "https://sports.ndtv.com/cricket/pakistan-hit-panic-button-squad-clear-out-and-coaching-change-unloading-ahead-of-3rd-test-11980455#publisher=newsstand",
+     "summary": "The Pakistan Cricket Board (PCB) has hit the panic button, with sweeping change unloading ahead of the third and final Test against England.",
+     "published": "2026-08-31T05:42:49+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/vk1359h_tilak-varma_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/s498sjs4_sarfaraz-ahmed-with-babar-azam-in-england-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "5d3e8eda070d",
+     "id": "f579f7827ae0",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
+     "title": "US Open 2026: Novak Djokovic In Tears After First Opening Round Exit In 20 Years",
+     "url": "https://sports.ndtv.com/tennis/us-open-2026-novak-djokovic-in-tears-after-first-opening-round-exit-in-20-years-11980440#publisher=newsstand",
+     "summary": "US Open 2026 witnessed one of the biggest upsets in the tournament's history as Novak Djokovic crashed out in the first round after losing to Mariano Navone.",
+     "published": "2026-08-31T05:38:34+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/5ol713p8_novak-djokovic-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3abe9dff7242",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports",
      "figures": [
-      "2, Live Updates",
-      "2, Live Updates: South Zone will"
+      "20 Years"
      ]
+    },
+    {
+     "title": "Aston Villa vs Arsenal: Premier League – prediction, team news, lineups",
+     "url": "https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss",
+     "summary": "Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.",
+     "published": "2026-08-31T05:37:23+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-08-24T163806Z_1167482161_UP1EK8O1A7G15_RTRMADP_3_SOCCER-ENGLAND-AVL-ARS-REPORT-1788124406.jpg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "37e1ec1e88ed",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News"
     }
    ]
   },
@@ -462,7 +488,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-31T05:31:21.566781+00:00",
+     "published": "2026-08-31T06:01:43.256553+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -473,7 +499,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-31T05:31:21.566789+00:00",
+     "published": "2026-08-31T06:01:43.256563+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -484,7 +510,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-31T05:31:21.566793+00:00",
+     "published": "2026-08-31T06:01:43.256566+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -495,7 +521,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-31T05:31:21.566795+00:00",
+     "published": "2026-08-31T06:01:43.256568+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -506,7 +532,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-31T05:31:21.566799+00:00",
+     "published": "2026-08-31T06:01:43.256569+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -517,16 +543,16 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-31T05:31:21.566807+00:00",
+     "published": "2026-08-31T06:01:43.256574+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "Central Zone vs East Zone, Duleep Trophy Semi-Final Live Score, Day 2: Batter Sooraryavanshi In Spotlight After Captaincy Stint",
+     "title": "Central Zone vs East Zone, Duleep Trophy Semi-Final Live Score, Day 2: Vaibhav Sooryavanshi Hits Fiery 50, East Zone On Fire",
      "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
-     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Live: After impressing in the leadership role on Day 1, Vaibhav Sooryavanshi will be under the spotlight again as a batter on Day 2.",
-     "published": "2026-08-31T03:34:31+00:00",
+     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Live: Vaibhav Sooryavanshi is fearlessly dealing in boundaries as East Zone are dominating the game against Central Zone on Day 2 of the Duleep Trophy semi-final match.",
+     "published": "2026-08-31T05:32:09+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-08/ui8i9prc_vs_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -536,7 +562,7 @@
      "category": "general",
      "category_label": "General",
      "figures": [
-      "1, Vaibhav Sooryavanshi will be under"
+      "50, East Zone On Fire"
      ]
     }
    ]
@@ -586,138 +612,95 @@
    "upsc": false,
    "items": [
     {
-     "title": "Jharkhand CID arrests one more person in ‘exam irregularities’ case",
-     "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cid-arrests-one-more-person-in-exam-irregularities-case/article71409687.ece",
-     "summary": "With the latest apprehension, a total of nine people have been arrested by the agency since August 18",
-     "published": "2026-08-31T05:14:15+00:00",
+     "title": "Nepal flash floods: A wake-up call against infrastructure building spree across Himalayas, warns geo-scientist C.P. Rajendran",
+     "url": "https://www.thehindu.com/news/nepal-flash-floods-a-wake-up-call-against-infrastructure-building-spree-across-himalayas-warns-geo-scientist-cp-rajendran/article71409672.ece",
+     "summary": "The region already suffers from unstable slopes and reduced river efficiency, largely due to development projects carried out with little regard for ecological consequences, he the adjunct professor at National Institute of Advanced Studies, Bengaluru",
+     "published": "2026-08-31T05:52:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rv6u9o/article71397834.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
      "licence": "linkout",
-     "id": "93ee6f626639",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "ddcdb3616f86",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     },
     {
-     "title": "Nepal flash floods LIVE: At least 933 workers trapped in hydropower projects",
-     "url": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece",
-     "summary": "Prime Minister Balendra Shah has said the country is facing an “unimaginable and heartbreaking” disaster",
-     "published": "2026-08-31T05:15:55+00:00",
+     "title": "1 burnt to death after moving car catches fire at Venganoor in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/1-burnt-to-death-after-moving-car-catches-fire-at-venganoor-in-thiruvananthapuram/article71409735.ece",
+     "summary": "A family dispute had allegedly taken place in his home in Kottayam prior to his journey",
+     "published": "2026-08-31T05:42:50+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/w3yd2x/article71409643.ece/alternates/LANDSCAPE_1200/2026-08-30T133732Z_35845283_RC2X8NAFC30J_RTRMADP_3_NEPAL-FLOODS.JPG",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/20zb2y/article71409790.ece/alternates/LANDSCAPE_1200/car%20new.jpg",
      "licence": "linkout",
-     "id": "458e345a6e5b",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
-       "url": "https://www.bbc.co.uk/news/videos/c86x39p6we1o?at_medium=RSS&at_campaign=rss",
-       "summary": "Thousands in Nepal are still waiting to be rescued, but unpredictable weather is making such operations increasingly difficult."
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "932dadada6aa",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "933 workers trapped in hydropower projects"
+      "1 burnt to death after moving"
      ]
     },
     {
-     "title": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
-     "url": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece",
-     "summary": "U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
-     "published": "2026-08-31T05:09:19+00:00",
+     "title": "FIR registered against Rahul Gandhi over Haldwani 'purification' remarks",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/fir-registered-against-rahul-gandhi-over-haldwani-purification-remarks/article71409565.ece",
+     "summary": "A political row erupted after some individuals allegedly performed a 'purification yajna' at the Ramlila Ground in Haldwani on August 11, following a public meeting held there by Congress President Mallikarjun Kharge on August 8",
+     "published": "2026-08-31T05:40:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uyxmy4/article71409604.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000005B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/tvp2rz/article71409571.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000196A.jpg",
      "licence": "linkout",
-     "id": "f550b300cfa9",
+     "id": "db645f993131",
      "category": "politics",
      "category_label": "Political controversy",
      "figures": [
-      "20 finance ministerial meet",
-      "20 Finance Ministers and central bank"
+      "11, following a public meeting held"
      ]
     },
     {
-     "title": "CJP finds in AAP an all-weather friend supporting it at every turn",
-     "url": "https://www.thehindu.com/news/national/cjp-finds-in-aap-an-all-weather-friend-supporting-it-at-every-turn/article71407670.ece",
-     "summary": "Since the beginning of the CJP, Arvind Kejriwal, other top leaders, and the AAP ecosystem have supported it, even before it became a mass movement in Delhi",
-     "published": "2026-08-31T05:05:15+00:00",
+     "title": "Madras, a place where women found home, and freedom, says Kalpana Karunakaran",
+     "url": "https://www.thehindu.com/news/cities/chennai/madras-a-place-where-women-found-home-and-freedom-says-kalpana-karunakaran/article71335130.ece",
+     "summary": "Kalpana Karunakaran is the author of A Woman of No Consequence: Memory, Letters and Resistance in Madras",
+     "published": "2026-08-31T05:33:42+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qah43c/article71409567.ece/alternates/LANDSCAPE_1200/20260721526L.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/wqph8t/article71335174.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-12%20at%2010.24.51.jpeg",
      "licence": "linkout",
-     "id": "4e7dfe6ac1f4",
+     "id": "4c5274705bda",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "AIMIM Leader Stabbed To Death In Hyderabad",
-     "url": "https://www.ndtv.com/hyderabad-news/mehboob-ali-aimim-leader-stabbed-to-death-in-hyderabad-11980097#publisher=newsstand",
-     "summary": "Mehboob Ali was attacked by five to six people and sustained serious injuries.",
-     "published": "2026-08-31T03:52:11+00:00",
+     "title": "Over 200 HIV Cases Reported Across 31 Jails In Assam Within 4 Months",
+     "url": "https://www.ndtv.com/india-news/over-200-hiv-cases-reported-across-31-jails-in-assam-within-4-months-11980343#publisher=newsstand",
+     "summary": "HIV screening was conducted among inmates in 31 jails across the state, official sources said.",
+     "published": "2026-08-31T05:47:44+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/1thu4aro_mehboob-ali_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-02/g0n4l5ls_jail-generic_625x300_13_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c5dd4433a561",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "PIB Flags Misleading Claims Over NEET PG Paper Leak In Jaipur",
-     "url": "https://www.ndtv.com/education/pib-flags-misleading-claims-over-neet-pg-paper-leak-in-jaipur-11980035#publisher=newsstand",
-     "summary": "NEET PG Jaipur Centre: According to official information, the NEET PG 2026 re-exam for the affected students will be conducted on September 5.",
-     "published": "2026-08-31T03:24:02+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/622mqkns_pib-fact-check_625x300_31_August_26.jpeg",
-     "licence": "linkout",
-     "id": "18c9164b206f",
+     "id": "6d3e32a4cc8e",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Case Against Rahul Gandhi Over 'Casteist' Remarks On Uttarakhand 'Purification' Row",
-     "url": "https://www.ndtv.com/india-news/case-against-rahul-gandhi-over-casteist-remarks-on-uttarakhand-purification-row-11979939#publisher=newsstand",
-     "summary": "FIR registered against Rahul Gandhi over alleged casteist remarks during event in Uttarakhand's Haldwani.",
-     "published": "2026-08-31T02:36:38+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/5c2kj5vg_rahul-gandhi-chhatron-ki-goonj-indore-visit-congress-_625x300_29_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "01ae2046c24a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Centre Mandates Indian Standard Time As Single Reference For Official Use",
-     "url": "https://www.ndtv.com/india-news/centre-mandates-indian-standard-time-as-single-reference-for-official-use-11979927#publisher=newsstand",
-     "summary": "Centre mandates Indian Standard Time as single official time for legal and administrative purposes.",
-     "published": "2026-08-31T02:35:43+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-11/b4btrpp8_clock_625x300_02_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4da78d9b6342",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "2 Suspected Shooters Of Haryanvi Singer Ankit Balyan Killed In UP Encounter",
-     "url": "https://www.ndtv.com/india-news/ankit-balyan-2-shooters-of-haryanvi-singer-youtuber-killed-by-up-police-in-shamli-encounter-11979874#publisher=newsstand",
-     "summary": "Ankit Balyan was shot dead outside his gym in Uttar Pradesh's Shamli by four assailants on August 26.",
-     "published": "2026-08-31T02:25:12+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/4pk6v88c_ankit-balyan-shooters_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "00754d38d819",
-     "category": "crime",
-     "category_label": "Crime",
+     "category_label": "General",
      "figures": [
-      "2 Suspected Shooters Of Haryanvi Singer"
+      "31 Jails In Assam Within 4",
+      "4 Months",
+      "31 jails across the state, official"
+     ]
+    },
+    {
+     "title": "Ahead Of His Years: 7-Year-Old Indian-Origin Boy In UK Bags Grade 8 In GCSE Maths Meant For Age 16",
+     "url": "https://www.ndtv.com/education/ahead-of-his-years-7-year-old-indian-origin-boy-in-uk-bags-grade-8-in-gcse-maths-meant-for-16-year-olds-11980204#publisher=newsstand",
+     "summary": "Jivyan attended a mainstream primary school in London until February this year, after which his parents moved him to home education.",
+     "published": "2026-08-31T04:28:49+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/qa8udad4_jivyan_625x300_31_August_26.jpeg",
+     "licence": "linkout",
+     "id": "046f07bd6519",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "16. Jivyan attended a mainstream primary"
      ]
     }
    ]
@@ -729,17 +712,54 @@
    "upsc": false,
    "items": [
     {
-     "title": "People return to their flood-ravaged homes in Nepal",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss",
-     "summary": "Survivors in Nepal’s Nuwakot district are digging through mud and debris for belongings left behind by flash floods.",
-     "published": "2026-08-31T04:19:22+00:00",
+     "title": "Aston Villa vs Arsenal: Premier League – prediction, team news, lineups",
+     "url": "https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss",
+     "summary": "Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.",
+     "published": "2026-08-31T05:37:23+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788149830.jpg?resize=1920%2C1077&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-08-24T163806Z_1167482161_UP1EK8O1A7G15_RTRMADP_3_SOCCER-ENGLAND-AVL-ARS-REPORT-1788124406.jpg?resize=1200%2C630",
      "licence": "linkout",
-     "id": "3005fd4f9839",
-     "category": "human",
-     "category_label": "Human interest"
+     "id": "37e1ec1e88ed",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "Tennis great Djokovic exits US Open in first round amid tears and pain",
+     "url": "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
+     "summary": "Novak Djokovic's pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.",
+     "published": "2026-08-31T05:31:25+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260831__C6VK9KZ__v1__HighRes__TennisUsaOpen-1788154073.jpg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "cd21db1d430a",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "US Open 2026: Novak Djokovic In Tears After First Opening Round Exit In 20 Years",
+       "url": "https://sports.ndtv.com/tennis/us-open-2026-novak-djokovic-in-tears-after-first-opening-round-exit-in-20-years-11980440#publisher=newsstand",
+       "summary": "US Open 2026 witnessed one of the biggest upsets in the tournament's history as Novak Djokovic crashed out in the first round after losing to Mariano Navone."
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Global coral reef coverage risks irreversible decline, new report warns",
+     "url": "https://www.aljazeera.com/news/2026/8/31/global-coral-reef-coverage-risks-irreversible-decline-new-report-warns?traffic_source=rss",
+     "summary": "Coral reefs make up just 1 percent of ocean coverage, but host a quarter of all life in the sea.",
+     "published": "2026-08-31T05:19:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a95082e3c502-1788151854.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "ba10eed6e1d3",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "1 percent of ocean coverage"
+     ]
     },
     {
      "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
@@ -753,49 +773,6 @@
      "id": "220e88c45c7c",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss",
-     "summary": "Hundreds gathered for a Zohran Mamdani lookalike contest in New York, with nine contestants vying for votes.",
-     "published": "2026-08-31T03:11:56+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788145770.jpg?resize=1440%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "8bd380c34872",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Iran targets Jordan after first US attack in a month",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
-     "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
-     "published": "2026-08-31T03:06:56+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788145586.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "6fbfb651cb59",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-     "published": "2026-08-31T03:56:15+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "80226a3cb4a8",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "18 missing after ferry capsizes off",
-      "270 people turns over after leaving"
-     ]
     },
     {
      "title": "Iceland votes against restarting EU membership talks",
@@ -908,87 +885,86 @@
    "upsc": false,
    "items": [
     {
-     "title": "Jharkhand CID arrests one more person in ‘exam irregularities’ case",
-     "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cid-arrests-one-more-person-in-exam-irregularities-case/article71409687.ece",
-     "summary": "With the latest apprehension, a total of nine people have been arrested by the agency since August 18",
-     "published": "2026-08-31T05:14:15+00:00",
+     "title": "Nepal flash floods: A wake-up call against infrastructure building spree across Himalayas, warns geo-scientist C.P. Rajendran",
+     "url": "https://www.thehindu.com/news/nepal-flash-floods-a-wake-up-call-against-infrastructure-building-spree-across-himalayas-warns-geo-scientist-cp-rajendran/article71409672.ece",
+     "summary": "The region already suffers from unstable slopes and reduced river efficiency, largely due to development projects carried out with little regard for ecological consequences, he the adjunct professor at National Institute of Advanced Studies, Bengaluru",
+     "published": "2026-08-31T05:52:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rv6u9o/article71397834.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
      "licence": "linkout",
-     "id": "93ee6f626639",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "ddcdb3616f86",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     },
     {
-     "title": "Nepal flash floods LIVE: At least 933 workers trapped in hydropower projects",
-     "url": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece",
-     "summary": "Prime Minister Balendra Shah has said the country is facing an “unimaginable and heartbreaking” disaster",
-     "published": "2026-08-31T05:15:55+00:00",
+     "title": "1 burnt to death after moving car catches fire at Venganoor in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/1-burnt-to-death-after-moving-car-catches-fire-at-venganoor-in-thiruvananthapuram/article71409735.ece",
+     "summary": "A family dispute had allegedly taken place in his home in Kottayam prior to his journey",
+     "published": "2026-08-31T05:42:50+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/w3yd2x/article71409643.ece/alternates/LANDSCAPE_1200/2026-08-30T133732Z_35845283_RC2X8NAFC30J_RTRMADP_3_NEPAL-FLOODS.JPG",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/20zb2y/article71409790.ece/alternates/LANDSCAPE_1200/car%20new.jpg",
      "licence": "linkout",
-     "id": "458e345a6e5b",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "933 workers trapped in hydropower projects"
-     ]
-    },
-    {
-     "title": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
-     "url": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece",
-     "summary": "U.S. Treasury Secretary Scott Bessent is hosting the G-20 Finance Ministers and central bank governors meeting in Asheville",
-     "published": "2026-08-31T05:09:19+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uyxmy4/article71409604.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000005B.jpg",
-     "licence": "linkout",
-     "id": "f550b300cfa9",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "20 finance ministerial meet",
-      "20 Finance Ministers and central bank"
-     ]
-    },
-    {
-     "title": "Suresh Gopi assures steps to repatriate remains of two Keralam women allegedly murdered in US",
-     "url": "https://www.thehindu.com/news/national/kerala/suresh-gopi-assures-steps-to-repatriate-remains-of-two-keralam-women-allegedly-murdered-in-us/article71409667.ece",
-     "summary": "According to their relatives, the deceased have been identified as Anjana, a native of Mudikkode in Thrissur, and Ann Mathew, a native of Kesavadasapuram in Thiruvananthapuram",
-     "published": "2026-08-31T04:47:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/br7g1z/article71409670.ece/alternates/LANDSCAPE_1200/10018_26_4_2025_19_34_41_3_SURESH_GOPI_03.jpg",
-     "licence": "linkout",
-     "id": "382e153ef69a",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "New traffic rules in Bengaluru: No entry for two-wheelers on KIA and e-city elevated corridors; more restrictions on five flyovers",
-     "url": "https://www.thehindu.com/news/cities/bangalore/new-traffic-rules-in-bengaluru-no-entry-for-two-wheelers-on-kia-and-e-city-elevated-corridors-more-restrictions-on-five-flyovers/article71408447.ece",
-     "summary": "The restrictions on the BGS Flyover, Peenya Elevated Corridor, Double-Decker Flyover and Kempe Gowda International Airport Road Elevated Corridor will come into effect from September 4",
-     "published": "2026-08-31T04:27:50+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wyvst1/article71408668.ece/alternates/LANDSCAPE_1200/_JAI0399.JPG",
-     "licence": "linkout",
-     "id": "c4940a20c4dd",
+     "id": "932dadada6aa",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "1 burnt to death after moving"
+     ]
+    },
+    {
+     "title": "FIR registered against Rahul Gandhi over Haldwani 'purification' remarks",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/fir-registered-against-rahul-gandhi-over-haldwani-purification-remarks/article71409565.ece",
+     "summary": "A political row erupted after some individuals allegedly performed a 'purification yajna' at the Ramlila Ground in Haldwani on August 11, following a public meeting held there by Congress President Mallikarjun Kharge on August 8",
+     "published": "2026-08-31T05:40:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/tvp2rz/article71409571.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000196A.jpg",
+     "licence": "linkout",
+     "id": "db645f993131",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "11, following a public meeting held"
+     ]
     },
     {
      "title": "BJP thinks it is bigger than RSS; should listen to Mohan Bhagwat: Dipke",
      "url": "https://www.thehindu.com/news/national/bjp-thinks-it-is-bigger-than-rss-should-listen-to-mohan-bhagwat-dipke/article71409632.ece",
      "summary": "He also said that Sonam Wangchuk's statement in an interview about CJP leaders’ political ambition was being distorted.",
-     "published": "2026-08-31T04:27:44+00:00",
+     "published": "2026-08-31T05:32:16+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/8uqsws/article71409652.ece/alternates/LANDSCAPE_1200/PTI08_30_2026_000464B.jpg",
      "licence": "linkout",
      "id": "5100ef3d8964",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Garbage, water shortages and broken fans: inside CJP’s ‘School Theek Karo’ campaign",
+     "url": "https://www.thehindu.com/education/garbage-water-shortages-and-broken-fans-inside-cjps-school-theek-karo-campaign/article71404938.ece",
+     "summary": "",
+     "published": "2026-08-31T05:32:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/education/t8lbmd/article71407481.ece/alternates/LANDSCAPE_1200/entrance%20of%20the%20mcd%20high%20school%20bhatti%20mines.jpeg",
+     "licence": "linkout",
+     "id": "786ac657e121",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "CJP finds in AAP an all-weather friend supporting it at every turn",
+     "url": "https://www.thehindu.com/news/national/cjp-finds-in-aap-an-all-weather-friend-supporting-it-at-every-turn/article71407670.ece",
+     "summary": "Since the beginning of the CJP, Arvind Kejriwal, other top leaders, and the AAP ecosystem have supported it, even before it became a mass movement in Delhi",
+     "published": "2026-08-31T05:31:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/qah43c/article71409567.ece/alternates/LANDSCAPE_1200/20260721526L.jpg",
+     "licence": "linkout",
+     "id": "4e7dfe6ac1f4",
      "category": "general",
      "category_label": "General"
     },
@@ -1541,28 +1517,15 @@
      ]
     },
     {
-     "title": "Here's how to invest your retirement corpus to keep income steady but still earn from your money",
-     "url": "https://www.livemint.com/money/personal-finance/how-to-invest-retirement-corpus-to-keep-income-steady-but-still-earn-from-your-money-lifestyle-inflation-cost-of-living-11788108791672.html",
-     "summary": "Retirement planning requires a thorough analysis of goals, financial status, and lifestyle aspirations. It's crucial to prepare for emergencies while balancing risk in your portfolio, gradually shifting from equities to safer options as you age.",
-     "published": "2026-08-30T18:02:50+00:00",
+     "title": "How much gold jewellery can you keep at home? Nagpur ITAT explains rules on ownership, gifts, taxability",
+     "url": "https://www.livemint.com/money/personal-finance/how-much-gold-jewellery-can-you-keep-at-home-nagpur-itat-explains-the-rules-on-ownership-gifts-and-taxability-11788144811728.html",
+     "summary": "The Nagpur ITAT deleted a tax addition on jewellery found during an income-tax search, stressing ownership, source and family circumstances. The ruling also examined the CBDT’s prescribed jewellery limits and whether possession within those limits can be treated as reasonably explained.",
+     "published": "2026-08-31T03:00:56+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/retirement-fund_1787920822478_1787920837046_e7ce063b-8ce5-4399-9f15-eaaad0e5c271_1788112283954_93ff07ab-0d85-4974-b8d7-eaeaffaf7bd9.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_3yzwt3yzwt3yzwt3_1788145204388_1788145211762_94c2e5c0-1d02-40e8-b9bc-d2239fcbd144.png",
      "licence": "linkout",
-     "id": "f71a1d95d3e4",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "IPOs are booming, but 37% fell below issue price: 6 red flags to check hiding in the RHP",
-     "url": "https://www.livemint.com/money/personal-finance/ipos-are-booming-but-37-per-cent-fell-below-issue-price-6-red-flags-to-check-11788100375779.html",
-     "summary": "Since IPO-bound companies do not have a listed-market track record or exchange trading history, investors largely have to depend on information provided before the listing",
-     "published": "2026-08-30T17:05:28+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/30/600x338/Gemini_Generated_Image_4jhkwi4jhkwi4jhk_1788109346647_1788109353247_5c77fee2-5df9-4b40-88ef-1450028c3e1b.png",
-     "licence": "linkout",
-     "id": "71f164aa41ff",
+     "id": "e61d57799e62",
      "category": "money",
      "category_label": "Money & scams"
     }
@@ -1612,19 +1575,6 @@
      "id": "75426166157e",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "Technology That Performs: A Strategic Outlook for Healthcare Leaders",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkVqZXJzRFN1bWlnVlFvbklEc2NtWWR4NkN5aFFmRFE4allKVlhXcE14M1I2cHdibHZTQ2dIWlBIYWN6QTVwMWhTSkw0THlkXzh0MjF2aDZ2ZC00MjdwMlVUNGluTF9FQjR0YlM3MUJoMUt3QVVYZ0lJNWdLOTloLU1uWXBubTAyZzFkMkhDYU9uV09HY3ZQbTYxYVBUcXJ0aHdNNjA4azV4M1ZsYUxzS1FBeHNRel8tNUE?oc=5",
-     "summary": "Technology That Performs: A Strategic Outlook for Healthcare Leaders Modern Healthcare",
-     "published": "2026-08-31T05:06:45+00:00",
-     "source": "Modern Healthcare",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "06f024bedace",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1635,36 +1585,39 @@
    "upsc": false,
    "items": [
     {
-     "title": "Hakan Calhanoglu Fires Inter Milan To Nervy Cagliari Win, Como Stun Napoli",
-     "url": "https://sports.ndtv.com/football/calhanoglu-fires-inter-to-nervy-cagliari-win-como-stun-napoli-11979633#publisher=newsstand",
-     "summary": "Hakan Calhanoglu's early strike earned Inter Milan a 1-0 win at Cagliari on Sunday as they continued a perfect start to their Serie A title defence.",
-     "published": "2026-08-31T04:00:48+00:00",
+     "title": "Pakistan Hit Panic Button: Squad Clear-Out And Coaching Change Unloading Ahead Of 3rd Test",
+     "url": "https://sports.ndtv.com/cricket/pakistan-hit-panic-button-squad-clear-out-and-coaching-change-unloading-ahead-of-3rd-test-11980455#publisher=newsstand",
+     "summary": "The Pakistan Cricket Board (PCB) has hit the panic button, with sweeping change unloading ahead of the third and final Test against England.",
+     "published": "2026-08-31T05:42:49+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/levlrh7c_team-inter-milan-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/s498sjs4_sarfaraz-ahmed-with-babar-azam-in-england-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "a56dc48d69ca",
-     "category": "general",
-     "category_label": "General"
+     "id": "f579f7827ae0",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
-     "title": "'FIFA President Gianni Infantino Must Go': Ex-UEFA Chief Michel Platini",
-     "url": "https://sports.ndtv.com/football/fifa-president-infantino-must-go-says-ex-uefa-boss-platini-11979521#publisher=newsstand",
-     "summary": "French football great Michel Platini said on Sunday FIFA president Gianni Infantino \"must go\" following the scandals that have rocked world football's governing body.",
-     "published": "2026-08-31T03:53:09+00:00",
+     "title": "US Open 2026: Novak Djokovic In Tears After First Opening Round Exit In 20 Years",
+     "url": "https://sports.ndtv.com/tennis/us-open-2026-novak-djokovic-in-tears-after-first-opening-round-exit-in-20-years-11980440#publisher=newsstand",
+     "summary": "US Open 2026 witnessed one of the biggest upsets in the tournament's history as Novak Djokovic crashed out in the first round after losing to Mariano Navone.",
+     "published": "2026-08-31T05:38:34+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/mtd6b5sc_michel-platini_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/5ol713p8_novak-djokovic-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "d4b896c6094e",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "3abe9dff7242",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "20 Years"
+     ]
     },
     {
-     "title": "Central Zone vs East Zone, Duleep Trophy Semi-Final Live Score, Day 2: Batter Sooraryavanshi In Spotlight After Captaincy Stint",
+     "title": "Central Zone vs East Zone, Duleep Trophy Semi-Final Live Score, Day 2: Vaibhav Sooryavanshi Hits Fiery 50, East Zone On Fire",
      "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
-     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Live: After impressing in the leadership role on Day 1, Vaibhav Sooryavanshi will be under the spotlight again as a batter on Day 2.",
-     "published": "2026-08-31T03:34:31+00:00",
+     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Live: Vaibhav Sooryavanshi is fearlessly dealing in boundaries as East Zone are dominating the game against Central Zone on Day 2 of the Duleep Trophy semi-final match.",
+     "published": "2026-08-31T05:32:09+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-08/ui8i9prc_vs_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -1673,21 +1626,60 @@
      "category": "general",
      "category_label": "General",
      "figures": [
-      "1, Vaibhav Sooryavanshi will be under"
+      "50, East Zone On Fire"
      ]
     },
     {
-     "title": "Babar Azam Asked About Pakistan Boycott Over Imran Khan's Sons' Interview. His Reply",
-     "url": "https://sports.ndtv.com/cricket/babar-azam-ends-silence-on-boycott-rumours-over-imran-khans-sons-interview-11979908#publisher=newsstand",
-     "summary": "Babar Azam was asked if Pakistan planned to boycott the Lord's Test against England after broadcaster Sky Sports aired the interview featuring Imran Khan's sons during the Lunch break on Day 1.",
-     "published": "2026-08-31T03:04:24+00:00",
+     "title": "From Lennart Karl To Aleksandar Pavlovic: The Untold Story Behind Bayern's Next Golden Generation",
+     "url": "https://sports.ndtv.com/football/from-lennart-karl-to-aleksandar-pavlovic-the-untold-story-behind-bayerns-next-golden-generation-11980366#publisher=newsstand",
+     "summary": "Speaking to NDTV, Bayern Munich head of youth academy Jochen Sauer explained the core principles that saw multiple Campus players earn promotion to the first team at the club.",
+     "published": "2026-08-31T05:18:33+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/v0qvpq0c_babar-azam-bbc-x_625x300_31_August_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-08/lof6e3js_lennart-karl-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "ea3c45c09a90",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "f030ceb952ff",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Joe Root's Blockbuster Praise For Team England After Dominating Win vs Pakistan",
+     "url": "https://sports.ndtv.com/cricket/lot-of-good-things-to-build-on-joe-root-praises-englands-performance-after-lords-win-over-pakistan-11980021#publisher=newsstand",
+     "summary": "England Test captain Joe Root praised his team's all-round performance after the Three Lions secured a commanding 194-run victory over Pakistan in the second Test at Lord's on Sunday.",
+     "published": "2026-08-31T04:50:40+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/cshcma6_joe-root-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d189f1706d68",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "4.5 Hour Match, Vomit On Court, 5 Sets: Djokovic Out Of US Open in 1st Round",
+     "url": "https://sports.ndtv.com/tennis/novak-djokovic-stunned-by-mariano-navone-crashes-out-of-us-open-in-1st-round-11980116#publisher=newsstand",
+     "summary": "Argentina's Mariano Navone handed former World No. 1 Novak Djokovic a first-round exit in the US Open 2026, beating him 7-6(5), 5-7, 4-6, 6-2, 6-1 over 5 sets.",
+     "published": "2026-08-31T04:50:30+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/6uapmb2k_djokovic_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6caee84ab567",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "Tennis great Djokovic exits US Open in first round amid tears and pain",
+       "url": "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
+       "summary": "Novak Djokovic's pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone."
+      }
+     ],
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "4.5 Hour Match, Vomit On Court",
+      "5 Sets : Djokovic Out",
+      "1 over 5 sets"
+     ]
     }
    ]
   },
