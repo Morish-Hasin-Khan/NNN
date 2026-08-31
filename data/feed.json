@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T19:01:33.619736+00:00",
+ "generated_at": "2026-08-31T19:31:36.666692+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -76,22 +76,21 @@
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 78567.0,
-   "change": -1691.0,
-   "changePct": -2.11,
-   "decimals": 0,
-   "stale": true
+   "value": 79061.0,
+   "change": -1196.0,
+   "changePct": -1.49,
+   "decimals": 0
   }
  ],
  "topics": [
-  "Tamil Nadu",
-  "Convicts Sentenced",
+  "After Bengaluru",
+  "Year Arrested",
   "Jazeera English",
   "News",
   "Delhi",
   "Maharashtra DYFI",
-  "Watch Chennithala",
-  "State Kerala",
+  "Telangana AYUSH",
+  "Sumadhura Group",
   "Firecracker India",
   "Data Reign"
  ],
@@ -103,55 +102,49 @@
    "upsc": false,
    "items": [
     {
-     "title": "Tamil Nadu Police Transfers 6 Crypto Fraud Cases To Economic Offences Wing",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0NfTHl3NXBhOFJObTItNUwxVWRzV3VOUEY5NlB0NUtVT09BNW9FV01ydWZIOEJaZG1kTXpyMkN5V0dPZzA3N3Jya2FxNnFlOERrQ2ZSNnJWMlFxU0lwQWxWOHl5UXhNeEVrU3UtelFwVVpQek9seEJqRTBEMkQyc1QtRm5la3dtVzRMRFdoTGFTWTR2SGx6dUZFVjViQXZibWo5bk1sLUhib08tZTRiU2NadG55Zw?oc=5",
-     "summary": "Tamil Nadu Police Transfers 6 Crypto Fraud Cases To Economic Offences Wing NDTV",
-     "published": "2026-08-31T18:39:22+00:00",
-     "source": "NDTV",
+     "title": "After FIR against TDP MLA for abduction of Bengaluru businessman, police clarify he was detained by Andhra Pradesh police",
+     "url": "https://www.thehindu.com/news/national/karnataka/after-fir-against-tdp-mla-for-abduction-of-bengaluru-businessman-police-clarify-he-was-detained-by-andhra-pradesh-police/article71410602.ece",
+     "summary": "",
+     "published": "2026-08-31T19:11:11+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/7orly7/article71412069.ece/alternates/LANDSCAPE_1200/IMG_iStock-1066062122_2_1_KABUI5MT.jpg",
      "licence": "linkout",
-     "id": "9a22e94cc678",
+     "id": "0a99fa102930",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Scandals & Investigations",
-     "figures": [
-      "rs 6  Crypto Fraud Cases"
-     ]
+     "from_section": "National Hotlines"
     },
     {
-     "title": "5 Convicts Sentenced To Life Imprisonment In 2024 Gang Rape Case In Gujarat",
-     "url": "https://www.ndtv.com/india-news/5-convicts-sentenced-to-life-imprisonment-in-2024-gang-rape-case-in-gujarat-11983852#publisher=newsstand",
-     "summary": "To support the minor survivor's recovery and long-term rehabilitation, the court awarded her a financial compensation of 10 lakh.",
-     "published": "2026-08-31T17:35:44+00:00",
+     "title": "25-Year-Old Man Arrested For Killing Wife Over Dowry In UP",
+     "url": "https://www.ndtv.com/india-news/25-year-old-man-arrested-for-killing-wife-over-dowry-in-ups-lucknow-11984087#publisher=newsstand",
+     "summary": "Police said on August 28, a written complaint was submitted by the complainant, Ram Ghulam, alleging that his daughter was murdered after being harassed for dowry.",
+     "published": "2026-08-31T19:00:10+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2019-07/att9hsso_court-generic_625x300_27_July_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2022-11/iof8givc_arrest-generic_625x300_30_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "bdc9e0de4817",
+     "id": "5054ff5f976c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Bihar Couple, 3 Children Injured In Acid Attack Over Financial Dispute",
+     "url": "https://www.ndtv.com/india-news/bihar-couple-3-children-injured-in-acid-attack-over-financial-dispute-11984075#publisher=newsstand",
+     "summary": "The incident occurred in the Purani Bazar locality under the jurisdiction of the Kesariya Police Station on August 29 during a heated argument between the two sides over a monetary transaction, a police statement said.",
+     "published": "2026-08-31T18:57:08+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://i.ndtvimg.com/i/2017-11/acid-generic-istock_650x400_41511869760.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "fb007bb04946",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News",
      "figures": [
-      "5 Convicts Sentenced To Life Imprisonment",
-      "10 lakh"
-     ]
-    },
-    {
-     "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-     "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-     "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
-     "published": "2026-08-31T14:50:36+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png",
-     "licence": "linkout",
-     "id": "8b8dbefcc48a",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "20 missing in an incident"
+      "3 Children Injured In Acid Attack",
+      "29 during a heated argument between"
      ]
     },
     {
@@ -169,20 +162,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "Need To Move To End Of War: Foreign Ministry To NDTV On PM's Ukraine Comment",
-     "url": "https://www.ndtv.com/india-news/need-to-move-to-end-of-war-foreign-ministry-to-ndtv-on-pms-ukraine-comment-11983788#publisher=newsstand",
-     "summary": "\"We have to move from a situation of 'endless war' to 'end of war'... Every day of war sets humanity back,\" PM Narendra Modi had told Russian President Vladimir Putin",
-     "published": "2026-08-31T17:18:44+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-04/cdbfile8_modi-putin-friendship_625x300_03_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "0099471fdc7f",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "National News"
-    },
-    {
      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
@@ -197,65 +176,91 @@
      "from_section": "Business"
     },
     {
-     "title": "‘Let Data Reign’: Trump decries opposition to data centres in US",
-     "url": "https://www.aljazeera.com/news/2026/8/31/let-data-reign-trump-decries-opposition-to-data-centres-in-us?traffic_source=rss",
-     "summary": "Despite concerns over electricity and water consumption, US president calls on communities to embrace data centres.",
-     "published": "2026-08-31T18:42:27+00:00",
-     "source": "Al Jazeera",
+     "title": "How the US-Canada trade war is being felt on both sides of the border",
+     "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+     "summary": "The US-Canada trade war is being felt on both sides of the border.",
+     "published": "2026-08-31T00:05:22+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26174068173663-1788191977.jpg?resize=1200%2C675",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png",
      "licence": "linkout",
-     "id": "17e7f0d97eaa",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
+     "id": "556c91f34645",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Business"
     },
     {
-     "title": "PM Narendra Modi Attends World Nomad Games Opening Ceremony, Greets Indian Contingent",
-     "url": "https://sports.ndtv.com/othersports/pm-narendra-modi-attends-world-nomad-games-opening-ceremony-greets-indian-contingent-11983970#publisher=newsstand",
-     "summary": "Prime Minister Narendra Modi on Monday attended the opening ceremony of the 6th World Nomad Games at Bishkek Arena and greeted the Indian contingent participating in the event",
-     "published": "2026-08-31T18:12:45+00:00",
-     "source": "NDTV Sports",
+     "title": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-ayush-doctors-call-off-28-day-strike-after-health-minister-assures-stipend-hike/article71412164.ece",
+     "summary": "",
+     "published": "2026-08-31T19:30:31+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/m6q8r5vg_narendra-modi_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/ch33ty/article71412168.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-31%20at%208.43.21%20PM.jpeg",
      "licence": "linkout",
-     "id": "5b0d7b83a727",
+     "id": "92b397f01309",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Sports"
+     "from_section": "National News"
     },
     {
-     "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
-     "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times",
-     "published": "2026-08-31T12:41:48+00:00",
-     "source": "The Economic Times",
+     "title": "PM Modi urges Iran to ensure peace, freedom of navigation",
+     "url": "https://www.thehindu.com/news/national/pm-modi-meet-iran-president-masoud-pezeshkian-on-the-sidelines-of-sco-summit-in-kyrgyzstan/article71410215.ece",
+     "summary": "In a meeting with Iranian President, PM Modi calls for stability in the region and seeks safeguards for civilians; Iran requests India to use its “extensive contacts” to help the dialogue process, it blames Israel and U.S. for creating “obstacles”",
+     "published": "2026-08-31T19:07:57+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/uu457y/article71410262.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000202B.jpg",
      "licence": "linkout",
-     "id": "299131fb2594",
+     "id": "be75f2bded7b",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
     },
     {
-     "title": "Mahanagar Gas hikes CNG prices by ₹2/kg as LNG prices continue to soar",
-     "url": "https://www.thehindu.com/business/Industry/mahanagar-gas-ltd-to-hike-price-of-cng-by-2-per-kg-across-all-retail-outlets/article71412405.ece",
-     "summary": "CNG in Mumbai would now cost ₹88/kg. Price of Domestic PNG would also be hiked by ₹1/SCM.",
-     "published": "2026-08-31T18:34:35+00:00",
+     "title": "Akali-BJP Experiment Gets Students' Stamp Ahead Of Punjab Polls",
+     "url": "https://www.ndtv.com/india-news/akali-bjp-experiment-gets-students-stamp-ahead-of-punjab-polls-11984086#publisher=newsstand",
+     "summary": "ABVP's Ankit Vidhan was elected president of the Panjab University Campus Students Council, with the Shiromani Akali Dal's student wing - Students Organisation of India or SOI - backing his candidature.",
+     "published": "2026-08-31T18:59:52+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/raqsvkrg_panjab-university-polls_625x300_01_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "fe53bce0b586",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Sumadhura Group makes Chennai debut with ₹400-crore logistics park",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/sumadhura-group-makes-chennai-debut-with-400-crore-logistics-park/article71412191.ece",
+     "summary": "",
+     "published": "2026-08-31T19:29:43+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/s4xipw/article71412422.ece/alternates/LANDSCAPE_1200/MGL-woos-LPG-cuGR8FOS4QU.3.jpg.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "df4ab87729a8",
+     "id": "3b14504ddba7",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National Hotlines",
+     "from_section": "National News",
      "figures": [
-      "₹2 /kg as LNG prices",
-      "₹88 /kg",
-      "₹1 /SCM"
+      "₹400 -crore logistics park"
      ]
+    },
+    {
+     "title": "Onions arrive from Nashik to reduce prices",
+     "url": "https://www.thehindu.com/news/cities/chennai/onions-arrive-from-nashik-to-reduce-prices/article71412413.ece",
+     "summary": "",
+     "published": "2026-08-31T19:08:38+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/9aydoe/article71412556.ece/alternates/LANDSCAPE_1200/SRI_6628.JPG",
+     "licence": "linkout",
+     "id": "693539beb514",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National Hotlines"
     },
     {
      "title": "From borrowing $4,000 to becoming a billionaire: Two investing lessons from Ray Dalio",
@@ -273,20 +278,6 @@
      "figures": [
       "$4,000  to becoming a billionaire"
      ]
-    },
-    {
-     "title": "Palestinian farmers rebuild what Israeli settlers destroy in West Bank",
-     "url": "https://www.aljazeera.com/news/2026/8/31/palestinian-farmers-rebuild-what-israeli-settlers-destroy-in-west-bank?traffic_source=rss",
-     "summary": "Israeli settler pogroms destroy greenhouses and crops, but Burin's farmers insist on rebuilding.",
-     "published": "2026-08-31T18:17:20+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ruined-cooperative-greenhouses-1788196396.jpeg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "a08b19030593",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News"
     },
     {
      "title": "Firecracker factory blast in India kills 8 children",
@@ -395,20 +386,6 @@
      "category": "weather",
      "category_label": "Weather & disaster",
      "from_section": "Global Hotline"
-    },
-    {
-     "title": "Uneven Monsoon Distribution Hides Severe Regional Rain Deficits In India",
-     "url": "https://www.ndtv.com/india-news/uneven-monsoon-distribution-hides-severe-regional-rain-deficits-in-india-11983618#publisher=newsstand",
-     "summary": "Some days have seen little or no rain, followed by spells of heavy rain that have caused waterlogging and flooding.",
-     "published": "2026-08-31T16:35:49+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/snkqbrqo_datafy_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "10a131409f34",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National News"
     },
     {
      "title": "Once a village, now barren land - BBC in valley devastated by floods",
@@ -522,7 +499,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-31T19:01:20.438654+00:00",
+     "published": "2026-08-31T19:31:25.135793+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -533,7 +510,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-31T19:01:20.438672+00:00",
+     "published": "2026-08-31T19:31:25.135811+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -544,7 +521,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-31T19:01:20.438677+00:00",
+     "published": "2026-08-31T19:31:25.135815+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -555,7 +532,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-31T19:01:20.438681+00:00",
+     "published": "2026-08-31T19:31:25.135818+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -566,7 +543,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-31T19:01:20.438685+00:00",
+     "published": "2026-08-31T19:31:25.135820+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -577,7 +554,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-31T19:01:20.438689+00:00",
+     "published": "2026-08-31T19:31:25.135823+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -622,14 +599,14 @@
     },
     {
      "title": "Tamil Nadu Police Transfers 6 Crypto Fraud Cases To Economic Offences Wing",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0NfTHl3NXBhOFJObTItNUwxVWRzV3VOUEY5NlB0NUtVT09BNW9FV01ydWZIOEJaZG1kTXpyMkN5V0dPZzA3N3Jya2FxNnFlOERrQ2ZSNnJWMlFxU0lwQWxWOHl5UXhNeEVrU3UtelFwVVpQek9seEJqRTBEMkQyc1QtRm5la3dtVzRMRFdoTGFTWTR2SGx6dUZFVjViQXZibWo5bk1sLUhib08tZTRiU2NadG55Zw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0NfTHl3NXBhOFJObTItNUwxVWRzV3VOUEY5NlB0NUtVT09BNW9FV01ydWZIOEJaZG1kTXpyMkN5V0dPZzA3N3Jya2FxNnFlOERrQ2ZSNnJWMlFxU0lwQWxWOHl5UXhNeEVrU3UtelFwVVpQek9seEJqRTBEMkQyc1QtRm5la3dtVzRMRFdoTGFTWTR2SGx6dUZFVjViQXZibWo5bk1sLUhib08tZTRiU2NadG55Z9IBvgFBVV95cUxPSVBXeDBGdFRYMk1BNUdNUnA0YUMxQ3F3aVpKWHQzODlJc1QwZWdrZEZuMHZOMFhwemhhejdmd290MWo4enNaVTJKSUE1MjNtc04yblBUQzF3TGJDWjk3dTMySHNxbUlYbmE4eWNHMHVMUVh4TGNJUXhMTE9fXzlGR1U5TnQ0ZTJwUnlfQlZEVDh1c2ZkZkdCWVV6bC1fOWc3ZEdqelZkdkt4ZW13N0I1TGRXS2pjTjJhNFhyaDZ3?oc=5",
      "summary": "Tamil Nadu Police Transfers 6 Crypto Fraud Cases To Economic Offences Wing NDTV",
      "published": "2026-08-31T18:39:22+00:00",
      "source": "NDTV",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "9a22e94cc678",
+     "id": "2f1c3ca64fcc",
      "category": "crime",
      "category_label": "Crime",
      "figures": [
@@ -658,104 +635,98 @@
    "upsc": false,
    "items": [
     {
-     "title": "Watch: Chennithala disagrees with Keralam Islamic scholar’s opinion that women should stay at home",
-     "url": "https://www.thehindu.com/videos/shorts/watch-chennithala-disagress-with-keralam-islamic-scholars-opinion-that-women-should-stay-at-home/article71412198.ece",
+     "title": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-ayush-doctors-call-off-28-day-strike-after-health-minister-assures-stipend-hike/article71412164.ece",
      "summary": "",
-     "published": "2026-08-31T18:51:57+00:00",
+     "published": "2026-08-31T19:30:31+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rmwgbb/article71412197.ece/alternates/LANDSCAPE_1200/Ramesh%20Chennithala_grab.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ch33ty/article71412168.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-31%20at%208.43.21%20PM.jpeg",
      "licence": "linkout",
-     "id": "aae7e5399059",
-     "category": "general",
-     "category_label": "General"
+     "id": "92b397f01309",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "State liable to compensate for injury or damage caused by wild animal attacks: Kerala High Court",
-     "url": "https://www.thehindu.com/news/national/kerala/state-liable-to-compensate-for-injury-or-damage-caused-by-wild-animal-attacks-kerala-high-court/article71412113.ece",
+     "title": "Sumadhura Group makes Chennai debut with ₹400-crore logistics park",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/sumadhura-group-makes-chennai-debut-with-400-crore-logistics-park/article71412191.ece",
      "summary": "",
-     "published": "2026-08-31T18:51:10+00:00",
+     "published": "2026-08-31T19:29:43+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "73769f21bb3f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Over 55,000 students get provisional allotment through upward movement after Round 3 of TNEA 2026",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/over-55000-students-get-provisional-allotment-through-upward-movement-after-round-3-of-tnea-2026/article71410882.ece",
-     "summary": "",
-     "published": "2026-08-31T18:41:21+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "dc58da281b24",
-     "category": "general",
-     "category_label": "General",
+     "id": "3b14504ddba7",
+     "category": "money",
+     "category_label": "Money & scams",
      "figures": [
-      "55,000 students get provisional allotment through"
+      "₹400 -crore logistics park"
      ]
     },
     {
-     "title": "BLOs do the heavy lifting; group hearings to be conducted locality wise",
-     "url": "https://www.thehindu.com/news/national/telangana/blos-do-the-heavy-lifting-group-hearings-to-be-conducted-locality-wise/article71411652.ece",
-     "summary": "",
-     "published": "2026-08-31T18:38:27+00:00",
+     "title": "The battle within the BJP in Bengal",
+     "url": "https://www.thehindu.com/opinion/op-ed/the-battle-within-the-bjp-in-bengal/article71412401.ece",
+     "summary": "Suvendu Adhikari who promised to dismantle Mamata Banerjee’s political system, is consolidating power by absorbing the very same system and networks",
+     "published": "2026-08-31T19:29:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/53wutc/article71412515.ece/alternates/LANDSCAPE_1200/SIR_-Assembly-cGEQGETAK1.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/4isist/article71412598.ece/alternates/LANDSCAPE_1200/PTI05_05_2026_RPT166A.jpg",
      "licence": "linkout",
-     "id": "0f7335b2252b",
+     "id": "5d0cb3c46762",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Manickam Tagore and Praveen Chakravarty meet CM",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/manickam-tagore-and-praveen-chakravarty-meet-cm/article71412224.ece",
+     "title": "Keralam CM condemns registration of FIR against Rahul Gandhi",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-condemns-registration-of-fir-against-rahul-gandhi/article71411288.ece",
      "summary": "",
-     "published": "2026-08-31T18:37:08+00:00",
+     "published": "2026-08-31T19:23:20+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/zc5mge/article71412600.ece/alternates/LANDSCAPE_1200/Keralam-CM-SathGNRGEJ693.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "053d765f4524",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Pinarayi accuses Taliparamba MLA of ‘betrayal’",
+     "url": "https://www.thehindu.com/news/national/kerala/pinarayi-accuses-taliparamba-mla-of-betrayal/article71412588.ece",
+     "summary": "",
+     "published": "2026-08-31T19:21:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "a60a2b7b23e5",
+     "id": "a87b456da78f",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "9 Naga MLAs From Manipur Demand Centre's Action Against Kuki-Zo Leaders",
-     "url": "https://www.ndtv.com/india-news/9-naga-mlas-from-manipur-demand-centres-action-against-kuki-zo-leaders-11983851#publisher=newsstand",
-     "summary": "In a letter to Amit Shah, the MLAs described the situation in Manipur as \"critical and volatile\" and called for urgent and decisive intervention to restore peace and normalcy.",
-     "published": "2026-08-31T17:35:09+00:00",
+     "title": "Anna Hazare Admitted To ICU In Mumbai Due To Viral Infection, Dehydration",
+     "url": "https://www.ndtv.com/india-news/anna-hazare-admitted-to-icu-in-mumbai-due-to-viral-infection-dehydration-11984123#publisher=newsstand",
+     "summary": "Anna Hazare is currently under constant observation in the ICU under the care of Gautam Bhansali.",
+     "published": "2026-08-31T19:13:27+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/r6rq4d3g_manipur_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://i.ndtvimg.com/i/2018-04/anna-hazare_650x400_71523947637.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "ce7b76643eb3",
+     "id": "2678b60536d3",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "9 Naga MLAs From Manipur Demand"
-     ]
+     "category_label": "General"
     },
     {
-     "title": "After 6 Daughters, She Wanted A Son. She Stole One From Delhi Hospital",
-     "url": "https://www.ndtv.com/india-news/after-6-daughters-she-wanted-a-son-she-stole-one-from-delhi-hospital-11983846#publisher=newsstand",
-     "summary": "During interrogation, the woman, a native of Bihar's Banka district, revealed that she had six daughters and could no longer conceive due to medical issues.",
-     "published": "2026-08-31T17:34:19+00:00",
+     "title": "8-Year Jail For Conman Sukesh Chandrasekhar For Posing As Top Court Judge",
+     "url": "https://www.ndtv.com/india-news/8-year-jail-for-conman-sukesh-chandrasekhar-for-posing-as-top-court-judge-11984072#publisher=newsstand",
+     "summary": "In its sentencing order, the court said the case was \"profoundly disturbing\" and qualitatively different from other cases of impersonation as it struck at the root of one of the foundational pillars of a democratic state, the judiciary.",
+     "published": "2026-08-31T18:54:11+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/j06dgrrg_delhi_625x300_31_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2021-08/2u18nar_sukesh-chandra-shekhar_625x300_11_August_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "05eac5c71bd1",
+     "id": "038eed4d2515",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "6 Daughters , She Wanted"
-     ]
+     "category_label": "General"
     }
    ]
   },
@@ -808,6 +779,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "Palestinian farmers rebuild what Israeli settlers destroy in West Bank",
+     "url": "https://www.aljazeera.com/news/2026/8/31/palestinian-farmers-rebuild-what-israeli-settlers-destroy-in-west-bank?traffic_source=rss",
+     "summary": "Israeli settler pogroms destroy greenhouses and crops, but Burin's farmers insist on rebuilding.",
+     "published": "2026-08-31T18:17:20+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ruined-cooperative-greenhouses-1788196396.jpeg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "a08b19030593",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "US and Iran trade strikes for first time in weeks",
      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
@@ -845,6 +829,22 @@
      "id": "608a9487eb92",
      "category": "crime",
      "category_label": "Crime"
+    },
+    {
+     "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+     "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+     "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
+     "published": "2026-08-31T14:50:36+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png",
+     "licence": "linkout",
+     "id": "8b8dbefcc48a",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "20 missing in an incident"
+     ]
     }
    ]
   },
@@ -931,75 +931,82 @@
    "upsc": false,
    "items": [
     {
-     "title": "Watch: Chennithala disagrees with Keralam Islamic scholar’s opinion that women should stay at home",
-     "url": "https://www.thehindu.com/videos/shorts/watch-chennithala-disagress-with-keralam-islamic-scholars-opinion-that-women-should-stay-at-home/article71412198.ece",
+     "title": "Keralam CM condemns registration of FIR against Rahul Gandhi",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-condemns-registration-of-fir-against-rahul-gandhi/article71411288.ece",
      "summary": "",
-     "published": "2026-08-31T18:51:57+00:00",
+     "published": "2026-08-31T19:23:20+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rmwgbb/article71412197.ece/alternates/LANDSCAPE_1200/Ramesh%20Chennithala_grab.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/zc5mge/article71412600.ece/alternates/LANDSCAPE_1200/Keralam-CM-SathGNRGEJ693.3.jpg.jpg",
      "licence": "linkout",
-     "id": "aae7e5399059",
+     "id": "053d765f4524",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "State liable to compensate for injury or damage caused by wild animal attacks: Kerala High Court",
-     "url": "https://www.thehindu.com/news/national/kerala/state-liable-to-compensate-for-injury-or-damage-caused-by-wild-animal-attacks-kerala-high-court/article71412113.ece",
+     "title": "Pinarayi accuses Taliparamba MLA of ‘betrayal’",
+     "url": "https://www.thehindu.com/news/national/kerala/pinarayi-accuses-taliparamba-mla-of-betrayal/article71412588.ece",
      "summary": "",
-     "published": "2026-08-31T18:51:10+00:00",
+     "published": "2026-08-31T19:21:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "73769f21bb3f",
+     "id": "a87b456da78f",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Over 55,000 students get provisional allotment through upward movement after Round 3 of TNEA 2026",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/over-55000-students-get-provisional-allotment-through-upward-movement-after-round-3-of-tnea-2026/article71410882.ece",
-     "summary": "",
-     "published": "2026-08-31T18:41:21+00:00",
+     "title": "The need for political unity in Kashmir",
+     "url": "https://www.thehindu.com/opinion/op-ed/the-need-for-political-unity-in-kashmir/article71412412.ece",
+     "summary": "While Kashmir’s right to dignity and respectable federal arrangement is non-negotiable, the way to realising it cannot be the daily whipping of a rather disempowered local government for not being combative enough",
+     "published": "2026-08-31T19:13:45+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/z4ub65/article71412584.ece/alternates/LANDSCAPE_1200/03_Omar_Abdullah_Protest_20_07_Delhi.jpg",
      "licence": "linkout",
-     "id": "dc58da281b24",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "55,000 students get provisional allotment through"
-     ]
-    },
-    {
-     "title": "Onam Week celebrations: Forest dept., ISRO among winners",
-     "url": "https://www.thehindu.com/news/national/kerala/onam-week-celebrations-forest-dept-isro-among-winners/article71411582.ece",
-     "summary": "",
-     "published": "2026-08-31T18:33:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "835d5dd2d831",
+     "id": "1b216a74fdac",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "51 persons with disabilities get three-wheel bikes",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/51-persons-with-disabilities-get-three-wheel-bikes/article71412145.ece",
+     "title": "Campaign to ensure vehicles are not parked along NHs",
+     "url": "https://www.thehindu.com/news/cities/chennai/campaign-to-ensure-vehicles-are-not-parked-along-nhs/article71411979.ece",
      "summary": "",
-     "published": "2026-08-31T18:30:39+00:00",
+     "published": "2026-08-31T19:13:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/fo7xm6/article71412512.ece/alternates/LANDSCAPE_1200/VSP01_Distribution%203.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/6u9egl/article71412215.ece/alternates/LANDSCAPE_1200/9712_27_6_2026_14_10_20_3__DSC8576.JPG",
      "licence": "linkout",
-     "id": "de0c80976f6b",
+     "id": "6dc880225d7b",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "51 persons with disabilities get three-wheel"
-     ]
+     "category_label": "General"
+    },
+    {
+     "title": "Food safety drive finds labelling, hygiene violations at sweet manufacturing units across Karnataka",
+     "url": "https://www.thehindu.com/news/national/karnataka/food-safety-drive-finds-labelling-hygiene-violations-at-sweet-manufacturing-units-across-karnataka/article71411678.ece",
+     "summary": "Inspections were conducted in Bengaluru Urban, Bengaluru Rural, Greater Bengaluru Authority limits, Mysuru, Dakshina Kannada, Belagavi, Kalaburagi, and Hubballi-Dharwad",
+     "published": "2026-08-31T19:09:06+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/l09pa2/article71412280.ece/alternates/LANDSCAPE_1200/aa054eae-cdc1-4ff4-8c98-f6cbc192020c.jpeg",
+     "licence": "linkout",
+     "id": "e503db2adc1e",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
+     "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times",
+     "published": "2026-08-31T12:41:48+00:00",
+     "source": "The Economic Times",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "299131fb2594",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -1820,9 +1827,9 @@
     {
      "title": "AI-driven space tech poised for investment boom, $100-200 bn opportunity worldwide",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdGcxYjhWdVlQUXR6NGxpclNKVHNHQTBZSjBhdW9tS3V5VVpxb2ZzNVRzX2tvVXBHX05yWENlb0t5NmNRZmFZOVFVenV0WGpaX0EyX2h1Y09uQXJWdmhfWU92ZVdNdVE5bzhWQkNFdllsVkhHcU9CSXdWWFBjWTJwamN0U3U3VlBQNDI5bHlRR2RiVjdWczZfSy1GS3FGNV9JRXRSZlU0SFVIU0FoOW0tcndMSzlfSFdya1lUcExPY1Nyd0dUX0NoTFVQN3NvTW5zLUhHMmZET1NRbWx4V3VjWDBSSUFzODFOOG11T2VNTdIB9AFBVV95cUxNNjdpSGR3OTlNS1RXWG5FcWk3Z0lUbi00M010ZmljV3JteWtMUVdySWtNVjEzNE4weGlQM096SnFnd2RCTGttaFNYOHg5dGltSXFZNzdyd1gtOFhzSHhHQllsNUQwckVSN0ZKR080dXN5Z19ldjNHY2h0WUdVcUhaaTVvMTc4Y21rU0ZKcWtmdkNKdktmbnlWNmQ2aFh5WVQ1aUZtNkJRNldTWWZWT01PNGZGNUVjajlQRjJQYmdIblhwLXl1ZTZYVDhIdldvWHYzbnFqSnhtYlpxMGVFWDU3OWlkU2I0OHltQmYySkZzNFpKNnln?oc=5",
-     "summary": "AI-driven space tech poised for investment boom, $100-200 bn opportunity worldwide cio.economictimes.indiatimes.com",
+     "summary": "AI-driven space tech poised for investment boom, $100-200 bn opportunity worldwide ET CIO",
      "published": "2026-08-31T06:30:00+00:00",
-     "source": "cio.economictimes.indiatimes.com",
+     "source": "ET CIO",
      "byline": "",
      "image": null,
      "licence": "linkout",
