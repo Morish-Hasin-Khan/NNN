@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T15:03:17.664433+00:00",
+ "generated_at": "2026-08-31T15:34:06.425012+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -76,23 +76,22 @@
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 78172.0,
-   "change": -2085.0,
-   "changePct": -2.6,
-   "decimals": 0,
-   "stale": true
+   "value": 78567.0,
+   "change": -1691.0,
+   "changePct": -2.11,
+   "decimals": 0
   }
  ],
  "topics": [
-  "Front Page",
-  "Iran",
+  "Odisha Shefeen",
+  "Cyprus",
   "Jazeera English",
   "News",
+  "Delhi",
   "Maharashtra DYFI",
-  "Charges Three",
-  "Elderly Thiruvananthapuram",
-  "Sports City",
-  "Sleeping What",
+  "Hyderabad",
+  "Foundation Khammam",
+  "Trump",
   "Greece Israel"
  ],
  "sections": [
@@ -103,9 +102,23 @@
    "upsc": false,
    "items": [
     {
-     "title": "'She slipped out of my hand' - couple's children missing after ferry capsizes",
+     "title": "Odisha cadre IPS officer Shefeen Ahamed K. dies",
+     "url": "https://www.thehindu.com/news/national/kerala/odisha-cadre-ips-officer-shefeen-ahamed-k-dies/article71411343.ece",
+     "summary": "He was serving as Inspector General of Police, CID Crime Branch and Cybercrime, Odisha",
+     "published": "2026-08-31T15:20:02+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/rhoxb/article71411306.ece/alternates/LANDSCAPE_1200/Shefeen.jpg",
+     "licence": "linkout",
+     "id": "0494218dc7a7",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-     "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight.",
+     "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
      "published": "2026-08-31T14:50:36+00:00",
      "source": "BBC News",
      "byline": "",
@@ -120,91 +133,66 @@
      ]
     },
     {
-     "title": "US and Iran trade strikes for first time in weeks",
-     "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-     "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-     "published": "2026-08-31T13:47:30+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "77c755dad93a",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Man arrested after Swiss rave shooting that killed woman",
-     "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-     "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-     "published": "2026-08-31T13:11:35+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
-     "licence": "linkout",
-     "id": "cd10da348035",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "PM Modi tells Putin India backs every effort to end war in Ukraine",
-     "url": "https://www.thehindu.com/news/national/modi-putin-meeting-russia-ukraine-war-india-efforts/article71411423.ece",
-     "summary": "PM Modi and ⁠Mr. Putin met in ‌the Kyrgyz capital, Bishkek, as part ‌of the Shanghai ​Cooperation Organization summit",
-     "published": "2026-08-31T14:48:54+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/h9kppw/article71411704.ece/alternates/LANDSCAPE_1200/2026-08-31T142356Z_1046046208_RC2Q9NA5WJV7_RTRMADP_3_SCO-SUMMIT-PUTIN-MODI.JPG",
-     "licence": "linkout",
-     "id": "6e6c8c45c532",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "National News"
-    },
-    {
-     "title": "Facing Anti-Terror Probe In Jail, Mercenary's Family Seeks US Intervention",
-     "url": "https://www.ndtv.com/india-news/matthew-van-dyke-sons-of-liberty-facing-anti-terror-probe-in-jail-mercenarys-family-seeks-us-intervention-11982473#publisher=newsstand",
-     "summary": "A Delhi court on Monday permitted the anti-terror agency to interrogate Matthew Van Dyke and Ukrainian national Kaminskyi Viktor in prison on September 2 and 3.",
-     "published": "2026-08-31T13:05:18+00:00",
+     "title": "11 Killed, Several Injured After Explosion In UP Firecracker Factory",
+     "url": "https://www.ndtv.com/india-news/24-injured-15-feared-trapped-after-explosion-in-up-firecracker-factory-11981906#publisher=newsstand",
+     "summary": "The blast occurred in the Pipri police station area near the Manori power house, following which police, fire brigade and Air Force personnel stationed nearby, launched a joint rescue operation, officials said.",
+     "published": "2026-08-31T14:14:22+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-03/37keui5c_matthew-van-dyke_625x300_17_March_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/ga1u0318_up_625x300_31_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "8e1f94620fd2",
+     "id": "069314354ed5",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "11 Killed , Several Injured"
+     ]
+    },
+    {
+     "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
+     "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
+     "summary": "Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye's growing capabilities.",
+     "published": "2026-08-31T14:57:56+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-09-25T041945Z_745137952_RC2G7AAYQZBF_RTRMADP_3_ISRAEL-PALESTINIANS-TEL-AVIV-1788181715.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "a91f51d40dea",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
+     "figures": [
+      "$3.5bn missile deal with Israel?"
+     ]
+    },
+    {
+     "title": "\"India Supports Peace In Ukraine\": PM Narendra Modi Meets Vladimir Putin In Kyrgyzstan",
+     "url": "https://www.ndtv.com/india-news/india-supports-peace-in-ukraine-pm-narendra-modi-meets-vladimir-putin-in-kyrgyzstan-11982827#publisher=newsstand",
+     "summary": "\"India advocates for resolving all problems peacefully, which is necessary for all of humanity,\" he said during a joint statement with Russia's President Vladinmir Putin.",
+     "published": "2026-08-31T14:52:34+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/35br45d8_pm-modi-putin_625x300_31_August_26.jpg",
+     "licence": "linkout",
+     "id": "1a3edadcc073",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "National News"
     },
     {
-     "title": "How the US-Canada trade war is being felt on both sides of the border",
-     "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-     "summary": "The US-Canada trade war is being felt on both sides of the border.",
-     "published": "2026-08-31T00:05:22+00:00",
-     "source": "BBC News",
+     "title": "War and heat: Why are wheat prices soaring?",
+     "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss",
+     "summary": "Russia and Ukraine have stepped up attacks on their respective grain terminals in the Black Sea.",
+     "published": "2026-08-31T14:42:40+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a957094a9-1788178580.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "556c91f34645",
+     "id": "c8cbfa40be92",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Business"
-    },
-    {
-     "title": "T.N. CM will soon announce Sports City with international-standard facilities for 46 sports: Minister",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-will-soon-announce-sports-city-with-international-standard-facilities-for-46-sports-minister/article71411786.ece",
-     "summary": "",
-     "published": "2026-08-31T14:54:15+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qszg2z/article71411790.ece/alternates/LANDSCAPE_1200/20260819416L.jpg",
-     "licence": "linkout",
-     "id": "78e2792ff331",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "46 sports : Minister"
-     ]
+     "from_section": "Global News"
     },
     {
      "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
@@ -216,9 +204,68 @@
      "image": null,
      "licence": "linkout",
      "id": "299131fb2594",
+     "also": [
+      {
+       "source": "The Indian Express",
+       "title": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy",
+       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPekM5R2QyTEVHMlBreU9taldkX3E1TU1sY2FTbkpEcWhHUDktdzhKVlpNSHB1cFNrdmxPNWRDckdRNDVVR19CSHhwSmo3WnpIczdwODhuTFpMcTZxZ2tETDRzS1ZRM1JFbXJUR2x5SHg3X3E5NVVOUnJuT0FyZ2RRbGVxZXZ0Z0dLQzVOd2JTZXZxWEpGZ1BVMWY0RmNCLW0wSFNjdmZLZEdacnpjY1ctSjdLZXRUMU1yLUZZbUhiaDNvd0N2ZXVDXzY4NHFsSklOQ1hGZnROdXhYRC1oeTNySzdyQTBsNjVrTjlfd203X1lGdy12T2V2c2h1Y0RDem5QbkZ0bTdkaUtMb3hPUWREb2x5Zlo1X2xCOHN5SnB6SG8tS3Jja1VJY2Vva296SXBCRWNSa3A2bWRreTJRX2N3dkNzNlFhSFZyQXRtNTdWTC0tWnRBd1NBaVVfQTFFUdIB5AJBVV95cUxPTFR3d3FVYjNYMHgwOVIwNWtGZHRqU0E1YXRmMWpsQ2hoSVh4ZjZ1N3ptakVJcHRjMm1ES2tVdUVueWxjTmN4T2s4U1NNLTU5UDcwc2FlLW9rdkhLS2RLVU5fOWZfYk1BMF9udjA3Tm80bmx5eXhOT3ItSERlVHlYLVRjNzhkR2xSc1hBa055MWVzS0JSNm1RaHV1WkJIUE9LeFkxaWQ0Z3pMa0wyUjlvS2pFLWs1Vlk1VUt0dkRzdW9iZjg4djA0NXcwVWFhODJVNEF2LXlqbmFOTU4zdG40MjZSRG55Sjc1S1JHYUdKeERsWTZOMjdaVWRtTG5EZk1LVEhVUW9HeGs4Z1FUTWpreUZud3ZNVzlRVUVTdXFnNFFZUXdCZ2N3MlpqUDNCLXVZN0VIVXRUZVFrZ3FraGtLcHF3cDdidWRFOGw5NWtFWm51Y2xrVnR4R3c2ZVBCbTZvd0V2UQ?oc=5",
+       "summary": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy The Indian Express"
+      },
+      {
+       "source": "NDTV Sports",
+       "title": "Duleep Trophy Semi-final 1 Highlights: Vaibhav Sooryavanshi Slams 92, East Zone Locked In Intense Battle With Central Zone",
+       "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-2-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11980055#publisher=newsstand",
+       "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Highlights:Vaibhav Sooryavanshi underlined his red-ball credentials with a 92 full of fire and brimstone, but East Zone failed to take an innings lead over Central…"
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
+    },
+    {
+     "title": "YSRCP will sweep local body polls in Srikakulam dist.: ex-Minister",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-will-sweep-local-body-polls-in-srikakulam-dist-ex-minister/article71409532.ece",
+     "summary": "",
+     "published": "2026-08-31T15:26:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ikz3d5/article71411944.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_19_13_29_1_IMG_20260831_WA0038.JPG",
+     "licence": "linkout",
+     "id": "6b1151e73b31",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Keralam has to focus on high-tech industries to reverse migration, says Vice-President",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-has-to-focus-on-high-tech-industries-to-reverse-migration-says-vice-president/article71411030.ece",
+     "summary": "“In Kerala, land is a scarce commodity. But you have to develop the State with more opportunities. Traditional industry may not be possible because of the land cost”",
+     "published": "2026-08-31T15:21:56+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6mbuu1/article71411532.ece/alternates/LANDSCAPE_1200/PTI08_31_2026_000367B.jpg",
+     "licence": "linkout",
+     "id": "15504fea3e1f",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Foundation stone laid for ₹12 crore BT road and central lighting works in Khammam",
+     "url": "https://www.thehindu.com/news/national/telangana/foundation-stone-laid-for-12-crore-bt-road-and-central-lighting-works-in-khammam/article71411832.ece",
+     "summary": "",
+     "published": "2026-08-31T15:26:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "e467fb44e785",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "₹12 crore BT road and central"
+     ]
     },
     {
      "title": "Last few hours to file tax return: Key pre-filled details ITR-3 and ITR-4 filers must cross-check",
@@ -251,28 +298,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
-    },
-    {
-     "title": "Rs 8,000 Salary To Rs 50 Lakh Package: Engineer With 11 Backlogs Shares Success Story",
-     "url": "https://www.ndtv.com/education/rs-8-000-salary-to-rs-50-lakh-package-engineer-with-11-backlogs-shares-success-story-11982087#publisher=newsstand",
-     "summary": "An engineer went from 11 backlogs and an Rs 8,000 salary to a Rs 50 lakh Senior Engineer role by building skills, clearing exams, taking risks and pursuing continuous learning.",
-     "published": "2026-08-31T12:30:43+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/dht6e1uc_salary_625x300_31_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "2ce78b92bc9f",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News",
-     "figures": [
-      "Rs 8,000  Salary To Rs 50",
-      "Rs 50 Lakh Package: Engineer With 11",
-      "11 Backlogs Shares Success Story",
-      "11 backlogs and an Rs 8,000",
-      "Rs 8,000  salary to a Rs",
-      "Rs 50 lakh Senior Engineer role"
-     ]
     },
     {
      "title": "8th Pay Commission Arrears: Check how much Level 4-7 employees may receive; fitment factor-wise calculation",
@@ -393,6 +418,20 @@
      ]
     },
     {
+     "title": "Punjab BJP Deletes AI Video Showing Bhagwant Mann Being Slapped",
+     "url": "https://www.ndtv.com/india-news/punjab-bjp-deletes-ai-video-showing-bhagwant-mann-being-slapped-11983096#publisher=newsstand",
+     "summary": "The video had initially been shared by the BJP's official Punjab social media handle, depicting an AI-generated scenario in which Mann was allegedly slapped.",
+     "published": "2026-08-31T14:48:48+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-04/11p8uep4_image_160x120_24_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a9b0cdc533a0",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News"
+    },
+    {
      "title": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYmRzQlA1VExIY1IteGFYLTRJT0owbFZMRzYyNDJUTFRnb2F3WVM2VTRraTFNZ3kyQlluUzA3T1BMUnRlakhzSDRaT1ltNHpOZTlxLXRDdFN6UWI4UjBGQ01oOGtzRjVISmc4M3JCd2s1UW1yMmp5NnBDYjlUQnh1eE5ndHgzTjhvTGV2ZEVxVjJwcElHcGtPRHNyTTRSMUxEMm9DWGpkYUdJUjRDTFBmTjZxbC1BLW84Yy1Kb0FxTVRBRU1sMFRoWjhwWU9SdDNEQWhIVDZQMHcwNmlHUHBIX0ExQmFqQkVQTWxQNWxMU1F0R3BLZW0wbDZ3ZXJjNzhrOGYw?oc=5",
      "summary": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment Faculty Focus",
@@ -407,18 +446,32 @@
      "from_section": "Technology"
     },
     {
-     "title": "AI’s worst disasters will arrive unannounced | Letters",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
-     "summary": "AI’s worst disasters will arrive unannounced | Letters The Guardian",
-     "published": "2026-08-31T01:30:00+00:00",
-     "source": "The Guardian",
+     "title": "A Sample Grant Proposals On“ Artificial Intelligence: Technology, Society and Learning in the Arab Region”",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeEozZEE2dGZmbHk1REl1QjZrTDhGbVVXb2stTUw1eGxVTmpTbUZwRjBvVjNUTHZSZVlteTZBTU9mVG94cktwNlgtT0FEVTY0dEVkSzU5Vk5PU2lNRUdISmR2QmlocW9hN1ZpLTFPTzJ1SUpoTk5Qd1htOHRHTi05dkZuUTBlcEVlY0dhWlByUzNfTXcxZHdVZVJoZ1V6eTVQZlB5SUdpQ0JYQU9xa25YbV9vZXFLZXVFbHZDN1ZDSjlXV3BnblcwUTh4a25yRkJYak1LOHJMdkdjTXpTUERR?oc=5",
+     "summary": "A Sample Grant Proposals On“ Artificial Intelligence: Technology, Society and Learning in the Arab Region” fundsforNGOs",
+     "published": "2026-08-31T04:47:28+00:00",
+     "source": "fundsforNGOs",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "c8a214b55cd8",
+     "id": "684be8f29a30",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
+    },
+    {
+     "title": "INL criticises IUML’s silence over Vande Mataram controversy",
+     "url": "https://www.thehindu.com/news/national/kerala/inl-criticises-iumls-silence-over-vande-mataram-controversy/article71410733.ece",
+     "summary": "INL State general secretary Kasim Irikkur alleges that Keralam is being saffronised with the silence of the Muslim League leadership.",
+     "published": "2026-08-31T15:21:57+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "94f34f6970da",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "National News"
     },
     {
      "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 2 Highlights: Tilak Varma's Unbeaten Ton Gives South Zone Bragging Rights",
@@ -457,34 +510,6 @@
       "92, East Zone Locked In Intense",
       "92 full of fire and brimstone"
      ]
-    },
-    {
-     "title": "Pakistan Star Faked Injury To Not Bat Against England Despite Team In Danger? Report Says He Is Repeat Offender",
-     "url": "https://sports.ndtv.com/cricket/pakistan-star-imam-ul-haq-faked-injury-to-not-bat-against-england-despite-team-in-danger-report-says-he-is-repeat-offender-11982946#publisher=newsstand",
-     "summary": "Trouble is brewing in Pakistan cricket. Opener Imam-ul-Haq could face strong disciplinary action after the Pakistan Cricket Board decided to conduct a probe into his left calf muscle injury",
-     "published": "2026-08-31T14:25:32+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/q5dvc4pk_imamulhaq_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "bf4b6f55b6bf",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
-     "title": "Congress steps up attack on BJP after FIR against Rahul Gandhi over ‘purification’ row",
-     "url": "https://www.thehindu.com/news/national/congress-steps-up-attack-on-bjp-after-fir-against-rahul-gandhi-overpurification-row/article71410976.ece",
-     "summary": "Party leader K.C. Venugopal says the registration of FIR has ‘exposed BJP’s casteist mindset’. He says the BJP is willing to deploy the entire might of the State to supress voices supporting Dalits",
-     "published": "2026-08-31T14:45:00+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/f4jgcy/article71411722.ece/alternates/LANDSCAPE_1200/PTI08_08_2026_000214B.jpg",
-     "licence": "linkout",
-     "id": "22fd27f589d3",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National Hotlines"
     }
    ]
   },
@@ -500,7 +525,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-08-31T15:03:04.614852+00:00",
+     "published": "2026-08-31T15:33:54.673970+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -511,7 +536,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-08-31T15:03:04.614862+00:00",
+     "published": "2026-08-31T15:33:54.673979+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -522,7 +547,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-08-31T15:03:04.614866+00:00",
+     "published": "2026-08-31T15:33:54.673982+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -533,7 +558,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-08-31T15:03:04.614868+00:00",
+     "published": "2026-08-31T15:33:54.673987+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -544,7 +569,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-08-31T15:03:04.614870+00:00",
+     "published": "2026-08-31T15:33:54.673992+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -555,7 +580,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-08-31T15:03:04.614872+00:00",
+     "published": "2026-08-31T15:33:54.673996+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -568,6 +593,19 @@
    "title": "Scandals & Investigations",
    "upsc": false,
    "items": [
+    {
+     "title": "Delhi govt plans 30-year traffic study to tackle congestion, black spots",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3BHTUtXdTk2dWR5eFhkRHFTUG9YZkpfYWhvWDVsSm1ZcEZpQlBhUEl2TXhNTkFVSkNhZFd4d0RySWF4SENrTFd2SFVZSGZ3N1RodTAzX2daOTN1eml0OGJ4X2FsOHVYd3Fpa3dnbThOeVZ5dXRxbWJBNWdYRWtWOXAyeURnWk5BU2lnOW1iUDd3VG9CNkdCUEhHLVAwTlE1X1pYbHFhLUtaV3VhdHpZekcxVzVCY3M3ckhiMkxTdkJQaHJRLTBSVl9KM3VHd9IB0wFBVV95cUxOb3duZnRzZU1faEhGU1I2RzBma3FhQVNIMEg3TzRnUnZUc1F2TzBnMWZPS1pKamM1NHJyMWFaVS1XSXFNVThKNWM1bHozRC0yQnJ3d2FxODdVWHRyekRPaHVZQ1pUVFhsTkVKcFlMb2JoSG5sYXVSQmFJSXJJN1ktcHN0MER5Z2JGRThER2tUdFhSY05FT2pTZWNycHRGal9kZmZNcllNNC00SHl2NHJ2WTlWeU9acE9TaXdhTWRyV2hzb1FBb29HWTRtREdKMFNoWjBJ?oc=5",
+     "summary": "Delhi govt plans 30-year traffic study to tackle congestion, black spots India Today",
+     "published": "2026-08-31T14:58:19+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "8fae31a744da",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Maharashtra: SFI, DYFI to audit government school infrastructure from September 1",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWwzaHdUbFpETUN2WkVIalI2MUdMYnROaDF5TFFxS1liREdUQ1A2OEViYUtYRVVCbldPZ3R0Z3doQUpCaFBCb0dpbGhJcmM3ZmJRUG1BeDdubmV0VnByUmtWZ1IyVVJNZE9PbWlPRmdsQW9WR3pZMUNmRHVnbjcwOWFjZlY2eTZySXlyOC16d2ZxMFNBTS1hV0xaNXZQal9JdzRCZGxB0gGrAUFVX3lxTE1UZERhR2hhcE5yRXFuUy1qUmotdXlfTTk0UGZHdjhsWXBIRkVfUENnRS0zMDVvOGR0dFlDNWtfVlFaTHdoSTJkNFl3YldaekJYNkliRUxoaE03UW5OM2NTRmNOUzZVTmxxelFENkVrYW9iMmxEbFd3bW82cnJ0aHdqMzJ4V2JUN0lWdDlwYTduWGpyMk03QTlQTDVVQ0czVEFhbFZ4LTVUZWlsQQ?oc=5",
@@ -607,101 +645,88 @@
    "upsc": false,
    "items": [
     {
-     "title": "Elderly patient succumbs after falling from cot at Thiruvananthapuram government medical college hospital",
-     "url": "https://www.thehindu.com/news/national/kerala/elderly-patient-succumbs-after-falling-from-cot-at-thiruvananthapuram-government-medical-college-hospital/article71411536.ece",
+     "title": "Hyderabad eyes global knowledge hub status with top universities",
+     "url": "https://www.thehindu.com/news/national/telangana/hyderabad-eyes-global-knowledge-hub-status-with-top-universities/article71411857.ece",
      "summary": "",
-     "published": "2026-08-31T14:54:25+00:00",
+     "published": "2026-08-31T15:27:02+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/706epn/article71411853.ece/alternates/LANDSCAPE_1200/CM%20review%20.jpeg",
      "licence": "linkout",
-     "id": "06089b8fc62f",
+     "id": "4e3f4734a417",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "T.N. CM will soon announce Sports City with international-standard facilities for 46 sports: Minister",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-will-soon-announce-sports-city-with-international-standard-facilities-for-46-sports-minister/article71411786.ece",
+     "title": "Foundation stone laid for ₹12 crore BT road and central lighting works in Khammam",
+     "url": "https://www.thehindu.com/news/national/telangana/foundation-stone-laid-for-12-crore-bt-road-and-central-lighting-works-in-khammam/article71411832.ece",
      "summary": "",
-     "published": "2026-08-31T14:54:15+00:00",
+     "published": "2026-08-31T15:26:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qszg2z/article71411790.ece/alternates/LANDSCAPE_1200/20260819416L.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "78e2792ff331",
+     "id": "e467fb44e785",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹12 crore BT road and central"
+     ]
+    },
+    {
+     "title": "YSRCP will sweep local body polls in Srikakulam dist.: ex-Minister",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-will-sweep-local-body-polls-in-srikakulam-dist-ex-minister/article71409532.ece",
+     "summary": "",
+     "published": "2026-08-31T15:26:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ikz3d5/article71411944.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_19_13_29_1_IMG_20260831_WA0038.JPG",
+     "licence": "linkout",
+     "id": "6b1151e73b31",
      "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "46 sports : Minister"
-     ]
+     "category_label": "Political controversy"
     },
     {
-     "title": "Madanapalle officials told to prepare for incoming HNSS water supply",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/madanapalle-officials-told-to-prepare-for-incoming-hnss-water-supply/article71411240.ece",
-     "summary": "Addressing an emergency meeting, Collector directs Irrigation and coordinating departments to complete preparations to conserve water sources immediately",
-     "published": "2026-08-31T14:51:53+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cboovn/article71411706.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_19_14_23_1_IMG_20260831_WA0039.JPG",
-     "licence": "linkout",
-     "id": "07a8bc05b9bf",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Sheds damaged in fire in Bagalkot",
-     "url": "https://www.thehindu.com/news/national/karnataka/sheds-damaged-in-fire-in-bagalkot/article71410878.ece",
+     "title": "Waylaying of Keralam CM’s vehicle: court orders production of Chenthi Anil",
+     "url": "https://www.thehindu.com/news/national/kerala/waylaying-of-keralam-cms-vehicle-court-orders-production-of-chenthi-anil/article71411482.ece",
      "summary": "",
-     "published": "2026-08-31T14:47:28+00:00",
+     "published": "2026-08-31T15:25:32+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "29d1e6eb4578",
+     "id": "1a19dec1c4cf",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Nursery Student Sexually Assaulted In Delhi School, Bus Driver Arrested",
-     "url": "https://www.ndtv.com/india-news/nursery-student-sexually-assaulted-in-delhi-school-bus-driver-arrested-11982380#publisher=newsstand",
-     "summary": "On August 24, the child was shown photographs and CCTV footage from the school and she identified the accused, police said.",
-     "published": "2026-08-31T12:50:47+00:00",
+     "title": "Emergency Landing In Ahmedabad After 'Bomb' Note Found On Napkin In Lavatory",
+     "url": "https://www.ndtv.com/india-news/emergency-landing-in-ahmedabad-after-bomb-note-found-on-napkin-in-lavatory-11982797#publisher=newsstand",
+     "summary": "The crew acted swiftly and informed the pilot, who immediately contacted Air Traffic Control to request clearance for an emergency diversion and landing.",
+     "published": "2026-08-31T14:47:20+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2025-10/7e4jj234_delhi-police-_625x300_26_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/91bqplmo_air-india-express_625x300_23_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "db0c425b1c2a",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "997ce0fb1214",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "5 Killed, Several Injured After Explosion In UP Firecracker Factory",
-     "url": "https://www.ndtv.com/india-news/24-injured-15-feared-trapped-after-explosion-in-up-firecracker-factory-11981906#publisher=newsstand",
-     "summary": "The blast occurred in the Pipri police station area near the Manori power house, following which police, fire brigade and Air Force personnel stationed nearby, launched a joint rescue operation, officials said.",
-     "published": "2026-08-31T12:31:09+00:00",
+     "title": "47-Year-Old Women Runs Marathon Barefoot In Saree To Pay Daughter's Fees",
+     "url": "https://www.ndtv.com/education/47-year-old-mother-runs-marathon-barefoot-in-saree-to-pay-daughters-fees-11981616#publisher=newsstand",
+     "summary": "A 47-year-old women from Maharashtra, won a marathon after running barefoot in a saree. She plans to use the Rs 3,000 prize money for her daughter's education.",
+     "published": "2026-08-31T14:15:43+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ga1u0318_up_625x300_31_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/h50gmmjg_mom_625x300_31_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "069314354ed5",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "e3b4f4e27138",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "5 Killed , Several Injured"
+      "Rs 3,000  prize money for her"
      ]
-    },
-    {
-     "title": "Punjab Cops Put On Deadline To Act Over Congress Leader's Anti-Dalit Remarks",
-     "url": "https://www.ndtv.com/india-news/punjab-cops-put-on-deadline-to-act-over-congress-leader-amarinder-singh-raja-warrings-anti-dalit-remarks-11982050#publisher=newsstand",
-     "summary": "Buta Singh's son Sarbjot Singh has alleged that he is receiving threatening calls from persons linked to the case.",
-     "published": "2026-08-31T11:48:15+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/0rmtrpmc_amrinder-singh-raja-warring_625x300_12_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "c94a070100cd",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -711,6 +736,48 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Is Trump testing the limits of US power?",
+     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss",
+     "summary": "With weeks to go before US midterm elections, are President Trump's policies helping or hurting his Republican Party?",
+     "published": "2026-08-31T15:01:09+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788188429.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "93cc5c19dfa7",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
+     "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
+     "summary": "Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye's growing capabilities.",
+     "published": "2026-08-31T14:57:56+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-09-25T041945Z_745137952_RC2G7AAYQZBF_RTRMADP_3_ISRAEL-PALESTINIANS-TEL-AVIV-1788181715.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "a91f51d40dea",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "$3.5bn missile deal with Israel?"
+     ]
+    },
+    {
+     "title": "Jason Arday mural displayed at London’s Notting Hill Carnival",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss",
+     "summary": "A mural commemorating late Cambridge professor Jason Arday is displayed at London’s Notting Hill Carnival.",
+     "published": "2026-08-31T14:52:41+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788187919.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "4875bb32224d",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Sleeping in on weekends is good for the heart: What research has shown",
      "url": "https://www.aljazeera.com/news/2026/8/31/sleeping-in-on-weekends-is-good-for-the-heart-what-research-has-shown?traffic_source=rss",
@@ -725,68 +792,30 @@
      "category_label": "General"
     },
     {
-     "title": "Greece signs $3.5bn air defence deal with Israel",
-     "url": "https://www.aljazeera.com/news/2026/8/31/greece-signs-3-5bn-air-defence-deal-with-israel?traffic_source=rss",
-     "summary": "Greece signs $3.5bn deal with Israel to acquire its first multi-layered air defence network by 2029.",
-     "published": "2026-08-31T13:52:40+00:00",
-     "source": "Al Jazeera",
+     "title": "US and Iran trade strikes for first time in weeks",
+     "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+     "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+     "published": "2026-08-31T13:47:30+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-07T195452Z_337466632_RC27PLA3R1GS_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS-1780864930.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
-     "id": "b53ee000c787",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "$3.5bn air defence deal",
-      "$3.5bn deal with Israel"
-     ]
+     "id": "77c755dad93a",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "Why is piracy picking up off Somalia’s coast again?",
-     "url": "https://www.aljazeera.com/news/2026/8/31/why-is-piracy-picking-up-off-somalias-coast-again?traffic_source=rss",
-     "summary": "Piracy is surging back off Somalia's coast, though not yet at the scale of its 2011 peak.",
-     "published": "2026-08-31T13:52:15+00:00",
-     "source": "Al Jazeera",
+     "title": "Man arrested after Swiss rave shooting that killed woman",
+     "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+     "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+     "published": "2026-08-31T13:11:35+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2025/01/AP17074277283268-1736848363_c65950-1736848614.jpg?resize=1200%2C630&quality=80",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
      "licence": "linkout",
-     "id": "3a523d7ebf59",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Transfer day: What and when is the deadline for club football signings?",
-     "url": "https://www.aljazeera.com/sports/2026/8/31/transfer-deadline-day-2026-football-summer-signing-window-barcola-gakpo-alvarez?traffic_source=rss",
-     "summary": "Which players will Man United, Man City, Arsenal, Real Madrid and Barcelona sign and for how much? Al Jazeera explains.",
-     "published": "2026-08-31T13:52:02+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-02T084344Z_196608161_RC2XP8ACY36B_RTRMADP_3_SOCCER-WORLDCUP-GROUPF-NETHERLANDS-1780560078.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "7e7f11c13d41",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "South Korea court gives church leader two years in jail for bribery",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/south-korea-court-gives-church-leader-two-years-in-jail-for-bribery?traffic_source=rss",
-     "summary": "South Korea court gives church leader two years in jail for bribery",
-     "published": "2026-08-31T13:43:32+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/SK-1788183793.jpg?resize=1920%2C1417",
-     "licence": "linkout",
-     "id": "72905b2d0fc5",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "'Moonies' church leader jailed for two years over bribery offences",
-       "url": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
-       "summary": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found."
-      }
-     ],
-     "category": "general",
-     "category_label": "General"
+     "id": "cd10da348035",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
@@ -886,89 +915,72 @@
    "upsc": false,
    "items": [
     {
-     "title": "Elderly patient succumbs after falling from cot at Thiruvananthapuram government medical college hospital",
-     "url": "https://www.thehindu.com/news/national/kerala/elderly-patient-succumbs-after-falling-from-cot-at-thiruvananthapuram-government-medical-college-hospital/article71411536.ece",
+     "title": "Hyderabad eyes global knowledge hub status with top universities",
+     "url": "https://www.thehindu.com/news/national/telangana/hyderabad-eyes-global-knowledge-hub-status-with-top-universities/article71411857.ece",
      "summary": "",
-     "published": "2026-08-31T14:54:25+00:00",
+     "published": "2026-08-31T15:27:02+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/706epn/article71411853.ece/alternates/LANDSCAPE_1200/CM%20review%20.jpeg",
+     "licence": "linkout",
+     "id": "4e3f4734a417",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Foundation stone laid for ₹12 crore BT road and central lighting works in Khammam",
+     "url": "https://www.thehindu.com/news/national/telangana/foundation-stone-laid-for-12-crore-bt-road-and-central-lighting-works-in-khammam/article71411832.ece",
+     "summary": "",
+     "published": "2026-08-31T15:26:40+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "06089b8fc62f",
-     "category": "general",
-     "category_label": "General"
+     "id": "e467fb44e785",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹12 crore BT road and central"
+     ]
     },
     {
-     "title": "T.N. CM will soon announce Sports City with international-standard facilities for 46 sports: Minister",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-will-soon-announce-sports-city-with-international-standard-facilities-for-46-sports-minister/article71411786.ece",
+     "title": "YSRCP will sweep local body polls in Srikakulam dist.: ex-Minister",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-will-sweep-local-body-polls-in-srikakulam-dist-ex-minister/article71409532.ece",
      "summary": "",
-     "published": "2026-08-31T14:54:15+00:00",
+     "published": "2026-08-31T15:26:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qszg2z/article71411790.ece/alternates/LANDSCAPE_1200/20260819416L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ikz3d5/article71411944.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_19_13_29_1_IMG_20260831_WA0038.JPG",
      "licence": "linkout",
-     "id": "78e2792ff331",
+     "id": "6b1151e73b31",
      "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "46 sports : Minister"
-     ]
+     "category_label": "Political controversy"
     },
     {
-     "title": "Madanapalle officials told to prepare for incoming HNSS water supply",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/madanapalle-officials-told-to-prepare-for-incoming-hnss-water-supply/article71411240.ece",
-     "summary": "Addressing an emergency meeting, Collector directs Irrigation and coordinating departments to complete preparations to conserve water sources immediately",
-     "published": "2026-08-31T14:51:53+00:00",
+     "title": "Pinarayi 'intimidating’ former party workers, accuses Keralam Minister C.P. John",
+     "url": "https://www.thehindu.com/news/national/kerala/pinarayi-intimidating-former-party-workers-accuses-keralam-minister-cp-john/article71411381.ece",
+     "summary": "He says demands for Pinarayi Vijayan to vacate the position of the Leader of the Opposition and M.V. Govindan to vacate the position of CPI(M) State secretary has been raised from the branch level to the State level",
+     "published": "2026-08-31T15:21:41+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cboovn/article71411706.ece/alternates/LANDSCAPE_1200/10745_31_8_2026_19_14_23_1_IMG_20260831_WA0039.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "07a8bc05b9bf",
-     "category": "general",
-     "category_label": "General"
+     "id": "bac695b710d2",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Govt. schools in Keralam to get better infra, says Samsudheen",
-     "url": "https://www.thehindu.com/news/national/kerala/govt-schools-in-keralam-to-get-better-infra-says-samsudheen/article71411157.ece",
-     "summary": "",
-     "published": "2026-08-31T14:46:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/p2ma7g/article71411148.ece/alternates/LANDSCAPE_1200/school.jpeg",
-     "licence": "linkout",
-     "id": "603865d70983",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Karnataka High Court quashes acquisition of 1,938 acres for KHB’s housing project",
-     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-acquisition-of-1938-acres-for-khbs-housing-project/article71410388.ece",
-     "summary": "The High Court of Karnataka has quashed the acquisition of 1,938 acres of land for the Karnataka Housing Board’s Suryanagar 4th phase residential layout project",
-     "published": "2026-08-31T14:45:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/74mj1p/article71411715.ece/alternates/LANDSCAPE_1200/DJI_0998.JPG",
-     "licence": "linkout",
-     "id": "22f4eb01aeb1",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1,938 acres for KHB’s housing project",
-      "1,938 acres of land"
-     ]
-    },
-    {
-     "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
-     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
-     "published": "2026-08-31T11:44:46+00:00",
-     "source": "News On AIR",
+     "title": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy",
+     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPekM5R2QyTEVHMlBreU9taldkX3E1TU1sY2FTbkpEcWhHUDktdzhKVlpNSHB1cFNrdmxPNWRDckdRNDVVR19CSHhwSmo3WnpIczdwODhuTFpMcTZxZ2tETDRzS1ZRM1JFbXJUR2x5SHg3X3E5NVVOUnJuT0FyZ2RRbGVxZXZ0Z0dLQzVOd2JTZXZxWEpGZ1BVMWY0RmNCLW0wSFNjdmZLZEdacnpjY1ctSjdLZXRUMU1yLUZZbUhiaDNvd0N2ZXVDXzY4NHFsSklOQ1hGZnROdXhYRC1oeTNySzdyQTBsNjVrTjlfd203X1lGdy12T2V2c2h1Y0RDem5QbkZ0bTdkaUtMb3hPUWREb2x5Zlo1X2xCOHN5SnB6SG8tS3Jja1VJY2Vva296SXBCRWNSa3A2bWRreTJRX2N3dkNzNlFhSFZyQXRtNTdWTC0tWnRBd1NBaVVfQTFFUdIB5AJBVV95cUxPTFR3d3FVYjNYMHgwOVIwNWtGZHRqU0E1YXRmMWpsQ2hoSVh4ZjZ1N3ptakVJcHRjMm1ES2tVdUVueWxjTmN4T2s4U1NNLTU5UDcwc2FlLW9rdkhLS2RLVU5fOWZfYk1BMF9udjA3Tm80bmx5eXhOT3ItSERlVHlYLVRjNzhkR2xSc1hBa055MWVzS0JSNm1RaHV1WkJIUE9LeFkxaWQ0Z3pMa0wyUjlvS2pFLWs1Vlk1VUt0dkRzdW9iZjg4djA0NXcwVWFhODJVNEF2LXlqbmFOTU4zdG40MjZSRG55Sjc1S1JHYUdKeERsWTZOMjdaVWRtTG5EZk1LVEhVUW9HeGs4Z1FUTWpreUZud3ZNVzlRVUVTdXFnNFFZUXdCZ2N3MlpqUDNCLXVZN0VIVXRUZVFrZ3FraGtLcHF3cDdidWRFOGw5NWtFWm51Y2xrVnR4R3c2ZVBCbTZvd0V2UQ?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 1, 2026: Vaibhav Sooryavanshi becomes youngest player to smash half-century in Duleep Trophy The Indian Express",
+     "published": "2026-08-31T12:05:33+00:00",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "723347f12081",
-     "category": "general",
-     "category_label": "General"
+     "id": "7a971189f6f2",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -1081,7 +1093,8 @@
      "category": "general",
      "category_label": "General"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1687,6 +1700,19 @@
      ]
     },
     {
+     "title": "EPFO: Uncovered workers get one-time window to enroll under special social security drive — Check dates, other details",
+     "url": "https://www.livemint.com/money/personal-finance/epfo-uncovered-workers-welfare-one-time-window-deadline-31-october-employers-enroll-special-social-security-drive-labour-11788183731384.html",
+     "summary": "EPFO has urged employers to enroll uncovered workers under its one-time Employees' Enrolment Campaign, 2026 to expand social security coverage. The scheme was notified in June and will continue till 31 October.&nbsp;",
+     "published": "2026-08-31T15:12:32+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_2lfmmg2lfmmg2lfm_1787799381_1788187466194_1788187466341_826ae5e4-150d-452e-bcaf-bc069751cd10.png",
+     "licence": "linkout",
+     "id": "eecb6840141b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "No smartphone, no internet? PhonePe launches new UPI service for feature phone users",
      "url": "https://www.livemint.com/money/no-smartphone-no-internet-phonepe-launches-new-upi-service-for-feature-phone-users-11788184044132.html",
      "summary": "The fintech company has joined hands with handset makers such as Nokia, HMD, Lava International and itel to have the service pre-installed on their devices.",
@@ -1698,19 +1724,6 @@
      "id": "64e617d67870",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Writing a will online and its hidden risks: Why the cheap and fast option isn’t for everyone",
-     "url": "https://www.livemint.com/money/personal-finance/writing-a-will-online-and-its-hidden-risks-why-the-cheap-and-fast-option-isn-t-for-everyone-11788176171661.html",
-     "summary": "Digital estate-planning services are making it easier to create a will, but simple DIY options may not suit everyone.",
-     "published": "2026-08-31T13:07:24+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/livingwill_1788179796445_1788179819993_2d42bb66-1e92-46f0-a9dd-3df6d6979f85.jpg",
-     "licence": "linkout",
-     "id": "1b5f9037936c",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1720,6 +1733,19 @@
    "title": "Technology",
    "upsc": false,
    "items": [
+    {
+     "title": "A Sample Grant Proposals On“ Artificial Intelligence: Technology, Society and Learning in the Arab Region”",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeEozZEE2dGZmbHk1REl1QjZrTDhGbVVXb2stTUw1eGxVTmpTbUZwRjBvVjNUTHZSZVlteTZBTU9mVG94cktwNlgtT0FEVTY0dEVkSzU5Vk5PU2lNRUdISmR2QmlocW9hN1ZpLTFPTzJ1SUpoTk5Qd1htOHRHTi05dkZuUTBlcEVlY0dhWlByUzNfTXcxZHdVZVJoZ1V6eTVQZlB5SUdpQ0JYQU9xa25YbV9vZXFLZXVFbHZDN1ZDSjlXV3BnblcwUTh4a25yRkJYak1LOHJMdkdjTXpTUERR?oc=5",
+     "summary": "A Sample Grant Proposals On“ Artificial Intelligence: Technology, Society and Learning in the Arab Region” fundsforNGOs",
+     "published": "2026-08-31T04:47:28+00:00",
+     "source": "fundsforNGOs",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "684be8f29a30",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
     {
      "title": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYmRzQlA1VExIY1IteGFYLTRJT0owbFZMRzYyNDJUTFRnb2F3WVM2VTRraTFNZ3kyQlluUzA3T1BMUnRlakhzSDRaT1ltNHpOZTlxLXRDdFN6UWI4UjBGQ01oOGtzRjVISmc4M3JCd2s1UW1yMmp5NnBDYjlUQnh1eE5ndHgzTjhvTGV2ZEVxVjJwcElHcGtPRHNyTTRSMUxEMm9DWGpkYUdJUjRDTFBmTjZxbC1BLW84Yy1Kb0FxTVRBRU1sMFRoWjhwWU9SdDNEQWhIVDZQMHcwNmlHUHBIX0ExQmFqQkVQTWxQNWxMU1F0R3BLZW0wbDZ3ZXJjNzhrOGYw?oc=5",
@@ -1769,19 +1795,6 @@
      "image": null,
      "licence": "linkout",
      "id": "4ff1cc39f1fe",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkpQcFN6ZnItTTBIS1RBeFQ3UllmZ1RVTjhSSHlDR1FYZ0JlNjhZOHlqb1BpVFc5VnZIYzZVUE5UWm9SODNiZFh6YThSLUlVNkdyeGZyYUo5S1ZDSmw4VlFOSEJybWpHcS1XclBQNWFtUFdSZS1XemFzaEJmc1FLUWtKdw?oc=5",
-     "summary": "Study A.I. Consciousness? The Bots Would Like a Word With You. The New York Times",
-     "published": "2026-08-31T13:44:50+00:00",
-     "source": "The New York Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "02ed5baa363f",
      "category": "general",
      "category_label": "General"
     }
