@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T08:37:09.395561+00:00",
+ "generated_at": "2026-09-01T09:02:18.157269+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Tupac Shakur",
-  "South Korea",
+  "Keralam Mangaluru",
+  "Baby Tommy",
   "Jazeera English",
   "News",
   "What India",
   "Delhi Govt",
-  "Raniganj Khandra",
-  "Kuki MLAs",
-  "Britons Israel",
-  "Luxembourg Israel"
+  "Vanathi Srinivasan",
+  "Nepal",
+  "Could Libya",
+  "Nepal China"
  ],
  "sections": [
   {
@@ -102,6 +102,38 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Keralam man who had been conning people for 25 years by posing as a cop is arrested in Mangaluru",
+     "url": "https://www.thehindu.com/news/cities/Mangalore/keralam-man-who-had-been-conning-people-for-25-years-by-posing-as-a-cop-is-arrested-in-mangaluru/article71414274.ece",
+     "summary": "‘Sam Peter’ faces over 17 cases of cheating and fraud in Karnataka, and in many other States across India",
+     "published": "2026-09-01T08:50:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/cities/Mangalore/9jgx7m/article71414276.ece/alternates/LANDSCAPE_1200/IMG_20260901_132418.jpg",
+     "licence": "linkout",
+     "id": "ca02c50aaa4d",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "25 years by posing",
+      "17 cases of cheating and fraud"
+     ]
+    },
+    {
+     "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
+     "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
+     "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
+     "published": "2026-09-01T08:42:10+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg",
+     "licence": "linkout",
+     "id": "ba7f6688b285",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Health & Science"
+    },
     {
      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
      "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
@@ -120,32 +152,22 @@
      ]
     },
     {
-     "title": "South Korea police officer admits to closing missing person cases to avoid work",
-     "url": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
-     "summary": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
-     "published": "2026-09-01T05:47:21+00:00",
-     "source": "BBC News",
+     "title": "Could 4+4 make 1 in Libya? UN-backed agreement looks to unite rival camps",
+     "url": "https://www.aljazeera.com/news/2026/9/1/could-44-make-1-in-libya-un-backed-agreement-looks-to-unite-rival-camps?traffic_source=rss",
+     "summary": "After 15 years of civil war, a new UN-backed '4+4' agreement looks to unite Libya's rival factions.",
+     "published": "2026-09-01T08:16:10+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4a/live/76df2fa0-a5c3-11f1-8543-aba44f51f79c.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/787306662_1427471462623492_1672139619482613144_n-1788184252.jpeg?resize=1200%2C630",
      "licence": "linkout",
-     "id": "ea9fd56408f7",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
-     "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
-     "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
-     "published": "2026-09-01T05:00:26+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg",
-     "licence": "linkout",
-     "id": "ba7f6688b285",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Health & Science"
+     "id": "361355a42930",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
+     "figures": [
+      "4 make 1 in Libya? UN-backed",
+      "15 years of civil war"
+     ]
     },
     {
      "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
@@ -176,74 +198,80 @@
      "from_section": "Technology"
     },
     {
-     "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-     "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-     "published": "2026-08-31T16:49:11+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "b6772066296d",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Business"
-    },
-    {
-     "title": "Kuki MLAs asked to stay away from Manipur Assembly session",
-     "url": "https://www.thehindu.com/news/national/manipur/kuki-mlas-asked-to-stay-away-from-manipur-assembly-session/article71414183.ece",
-     "summary": "The community has nine legislators in the 60-member House, six of them belonging to the Bharatiya Janata Party",
-     "published": "2026-09-01T08:18:44+00:00",
+     "title": "Vanathi Srinivasan seeks Tamil Nadu CM’s intervention in incident of woman village panchayat president being prevented from discharging duties",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/vanathi-srinivasan-seeks-tamil-nadu-cms-intervention-in-incident-of-woman-village-panchayat-president-being-prevented-from-discharging-duties/article71414094.ece",
+     "summary": "50-year-old Malarvizhi, the village panchayat president of Kodunkal in Villupuram district has been reportedly denied the chair of the village panchayat president and prevented from hoisting the national flag",
+     "published": "2026-09-01T08:52:49+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/k3ldkg/article71414280.ece/alternates/LANDSCAPE_1200/PTI08_29_2023_000051B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/d30e1f/article71414385.ece/alternates/LANDSCAPE_1200/Vanathi_Srinivasan_4.jpg",
      "licence": "linkout",
-     "id": "5079e11f806b",
+     "id": "0d6eb708bbc4",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Tamil Nadu moves Bill to do away with Collector’s concurrence for wetland development in non-planning areas",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-moves-bill-to-do-away-with-collectors-concurrence-for-wetland-development-in-non-planning-areas/article71414109.ece",
-     "summary": "The Bill was opposed by the AIADMK, CPI and CPI(M). The DMK and PMK sought a debate for further clarification.",
-     "published": "2026-09-01T08:17:31+00:00",
+     "title": "YSRCP creating hurdles in local body polls by approaching courts: Naidu",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-creating-hurdles-in-local-body-polls-by-approaching-courts-naidu/article71414259.ece",
+     "summary": "Addressing villagers after disbursing NTR Bharosa pensions in West Godavari, the Chief Minister said recent surveys showed a clear mandate for the NDA, defended unanimous elections, and said the 34% BC reservation case and the SIR petition were attempts to delay the polls",
+     "published": "2026-09-01T08:42:37+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8etsmv/article71414143.ece/alternates/LANDSCAPE_1200/DSC_0412.JPG",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/itmllh/article71414360.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-01%20at%202.04.41%20PM.jpeg",
      "licence": "linkout",
-     "id": "3f5021f18bb6",
+     "id": "da42a570c529",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Ex-J&K Minister Raises Concerns Over Bank's Recruitment And Lending Policies",
+     "url": "https://www.ndtv.com/india-news/ex-jammu-and-kashmir-finance-minister-altaf-bukhari-raises-concerns-over-banks-recruitment-and-lending-policies-11985819#publisher=newsstand",
+     "summary": "Former Jammu and Kashmir finance minister and Apni Party president Altaf Bukhari also questioned the composition of the bank's board of directors, alleging that Kashmir had negligible representation.",
+     "published": "2026-09-01T07:23:15+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/4b4tth38_jk_625x300_01_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "88f3ca1c7946",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Tamil Nadu Assembly: 10% hike in wages and DA for handloom weavers, establishment of T.N. Knitwear Board announced",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-10-hike-in-wages-and-da-for-handloom-weavers-establishment-of-tn-knitwear-board-announced/article71414211.ece",
-     "summary": "A Silk Export Trade Facilitation Centre will be established at the Perarignar Anna Handloom Silk Park at Kancheepuram, Minister for Handlooms, Textiles and Khadi M. Vijay Balaji said.",
-     "published": "2026-09-01T08:16:02+00:00",
+     "title": "Dhoni’s ₹100-crore defamation suit: Madras High Court directs Registry to number retired IPS officer’s plea",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/dhonis-100-crore-defamation-suit-madras-high-court-directs-registry-to-number-retired-ips-officers-plea/article71413933.ece",
+     "summary": "G. Sampath Kumar has insisted that a judicial officer must be appointed to monitor the video recording of evidence by an advocate commissioner and that the recording must take place in a court premises or government building",
+     "published": "2026-09-01T08:44:38+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/fr9noj/article71414249.ece/alternates/LANDSCAPE_1200/2085_25_6_2026_18_3_33_3_DSC_7791.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/xj275a/article71414214.ece/alternates/LANDSCAPE_1200/DSC_5969.JPG",
      "licence": "linkout",
-     "id": "d98769f70d20",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Chhattisgarh government launches portal to benefit tribal tin collectors",
-     "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-government-launches-portal-to-benefit-tribal-tin-collectors/article71414273.ece",
-     "summary": "The key feature of the portal is that the price of tin will be linked to the London Metal Exchange (LME), allowing payments to better reflect prevailing international market prices, said an official",
-     "published": "2026-09-01T08:14:21+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/eehm3m/article71414257.ece/alternates/LANDSCAPE_1200/20260823395L.jpg",
-     "licence": "linkout",
-     "id": "20a5a551ca81",
+     "id": "617211e69e54",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National News"
+     "from_section": "National News",
+     "figures": [
+      "₹100 -crore defamation suit: Madras"
+     ]
+    },
+    {
+     "title": "₹100-crore defamation suit filed by M.S. Dhoni: Madras High Court orders commencement of trial",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/100-crore-defamation-suit-filed-by-ms-dhoni-madras-high-court-orders-commencement-of-trial/article69919170.ece",
+     "summary": "Justice C.V. Karthikeyan appoints an advocate commissioner to record the evidence of the cricketer in Chennai between October 20 and December 10, 2025",
+     "published": "2026-09-01T08:43:02+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/vfvcy5/article69919314.ece/alternates/LANDSCAPE_1200/INDEX_IPL_CRICKET_MATCH_DELHI_62.jpg",
+     "licence": "linkout",
+     "id": "a62cf2a4d87b",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National Hotlines",
+     "figures": [
+      "₹100 -crore defamation suit filed"
+     ]
     },
     {
      "title": "Luxembourg drops approval for Israel bonds issue: What that means",
@@ -258,20 +286,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Global News"
-    },
-    {
-     "title": "Japan turns to AI in fight against investment fraud",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fbEQ5Zmg3UjBkRkxiNHVIRzRGQS03cllVS0hibXRORkdMQW1uRWRTd3c5NVpVYV9YUXVrRVRKdzU5dm92a2ZLRUtDUWM0VkVMNGhZcnhIcEE1TmlqSHliU0FvQkpaQVhQTERRV1NPb01IR0g1MmNfV2NLbw?oc=5",
-     "summary": "Japan turns to AI in fight against investment fraud japantimes.co.jp",
-     "published": "2026-09-01T08:07:00+00:00",
-     "source": "japantimes.co.jp",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "6a8c4cd0359c",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Technology"
     },
     {
      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
@@ -305,53 +319,6 @@
      "from_section": "Culture"
     },
     {
-     "title": "Death toll from devastating floods in China and Nepal surpasses 1,000",
-     "url": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000?traffic_source=rss",
-     "summary": "Rescue efforts continue to focus on hydropower sites, where hundreds of workers are believed to be trapped.",
-     "published": "2026-09-01T07:49:57+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260901__C6YE2Q8__v3__HighRes__TopshotNepalDisasterFlood-1788243856.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "5502b6292f17",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-       "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-       "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16."
-      }
-     ],
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News",
-     "figures": [
-      "1,000. Rescue efforts continue to focus"
-     ]
-    },
-    {
-     "title": "Nepal-Tibet floods live: Rescue efforts under way, death toll crosses 1,000",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/nepal-tibet-floods-live-rescue-efforts-under-way-death-toll-crosses-1000?traffic_source=rss",
-     "summary": "The death toll from flooding in Nepal and Tibet has gone past 1,000, as rescue teams continue search for survivors.",
-     "published": "2026-09-01T07:44:35+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260901__C6YE2PH__v1__HighRes__NepalDisasterFlood-1788243852.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "c18808eaa3a4",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-       "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-       "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16."
-      }
-     ],
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
-    },
-    {
      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
      "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
@@ -366,6 +333,34 @@
      "from_section": "Global News"
     },
     {
+     "title": "Not right time for inquiry into Nepal flood lapses, Govt may seek foreign funding for reconstruction: RSPs Rahabar Ansari",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZWtCNjRuOGtTeW4wSE9ZWlBQZDZISGFETTFVS1hKRnNmU0VUMkRpNEhmNWpsMkNJdWdMdnJWR3c4LVNYdFd5dnpLQTFzRmRPaTlzekhHVHpVeGJSTUduQ29weFZpem9LZlhsRDdUNEdkWmJjVDgwZkx4TXZTREdZMWN2OFg4Z3V0c0xiXzJXWnJKakdic3RnTkNCTGRwRFZFU0ZVR1RQVXBIYWJydFRUZXZMaUEzSVhyZ1puOXRBbWYwVFJhdXJuY2VsalV3aHVydDBoZUEyX1B6TS1jMVIybkhLNEh3dUVaLV9lTGFCc2M3V0hIcEx1WmhZZEZaRGtYcXd1SU9IeFJIakVwUFRaZDJn0gGSAkFVX3lxTE9la0I2NG44a1N5bjBIT1laUFBkNkhIYURNMVVLWEpGc2ZTRVQyRGk0SGY1amwyQ0l1Z0x2clZHdzgtU1h0V3l2ektBMXNGZE9pOXN6SEdUelV4YlJNR25Db3B4Vml6b0tmWGxEN1Q0R2RaYmNUODBmTHhNdlNER1kxY3Y4WDhndXRzTGJfMldackpqR2JzdGdOQ0JMZHBEVkVTRlVHVFBVcEhhYnJ0VFRldkxpQTNJWHJnWm45dEFtZjBUUmF1cm5jZWxqVXdodXJ0MGhlQTJfUHpNLWMxUjJuSEs0SHd1RVotX2VMYUJzYzdXSEhwTHVaaFlkRlpEa1hxd3VJT0h4UkhqRXBQVFpkMmc?oc=5",
+     "summary": "Not right time for inquiry into Nepal flood lapses, Govt may seek foreign funding for reconstruction: RSPs Rahabar Ansari The Tribune",
+     "published": "2026-09-01T08:47:13+00:00",
+     "source": "The Tribune",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "28ceced98b18",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "Nepal buries unidentified flood victims as families await answers",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-buries-unidentified-flood-victims-as-families-await-answers?traffic_source=rss",
+     "summary": "Nepal authorities are burying unidentified flood victims in temporary graves.",
+     "published": "2026-09-01T08:39:20+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788251815.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "32e17a106e55",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global News"
+    },
+    {
      "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
      "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
@@ -375,51 +370,11 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d0/live/db5294a0-a513-11f1-aed2-8d6da8d75094.jpg",
      "licence": "linkout",
      "id": "8d0b219ceca7",
-     "also": [
-      {
-       "source": "Al Jazeera",
-       "title": "Death toll from devastating floods in China and Nepal surpasses 1,000",
-       "url": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000?traffic_source=rss",
-       "summary": "Rescue efforts continue to focus on hydropower sites, where hundreds of workers are believed to be trapped."
-      }
-     ],
      "category": "weather",
      "category_label": "Weather & disaster",
      "from_section": "Global News",
      "figures": [
       "100 Indians are missing"
-     ]
-    },
-    {
-     "title": "Orangutans in danger as wildfires blaze through Borneo",
-     "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
-     "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
-     "published": "2026-08-31T22:05:43+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b6/live/7c268450-a5c7-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "6c71b16b3f53",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
-     "summary": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds The Guardian",
-     "published": "2026-09-01T01:30:00+00:00",
-     "source": "The Guardian",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "da768d0d0b9a",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "2 seconds",
-      "2 seconds The Guardian"
      ]
     },
     {
@@ -439,13 +394,27 @@
     {
      "title": "IIT Bombay Launches e-Postgraduate Diploma in Computer Science and Artificial Intelligence",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS21DMGxJdnNtMmNQcWFqS0E5M2M2Wnl3UWxVeUVmNHBHZUxjOENRLWR0V19JTmFwWHMtQ0RfVmJBa2J1M2doQUhxMW5iOFRxLWNXLVFVNVpoNnoyX09TZUo0SzZ5WUZMTnk5U1ZBVTRaeU1TTUFhTXZ2anlSZTdodlMzaWdHY014UXdvejlxQU42NklBQzA2R1N2dC1MS0NoTUJFRnMycWNhT3QzTXRjR3JQa0dfU1d6MHhLd0ZjZW9sbW5OREpXblFxaXFNajRQT1o4ZUk3ZE4?oc=5",
-     "summary": "IIT Bombay Launches e-Postgraduate Diploma in Computer Science and Artificial Intelligence Deccan Chronicle",
+     "summary": "IIT Bombay Launches e-Postgraduate Diploma in Computer Science and Artificial Intelligence deccanchronicle.com",
      "published": "2026-08-31T17:43:38+00:00",
-     "source": "Deccan Chronicle",
+     "source": "deccanchronicle.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "284ac8ff9eb0",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYmRzQlA1VExIY1IteGFYLTRJT0owbFZMRzYyNDJUTFRnb2F3WVM2VTRraTFNZ3kyQlluUzA3T1BMUnRlakhzSDRaT1ltNHpOZTlxLXRDdFN6UWI4UjBGQ01oOGtzRjVISmc4M3JCd2s1UW1yMmp5NnBDYjlUQnh1eE5ndHgzTjhvTGV2ZEVxVjJwcElHcGtPRHNyTTRSMUxEMm9DWGpkYUdJUjRDTFBmTjZxbC1BLW84Yy1Kb0FxTVRBRU1sMFRoWjhwWU9SdDNEQWhIVDZQMHcwNmlHUHBIX0ExQmFqQkVQTWxQNWxMU1F0R3BLZW0wbDZ3ZXJjNzhrOGYw?oc=5",
+     "summary": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment facultyfocus.com",
+     "published": "2026-08-31T09:05:35+00:00",
+     "source": "facultyfocus.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "d07b37ec8463",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -493,6 +462,25 @@
      "from_section": "Sports"
     },
     {
+     "title": "ITAT Mumbai ruling: ₹16.64 lakh cash seized in tax raid, taxpayer wins ₹8.87 lakh unexplained cash dispute",
+     "url": "https://www.livemint.com/money/personal-finance/itat-mumbai-ruling-16-64-lakh-cash-seized-in-tax-raid-taxpayer-wins-8-87-lakh-unexplained-cash-dispute-11788240033478.html",
+     "summary": "The ITAT Mumbai deleted an ₹8.87 lakh tax addition after accepting a taxpayer’s explanation for cash found during an income-tax search. The tribunal said family savings and gifts must be assessed based on human probabilities.",
+     "published": "2026-09-01T05:34:15+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/Gemini_Generated_Image_za14h0za14h0za14_1788240715904_1788240731858_740d4000-84e4-4d09-a2dc-01a1f194dea2.png",
+     "licence": "linkout",
+     "id": "157dc2fadec3",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Business",
+     "figures": [
+      "₹16.64 lakh cash seized in tax",
+      "₹8.87 lakh unexplained cash dispute",
+      "₹8.87 lakh tax addition after accepting"
+     ]
+    },
+    {
      "title": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPamUtb0RTejVVMVJrMXlCakhrVjFIVWVvVGlBM2c1NzZiRWZOeU1fY3V2S0dRQ012THNlWGtuR01pOGtWRXduUWNmMWxEbVRxNTN3YzFlU1ZlQzUzUXpfZEdRdW9pRmRiS3djZTN4d0lrdGJyUWpXTFl4bWs2TEJkY3hwX2wwbjNDUFBtU2dJaGVaUXVPZ2FqWEVPdkZaZEpyWGk4Mk5HOHBiWVNxRW9LeEhOS3BjUDdnT3pHenhUZm9JVU9WQlpJSG1vLWktdnBaWWNXVkhYLWI0cFljeVJDTy1GT3hmbmRMU0dsaTA1dkp3MUXSAfgBQVVfeXFMTms5aGdhek9VWFVxaXEwTC1MWUZKTGdlZ2wzSXJqbWQtcDJKZklwQ3NUaWMwM2gza0R3QUVfZTQ5ZDI1MlN0TF91WkZTYWZJUWI1X3g2Q1BiMmJIbEIyVjNXQmNKMnR1WDZkOXlYRzRwbnZDS3I3bXNseS1YcUF1ZXNSQnlGRVVGTkUyVGZxMHBIY1JHUGhTZG5mWDU1VVpQd0NOWEx3U3N4bm96bWJDWkpKXzRKdEJSZ1NxZldTNVRvdVhVWTVYcW8xUDVtZi1FWHVJWWY2RVhjRmlCWW8zQ0U0d2FDZHlCN0Zubng3RU1Sb1VhZFZoSGw?oc=5",
      "summary": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition ET Education",
@@ -520,7 +508,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-01T08:36:56.360825+00:00",
+     "published": "2026-09-01T09:02:04.781833+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -531,7 +519,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-01T08:36:56.360842+00:00",
+     "published": "2026-09-01T09:02:04.781851+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -542,7 +530,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-01T08:36:56.360847+00:00",
+     "published": "2026-09-01T09:02:04.781855+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -553,7 +541,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-01T08:36:56.360852+00:00",
+     "published": "2026-09-01T09:02:04.781858+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -564,7 +552,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-01T08:36:56.360855+00:00",
+     "published": "2026-09-01T09:02:04.781871+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -575,7 +563,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-01T08:36:56.360859+00:00",
+     "published": "2026-09-01T09:02:04.781875+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -634,6 +622,19 @@
      "category_label": "Mystery & investigation"
     },
     {
+     "title": "Not right time for inquiry into Nepal flood lapses, Govt may seek foreign funding for reconstruction: RSPs Rahabar Ansari",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZWtCNjRuOGtTeW4wSE9ZWlBQZDZISGFETTFVS1hKRnNmU0VUMkRpNEhmNWpsMkNJdWdMdnJWR3c4LVNYdFd5dnpLQTFzRmRPaTlzekhHVHpVeGJSTUduQ29weFZpem9LZlhsRDdUNEdkWmJjVDgwZkx4TXZTREdZMWN2OFg4Z3V0c0xiXzJXWnJKakdic3RnTkNCTGRwRFZFU0ZVR1RQVXBIYWJydFRUZXZMaUEzSVhyZ1puOXRBbWYwVFJhdXJuY2VsalV3aHVydDBoZUEyX1B6TS1jMVIybkhLNEh3dUVaLV9lTGFCc2M3V0hIcEx1WmhZZEZaRGtYcXd1SU9IeFJIakVwUFRaZDJn0gGSAkFVX3lxTE9la0I2NG44a1N5bjBIT1laUFBkNkhIYURNMVVLWEpGc2ZTRVQyRGk0SGY1amwyQ0l1Z0x2clZHdzgtU1h0V3l2ektBMXNGZE9pOXN6SEdUelV4YlJNR25Db3B4Vml6b0tmWGxEN1Q0R2RaYmNUODBmTHhNdlNER1kxY3Y4WDhndXRzTGJfMldackpqR2JzdGdOQ0JMZHBEVkVTRlVHVFBVcEhhYnJ0VFRldkxpQTNJWHJnWm45dEFtZjBUUmF1cm5jZWxqVXdodXJ0MGhlQTJfUHpNLWMxUjJuSEs0SHd1RVotX2VMYUJzYzdXSEhwTHVaaFlkRlpEa1hxd3VJT0h4UkhqRXBQVFpkMmc?oc=5",
+     "summary": "Not right time for inquiry into Nepal flood lapses, Govt may seek foreign funding for reconstruction: RSPs Rahabar Ansari The Tribune",
+     "published": "2026-09-01T08:47:13+00:00",
+     "source": "The Tribune",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "28ceced98b18",
+     "category": "weather",
+     "category_label": "Weather & disaster"
+    },
+    {
      "title": "Delhi govt plans 30-year traffic study to tackle congestion, black spots",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3BHTUtXdTk2dWR5eFhkRHFTUG9YZkpfYWhvWDVsSm1ZcEZpQlBhUEl2TXhNTkFVSkNhZFd4d0RySWF4SENrTFd2SFVZSGZ3N1RodTAzX2daOTN1eml0OGJ4X2FsOHVYd3Fpa3dnbThOeVZ5dXRxbWJBNWdYRWtWOXAyeURnWk5BU2lnOW1iUDd3VG9CNkdCUEhHLVAwTlE1X1pYbHFhLUtaV3VhdHpZekcxVzVCY3M3ckhiMkxTdkJQaHJRLTBSVl9KM3VHd9IB0wFBVV95cUxOb3duZnRzZU1faEhGU1I2RzBma3FhQVNIMEg3TzRnUnZUc1F2TzBnMWZPS1pKamM1NHJyMWFaVS1XSXFNVThKNWM1bHozRC0yQnJ3d2FxODdVWHRyekRPaHVZQ1pUVFhsTkVKcFlMb2JoSG5sYXVSQmFJSXJJN1ktcHN0MER5Z2JGRThER2tUdFhSY05FT2pTZWNycHRGal9kZmZNcllNNC00SHl2NHJ2WTlWeU9acE9TaXdhTWRyV2hzb1FBb29HWTRtREdKMFNoWjBJ?oc=5",
      "summary": "Delhi govt plans 30-year traffic study to tackle congestion, black spots India Today",
@@ -671,43 +672,60 @@
    "upsc": false,
    "items": [
     {
-     "title": "ECL begins precautionary mine sealing in Raniganj coal belt’s Khandra Colliery over surface cracks",
-     "url": "https://www.thehindu.com/news/national/west-bengal/ecl-begins-precautionary-minesealing-in-raniganj-coal-belts-khandra-colliery-over-surface-cracks/article71413746.ece",
-     "summary": "The cracks and subsidence were first observed on July 28 in an area where several unauthorised structures and illegal occupants are present",
-     "published": "2026-09-01T08:18:55+00:00",
+     "title": "Vanathi Srinivasan seeks Tamil Nadu CM’s intervention in incident of woman village panchayat president being prevented from discharging duties",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/vanathi-srinivasan-seeks-tamil-nadu-cms-intervention-in-incident-of-woman-village-panchayat-president-being-prevented-from-discharging-duties/article71414094.ece",
+     "summary": "50-year-old Malarvizhi, the village panchayat president of Kodunkal in Villupuram district has been reportedly denied the chair of the village panchayat president and prevented from hoisting the national flag",
+     "published": "2026-09-01T08:52:49+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wkon3u/article71413796.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-14%20at%209.23.09%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/d30e1f/article71414385.ece/alternates/LANDSCAPE_1200/Vanathi_Srinivasan_4.jpg",
      "licence": "linkout",
-     "id": "6c0edda1f236",
+     "id": "0d6eb708bbc4",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Keralam man who had been conning people for 25 years by posing as a cop is arrested in Mangaluru",
+     "url": "https://www.thehindu.com/news/cities/Mangalore/keralam-man-who-had-been-conning-people-for-25-years-by-posing-as-a-cop-is-arrested-in-mangaluru/article71414274.ece",
+     "summary": "‘Sam Peter’ faces over 17 cases of cheating and fraud in Karnataka, and in many other States across India",
+     "published": "2026-09-01T08:50:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/cities/Mangalore/9jgx7m/article71414276.ece/alternates/LANDSCAPE_1200/IMG_20260901_132418.jpg",
+     "licence": "linkout",
+     "id": "ca02c50aaa4d",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "25 years by posing",
+      "17 cases of cheating and fraud"
+     ]
+    },
+    {
+     "title": "SC seeks Centre’s stand on use of totalisers in polls; EC warns against risks, flags public misapprehensions against EVMs",
+     "url": "https://www.thehindu.com/news/national/sc-seeks-centres-stand-on-use-of-totalisers-in-polls-ec-warns-against-risks-flags-public-misapprehensions-against-evms/article71414303.ece",
+     "summary": "The court was hearing a petition filed by advocate Ashwini Kumar Upadhyay, who argued that totalisers would safeguard the privacy of individual voters and protect them from reprisals",
+     "published": "2026-09-01T08:48:20+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/41vtwz/article71414363.ece/alternates/LANDSCAPE_1200/9870_4_5_2026_8_49_49_3__DSC6231.JPG",
+     "licence": "linkout",
+     "id": "4d79a926a405",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Kuki MLAs asked to stay away from Manipur Assembly session",
-     "url": "https://www.thehindu.com/news/national/manipur/kuki-mlas-asked-to-stay-away-from-manipur-assembly-session/article71414183.ece",
-     "summary": "The community has nine legislators in the 60-member House, six of them belonging to the Bharatiya Janata Party",
-     "published": "2026-09-01T08:18:44+00:00",
+     "title": "Telangana CM inaugurates 400-metre-wide bridge connecting Moosarambagh and Amberpet",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-cm-to-inaugurate-400-metre-wide-bridge-connecting-moosarambagh-and-amberpet/article71409924.ece",
+     "summary": "Revanth Reddy unveils logos of CMC, MMC and GHMC",
+     "published": "2026-09-01T08:46:05+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/k3ldkg/article71414280.ece/alternates/LANDSCAPE_1200/PTI08_29_2023_000051B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/k0nnwi/article71413959.ece/alternates/LANDSCAPE_1200/DSC5630.jpg",
      "licence": "linkout",
-     "id": "5079e11f806b",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Tamil Nadu moves Bill to do away with Collector’s concurrence for wetland development in non-planning areas",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-moves-bill-to-do-away-with-collectors-concurrence-for-wetland-development-in-non-planning-areas/article71414109.ece",
-     "summary": "The Bill was opposed by the AIADMK, CPI and CPI(M). The DMK and PMK sought a debate for further clarification.",
-     "published": "2026-09-01T08:17:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8etsmv/article71414143.ece/alternates/LANDSCAPE_1200/DSC_0412.JPG",
-     "licence": "linkout",
-     "id": "3f5021f18bb6",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "fd589a2c3e22",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Opinion: Opinion | The Story Of How India Managed To Grow At 7.8% Even When Oil Was On Fire",
@@ -724,19 +742,6 @@
      "figures": [
       "$120,  the rupee sank"
      ]
-    },
-    {
-     "title": "Ex-J&K Minister Raises Concerns Over Bank's Recruitment And Lending Policies",
-     "url": "https://www.ndtv.com/india-news/ex-jammu-and-kashmir-finance-minister-altaf-bukhari-raises-concerns-over-banks-recruitment-and-lending-policies-11985819#publisher=newsstand",
-     "summary": "Former Jammu and Kashmir finance minister and Apni Party president Altaf Bukhari also questioned the composition of the bank's board of directors, alleging that Kashmir had negligible representation.",
-     "published": "2026-09-01T07:23:15+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/4b4tth38_jk_625x300_01_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "88f3ca1c7946",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Revanth Reddy's \"Bull-Pig\" Comparison With KCR Draws Sharp BRS Criticism",
@@ -789,6 +794,36 @@
    "upsc": false,
    "items": [
     {
+     "title": "Nepal buries unidentified flood victims as families await answers",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-buries-unidentified-flood-victims-as-families-await-answers?traffic_source=rss",
+     "summary": "Nepal authorities are burying unidentified flood victims in temporary graves.",
+     "published": "2026-09-01T08:39:20+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788251815.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "32e17a106e55",
+     "category": "weather",
+     "category_label": "Weather & disaster"
+    },
+    {
+     "title": "Could 4+4 make 1 in Libya? UN-backed agreement looks to unite rival camps",
+     "url": "https://www.aljazeera.com/news/2026/9/1/could-44-make-1-in-libya-un-backed-agreement-looks-to-unite-rival-camps?traffic_source=rss",
+     "summary": "After 15 years of civil war, a new UN-backed '4+4' agreement looks to unite Libya's rival factions.",
+     "published": "2026-09-01T08:16:10+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/787306662_1427471462623492_1672139619482613144_n-1788184252.jpeg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "361355a42930",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "4 make 1 in Libya? UN-backed",
+      "15 years of civil war"
+     ]
+    },
+    {
      "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
      "url": "https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss",
      "summary": "A price cap increase is on the way, the latest blow to people already struggling with rising costs.",
@@ -800,32 +835,6 @@
      "id": "2ef58b534504",
      "category": "conflict",
      "category_label": "War & conflict"
-    },
-    {
-     "title": "Luxembourg drops approval for Israel bonds issue: What that means",
-     "url": "https://www.aljazeera.com/economy/2026/9/1/luxembourg-drops-approval-for-israel-bonds-issue-what-that-means?traffic_source=rss",
-     "summary": "Israel’s future borrowing in EU markets remains uncertain as Luxembourg moves to let bond prospectus expire.",
-     "published": "2026-09-01T08:08:49+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a90383f-1787836479.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "3c2261b76d11",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Messi retires from international football: ‘Eternal’ star praised by peers",
-     "url": "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-retirement-football-argentina-tribute?traffic_source=rss",
-     "summary": "Messi retires as one of the greatest players of all time after a glittering and decades-long career for Argentina.",
-     "published": "2026-09-01T08:04:14+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-12-01T204124Z_1450407492_RC2L8Y9HXPSV_RTRMADP_3_SOCCER-ARGENTINA-MESSI-1702568643.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "03ee74137856",
-     "category": "sports",
-     "category_label": "Sports"
     },
     {
      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
@@ -907,6 +916,19 @@
      "category_label": "General"
     },
     {
+     "title": "Orangutans in danger as wildfires blaze through Borneo",
+     "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
+     "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
+     "published": "2026-08-31T22:05:43+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b6/live/7c268450-a5c7-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "6c71b16b3f53",
+     "category": "weather",
+     "category_label": "Weather & disaster"
+    },
+    {
      "title": "Shein shares fall in long-awaited stock market debut",
      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
@@ -928,82 +950,60 @@
    "upsc": false,
    "items": [
     {
-     "title": "ECL begins precautionary mine sealing in Raniganj coal belt’s Khandra Colliery over surface cracks",
-     "url": "https://www.thehindu.com/news/national/west-bengal/ecl-begins-precautionary-minesealing-in-raniganj-coal-belts-khandra-colliery-over-surface-cracks/article71413746.ece",
-     "summary": "The cracks and subsidence were first observed on July 28 in an area where several unauthorised structures and illegal occupants are present",
-     "published": "2026-09-01T08:18:55+00:00",
+     "title": "Vanathi Srinivasan seeks Tamil Nadu CM’s intervention in incident of woman village panchayat president being prevented from discharging duties",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/vanathi-srinivasan-seeks-tamil-nadu-cms-intervention-in-incident-of-woman-village-panchayat-president-being-prevented-from-discharging-duties/article71414094.ece",
+     "summary": "50-year-old Malarvizhi, the village panchayat president of Kodunkal in Villupuram district has been reportedly denied the chair of the village panchayat president and prevented from hoisting the national flag",
+     "published": "2026-09-01T08:52:49+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wkon3u/article71413796.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-05-14%20at%209.23.09%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/d30e1f/article71414385.ece/alternates/LANDSCAPE_1200/Vanathi_Srinivasan_4.jpg",
      "licence": "linkout",
-     "id": "6c0edda1f236",
+     "id": "0d6eb708bbc4",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Keralam man who had been conning people for 25 years by posing as a cop is arrested in Mangaluru",
+     "url": "https://www.thehindu.com/news/cities/Mangalore/keralam-man-who-had-been-conning-people-for-25-years-by-posing-as-a-cop-is-arrested-in-mangaluru/article71414274.ece",
+     "summary": "‘Sam Peter’ faces over 17 cases of cheating and fraud in Karnataka, and in many other States across India",
+     "published": "2026-09-01T08:50:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/cities/Mangalore/9jgx7m/article71414276.ece/alternates/LANDSCAPE_1200/IMG_20260901_132418.jpg",
+     "licence": "linkout",
+     "id": "ca02c50aaa4d",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "25 years by posing",
+      "17 cases of cheating and fraud"
+     ]
+    },
+    {
+     "title": "SC seeks Centre’s stand on use of totalisers in polls; EC warns against risks, flags public misapprehensions against EVMs",
+     "url": "https://www.thehindu.com/news/national/sc-seeks-centres-stand-on-use-of-totalisers-in-polls-ec-warns-against-risks-flags-public-misapprehensions-against-evms/article71414303.ece",
+     "summary": "The court was hearing a petition filed by advocate Ashwini Kumar Upadhyay, who argued that totalisers would safeguard the privacy of individual voters and protect them from reprisals",
+     "published": "2026-09-01T08:48:20+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/41vtwz/article71414363.ece/alternates/LANDSCAPE_1200/9870_4_5_2026_8_49_49_3__DSC6231.JPG",
+     "licence": "linkout",
+     "id": "4d79a926a405",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Kuki MLAs asked to stay away from Manipur Assembly session",
-     "url": "https://www.thehindu.com/news/national/manipur/kuki-mlas-asked-to-stay-away-from-manipur-assembly-session/article71414183.ece",
-     "summary": "The community has nine legislators in the 60-member House, six of them belonging to the Bharatiya Janata Party",
-     "published": "2026-09-01T08:18:44+00:00",
+     "title": "Telangana CM launches Amberpet-Moosarambagh high-level bridge",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-launches-amberpet-moosarambagh-high-level-bridge/article71410801.ece",
+     "summary": "",
+     "published": "2026-09-01T08:41:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/k3ldkg/article71414280.ece/alternates/LANDSCAPE_1200/PTI08_29_2023_000051B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/vgoa7t/article71413950.ece/alternates/LANDSCAPE_1200/Telangana-CM-laGS3GFJO1G.3.jpg.jpg",
      "licence": "linkout",
-     "id": "5079e11f806b",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Tamil Nadu moves Bill to do away with Collector’s concurrence for wetland development in non-planning areas",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-moves-bill-to-do-away-with-collectors-concurrence-for-wetland-development-in-non-planning-areas/article71414109.ece",
-     "summary": "The Bill was opposed by the AIADMK, CPI and CPI(M). The DMK and PMK sought a debate for further clarification.",
-     "published": "2026-09-01T08:17:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8etsmv/article71414143.ece/alternates/LANDSCAPE_1200/DSC_0412.JPG",
-     "licence": "linkout",
-     "id": "3f5021f18bb6",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "‘LDF is CPI’s child’: Binoy Viswam urges end to CPI-CPI(M) row over Deputy LoP post in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/ldf-is-cpis-child-binoy-viswam-urges-end-to-cpi-cpim-row-over-deputy-lop-post-in-keralam/article71414192.ece",
-     "summary": "CPI Keralam secretary signals that indefinite squabbling with CPI(M) over post of Deputy Opposition Leader will leave LDF in a politically perilous situation in the wake of its crushing defeat in Assembly polls",
-     "published": "2026-09-01T08:12:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/fswnlh/article71414234.ece/alternates/LANDSCAPE_1200/Binoy_Viswam02.jpg",
-     "licence": "linkout",
-     "id": "5c8efc8f8fdc",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "‘Shuddhikaran’ row: Haryana Congress protests over FIR against Rahul Gandhi",
-     "url": "https://www.thehindu.com/news/national/haryana/shuddhikaran-row-haryana-congress-protests-over-fir-against-rahul-gandhi/article71414153.ece",
-     "summary": "Criticising the registration of the FIR, the Haryana Congress MLAs and other leaders led by former Chief Minister Bhupinder Singh Hooda held the protest outside the Haryana Congress office in Chandigarh",
-     "published": "2026-09-01T07:58:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qlcgd1/article71414170.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000185B.jpg",
-     "licence": "linkout",
-     "id": "fd42299b64c9",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "PM Modi reiterates appeal to buy local, avoid foreign travel and weddings and stop buying unnecessary gold",
-     "url": "https://www.thehindu.com/news/national/pm-modi-lauds-78-growth-despite-wars-instability-asks-people-not-to-buy-gold-unless-necessary/article71413656.ece",
-     "summary": "In a social media video message, the Prime Minister also congratulated the country on the 7.8% GDP growth it had registered in the first quarter of the ongoing financial year 2026-27",
-     "published": "2026-09-01T07:56:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zhfqko/article71413768.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-01%20at%2011.01.08%20AM%201.jpeg",
-     "licence": "linkout",
-     "id": "aa289c9a66bc",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "a0b942ec6238",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
@@ -1831,76 +1831,60 @@
      ]
     },
     {
-     "title": "Do small caps really deliver higher earnings growth than large caps? Here's what investors need to know",
-     "url": "https://www.livemint.com/money/personal-finance/do-small-caps-really-deliver-higher-earnings-growth-than-large-caps-heres-what-investors-need-to-know-11788197349496.html",
-     "summary": "Small- and mid-cap stocks have delivered much faster earnings growth than large caps over the long term. But a closer look at margins, recent performance and the impact of a few extreme performers reveals why investors should look beyond headline profit growth.",
-     "published": "2026-08-31T18:29:13+00:00",
+     "title": "DA hike: CPI-IW rises to 153.2; is 64% DA likely for central govt employees? Here’s what the calculation shows",
+     "url": "https://www.livemint.com/money/personal-finance/da-hike-cpi-iw-rises-to-153-2-is-64-da-likely-for-central-govt-employees-here-s-what-the-calculation-shows-11788251035641.html",
+     "summary": "July 2026 CPI-IW rose 1.3 points to 153.2, taking the running DA calculation for central government employees to about 64% for January 2027. The final DA rate will depend on CPI-IW data for August to December 2026 and the government's formal announcement.",
+     "published": "2026-09-01T08:36:36+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/small_cap_earn_1788200156534_1788200165890_228e85df-586e-4c0b-892b-1039f15a220c.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/Gemini_Generated_Image_o059g5o059g5o059_1788251490852_1788251498022_b6cd3d1a-9f73-467d-8b3d-92b386e4f467.png",
      "licence": "linkout",
-     "id": "b32368a4db35",
+     "id": "dacdc4603b6d",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "From borrowing $4,000 to becoming a billionaire: Two investing lessons from Ray Dalio",
-     "url": "https://www.livemint.com/money/personal-finance/from-borrowing-4-000-to-becoming-a-billionaire-two-investing-lessons-from-ray-dalio-11788200162918.html",
-     "summary": "Billionaire Ray Dalio's financial setback in the early 1980s changed his approach to investing. After a major miscalculation left him broke, he learned two key lessons: question your own certainty and embrace diversification to manage risk.",
-     "published": "2026-08-31T18:28:19+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Dalio_1788200831605_1788200836613_cc3df84f-5683-48e0-b89a-5858ac1109e0.jpg",
-     "licence": "linkout",
-     "id": "3b00ea056646",
-     "category": "money",
-     "category_label": "Money & scams",
+     "category_label": "General",
      "figures": [
-      "$4,000  to becoming a billionaire"
+      "1.3 points to 153",
+      "153.2, taking the running DA calculation"
      ]
     },
     {
-     "title": "High Beta leads in 1-year returns: A look at how 5 factor investing styles performed against Nifty 500",
-     "url": "https://www.livemint.com/money/personal-finance/high-beta-leads-in-1-year-returns-a-look-at-how-5-factor-investing-styles-performed-against-nifty-500-11788193834276.html",
-     "summary": "Factor investing strategies delivered sharply different returns over the past year. High Beta emerged as the strongest performer, while Value also outpaced the broader market. Here’s how all five strategies compared with the Nifty 500.",
-     "published": "2026-08-31T17:41:28+00:00",
+     "title": "Gift, loan or benami? Tax rules to know before adding family member to property title",
+     "url": "https://www.livemint.com/money/personal-finance/gift-loan-or-benami-tax-rules-to-know-before-adding-a-family-member-to-a-property-title-11788240424898.html",
+     "summary": "A chartered accountant advises buyers to clarify the exact nature of the ownership arrangement before finalizing a purchase to avoid future legal and tax complications.",
+     "published": "2026-09-01T06:21:10+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/factro_beta_1788196733968_1788196739407_3e576a97-45ef-4fb0-8a0a-057b7f923350.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/pexels-photo-5849570_1788243409164_1788243419609_718bdc3f-d910-47ff-8374-adebd18cf8ce.png",
      "licence": "linkout",
-     "id": "48887c2a84f0",
+     "id": "7329ab342654",
      "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "5 factor investing styles performed against",
-      "500. Factor investing strategies delivered sharply"
-     ]
+     "category_label": "Money & scams"
     },
     {
-     "title": "Aadhaar DOB update: Can you change your date of birth more than once? UIDAI rules explained",
-     "url": "https://www.livemint.com/money/personal-finance/aadhaar-dob-update-rules-can-you-change-your-date-of-birth-more-than-once-uidai-sop-explained-11788186812563.html",
-     "summary": "UIDAI has clarified that Aadhaar holders can request DoB updates more than once, but subsequent changes face stricter rules. The process depends on the existing DoB status, documents submitted earlier and the circumstances behind the correction.",
-     "published": "2026-08-31T17:02:42+00:00",
+     "title": "RBI June 2026 bank credit data: Lending rate falls to 9.26%, women’s borrowing grows 19.7%; 5 key takeaways",
+     "url": "https://www.livemint.com/money/personal-finance/rbi-june-2026-bank-credit-data-lending-rate-falls-to-9-26-women-s-borrowing-grows-19-7-5-key-takeaways-11788241662124.html",
+     "summary": "Bank credit growth rose to 16.5% in June 2026, while the weighted average lending rate on outstanding credit fell to 9.26%, RBI data showed. Credit to female borrowers grew 19.7%, while personal-loan credit rose 12.7% and credit growth was stronger across non-metro centres.",
+     "published": "2026-09-01T05:58:09+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/aadhaar_dob_1788193213012_1788193223456_82589317-50aa-4aa8-b786-5f8a1849d047.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/Gemini_Generated_Image_eo1znmeo1znmeo1z_1788242146782_1788242153426_fed28de7-aaff-40c3-9502-6666925ce350.png",
      "licence": "linkout",
-     "id": "62c9577c5b45",
-     "category": "general",
-     "category_label": "General"
+     "id": "8978c4e0c931",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "EPFO: Uncovered workers get one-time window to enrol under special social security drive — check dates, other details",
-     "url": "https://www.livemint.com/money/personal-finance/epfo-uncovered-workers-welfare-one-time-window-deadline-31-october-employers-enroll-special-social-security-drive-labour-11788183731384.html",
-     "summary": "EPFO has urged employers to enrol uncovered workers under its one-time Employees' Enrolment Campaign, 2026, to expand social security coverage. The scheme was notified in June and will continue till 31 October.&nbsp;",
-     "published": "2026-08-31T15:12:32+00:00",
+     "title": "Living in Brazil, billing a Goa company? This is how India will tax professional income of NRIs",
+     "url": "https://www.livemint.com/money/personal-finance/living-in-brazil-billing-a-goa-company-this-is-how-india-will-tax-professional-income-of-nris-11788238678387.html",
+     "summary": "An Indian professional living in Brazil while providing architectural services to a Goa-based company wants to know if professional fees paid into a foreign bank account will attract Indian tax. Here's what the India-Brazil tax treaty says.",
+     "published": "2026-09-01T05:11:16+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_2lfmmg2lfmmg2lfm_1787799381_1788187466194_1788187466341_826ae5e4-150d-452e-bcaf-bc069751cd10.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/tabank_1752824435167_1752824442699_1788239047202_5bd9fe1c-25d8-41b3-a0e5-d055965c680f.jpg",
      "licence": "linkout",
-     "id": "eecb6840141b",
-     "category": "general",
-     "category_label": "General"
+     "id": "5a793711bcfb",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -1940,21 +1924,30 @@
      "category_label": "War & conflict"
     },
     {
-     "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
-     "summary": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds The Guardian",
-     "published": "2026-09-01T01:30:00+00:00",
-     "source": "The Guardian",
+     "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5",
+     "summary": "House Intelligence Committee warns of 'Black Swan' AI risks CNBC",
+     "published": "2026-08-31T21:18:37+00:00",
+     "source": "CNBC",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "da768d0d0b9a",
+     "id": "0682148759ab",
      "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "2 seconds",
-      "2 seconds The Guardian"
-     ]
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Japan turns to AI in fight against investment fraud",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fbEQ5Zmg3UjBkRkxiNHVIRzRGQS03cllVS0hibXRORkdMQW1uRWRTd3c5NVpVYV9YUXVrRVRKdzU5dm92a2ZLRUtDUWM0VkVMNGhZcnhIcEE1TmlqSHliU0FvQkpaQVhQTERRV1NPb01IR0g1MmNfV2NLbw?oc=5",
+     "summary": "Japan turns to AI in fight against investment fraud japantimes.co.jp",
+     "published": "2026-09-01T08:07:00+00:00",
+     "source": "japantimes.co.jp",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "6a8c4cd0359c",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -2075,10 +2068,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "New super flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+     "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
      "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
-     "summary": "This year's jab has a few tweaks, including changes to better combat the Super-K strain.",
-     "published": "2026-09-01T08:20:13+00:00",
+     "summary": "This year's jab has a few tweaks, including changes to better combat last year's Super-K strain.",
+     "published": "2026-09-01T08:55:27+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73b/live/cf577dd0-a2f9-11f1-8d5b-155abe464768.jpg",
@@ -2091,7 +2084,7 @@
      "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
      "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
      "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
-     "published": "2026-09-01T05:00:26+00:00",
+     "published": "2026-09-01T08:42:10+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg",
