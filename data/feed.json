@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T01:03:16.316497+00:00",
+ "generated_at": "2026-09-01T01:33:41.305771+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Three Colombia",
+  "York Times",
   "Baby Tommy",
   "Jazeera English",
   "News",
+  "Delhi Govt",
   "Delhi",
-  "Maharashtra DYFI",
   "After Supreme",
   "NCLT Bench",
-  "Five Saied",
-  "Iran Trump"
+  "African NGOs",
+  "Orangutans Borneo"
  ],
  "sections": [
   {
@@ -103,15 +103,15 @@
    "upsc": false,
    "items": [
     {
-     "title": "Three minors killed in Colombia armed group crackdown",
-     "url": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
-     "summary": "Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.",
-     "published": "2026-08-31T22:30:23+00:00",
+     "title": "New York police kill knife-wielding woman in Times Square",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+     "summary": "A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.",
+     "published": "2026-09-01T01:19:34+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26236606996501-1788209932.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788225470.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "8ebef5e73710",
+     "id": "67712c41d42d",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
@@ -145,6 +145,23 @@
      "from_section": "National News"
     },
     {
+     "title": "US army secretary resigns after months of tension",
+     "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+     "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+     "published": "2026-09-01T01:01:03+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg",
+     "licence": "linkout",
+     "id": "1d4bfcb5c9ea",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
+     "figures": [
+      "18 months into his post"
+     ]
+    },
+    {
      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
      "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
      "summary": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
@@ -171,20 +188,6 @@
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
-    },
-    {
-     "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-     "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-     "published": "2026-08-31T16:49:11+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "b6772066296d",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Business"
     },
     {
      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
@@ -243,20 +246,6 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
-     "summary": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
-     "published": "2026-08-31T22:16:18+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/16x9-clean-1788214519.jpeg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "0a471612e962",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News"
-    },
-    {
      "title": "Japan Inc is betting big on India as China risks deepen",
      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
      "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
@@ -269,6 +258,20 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Global Hotline"
+    },
+    {
+     "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+     "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+     "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+     "published": "2026-08-31T21:28:49+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "3a8a40ab3dcd",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business"
     },
     {
      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
@@ -402,9 +405,9 @@
     {
      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
-     "summary": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds theguardian.com",
+     "summary": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds The Guardian",
      "published": "2026-08-31T19:02:00+00:00",
-     "source": "theguardian.com",
+     "source": "The Guardian",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -414,15 +417,15 @@
      "from_section": "Technology",
      "figures": [
       "2 seconds",
-      "2 seconds theguardian"
+      "2 seconds The Guardian"
      ]
     },
     {
      "title": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYmRzQlA1VExIY1IteGFYLTRJT0owbFZMRzYyNDJUTFRnb2F3WVM2VTRraTFNZ3kyQlluUzA3T1BMUnRlakhzSDRaT1ltNHpOZTlxLXRDdFN6UWI4UjBGQ01oOGtzRjVISmc4M3JCd2s1UW1yMmp5NnBDYjlUQnh1eE5ndHgzTjhvTGV2ZEVxVjJwcElHcGtPRHNyTTRSMUxEMm9DWGpkYUdJUjRDTFBmTjZxbC1BLW84Yy1Kb0FxTVRBRU1sMFRoWjhwWU9SdDNEQWhIVDZQMHcwNmlHUHBIX0ExQmFqQkVQTWxQNWxMU1F0R3BLZW0wbDZ3ZXJjNzhrOGYw?oc=5",
-     "summary": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment facultyfocus.com",
+     "summary": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment Faculty Focus",
      "published": "2026-08-31T09:05:35+00:00",
-     "source": "facultyfocus.com",
+     "source": "Faculty Focus",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -472,6 +475,34 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Business"
+    },
+    {
+     "title": "African NGOs demand probe into six bodies found in Guinea mass grave",
+     "url": "https://www.aljazeera.com/news/2026/9/1/african-ngos-demand-probe-into-six-bodies-found-in-guinea-mass-grave?traffic_source=rss",
+     "summary": "The bodies were found bound and blindfolded in the Forecariah administrative prefecture on August 24.",
+     "published": "2026-09-01T01:17:59+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/1000x562-GUINEA-FORECARIAH-1788221094.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "ed3aa4927fd8",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPamUtb0RTejVVMVJrMXlCakhrVjFIVWVvVGlBM2c1NzZiRWZOeU1fY3V2S0dRQ012THNlWGtuR01pOGtWRXduUWNmMWxEbVRxNTN3YzFlU1ZlQzUzUXpfZEdRdW9pRmRiS3djZTN4d0lrdGJyUWpXTFl4bWs2TEJkY3hwX2wwbjNDUFBtU2dJaGVaUXVPZ2FqWEVPdkZaZEpyWGk4Mk5HOHBiWVNxRW9LeEhOS3BjUDdnT3pHenhUZm9JVU9WQlpJSG1vLWktdnBaWWNXVkhYLWI0cFljeVJDTy1GT3hmbmRMU0dsaTA1dkp3MUXSAfgBQVVfeXFMTms5aGdhek9VWFVxaXEwTC1MWUZKTGdlZ2wzSXJqbWQtcDJKZklwQ3NUaWMwM2gza0R3QUVfZTQ5ZDI1MlN0TF91WkZTYWZJUWI1X3g2Q1BiMmJIbEIyVjNXQmNKMnR1WDZkOXlYRzRwbnZDS3I3bXNseS1YcUF1ZXNSQnlGRVVGTkUyVGZxMHBIY1JHUGhTZG5mWDU1VVpQd0NOWEx3U3N4bm96bWJDWkpKXzRKdEJSZ1NxZldTNVRvdVhVWTVYcW8xUDVtZi1FWHVJWWY2RVhjRmlCWW8zQ0U0d2FDZHlCN0Zubng3RU1Sb1VhZFZoSGw?oc=5",
+     "summary": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition ET Education",
+     "published": "2026-08-31T17:42:46+00:00",
+     "source": "ET Education",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "75963a8ee328",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Scandals & Investigations"
     }
    ]
   },
@@ -487,7 +518,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-01T01:03:03.775490+00:00",
+     "published": "2026-09-01T01:33:28.381857+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -498,7 +529,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-01T01:03:03.775507+00:00",
+     "published": "2026-09-01T01:33:28.381871+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -509,7 +540,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-01T01:03:03.775512+00:00",
+     "published": "2026-09-01T01:33:28.381877+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -520,7 +551,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-01T01:03:03.775516+00:00",
+     "published": "2026-09-01T01:33:28.381882+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -531,7 +562,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-01T01:03:03.775519+00:00",
+     "published": "2026-09-01T01:33:28.381886+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -542,7 +573,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-01T01:03:03.775523+00:00",
+     "published": "2026-09-01T01:33:28.381891+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -570,6 +601,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPamUtb0RTejVVMVJrMXlCakhrVjFIVWVvVGlBM2c1NzZiRWZOeU1fY3V2S0dRQ012THNlWGtuR01pOGtWRXduUWNmMWxEbVRxNTN3YzFlU1ZlQzUzUXpfZEdRdW9pRmRiS3djZTN4d0lrdGJyUWpXTFl4bWs2TEJkY3hwX2wwbjNDUFBtU2dJaGVaUXVPZ2FqWEVPdkZaZEpyWGk4Mk5HOHBiWVNxRW9LeEhOS3BjUDdnT3pHenhUZm9JVU9WQlpJSG1vLWktdnBaWWNXVkhYLWI0cFljeVJDTy1GT3hmbmRMU0dsaTA1dkp3MUXSAfgBQVVfeXFMTms5aGdhek9VWFVxaXEwTC1MWUZKTGdlZ2wzSXJqbWQtcDJKZklwQ3NUaWMwM2gza0R3QUVfZTQ5ZDI1MlN0TF91WkZTYWZJUWI1X3g2Q1BiMmJIbEIyVjNXQmNKMnR1WDZkOXlYRzRwbnZDS3I3bXNseS1YcUF1ZXNSQnlGRVVGTkUyVGZxMHBIY1JHUGhTZG5mWDU1VVpQd0NOWEx3U3N4bm96bWJDWkpKXzRKdEJSZ1NxZldTNVRvdVhVWTVYcW8xUDVtZi1FWHVJWWY2RVhjRmlCWW8zQ0U0d2FDZHlCN0Zubng3RU1Sb1VhZFZoSGw?oc=5",
+     "summary": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition ET Education",
+     "published": "2026-08-31T17:42:46+00:00",
+     "source": "ET Education",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "75963a8ee328",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
      "title": "Delhi govt plans 30-year traffic study to tackle congestion, black spots",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3BHTUtXdTk2dWR5eFhkRHFTUG9YZkpfYWhvWDVsSm1ZcEZpQlBhUEl2TXhNTkFVSkNhZFd4d0RySWF4SENrTFd2SFVZSGZ3N1RodTAzX2daOTN1eml0OGJ4X2FsOHVYd3Fpa3dnbThOeVZ5dXRxbWJBNWdYRWtWOXAyeURnWk5BU2lnOW1iUDd3VG9CNkdCUEhHLVAwTlE1X1pYbHFhLUtaV3VhdHpZekcxVzVCY3M3ckhiMkxTdkJQaHJRLTBSVl9KM3VHd9IB0wFBVV95cUxOb3duZnRzZU1faEhGU1I2RzBma3FhQVNIMEg3TzRnUnZUc1F2TzBnMWZPS1pKamM1NHJyMWFaVS1XSXFNVThKNWM1bHozRC0yQnJ3d2FxODdVWHRyekRPaHVZQ1pUVFhsTkVKcFlMb2JoSG5sYXVSQmFJSXJJN1ktcHN0MER5Z2JGRThER2tUdFhSY05FT2pTZWNycHRGal9kZmZNcllNNC00SHl2NHJ2WTlWeU9acE9TaXdhTWRyV2hzb1FBb29HWTRtREdKMFNoWjBJ?oc=5",
      "summary": "Delhi govt plans 30-year traffic study to tackle congestion, black spots India Today",
@@ -585,9 +629,9 @@
     {
      "title": "Maharashtra: SFI, DYFI to audit government school infrastructure from September 1",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWwzaHdUbFpETUN2WkVIalI2MUdMYnROaDF5TFFxS1liREdUQ1A2OEViYUtYRVVCbldPZ3R0Z3doQUpCaFBCb0dpbGhJcmM3ZmJRUG1BeDdubmV0VnByUmtWZ1IyVVJNZE9PbWlPRmdsQW9WR3pZMUNmRHVnbjcwOWFjZlY2eTZySXlyOC16d2ZxMFNBTS1hV0xaNXZQal9JdzRCZGxB0gGrAUFVX3lxTE1UZERhR2hhcE5yRXFuUy1qUmotdXlfTTk0UGZHdjhsWXBIRkVfUENnRS0zMDVvOGR0dFlDNWtfVlFaTHdoSTJkNFl3YldaekJYNkliRUxoaE03UW5OM2NTRmNOUzZVTmxxelFENkVrYW9iMmxEbFd3bW82cnJ0aHdqMzJ4V2JUN0lWdDlwYTduWGpyMk03QTlQTDVVQ0czVEFhbFZ4LTVUZWlsQQ?oc=5",
-     "summary": "Maharashtra: SFI, DYFI to audit government school infrastructure from September 1 news.careers360.com",
+     "summary": "Maharashtra: SFI, DYFI to audit government school infrastructure from September 1 Careers360",
      "published": "2026-08-31T04:52:29+00:00",
-     "source": "news.careers360.com",
+     "source": "Careers360",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -596,8 +640,7 @@
      "category_label": "General",
      "figures": [
       "1. Maharashtra : SFI, DYFI",
-      "1 news",
-      "rs360. com"
+      "rs360"
      ]
     },
     {
@@ -744,6 +787,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "New York police kill knife-wielding woman in Times Square",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+     "summary": "A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.",
+     "published": "2026-09-01T01:19:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788225470.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "67712c41d42d",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "African NGOs demand probe into six bodies found in Guinea mass grave",
+     "url": "https://www.aljazeera.com/news/2026/9/1/african-ngos-demand-probe-into-six-bodies-found-in-guinea-mass-grave?traffic_source=rss",
+     "summary": "The bodies were found bound and blindfolded in the Forecariah administrative prefecture on August 24.",
+     "published": "2026-09-01T01:17:59+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/1000x562-GUINEA-FORECARIAH-1788221094.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "ed3aa4927fd8",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
      "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
      "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
      "summary": "Economic grievances persist while space for dissent has narrowed under President Kais Saied.",
@@ -755,32 +824,6 @@
      "id": "1d7a7d20c23b",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-     "summary": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
-     "published": "2026-09-01T00:00:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T175100Z_942363201_RC2I9NAHPTC6_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1788215429.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "4d6c783b648a",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
-     "url": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
-     "summary": "Driscoll's resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.",
-     "published": "2026-08-31T23:23:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-19T161010Z_806965838_RC2FCLAXXWY7_RTRMADP_3_USA-ARMY-CONGRESS-1788216804.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "0608b31d9d9d",
-     "category": "conflict",
-     "category_label": "War & conflict"
     },
     {
      "title": "Man arrested after Swiss rave shooting that killed woman",
@@ -810,19 +853,6 @@
      "figures": [
       "20 missing in an incident"
      ]
-    },
-    {
-     "title": "US and Iran trade strikes for first time in weeks",
-     "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-     "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-     "published": "2026-08-31T13:47:30+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "77c755dad93a",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -979,9 +1009,9 @@
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
-     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News newsonair.gov.in",
+     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
      "published": "2026-08-31T11:44:46+00:00",
-     "source": "newsonair.gov.in",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1917,9 +1947,9 @@
     {
      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
-     "summary": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds theguardian.com",
+     "summary": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds The Guardian",
      "published": "2026-08-31T19:02:00+00:00",
-     "source": "theguardian.com",
+     "source": "The Guardian",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1928,7 +1958,7 @@
      "category_label": "AI & technology",
      "figures": [
       "2 seconds",
-      "2 seconds theguardian"
+      "2 seconds The Guardian"
      ]
     },
     {
