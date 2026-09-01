@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T13:37:28.577845+00:00",
+ "generated_at": "2026-09-01T14:04:37.161402+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 122732.0,
    "change": -6207.0,
    "changePct": -4.81,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Chirag Paswan",
-  "Police ADGP",
+  "South Korea",
+  "Noida Delhi",
   "Jazeera English",
   "News",
   "What India",
   "Delhi Govt",
-  "Government Karnataka",
-  "Qatar Formula",
-  "Iran",
-  "Nepal China"
+  "Eligible Rizwan",
+  "Varapuzha Archdiocese",
+  "Iran Bishkek",
+  "Irish Israeli"
  ],
  "sections": [
   {
@@ -102,49 +103,90 @@
    "upsc": false,
    "items": [
     {
-     "title": "Chirag Paswan gets threat messages; Minister's office seeks Home Ministry probe",
-     "url": "https://www.thehindu.com/news/national/chirag-paswan-threat-messages-enhanced-security-request/article71415522.ece",
-     "summary": "“The threatening portion of the communication, excluding the mobile numbers mentioned therein, reads: 'You will be killed shortly by hardcore terrorists',” Additional Private Secretary to the Minister wrote",
-     "published": "2026-09-01T13:28:59+00:00",
-     "source": "The Hindu",
+     "title": "South Korea police officer admits to closing missing person cases to avoid work",
+     "url": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+     "summary": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
+     "published": "2026-09-01T05:47:21+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/umhqi4/article71415562.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4a/live/76df2fa0-a5c3-11f1-8543-aba44f51f79c.jpg",
      "licence": "linkout",
-     "id": "8b6818a2e9c6",
+     "id": "ea9fd56408f7",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Self-styled priest’s death case closed; police cite heart attack as cause of death",
+       "url": "https://www.thehindu.com/news/national/kerala/self-styled-priests-death-case-closed-police-cite-heart-attack-as-cause-of-death/article71414925.ece",
+       "summary": "Death of Gopan Swamy, alias Maniyan, from Neyyattinkara had attracted widespread attention after his family placed his body in a concrete chamber near their residence at Aralumoodu in January 2025"
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "Global Hotline"
     },
     {
-     "title": "Police station adoption list withdrawn following controversy over inclusion of suspended ADGP M.R. Ajith Kumar",
-     "url": "https://www.thehindu.com/news/national/kerala/police-station-adoption-list-withdrawn-following-controversy-over-inclusion-of-suspended-adgp-mr-ajith-kumar/article71415156.ece",
-     "summary": "Scheme as part of the Union government’s efforts to create model police stations. Official sources say the list will be amended by excluding the suspended officer and others on deputation to the Centre and other States",
-     "published": "2026-09-01T13:24:48+00:00",
+     "title": "Noida-Delhi bus gang-rape case: Vehicle had challans worth ₹63,000 pending over permit, safety and speed violations",
+     "url": "https://www.thehindu.com/news/cities/Delhi/noida-delhi-bus-gang-rape-case-vehicle-had-challans-worth-63000-pending-over-permit-safety-and-speed-violations/article71415177.ece",
+     "summary": "The sleeper bus continued to ply despite 12 unpaid challans issued between May and June; the case has also raised questions over police coordination, with Gautam Buddh Nagar Police saying Delhi Police did not inform them that the crime occurred in its jurisdiction",
+     "published": "2026-09-01T13:55:27+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cswj4s/article71415546.ece/alternates/LANDSCAPE_1200/IMG_ADGP_Ajith_Kumar_2_1_1VG9ST3H.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/dfcgvb/article71415157.ece/alternates/LANDSCAPE_1200/RAPE%20BUS%20DELHI%202026_9.jpg",
      "licence": "linkout",
-     "id": "8ad11f8429b0",
+     "id": "b2d144b73e54",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "₹63,000  pending over permit, safety",
+      "12 unpaid challans issued between May"
+     ]
+    },
+    {
+     "title": "Self-styled priest’s death case closed; police cite heart attack as cause of death",
+     "url": "https://www.thehindu.com/news/national/kerala/self-styled-priests-death-case-closed-police-cite-heart-attack-as-cause-of-death/article71414925.ece",
+     "summary": "Death of Gopan Swamy, alias Maniyan, from Neyyattinkara had attracted widespread attention after his family placed his body in a concrete chamber near their residence at Aralumoodu in January 2025",
+     "published": "2026-09-01T13:53:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "895eae0baaa4",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National Hotlines"
     },
     {
-     "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-     "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-     "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-     "published": "2026-09-01T13:09:14+00:00",
-     "source": "BBC News",
+     "title": "Banks unions announce nationwide strike on Sept. 11 over ‘residual issues’; demand five-day banking week",
+     "url": "https://www.thehindu.com/news/national/bank-unions-announce-strikes-on-sept-11-over-unresolved-issues/article71414774.ece",
+     "summary": "The UFBU has called for a one-day strike on September 11, followed by a three-day strike from September 28 to 30. If its demands are not addressed, the unions have announced an indefinite strike from October 26, 2026",
+     "published": "2026-09-01T13:47:40+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/283b8970-a5ff-11f1-83fc-0df57e6b3866.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/kil71l/article71414912.ece/alternates/LANDSCAPE_1200/20260901147L.jpg",
      "licence": "linkout",
-     "id": "8bc338b3ad98",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
+     "id": "ce4e5dddce98",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National Hotlines",
      "figures": [
-      "5,000 remain in the Spanish exclave"
+      "11 over ‘residual issues’; demand five-day",
+      "11, followed by a three-day strike"
      ]
+    },
+    {
+     "title": "Video: SCO summit leaders meet in aftermath of US war on Iran",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
+     "summary": "Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.",
+     "published": "2026-09-01T13:27:39+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788269065.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "95acd2d79806",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
@@ -161,95 +203,74 @@
      "from_section": "Global News"
     },
     {
-     "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-     "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-     "published": "2026-09-01T10:18:47+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "b6772066296d",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Business"
-    },
-    {
-     "title": "The Faceless War: How Artificial Intelligence Rewrote the Map of Power",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FOXZPa3A0ZV95bG9XUUhLTkRrSVJSREViNGcwUWpWUGdGTHJkZkJwUlA2aUZ0TWZxX0d0U2pPVFlzWkdZMDFjVDd5TkNnUkFfUUVGLTBHd3V2UU9YUEZUdFlJNzBFMnBIaGJoMXMtd3l0cWRxT2U4SGpRZw?oc=5",
-     "summary": "The Faceless War: How Artificial Intelligence Rewrote the Map of Power Small Wars Journal",
-     "published": "2026-09-01T06:05:48+00:00",
-     "source": "Small Wars Journal",
+     "title": "School assembly news headlines for September 2: Top India, world, sports and business updates",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdWxOemtPZVZDSFBtS2NXcW9OaVRCdDMzdVRiX2VmVDliZWVnaUhVek1XWjBmb1RKQ3RBdFJKMXJONXFrcXJ3TmRlUnpjaEdvV0dyM3FHWldTX21FYndJSnhZUkdkbTZEWnQyQzFuQ0FqWU9Pa1pYU1ROaVVIbzNpWjJWcWo2eGw3R3Y5OWg2NkE2dmFBR0MzeklZQ2tXNUpJWkhmVC1qZ01paTR4elZYd3Ntdjl0QnMwS0xUUW1XTzN5MjE4cmpOZ2gwdkFLYVlfanZlLXhJZUN1eThfOTRmbldlb2J1cmVfWTVUd3FwUU1lN0nSAfgBQVVfeXFMTk94VnI1VjVwbldWUWVWdUtxV0JnejRTam5qNkZSUjY2Nllhb0NkajlqdjJTWTFKbXdCU01Vd1RXYUoxZVNoVXM0cjRfWHpOcmp5eTVfaTJjMzZjd3haMzQ0ODJsSFdEb1BCZG10RG1vNTFkZTY4dzFnRHpQTFg5NHZSR0dQZ1NkaEJMUkpNbXdaMHFPMHNhcnI1b0N1TjhTTS1BVk1ham56TUg3UmxsWU5TeFp1YXB4bl8wYi1VSzBVRFBsYU16MGVQWHM4WVR2Z2V5bVc3MW9oekp3WXdoZjdzelppWm1KVU42MXRxWU9JY0ZSdGNNMXk?oc=5",
+     "summary": "School assembly news headlines for September 2: Top India, world, sports and business updates The Economic Times",
+     "published": "2026-09-01T13:29:40+00:00",
+     "source": "The Economic Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "5acb635e1290",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Technology"
+     "id": "d295525e6672",
+     "also": [
+      {
+       "source": "The Indian Express",
+       "title": "Today News Headlines for School Assembly, September 2, 2026: PM Modi urges citizens to promote ‘Wed in India’ campaign",
+       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNd3Q0emxLQy1QMjVma0JxbEs3cy1uQ3g3bDZWMnZlY2FSZGw2T0piTlNsbnA0b3JyMldZZDZLbGZvWkhYaUVBLTBRLVdTd2pJNElyRnd2SUlTRE9xNjBBQ1dlb09wQmRpUjFGalB4ckJPVjMwNWJSTVJfTWZBaEtraWJsZEVVRTZUTkRad25KNHRCZFFMVGJtZ01abjFhTHlmelN1V29QZkJ2bGNZZnlaWGhVWjR1ckt0cHZ3N1c5V0Nmc2tWSU1EZzNrZXZ1X1pjX3hGRUxwZFltSnJCTkw0MUYtWFZUVW5jbWZUS284YnM0NzlRT2lHcElVdmRQLWtiR0d4SVR1cEFncG1adEhmRGdvNTRhaU9zelNvcXNTYnBfSGNlbmR1djUtLUV4WVdXRy1CWklhN0d4ZXVT?oc=5",
+       "summary": "Today News Headlines for School Assembly, September 2, 2026: PM Modi urges citizens to promote ‘Wed in India’ campaign The Indian Express"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
     },
     {
-     "title": "Government will discuss with insurance companies on maize crop hit by white grub disease not getting cover: Karnataka Deputy Chief Minister G. Parameshwera",
-     "url": "https://www.thehindu.com/news/national/karnataka/government-will-discuss-with-insurance-companies-on-maize-crop-hit-by-white-grub-disease-not-getting-cover-karnataka-deputy-chief-minister-g-parameshwera/article71415114.ece",
-     "summary": "",
-     "published": "2026-09-01T13:29:41+00:00",
+     "title": "Priyank Kharge seeks change in Centre’s drought declaration norms",
+     "url": "https://www.thehindu.com/news/national/karnataka/priyank-kharge-seeks-change-in-centres-drought-declaration-norms/article71415287.ece",
+     "summary": "Eligible taluks will be declared drought-affected in accordance with the prescribed norms very soon, the Minister says",
+     "published": "2026-09-01T13:59:35+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ba17ix/article71415533.ece/alternates/LANDSCAPE_1200/2303_1_9_2026_18_29_26_1_PARAMESHWARADROUGHTREVIEW.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/iowogs/article71415768.ece/alternates/LANDSCAPE_1200/10258_1_9_2026_18_3_18_1_KLB_PRIYANK_KHARGE_2.JPG",
      "licence": "linkout",
-     "id": "b5e0cb0c6066",
+     "id": "4703821a1a77",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Bengal CM urges journalists not to compromise on patriotism",
-     "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-urges-journalists-not-to-compromise-on-patriotism/article71414947.ece",
-     "summary": "Suvendu Adhikari announces ₹5,000 monthly pension for retired journalists and health insurance of up to ₹5 lakh under the Chief Minister’s Health Insurance Scheme",
-     "published": "2026-09-01T13:28:36+00:00",
+     "title": "MP seeks budgetary support for 13 JNVs, two AIIMS in Andhra Pradesh",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/mp-seeks-budgetary-support-for-13-jnvs-two-aiims-in-andhra-pradesh/article71414278.ece",
+     "summary": "Extending residential school network to uncovered districts will benefit talented students from rural areas, while the two additional AIIMS will improve access to tertiary and super-speciality care in North Coastal Andhra and Rayalaseema areas, Lingamaneni Ramesh says in representation to Union Finance Minister Nirmala Sitharaman",
+     "published": "2026-09-01T13:50:53+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/drwz4t/article71415513.ece/alternates/LANDSCAPE_1200/PTI09_01_2026_000283B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/vw8d4e/article71415695.ece/alternates/LANDSCAPE_1200/10745_5_6_2026_19_25_53_1_IMG_20260605_WA0054.JPG",
      "licence": "linkout",
-     "id": "1193a9dcda1b",
+     "id": "c27c838bcb09",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
-      "₹5,000  monthly pension for retired",
-      "₹5 lakh under the Chief Minister’s"
+      "13 JNVs , two AIIMS"
      ]
     },
     {
-     "title": "BCCI Announces India Squad For Afghanistan T20Is, Jasprit Bumrah And Vaibhav Sooryavanshi In. No Hardik Pandya",
-     "url": "https://sports.ndtv.com/cricket/jasprit-bumrah-returns-for-india-vs-afghanistan-t20i-series-sanju-samson-and-vaibhav-sooryavanshi-included-11987219#publisher=newsstand",
-     "summary": "The BCCI Men's Selection Committee on Tuesday picked India's squad for the upcoming three-match T20I series against Afghanistan",
-     "published": "2026-09-01T12:39:13+00:00",
-     "source": "NDTV Sports",
+     "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
+     "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
+     "summary": "The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.",
+     "published": "2026-09-01T13:32:33+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/qq607sp4_jasprit-bumrah_625x300_08_August_26.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9668f52ad5-1788242165.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "b75fb8d753a6",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Sports"
-    },
-    {
-     "title": "NCLT five-member Bench stays approval of Subhash Chandra’s ₹6.25-crore payout against ₹22,006-crore claims",
-     "url": "https://www.thehindu.com/business/Industry/nclt-five-member-bench-subhash-chandras-6-crore-repayment-plan-essel-group-insolvency-proceedings/article71413748.ece",
-     "summary": "NCLT Special Bench directs Subhash Chandra not to dispose of any property directly or indirectly during pendency of the proceedings",
-     "published": "2026-09-01T13:24:26+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/njymrw/article71414078.ece/alternates/LANDSCAPE_1200/NCLT_Subhash_Chandra_1.jpg",
-     "licence": "linkout",
-     "id": "cea7daa6b114",
+     "id": "713d1fea2f91",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National Hotlines",
+     "from_section": "Global News",
      "figures": [
-      "₹6.25 -crore payout against ₹22,006-crore",
-      "₹22,006 -crore claims"
+      "43 percent of the world’s population",
+      "23 percent of the global economy"
      ]
     },
     {
@@ -354,11 +375,11 @@
      "from_section": "Technology"
     },
     {
-     "title": "AI literacy: As AI goes mainstream, India's workforce faces new skills test",
+     "title": "AI literacy: As AI goes mainstream, India's workforce faces new skills test - business-standard.com",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdWVxTGNyYnNLTFpGS3ptVGtUanZmX0ZjcDRUOVNvLVQ3c0VkdUZGbks3T3hTSGxsVEhsc0k3ZmFQTXZIVUVWN3gxTWU4eW00cEk0STNINF9hM2RpV1Y1SFUxdDNfQlIwM0duZDdNR2RXRWNSNEhoMXdDUzAwWEJvRF9uSGlWbGFQRVI5Y1dkYVhwUkt2cXh3WXdINUljZ0V4RXB1TU9ITWhTZjRNX3hDRTlCYm5TdUtlbEpxcGV5YU5xU0ZqOUtReElsejVoV0g3SHY2ZlJJVnQ1ejkwRG5iUVA1MUgwSm80YmtFODhUaGp2Yzdk0gH6AUFVX3lxTFBCRUU2QUM3Wi14TjltSW1ZU2tMMlJiZHRrWUNjTG43b3c1MGUzcTlrNDVwbTdpVGJEZkxPcUdLSWh3by1aQjF5ek5MeElQSGVhRGZxbjRaTXFhQVlSdGpZT01hQ2pxS3lHOUFfRndnSUgxZDV3MmZva2YwWWM3bzFiTUtPenVSMVE0YUVfQW80Qlk0V3VaWUI3dlZrT1VEckdOVExiTm56V1dLbVJKVDZ3SGtIZUdWbHl1cHJ2eURldjYtb2lRTF9KUUJkVkxXcnVkb2w1RGgxSHVJY3JCTHdTb3hhS2VMbEFqVFhraEJfbFctbW9xSWk1U1E?oc=5",
-     "summary": "AI literacy: As AI goes mainstream, India's workforce faces new skills test Business Standard",
+     "summary": "AI literacy: As AI goes mainstream, India's workforce faces new skills test business-standard.com",
      "published": "2026-09-01T10:58:56+00:00",
-     "source": "Business Standard",
+     "source": "Google News",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -368,21 +389,18 @@
      "from_section": "Technology"
     },
     {
-     "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds | AI (artificial intelligence)",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
-     "summary": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds | AI (artificial intelligence) The Guardian",
-     "published": "2026-09-01T01:30:00+00:00",
-     "source": "The Guardian",
+     "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5",
+     "summary": "House Intelligence Committee warns of 'Black Swan' AI risks CNBC",
+     "published": "2026-08-31T21:18:37+00:00",
+     "source": "CNBC",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "da768d0d0b9a",
+     "id": "0682148759ab",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "2 seconds | AI (artificial intelligence)"
-     ]
+     "from_section": "Technology"
     },
     {
      "title": "Mumbai Make Big Captaincy Call, Veteran Removed Due To Workload Management Ahead Of Ranji Trophy",
@@ -446,9 +464,9 @@
     {
      "title": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPamUtb0RTejVVMVJrMXlCakhrVjFIVWVvVGlBM2c1NzZiRWZOeU1fY3V2S0dRQ012THNlWGtuR01pOGtWRXduUWNmMWxEbVRxNTN3YzFlU1ZlQzUzUXpfZEdRdW9pRmRiS3djZTN4d0lrdGJyUWpXTFl4bWs2TEJkY3hwX2wwbjNDUFBtU2dJaGVaUXVPZ2FqWEVPdkZaZEpyWGk4Mk5HOHBiWVNxRW9LeEhOS3BjUDdnT3pHenhUZm9JVU9WQlpJSG1vLWktdnBaWWNXVkhYLWI0cFljeVJDTy1GT3hmbmRMU0dsaTA1dkp3MUXSAfgBQVVfeXFMTms5aGdhek9VWFVxaXEwTC1MWUZKTGdlZ2wzSXJqbWQtcDJKZklwQ3NUaWMwM2gza0R3QUVfZTQ5ZDI1MlN0TF91WkZTYWZJUWI1X3g2Q1BiMmJIbEIyVjNXQmNKMnR1WDZkOXlYRzRwbnZDS3I3bXNseS1YcUF1ZXNSQnlGRVVGTkUyVGZxMHBIY1JHUGhTZG5mWDU1VVpQd0NOWEx3U3N4bm96bWJDWkpKXzRKdEJSZ1NxZldTNVRvdVhVWTVYcW8xUDVtZi1FWHVJWWY2RVhjRmlCWW8zQ0U0d2FDZHlCN0Zubng3RU1Sb1VhZFZoSGw?oc=5",
-     "summary": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition ET Education",
+     "summary": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition education.economictimes.indiatimes.com",
      "published": "2026-08-31T17:42:46+00:00",
-     "source": "ET Education",
+     "source": "education.economictimes.indiatimes.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -471,7 +489,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-01T13:37:16.845480+00:00",
+     "published": "2026-09-01T14:04:23.833203+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -482,7 +500,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-01T13:37:16.845498+00:00",
+     "published": "2026-09-01T14:04:23.833216+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -493,7 +511,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-01T13:37:16.845501+00:00",
+     "published": "2026-09-01T14:04:23.833220+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -504,7 +522,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-01T13:37:16.845504+00:00",
+     "published": "2026-09-01T14:04:23.833223+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -515,7 +533,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-01T13:37:16.845506+00:00",
+     "published": "2026-09-01T14:04:23.833226+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -526,7 +544,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-01T13:37:16.845509+00:00",
+     "published": "2026-09-01T14:04:23.833229+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -572,9 +590,9 @@
     {
      "title": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPamUtb0RTejVVMVJrMXlCakhrVjFIVWVvVGlBM2c1NzZiRWZOeU1fY3V2S0dRQ012THNlWGtuR01pOGtWRXduUWNmMWxEbVRxNTN3YzFlU1ZlQzUzUXpfZEdRdW9pRmRiS3djZTN4d0lrdGJyUWpXTFl4bWs2TEJkY3hwX2wwbjNDUFBtU2dJaGVaUXVPZ2FqWEVPdkZaZEpyWGk4Mk5HOHBiWVNxRW9LeEhOS3BjUDdnT3pHenhUZm9JVU9WQlpJSG1vLWktdnBaWWNXVkhYLWI0cFljeVJDTy1GT3hmbmRMU0dsaTA1dkp3MUXSAfgBQVVfeXFMTms5aGdhek9VWFVxaXEwTC1MWUZKTGdlZ2wzSXJqbWQtcDJKZklwQ3NUaWMwM2gza0R3QUVfZTQ5ZDI1MlN0TF91WkZTYWZJUWI1X3g2Q1BiMmJIbEIyVjNXQmNKMnR1WDZkOXlYRzRwbnZDS3I3bXNseS1YcUF1ZXNSQnlGRVVGTkUyVGZxMHBIY1JHUGhTZG5mWDU1VVpQd0NOWEx3U3N4bm96bWJDWkpKXzRKdEJSZ1NxZldTNVRvdVhVWTVYcW8xUDVtZi1FWHVJWWY2RVhjRmlCWW8zQ0U0d2FDZHlCN0Zubng3RU1Sb1VhZFZoSGw?oc=5",
-     "summary": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition ET Education",
+     "summary": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition education.economictimes.indiatimes.com",
      "published": "2026-08-31T17:42:46+00:00",
-     "source": "ET Education",
+     "source": "education.economictimes.indiatimes.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -641,75 +659,45 @@
    "upsc": false,
    "items": [
     {
-     "title": "Government will discuss with insurance companies on maize crop hit by white grub disease not getting cover: Karnataka Deputy Chief Minister G. Parameshwera",
-     "url": "https://www.thehindu.com/news/national/karnataka/government-will-discuss-with-insurance-companies-on-maize-crop-hit-by-white-grub-disease-not-getting-cover-karnataka-deputy-chief-minister-g-parameshwera/article71415114.ece",
+     "title": "Eligible poor families to be brought into PDS after e-KYC: Rizwan Arshad",
+     "url": "https://www.thehindu.com/news/national/karnataka/eligible-poor-families-to-be-brought-into-pds-after-e-kyc-rizwan-arshad/article71415718.ece",
      "summary": "",
-     "published": "2026-09-01T13:29:41+00:00",
+     "published": "2026-09-01T14:01:37+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ba17ix/article71415533.ece/alternates/LANDSCAPE_1200/2303_1_9_2026_18_29_26_1_PARAMESHWARADROUGHTREVIEW.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/y3lg4x/article71415778.ece/alternates/LANDSCAPE_1200/2303_1_9_2026_19_20_39_1_RIZWANSAIT.JPG",
      "licence": "linkout",
-     "id": "b5e0cb0c6066",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Chirag Paswan gets threat messages; Minister's office seeks Home Ministry probe",
-     "url": "https://www.thehindu.com/news/national/chirag-paswan-threat-messages-enhanced-security-request/article71415522.ece",
-     "summary": "“The threatening portion of the communication, excluding the mobile numbers mentioned therein, reads: 'You will be killed shortly by hardcore terrorists',” Additional Private Secretary to the Minister wrote",
-     "published": "2026-09-01T13:28:59+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/umhqi4/article71415562.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
-     "licence": "linkout",
-     "id": "8b6818a2e9c6",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Bengal CM urges journalists not to compromise on patriotism",
-     "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-urges-journalists-not-to-compromise-on-patriotism/article71414947.ece",
-     "summary": "Suvendu Adhikari announces ₹5,000 monthly pension for retired journalists and health insurance of up to ₹5 lakh under the Chief Minister’s Health Insurance Scheme",
-     "published": "2026-09-01T13:28:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/drwz4t/article71415513.ece/alternates/LANDSCAPE_1200/PTI09_01_2026_000283B.jpg",
-     "licence": "linkout",
-     "id": "1193a9dcda1b",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹5,000  monthly pension for retired",
-      "₹5 lakh under the Chief Minister’s"
-     ]
-    },
-    {
-     "title": "Three dead, three injured in road accident",
-     "url": "https://www.thehindu.com/news/national/karnataka/three-dead-three-injured-in-road-accident/article71414687.ece",
-     "summary": "",
-     "published": "2026-09-01T13:27:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "b67fb83aea5d",
+     "id": "df1f57c01ea4",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "5,183 schools selected for Digital Square programme in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/5183-schools-selected-for-digital-square-programme-in-keralam/article71411249.ece",
+     "title": "Varapuzha Archdiocese begins decade-long celebrations ahead of 150th anniversary",
+     "url": "https://www.thehindu.com/news/national/kerala/varapuzha-archdiocese-begins-decade-long-celebrations-ahead-of-150th-anniversary/article71415263.ece",
      "summary": "",
-     "published": "2026-09-01T13:26:46+00:00",
+     "published": "2026-09-01T13:59:51+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "d74bff21312a",
+     "id": "885c48fe9499",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Keralam’s Aranmula gears up for Ashtami Rohini Vallasadya on September 4",
+     "url": "https://www.thehindu.com/news/national/kerala/keralams-aranmula-gears-up-for-ashtami-rohini-vallasadya-on-september-4/article71415416.ece",
+     "summary": "The feast at the Aranmula Parthasarathy Temple brings together thousands of devotees and representatives of the palliyodams (snakeboats) from 52 karas (villages)",
+     "published": "2026-09-01T14:00:49+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/wqzjt6/article71415781.ece/alternates/LANDSCAPE_1200/80693_13_7_2025_19_53_1_1_VALLASDYA1.JPG",
+     "licence": "linkout",
+     "id": "9abf749a5409",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "5,183 schools selected for Digital Square"
+      "52 karas (villages)"
      ]
     },
     {
@@ -779,67 +767,71 @@
    "upsc": false,
    "items": [
     {
-     "title": "Qatar planning to host Formula One, MotoGP despite Middle East conflict",
-     "url": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss",
-     "summary": "The Qatar Grand Prix and MotoGP races scheduled for November are expected to go ahead, local organisers say.",
-     "published": "2026-09-01T13:03:10+00:00",
+     "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
+     "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
+     "summary": "The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.",
+     "published": "2026-09-01T13:32:33+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/SOR03534-1764576322.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9668f52ad5-1788242165.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "771217604667",
-     "category": "general",
-     "category_label": "General"
+     "id": "713d1fea2f91",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "43 percent of the world’s population",
+      "23 percent of the global economy"
+     ]
     },
     {
-     "title": "Iran urges US to honour commitments under MoU",
-     "url": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss",
-     "summary": "Tehran calls for Washington to respect terms of MoU after attacks send tensions soaring in the Strait of Hormuz.",
-     "published": "2026-09-01T13:01:22+00:00",
+     "title": "Irish minister calls for EU action in banning Israeli settlement trade",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/irish-minister-calls-for-eu-action-in-banning-israeli-settlement-trade?traffic_source=rss",
+     "summary": "Ireland’s defence minister has called on EU member states to take more action to ban trade with Israeli settlements.",
+     "published": "2026-09-01T13:32:13+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AA-20260901-42356982-42356979-IRANIAN_PRESIDENT_PEZESHKIAN_ATTENDS_SCO_SUMMIT_IN_BISHKEK-1-1788255527.jpg?resize=1200%2C630",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788269480.jpg?resize=1620%2C1080&quality=80",
      "licence": "linkout",
-     "id": "dab805a9f184",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "What to know about the US primary election in Massachusetts",
-     "url": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss",
-     "summary": "Competitive House races and a Senate showdown will put US Democrats’ progressive-moderate divide to the test.",
-     "published": "2026-09-01T12:36:28+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26241523289937-1788196489.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "a1fc8e9ee078",
+     "id": "f837479ab23c",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Pakistan wins Indus waters battle at The Hague, but India threat remains",
-     "url": "https://www.aljazeera.com/news/2026/9/1/pakistan-wins-indus-waters-battle-at-the-hague-but-india-threat-remains?traffic_source=rss",
-     "summary": "The Permanent Court of Arbitration says the treaty remains binding. But India has rejected the findings.",
-     "published": "2026-09-01T12:25:28+00:00",
+     "title": "Video: SCO summit leaders meet in aftermath of US war on Iran",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
+     "summary": "Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.",
+     "published": "2026-09-01T13:27:39+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-05-06T064134Z_1109423457_RC24CEAYAORZ_RTRMADP_3_INDIA-PAKISTAN-WATER-1788257018.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788269065.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "5cb67dbe2c45",
+     "id": "95acd2d79806",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-sounds-climate-alarm-as-china-taiwan-row-threatens-to-overshadow-forum?traffic_source=rss",
+     "summary": "The UN has raised fresh alarm over the climate crisis at the Pacific Islands Forum in Palau, amid China-Taiwan tensions.",
+     "published": "2026-09-01T13:13:55+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788268423.jpg?resize=1918%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "3e4a52e1a79b",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Pakistan urged to declare femicide emergency amid surge in killings",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-pakistan-femicide-sv?traffic_source=rss",
-     "summary": "The brutal killing of Pakistani media professional Hina Javed has caused uproar over violence against women.",
-     "published": "2026-09-01T12:23:20+00:00",
+     "title": "Lionel Messi retires: What records and titles does Argentina legend hold?",
+     "url": "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-records-argentina-international-retirement-football?traffic_source=rss",
+     "summary": "A by-the-numbers look at Messi’s international career with Argentina, including his individual and team honours.",
+     "published": "2026-09-01T13:13:39+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788265319.jpg?resize=1623%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260715__C2BA42W__v3__HighRes__TopshotFblWc2026Match102EngArg-1784370755_0f89f8-1784432327.jpg?resize=1200%2C630&quality=80",
      "licence": "linkout",
-     "id": "07d4884271cb",
+     "id": "9d0404ceb48b",
      "category": "general",
      "category_label": "General"
     },
@@ -870,6 +862,22 @@
      "category_label": "General",
      "figures": [
       "20 people , including two children"
+     ]
+    },
+    {
+     "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+     "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+     "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+     "published": "2026-09-01T13:46:05+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/283b8970-a5ff-11f1-83fc-0df57e6b3866.jpg",
+     "licence": "linkout",
+     "id": "8bc338b3ad98",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "5,000 remain in the Spanish exclave"
      ]
     }
    ]
@@ -906,6 +914,14 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4a/live/76df2fa0-a5c3-11f1-8543-aba44f51f79c.jpg",
      "licence": "linkout",
      "id": "ea9fd56408f7",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Self-styled priest’s death case closed; police cite heart attack as cause of death",
+       "url": "https://www.thehindu.com/news/national/kerala/self-styled-priests-death-case-closed-police-cite-heart-attack-as-cause-of-death/article71414925.ece",
+       "summary": "Death of Gopan Swamy, alias Maniyan, from Neyyattinkara had attracted widespread attention after his family placed his body in a concrete chamber near their residence at Aralumoodu in January 2025"
+      }
+     ],
      "category": "crime",
      "category_label": "Crime"
     },
@@ -947,64 +963,76 @@
    "upsc": false,
    "items": [
     {
-     "title": "Government will discuss with insurance companies on maize crop hit by white grub disease not getting cover: Karnataka Deputy Chief Minister G. Parameshwera",
-     "url": "https://www.thehindu.com/news/national/karnataka/government-will-discuss-with-insurance-companies-on-maize-crop-hit-by-white-grub-disease-not-getting-cover-karnataka-deputy-chief-minister-g-parameshwera/article71415114.ece",
-     "summary": "",
-     "published": "2026-09-01T13:29:41+00:00",
+     "title": "Noida-Delhi bus gang-rape case: Vehicle had challans worth ₹63,000 pending over permit, safety and speed violations",
+     "url": "https://www.thehindu.com/news/cities/Delhi/noida-delhi-bus-gang-rape-case-vehicle-had-challans-worth-63000-pending-over-permit-safety-and-speed-violations/article71415177.ece",
+     "summary": "The sleeper bus continued to ply despite 12 unpaid challans issued between May and June; the case has also raised questions over police coordination, with Gautam Buddh Nagar Police saying Delhi Police did not inform them that the crime occurred in its jurisdiction",
+     "published": "2026-09-01T13:55:27+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ba17ix/article71415533.ece/alternates/LANDSCAPE_1200/2303_1_9_2026_18_29_26_1_PARAMESHWARADROUGHTREVIEW.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/dfcgvb/article71415157.ece/alternates/LANDSCAPE_1200/RAPE%20BUS%20DELHI%202026_9.jpg",
      "licence": "linkout",
-     "id": "b5e0cb0c6066",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Chirag Paswan gets threat messages; Minister's office seeks Home Ministry probe",
-     "url": "https://www.thehindu.com/news/national/chirag-paswan-threat-messages-enhanced-security-request/article71415522.ece",
-     "summary": "“The threatening portion of the communication, excluding the mobile numbers mentioned therein, reads: 'You will be killed shortly by hardcore terrorists',” Additional Private Secretary to the Minister wrote",
-     "published": "2026-09-01T13:28:59+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/umhqi4/article71415562.ece/alternates/LANDSCAPE_1200/20260822191L.jpg",
-     "licence": "linkout",
-     "id": "8b6818a2e9c6",
+     "id": "b2d144b73e54",
      "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Bengal CM urges journalists not to compromise on patriotism",
-     "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-urges-journalists-not-to-compromise-on-patriotism/article71414947.ece",
-     "summary": "Suvendu Adhikari announces ₹5,000 monthly pension for retired journalists and health insurance of up to ₹5 lakh under the Chief Minister’s Health Insurance Scheme",
-     "published": "2026-09-01T13:28:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/drwz4t/article71415513.ece/alternates/LANDSCAPE_1200/PTI09_01_2026_000283B.jpg",
-     "licence": "linkout",
-     "id": "1193a9dcda1b",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "category_label": "Crime",
      "figures": [
-      "₹5,000  monthly pension for retired",
-      "₹5 lakh under the Chief Minister’s"
+      "₹63,000  pending over permit, safety",
+      "12 unpaid challans issued between May"
      ]
     },
     {
-     "title": "16-hour ticket-checking drive detects 725 ticketless travellers on trains in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/16-hour-ticket-checking-drive-detects-725-ticketless-travellers-on-trains-in-keralam/article71414877.ece",
-     "summary": "Enforcement squad imposes penalties totalling ₹5.66 lakh on illegal travellers",
-     "published": "2026-09-01T13:25:07+00:00",
+     "title": "With file photo / Textile mills in Tamil Nadu start investing in modernisation",
+     "url": "https://www.thehindu.com/news/cities/Coimbatore/with-file-photo-textile-mills-in-tamil-nadu-start-investing-in-modernisation/article71415647.ece",
+     "summary": "",
+     "published": "2026-09-01T13:55:12+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/1rl6tj/article71415512.ece/alternates/LANDSCAPE_1200/TTE01.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/gu99i2/article71415702.ece/alternates/LANDSCAPE_1200/textile%20mills%203.jpg",
      "licence": "linkout",
-     "id": "9806d12b471c",
+     "id": "f0581eb23b7f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Mandya DC sets 15-day deadline for survey of encroached lands in KRS backwaters",
+     "url": "https://www.thehindu.com/news/national/karnataka/mandya-dc-sets-15-day-deadline-for-survey-of-encroached-lands-in-krs-backwaters/article71415214.ece",
+     "summary": "Deputy Director of Land Records directed to complete the survey and submit a comprehensive report along with maps within 15 days.",
+     "published": "2026-09-01T13:53:52+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/c86g6e/article71415716.ece/alternates/LANDSCAPE_1200/5964_1_9_2026_19_3_55_1_MANDYADC.JPEG",
+     "licence": "linkout",
+     "id": "d6aae6dcffd5",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "725 ticketless travellers on trains",
-      "₹5.66 lakh on illegal travellers"
+      "15 days"
      ]
+    },
+    {
+     "title": "Families of P&T Apartment Complex spurn proposal for rehabilitation in Thuruthy Towers",
+     "url": "https://www.thehindu.com/news/national/kerala/families-of-pt-apartment-complex-spurn-proposal-for-rehabilitation-in-thuruthy-towers/article71409782.ece",
+     "summary": "Families seek new structures with title deeds and compensation for hardships",
+     "published": "2026-09-01T13:53:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/f1metx/article71415721.ece/alternates/LANDSCAPE_1200/Kochi-CorporatiGKRGD22GA.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "d2eb7f8ccd2b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Government prioritising development, welfare initiatives in Kurnool, says Bharath",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-prioritising-development-welfare-initiatives-in-kurnool-says-bharath/article71415488.ece",
+     "summary": "Participating in a programme, the Industries and Commerce Minister assures public that problems related to roads, drainage, and other civic amenities are being addressed in a phased manner",
+     "published": "2026-09-01T13:48:36+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/s89pu6/article71415682.ece/alternates/LANDSCAPE_1200/10745_1_9_2026_18_51_13_1_IMG_20260901_WA0144.JPG",
+     "licence": "linkout",
+     "id": "4947703ef48f",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Today News Headlines for School Assembly, September 2, 2026: PM Modi urges citizens to promote ‘Wed in India’ campaign",
@@ -1016,19 +1044,6 @@
      "image": null,
      "licence": "linkout",
      "id": "1ca4b2592df6",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
-     "summary": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance News On AIR",
-     "published": "2026-09-01T07:18:27+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "7ecb2ba862ba",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -1572,7 +1587,7 @@
    "upsc": false,
    "items": [
     {
-     "title": "UK long-term borrowing costs hit highest since 1998 ahead of October Budget",
+     "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
      "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
      "published": "2026-09-01T13:31:06+00:00",
@@ -1718,6 +1733,19 @@
      "id": "99c31d71917a",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "The Faceless War: How Artificial Intelligence Rewrote the Map of Power",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FOXZPa3A0ZV95bG9XUUhLTkRrSVJSREViNGcwUWpWUGdGTHJkZkJwUlA2aUZ0TWZxX0d0U2pPVFlzWkdZMDFjVDd5TkNnUkFfUUVGLTBHd3V2UU9YUEZUdFlJNzBFMnBIaGJoMXMtd3l0cWRxT2U4SGpRZw?oc=5",
+     "summary": "The Faceless War: How Artificial Intelligence Rewrote the Map of Power Small Wars Journal",
+     "published": "2026-09-01T06:05:48+00:00",
+     "source": "Small Wars Journal",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "5acb635e1290",
+     "category": "conflict",
+     "category_label": "War & conflict"
     }
    ]
   },
