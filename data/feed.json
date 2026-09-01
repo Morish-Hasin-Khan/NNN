@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T12:40:23.393867+00:00",
+ "generated_at": "2026-09-01T13:04:45.551788+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Four Guwahati",
-  "Syria Idlib",
+  "Baby Tommy",
+  "Tupac Shakur",
   "Jazeera English",
   "News",
   "What India",
   "Delhi Govt",
-  "Construction CITU",
-  "Over",
-  "Pakistan Indus",
-  "Pakistan"
+  "Andhra Pradesh",
+  "Justice Nagamohan",
+  "What Massachusetts",
+  "Pakistan Indus"
  ],
  "sections": [
   {
@@ -102,34 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "Four killed in Guwahati landslip, rockfall",
-     "url": "https://www.thehindu.com/news/national/assam/three-of-family-die-one-injured-in-landslip-in-assam/article71414422.ece",
-     "summary": "The deceased include three members of a family in the city’s Mathgharia area",
-     "published": "2026-09-01T11:58:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/f3kgj0/article71415063.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-01%20at%203.26.15%20PM%201.jpeg",
-     "licence": "linkout",
-     "id": "4e866ad3800d",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Two killed in explosion of ammunition-laden vehicle in Syria’s Idlib",
-     "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
-     "summary": "Several people injured in the incident that took place in the Idlib countryside, state media reports.",
-     "published": "2026-09-01T11:43:28+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2025/01/breaking-news%402x-1738224819.webp?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "aa0e74e3a2dd",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
     {
      "title": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
      "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
@@ -143,6 +115,51 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Health & Science"
+    },
+    {
+     "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+     "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+     "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+     "published": "2026-09-01T07:02:58+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4e/live/2eecbe10-a334-11f1-84e6-5f05e8e26a23.png",
+     "licence": "linkout",
+     "id": "fb11d9ff678b",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Culture",
+     "figures": [
+      "30 years ago"
+     ]
+    },
+    {
+     "title": "South Korea police officer admits to closing missing person cases to avoid work",
+     "url": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+     "summary": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
+     "published": "2026-09-01T05:47:21+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4a/live/76df2fa0-a5c3-11f1-8543-aba44f51f79c.jpg",
+     "licence": "linkout",
+     "id": "ea9fd56408f7",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global Hotline"
+    },
+    {
+     "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+     "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+     "summary": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+     "published": "2026-09-01T12:58:44+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg",
+     "licence": "linkout",
+     "id": "1452b76e2d1a",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "Chirag Paswan Gets Death Threat, Letter Mentions \"Hardcore Terrorists\"",
@@ -159,20 +176,6 @@
      "from_section": "National News"
     },
     {
-     "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
-     "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-     "summary": "Unconfirmed local reports say the Israeli military carried out air and artillery strikes after a raid by an Israel-backed militia was discovered.",
-     "published": "2026-09-01T10:40:55+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg",
-     "licence": "linkout",
-     "id": "1452b76e2d1a",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
@@ -187,54 +190,68 @@
      "from_section": "Business"
     },
     {
-     "title": "Today News Headlines for School Assembly, September 2, 2026: PM Modi urges citizens to promote ‘Wed in India’ campaign",
-     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNd3Q0emxLQy1QMjVma0JxbEs3cy1uQ3g3bDZWMnZlY2FSZGw2T0piTlNsbnA0b3JyMldZZDZLbGZvWkhYaUVBLTBRLVdTd2pJNElyRnd2SUlTRE9xNjBBQ1dlb09wQmRpUjFGalB4ckJPVjMwNWJSTVJfTWZBaEtraWJsZEVVRTZUTkRad25KNHRCZFFMVGJtZ01abjFhTHlmelN1V29QZkJ2bGNZZnlaWGhVWjR1ckt0cHZ3N1c5V0Nmc2tWSU1EZzNrZXZ1X1pjX3hGRUxwZFltSnJCTkw0MUYtWFZUVW5jbWZUS284YnM0NzlRT2lHcElVdmRQLWtiR0d4SVR1cEFncG1adEhmRGdvNTRhaU9zelNvcXNTYnBfSGNlbmR1djUtLUV4WVdXRy1CWklhN0d4ZXVT?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 2, 2026: PM Modi urges citizens to promote ‘Wed in India’ campaign The Indian Express",
-     "published": "2026-09-01T12:00:47+00:00",
-     "source": "The Indian Express",
+     "title": "Justice Nagamohan Das’s books released in Shivamogga",
+     "url": "https://www.thehindu.com/news/national/karnataka/justice-nagamohan-dass-books-released-in-shivamogga/article71415164.ece",
+     "summary": "The Minister appreciated Mr. Das’s efforts to spread awareness of the Indian Constitution through his books after retirement, and recalled his active participation in the ‘Samvidhana Odu’ (Read the Constitution) campaign.",
+     "published": "2026-09-01T12:56:18+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/do6hv2/article71415349.ece/alternates/LANDSCAPE_1200/9911_1_9_2026_17_54_16_2_BOOK02.JPG",
      "licence": "linkout",
-     "id": "1ca4b2592df6",
-     "also": [
-      {
-       "source": "bestcolleges.indiatoday.in",
-       "title": "School assembly news headlines today- September 2: Top national, sports and world news curated for you",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORUZINW1oblZkLXRRdUtJdURPTVRNSWN5dHJWaHdYcWsxUzBfNTBqVkNhd1FIZjZVa3FNOGQ1Z2cwZGk4eDRWc2lOTHl0OXJCVWE5STJ5WGgzOGQ3MU5xSTJ6eDd2RE9NaEZQVF9FMWNnUENId0ZqdGF3eU1Mb3RMem9vQ0xqRE10amo3dWlXU0RVT3FTQUxmS1hRTTM2MTFQNnJXQ1d1bUNPSWxvd3BsckZtTFZnd3dINE1jSzhhVnVhREoxQ3VGQ0xablFDekVUU0diZmZuQi1DbjEzMmNOWU9pNnBZd2c?oc=5",
-       "summary": "School assembly news headlines today- September 2: Top national, sports and world news curated for you bestcolleges.indiatoday.in"
-      }
-     ],
+     "id": "7005822ced79",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "YSRCP criticises Revenue Minister for ‘threatening’ employee union leaders",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-criticises-revenue-minister-for-threatening-employee-union-leaders/article71414561.ece",
+     "summary": "Party seeks clearance of ₹40,000 crore dues, restoration of OPS and implementation of 12th PRC",
+     "published": "2026-09-01T12:52:18+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "c062222098e3",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "₹40,000 crore dues, restoration of OPS"
+     ]
+    },
+    {
+     "title": "Allegation of DMK govt. denying Marina burial site for Kamaraj untrue: Thangam Thennarasu in T.N. Assembly",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/allegation-of-dmk-govt-denying-marina-burial-site-for-kamaraj-untrue-thangam-thennarasu-in-tn-assembly/article71414800.ece",
+     "summary": "Citing extensively from a speech by Rajaram Naidu in the Legislative Council, Mr. Thennarasu said the original plan was to keep Kamaraj’s body at the Teynampet Congress ground, cremate him there and construct a memorial.",
+     "published": "2026-09-01T12:45:27+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hdnvad/article71414809.ece/alternates/LANDSCAPE_1200/_DSC7294.jpg",
+     "licence": "linkout",
+     "id": "ff36b937fb06",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
     },
     {
-     "title": "India Squad For Afganistan T20I Series: Jasprit Bumrah Back, Vaibhav Sooryavanshi Included But No Hardik Pandya",
-     "url": "https://sports.ndtv.com/cricket/jasprit-bumrah-returns-for-india-vs-afghanistan-t20i-series-sanju-samson-and-vaibhav-sooryavanshi-included-11987219#publisher=newsstand",
-     "summary": "The Men's Selection Committee has picked India's squad for the upcoming three-match T20I series against Afghanistan.",
-     "published": "2026-09-01T12:23:43+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/qq607sp4_jasprit-bumrah_625x300_08_August_26.jpg",
-     "licence": "linkout",
-     "id": "b75fb8d753a6",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Sports"
-    },
-    {
-     "title": "Construction supply blockade: CITU to take out protest to T.N. border",
-     "url": "https://www.thehindu.com/news/national/kerala/construction-supply-blockade-citu-to-take-out-protest-to-tn-border/article71414724.ece",
-     "summary": "Union leaders say this restriction has completely paralysed the State’s construction sector, affecting ongoing infrastructure work and leaving thousands of workers without a livelihood",
-     "published": "2026-09-01T12:18:59+00:00",
+     "title": "Andhra Pradesh registers 18% growth in Commercial Taxes collection",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-registers-18-growth-in-commercial-taxes-collection/article71415087.ece",
+     "summary": "The State has witnessed revenue mobilisation of ₹25,449 crore up to August 2026, up from ₹21,558 crore the previous year, says official",
+     "published": "2026-09-01T12:59:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qrbrov/article71415094.ece/alternates/LANDSCAPE_1200/11073_22_2_2026_18_59_16_4_23TVKZ4_DREDGING.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "58094e62cef2",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "id": "ec1e7e19da9a",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "rs 18 % growth in Commercial",
+      "₹25,449 crore up to August 2026",
+      "₹21,558 crore the previous year"
+     ]
     },
     {
      "title": "Ikea cuts prices as customers struggle with rising cost of living",
@@ -249,24 +266,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
-    },
-    {
-     "title": "Subhash Chandra insolvency: Why are creditors set to recover only ₹6.5 crore against ₹22,006 crore claims?",
-     "url": "https://www.thehindu.com/news/national/subhash-chandra-insolvency-why-are-creditors-set-to-recover-only-65-crore-against-22006-crore-claims/article71407409.ece",
-     "summary": "The case concerns proceedings by Indiabulls Housing Finance over a ₹170-crore loan given to Vivek Infracon Private Limited, for which Mr. Chandra had provided a personal guarantee",
-     "published": "2026-09-01T12:10:29+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hz9sg4/article71407887.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-30%20185033.png",
-     "licence": "linkout",
-     "id": "45da1cdb85cb",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News",
-     "figures": [
-      "₹6.5 crore against ₹22,006 crore claims?",
-      "₹170 -crore loan given"
-     ]
     },
     {
      "title": "FAST-DS 2026: Form 1 live on income tax portal for foreign asset disclosure; check eligibility, filing process",
@@ -314,24 +313,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "IMD issues flash flood alert for 10 Jharkhand districts as heavy rains lash State",
-     "url": "https://www.thehindu.com/news/national/jharkhand/imd-issues-flash-flood-alert-for-10-jharkhand-districts-as-heavy-rains-lash-state/article71415029.ece",
-     "summary": "According to a bulletin from IMD, a flash flood warning has been issued for Garhwa, Palamu, Latehar, Lohardaga, Gumla, Khunti, Saraikela-Kharsawan, West and East Singhbhum, and Simdega districts till September 2 morning",
-     "published": "2026-09-01T12:10:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7yj6i2/article71415107.ece/alternates/LANDSCAPE_1200/PTI07_18_2026_000286B.jpg",
-     "licence": "linkout",
-     "id": "0eae20baaece",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National Hotlines",
-     "figures": [
-      "10 Jharkhand districts as heavy rains",
-      "2 morning"
-     ]
-    },
-    {
      "title": "Opinion: Reporter's Diary | Roads Were Gone, We Kept Going: 6 Days Through Flood, Debris And Death In Nepal",
      "url": "https://www.ndtv.com/opinion/the-roads-were-gone-we-kept-going-6-days-through-nepals-flood-debris-and-death-11986948#publisher=newsstand",
      "summary": "NDTV's Sikta Deo recounts six harrowing days reporting from disaster-hit Nepal",
@@ -364,6 +345,20 @@
      "figures": [
       "100 Indians are missing"
      ]
+    },
+    {
+     "title": "Orangutans in danger as wildfires blaze through Borneo",
+     "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
+     "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
+     "published": "2026-08-31T22:05:43+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b6/live/7c268450-a5c7-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "6c71b16b3f53",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global Hotline"
     },
     {
      "title": "PartsSource Names Nick Marzotto to Lead Artificial Intelligence Strategy",
@@ -453,25 +448,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Over 7,200 corruption cases probed by CBI pending trials: CVC report",
-     "url": "https://www.thehindu.com/news/national/cbi-investigations-corruption-cases-pending-trials-central-vigilance-commission-report/article71415055.ece",
-     "summary": "A total of 3,854 such appeals and revisions were pending for more than five years but less than 10 years, 1,987 for over two years but less than five years and 2,995 for less than two years, the report made public recently said",
-     "published": "2026-09-01T12:12:02+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6wlu9u/article71415108.ece/alternates/LANDSCAPE_1200/Untitled%20design%204.jpg",
-     "licence": "linkout",
-     "id": "d0b17e530254",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News",
-     "figures": [
-      "7,200 corruption cases probed by CBI",
-      "3,854 such appeals and revisions were",
-      "10 years , 1,987 for over"
-     ]
-    },
-    {
      "title": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPamUtb0RTejVVMVJrMXlCakhrVjFIVWVvVGlBM2c1NzZiRWZOeU1fY3V2S0dRQ012THNlWGtuR01pOGtWRXduUWNmMWxEbVRxNTN3YzFlU1ZlQzUzUXpfZEdRdW9pRmRiS3djZTN4d0lrdGJyUWpXTFl4bWs2TEJkY3hwX2wwbjNDUFBtU2dJaGVaUXVPZ2FqWEVPdkZaZEpyWGk4Mk5HOHBiWVNxRW9LeEhOS3BjUDdnT3pHenhUZm9JVU9WQlpJSG1vLWktdnBaWWNXVkhYLWI0cFljeVJDTy1GT3hmbmRMU0dsaTA1dkp3MUXSAfgBQVVfeXFMTms5aGdhek9VWFVxaXEwTC1MWUZKTGdlZ2wzSXJqbWQtcDJKZklwQ3NUaWMwM2gza0R3QUVfZTQ5ZDI1MlN0TF91WkZTYWZJUWI1X3g2Q1BiMmJIbEIyVjNXQmNKMnR1WDZkOXlYRzRwbnZDS3I3bXNseS1YcUF1ZXNSQnlGRVVGTkUyVGZxMHBIY1JHUGhTZG5mWDU1VVpQd0NOWEx3U3N4bm96bWJDWkpKXzRKdEJSZ1NxZldTNVRvdVhVWTVYcW8xUDVtZi1FWHVJWWY2RVhjRmlCWW8zQ0U0d2FDZHlCN0Zubng3RU1Sb1VhZFZoSGw?oc=5",
      "summary": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition ET Education",
@@ -499,7 +475,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-01T12:40:10.355255+00:00",
+     "published": "2026-09-01T13:04:31.919925+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -510,7 +486,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-01T12:40:10.355271+00:00",
+     "published": "2026-09-01T13:04:31.919935+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -521,7 +497,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-01T12:40:10.355276+00:00",
+     "published": "2026-09-01T13:04:31.919939+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -532,7 +508,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-01T12:40:10.355279+00:00",
+     "published": "2026-09-01T13:04:31.919941+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -543,7 +519,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-01T12:40:10.355283+00:00",
+     "published": "2026-09-01T13:04:31.919943+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -554,7 +530,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-01T12:40:10.355287+00:00",
+     "published": "2026-09-01T13:04:31.919946+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -621,6 +597,19 @@
      "figures": [
       "rs 6  Crypto Fraud Cases"
      ]
+    },
+    {
+     "title": "Anti-corruption body flags 7,229 CBI corruption cases pending trial",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTJBT0dfel9iN3ZycFQxVDZaRVBkMk5SeHFudnkxNUp0MmxKbE5qM0ZxMTZNcEJHaXQxYXdJb1lpZThsbnI1aGVFbjVqWTd4RGVEcjZudUZTWVJyNlA5OV8yTW94cDZWRllYMFBRSUQ1aEFMMjcxZ3UzMzdPTDJ2UFJOZDBkdG5wLW1qRmJIdGlLTGhuM1hsNnZpMTJvcFZGSVZGNXl4b2h4d0U1MGpzcjZwTnJnaWxxNnpVTdIBwgFBVV95cUxPTGxhQmtSS3V1NnFXMzdYR2FyNmdBZExQZjFHMDRsYlhkUHNnaGdpdThfcFpiZXFOaDI5OVg3NThjZG5pSFljTUxLTXBrT1IwN1htYXRTY3Nkb3hrTzI1bU9PUXhaeGFPdzE5UkpUbmZhN1ktNUI2U21rd2s2LWVaTHBOUGgwaUNiZ3BTQnVzT3M4cWs0X0d4SzBSN0EyTEdlY1ZnR0pBeElGZ3k4bVZjSHIwQ2VFbF8yM2NNVlhkbzAyUQ?oc=5",
+     "summary": "Anti-corruption body flags 7,229 CBI corruption cases pending trial India Today",
+     "published": "2026-09-01T12:37:08+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "826d97648b06",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -631,61 +620,64 @@
    "upsc": false,
    "items": [
     {
-     "title": "Construction supply blockade: CITU to take out protest to T.N. border",
-     "url": "https://www.thehindu.com/news/national/kerala/construction-supply-blockade-citu-to-take-out-protest-to-tn-border/article71414724.ece",
-     "summary": "Union leaders say this restriction has completely paralysed the State’s construction sector, affecting ongoing infrastructure work and leaving thousands of workers without a livelihood",
-     "published": "2026-09-01T12:18:59+00:00",
+     "title": "Andhra Pradesh registers 18% growth in Commercial Taxes collection",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-registers-18-growth-in-commercial-taxes-collection/article71415087.ece",
+     "summary": "The State has witnessed revenue mobilisation of ₹25,449 crore up to August 2026, up from ₹21,558 crore the previous year, says official",
+     "published": "2026-09-01T12:59:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qrbrov/article71415094.ece/alternates/LANDSCAPE_1200/11073_22_2_2026_18_59_16_4_23TVKZ4_DREDGING.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "58094e62cef2",
+     "id": "ec1e7e19da9a",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "rs 18 % growth in Commercial",
+      "₹25,449 crore up to August 2026",
+      "₹21,558 crore the previous year"
+     ]
+    },
+    {
+     "title": "Justice Nagamohan Das’s books released in Shivamogga",
+     "url": "https://www.thehindu.com/news/national/karnataka/justice-nagamohan-dass-books-released-in-shivamogga/article71415164.ece",
+     "summary": "The Minister appreciated Mr. Das’s efforts to spread awareness of the Indian Constitution through his books after retirement, and recalled his active participation in the ‘Samvidhana Odu’ (Read the Constitution) campaign.",
+     "published": "2026-09-01T12:56:18+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/do6hv2/article71415349.ece/alternates/LANDSCAPE_1200/9911_1_9_2026_17_54_16_2_BOOK02.JPG",
+     "licence": "linkout",
+     "id": "7005822ced79",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Over 7,200 corruption cases probed by CBI pending trials: CVC report",
-     "url": "https://www.thehindu.com/news/national/cbi-investigations-corruption-cases-pending-trials-central-vigilance-commission-report/article71415055.ece",
-     "summary": "A total of 3,854 such appeals and revisions were pending for more than five years but less than 10 years, 1,987 for over two years but less than five years and 2,995 for less than two years, the report made public recently said",
-     "published": "2026-09-01T12:12:02+00:00",
+     "title": "Haritha Hotel in Jogulamba Gadwal set for infrastructure upgrades",
+     "url": "https://www.thehindu.com/news/national/telangana/haritha-hotel-in-jogulamba-gadwal-set-for-infrastructure-upgrades/article71411854.ece",
+     "summary": "",
+     "published": "2026-09-01T12:53:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6wlu9u/article71415108.ece/alternates/LANDSCAPE_1200/Untitled%20design%204.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ec50n2/article71411863.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-31%20at%206.12.34%20PM.jpeg",
      "licence": "linkout",
-     "id": "d0b17e530254",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "figures": [
-      "7,200 corruption cases probed by CBI",
-      "3,854 such appeals and revisions were",
-      "10 years , 1,987 for over"
-     ]
-    },
-    {
-     "title": "State Teachers’ Awards, Srestha Vidyalaya Puraskaram announced in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/state-teachers-awards-srestha-vidyalaya-puraskaram-announced-in-keralam/article71414620.ece",
-     "summary": "Awards will be given away at Kozhikode on September 5",
-     "published": "2026-09-01T12:10:50+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/d2dlpw/article71414717.ece/alternates/LANDSCAPE_1200/iStock-1148232269.jpg",
-     "licence": "linkout",
-     "id": "fc2fb5a3d412",
+     "id": "7b5d05dc5113",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Allegation of DMK govt. denying Marina burial site for Kamaraj untrue: Thangam Thennarasu in T.N. Assembly",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/allegation-of-dmk-govt-denying-marina-burial-site-for-kamaraj-untrue-thangam-thennarasu-in-tn-assembly/article71414800.ece",
-     "summary": "Citing extensively from a speech by Rajaram Naidu in the Legislative Council, Mr. Thennarasu said the original plan was to keep Kamaraj’s body at the Teynampet Congress ground, cremate him there and construct a memorial.",
-     "published": "2026-09-01T12:10:27+00:00",
+     "title": "Nandyal MP highlights government’s timely distribution of pension to beneficiaries",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/nandyal-mp-highlights-governments-timely-distribution-of-pension-to-beneficiaries/article71414709.ece",
+     "summary": "Disbursing pension to eligible beneficiaries, Byreddy Shabari says the coalition government ensures that persons with 100% disability and those bedridden due to illness receive ₹10,000 per month",
+     "published": "2026-09-01T12:46:19+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hdnvad/article71414809.ece/alternates/LANDSCAPE_1200/_DSC7294.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/7v6q0l/article71415258.ece/alternates/LANDSCAPE_1200/10745_1_9_2026_16_46_20_1_IMG_20260901_WA0133.JPG",
      "licence": "linkout",
-     "id": "ff36b937fb06",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "f400be94edbf",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "₹10,000  per month"
+     ]
     },
     {
      "title": "Parliamentary Panel Flags Delays In Scholarship Disbursal To Marginalised Students",
@@ -741,6 +733,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "What to know about the US primary election in Massachusetts",
+     "url": "https://www.aljazeera.com/news/2026/9/1/what-to-know-about-the-us-primary-election-in-massachusetts?traffic_source=rss",
+     "summary": "Competitive House races and a Senate showdown will put US Democrats’ progressive-moderate divide to the test.",
+     "published": "2026-09-01T12:36:28+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26241523289937-1788196489.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "a1fc8e9ee078",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
     {
      "title": "Pakistan wins Indus waters battle at The Hague, but India threat remains",
      "url": "https://www.aljazeera.com/news/2026/9/1/pakistan-wins-indus-waters-battle-at-the-hague-but-india-threat-remains?traffic_source=rss",
@@ -877,19 +882,6 @@
      "category_label": "General"
     },
     {
-     "title": "Orangutans in danger as wildfires blaze through Borneo",
-     "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
-     "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
-     "published": "2026-08-31T22:05:43+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b6/live/7c268450-a5c7-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "6c71b16b3f53",
-     "category": "weather",
-     "category_label": "Weather & disaster"
-    },
-    {
      "title": "Shein valued at $26bn after long-awaited stock market debut",
      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
@@ -914,76 +906,98 @@
    "upsc": false,
    "items": [
     {
-     "title": "Construction supply blockade: CITU to take out protest to T.N. border",
-     "url": "https://www.thehindu.com/news/national/kerala/construction-supply-blockade-citu-to-take-out-protest-to-tn-border/article71414724.ece",
-     "summary": "Union leaders say this restriction has completely paralysed the State’s construction sector, affecting ongoing infrastructure work and leaving thousands of workers without a livelihood",
-     "published": "2026-09-01T12:18:59+00:00",
+     "title": "Andhra Pradesh registers 18% growth in Commercial Taxes collection",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-registers-18-growth-in-commercial-taxes-collection/article71415087.ece",
+     "summary": "The State has witnessed revenue mobilisation of ₹25,449 crore up to August 2026, up from ₹21,558 crore the previous year, says official",
+     "published": "2026-09-01T12:59:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qrbrov/article71415094.ece/alternates/LANDSCAPE_1200/11073_22_2_2026_18_59_16_4_23TVKZ4_DREDGING.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "58094e62cef2",
+     "id": "ec1e7e19da9a",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "rs 18 % growth in Commercial",
+      "₹25,449 crore up to August 2026",
+      "₹21,558 crore the previous year"
+     ]
+    },
+    {
+     "title": "Justice Nagamohan Das’s books released in Shivamogga",
+     "url": "https://www.thehindu.com/news/national/karnataka/justice-nagamohan-dass-books-released-in-shivamogga/article71415164.ece",
+     "summary": "The Minister appreciated Mr. Das’s efforts to spread awareness of the Indian Constitution through his books after retirement, and recalled his active participation in the ‘Samvidhana Odu’ (Read the Constitution) campaign.",
+     "published": "2026-09-01T12:56:18+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/do6hv2/article71415349.ece/alternates/LANDSCAPE_1200/9911_1_9_2026_17_54_16_2_BOOK02.JPG",
+     "licence": "linkout",
+     "id": "7005822ced79",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Over 7,200 corruption cases probed by CBI pending trials: CVC report",
-     "url": "https://www.thehindu.com/news/national/cbi-investigations-corruption-cases-pending-trials-central-vigilance-commission-report/article71415055.ece",
-     "summary": "A total of 3,854 such appeals and revisions were pending for more than five years but less than 10 years, 1,987 for over two years but less than five years and 2,995 for less than two years, the report made public recently said",
-     "published": "2026-09-01T12:12:02+00:00",
+     "title": "Haritha Hotel in Jogulamba Gadwal set for infrastructure upgrades",
+     "url": "https://www.thehindu.com/news/national/telangana/haritha-hotel-in-jogulamba-gadwal-set-for-infrastructure-upgrades/article71411854.ece",
+     "summary": "",
+     "published": "2026-09-01T12:53:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6wlu9u/article71415108.ece/alternates/LANDSCAPE_1200/Untitled%20design%204.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ec50n2/article71411863.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-31%20at%206.12.34%20PM.jpeg",
      "licence": "linkout",
-     "id": "d0b17e530254",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "figures": [
-      "7,200 corruption cases probed by CBI",
-      "3,854 such appeals and revisions were",
-      "10 years , 1,987 for over"
-     ]
-    },
-    {
-     "title": "State Teachers’ Awards, Srestha Vidyalaya Puraskaram announced in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/state-teachers-awards-srestha-vidyalaya-puraskaram-announced-in-keralam/article71414620.ece",
-     "summary": "Awards will be given away at Kozhikode on September 5",
-     "published": "2026-09-01T12:10:50+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/d2dlpw/article71414717.ece/alternates/LANDSCAPE_1200/iStock-1148232269.jpg",
-     "licence": "linkout",
-     "id": "fc2fb5a3d412",
+     "id": "7b5d05dc5113",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Onions to be sold at ₹35 per kg through urban fair price shops: T.N. Minister in Assembly on price control measures",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/onions-to-be-sold-at-35-per-kg-through-urban-fair-price-shops-tn-minister-in-assembly-on-price-control-measures/article71414619.ece",
-     "summary": "Mr. Venkataramanan said the increase in onion prices was owing to a shortage in supply in major onion-producing States such as Maharashtra and Madhya Pradesh. Onions are currently being sold at ₹56 to ₹60 per kg in the open market.",
-     "published": "2026-09-01T11:58:12+00:00",
+     "title": "White froth appears on Periyar River near Edayar industrial area in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/white-froth-appears-on-periyar-river-near-edayar-industrial-area/article71414657.ece",
+     "summary": "Pollution Control Board collects samples",
+     "published": "2026-09-01T12:43:56+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/id9lqr/article71415056.ece/alternates/LANDSCAPE_1200/10216_11_7_2026_17_4_50_2_11_07_2026_FOOD_MINISTER_1.JPG",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/909rd0/article71415272.ece/alternates/LANDSCAPE_1200/froth.png",
      "licence": "linkout",
-     "id": "8cbab0472ee7",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹35  per kg through urban",
-      "₹56  to ₹60 per kg"
-     ]
+     "id": "b017c4d40b90",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "School assembly news headlines today- September 2: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORUZINW1oblZkLXRRdUtJdURPTVRNSWN5dHJWaHdYcWsxUzBfNTBqVkNhd1FIZjZVa3FNOGQ1Z2cwZGk4eDRWc2lOTHl0OXJCVWE5STJ5WGgzOGQ3MU5xSTJ6eDd2RE9NaEZQVF9FMWNnUENId0ZqdGF3eU1Mb3RMem9vQ0xqRE10amo3dWlXU0RVT3FTQUxmS1hRTTM2MTFQNnJXQ1d1bUNPSWxvd3BsckZtTFZnd3dINE1jSzhhVnVhREoxQ3VGQ0xablFDekVUU0diZmZuQi1DbjEzMmNOWU9pNnBZd2c?oc=5",
-     "summary": "School assembly news headlines today- September 2: Top national, sports and world news curated for you bestcolleges.indiatoday.in",
-     "published": "2026-09-01T11:02:08+00:00",
-     "source": "bestcolleges.indiatoday.in",
+     "title": "Asian Games 2026: Karnataka High Court orders enquiry through former apex court judge into procedural lapses in selection of surfers",
+     "url": "https://www.thehindu.com/news/national/karnataka/asian-games-2026-karnataka-high-court-orders-enquiry-through-former-apex-court-judge-into-procedural-lapses-in-selection-of-surfers/article71414897.ece",
+     "summary": "Despite finding violation of norms, Court declined to order fresh selection at this last stage as it could prejudice India’s participation in the surfing competition",
+     "published": "2026-09-01T12:38:16+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/74avs5/article71415210.ece/alternates/LANDSCAPE_1200/Asian%20Surfing%20Championship.jpg",
+     "licence": "linkout",
+     "id": "57402593b2fe",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Today News Headlines for School Assembly, September 2, 2026: PM Modi urges citizens to promote ‘Wed in India’ campaign",
+     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNd3Q0emxLQy1QMjVma0JxbEs3cy1uQ3g3bDZWMnZlY2FSZGw2T0piTlNsbnA0b3JyMldZZDZLbGZvWkhYaUVBLTBRLVdTd2pJNElyRnd2SUlTRE9xNjBBQ1dlb09wQmRpUjFGalB4ckJPVjMwNWJSTVJfTWZBaEtraWJsZEVVRTZUTkRad25KNHRCZFFMVGJtZ01abjFhTHlmelN1V29QZkJ2bGNZZnlaWGhVWjR1ckt0cHZ3N1c5V0Nmc2tWSU1EZzNrZXZ1X1pjX3hGRUxwZFltSnJCTkw0MUYtWFZUVW5jbWZUS284YnM0NzlRT2lHcElVdmRQLWtiR0d4SVR1cEFncG1adEhmRGdvNTRhaU9zelNvcXNTYnBfSGNlbmR1djUtLUV4WVdXRy1CWklhN0d4ZXVT?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 2, 2026: PM Modi urges citizens to promote ‘Wed in India’ campaign The Indian Express",
+     "published": "2026-09-01T12:00:47+00:00",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "f5ef513735a3",
+     "id": "1ca4b2592df6",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
+     "summary": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance newsonair.gov.in",
+     "published": "2026-09-01T07:18:27+00:00",
+     "source": "newsonair.gov.in",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "7ecb2ba862ba",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -995,6 +1009,25 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Processing of Applications Received Under the Citizen’s Charter - Status as on August 31, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63495",
+     "summary": "",
+     "published": "2026-09-01T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "b971f41aa7dc",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Sources of Variation in India’s Foreign Exchange Reserves during April-June 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63494",
@@ -1072,25 +1105,6 @@
      },
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Result of Yield/Price Based Auction of State Government Securities",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63490",
-     "summary": "",
-     "published": "2026-09-01T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "a25ccde6c193",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -1527,7 +1541,7 @@
     {
      "title": "UK long-term borrowing costs hit highest since 2008 ahead of October Budget",
      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-     "summary": "The yield on 30-year gilts hit its highest level since 1998",
+     "summary": "The yield on 30-year gilts hit its highest level since 1998, adding to the pressure on government spending.",
      "published": "2026-09-01T12:11:13+00:00",
      "source": "BBC News",
      "byline": "",
@@ -1580,6 +1594,19 @@
      "category_label": "General"
     },
     {
+     "title": "8th pay commission: Chennai, Puducherry, Chandigarh, Bengaluru — Check full list of meeting dates in September, October",
+     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-chennai-puducherry-chandigarh-bengaluru-mumbai-meet-employees-stakeholder-full-list-september-october-11788263035316.html",
+     "summary": "The 8th pay commission has scheduled state visits to Chennai, Puducherry, Chandigarh, Bengaluru and Mumbai in September and October 2026. Here's the full list of dates and who can participate in the meetings.",
+     "published": "2026-09-01T12:52:09+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/CPC_meeting_dates_1788266820479_1788266839337_7986c278-9d8d-4b27-9b33-d128e7c141a9.png",
+     "licence": "linkout",
+     "id": "327a64fab405",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "DA news: Employees criticise transfer of key leader, BJP and Congress attack Punjab CM, govt may move SC—See top updates",
      "url": "https://www.livemint.com/money/personal-finance/da-news-punjab-employees-criticise-transfer-key-leader-khera-bjp-congress-attack-cm-mann-state-govt-move-sc-top-updates-11788257626520.html",
      "summary": "Punjab transferred Sukhchain Singh Khera, key member of the state employees' protest, where over 150 employees' bodies and more than 3.50 lakh pensioners participated in one of the biggest mobilisations against the government.",
@@ -1608,19 +1635,6 @@
      "id": "eea4240194f6",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Pledged your life insurance policy for a bank loan? NCDRC says lender can surrender it without consent",
-     "url": "https://www.livemint.com/money/personal-finance/pledged-your-life-insurance-policy-for-a-bank-loan-ncdrc-says-lender-can-surrender-it-without-consent-11788253311775.html",
-     "summary": "The NCDRC has ruled on a case involving an LIC policy assigned as security for a bank loan, holding that the insurer was not deficient in acting on the bank's surrender request. Here's what the order means for policyholders who use insurance policies as loan collateral.",
-     "published": "2026-09-01T09:19:15+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/Screenshot_2023-04-24_141911_1682326228015_1788253365998_344bcefd-5187-49ff-ac5a-34daedd7d4f3.png",
-     "licence": "linkout",
-     "id": "d7c1bf093995",
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -1662,9 +1676,9 @@
     {
      "title": "Why tech needs a new kind of English major",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXlLNzVsYjdlTTRrajREbTlZMjFneFFrNUtDXzBxNlBDY3pwbmlwUTVrTXZIWXY1RjNPb0JuTDZhX3lidnZ4WnotbURYUWpQVVFLMzRHZ2JRbGxfaGVDMmQ5SUYzNWxRMXlwUkZiUG9mODdUNkNzak5QTWFpOVJkR3dkcTJEc1lzUVd5b3NhUXVwSXc?oc=5",
-     "summary": "Why tech needs a new kind of English major InfoWorld",
+     "summary": "Why tech needs a new kind of English major infoworld.com",
      "published": "2026-09-01T09:02:33+00:00",
-     "source": "InfoWorld",
+     "source": "infoworld.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
