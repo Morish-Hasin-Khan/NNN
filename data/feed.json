@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T23:02:03.368153+00:00",
+ "generated_at": "2026-09-01T23:31:37.374769+00:00",
  "podcasts_fetched_at": "2026-09-01T22:01:39.218117+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Cisco Muslim",
   "Iran",
-  "Deadly Colombia",
   "Jazeera English",
   "News",
   "What India",
   "Nepal Govt",
   "IndiGo",
   "Defence PSUs",
-  "China",
-  "Venezuela"
+  "Fernandez City",
+  "River Nepal"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
+     "url": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
+     "summary": "Cisco employees allege harassment after internal activism against technology sales to the Israeli military.",
+     "published": "2026-09-01T22:54:04+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2022-08-12T201354Z_209309139_RC27VV9JHE0F_RTRMADP_3_TECH-CASTE-1788295040.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1b1444f22706",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "US strikes Iran as state media reports four killed at wedding party",
      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
@@ -112,20 +126,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
      "id": "eef742c7215c",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Deadly car bomb attack at Colombia police station",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
-     "summary": "Deadly car bomb attack at Colombia police station",
-     "published": "2026-09-01T21:01:10+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Colombia-car-bomb-horizontal-thumb-1788296412.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "b71cfdbb9e5f",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
@@ -159,18 +159,18 @@
      "from_section": "Business"
     },
     {
-     "title": "The Faceless War: How Artificial Intelligence Rewrote the Map of Power",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FOXZPa3A0ZV95bG9XUUhLTkRrSVJSREViNGcwUWpWUGdGTHJkZkJwUlA2aUZ0TWZxX0d0U2pPVFlzWkdZMDFjVDd5TkNnUkFfUUVGLTBHd3V2UU9YUEZUdFlJNzBFMnBIaGJoMXMtd3l0cWRxT2U4SGpRZw?oc=5",
-     "summary": "The Faceless War: How Artificial Intelligence Rewrote the Map of Power Small Wars Journal",
-     "published": "2026-09-01T06:05:48+00:00",
-     "source": "Small Wars Journal",
+     "title": "US House passes funding bill to avert government shutdown ahead of midterms",
+     "url": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
+     "summary": "The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.",
+     "published": "2026-09-01T22:44:28+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26244687425718-1788293043.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "5acb635e1290",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Technology"
+     "id": "79a9417b0937",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
     },
     {
      "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
@@ -182,20 +182,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a972fbc33-1788293052.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "50f91511692a",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
-     "summary": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
-     "published": "2026-09-01T21:03:45+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-21.56.01-1788296279.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "f57572bb178f",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "Global News"
@@ -246,18 +232,21 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "Ikea cuts prices as customers struggle with rising cost of living",
-     "url": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
-     "summary": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
-     "published": "2026-09-01T12:21:52+00:00",
+     "title": "Shein valued at $26bn after long-awaited stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+     "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+     "published": "2026-09-01T10:01:26+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb85/live/c4b57840-a5ca-11f1-8543-aba44f51f79c.jpg",
      "licence": "linkout",
-     "id": "0e7451ab20be",
+     "id": "6d16e3c4670d",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
+     "from_section": "Global Hotline",
+     "figures": [
+      "$26bn after long-awaited stock market"
+     ]
     },
     {
      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
@@ -443,7 +432,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-01T23:01:50.759316+00:00",
+     "published": "2026-09-01T23:31:24.544746+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -454,7 +443,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-01T23:01:50.759326+00:00",
+     "published": "2026-09-01T23:31:24.544756+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -465,7 +454,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-01T23:01:50.759335+00:00",
+     "published": "2026-09-01T23:31:24.544761+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -476,7 +465,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-01T23:01:50.759340+00:00",
+     "published": "2026-09-01T23:31:24.544769+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -487,7 +476,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-01T23:01:50.759345+00:00",
+     "published": "2026-09-01T23:31:24.544774+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -498,7 +487,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-01T23:01:50.759350+00:00",
+     "published": "2026-09-01T23:31:24.544779+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -514,9 +503,9 @@
     {
      "title": "What a government audit found in India’s EV subsidy scheme?",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkh5VThuRzRXQlpLTk5yeGtQVGtUZGVaNXk2VjlVdG1wM2NqYTZEcEQ3TEwwaTNkTVJrOTJkUzRqTjk3TGRkRW1IWi1KbmJRdlFQNmFqVkdxQkJxbFFCOC1QaUNQVWttUFM3Vk42RTZUS1FQSFlNWHoyWngwTU5YdFpaLVE4NTRXdmY0cmdvcmFZNW13c2FNd3dVMGJoZw?oc=5",
-     "summary": "What a government audit found in India’s EV subsidy scheme? LinkedIn",
+     "summary": "What a government audit found in India’s EV subsidy scheme? linkedin.com",
      "published": "2026-09-01T04:54:17+00:00",
-     "source": "LinkedIn",
+     "source": "linkedin.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -711,6 +700,48 @@
    "upsc": false,
    "items": [
     {
+     "title": "Fernandez transfers to Man City from Chelsea in joint British record fee",
+     "url": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss",
+     "summary": "Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).",
+     "published": "2026-09-01T23:00:30+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-05-19T193931Z_113432546_UP1EM5J1ILUEZ_RTRMADP_3_SOCCER-ENGLAND-CHE-TOT-1788295392.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1d1336507f58",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "£125 million ($169m)"
+     ]
+    },
+    {
+     "title": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
+     "url": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
+     "summary": "Cisco employees allege harassment after internal activism against technology sales to the Israeli military.",
+     "published": "2026-09-01T22:54:04+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2022-08-12T201354Z_209309139_RC27VV9JHE0F_RTRMADP_3_TECH-CASTE-1788295040.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1b1444f22706",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "US House passes funding bill to avert government shutdown ahead of midterms",
+     "url": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
+     "summary": "The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.",
+     "published": "2026-09-01T22:44:28+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26244687425718-1788293043.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "79a9417b0937",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "US urges G20 to cut trade imbalances, focus on China",
      "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
      "summary": "US Treasury Secretary Bessent urges other G20 countries to do more to protect their economies from Chinese imports.",
@@ -720,32 +751,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T151944Z_2070103316_RC2P9NAANYYY_RTRMADP_3_G20-FINANCE-1788214890.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "698b67eca52f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
-     "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
-     "summary": "Venezuela's National Assembly voted to back the 65-billion-barrel oil deal, despite no details being publicly released.",
-     "published": "2026-09-01T21:54:14+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a972fbc33-1788293052.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "50f91511692a",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
-     "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-     "summary": "The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.",
-     "published": "2026-09-01T21:28:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9738003551e-1788295168.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "78281332cdde",
      "category": "general",
      "category_label": "General"
     },
@@ -843,22 +848,6 @@
      "id": "ea9fd56408f7",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "Shein valued at $26bn after long-awaited stock market debut",
-     "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-     "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-     "published": "2026-09-01T10:01:26+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb85/live/c4b57840-a5ca-11f1-8543-aba44f51f79c.jpg",
-     "licence": "linkout",
-     "id": "6d16e3c4670d",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$26bn after long-awaited stock market"
-     ]
     }
    ]
   },
@@ -926,9 +915,9 @@
     {
      "title": "Today News Headlines for School Assembly, September 2, 2026: Supreme Court scraps all FIRs against NEET protesters",
      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNd3Q0emxLQy1QMjVma0JxbEs3cy1uQ3g3bDZWMnZlY2FSZGw2T0piTlNsbnA0b3JyMldZZDZLbGZvWkhYaUVBLTBRLVdTd2pJNElyRnd2SUlTRE9xNjBBQ1dlb09wQmRpUjFGalB4ckJPVjMwNWJSTVJfTWZBaEtraWJsZEVVRTZUTkRad25KNHRCZFFMVGJtZ01abjFhTHlmelN1V29QZkJ2bGNZZnlaWGhVWjR1ckt0cHZ3N1c5V0Nmc2tWSU1EZzNrZXZ1X1pjX3hGRUxwZFltSnJCTkw0MUYtWFZUVW5jbWZUS284YnM0NzlRT2lHcElVdmRQLWtiR0d4SVR1cEFncG1adEhmRGdvNTRhaU9zelNvcXNTYnBfSGNlbmR1djUtLUV4WVdXRy1CWklhN0d4ZXVT0gHDAkFVX3lxTFB4STJremxuT2JTbWpfNWdDTktCVnZnQzJBUUZYeTYwaFdXdzRZRUxSZVFzZ1VyazF3YTJNU1lzQjRYZXZTTHRJQVE4RUY1TkVVcms4bFRlZkhnc2Q2UVVCZ2N4MWdnT3NxZF9OMkljZjhTbzJCZDFRNUZmeVZGRjVsUWc4TGxFQXAxd3NjZllEQWZadWVIY2x5VmRMcm93Uzlyd1pzYmhkRlVCdlBKRmhfeVQtWkxDTGllT0RpZ012bWR0bGxjMTBycF9LTVNwb0dxSGk2THVSU1MyY09zWURqTk9SVEV3UDEwcnRUNEhMelFXU2JXMXpTZnZqNWVrdS1HV1JDN01uREJPT3VBU0tDMEI0eU5tSFJBclpRaElpNE5PdmVPMEcydDVUTDJtc2JueHVIQmlPUm9RZWt2NGlRU0lV?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 2, 2026: Supreme Court scraps all FIRs against NEET protesters indianexpress.com",
+     "summary": "Today News Headlines for School Assembly, September 2, 2026: Supreme Court scraps all FIRs against NEET protesters The Indian Express",
      "published": "2026-09-01T12:00:47+00:00",
-     "source": "indianexpress.com",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1581,6 +1570,19 @@
      "category_label": "General"
     },
     {
+     "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+     "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+     "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
+     "published": "2026-09-01T23:26:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg",
+     "licence": "linkout",
+     "id": "dd0e8249ee32",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Shein valued at $26bn after long-awaited stock market debut",
      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
@@ -1595,19 +1597,6 @@
      "figures": [
       "$26bn after long-awaited stock market"
      ]
-    },
-    {
-     "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-     "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-     "published": "2026-09-01T10:18:47+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "b6772066296d",
-     "category": "conflict",
-     "category_label": "War & conflict"
     },
     {
      "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
@@ -1701,6 +1690,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Will self-flying planes transform the skies?",
+     "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+     "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+     "published": "2026-09-01T23:27:35+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+     "licence": "linkout",
+     "id": "7572bcc6d9b4",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
@@ -1727,23 +1729,6 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Programmable sovereignty: coordinated specialisation as a response to the N-2 problem in artificial intelligence",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVJqQzUzeG9ROHN4WXV3Wl9DQnBQYzRPbTMzQTlnLWJ1a3N2ZDJZSXMtRm04RnktbVVCWWhEb1NtbTNNSF8yYU4zRzdUdU5iZ28xX1I0MFFaazJFSTNXd1czRFItOENiTTZlbm1pYTl0QnE5NEpEVGlUYXNSazFDM1RoMjZNMll3bEJPWU1mNzlJcDlRYTNIU3plMWNVSHVSZHJUN09iWldZa1BCcC1GVC1zTzd3Mk42a3dTQUFn?oc=5",
-     "summary": "Programmable sovereignty: coordinated specialisation as a response to the N-2 problem in artificial intelligence Bruegel",
-     "published": "2026-09-01T15:46:51+00:00",
-     "source": "Bruegel",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "8e060f0408b9",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "2 problem in artificial intelligence",
-      "2 problem in artificial intelligence Bruegel"
-     ]
-    },
-    {
      "title": "Why tech needs a new kind of English major",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXlLNzVsYjdlTTRrajREbTlZMjFneFFrNUtDXzBxNlBDY3pwbmlwUTVrTXZIWXY1RjNPb0JuTDZhX3lidnZ4WnotbURYUWpQVVFLMzRHZ2JRbGxfaGVDMmQ5SUYzNWxRMXlwUkZiUG9mODdUNkNzak5QTWFpOVJkR3dkcTJEc1lzUVd5b3NhUXVwSXc?oc=5",
      "summary": "Why tech needs a new kind of English major InfoWorld",
@@ -1768,6 +1753,22 @@
      "id": "49f9367a47c1",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds | AI (artificial intelligence)",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
+     "summary": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds | AI (artificial intelligence) The Guardian",
+     "published": "2026-09-01T01:30:00+00:00",
+     "source": "The Guardian",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "da768d0d0b9a",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "figures": [
+      "2 seconds | AI (artificial intelligence)"
+     ]
     }
    ]
   },
