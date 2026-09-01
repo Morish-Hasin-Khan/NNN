@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T03:02:31.202723+00:00",
+ "generated_at": "2026-09-01T03:35:38.853922+00:00",
  "podcasts_fetched_at": "2026-08-30T22:01:29.517054+00:00",
  "markets": [
   {
@@ -66,11 +66,10 @@
    "key": "brent",
    "label": "BRENT",
    "unit": "$/bbl",
-   "value": 88.1,
-   "change": -0.48,
-   "changePct": -0.54,
-   "decimals": 2,
-   "stale": true
+   "value": 88.86,
+   "change": 1.02,
+   "changePct": 1.16,
+   "decimals": 2
   },
   {
    "key": "btc",
@@ -92,8 +91,8 @@
   "Delhi Govt",
   "Maharashtra Assembly",
   "What Explained",
-  "Russia Siluanov",
-  "Toxic Indonesian"
+  "John Ternus",
+  "Russia Siluanov"
  ],
  "sections": [
   {
@@ -162,20 +161,22 @@
      "from_section": "National News"
     },
     {
-     "title": "US army secretary resigns after months of tension",
-     "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-     "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
-     "published": "2026-09-01T01:01:03+00:00",
-     "source": "BBC News",
+     "title": "51 Of 227 Indians Recruited In Russian Army Are Dead: Centre",
+     "url": "https://www.ndtv.com/india-news/51-of-227-indians-recruited-in-russian-army-are-dead-centre-11984631#publisher=newsstand",
+     "summary": "India has 227 nationals recruited into Russian army with 139 discharged and 51 died.",
+     "published": "2026-09-01T02:08:43+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg",
+     "image": "https://c.ndtvimg.com/2024-09/pacui9gk_russian-army-generic-russia-army-generic-afp_625x300_12_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "1d4bfcb5c9ea",
+     "id": "bf7ccc952c6f",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Global News",
+     "from_section": "National News",
      "figures": [
-      "18 months into his post"
+      "227 Indians Recruited In Russian Army",
+      "227 nationals recruited into Russian army",
+      "139 discharged and 51 died"
      ]
     },
     {
@@ -211,38 +212,56 @@
      ]
     },
     {
-     "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
-     "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
-     "summary": "Economic grievances persist while space for dissent has narrowed under President Kais Saied.",
-     "published": "2026-09-01T00:15:22+00:00",
-     "source": "Al Jazeera",
+     "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
+     "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times",
+     "published": "2026-08-31T12:41:48+00:00",
+     "source": "The Economic Times",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8792bd00d4-1787269821.jpg?resize=1920%2C1440",
+     "image": null,
      "licence": "linkout",
-     "id": "1d7a7d20c23b",
+     "id": "299131fb2594",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National Hotlines"
     },
     {
-     "title": "In Touch With Stakeholders Over Chabahar Port: India Amid US-Iran Tensions",
-     "url": "https://www.ndtv.com/india-news/in-touch-with-stakeholders-over-chabahar-port-india-amid-us-iran-tensions-11984373#publisher=newsstand",
-     "summary": "Addressing India's diplomatic intervention in the crisis, the Foreign Secretary emphasised that Prime Minister Modi has actively engaged regional and global leadership since tensions escalated.",
-     "published": "2026-08-31T23:44:51+00:00",
-     "source": "NDTV",
+     "title": "Senior citizen misses income tax appeal deadline by 191 days after wife’s death; ITAT Pune gives another chance",
+     "url": "https://www.livemint.com/money/personal-finance/senior-citizen-misses-income-tax-appeal-deadline-by-191-days-after-wife-s-death-itat-pune-gives-another-chance-11788231795326.html",
+     "summary": "A Pune-based senior citizen missed the income-tax appeal deadline by 191 days after his wife’s death. The ITAT Pune, in ITA No. 1586/PUN/2026, directed the appellate authority to condone the delay and hear his tax appeal on merits.",
+     "published": "2026-09-01T03:29:38+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/j75751vk_vikram-misri_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/Gemini_Generated_Image_6xhrb86xhrb86xhr_1788233172479_1788233181906_2c55122f-8ad4-4463-88a2-9327b36ca44f.png",
      "licence": "linkout",
-     "id": "6a784bf09f02",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "id": "1851702aa9ff",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "191 days after wife’s death; ITAT",
+      "191 days after his wife’s death"
+     ]
+    },
+    {
+     "title": "John Ternus to lead Apple into the age of AI",
+     "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+     "summary": "Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.",
+     "published": "2026-09-01T03:20:25+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-28T013240Z_159694566_RC2PMMAHUR2U_RTRMADP_3_TELEVISION-TED-LASSO-PREMIERE-1788230578.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "82f6bbe3cca3",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News"
     },
     {
      "title": "Shein shares slide in long-awaited stock market debut",
      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-     "published": "2026-09-01T02:51:19+00:00",
+     "published": "2026-09-01T03:11:13+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg",
@@ -250,39 +269,7 @@
      "id": "6d16e3c4670d",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "What goes on behind the screen when you pay through UPI? | Explained",
-     "url": "https://www.thehindu.com/sci-tech/science/what-goes-on-behind-the-screen-when-you-pay-through-upi-explained/article71411087.ece",
-     "summary": "UPI enables instant bank-to-bank payments by connecting users’ apps and banks through a system operated by the National Payments Corporation of India; launched in 2016, it has grown into a massive digital payments network and is now being adopted in several countries",
-     "published": "2026-09-01T02:18:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/vb3wy3/article71412372.ece/alternates/LANDSCAPE_1200/iStock-2201935167.jpg",
-     "licence": "linkout",
-     "id": "7cb234731338",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News"
-    },
-    {
-     "title": "Draft voter lists see over 6 crore deletions so far in SIR third phase",
-     "url": "https://www.thehindu.com/news/national/draft-voter-lists-see-over-6-crore-deletions-so-far-in-sir-third-phase/article71411677.ece",
-     "summary": "The third phase was carried out in 16 States and 3 Union Territories. Draft rolls of all these States have been published, except for Nagaland and Tripura",
-     "published": "2026-09-01T01:38:44+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xh6toi/article71412269.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGPBGDKFNJ.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "c8c4622228c7",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National Hotlines",
-     "figures": [
-      "6 crore deletions so far",
-      "16 States and 3 Union Territories"
-     ]
+     "from_section": "Global News"
     },
     {
      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
@@ -358,6 +345,20 @@
      "from_section": "Health & Science"
     },
     {
+     "title": "Girl Takes NEET PG Exam With Teary Eyes As Parents Remain Untraced After Nepal Floods",
+     "url": "https://www.ndtv.com/education/girl-takes-neet-pg-exam-with-teary-eyes-as-parents-remain-untraced-after-nepal-floods-11984723#publisher=newsstand",
+     "summary": "Tanvi also shared that while giving the NEET PG exam, on the screen she could see her picture on the admit card. \"That photo was taken by my dad,\" she recalled.",
+     "published": "2026-09-01T02:46:46+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/3isqs6kk_nepal-floods_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ab07493b82af",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News"
+    },
+    {
      "title": "Nepal flash floods updates: Death toll rises to 939, missing people drops to 3,925: disaster authority",
      "url": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece",
      "summary": "China rejects claims linking its massive hydropower projects in Tibet to the August 26 flash flood disaster in Nepal, calling them “malicious speculation”",
@@ -385,20 +386,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/954d/live/e2eff860-a545-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
      "id": "6c71b16b3f53",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "'I haven't lost my hope' - the search for missing loved ones",
-     "url": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss",
-     "summary": "Relatives of those still missing in the fatal floods in Nepal hold onto hope that their loved ones have survived.",
-     "published": "2026-08-31T16:42:17+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f2b/live/a9975430-a55b-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "bfd5ecc2ccf4",
      "category": "weather",
      "category_label": "Weather & disaster",
      "from_section": "Global Hotline"
@@ -436,18 +423,32 @@
      "from_section": "Technology"
     },
     {
-     "title": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYmRzQlA1VExIY1IteGFYLTRJT0owbFZMRzYyNDJUTFRnb2F3WVM2VTRraTFNZ3kyQlluUzA3T1BMUnRlakhzSDRaT1ltNHpOZTlxLXRDdFN6UWI4UjBGQ01oOGtzRjVISmc4M3JCd2s1UW1yMmp5NnBDYjlUQnh1eE5ndHgzTjhvTGV2ZEVxVjJwcElHcGtPRHNyTTRSMUxEMm9DWGpkYUdJUjRDTFBmTjZxbC1BLW84Yy1Kb0FxTVRBRU1sMFRoWjhwWU9SdDNEQWhIVDZQMHcwNmlHUHBIX0ExQmFqQkVQTWxQNWxMU1F0R3BLZW0wbDZ3ZXJjNzhrOGYw?oc=5",
-     "summary": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment Faculty Focus",
-     "published": "2026-08-31T09:05:35+00:00",
-     "source": "Faculty Focus",
+     "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
+     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
+     "published": "2026-08-31T15:23:33+00:00",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "d07b37ec8463",
+     "id": "e5acc0fd27af",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology"
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Ringside View | Lionel Messi, You Emptied Our Emotions And Emptied Our Pockets",
+     "url": "https://sports.ndtv.com/football/lionel-messi-you-emptied-our-emotions-and-emptied-our-pockets-11984712#publisher=newsstand",
+     "summary": "Lionel Messi was first named permanent captain of Argentina on September 2, 2011, during a friendly against Venezuela in Kolkata, marking a historic moment for Indian football fans.",
+     "published": "2026-09-01T02:55:18+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/mpgsat6s_messi-world-cup-getty_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "88b05e2de86a",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
     },
     {
      "title": "Lionel Messi Retires From International Football: 6 Defining Moments Of His Argentina Career",
@@ -467,20 +468,6 @@
      ]
     },
     {
-     "title": "\"Hurts Deep In My Soul\": Lionel Messi Retires From International Football",
-     "url": "https://sports.ndtv.com/football/lionel-messi-retires-from-international-football-argentina-great-announces-decision-on-instagram-hurts-deep-in-my-soul-11983260#publisher=newsstand",
-     "summary": "It's the end of an era. Months after Argentina's FIFA World Cup 2026 campaign ended in a loss to Spain, Messi decided that the time was right to bid adieu to the Beautiful Game",
-     "published": "2026-08-31T20:09:06+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/tg0tio24_lionel-messi_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a538b68a4e6d",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
      "title": "African NGOs demand probe into six bodies found in Guinea mass grave",
      "url": "https://www.aljazeera.com/news/2026/9/1/african-ngos-demand-probe-into-six-bodies-found-in-guinea-mass-grave?traffic_source=rss",
      "summary": "The bodies were found bound and blindfolded in the Forecariah administrative prefecture on August 24.",
@@ -493,20 +480,6 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Global News"
-    },
-    {
-     "title": "Viral Video Of Family Meal On Rajasthan Highway Misrepresented. Here's Reality",
-     "url": "https://www.ndtv.com/india-news/viral-video-of-family-meal-on-rajasthan-highway-misrepresented-reality-different-11984390#publisher=newsstand",
-     "summary": "The viral video triggered calls for a probe and raised questions about highway safety and the civic sense of people for allegedly turning a highway into a picnic spot.",
-     "published": "2026-09-01T00:54:49+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ptcvqmbs_rajasthan-family-viral-video_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a46deb28d205",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News"
     },
     {
      "title": "Delhi Govt begins probe into Beacon Public School over alleged lack of recognition",
@@ -536,7 +509,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-01T03:02:18.369714+00:00",
+     "published": "2026-09-01T03:35:26.967162+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -547,7 +520,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-01T03:02:18.369730+00:00",
+     "published": "2026-09-01T03:35:26.967171+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -558,7 +531,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-01T03:02:18.369736+00:00",
+     "published": "2026-09-01T03:35:26.967173+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -569,7 +542,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-01T03:02:18.369740+00:00",
+     "published": "2026-09-01T03:35:26.967175+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -580,7 +553,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-01T03:02:18.369743+00:00",
+     "published": "2026-09-01T03:35:26.967176+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -591,10 +564,48 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-01T03:02:18.369747+00:00",
+     "published": "2026-09-01T03:35:26.967178+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 3 - LIVE Score Updates",
+     "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-day-3-live-score-updates-11984753#publisher=newsstand",
+     "summary": "South Zone vs North Zone, Duleep Trophy Semi-Final Day 3 LIVE: South Zone will pick up from 285/9 with captain Tilak Varma at the crease on 106, having taken a 90-run lead over North Zone by Day 2.",
+     "published": "2026-09-01T02:57:26+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/va4rttqo_tilak-varma_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "05260795eac8",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "3 LIVE : South Zone will",
+      "9 with captain Tilak Varma",
+      "106, having taken a 90-run lead"
+     ]
+    },
+    {
+     "title": "Duleep Trophy Semi-final 1, Day 3, East Zone vs Central Zone Live Score Updates: Bowlers Strike Early After Sooryavanshi Dazzles",
+     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-3-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11984674#publisher=newsstand",
+     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Day 3 Live Updates: Match deadlocked despite Vaibhav Sooryavanshi's blazing 92.",
+     "published": "2026-09-01T02:55:48+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/9gng320c_mukesh-kumar-x_625x300_01_September_26.jpeg",
+     "licence": "linkout",
+     "id": "e6e8abe09514",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "1, Day 3, East Zone vs",
+      "3, East Zone vs Central Zone",
+      "3 Live Updates: Match deadlocked despite"
+     ]
     }
    ]
   },
@@ -754,30 +765,33 @@
      "category_label": "General"
     },
     {
-     "title": "Anna Hazare Admitted To ICU In Mumbai Due To Viral Infection, Dehydration",
-     "url": "https://www.ndtv.com/india-news/anna-hazare-admitted-to-icu-in-mumbai-due-to-viral-infection-dehydration-11984123#publisher=newsstand",
-     "summary": "Anna Hazare is currently under constant observation in the ICU under the care of Gautam Bhansali.",
-     "published": "2026-08-31T19:13:27+00:00",
+     "title": "Why New Secretariat At Silchar Is Himanta Sarma's Game Changer For Barak Valley",
+     "url": "https://www.ndtv.com/india-news/why-new-secretariat-at-silchar-is-himanta-sarmas-game-changer-for-assams-barak-valley-11984776#publisher=newsstand",
+     "summary": "It marks a significant step towards decentralising the functioning of the Assam government and reducing the region's dependence on Dispur.",
+     "published": "2026-09-01T03:13:52+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://i.ndtvimg.com/i/2018-04/anna-hazare_650x400_71523947637.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/5lqdod9g_assam_625x300_01_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "2678b60536d3",
+     "id": "3e02bbce8a0a",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "25-Year-Old Man Arrested For Killing Wife Over Dowry In UP",
-     "url": "https://www.ndtv.com/india-news/25-year-old-man-arrested-for-killing-wife-over-dowry-in-ups-lucknow-11984087#publisher=newsstand",
-     "summary": "Police said on August 28, a written complaint was submitted by the complainant, Ram Ghulam, alleging that his daughter was murdered after being harassed for dowry.",
-     "published": "2026-08-31T19:00:10+00:00",
+     "title": "Allahabad University Opens PhD Admissions For Academic Session 2026-27, Check Details Here",
+     "url": "https://www.ndtv.com/education/allahabad-university-opens-phd-admissions-for-2026-27-academic-session-11984698#publisher=newsstand",
+     "summary": "Allahabad University PhD Admissions 2026-27: For PhD admissions for the academic session 2026-27, the UGC/CSIR-NET examinations held in December 2025 and June 2026 will be considered valid.",
+     "published": "2026-09-01T02:42:24+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2022-11/iof8givc_arrest-generic_625x300_30_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/k5go95rg_allahabad-university-_625x300_01_September_26.jpeg",
      "licence": "linkout",
-     "id": "5054ff5f976c",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "55bef85c8edc",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "27, Check Details Here"
+     ]
     }
    ]
   },
@@ -787,6 +801,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "John Ternus to lead Apple into the age of AI",
+     "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+     "summary": "Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.",
+     "published": "2026-09-01T03:20:25+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-28T013240Z_159694566_RC2PMMAHUR2U_RTRMADP_3_TELEVISION-TED-LASSO-PREMIERE-1788230578.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "82f6bbe3cca3",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
     {
      "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
      "url": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
@@ -812,19 +839,6 @@
      "id": "6f3caecc9469",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "New York police kill knife-wielding woman in Times Square",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
-     "summary": "A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.",
-     "published": "2026-09-01T01:19:34+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788225470.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "67712c41d42d",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Man arrested after Swiss rave shooting that killed woman",
@@ -864,7 +878,7 @@
      "title": "Shein shares slide in long-awaited stock market debut",
      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-     "published": "2026-09-01T02:51:19+00:00",
+     "published": "2026-09-01T03:11:13+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg",
@@ -898,6 +912,19 @@
      "id": "ab99546d1015",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "'I haven't lost my hope' - the search for missing loved ones",
+     "url": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss",
+     "summary": "Relatives of those still missing in the fatal floods in Nepal hold onto hope that their loved ones have survived.",
+     "published": "2026-08-31T16:42:17+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f2b/live/a9975430-a55b-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "bfd5ecc2ccf4",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     }
    ]
   },
@@ -967,30 +994,21 @@
      ]
     },
     {
-     "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
-     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
-     "published": "2026-08-31T11:44:46+00:00",
-     "source": "News On AIR",
+     "title": "Draft voter lists see over 6 crore deletions so far in SIR third phase",
+     "url": "https://www.thehindu.com/news/national/draft-voter-lists-see-over-6-crore-deletions-so-far-in-sir-third-phase/article71411677.ece",
+     "summary": "The third phase was carried out in 16 States and 3 Union Territories. Draft rolls of all these States have been published, except for Nagaland and Tripura",
+     "published": "2026-09-01T01:38:44+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/xh6toi/article71412269.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGPBGDKFNJ.3.jpg.jpg",
      "licence": "linkout",
-     "id": "723347f12081",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "School assembly news headlines September 1: Top India, world, sports and business updates",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHE5dlV0WTJVaV9PTy11elprUjNJX2JfWXBiZzJOODVJNnloSVdzbEc5bVlTTlhUaENYcl9CS3lqN2RZeU9ZckpQWGhQRXZTQWN1bWM5ejFYWWpDWTVRSF9yQmpZU1FZejg0czdPSmNoc3lXVG1aMk5PZ2Vwei1SQ0lxVm9TYThyelpHOXozUmU4dmV0VDFRUHhMU05pc3k3TGJiVzVicS1LbVNITW1rXzZLRDRJYlZsSEVpdHd3aVRMSm9BT1RDR3hCSjQzSDZ0aVZGYmFNTnJEdmpCNFRNU1JFdG4xNm1YaE1KemtB0gHzAUFVX3lxTE9WVEQ2a0FMMUdYZ0lsVzZ3eEtiUDlMZUNDM19zNm45VzZFZHdnUVllMTIwMmZOeUVEQTlaTTl3OXVPZUhoVC1oWnN6MmVVdF9ZV0xmYWFBTER1NE01UmVCMEtIa2paa0J1WEhMMFV0TlpXcGIzcXNtejdRNVBBSUdCWVMtSzhXT2dCdWxmTXhFZTc1SklKTEwtNjBjUWFSeWhydDBoMHZFak8xb3BYOThJdGE5ZGZVcGNWM1h4Q2dCR3ppZnE4VkkwQl8yc0x5ekxjUzZvXzJ6WlYyamtET1Q5WDFZNHlOcFV0Rk5yZXhTRzNWVQ?oc=5",
-     "summary": "School assembly news headlines September 1: Top India, world, sports and business updates The Economic Times",
-     "published": "2026-08-31T12:41:48+00:00",
-     "source": "The Economic Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "299131fb2594",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "c8c4622228c7",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "6 crore deletions so far",
+      "16 States and 3 Union Territories"
+     ]
     }
    ]
   },
@@ -1001,10 +1019,29 @@
    "upsc": true,
    "items": [
     {
+     "title": "Money Market Operations as on August 31, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63486",
+     "summary": "",
+     "published": "2026-09-01T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "b24261d52257",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "RBI to conduct 7-day Variable Rate Reverse Repo (VRRR) auction under LAF on September 01, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63485",
      "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
+     "published": "2026-09-01T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1027,7 +1064,7 @@
      "title": "Auction of Government of India Dated Securities",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63484",
      "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
+     "published": "2026-09-01T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1046,7 +1083,7 @@
      "title": "RBI imposes monetary penalty on Jai Bhawani Sahakari Bank Ltd., Pune",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63483",
      "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
+     "published": "2026-09-01T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1067,7 +1104,7 @@
      "title": "RBI imposes monetary penalty on The Mumbai District Central Co-operative Bank Ltd., Maharashtra",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63482",
      "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
+     "published": "2026-09-01T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1083,28 +1120,8 @@
      },
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Lending and Deposit Rates of Scheduled Commercial Banks – August 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63481",
-     "summary": "",
-     "published": "2026-08-31T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "c9e53a1e39b7",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "id": "editorial",
@@ -1776,7 +1793,7 @@
      "title": "Shein shares slide in long-awaited stock market debut",
      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-     "published": "2026-09-01T02:51:19+00:00",
+     "published": "2026-09-01T03:11:13+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg",
@@ -1886,19 +1903,6 @@
      "id": "62c9577c5b45",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "EPFO: Uncovered workers get one-time window to enrol under special social security drive — check dates, other details",
-     "url": "https://www.livemint.com/money/personal-finance/epfo-uncovered-workers-welfare-one-time-window-deadline-31-october-employers-enroll-special-social-security-drive-labour-11788183731384.html",
-     "summary": "EPFO has urged employers to enrol uncovered workers under its one-time Employees' Enrolment Campaign, 2026, to expand social security coverage. The scheme was notified in June and will continue till 31 October.&nbsp;",
-     "published": "2026-08-31T15:12:32+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/08/31/600x338/Gemini_Generated_Image_2lfmmg2lfmmg2lfm_1787799381_1788187466194_1788187466341_826ae5e4-150d-452e-bcaf-bc069751cd10.png",
-     "licence": "linkout",
-     "id": "eecb6840141b",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1965,6 +1969,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYmRzQlA1VExIY1IteGFYLTRJT0owbFZMRzYyNDJUTFRnb2F3WVM2VTRraTFNZ3kyQlluUzA3T1BMUnRlakhzSDRaT1ltNHpOZTlxLXRDdFN6UWI4UjBGQ01oOGtzRjVISmc4M3JCd2s1UW1yMmp5NnBDYjlUQnh1eE5ndHgzTjhvTGV2ZEVxVjJwcElHcGtPRHNyTTRSMUxEMm9DWGpkYUdJUjRDTFBmTjZxbC1BLW84Yy1Kb0FxTVRBRU1sMFRoWjhwWU9SdDNEQWhIVDZQMHcwNmlHUHBIX0ExQmFqQkVQTWxQNWxMU1F0R3BLZW0wbDZ3ZXJjNzhrOGYw?oc=5",
+     "summary": "Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment Faculty Focus",
+     "published": "2026-08-31T09:05:35+00:00",
+     "source": "Faculty Focus",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "d07b37ec8463",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "AI-driven space tech poised for investment boom, $100-200 bn opportunity worldwide",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdGcxYjhWdVlQUXR6NGxpclNKVHNHQTBZSjBhdW9tS3V5VVpxb2ZzNVRzX2tvVXBHX05yWENlb0t5NmNRZmFZOVFVenV0WGpaX0EyX2h1Y09uQXJWdmhfWU92ZVdNdVE5bzhWQkNFdllsVkhHcU9CSXdWWFBjWTJwamN0U3U3VlBQNDI5bHlRR2RiVjdWczZfSy1GS3FGNV9JRXRSZlU0SFVIU0FoOW0tcndMSzlfSFdya1lUcExPY1Nyd0dUX0NoTFVQN3NvTW5zLUhHMmZET1NRbWx4V3VjWDBSSUFzODFOOG11T2VNTdIB9AFBVV95cUxNNjdpSGR3OTlNS1RXWG5FcWk3Z0lUbi00M010ZmljV3JteWtMUVdySWtNVjEzNE4weGlQM096SnFnd2RCTGttaFNYOHg5dGltSXFZNzdyd1gtOFhzSHhHQllsNUQwckVSN0ZKR080dXN5Z19ldjNHY2h0WUdVcUhaaTVvMTc4Y21rU0ZKcWtmdkNKdktmbnlWNmQ2aFh5WVQ1aUZtNkJRNldTWWZWT01PNGZGNUVjajlQRjJQYmdIblhwLXl1ZTZYVDhIdldvWHYzbnFqSnhtYlpxMGVFWDU3OWlkU2I0OHltQmYySkZzNFpKNnln?oc=5",
      "summary": "AI-driven space tech poised for investment boom, $100-200 bn opportunity worldwide ET CIO",
@@ -1989,20 +2006,53 @@
    "upsc": false,
    "items": [
     {
-     "title": "Lionel Messi Retires From International Football: 6 Defining Moments Of His Argentina Career",
-     "url": "https://sports.ndtv.com/football/lionel-messi-retires-from-international-football-6-defining-moments-of-his-argentina-career-11984595#publisher=newsstand",
-     "summary": "Messi won the Copa America in 2021 and the 2022 World Cup, but ended his career with a 2026 World Cup final loss to Spain.",
-     "published": "2026-09-01T01:54:51+00:00",
+     "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 3 - LIVE Score Updates",
+     "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-day-3-live-score-updates-11984753#publisher=newsstand",
+     "summary": "South Zone vs North Zone, Duleep Trophy Semi-Final Day 3 LIVE: South Zone will pick up from 285/9 with captain Tilak Varma at the crease on 106, having taken a 90-run lead over North Zone by Day 2.",
+     "published": "2026-09-01T02:57:26+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7ag2ev48_messi-argentina-afp_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/va4rttqo_tilak-varma_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f6d1170649d7",
-     "category": "sports",
-     "category_label": "Sports",
+     "id": "05260795eac8",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "6 Defining Moments Of His Argentina"
+      "3 LIVE : South Zone will",
+      "9 with captain Tilak Varma",
+      "106, having taken a 90-run lead"
      ]
+    },
+    {
+     "title": "Duleep Trophy Semi-final 1, Day 3, East Zone vs Central Zone Live Score Updates: Bowlers Strike Early After Sooryavanshi Dazzles",
+     "url": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-semi-final-live-score-day-3-batter-sooraryavanshi-in-spotlight-after-captaincy-stint-11984674#publisher=newsstand",
+     "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final Day 3 Live Updates: Match deadlocked despite Vaibhav Sooryavanshi's blazing 92.",
+     "published": "2026-09-01T02:55:48+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/9gng320c_mukesh-kumar-x_625x300_01_September_26.jpeg",
+     "licence": "linkout",
+     "id": "e6e8abe09514",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "1, Day 3, East Zone vs",
+      "3, East Zone vs Central Zone",
+      "3 Live Updates: Match deadlocked despite"
+     ]
+    },
+    {
+     "title": "Ringside View | Lionel Messi, You Emptied Our Emotions And Emptied Our Pockets",
+     "url": "https://sports.ndtv.com/football/lionel-messi-you-emptied-our-emotions-and-emptied-our-pockets-11984712#publisher=newsstand",
+     "summary": "Lionel Messi was first named permanent captain of Argentina on September 2, 2011, during a friendly against Venezuela in Kolkata, marking a historic moment for Indian football fans.",
+     "published": "2026-09-01T02:55:18+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/mpgsat6s_messi-world-cup-getty_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "88b05e2de86a",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
      "title": "What Cristiano Ronaldo Said When Lionel Messi First Announced International Retirement",
@@ -2031,36 +2081,6 @@
      "category_label": "General",
      "figures": [
       "14,000 Runs \": Joe Root Fires"
-     ]
-    },
-    {
-     "title": "\"Poison For The Game\": Ex-Pakistan Captain's Explosive Attack On Babar Azam's Coaches",
-     "url": "https://sports.ndtv.com/cricket/muhammad-yousuf-blames-poison-coaches-for-pakistan-batting-decline-11978121#publisher=newsstand",
-     "summary": "Former Test captain Mohammad Yousuf on Sunday launched a scathing attack on coaches associated with the national team, accusing them of failing to address technical flaws in the batting of Babar Azam.",
-     "published": "2026-09-01T00:57:33+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/3tdsaio4_babar-azam-getty_625x300_29_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "c4fb40e9446c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "\"You're Great Only On Social Media\": Babar Azam Shown No Mercy After Lord's Disaster",
-     "url": "https://sports.ndtv.com/cricket/youre-great-only-on-social-media-babar-azam-shown-no-mercy-by-ex-pakistan-star-after-lords-disaster-11983147#publisher=newsstand",
-     "summary": "Babar Azam was Pakistan's leading run-scorer in the preceding series against the West Indies, scoring 193 runs at an average of 96.50, including two half-centuries.",
-     "published": "2026-09-01T00:53:14+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/89tc46ig_babar-azam-pc-getty_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "c8f08532daf6",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "193 runs at an average",
-      "96.50, including two half-centuries"
      ]
     }
    ]
