@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T05:02:05.549101+00:00",
+ "generated_at": "2026-09-02T05:36:42.906404+00:00",
  "podcasts_fetched_at": "2026-09-01T22:01:39.218117+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 121725.0,
    "change": -3533.0,
    "changePct": -2.82,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,15 +84,15 @@
   }
  ],
  "topics": [
-  "Tunisia",
+  "Iran Middle",
   "Working Panic",
   "Jazeera English",
   "News",
   "Nepal Govt",
   "Anti",
-  "Odisha",
-  "Children Vijayapura",
-  "Germany Russia",
+  "Pithapuram September",
+  "ICMR Keralam",
+  "Syria Israel",
   "Hong Kong"
  ],
  "sections": [
@@ -102,15 +103,15 @@
    "upsc": false,
    "items": [
     {
-     "title": "Tunisia’s civil society faces growing pressure as crackdown widens",
-     "url": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss",
-     "summary": "Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.",
-     "published": "2026-09-02T04:01:08+00:00",
-     "source": "Al Jazeera",
+     "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+     "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+     "summary": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+     "published": "2026-09-02T05:12:07+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a958dc596954-1788186053.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
-     "id": "30398aa92935",
+     "id": "eef742c7215c",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
@@ -118,8 +119,8 @@
     {
      "title": "Working Panic Buttons, No Curtains: Delhi Tightens Bus Rules After Minor's Gang-Rape",
      "url": "https://www.ndtv.com/india-news/working-panic-buttons-no-curtains-delhi-tightens-bus-rules-after-minors-gang-rape-11990104#publisher=newsstand",
-     "summary": "The new directions apply to all buses operating in Delhi, including interstate buses, with violations attracting penalties and possible vehicle and licence cancellation",
-     "published": "2026-09-02T03:04:04+00:00",
+     "summary": "Delhi New Bus Safety Rules after minor rape case: The new directions apply to all buses operating in Delhi, including interstate buses",
+     "published": "2026-09-02T04:11:23+00:00",
      "source": "NDTV",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-09/h89s7bgc_bus_625x300_01_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
@@ -130,17 +131,35 @@
      "from_section": "National News"
     },
     {
-     "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
-     "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
-     "summary": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
-     "published": "2026-09-02T01:59:10+00:00",
-     "source": "BBC News",
+     "title": "\"You Funded Red Fort Blast\": Elderly Couple In 'Digital Arrest' Lose Rs 30 Lakh",
+     "url": "https://www.ndtv.com/india-news/you-funded-red-fort-blast-elderly-couple-in-digital-arrest-lose-rs-30-lakh-11990297#publisher=newsstand",
+     "summary": "Fraudsters posing as NIA officers kept an elderly Delhi couple under 'digital arrest' for 7 days, swindling Rs 30 lakh",
+     "published": "2026-09-02T04:04:11+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe7/live/9ee301c0-795e-11f1-b976-0b9c15b0ccfc.jpg",
+     "image": "https://c.ndtvimg.com/2025-12/1jrp2lfo_digital-arrest-scam-2025_625x300_16_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6c64c0e5be0b",
+     "id": "028cb5de11e1",
      "category": "crime",
      "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "Rs 30 Lakh",
+      "7 days , swindling Rs 30"
+     ]
+    },
+    {
+     "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
+     "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+     "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+     "published": "2026-09-02T05:03:09+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b7/live/025c25f0-a61a-11f1-9ca2-a3e18de91b7b.jpg",
+     "licence": "linkout",
+     "id": "f68dbfeae48a",
+     "category": "conflict",
+     "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
@@ -172,18 +191,32 @@
      "from_section": "Global News"
     },
     {
-     "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-     "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-     "published": "2026-09-01T10:18:47+00:00",
-     "source": "BBC News",
+     "title": "Vijay should continue to be CM; Rahul Gandhi is PM candidate: TNCC president",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-should-continue-to-be-cm-rahul-gandhi-is-pm-candidate-tncc-president/article71415479.ece",
+     "summary": "“Some media houses are conspiring and trying to spoil the relationship between TVK and Congress,” says Manickam Tagore",
+     "published": "2026-09-02T05:22:15+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/8wi8j5/article71418046.ece/alternates/LANDSCAPE_1200/Inbrief_PictureGLFGFI9RP.3.jpg.jpg",
      "licence": "linkout",
-     "id": "b6772066296d",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Technology"
+     "id": "f4566f195bef",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Odisha govt rejects Opposition demand for special Assembly session on mining Bill",
+     "url": "https://www.thehindu.com/news/national/odisha/odisha-govt-rejects-opposition-demand-for-special-assembly-session-on-mining-bill/article71383180.ece",
+     "summary": "Congress alleged that the Centre was seeking control over Odisha’s natural resources, including its water, forests, land and minerals, after coming to power in the State, in the name of ‘Odia Asmita’ (Odia pride).",
+     "published": "2026-09-02T05:11:29+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/jhp2un/article71383210.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryG0MFRT9K5.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "fc8c67603c31",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
     },
     {
      "title": "School assembly news headlines for September 2: Top India, world, sports and business updates",
@@ -195,42 +228,6 @@
      "image": null,
      "licence": "linkout",
      "id": "d295525e6672",
-     "also": [
-      {
-       "source": "India Today",
-       "title": "School assembly news headlines today- September 2: Top national, sports and world news curated for you",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeGtNZEo3UFJQN1ZMeE9JWnNBdnlrdW9ZTWNiOG1YM2VtUkpxVHdfc0UwdEwtNEdFcndqM1g2YVZNR3RFOVFsNlRRRFV6bkdldk1NR1ZpSEV5amJHWHpjenNzRnA3c2Q5dWpVdkJDSzZnVVpaNnlVam5lLW5BOXZUNHlYVXJMNzlMY2Z5UndkUHRjaGlVSFQyS1RobGVBYjRuY05hVmZ4RHY4eDdEOWJqSVFCc2xZMjNCbHR0VnliZFlfLTVZUW9KTEVmTVhaRGlGVl96LUVUcGpud08tdXRhRllPdXlna2s?oc=5",
-       "summary": "School assembly news headlines today- September 2: Top national, sports and world news curated for you India Today"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Students of Dayanand Sagar university protest against poor hostel facilities at Harohalli campus in Bengaluru",
-     "url": "https://www.thehindu.com/news/national/karnataka/students-of-dayanand-sagar-varsity-protest-against-poor-hostel-facilities-at-harohalli-campus/article71415319.ece",
-     "summary": "Students cite non-functional Wi-Fi, lack of hot water for bathing, poor quality of drinking water, irregular cleaning and hygiene issues, mosquito menace, malfunctioning lifts, and empty food vending machines",
-     "published": "2026-09-02T04:24:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hq1k4u/article71415825.ece/alternates/LANDSCAPE_1200/IMG_20260901_182803.jpg",
-     "licence": "linkout",
-     "id": "b94d0e2343d0",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Vijay should continue to be CM; Rahul Gandhi is PM candidate: TNCC president",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-should-continue-to-be-cm-rahul-gandhi-is-pm-candidate-tncc-president/article71415479.ece",
-     "summary": "“Some media houses are conspiring and trying to spoil the relationship between TVK and Congress,” says Manickam Tagore",
-     "published": "2026-09-02T03:57:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8wi8j5/article71418046.ece/alternates/LANDSCAPE_1200/Inbrief_PictureGLFGFI9RP.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "f4566f195bef",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
@@ -239,7 +236,7 @@
      "title": "BJP lawmakers compromised Odisha’s interest by supporting mining law amendments: BJD",
      "url": "https://www.thehindu.com/news/national/odisha/bjp-lawmakers-compromised-odishas-interest-by-supporting-mining-law-amendments-bjd/article71415281.ece",
      "summary": "Advocate General Pitambar Acharya, in an affidavit filed before the Supreme Court, had stated that the ₹1 lakh crore in arrears was Odisha’s legitimate entitlement and the State would suffer substantial financial loss if it did not receive the amount, alleged BJD MP Santrupt Misra",
-     "published": "2026-09-02T04:35:19+00:00",
+     "published": "2026-09-02T05:14:31+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/3oh8eg/article71418104.ece/alternates/LANDSCAPE_1200/20260811263L.jpg",
@@ -247,44 +244,59 @@
      "id": "3b4f062d7b68",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "₹1 lakh crore in arrears was"
      ]
     },
     {
-     "title": "ED raids multiple States in fraud NHAI toll plaza collection case",
-     "url": "https://www.thehindu.com/news/national/ed-raids-multiple-states-in-fraud-nhai-toll-plaza-collection-case/article71418020.ece",
-     "summary": "They said about 14 premises in Uttar Pradesh, Rajasthan, Maharashtra, Jammu and Kashmir, Madhya Pradesh, Delhi-NCR and West Bengal were brought under the searches",
-     "published": "2026-09-02T04:10:56+00:00",
-     "source": "The Hindu",
+     "title": "Manchester City Sign Enzo Fernandez, Iliman Ndiaye As Premier League Clubs Set New Record",
+     "url": "https://sports.ndtv.com/football/manchester-city-sign-enzo-fernandez-iliman-ndiaye-as-premier-league-clubs-set-new-record-11989677#publisher=newsstand",
+     "summary": "Premier League clubs shattered their record of 3.1 billion pounds ($4.2 billion) in transfer fees in one window on deadline day as Manchester City splashed out 125 million pounds to Chelsea for Enzo Fernandez and signed Iliman Ndiaye.",
+     "published": "2026-09-02T04:26:25+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vzgb1l/article70657593.ece/alternates/LANDSCAPE_1200/PTI02_01_2026_000221B.jpg",
+     "image": "https://c.ndtvimg.com/2026-09/uorv1te4_enzo-fernandez-getty_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "69fb38b4062a",
+     "id": "f966f0aa7b11",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National News",
+     "from_section": "Sports",
      "figures": [
-      "14 premises in Uttar Pradesh, Rajasthan"
+      "3.1 billion pounds ($4",
+      "$4.2 billion ) in transfer fees",
+      "125 million pounds to Chelsea"
      ]
     },
     {
-     "title": "Gold, silver prices today, 2 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-     "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-2-september-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11788318182555.html",
-     "summary": "Gold and silver prices today, 2 September: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-     "published": "2026-09-02T04:04:54+00:00",
-     "source": "Mint",
+     "title": "ICMR study identifies well water as major risk factor for amoebic meningoencephalitis in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/icmr-study-identifies-well-water-as-major-risk-factor-for-amoebic-meningoencephalitis-in-keralam/article71414003.ece",
+     "summary": "The case-control study is first scientific proof of questionable quality of well water in Keralam, on which a significant section of the population depends for bathing and other domestic use",
+     "published": "2026-09-02T05:25:00+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/pexels-photo-8442330_1788227195924_1788227215201_5f5770bd-b6d6-447d-a995-4940b9034ddf_1788318459641_4e92aaf6-8497-42f6-a6d2-b01387d144b3.jpeg",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/my71hr/article71414034.ece/alternates/LANDSCAPE_1200/PAM.jpg",
      "licence": "linkout",
-     "id": "01132d656c79",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
+     "id": "ddc2f5bfbe87",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "National News"
+    },
+    {
+     "title": "Heart trial after breast cancer has 'improved my life'",
+     "url": "https://www.bbc.co.uk/news/articles/c5ye81nl98do?at_medium=RSS&at_campaign=rss",
+     "summary": "Lucy Shepherd is one of 90 women to take part in a trial helping cancer survivors come off medication.",
+     "published": "2026-09-02T05:10:22+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5585/live/de5fd740-a4a8-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "ede121cec18e",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Health & Science",
      "figures": [
-      "999 silver in Delhi, Mumbai",
-      "999 silver retail rates across Delhi"
+      "90 women to take part"
      ]
     },
     {
@@ -336,15 +348,29 @@
      ]
     },
     {
-     "title": "Naples, European Capital of Artificial Intelligence: Federico II University to Host the 2026 Edition of ECML PKDD",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3lDRG51Si1JLUJyaFhrNkFNYUtaLUlrSWtFd1pvVGQzbThINTlaOEdkbDNlZkRQSXBmaFR5WE9rUWs1eElOQUt4Y0hwMzVHdHp4VXV2Y2NFd0hGY0Z4UmxZQUN4el9GT0F4X2JCVkphRjk5ZmVQNXl6ZWdCRU0wcUFLUHJaamVxMTNMSmZ0VUItY25Hd3ZuaU5aWjlGRC1PeWVxYkVPWVNHNkdFUjBPZFBQVUxzR1hMQ3BkM19UMkhaQWM?oc=5",
-     "summary": "Naples, European Capital of Artificial Intelligence: Federico II University to Host the 2026 Edition of ECML PKDD unina.it",
-     "published": "2026-09-02T03:56:15+00:00",
-     "source": "unina.it",
+     "title": "Andhra University plans Centres of Excellence in quantum technology, AI and semiconductors",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-university-plans-centres-of-excellence-in-quantum-technology-ai-and-semiconductors/article71415663.ece",
+     "summary": "",
+     "published": "2026-09-02T05:18:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6vycfh/article71417018.ece/alternates/LANDSCAPE_1200/0001Conference.jpg",
+     "licence": "linkout",
+     "id": "75e103382fa5",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News"
+    },
+    {
+     "title": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWw2X2NldHh3RGRVVnAtckdtU2Z2TlFlcXZteWlqMTBDTHQySy1MS1VGR0pCbXIxaC1YNjFUdW96YmdOVFdDRmJDcjU1S3U0N0NXU2hxUG5WY2VrdFRQa1BiS1dEZHhBZU5LbGhUdXdqUUd6MFVXVUptODFDT2RSQnN4SThlYlFXRFd2UHQtYk90ZkhjWDRyYkd2eElhSzVzeURjUHFQTlNmQ2tFcDJDcXN30gGyAUFVX3lxTE9hbDZfY2V0eHdEZFVWcC1yR21TZnZOUWVxdm15aWoxMENMdDJLLUxLVUZHSkJtcjFoLVg2MVR1b3piZ05UV0NGYkNyNTVLdTQ3Q1dTaHFQblZjZWt0VFBrUGJLV0RkeEFlTktsaFR1d2pRR3owVVdVSm04MUNPZFJCc3hJOGViUVdEV3ZQdC1iT3RmSGNYNHJiR3Z4SWFLNXN5RGNQcVBOU2ZDa0VwMkNxc3c?oc=5",
+     "summary": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise Newswise",
+     "published": "2026-09-02T03:30:00+00:00",
+     "source": "Newswise",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "bac488273af6",
+     "id": "66238fae8221",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -364,55 +390,10 @@
      "from_section": "Technology"
     },
     {
-     "title": "Artificial intelligence facts most people never hear",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSnZRZmpxNDd4VVI4UjA1YzNPVERVLWJERDNzRlJtc2lWQ3IwTFNQNC1mWlU5NXIyOE05NHJxc19sb3NjWUI2OUdLOEVrc0pDYnJoNjZzWlBCQ1ltWDZ1QzlsdHFVeDR3Znc?oc=5",
-     "summary": "Artificial intelligence facts most people never hear qz.com",
-     "published": "2026-09-01T19:13:42+00:00",
-     "source": "qz.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "8dd3ecb1321c",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 4: Live Score Updates",
-     "url": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-day-4-live-score-updates-11990075#publisher=newsstand",
-     "summary": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final Day 4, Live Updates: North Zone will be resuming their innings from 256/7 on Day 4 of the semi-final match of Duleep Trophy 2026 in Bengaluru.",
-     "published": "2026-09-02T02:53:04+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/q7ggisvs_anshul-_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e27878c0441f",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "4, Live Updates: North Zone will"
-     ]
-    },
-    {
-     "title": "As Pakistan's Imam-ul-Haq Faces 'Fake Injury' Claims, Limping Kerala Batter Does The Unthinkable",
-     "url": "https://sports.ndtv.com/cricket/as-pakistans-imam-ul-haq-faces-fake-injury-claims-limping-kerala-batter-does-the-unthinkable-11990060#publisher=newsstand",
-     "summary": "Imam-ul-Haq's Lord's controversy and AK Arjun's Kerala Cricket League heroics narrate two contrasting tales of the very same sport.",
-     "published": "2026-09-02T02:51:50+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/15rpdfd_imam-getty-arjun-x_625x300_02_September_26.jpeg",
-     "licence": "linkout",
-     "id": "69d0df4a687e",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
      "title": "Semi-pro football club 'in shock' after shirt worn by Reading Festival headliners",
      "url": "https://www.bbc.co.uk/news/articles/c70lq0xz8veo?at_medium=RSS&at_campaign=rss",
      "summary": "The club says sales of the shirt almost doubled after it was worn by Fontaines D.C frontman Grian Chatten.",
-     "published": "2026-09-01T20:53:36+00:00",
+     "published": "2026-09-02T05:02:16+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9c7/live/1cb2d6c0-a646-11f1-8d30-cf6fd28b1367.jpg",
@@ -421,6 +402,41 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Culture"
+    },
+    {
+     "title": "Pakistan Star Imam-ul-Haq Faces Probe Over 'Fake Injury', Could Seek Legal Help: Report",
+     "url": "https://sports.ndtv.com/cricket/pakistan-star-imam-ul-haq-faces-probe-over-fake-injury-could-seek-legal-help-report-11990476#publisher=newsstand",
+     "summary": "Imam Ul Haq, who suffered a calf injury during the match at Lord's, did not come out to bat in either innings as Pakistan lost the contest by 194 runs.",
+     "published": "2026-09-02T04:59:13+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/5lfkttps_imam-ul-haq-getty_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a3097de8493f",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "194 runs"
+     ]
+    },
+    {
+     "title": "Manchester City Secure Premier League Record Deal To Sign Enzo Fernandez",
+     "url": "https://sports.ndtv.com/football/man-city-secure-premier-league-record-deal-to-sign-fernandez-11989664#publisher=newsstand",
+     "summary": "Manchester City signed Enzo Fernandez from Chelsea on Tuesday in a reported 125 million pounds deal ($167 million) that equalled the British transfer record.",
+     "published": "2026-09-02T04:02:09+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/i2rsofnk_enzo-fernandez-getty_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f2bab3fc8873",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "125 million pounds deal ($167 million)",
+      "$167 million ) that equalled"
+     ]
     },
     {
      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
@@ -453,7 +469,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-02T05:01:53.929358+00:00",
+     "published": "2026-09-02T05:36:29.448071+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -464,7 +480,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-02T05:01:53.929367+00:00",
+     "published": "2026-09-02T05:36:29.448085+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -475,7 +491,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-02T05:01:53.929370+00:00",
+     "published": "2026-09-02T05:36:29.448090+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -486,7 +502,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-02T05:01:53.929378+00:00",
+     "published": "2026-09-02T05:36:29.448094+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -497,7 +513,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-02T05:01:53.929383+00:00",
+     "published": "2026-09-02T05:36:29.448111+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -508,7 +524,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-02T05:01:53.929388+00:00",
+     "published": "2026-09-02T05:36:29.448116+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -556,123 +572,104 @@
    "upsc": false,
    "items": [
     {
-     "title": "BJP lawmakers compromised Odisha’s interest by supporting mining law amendments: BJD",
-     "url": "https://www.thehindu.com/news/national/odisha/bjp-lawmakers-compromised-odishas-interest-by-supporting-mining-law-amendments-bjd/article71415281.ece",
-     "summary": "Advocate General Pitambar Acharya, in an affidavit filed before the Supreme Court, had stated that the ₹1 lakh crore in arrears was Odisha’s legitimate entitlement and the State would suffer substantial financial loss if it did not receive the amount, alleged BJD MP Santrupt Misra",
-     "published": "2026-09-02T04:35:19+00:00",
+     "title": "JSP to unveil youth wing name, logo in Pithapuram on September 2, marking Pawan Kalyan’s birthday",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/jsp-to-unveil-youth-wing-name-logo-in-pithapuram-on-september-2-marking-pawan-kalyans-birthday/article71415760.ece",
+     "summary": "Party will guarantee an active role for youth at every level and groom them into committed leaders, says PAC chairman Nadendla Manohar",
+     "published": "2026-09-02T05:28:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3oh8eg/article71418104.ece/alternates/LANDSCAPE_1200/20260811263L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/14cenh/article71416497.ece/alternates/LANDSCAPE_1200/10237_1_9_2026_20_0_23_1_WHATSAPPIMAGE2026_09_01AT73445PM.JPEG",
      "licence": "linkout",
-     "id": "3b4f062d7b68",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "21dd631ddc5b",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "₹1 lakh crore in arrears was"
+      "2, marking Pawan Kalyan’s birthday"
      ]
     },
     {
-     "title": "Children ride bicycles blindfolded in Vijayapura",
-     "url": "https://www.thehindu.com/news/national/karnataka/children-ride-bicycles-blindfolded-in-vijayapura/article71416105.ece",
-     "summary": "According to the organisers, this is part of an initiative to increases concentration, self-confidence and bring out the latent talent in children",
-     "published": "2026-09-02T04:31:58+00:00",
+     "title": "ICMR study identifies well water as major risk factor for amoebic meningoencephalitis in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/icmr-study-identifies-well-water-as-major-risk-factor-for-amoebic-meningoencephalitis-in-keralam/article71414003.ece",
+     "summary": "The case-control study is first scientific proof of questionable quality of well water in Keralam, on which a significant section of the population depends for bathing and other domestic use",
+     "published": "2026-09-02T05:25:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vpgjpy/article71418101.ece/alternates/LANDSCAPE_1200/9727_1_9_2026_20_45_5_1_IMG_20260901_WA0354.JPG",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/my71hr/article71414034.ece/alternates/LANDSCAPE_1200/PAM.jpg",
      "licence": "linkout",
-     "id": "7bc1caf8c536",
-     "category": "general",
-     "category_label": "General"
+     "id": "ddc2f5bfbe87",
+     "category": "celebrity",
+     "category_label": "Celebrity"
     },
     {
-     "title": "Students of Dayanand Sagar university protest against poor hostel facilities at Harohalli campus in Bengaluru",
-     "url": "https://www.thehindu.com/news/national/karnataka/students-of-dayanand-sagar-varsity-protest-against-poor-hostel-facilities-at-harohalli-campus/article71415319.ece",
-     "summary": "Students cite non-functional Wi-Fi, lack of hot water for bathing, poor quality of drinking water, irregular cleaning and hygiene issues, mosquito menace, malfunctioning lifts, and empty food vending machines",
-     "published": "2026-09-02T04:24:01+00:00",
+     "title": "Vijay should continue to be CM; Rahul Gandhi is PM candidate: TNCC president",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-should-continue-to-be-cm-rahul-gandhi-is-pm-candidate-tncc-president/article71415479.ece",
+     "summary": "“Some media houses are conspiring and trying to spoil the relationship between TVK and Congress,” says Manickam Tagore",
+     "published": "2026-09-02T05:22:15+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hq1k4u/article71415825.ece/alternates/LANDSCAPE_1200/IMG_20260901_182803.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/8wi8j5/article71418046.ece/alternates/LANDSCAPE_1200/Inbrief_PictureGLFGFI9RP.3.jpg.jpg",
      "licence": "linkout",
-     "id": "b94d0e2343d0",
+     "id": "f4566f195bef",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Naidu orders speedy construction of 5,000 temples across Andhra Pradesh",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-orders-speedy-construction-of-5000-temples-across-andhra-pradesh/article71417909.ece",
-     "summary": "Mr. Naidu also ordered restoration of 1,000 ancient temples and called for developing Shiva temples and Shakti Peethas",
-     "published": "2026-09-02T04:16:43+00:00",
+     "title": "The south’s muted voice as political power shifts north",
+     "url": "https://www.thehindu.com/opinion/lead/the-souths-muted-voice-as-political-power-shifts-north/article71416519.ece",
+     "summary": "The south’s ‘political retreat’ from its once-influential national role comes amid growing anxieties over representation and federalism",
+     "published": "2026-09-02T05:22:03+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zexxy3/article71418079.ece/alternates/LANDSCAPE_1200/DSC_5981.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/xy229p/article71416523.ece/alternates/LANDSCAPE_1200/20260820153L_s4l7ebK.jpg",
      "licence": "linkout",
-     "id": "1f13357d1ca6",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "5,000 temples across Andhra Pradesh",
-      "1,000 ancient temples and called"
-     ]
-    },
-    {
-     "title": "NTA Invites Applications For Rashtriya Indian Military College Entrance Exam 2026",
-     "url": "https://www.ndtv.com/education/nta-invites-applications-for-rashtriya-indian-military-college-entrance-exam-2026-11990069#publisher=newsstand",
-     "summary": "RIMC Entrance Exam 2026: Candidates belonging to the General, Wards of Defence Personnel and Ex-servicemen, and Other Backward Classes (OBC-NCL) categories have to pay an examination fee of Rs 1,000.",
-     "published": "2026-09-02T03:42:18+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-03/vptjkscg_rajasthan-8th-board-exam-2025-_625x300_20_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "3115f7762014",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "Rs 1,000."
-     ]
-    },
-    {
-     "title": "Yale University's Surprising India Connection: How Chennai Helped Shape Its Early History",
-     "url": "https://www.ndtv.com/education/yale-universitys-surprising-india-connection-how-chennai-helped-shape-its-early-history-11989972#publisher=newsstand",
-     "summary": "Elihu Yale's gift included Indian textiles, creating a remarkable historical link between Chennai (erstwhile Madras) and one of America's most prestigious universities.",
-     "published": "2026-09-02T02:49:35+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/lqn2suns_yale-university_625x300_02_September_26.jpeg",
-     "licence": "linkout",
-     "id": "1d7fc4b92752",
+     "id": "4396c01580c8",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Former Karnataka Chief Secretary Recalls LBSNAA Days As She Completes 45 Years Of Service",
-     "url": "https://www.ndtv.com/education/former-karnataka-chief-secretary-recalls-lbsnaa-days-as-she-completes-45-years-of-service-11990059#publisher=newsstand",
-     "summary": "During her decades-long service, she has also served as the Additional Secretary and Mission Director, National Mission for Empowerment of Women.",
-     "published": "2026-09-02T02:48:38+00:00",
+     "title": "Bihar Teacher Recruitment 4.0: Registration For 32,388 Posts From Sept 21",
+     "url": "https://www.ndtv.com/education/bihar-teacher-recruitment-exam-bpsc-announces-tre-4-0-registration-date-for-32-388-teacher-posts-check-details-here-11990405#publisher=newsstand",
+     "summary": "Bihar Teacher Recruitment Exam: Following demands from candidates for an increase in the number of music teacher vacancies, the state government increased the number of vacancies by 111.",
+     "published": "2026-09-02T05:00:29+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/b100hhpo_ias-life-journey_625x300_02_September_26.jpeg",
+     "image": "https://i.ndtvimg.com/i/2017-03/school-teacher_650x400_61490254075.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "498eec915b9a",
+     "id": "9867dc98ed7a",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "45 Years Of Service"
+      "32,388 Posts From Sept 21",
+      "21. Bihar Teacher Recruitment Exam: Following"
      ]
     },
     {
-     "title": "After 6 Surgeries, Delhi Man Recovers From Rare Skull Bone TB After 2.5-Year Ordeal",
-     "url": "https://www.ndtv.com/india-news/after-6-surgeries-delhi-man-recovers-from-rare-skull-bone-tb-after-2-5-year-ordeal-11989931#publisher=newsstand",
-     "summary": "Doctors performed an emergency decompressive brain surgery to remove the blood clot. Since the brain had swollen extensively, a portion of the skull was temporarily left open to relieve pressure and prevent permanent brain damage.",
-     "published": "2026-09-02T01:54:56+00:00",
+     "title": "CTET 2026 Revised Exam Dates When? All We Know So Far",
+     "url": "https://www.ndtv.com/education/ctet-2026-revised-exam-dates-when-all-we-know-so-far-11990446#publisher=newsstand",
+     "summary": "Candidates who have registered for the CTET 2026 September session exam will be eligible to download the CTET admit card.",
+     "published": "2026-09-02T04:47:55+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://i.ndtvimg.com/i/2016-10/hospital-bed-generic_650x400_61476136351.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/dlusq7mo_ctet-2026_625x300_02_September_26.jpeg",
      "licence": "linkout",
-     "id": "6c2475227a96",
+     "id": "c75d89b4d059",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "CBSE TGT Social Science, English Tier 2 Results Out For KVS, NVS",
+     "url": "https://www.ndtv.com/education/cbse-tgt-social-science-english-tier-2-results-out-for-kvs-nvs-11990336#publisher=newsstand",
+     "summary": "Since the CBSE is releasing the results in a phased manner, the scorecards for the remaining posts are also being finalised and will continue to be declared in phases.",
+     "published": "2026-09-02T04:14:47+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-07/v1sbvlu4_hp-cbse-teacher_625x300_10_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d8424c10b33a",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "6 Surgeries , Delhi Man Recovers"
+      "2 Results Out For KVS, NVS"
      ]
     }
    ]
@@ -683,6 +680,40 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Syria’s restrained approach to Israel carries risks",
+     "url": "https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss",
+     "summary": "Damascus's restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.",
+     "published": "2026-09-02T05:06:52+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-23T225356Z_2015578359_RC2M4NA1AE72_RTRMADP_3_SYRIA-ISRAEL-1788325567.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "68c9a8991ce9",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Hong Kong activist Joshua Wong pleads guilty in national security case",
+     "url": "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss",
+     "summary": "Pro-democracy activist faces life sentence in second case under Beijing's national security law.",
+     "published": "2026-09-02T05:05:02+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a979c953016-1788320917.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "6b6d8a8766ce",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+       "url": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+       "summary": "Wong, 29, is already in prison on subversion charges under the controversial National Security Law."
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss",
@@ -706,14 +737,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788323170.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
      "id": "44fe77aee23c",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-       "url": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-       "summary": "Wong, 29, is already in prison on subversion charges under the controversial National Security Law."
-      }
-     ],
      "category": "general",
      "category_label": "General"
     },
@@ -731,62 +754,15 @@
      "category_label": "Crime"
     },
     {
-     "title": "‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US",
-     "url": "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss",
-     "summary": "The far-right British commentator sat with interviewer Piers Morgan after being detained by US immigration authorities.",
-     "published": "2026-09-02T03:32:23+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-01-182507-1788301545.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "1e279acb8595",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "US strikes on Iran kill child at wedding ceremony",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
-     "summary": "Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
-     "published": "2026-09-02T03:27:26+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788319621.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "49bf80b2fe68",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-       "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-       "summary": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces."
-      }
-     ],
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-     "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-     "summary": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
-     "published": "2026-09-02T03:19:44+00:00",
+     "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+     "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+     "summary": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+     "published": "2026-09-02T01:59:10+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe7/live/9ee301c0-795e-11f1-b976-0b9c15b0ccfc.jpg",
      "licence": "linkout",
-     "id": "eef742c7215c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Tiger Woods to change plea after crash arrest",
-     "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-     "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
-     "published": "2026-09-02T00:26:08+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10d/live/63965f70-a65b-11f1-853a-cf6d29350130.jpg",
-     "licence": "linkout",
-     "id": "8dc22dab0d71",
+     "id": "6c64c0e5be0b",
      "category": "crime",
      "category_label": "Crime"
     },
@@ -881,85 +857,72 @@
    "upsc": false,
    "items": [
     {
-     "title": "BJP lawmakers compromised Odisha’s interest by supporting mining law amendments: BJD",
-     "url": "https://www.thehindu.com/news/national/odisha/bjp-lawmakers-compromised-odishas-interest-by-supporting-mining-law-amendments-bjd/article71415281.ece",
-     "summary": "Advocate General Pitambar Acharya, in an affidavit filed before the Supreme Court, had stated that the ₹1 lakh crore in arrears was Odisha’s legitimate entitlement and the State would suffer substantial financial loss if it did not receive the amount, alleged BJD MP Santrupt Misra",
-     "published": "2026-09-02T04:35:19+00:00",
+     "title": "JSP to unveil youth wing name, logo in Pithapuram on September 2, marking Pawan Kalyan’s birthday",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/jsp-to-unveil-youth-wing-name-logo-in-pithapuram-on-september-2-marking-pawan-kalyans-birthday/article71415760.ece",
+     "summary": "Party will guarantee an active role for youth at every level and groom them into committed leaders, says PAC chairman Nadendla Manohar",
+     "published": "2026-09-02T05:28:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3oh8eg/article71418104.ece/alternates/LANDSCAPE_1200/20260811263L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/14cenh/article71416497.ece/alternates/LANDSCAPE_1200/10237_1_9_2026_20_0_23_1_WHATSAPPIMAGE2026_09_01AT73445PM.JPEG",
      "licence": "linkout",
-     "id": "3b4f062d7b68",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "21dd631ddc5b",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "₹1 lakh crore in arrears was"
+      "2, marking Pawan Kalyan’s birthday"
      ]
     },
     {
-     "title": "Children ride bicycles blindfolded in Vijayapura",
-     "url": "https://www.thehindu.com/news/national/karnataka/children-ride-bicycles-blindfolded-in-vijayapura/article71416105.ece",
-     "summary": "According to the organisers, this is part of an initiative to increases concentration, self-confidence and bring out the latent talent in children",
-     "published": "2026-09-02T04:31:58+00:00",
+     "title": "ICMR study identifies well water as major risk factor for amoebic meningoencephalitis in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/icmr-study-identifies-well-water-as-major-risk-factor-for-amoebic-meningoencephalitis-in-keralam/article71414003.ece",
+     "summary": "The case-control study is first scientific proof of questionable quality of well water in Keralam, on which a significant section of the population depends for bathing and other domestic use",
+     "published": "2026-09-02T05:25:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vpgjpy/article71418101.ece/alternates/LANDSCAPE_1200/9727_1_9_2026_20_45_5_1_IMG_20260901_WA0354.JPG",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/my71hr/article71414034.ece/alternates/LANDSCAPE_1200/PAM.jpg",
      "licence": "linkout",
-     "id": "7bc1caf8c536",
-     "category": "general",
-     "category_label": "General"
+     "id": "ddc2f5bfbe87",
+     "category": "celebrity",
+     "category_label": "Celebrity"
     },
     {
-     "title": "Students of Dayanand Sagar university protest against poor hostel facilities at Harohalli campus in Bengaluru",
-     "url": "https://www.thehindu.com/news/national/karnataka/students-of-dayanand-sagar-varsity-protest-against-poor-hostel-facilities-at-harohalli-campus/article71415319.ece",
-     "summary": "Students cite non-functional Wi-Fi, lack of hot water for bathing, poor quality of drinking water, irregular cleaning and hygiene issues, mosquito menace, malfunctioning lifts, and empty food vending machines",
-     "published": "2026-09-02T04:24:01+00:00",
+     "title": "Vijay should continue to be CM; Rahul Gandhi is PM candidate: TNCC president",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-should-continue-to-be-cm-rahul-gandhi-is-pm-candidate-tncc-president/article71415479.ece",
+     "summary": "“Some media houses are conspiring and trying to spoil the relationship between TVK and Congress,” says Manickam Tagore",
+     "published": "2026-09-02T05:22:15+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hq1k4u/article71415825.ece/alternates/LANDSCAPE_1200/IMG_20260901_182803.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/8wi8j5/article71418046.ece/alternates/LANDSCAPE_1200/Inbrief_PictureGLFGFI9RP.3.jpg.jpg",
      "licence": "linkout",
-     "id": "b94d0e2343d0",
+     "id": "f4566f195bef",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "UN Secretary General Antonio Guterres to participate in BRICS Summit in India",
-     "url": "https://www.thehindu.com/news/national/un-secretary-general-antonio-guterres-to-participate-in-brics-summit-in-india/article71418016.ece",
-     "summary": "As the chair this year, India will be hosting the 18th BRICS Summit on September 12-13 at Bharat Mandapam in New Delhi. The summit will bring together leaders of BRICS member and partner countries as well as outreach invitees",
-     "published": "2026-09-02T04:07:11+00:00",
+     "title": "Naveen Patnaik urges BJP MPs to seek reversal of mining Act amendment",
+     "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-urges-bjp-mps-to-seek-reversal-of-mining-act-amendment/article71404648.ece",
+     "summary": "In a single Legislative stroke, the control over our own minerals and our mineral-bearing lands was taken away from us, says former Odisha CM in a letter addressed to BJP MPs from the State",
+     "published": "2026-09-02T05:12:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zekr17/article71418040.ece/alternates/LANDSCAPE_1200/2026-07-27T142442Z_240022713_RC2DMMAS7DH2_RTRMADP_3_JORDAN-UN.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/ido3ff/article71405022.ece/alternates/LANDSCAPE_1200/BJDs-politicalGOPF73EIP.3.jpg.jpg",
      "licence": "linkout",
-     "id": "079c0eec6d55",
+     "id": "0091ef829fab",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "When ‘Periyar’, Ambedkar and Jinnah sailed together politically",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/when-periyar-ambedkar-and-jinnah-sailed-together-politically/article71415981.ece",
-     "summary": "Both Ambedkar and EVR had declared support to Jinnah’s call to Muslims to observe December 22, 1939, as a “Day of Deliverance” in the context of the exit of Congress regimes in the States",
-     "published": "2026-09-02T04:05:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/4l4w8r/article71416033.ece/alternates/LANDSCAPE_1200/EVR_03.jpg",
-     "licence": "linkout",
-     "id": "d0674aff9d8f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "School assembly news headlines today- September 2: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeGtNZEo3UFJQN1ZMeE9JWnNBdnlrdW9ZTWNiOG1YM2VtUkpxVHdfc0UwdEwtNEdFcndqM1g2YVZNR3RFOVFsNlRRRFV6bkdldk1NR1ZpSEV5amJHWHpjenNzRnA3c2Q5dWpVdkJDSzZnVVpaNnlVam5lLW5BOXZUNHlYVXJMNzlMY2Z5UndkUHRjaGlVSFQyS1RobGVBYjRuY05hVmZ4RHY4eDdEOWJqSVFCc2xZMjNCbHR0VnliZFlfLTVZUW9KTEVmTVhaRGlGVl96LUVUcGpud08tdXRhRllPdXlna2s?oc=5",
-     "summary": "School assembly news headlines today- September 2: Top national, sports and world news curated for you India Today",
-     "published": "2026-09-01T11:02:08+00:00",
-     "source": "India Today",
+     "title": "Top news of the day: September 01, 2026",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSnpuVy1xWmw5Y0FhUWNxOWppQ0ZTVEpXZ2JOS3N3YXBvckQyRTMxSjFWeFRkcldqSm9MTHBfSDdkU2xtb1pFcGZpekNkMTl3cjFrbGc3anNXaHFEcWFhSE9HYzRSWjZNR1ViTmN2al9RbEVxODZyXy1VelJocTdqa04tNFJBSWtpNGt6LWZyTEzSAZcBQVVfeXFMTXVySm0td3RDQ21OV2dTenkzSGJrMnBwbktVVDNDWmNjLXZFcmFEUjNIbUxUY1hIQjNNNzRBY3NIbHdnSTJVbnB6ei1Mcmx4V0xUd0g2ckZqT05VLTRNVUtlNThCdFBUX0ZkVE5FczEyTmY2TDRseFVPYmNpSFRvbElHaGtEbHJBTDVxQmR0cXdERlF5OEs1UQ?oc=5",
+     "summary": "Top news of the day: September 01, 2026 thehindu.com",
+     "published": "2026-09-01T12:45:18+00:00",
+     "source": "thehindu.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "c74ec794016c",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "f8d17f80447a",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1648,68 +1611,6 @@
      "id": "7ee9d33d0756",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Foreign university campuses in India: cheaper degrees, but proceed with caution",
-     "url": "https://www.livemint.com/money/personal-finance/foreign-university-campuses-in-india-cheaper-degrees-but-proceed-with-caution-11788276635598.html",
-     "summary": "Foreign university campuses promise global degrees at a fraction of overseas costs, but limited placement data and early stages of establishment have parents and experts taking a wait-and-watch approach.",
-     "published": "2026-09-02T04:56:01+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/Gemini_Generated_Image_w0hlqqw0hlqqw0hl_1788321478336_1788321497393_d3d472ed-b8fa-4e46-964a-138dad2342d7.png",
-     "licence": "linkout",
-     "id": "607c288076ab",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Gave someone power of attorney for your property? Gujarat HC explains what they can and cannot do",
-     "url": "https://www.livemint.com/money/personal-finance/gave-someone-power-of-attorney-for-your-property-gujarat-hc-explains-what-they-can-and-cannot-do-11788319899360.html",
-     "summary": "The Gujarat High Court cancelled a gift deed after a POA holder transferred an NRI's Vadodara property to his own son and daughter-in-law. The court held that the POA had ended after the owner's wife died and did not authorise the attorney to gift the property.",
-     "published": "2026-09-02T03:38:31+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/Gemini_Generated_Image_y8u7ity8u7ity8u7_1788320262674_1788320269299_c6b32c62-5454-45d0-9d78-d5ed64a8c155.png",
-     "licence": "linkout",
-     "id": "158e5800a356",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Bank delays credit card closure? Know your rights — Here's how to claim ₹500/day compensation",
-     "url": "https://www.livemint.com/money/personal-finance/bank-delays-credit-card-closure-know-your-rights-heres-how-to-claim-500-day-compensation-11788313974480.html",
-     "summary": "Bank delaying your credit card closure? Under RBI rules, lenders must close accounts within 7 days or pay a ₹500/day penalty. Check how to claim compensation…",
-     "published": "2026-09-02T03:08:37+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/Gemini_Generated_Image_c5shhxc5shhxc5sh_1788318081917_1788318101197_98152b9d-e793-4046-ae05-1059c0d089f3.png",
-     "licence": "linkout",
-     "id": "615b59339a92",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹500 /day compensation",
-      "7 days or pay a ₹500/day",
-      "₹500 /day penalty"
-     ]
-    },
-    {
-     "title": "Income tax: Wife escapes ₹7.09 lakh addition after bank records prove husband paid for the entire joint property",
-     "url": "https://www.livemint.com/money/personal-finance/income-tax-wife-escapes-7-09-lakh-addition-after-bank-records-prove-husband-paid-for-the-entire-joint-property-11788317260844.html",
-     "summary": "A Kolkata woman won an income-tax appeal after proving her husband alone funded a jointly purchased property that was valued ₹14.2 lakh higher by the stamp authority. ITAT Kolkata deleted the ₹7.09 lakh tax addition made in her hands under Section 56(2)(vii)(b).",
-     "published": "2026-09-02T02:57:28+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/Gemini_Generated_Image_6szj3b6szj3b6szj_1788317588276_1788317603869_b1fb8145-37c5-4544-ad27-70b76432945a.png",
-     "licence": "linkout",
-     "id": "1027da6c2dfb",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹7.09 lakh addition after bank records",
-      "₹14.2 lakh higher by the stamp",
-      "₹7.09 lakh tax addition made"
-     ]
     }
    ]
   },
@@ -1779,6 +1680,19 @@
      ]
     },
     {
+     "title": "Artificial intelligence facts most people never hear",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSnZRZmpxNDd4VVI4UjA1YzNPVERVLWJERDNzRlJtc2lWQ3IwTFNQNC1mWlU5NXIyOE05NHJxc19sb3NjWUI2OUdLOEVrc0pDYnJoNjZzWlBCQ1ltWDZ1QzlsdHFVeDR3Znc?oc=5",
+     "summary": "Artificial intelligence facts most people never hear qz.com",
+     "published": "2026-09-01T19:13:42+00:00",
+     "source": "qz.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "8dd3ecb1321c",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Why tech needs a new kind of English major",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXlLNzVsYjdlTTRrajREbTlZMjFneFFrNUtDXzBxNlBDY3pwbmlwUTVrTXZIWXY1RjNPb0JuTDZhX3lidnZ4WnotbURYUWpQVVFLMzRHZ2JRbGxfaGVDMmQ5SUYzNWxRMXlwUkZiUG9mODdUNkNzak5QTWFpOVJkR3dkcTJEc1lzUVd5b3NhUXVwSXc?oc=5",
      "summary": "Why tech needs a new kind of English major InfoWorld",
@@ -1813,59 +1727,77 @@
    "upsc": false,
    "items": [
     {
-     "title": "Transfer Deadline Day 2026: Full List of Every Completed Signing And Loan Deal in Europe",
-     "url": "https://sports.ndtv.com/football/deadline-day-transfers-from-enzo-fernandez-to-gabriel-jesus-list-of-all-completed-deals-11990129#publisher=newsstand",
-     "summary": "Deadline Day Football Transfers Full List: English Premier League clubs spent a record USD 4.7 billion on players this summer, outpacing the other four of Europe's top five leagues combined.",
-     "published": "2026-09-02T03:51:00+00:00",
+     "title": "Pakistan Star Imam-ul-Haq Faces Probe Over 'Fake Injury', Could Seek Legal Help: Report",
+     "url": "https://sports.ndtv.com/cricket/pakistan-star-imam-ul-haq-faces-probe-over-fake-injury-could-seek-legal-help-report-11990476#publisher=newsstand",
+     "summary": "Imam Ul Haq, who suffered a calf injury during the match at Lord's, did not come out to bat in either innings as Pakistan lost the contest by 194 runs.",
+     "published": "2026-09-02T04:59:13+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/v1o5ij3k_enzo-fernandez-and-gabriel-jesus-afp_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/5lfkttps_imam-ul-haq-getty_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6b5d5e75fab0",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "a3097de8493f",
+     "category": "sports",
+     "category_label": "Sports",
      "figures": [
-      "4.7 billion on players this summer"
+      "194 runs"
      ]
     },
     {
-     "title": "Barcelona Bring In Gabriel Jesus From Arsenal, Loan Out Marc Casado",
-     "url": "https://sports.ndtv.com/football/barcelona-bring-in-jesus-from-arsenal-loan-out-casado-11989610#publisher=newsstand",
-     "summary": "Barcelona signed Brazilian forward Gabriel Jesus from Arsenal on Tuesday on a deal until 2029, after they were unable to pry Julian Alvarez from Atletico Madrid.",
-     "published": "2026-09-02T03:39:28+00:00",
+     "title": "Manchester City Sign Enzo Fernandez, Iliman Ndiaye As Premier League Clubs Set New Record",
+     "url": "https://sports.ndtv.com/football/manchester-city-sign-enzo-fernandez-iliman-ndiaye-as-premier-league-clubs-set-new-record-11989677#publisher=newsstand",
+     "summary": "Premier League clubs shattered their record of 3.1 billion pounds ($4.2 billion) in transfer fees in one window on deadline day as Manchester City splashed out 125 million pounds to Chelsea for Enzo Fernandez and signed Iliman Ndiaye.",
+     "published": "2026-09-02T04:26:25+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/8kqq3814_gabriel-jesus-getty_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/uorv1te4_enzo-fernandez-getty_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "ebfe2e80f401",
+     "id": "f966f0aa7b11",
      "category": "money",
-     "category_label": "Money & scams"
+     "category_label": "Money & scams",
+     "figures": [
+      "3.1 billion pounds ($4",
+      "$4.2 billion ) in transfer fees",
+      "125 million pounds to Chelsea"
+     ]
     },
     {
-     "title": "Borussia Dortmund Cruise Past Fifth-Tier Opponents In German Cup Opener",
-     "url": "https://sports.ndtv.com/football/dortmund-cruise-past-fifth-tier-opponents-in-german-cup-opener-11989548#publisher=newsstand",
-     "summary": "Borussia Dortmund cruised to a comfortable 5-0 win over amateur fifth-division HEBC Hamburg in their German Cup opener on Tuesday, with 18-year-old Samuele Inacio bagging a first-half brace.",
-     "published": "2026-09-02T03:09:39+00:00",
+     "title": "Confident Coco Gauff Reaches US Open 2nd Round With Straight-Set Win",
+     "url": "https://sports.ndtv.com/tennis/confident-gauff-reaches-us-open-2nd-round-with-straight-set-win-11990019#publisher=newsstand",
+     "summary": "Coco Gauff opened her 2026 US Open campaign with a solid straight-set win over Turkey's Zeynep Sonmez that showcased her improved serve.",
+     "published": "2026-09-02T04:15:03+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5jcmpbi8_team-borussia-dortmund-getty_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/mvhiom68_coco-gauff-getty_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6829f22e52cd",
+     "id": "551add554f9a",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Arsenal's Ethan Nwaneri Joins Borussia Dortmund On Loan On Deadline Day",
-     "url": "https://sports.ndtv.com/football/arsenals-nwaneri-joins-dortmund-on-loan-on-deadline-day-11989367#publisher=newsstand",
-     "summary": "Borussia Dortmund on Tuesday announced the deadline-day signing of Arsenal attacker Ethan Nwaneri on a season-long loan.",
-     "published": "2026-09-02T03:00:26+00:00",
+     "title": "Jubilant Gael Monfils Celebrates Birthday With US Open Win",
+     "url": "https://sports.ndtv.com/tennis/jubilant-monfils-celebrates-birthday-with-us-open-win-11989949#publisher=newsstand",
+     "summary": "Playing on his 40th birthday, Gael Monfils opened shakily against Adolfo Daniel Vallejo of Paraguay, but decisively turned the tables after the first set for a 2-6, 6-1, 6-2, 6-0 win.",
+     "published": "2026-09-02T04:12:12+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/jifkpi54_ethan-nwaneri-getty_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/i07jdang_gael-monfils-getty-_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "09737fa90f08",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "185438249a34",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Tiger Woods Set To Change Not Guilty Plea In DUI Case: Court Documents",
+     "url": "https://sports.ndtv.com/golf/tiger-woods-set-to-change-not-guilty-plea-in-dui-case-court-documents-11989842#publisher=newsstand",
+     "summary": "Tiger Woods, who pleaded not guilty to driving under the influence after crashing his car in Florida in March, is expected to formally change his plea, court documents showed Tuesday.",
+     "published": "2026-09-02T04:07:49+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/7jbq8sc_tiger-woods-getty_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "56f10fcf8ba9",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1903,19 +1835,6 @@
      "figures": [
       "30 years ago"
      ]
-    },
-    {
-     "title": "Fans aim for Vulcan salute record on Star Trek Day",
-     "url": "https://www.bbc.co.uk/news/articles/c3eq80d5pejo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Science Museum is set to host a bid to break the record for the largest Vulcan salute on Star Trek Day.",
-     "published": "2026-09-01T05:15:47+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd7/live/8e9c58d0-a2d9-11f1-941c-8741c1a72471.jpg",
-     "licence": "linkout",
-     "id": "fc4e04d3a66f",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "'A real privilege' - Casualty star to lead drama's 40th anniversary special",
@@ -2008,19 +1927,6 @@
      "figures": [
       "12 times the safe level"
      ]
-    },
-    {
-     "title": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
-     "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
-     "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
-     "published": "2026-09-01T08:42:10+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg",
-     "licence": "linkout",
-     "id": "ba7f6688b285",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   }
