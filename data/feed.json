@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T19:01:44.572049+00:00",
+ "generated_at": "2026-09-02T19:31:45.217265+00:00",
  "podcasts_fetched_at": "2026-09-01T22:01:39.218117+00:00",
  "markets": [
   {
@@ -69,7 +69,8 @@
    "value": 95.38,
    "change": 6.07,
    "changePct": 6.8,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -83,13 +84,13 @@
   }
  ],
  "topics": [
-  "Traffic JNTU",
-  "Priest",
+  "Iranian Saudi",
+  "Nato Russia",
   "Jazeera English",
   "News",
   "Anti",
-  "Little Flower",
-  "Counterfeit Hyderabad",
+  "Chennai",
+  "Engineering Chennai",
   "Abraham Lincoln",
   "Signing Venezuela",
   "Nepal"
@@ -102,34 +103,6 @@
    "upsc": false,
    "items": [
     {
-     "title": "Traffic police study bus diversions, u-turn closures to ease JNTU-HITEC City congestion",
-     "url": "https://www.thehindu.com/news/national/telangana/traffic-police-study-bus-diversions-u-turn-closures-to-ease-jntu-hitec-city-congestion/article71420977.ece",
-     "summary": "",
-     "published": "2026-09-02T18:38:55+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "5484ebae0777",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Priest arrested for stealing gold ornaments from temple",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/priest-arrested-for-stealing-gold-ornaments-from-temple/article71420893.ece",
-     "summary": "",
-     "published": "2026-09-02T18:14:30+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "9d627eb0c5d3",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
@@ -139,6 +112,34 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
      "licence": "linkout",
      "id": "5ff02e054c7c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+     "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+     "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+     "published": "2026-09-02T16:49:00+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
+     "licence": "linkout",
+     "id": "15381f586f47",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+     "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+     "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+     "published": "2026-09-02T15:33:19+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f37/live/8eb97870-a6e4-11f1-9e4c-79c1c0e340c6.jpg",
+     "licence": "linkout",
+     "id": "eef742c7215c",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
@@ -200,10 +201,10 @@
      "id": "cb4e2e874633",
      "also": [
       {
-       "source": "indianexpress.com",
+       "source": "The Indian Express",
        "title": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05",
        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 indianexpress.com"
+       "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 The Indian Express"
       }
      ],
      "category": "politics",
@@ -211,48 +212,52 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "Keralam Chief Minister V.D. Satheesan seeks support of Centre for establishing coconut value-addition park",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-seeks-support-of-centre-for-establishing-coconut-value-addition-park/article71420856.ece",
-     "summary": "CM underscores the need to restructure coconut farming in Keralam through a shift from traditional methods to scientific and planned plantation models.",
-     "published": "2026-09-02T18:43:14+00:00",
+     "title": "Sanitation workers demand State govt. to hold talks; plan to protest at Perambur or Panaiyur",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/sanitation-workers-demand-state-govt-to-hold-talks-plan-to-protest-at-perambur-or-panaiyur/article71420410.ece",
+     "summary": "Uzhaippor Urimai Iyakkam president K. Bharathi said the next protest could be held at the Perambur Assembly constituency office, Panaiyur or outside the Corporation Commissioner’s residence, among other locations",
+     "published": "2026-09-02T19:19:48+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8te4n6/article71421161.ece/alternates/LANDSCAPE_1200/satheesan.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/4gb946/article71421201.ece/alternates/LANDSCAPE_1200/sanitation%20workers%20protest.jpg",
      "licence": "linkout",
-     "id": "047311a276ee",
+     "id": "db8d172fc171",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "UK’s Burnham faces first parliament grilling, vows to ‘bring back hope’",
-     "url": "https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss",
-     "summary": "Newly appointed leader takes first Prime Minister’s Questions, pledges to fulfill defence, social spending goals.",
-     "published": "2026-09-02T18:11:48+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-02T150245Z_1757207174_RC20BNAS6Y1T_RTRMADP_3_BRITAIN-POLITICS-PMQS-1788365334.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "5cbaafdfc625",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Counterfeit currency racket busted in Hyderabad, ₹2.91 lakh fake notes seized",
-     "url": "https://www.thehindu.com/news/national/telangana/counterfeit-currency-racket-busted-in-hyderabad-291-lakh-fake-notes-seized/article71419588.ece",
-     "summary": "The counterfeit notes were allegedly circulated in small quantities at wine shops and vegetable markets, particularly at night",
-     "published": "2026-09-02T18:45:22+00:00",
+     "title": "Solatium will be given for fishing boats held captive in SL: Minister",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/solatium-will-be-given-for-fishing-boats-held-captive-in-sl-minister/article71420975.ece",
+     "summary": "₹1.86 crore will be distributed to the affected fishermen",
+     "published": "2026-09-02T19:12:45+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/odm77m/article71419585.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%204.42.13%20PM.jpeg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "6910630eeaa2",
+     "id": "c1f35e759dfa",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines",
+     "figures": [
+      "₹1.86 crore will be distributed"
+     ]
+    },
+    {
+     "title": "6 IAS Officers Among 19 Chargesheeted In Rs 504-Crore Scam In Haryana",
+     "url": "https://www.ndtv.com/india-news/6-ias-officers-among-19-chargesheeted-in-rs-504-crore-scam-in-haryana-11994371#publisher=newsstand",
+     "summary": "Those named in the latest chargesheet include six IAS officers of the Haryana cadre, three officials of IDFC First Bank, one official of AU Small Finance Bank and nine other Haryana government officials.",
+     "published": "2026-09-02T18:52:09+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-05/mt6fcvf8_cbi-genric_625x300_22_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d1c6439057d2",
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "National News",
      "figures": [
-      "₹2.91 lakh fake notes seized"
+      "19 Chargesheeted In Rs 504-Crore Scam",
+      "Rs 504 -Crore Scam In Haryana"
      ]
     },
     {
@@ -339,39 +344,25 @@
      ]
     },
     {
-     "title": "Villages vulnerable to floods will be shifted permanently, says Minister in Bagalkot",
-     "url": "https://www.thehindu.com/news/national/karnataka/villages-vulnerable-to-floods-will-be-shifted-permanently-says-minister-in-bagalkot/article71420528.ece",
-     "summary": "‘I have requested the Chief Minister to visit the district to study the drought situation in the district, and fulfill the demands of the victims. He is likely to visit on September 4, 2026,’ says Bagalkot district in-charge Minister Vijayanand Kashappanavar.",
-     "published": "2026-09-02T18:09:16+00:00",
+     "title": "Engineering education symposium in Chennai explores AI, industry needs and future-ready skills",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/engineering-education-symposium-in-chennai-explores-ai-industry-needs-and-future-ready-skills/article71420106.ece",
+     "summary": "",
+     "published": "2026-09-02T19:21:55+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rdthws/article71420774.ece/alternates/LANDSCAPE_1200/9727_2_9_2026_20_33_30_1_03BGMKASHAPPAIDDALAGI1.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "65d20f2de51b",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Landslides Hit Nainital Villages, Homes At Risk As Rain Continues",
-     "url": "https://www.ndtv.com/india-news/landslides-hit-nainital-villages-homes-at-risk-as-rain-continues-11994067#publisher=newsstand",
-     "summary": "The Meteorological Department has issued an Orange Alert for heavy to very heavy rain in three districts of Uttarakhand on Wednesday.",
-     "published": "2026-09-02T17:17:58+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/s6cv2ois_nainital_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "228bacb3a648",
-     "category": "weather",
-     "category_label": "Weather & disaster",
+     "id": "96d2d27d0165",
+     "category": "tech",
+     "category_label": "AI & technology",
      "from_section": "National News"
     },
     {
      "title": "AXionX Announces Computing Power Infrastructure Initiative to Support the Growing Demands of Artificial Intelligence",
      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQTTcxaUV2MjR3MkNoUWVQVmp1VU1YY3luZmtLTmJBWGl2eUtYOFo5cXpQVVZ3WUV6OHZmZnA2WU5mc20tcUZLbkZLTUR6SnlzdURyZ2xFQzB3WGZrQVllVWJHbndSaG44Ulk1bFBUZE01d1NaX250ZU9McENLNnhHQ0ltTVdMQ1JmRFd1TWlQeW40VzNCc1hfZ0lQT04xVlc1Nk03YWljWTh4enVpeG11aVRGV3E3YVpiZnBNTEpNR3JUSngyOGl5bWlIQWVrU2JacEx5SFZZV3RsbTVXeVJvZjRMZHM2a0RtMFRjMTI5aU03ZlFEVnk1ZXV5Q0EwNlc5ZGczbVZsZVRwbkxXbUo3Z3JWX0sxMEY3V29RbWdCbHQ5cVRtVzhJRFV6aVJhdVBDaFhQMmUtaVh0dWVwLWg0?oc=5",
-     "summary": "AXionX Announces Computing Power Infrastructure Initiative to Support the Growing Demands of Artificial Intelligence wboc.com",
+     "summary": "AXionX Announces Computing Power Infrastructure Initiative to Support the Growing Demands of Artificial Intelligence WBOC TV",
      "published": "2026-09-02T15:31:29+00:00",
-     "source": "wboc.com",
+     "source": "WBOC TV",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -393,20 +384,6 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Business"
-    },
-    {
-     "title": "How Artificial Intelligence Is Changing Digital Storytelling and Animation",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekc5bFlDYzFaSS1wMFRaZm5Ic2NGRDc0NkJtWTVBQ1RILU8yc0ltN0JpVmxtakNSeXRadVdPNUtoZUxFM3dmT214MXpxNmE4RTY1cGQ5TmdKM1l4OEd0X2VvUWI2Vk1xTjBYSXpiZUpZQ2JzRlU5Tk93T2dHeTJjczk3WmpNSTZ0QlhBTmxyaHAwd0tQUFpNZ1pzVC1Sd3E2WWFuOVZObkIwNVNxNlkyNVNIdw?oc=5",
-     "summary": "How Artificial Intelligence Is Changing Digital Storytelling and Animation technology.org",
-     "published": "2026-09-02T09:25:02+00:00",
-     "source": "technology.org",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5ef53e36d283",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
     },
     {
      "title": "FIFA World Cup Star Blasts Premier League Club After Deadline Day Transfer Collapses",
@@ -485,7 +462,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-02T19:01:33.091444+00:00",
+     "published": "2026-09-02T19:31:31.881266+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -496,7 +473,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-02T19:01:33.091453+00:00",
+     "published": "2026-09-02T19:31:31.881284+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -507,7 +484,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-02T19:01:33.091456+00:00",
+     "published": "2026-09-02T19:31:31.881290+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -518,7 +495,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-02T19:01:33.091459+00:00",
+     "published": "2026-09-02T19:31:31.881294+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -529,7 +506,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-02T19:01:33.091461+00:00",
+     "published": "2026-09-02T19:31:31.881298+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -540,7 +517,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-02T19:01:33.091463+00:00",
+     "published": "2026-09-02T19:31:31.881302+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -576,57 +553,86 @@
    "upsc": false,
    "items": [
     {
-     "title": "Little Flower Degree College holds international seminar on climate change",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/little-flower-degree-college-holds-international-seminar-on-climate-change/article71420932.ece",
+     "title": "CM announces ₹1,850-cr for road repairs in Chennai and other urban areas",
+     "url": "https://www.thehindu.com/news/national/cm-announces-1850-cr-for-road-repairs-in-chennai-and-other-urban-areas/article71420753.ece",
      "summary": "",
-     "published": "2026-09-02T18:53:23+00:00",
+     "published": "2026-09-02T19:23:16+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/wfwp81/article71420931.ece/alternates/LANDSCAPE_1200/Little%20Flower%20Degree%20College%20Uppal.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/hfzpso/article71421199.ece/alternates/LANDSCAPE_1200/PTI08_07_2026_000016B.jpg",
      "licence": "linkout",
-     "id": "46ce21038675",
+     "id": "f7c07b74710f",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "₹1,850 -cr for road repairs"
+     ]
+    },
+    {
+     "title": "Engineering education symposium in Chennai explores AI, industry needs and future-ready skills",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/engineering-education-symposium-in-chennai-explores-ai-industry-needs-and-future-ready-skills/article71420106.ece",
+     "summary": "",
+     "published": "2026-09-02T19:21:55+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "96d2d27d0165",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Dental technology hub inaugurated at AMTZ",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/dental-technology-hub-inaugurated-at-amtz/article71419376.ece",
+     "summary": "",
+     "published": "2026-09-02T19:19:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "3fe49cbf709b",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Counterfeit currency racket busted in Hyderabad, ₹2.91 lakh fake notes seized",
-     "url": "https://www.thehindu.com/news/national/telangana/counterfeit-currency-racket-busted-in-hyderabad-291-lakh-fake-notes-seized/article71419588.ece",
-     "summary": "The counterfeit notes were allegedly circulated in small quantities at wine shops and vegetable markets, particularly at night",
-     "published": "2026-09-02T18:45:22+00:00",
+     "title": "Pawan Kalyan’s birthday marked with rallies",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-kalyans-birthday-marked-with-rallies/article71420851.ece",
+     "summary": "",
+     "published": "2026-09-02T19:17:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/odm77m/article71419585.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%204.42.13%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/p9f4qd/article71421200.ece/alternates/LANDSCAPE_1200/VSP03_JANASENA%201.JPG",
      "licence": "linkout",
-     "id": "6910630eeaa2",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "e9320538aed4",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Ayodhya Ram Temple Gets Air Force Veteran As CEO, 3 New Members",
+     "url": "https://www.ndtv.com/india-news/retired-air-marshal-jitendra-mishra-to-be-ayodhya-ram-temples-new-ceo-11992100#publisher=newsstand",
+     "summary": "Air Marshal Mishra was commissioned in the Indian Air Force as a fighter pilot in December 1986. He retired in May 2026 after serving for over 38 years.",
+     "published": "2026-09-02T18:54:25+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/fipia6tk_air-marshal-jitendra-mishra_650x400_02_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "41783ffde49d",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "₹2.91 lakh fake notes seized"
+      "38 years"
      ]
     },
     {
-     "title": "Keralam Chief Minister V.D. Satheesan seeks support of Centre for establishing coconut value-addition park",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-seeks-support-of-centre-for-establishing-coconut-value-addition-park/article71420856.ece",
-     "summary": "CM underscores the need to restructure coconut farming in Keralam through a shift from traditional methods to scientific and planned plantation models.",
-     "published": "2026-09-02T18:43:14+00:00",
-     "source": "The Hindu",
+     "title": "Delhi High Court Fines Firm For Demoting Woman After Maternity Leave",
+     "url": "https://www.ndtv.com/india-news/delhi-high-court-fines-firm-for-demoting-woman-after-maternity-leave-11994397#publisher=newsstand",
+     "summary": "The court held that a woman returning from maternity leave is ordinarily entitled to be restored to the post she held immediately before going on leave.",
+     "published": "2026-09-02T18:53:26+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8te4n6/article71421161.ece/alternates/LANDSCAPE_1200/satheesan.jpg",
+     "image": "https://c.ndtvimg.com/2024-09/f7jpjr28_delhi-high-court_625x300_21_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "047311a276ee",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "UDF aiding saffronisation of higher education: R. Bindu",
-     "url": "https://www.thehindu.com/news/national/kerala/udf-aiding-saffronisation-of-higher-education-r-bindu/article71420297.ece",
-     "summary": "The government’s position that the full rendition of Vande Mataram is required as per the protocol of programmes attended by the Governor is a wrong interpretation of the existing guidelines, she says",
-     "published": "2026-09-02T18:40:15+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bas2oo/article71421098.ece/alternates/LANDSCAPE_1200/80968_2_9_2026_21_39_39_1_IMG_0384.JPEG",
-     "licence": "linkout",
-     "id": "255fa496c89a",
+     "id": "58e71680a7fb",
      "category": "general",
      "category_label": "General"
     },
@@ -634,7 +640,7 @@
      "title": "Ex-Chief Economic Adviser Backs GDP Data, Calls Methodology \"Cutting-Edge\"",
      "url": "https://www.ndtv.com/india-news/ex-chief-economic-advisor-backs-gdp-figure-says-new-methodology-cutting-edge-11993637#publisher=newsstand",
      "summary": "Krishnamurthy V Subramanian dismissed the Opposition's charge that the government deliberately revised last year's GDP numbers downward, so that this year's growth rate would be artificially inflated.",
-     "published": "2026-09-02T17:44:14+00:00",
+     "published": "2026-09-02T18:52:06+00:00",
      "source": "NDTV",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-09/df0h10h_interview_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -644,43 +650,17 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "\"Blessings Of Lord Ram\": Air Force Veteran To NDTV On Trust CEO Role",
-     "url": "https://www.ndtv.com/india-news/blessings-of-lord-ram-air-force-veteran-to-ndtv-on-trust-ceo-role-11993955#publisher=newsstand",
-     "summary": "Air Marshal Mishra has held several commanding positions in the Indian Air Force and was the chief of its Western Command during Operation Sindoor.",
-     "published": "2026-09-02T16:54:11+00:00",
+     "title": "\"Alarming Apathy\": India Condemns Century-Old Temple's Demolition In Pakistan",
+     "url": "https://www.ndtv.com/india-news/alarming-apathy-india-condemns-century-old-temples-demolition-in-pakistan-11994366#publisher=newsstand",
+     "summary": "New Delhi also said that Pakistan must take immediate remedial measures to restore the \"desecrated temple\" and fulfil its primary obligation to guarantee the safety, security and well-being of all its minority citizens and their cultural heritage.",
+     "published": "2026-09-02T18:40:50+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/2reanrs8_ayodhya-ceo-_625x300_02_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2024-12/em8kj2ro_randhir-jaiswal_625x300_20_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "266fbaf9eab8",
+     "id": "1f4bc1336b75",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "\"Sure Sign Of Intellectual Dishonesty\": SBI Research On Doubts Being Raised On GDP Growth Data",
-     "url": "https://www.ndtv.com/india-news/sure-sign-of-intellectual-dishonesty-sbi-research-on-doubts-being-raised-on-gdp-growth-data-soumya-kanti-ghosh-group-chief-economic-adviser-sbi-11993614#publisher=newsstand",
-     "summary": "Soumya Kanti Ghosh, Group Chief Economic Adviser, SBI, spoke to NDTV. \"An unnecessary controversy was created by incorrect data interpretation,\" he said.",
-     "published": "2026-09-02T15:37:21+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/lguubio8_soumya-kanti-ghosh_625x300_02_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "2b9856c481f1",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Doctor Found Dead Inside ICU At Guwahati Hospital, Probe Launched",
-     "url": "https://www.ndtv.com/india-news/doctor-found-dead-inside-icu-at-guwahati-hospital-probe-launched-11993466#publisher=newsstand",
-     "summary": "Hospital founder and Managing Director Dr Hitesh Baruah said the police were informed soon after the doctor was found dead.",
-     "published": "2026-09-02T15:25:43+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-05/fe89cvos_saline-_625x300_12_May_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "d6e0acc25316",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -733,30 +713,17 @@
      "category_label": "General"
     },
     {
-     "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-     "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-     "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-     "published": "2026-09-02T15:33:19+00:00",
-     "source": "BBC News",
+     "title": "UK’s Burnham faces first parliament grilling, vows to ‘bring back hope’",
+     "url": "https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss",
+     "summary": "Newly appointed leader takes first Prime Minister’s Questions, pledges to fulfill defence, social spending goals.",
+     "published": "2026-09-02T18:11:48+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f37/live/8eb97870-a6e4-11f1-9e4c-79c1c0e340c6.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-02T150245Z_1757207174_RC20BNAS6Y1T_RTRMADP_3_BRITAIN-POLITICS-PMQS-1788365334.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "eef742c7215c",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-     "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-     "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-     "published": "2026-09-02T16:49:00+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
-     "licence": "linkout",
-     "id": "15381f586f47",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "5cbaafdfc625",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
@@ -849,66 +816,82 @@
    "upsc": false,
    "items": [
     {
-     "title": "Little Flower Degree College holds international seminar on climate change",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/little-flower-degree-college-holds-international-seminar-on-climate-change/article71420932.ece",
+     "title": "CM announces ₹1,850-cr for road repairs in Chennai and other urban areas",
+     "url": "https://www.thehindu.com/news/national/cm-announces-1850-cr-for-road-repairs-in-chennai-and-other-urban-areas/article71420753.ece",
      "summary": "",
-     "published": "2026-09-02T18:53:23+00:00",
+     "published": "2026-09-02T19:23:16+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/wfwp81/article71420931.ece/alternates/LANDSCAPE_1200/Little%20Flower%20Degree%20College%20Uppal.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/hfzpso/article71421199.ece/alternates/LANDSCAPE_1200/PTI08_07_2026_000016B.jpg",
      "licence": "linkout",
-     "id": "46ce21038675",
+     "id": "f7c07b74710f",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Counterfeit currency racket busted in Hyderabad, ₹2.91 lakh fake notes seized",
-     "url": "https://www.thehindu.com/news/national/telangana/counterfeit-currency-racket-busted-in-hyderabad-291-lakh-fake-notes-seized/article71419588.ece",
-     "summary": "The counterfeit notes were allegedly circulated in small quantities at wine shops and vegetable markets, particularly at night",
-     "published": "2026-09-02T18:45:22+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/odm77m/article71419585.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%204.42.13%20PM.jpeg",
-     "licence": "linkout",
-     "id": "6910630eeaa2",
-     "category": "money",
-     "category_label": "Money & scams",
+     "category_label": "General",
      "figures": [
-      "₹2.91 lakh fake notes seized"
+      "₹1,850 -cr for road repairs"
      ]
     },
     {
-     "title": "Keralam Chief Minister V.D. Satheesan seeks support of Centre for establishing coconut value-addition park",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-seeks-support-of-centre-for-establishing-coconut-value-addition-park/article71420856.ece",
-     "summary": "CM underscores the need to restructure coconut farming in Keralam through a shift from traditional methods to scientific and planned plantation models.",
-     "published": "2026-09-02T18:43:14+00:00",
+     "title": "Engineering education symposium in Chennai explores AI, industry needs and future-ready skills",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/engineering-education-symposium-in-chennai-explores-ai-industry-needs-and-future-ready-skills/article71420106.ece",
+     "summary": "",
+     "published": "2026-09-02T19:21:55+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8te4n6/article71421161.ece/alternates/LANDSCAPE_1200/satheesan.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "047311a276ee",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "96d2d27d0165",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
-     "title": "Begin identifying tenant farmers under 2011 Act, parties urge govt.",
-     "url": "https://www.thehindu.com/news/national/telangana/begin-identifying-tenant-farmers-under-2011-act-parties-urge-govt/article71421003.ece",
+     "title": "Dental technology hub inaugurated at AMTZ",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/dental-technology-hub-inaugurated-at-amtz/article71419376.ece",
      "summary": "",
-     "published": "2026-09-02T18:29:55+00:00",
+     "published": "2026-09-02T19:19:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/611vtp/article71421002.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%206.40.14%20PM.jpeg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "c48d9c080789",
+     "id": "3fe49cbf709b",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Mental health wellness centre for GCC workers opened",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/mental-health-wellness-centre-for-gcc-workers-opened/article71419214.ece",
+     "summary": "",
+     "published": "2026-09-02T19:12:17+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/lqs5n4/article71419228.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%2012.07.37.jpg",
+     "licence": "linkout",
+     "id": "d36eff24128c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Tasmac cracks down on overcharging, suspends 67 employees",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-cracks-down-on-overcharging-suspends-67-employees/article71420772.ece",
+     "summary": "",
+     "published": "2026-09-02T19:07:30+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "f914b5e2c77a",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "67 employees"
+     ]
     },
     {
      "title": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05",
      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 indianexpress.com",
+     "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 The Indian Express",
      "published": "2026-09-02T12:15:31+00:00",
-     "source": "indianexpress.com",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -916,8 +899,7 @@
      "category": "politics",
      "category_label": "Political controversy",
      "figures": [
-      "05. Today News Headlines for School",
-      "05 indianexpress"
+      "05. Today News Headlines for School"
      ]
     }
    ]
@@ -1420,11 +1402,24 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "How Artificial Intelligence Is Changing Digital Storytelling and Animation",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekc5bFlDYzFaSS1wMFRaZm5Ic2NGRDc0NkJtWTVBQ1RILU8yc0ltN0JpVmxtakNSeXRadVdPNUtoZUxFM3dmT214MXpxNmE4RTY1cGQ5TmdKM1l4OEd0X2VvUWI2Vk1xTjBYSXpiZUpZQ2JzRlU5Tk93T2dHeTJjczk3WmpNSTZ0QlhBTmxyaHAwd0tQUFpNZ1pzVC1Sd3E2WWFuOVZObkIwNVNxNlkyNVNIdw?oc=5",
+     "summary": "How Artificial Intelligence Is Changing Digital Storytelling and Animation technology.org",
+     "published": "2026-09-02T09:25:02+00:00",
+     "source": "technology.org",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "5ef53e36d283",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeS0zQllBQlJPOGJULTd3dmQ3TGNQS2s3S0ZLNG5VUWRXTTRMT1hEQ3N1TWowakZPV0FmYVpsMlJJdENNVU4yRS00VUx2R3d3S3dKZ1FfRVRNT09hYnotdWFtYVBHLXkxY0I2bENKM3VJbkZGVVJQVFBNYXRzTEllYk04UU4yTFdXX045N1RDYXFjTE5aSEhxMG9YdXYxTFRVUE0ySDRrdnU2c3pkaVdGX0Z1RjhCdHpoTHc2VnZzeW9haWVhSnNGcnNBeE9naGN1V181RHlZcTc?oc=5",
-     "summary": "Google to speed up chip rollout to stay ahead in AI, technology chief says asia.nikkei.com",
+     "summary": "Google to speed up chip rollout to stay ahead in AI, technology chief says Nikkei Asia",
      "published": "2026-09-02T05:03:00+00:00",
-     "source": "asia.nikkei.com",
+     "source": "Nikkei Asia",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1453,6 +1448,19 @@
    "title": "Sports",
    "upsc": false,
    "items": [
+    {
+     "title": "Amid Review Of Ireland-UK Debacles, Report Drops Shubman Gill-Shreyas Iyer Bombshell",
+     "url": "https://sports.ndtv.com/cricket/shubman-gill-shreyas-iyer-likely-to-be-summoned-by-bcci-after-ireland-uk-tour-debacles-report-11993502#publisher=newsstand",
+     "summary": "The review meeting, which was originally planned after India's dismal tour of Ireland and the UK, was postponed due to the two-match Test series against Sri Lanka.",
+     "published": "2026-09-02T18:11:02+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-01/roualei_shubman-gill-shreyas-iyer-afp_625x300_10_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "37ff131820a6",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Home Hope Jessica Pegula Keeps US Open Dream Alive, Reaches Third Round",
      "url": "https://sports.ndtv.com/tennis/home-hope-jessica-pegula-keeps-us-open-dream-alive-reaches-third-round-11994041#publisher=newsstand",
@@ -1484,19 +1492,6 @@
      ]
     },
     {
-     "title": "MS Dhoni, Rishabh Pant Spotted Partying Together. Viral Video Breaks The Internet",
-     "url": "https://sports.ndtv.com/cricket/ms-dhoni-rishabh-pant-spotted-partying-together-viral-video-breaks-the-internet-11994016#publisher=newsstand",
-     "summary": "Former India captain MS Dhoni and wicketkeeper-batter Rishabh Pant were seen partying together with some friends during a get-together.",
-     "published": "2026-09-02T17:05:56+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/79bh3m4o_1_625x300_02_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "d252959fc04a",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
      "title": "\"It Is Always Complicated\": Marc Casado Makes Thoughts Clear On Leaving Barcelona For Deportivo",
      "url": "https://sports.ndtv.com/football/it-is-always-complicated-marc-casado-makes-thoughts-clear-on-leaving-barcelona-for-deportivo-11993560#publisher=newsstand",
      "summary": "Marc Casado was left without a shirt number and had to train apart from the first team squad for the past few days as Barcelona looked for a destination to send him.",
@@ -1506,19 +1501,6 @@
      "image": "https://c.ndtvimg.com/2026-09/bj5peado_marc-casado-getty_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "86596a9df73a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Isack Hadjar Still Injured, Liam Lawson To Drive For Red Bull Again At Italian GP; Yuki Tsunoda At Racing Bulls",
-     "url": "https://sports.ndtv.com/formula-1/isack-hadjar-still-injured-liam-lawson-to-drive-for-red-bull-again-at-italian-gp-yuki-tsunoda-at-racing-bulls-11993691#publisher=newsstand",
-     "summary": "French driver Isack Hadjar, who missed the last Grand Prix in the Netherlands because of an injured wrist, will again be absent from the grid for this weekend's Italian GP at Monza, his Red Bull team announced on Wednesday.",
-     "published": "2026-09-02T16:55:48+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ilpqbsd4_liam-lawson-isack-hadjar-getty_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "cd82586ae968",
      "category": "general",
      "category_label": "General"
     }
