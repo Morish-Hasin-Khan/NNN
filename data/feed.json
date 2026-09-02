@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T10:02:23.466250+00:00",
+ "generated_at": "2026-09-02T10:35:10.954310+00:00",
  "podcasts_fetched_at": "2026-09-01T22:01:39.218117+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 121851.0,
    "change": -3407.0,
    "changePct": -2.72,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Kashmir Crime",
-  "Crore Cash",
+  "Rescuers Army",
+  "Tupac Shakur",
   "Jazeera English",
   "News",
   "Anti",
-  "Woman Bengaluru",
+  "Floating Telangana",
+  "World India",
+  "Thailand Abraham",
   "Nepal",
-  "What Joshua",
-  "Jailed Joshua",
-  "Thai Pattaya"
+  "Thousands Nepal"
  ],
  "sections": [
   {
@@ -102,50 +103,52 @@
    "upsc": false,
    "items": [
     {
-     "title": "Kashmir Crime Branch books five persons for fake appointment, transfer orders in Education Department",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-crime-branch-books-five-persons-for-fake-appointment-transfer-orders-in-education-department/article71418961.ece",
-     "summary": "The specialised police unit filed a chargesheet before the Court of Chief Judicial Magistrate, Budgam, against the five accused",
-     "published": "2026-09-02T09:49:58+00:00",
+     "title": "Rescuers search for 2 missing soldiers after Army boat capsizes in Yamuna at Hathnikund Barrage",
+     "url": "https://www.thehindu.com/news/national/army-boat-capsize-soldiers-missing-yamuna-hathnikund-barrage-september-2-2026/article71419057.ece",
+     "summary": "A joint search and rescue mission by the Army, Air Force, local police and civil administration is underway, and all available resources are being employed to locate and recover the missing soldiers",
+     "published": "2026-09-02T10:27:34+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rv6u9o/article71397834.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/y3oq1s/article71419073.ece/alternates/LANDSCAPE_1200/20250901386L.jpg",
      "licence": "linkout",
-     "id": "304c9db1b112",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Rs 1.44 Crore Cash Hidden Under Driver's Seat Seized In Kerala, 3 Arrested",
-     "url": "https://www.ndtv.com/india-news/rs-1-44-crore-cash-hidden-under-drivers-seat-seized-in-kerala-3-arrested-11991443#publisher=newsstand",
-     "summary": "Police are now probing the source of the huge amount, where it was being taken and who was supposed to receive it.",
-     "published": "2026-09-02T08:42:57+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/jojhib38_kerala-cash-seized-_625x300_02_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4a8dded6f6fb",
+     "id": "026539a67d60",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News",
      "figures": [
-      "Rs 1.44 Crore Cash Hidden Under Driver's",
-      "3 Arrested"
+      "2 missing soldiers after Army boat"
      ]
     },
     {
-     "title": "South Korea jails care home head for sexually assaulting disabled residents",
-     "url": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
-     "summary": "The man, surnamed Kim, was handed a 15-year prison term for abusing three residents at the facility near Seoul.",
-     "published": "2026-09-02T05:56:44+00:00",
+     "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+     "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+     "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+     "published": "2026-09-01T18:26:12+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c264/live/b83417d0-a68c-11f1-84e3-e532cd3b83b6.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4e/live/2eecbe10-a334-11f1-84e6-5f05e8e26a23.png",
      "licence": "linkout",
-     "id": "5dc945b0184b",
+     "id": "fb11d9ff678b",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News"
+     "from_section": "Culture",
+     "figures": [
+      "30 years ago"
+     ]
+    },
+    {
+     "title": "World War II: The unsung role of India and its soldiers in the global conflict",
+     "url": "https://www.thehindu.com/news/international/world-war-ii-india-soldiers-forgotten-role-in-a-global-conflict/article71414848.ece",
+     "summary": "Although the Indian Army fielded the largest volunteer force and fought on battlefields across the globe, there is little by way of a comprehensive archive documenting its experiences",
+     "published": "2026-09-02T10:31:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/24bxuu/article71414875.ece/alternates/LANDSCAPE_1200/HP179112.jpg",
+     "licence": "linkout",
+     "id": "23753216bb3a",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News"
     },
     {
      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
@@ -176,60 +179,68 @@
      "from_section": "Global News"
     },
     {
-     "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-     "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-     "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
-     "published": "2026-09-02T05:03:09+00:00",
-     "source": "BBC News",
+     "title": "School assembly news headlines for September 2: Top India, world, sports and business updates",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdWxOemtPZVZDSFBtS2NXcW9OaVRCdDMzdVRiX2VmVDliZWVnaUhVek1XWjBmb1RKQ3RBdFJKMXJONXFrcXJ3TmRlUnpjaEdvV0dyM3FHWldTX21FYndJSnhZUkdkbTZEWnQyQzFuQ0FqWU9Pa1pYU1ROaVVIbzNpWjJWcWo2eGw3R3Y5OWg2NkE2dmFBR0MzeklZQ2tXNUpJWkhmVC1qZ01paTR4elZYd3Ntdjl0QnMwS0xUUW1XTzN5MjE4cmpOZ2gwdkFLYVlfanZlLXhJZUN1eThfOTRmbldlb2J1cmVfWTVUd3FwUU1lN0nSAfgBQVVfeXFMTk94VnI1VjVwbldWUWVWdUtxV0JnejRTam5qNkZSUjY2Nllhb0NkajlqdjJTWTFKbXdCU01Vd1RXYUoxZVNoVXM0cjRfWHpOcmp5eTVfaTJjMzZjd3haMzQ0ODJsSFdEb1BCZG10RG1vNTFkZTY4dzFnRHpQTFg5NHZSR0dQZ1NkaEJMUkpNbXdaMHFPMHNhcnI1b0N1TjhTTS1BVk1ham56TUg3UmxsWU5TeFp1YXB4bl8wYi1VSzBVRFBsYU16MGVQWHM4WVR2Z2V5bVc3MW9oekp3WXdoZjdzelppWm1KVU42MXRxWU9JY0ZSdGNNMXk?oc=5",
+     "summary": "School assembly news headlines for September 2: Top India, world, sports and business updates The Economic Times",
+     "published": "2026-09-01T13:29:40+00:00",
+     "source": "The Economic Times",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b7/live/025c25f0-a61a-11f1-9ca2-a3e18de91b7b.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "f68dbfeae48a",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
+     "id": "d295525e6672",
+     "also": [
+      {
+       "source": "India Today",
+       "title": "School assembly news headlines today- September 2: Top national, sports and world news curated for you",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORUZINW1oblZkLXRRdUtJdURPTVRNSWN5dHJWaHdYcWsxUzBfNTBqVkNhd1FIZjZVa3FNOGQ1Z2cwZGk4eDRWc2lOTHl0OXJCVWE5STJ5WGgzOGQ3MU5xSTJ6eDd2RE9NaEZQVF9FMWNnUENId0ZqdGF3eU1Mb3RMem9vQ0xqRE10amo3dWlXU0RVT3FTQUxmS1hRTTM2MTFQNnJXQ1d1bUNPSWxvd3BsckZtTFZnd3dINE1jSzhhVnVhREoxQ3VGQ0xablFDekVUU0diZmZuQi1DbjEzMmNOWU9pNnBZd2c?oc=5",
+       "summary": "School assembly news headlines today- September 2: Top national, sports and world news curated for you India Today"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
     },
     {
-     "title": "Panel seeks review of FDI in private hospitals, warns of aggressive corporatisation, rising healthcare costs",
-     "url": "https://www.thehindu.com/news/national/panel-seeks-review-of-fdi-in-private-hospitals-warns-of-aggressive-corporatisation-rising-healthcare-costs/article71335824.ece",
-     "summary": "Foreign capital should be encouraged in the manufacture of medical devices, consumables and specialised medicines for rare diseases, while its application in the direct operation and acquisition of hospitals needs greater scrutiny, the report by the Parliamentary Standing Committee on Health and Family Welfare says",
-     "published": "2026-09-02T09:38:10+00:00",
+     "title": "Defence Expo to be held as part of Invest Telangana global summit in December",
+     "url": "https://www.thehindu.com/news/national/telangana/defence-expo-to-be-held-as-part-of-invest-telangana-global-summit-in-december/article71418725.ece",
+     "summary": "Chief Minister A. Revanth Reddy requests cooperation of Defence Minister Rajnath Singh for its successful conduct",
+     "published": "2026-09-02T10:26:27+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t905eb/article71336064.ece/alternates/LANDSCAPE_1200/iStock-1181387462.jpg",
+     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/b87nxj/article71419121.ece/alternates/LANDSCAPE_1200/Telangana%20CM%20with%20Defence%20Minister.jpg",
      "licence": "linkout",
-     "id": "3b00f6aa2e26",
+     "id": "800bd27a6460",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Ed Markey wins: Key takeaways from Massachusetts primary election results",
-     "url": "https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss",
-     "summary": "Markey secures the Democratic nomination as Massachusetts voters back several of the state’s long-serving lawmakers.",
-     "published": "2026-09-02T08:27:35+00:00",
-     "source": "Al Jazeera",
+     "title": "Bill to set up Tamil Nadu Investment Promotion Commission, fast-track clearances introduced in Assembly",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/bill-to-set-up-tamil-nadu-investment-promotion-commission-fast-track-clearances-introduced-in-assembly/article71418964.ece",
+     "summary": "The Bill seeks to introduce Section 16-A to the Tamil Nadu Business Facilitation Act, 2018, empowering the State government to constitute the Tamil Nadu Investment Promotion Commission with the Chief Secretary as its Chairperson",
+     "published": "2026-09-02T10:20:34+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a97c7d32b20b-1788331987.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/jd9exv/article71419096.ece/alternates/LANDSCAPE_1200/2085_3_7_2026_18_0_37_1_KEERTHANA11.JPG",
      "licence": "linkout",
-     "id": "dd01d8e3637e",
+     "id": "8ae1855707a2",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National News"
     },
     {
-     "title": "Cristiano Ronaldo's Sister Meets Kerala Chief Minister, Carries A Special Message For CR7",
-     "url": "https://sports.ndtv.com/football/cristiano-ronaldos-sister-meets-kerala-chief-minister-carries-a-special-message-for-cr7-11991062#publisher=newsstand",
-     "summary": "Cristiano Ronaldo's sister Elma Aveiro met Kerala Chief Minister VD Satheeshan during her visit to the state, with their interaction quickly turning into a conversation about Kerala's love for CR7.",
-     "published": "2026-09-02T08:13:11+00:00",
-     "source": "NDTV Sports",
+     "title": "Opinion: Opinion | China's Quiet Power Grab Is Hiding In Plain Sight",
+     "url": "https://www.ndtv.com/opinion/chinas-quiet-power-grab-hiding-in-plain-sight-11991931#publisher=newsstand",
+     "summary": "China's greatest advantage may be neither its military not its markets, but the fact that the US is too distracted to see what it is building.",
+     "published": "2026-09-02T10:31:13+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/788idndk_elma-aveiro_625x300_02_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2023-08/865t1f7_xi-jinping-reuters_625x300_18_August_23.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "80de13b49eb3",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Sports"
+     "id": "80749a6591e8",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
     },
     {
      "title": "ITAT ruling: Taxpayers cannot be denied TDS credit due to deductor's failure to deposit tax",
@@ -266,60 +277,18 @@
      ]
     },
     {
-     "title": "Cody Rhodes Enlists Millions Of Gamers To Search For John Cena In Clash of Clans-WWE Crossover",
-     "url": "https://sports.ndtv.com/othersports/cody-rhodes-enlists-millions-of-gamers-to-search-for-john-cena-in-clash-of-clans-wwe-crossover-11991346#publisher=newsstand",
-     "summary": "Clash of Clans, which has over two billion lifetime downloads, is back with WWE for a second collaboration; and this time, the rivalry is personal.",
-     "published": "2026-09-02T08:19:28+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/h0pnokag_clash-of-clans_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "2ada08198539",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Sports"
-    },
-    {
-     "title": "Film about enigmatic aristocrat up for six Bafta Cymru awards",
-     "url": "https://www.bbc.co.uk/news/articles/c70lwxve0y5o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Bafta Cymru awards nominations include Strictly Amy: Cancer and Me, Mr Burton and Cleddau.",
-     "published": "2026-09-02T09:43:13+00:00",
+     "title": "Gary Glitter pleads not guilty to historical sex offence charges",
+     "url": "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The former singer, whose real name is Paul Gadd, appeared at Southwark Crown Court via video.",
+     "published": "2026-09-02T10:13:19+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca9a/live/3216a050-0b32-11f1-9972-d3f265c101c6.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4785/live/81ea8370-901c-11f1-b783-f784376ffc11.jpg",
      "licence": "linkout",
-     "id": "90dd299f3d7d",
+     "id": "ab48704432bb",
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
-    },
-    {
-     "title": "Celebration of birth centenary of Cuban leader Fidel Castro in Dharwad",
-     "url": "https://www.thehindu.com/news/national/karnataka/celebration-of-birth-centenary-of-cuban-leader-fidel-castro-in-dharwad/article71416250.ece",
-     "summary": "Among other things, journalist Siddanagouda Patil recalled his visit to Cuba, spoke of Cuba’s achievements in various fields, and about the struggle to build a socialist society",
-     "published": "2026-09-02T09:42:03+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/j7z66k/article71418953.ece/alternates/LANDSCAPE_1200/9727_1_9_2026_20_35_20_1_02BGMDHARWADSPCASTRO1.JPG",
-     "licence": "linkout",
-     "id": "d904c734dba3",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National News"
-    },
-    {
-     "title": "Faith healing poses challenge to authorities as outbreak kills seven tribal children in Madhya Pradesh",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/faith-healing-poses-challenge-to-authorities-as-outbreak-kills-seven-tribal-children-in-madhya-pradesh/article71337123.ece",
-     "summary": "The Baiga community, a Particularly Vulnerable Tribal Group (PVTG), is known for its ancient practices and rituals, with members of the group often opting for faith healing over modern medicine",
-     "published": "2026-09-02T09:32:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "48dfde2fcb70",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National Hotlines"
     },
     {
      "title": "Former nurse dies amid dementia drug shortages",
@@ -334,6 +303,71 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Health & Science"
+    },
+    {
+     "title": "Heart trial after breast cancer has 'improved my life'",
+     "url": "https://www.bbc.co.uk/news/articles/c5ye81nl98do?at_medium=RSS&at_campaign=rss",
+     "summary": "Lucy Shepherd is one of 90 women to take part in a trial helping cancer survivors come off medication.",
+     "published": "2026-09-02T05:10:22+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5585/live/de5fd740-a4a8-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "ede121cec18e",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Health & Science",
+     "figures": [
+      "90 women to take part"
+     ]
+    },
+    {
+     "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+     "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+     "published": "2026-09-01T16:11:18+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "b4c36ef0729c",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global Hotline",
+     "figures": [
+      "20 minutes , Nepal worker tells"
+     ]
+    },
+    {
+     "title": "Blog | Nepal's Valley Of Silence: A Helicopter Journey Through Total Devastation",
+     "url": "https://www.ndtv.com/india-news/nepal-flash-flood-nepals-valley-of-silence-a-helicopter-journey-through-total-devastation-11991794#publisher=newsstand",
+     "summary": "Nepal Flash Flood: We were flying inside the valleys of the Himalayas - among some of the highest and narrowest mountain ranges on Earth.",
+     "published": "2026-09-02T10:24:02+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/5461v054_chopper1_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f3cc964a015a",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News"
+    },
+    {
+     "title": "Thousands still missing as Nepal-Tibet flood relief and recovery intensifies",
+     "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+     "summary": "More than 1, 000 people have died and thousands are missing, with communities relying on airlifted supplies.",
+     "published": "2026-09-02T10:07:02+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg",
+     "licence": "linkout",
+     "id": "be35ef0f7c1c",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global News",
+     "figures": [
+      "000 people have died and thousands"
+     ]
     },
     {
      "title": "Nepal search operations continue a week after catastrophic floods",
@@ -466,20 +500,6 @@
      ]
     },
     {
-     "title": "Sushant Singh, Ex-Manager Died Week Apart, Her Father Says Deaths Are Linked",
-     "url": "https://www.ndtv.com/india-news/sushant-singh-rajput-ex-manager-disha-salian-died-week-apart-her-father-says-deaths-are-linked-11991358#publisher=newsstand",
-     "summary": "Six years after her death, the Bombay High Court has ordered a CBI probe after Disha Salian's father raised suspicion about the circumstances in which she died in 2020.",
-     "published": "2026-09-02T08:31:39+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/tas9bl2_disha-dad-1_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "6b7c87913866",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News"
-    },
-    {
      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
      "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
@@ -510,7 +530,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-02T10:02:11.697027+00:00",
+     "published": "2026-09-02T10:34:58.421934+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -521,7 +541,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-02T10:02:11.697038+00:00",
+     "published": "2026-09-02T10:34:58.421946+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -532,7 +552,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-02T10:02:11.697046+00:00",
+     "published": "2026-09-02T10:34:58.421952+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -543,7 +563,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-02T10:02:11.697050+00:00",
+     "published": "2026-09-02T10:34:58.421956+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -554,7 +574,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-02T10:02:11.697054+00:00",
+     "published": "2026-09-02T10:34:58.421960+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -565,7 +585,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-02T10:02:11.697058+00:00",
+     "published": "2026-09-02T10:34:58.421964+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -600,88 +620,93 @@
    "upsc": false,
    "items": [
     {
-     "title": "Kashmir Crime Branch books five persons for fake appointment, transfer orders in Education Department",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-crime-branch-books-five-persons-for-fake-appointment-transfer-orders-in-education-department/article71418961.ece",
-     "summary": "The specialised police unit filed a chargesheet before the Court of Chief Judicial Magistrate, Budgam, against the five accused",
-     "published": "2026-09-02T09:49:58+00:00",
+     "title": "Floating restaurants, dine-in cruise boats and houseboats proposed across Telangana’s six waterbodies",
+     "url": "https://www.thehindu.com/news/national/telangana/floating-restaurants-dine-in-cruise-boats-and-houseboats-proposed-across-telanganas-six-waterbodies/article71418096.ece",
+     "summary": "Telangana State Tourism Development Corporation (TGTDC) inviting private agencies to develop and operate the houseboats and floating restaurants",
+     "published": "2026-09-02T10:32:50+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rv6u9o/article71397834.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/jtd4t5/article71419142.ece/alternates/LANDSCAPE_1200/10504_14_10_2022_15_11_12_4_DSC_7151.JPG",
      "licence": "linkout",
-     "id": "304c9db1b112",
+     "id": "13dc96ca3aa1",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "World War II: The unsung role of India and its soldiers in the global conflict",
+     "url": "https://www.thehindu.com/news/international/world-war-ii-india-soldiers-forgotten-role-in-a-global-conflict/article71414848.ece",
+     "summary": "Although the Indian Army fielded the largest volunteer force and fought on battlefields across the globe, there is little by way of a comprehensive archive documenting its experiences",
+     "published": "2026-09-02T10:31:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/24bxuu/article71414875.ece/alternates/LANDSCAPE_1200/HP179112.jpg",
+     "licence": "linkout",
+     "id": "23753216bb3a",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Rescuers search for 2 missing soldiers after Army boat capsizes in Yamuna at Hathnikund Barrage",
+     "url": "https://www.thehindu.com/news/national/army-boat-capsize-soldiers-missing-yamuna-hathnikund-barrage-september-2-2026/article71419057.ece",
+     "summary": "A joint search and rescue mission by the Army, Air Force, local police and civil administration is underway, and all available resources are being employed to locate and recover the missing soldiers",
+     "published": "2026-09-02T10:27:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/y3oq1s/article71419073.ece/alternates/LANDSCAPE_1200/20250901386L.jpg",
+     "licence": "linkout",
+     "id": "026539a67d60",
      "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Woman drowns four-month-old twin daughters, attempts to kill self in Bengaluru",
-     "url": "https://www.thehindu.com/news/national/karnataka/woman-drowns-twin-daughters-attempts-to-kill-self/article71416771.ece",
-     "summary": "The couple had undergone IVF treatment, following which Umadevi gave birth to twin girls in May 2026",
-     "published": "2026-09-02T09:48:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bqtal8/article71416888.ece/alternates/LANDSCAPE_1200/iStock-1499450388.jpg",
-     "licence": "linkout",
-     "id": "e210c8cf0e37",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Watch: HPV vaccination roll out, climate change, metabolic diseases and more | Health Wrap",
-     "url": "https://www.thehindu.com/videos/shows/watch-hpv-vaccination-roll-out-climate-change-metabolic-diseases-and-more-health-wrap/article70745826.ece",
-     "summary": "In this episode of Health Wrap, senior health journalists Ramya Kannan and Zubeda Hamid discuss the week’s important developments in public health. This episode looks at the rollout of Human papillomavirus (HPV) vaccination across States in India to prevent cervical cancer, which continues to claim thousands of lives each year.",
-     "published": "2026-09-02T09:47:37+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5hds/article70745821.ece/alternates/LANDSCAPE_1200/Final1.jpg",
-     "licence": "linkout",
-     "id": "868275ba94e8",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Rs 12,000 Scholarship For Classes 9-12: Application Deadline Extended To This Date",
-     "url": "https://www.ndtv.com/education/national-means-cum-merit-scholarship-education-ministry-extends-application-deadline-to-this-date-check-details-11990563#publisher=newsstand",
-     "summary": "National Means-cum-Merit Scholarship 2026: All eligible students are advised to submit their scholarship applications through the National Scholarship Portal within the extended deadline.",
-     "published": "2026-09-02T09:09:09+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://i.ndtvimg.com/i/2017-03/scholarship-application_650x400_41488444719.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b60b5f46f596",
-     "category": "general",
-     "category_label": "General",
+     "category_label": "Crime",
      "figures": [
-      "Rs 12,000  Scholarship For Classes 9-12"
+      "2 missing soldiers after Army boat"
      ]
     },
     {
-     "title": "She Was With Vice Principal For 2 Hours Before Death: Faridabad Girl's Father",
-     "url": "https://www.ndtv.com/india-news/faridabad-suicide-she-was-with-vice-principal-for-2-hours-before-death-faridabad-girls-father-11991543#publisher=newsstand",
-     "summary": "The girl's father, Pramod Kumar, has claimed that his daughter was punished for eating biryani and ordered to stand outside the classroom under the sun.",
-     "published": "2026-09-02T09:06:28+00:00",
+     "title": "3 New Members In Ram Temple Trust, CEO To Be Decided Soon",
+     "url": "https://www.ndtv.com/india-news/3-new-members-in-ram-temple-trust-ceo-to-be-decided-soon-11991766#publisher=newsstand",
+     "summary": "A chief executive officer (CEO) will oversee the management of the Ram Temple in Ayodhya.",
+     "published": "2026-09-02T10:22:15+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/o3ok28pc_faridabad-girl-dies-by-suicide_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-06/hv5ogo6g_ram-temple-_625x300_15_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "19cbc58b1355",
+     "id": "68b5a067a272",
      "category": "general",
-     "category_label": "General",
+     "category_label": "General"
+    },
+    {
+     "title": "'Rs 30 Lakh Payment' Audio Surfaces In Goa Project Extortion Probe",
+     "url": "https://www.ndtv.com/india-news/rs-30-lakh-payment-audio-surfaces-in-goa-project-extortion-probe-11991751#publisher=newsstand",
+     "summary": "The controversy over the project had earlier led to protests by residents and activists in the Karapur-Sarvan area.",
+     "published": "2026-09-02T09:55:08+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/0685vvdc_goa-project-row-_625x300_02_September_26.jpeg",
+     "licence": "linkout",
+     "id": "e21a50aaf165",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "2 Hours Before Death: Faridabad Girl's"
+      "Rs 30 Lakh Payment' Audio Surfaces"
      ]
     },
     {
-     "title": "\"Rights Denied\": Vijay Targets DMK As He Withdraws Cases Against Farmers, Teachers",
-     "url": "https://www.ndtv.com/india-news/rights-denied-vijay-targets-dmk-as-he-withdraws-cases-against-farmers-teachers-11991416#publisher=newsstand",
-     "summary": "The TVK government said the decision was taken on humanitarian grounds and in keeping with democratic principles.",
-     "published": "2026-09-02T08:34:58+00:00",
+     "title": "Himachal Pradesh To Track Attendance 3 Times A Day In 150 CBSE Schools",
+     "url": "https://www.ndtv.com/education/himachal-pradesh-to-track-attendance-3-times-a-day-in-150-cbse-schools-11991719#publisher=newsstand",
+     "summary": "Himachal Pradesh will record attendance three times daily in 150 CBSE government schools to monitor students and teachers.",
+     "published": "2026-09-02T09:45:51+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/48p4lu2_vijay-_625x300_02_September_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-08/fn5vagns_cisce_625x300_22_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b8c2e03428da",
+     "id": "d531982c89e8",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "3 Times A Day In 150",
+      "150 CBSE Schools",
+      "150 CBSE government schools to monitor"
+     ]
     }
    ]
   },
@@ -691,6 +716,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss",
+     "summary": "Thailand’s Pattaya is expecting a business boost as 5,000 US sailors arrive aboard the USS Abraham Lincoln.",
+     "published": "2026-09-02T10:08:44+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788343643.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "65a3c71d52b2",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Nepal search operations continue a week after catastrophic floods",
      "url": "https://www.aljazeera.com/news/2026/9/2/nepal-search-operations-continue-a-week-after-catastrophic-floods?traffic_source=rss",
@@ -755,20 +793,33 @@
      "category_label": "General"
     },
     {
-     "title": "Bus crash on Egypt's Red Sea coast kills 16",
-     "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-     "summary": "Another 28 people are injured in the accident in the South Sinai governorate, officials say.",
-     "published": "2026-09-02T08:24:24+00:00",
+     "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
+     "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+     "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
+     "published": "2026-09-02T10:04:28+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8b/live/56326370-a6aa-11f1-b109-879e35c24276.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f1/live/abdafbf0-a6b6-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
-     "id": "ee0325b0cc53",
+     "id": "27e775b718f5",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "16. Another 28 people are injured"
+      "250 days at sea"
      ]
+    },
+    {
+     "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+     "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+     "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+     "published": "2026-09-02T05:03:09+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b7/live/025c25f0-a61a-11f1-9ca2-a3e18de91b7b.jpg",
+     "licence": "linkout",
+     "id": "f68dbfeae48a",
+     "category": "conflict",
+     "category_label": "War & conflict"
     }
    ]
   },
@@ -778,6 +829,22 @@
    "title": "Global Hotline",
    "upsc": false,
    "items": [
+    {
+     "title": "Thousands still missing as Nepal-Tibet flood relief and recovery intensifies",
+     "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+     "summary": "More than 1, 000 people have died and thousands are missing, with communities relying on airlifted supplies.",
+     "published": "2026-09-02T10:07:02+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg",
+     "licence": "linkout",
+     "id": "be35ef0f7c1c",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "000 people have died and thousands"
+     ]
+    },
     {
      "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
      "url": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
@@ -795,32 +862,16 @@
      "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
-     "published": "2026-09-02T09:21:44+00:00",
+     "published": "2026-09-02T10:04:28+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81db/live/41cfd200-a696-11f1-b109-879e35c24276.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f1/live/abdafbf0-a6b6-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
      "id": "27e775b718f5",
      "category": "general",
      "category_label": "General",
      "figures": [
       "250 days at sea"
-     ]
-    },
-    {
-     "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-     "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
-     "published": "2026-09-01T16:11:18+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "b4c36ef0729c",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "20 minutes , Nepal worker tells"
      ]
     }
    ]
@@ -832,93 +883,96 @@
    "upsc": false,
    "items": [
     {
-     "title": "Kashmir Crime Branch books five persons for fake appointment, transfer orders in Education Department",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-crime-branch-books-five-persons-for-fake-appointment-transfer-orders-in-education-department/article71418961.ece",
-     "summary": "The specialised police unit filed a chargesheet before the Court of Chief Judicial Magistrate, Budgam, against the five accused",
-     "published": "2026-09-02T09:49:58+00:00",
+     "title": "Floating restaurants, dine-in cruise boats and houseboats proposed across Telangana’s six waterbodies",
+     "url": "https://www.thehindu.com/news/national/telangana/floating-restaurants-dine-in-cruise-boats-and-houseboats-proposed-across-telanganas-six-waterbodies/article71418096.ece",
+     "summary": "Telangana State Tourism Development Corporation (TGTDC) inviting private agencies to develop and operate the houseboats and floating restaurants",
+     "published": "2026-09-02T10:32:50+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rv6u9o/article71397834.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/jtd4t5/article71419142.ece/alternates/LANDSCAPE_1200/10504_14_10_2022_15_11_12_4_DSC_7151.JPG",
      "licence": "linkout",
-     "id": "304c9db1b112",
+     "id": "13dc96ca3aa1",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "World War II: The unsung role of India and its soldiers in the global conflict",
+     "url": "https://www.thehindu.com/news/international/world-war-ii-india-soldiers-forgotten-role-in-a-global-conflict/article71414848.ece",
+     "summary": "Although the Indian Army fielded the largest volunteer force and fought on battlefields across the globe, there is little by way of a comprehensive archive documenting its experiences",
+     "published": "2026-09-02T10:31:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/24bxuu/article71414875.ece/alternates/LANDSCAPE_1200/HP179112.jpg",
+     "licence": "linkout",
+     "id": "23753216bb3a",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Rescuers search for 2 missing soldiers after Army boat capsizes in Yamuna at Hathnikund Barrage",
+     "url": "https://www.thehindu.com/news/national/army-boat-capsize-soldiers-missing-yamuna-hathnikund-barrage-september-2-2026/article71419057.ece",
+     "summary": "A joint search and rescue mission by the Army, Air Force, local police and civil administration is underway, and all available resources are being employed to locate and recover the missing soldiers",
+     "published": "2026-09-02T10:27:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/y3oq1s/article71419073.ece/alternates/LANDSCAPE_1200/20250901386L.jpg",
+     "licence": "linkout",
+     "id": "026539a67d60",
      "category": "crime",
-     "category_label": "Crime"
+     "category_label": "Crime",
+     "figures": [
+      "2 missing soldiers after Army boat"
+     ]
     },
     {
-     "title": "Woman drowns four-month-old twin daughters, attempts to kill self in Bengaluru",
-     "url": "https://www.thehindu.com/news/national/karnataka/woman-drowns-twin-daughters-attempts-to-kill-self/article71416771.ece",
-     "summary": "The couple had undergone IVF treatment, following which Umadevi gave birth to twin girls in May 2026",
-     "published": "2026-09-02T09:48:49+00:00",
+     "title": "Madras High Court sets aside order preventing Tamil Nadu temples from acquiring elephants",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-sets-aside-order-preventing-tamil-nadu-temples-from-acquiring-elephants/article71418604.ece",
+     "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan allow a State appeal preferred against a single judge’s order",
+     "published": "2026-09-02T10:16:59+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bqtal8/article71416888.ece/alternates/LANDSCAPE_1200/iStock-1499450388.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/a0nj8v/article71419033.ece/alternates/LANDSCAPE_1200/Chithirai%20celebrations%202.jpg",
      "licence": "linkout",
-     "id": "e210c8cf0e37",
+     "id": "8c05268832dd",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Watch: HPV vaccination roll out, climate change, metabolic diseases and more | Health Wrap",
-     "url": "https://www.thehindu.com/videos/shows/watch-hpv-vaccination-roll-out-climate-change-metabolic-diseases-and-more-health-wrap/article70745826.ece",
-     "summary": "In this episode of Health Wrap, senior health journalists Ramya Kannan and Zubeda Hamid discuss the week’s important developments in public health. This episode looks at the rollout of Human papillomavirus (HPV) vaccination across States in India to prevent cervical cancer, which continues to claim thousands of lives each year.",
-     "published": "2026-09-02T09:47:37+00:00",
+     "title": "Keralam Chief Minister V.D. Satheesan defends State government’s borrowings",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-defends-state-governments-borrowings/article71418935.ece",
+     "summary": "He says the United Democratic Front government faces the additional challenge of not getting the Revenue Deficit Grant, which was available till last year",
+     "published": "2026-09-02T10:15:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5hds/article70745821.ece/alternates/LANDSCAPE_1200/Final1.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/umjujy/article71419085.ece/alternates/LANDSCAPE_1200/Keralam-CM-SathGNRGEJ693.3.jpg.jpg",
      "licence": "linkout",
-     "id": "868275ba94e8",
+     "id": "1a2ba6323cd2",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Supreme Court allows Oil India to file plea on rejection of drilling proposal at Assam’s Dibru-Saikhowa National Park",
+     "url": "https://www.thehindu.com/news/national/assam/supreme-court-allows-oil-india-to-file-plea-on-rejection-of-drilling-proposal-at-national-park/article71418928.ece",
+     "summary": "Court allows Oil India to challenge government decision as the company argues that Extended Reach Drilling poses no threat to the protected national park’s ecosystem and is essential for meeting the country’s energy demands",
+     "published": "2026-09-02T10:13:20+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/8tt6um/article70298070.ece/alternates/LANDSCAPE_1200/vbk-stock-supreme%20court-sc4-2019-02-12T155705Z_468587102_RC1D209BE9D0_RTRMADP_3_INDIA-COURT.JPG",
+     "licence": "linkout",
+     "id": "2f28593575aa",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Rising obesity among Indian women underscores need for preconception interventions",
-     "url": "https://www.thehindu.com/sci-tech/health/rising-obesity-among-indian-women-underscores-need-for-preconception-interventions/article71335899.ece",
-     "summary": "Identifying and addressing health risks in both prospective parents could improve reproductive and pregnancy outcomes, experts say",
-     "published": "2026-09-02T09:37:30+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i8l9u0/article71336088.ece/alternates/LANDSCAPE_1200/iStock-1532460782.jpg",
-     "licence": "linkout",
-     "id": "c92618de6e32",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "ICMR-NIN study shows Vitamin D3 outperforms D2 in supporting muscles and heart",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/icmr-nin-study-shows-vitamin-d3-outperforms-d2-in-supporting-muscles-and-heart/article71418448.ece",
-     "summary": "",
-     "published": "2026-09-02T09:34:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/50kprn/article71418936.ece/alternates/LANDSCAPE_1200/IMG_julien-tromeur-Vxg_e_2_1_TIDSFR48.jpg",
-     "licence": "linkout",
-     "id": "50e198fc6788",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Top news of the day: September 01, 2026",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSnpuVy1xWmw5Y0FhUWNxOWppQ0ZTVEpXZ2JOS3N3YXBvckQyRTMxSjFWeFRkcldqSm9MTHBfSDdkU2xtb1pFcGZpekNkMTl3cjFrbGc3anNXaHFEcWFhSE9HYzRSWjZNR1ViTmN2al9RbEVxODZyXy1VelJocTdqa04tNFJBSWtpNGt6LWZyTEzSAZcBQVVfeXFMTXVySm0td3RDQ21OV2dTenkzSGJrMnBwbktVVDNDWmNjLXZFcmFEUjNIbUxUY1hIQjNNNzRBY3NIbHdnSTJVbnB6ei1Mcmx4V0xUd0g2ckZqT05VLTRNVUtlNThCdFBUX0ZkVE5FczEyTmY2TDRseFVPYmNpSFRvbElHaGtEbHJBTDVxQmR0cXdERlF5OEs1UQ?oc=5",
-     "summary": "Top news of the day: September 01, 2026 thehindu.com",
-     "published": "2026-09-01T12:45:18+00:00",
-     "source": "thehindu.com",
+     "title": "School assembly news headlines today- September 2: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORUZINW1oblZkLXRRdUtJdURPTVRNSWN5dHJWaHdYcWsxUzBfNTBqVkNhd1FIZjZVa3FNOGQ1Z2cwZGk4eDRWc2lOTHl0OXJCVWE5STJ5WGgzOGQ3MU5xSTJ6eDd2RE9NaEZQVF9FMWNnUENId0ZqdGF3eU1Mb3RMem9vQ0xqRE10amo3dWlXU0RVT3FTQUxmS1hRTTM2MTFQNnJXQ1d1bUNPSWxvd3BsckZtTFZnd3dINE1jSzhhVnVhREoxQ3VGQ0xablFDekVUU0diZmZuQi1DbjEzMmNOWU9pNnBZd2c?oc=5",
+     "summary": "School assembly news headlines today- September 2: Top national, sports and world news curated for you India Today",
+     "published": "2026-09-01T11:02:08+00:00",
+     "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "f8d17f80447a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Today News Headlines for School Assembly, September 2, 2026: Air Vice Marshal Shakti Sharma becomes first highest-ranking woman IAF officer",
-     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNd3Q0emxLQy1QMjVma0JxbEs3cy1uQ3g3bDZWMnZlY2FSZGw2T0piTlNsbnA0b3JyMldZZDZLbGZvWkhYaUVBLTBRLVdTd2pJNElyRnd2SUlTRE9xNjBBQ1dlb09wQmRpUjFGalB4ckJPVjMwNWJSTVJfTWZBaEtraWJsZEVVRTZUTkRad25KNHRCZFFMVGJtZ01abjFhTHlmelN1V29QZkJ2bGNZZnlaWGhVWjR1ckt0cHZ3N1c5V0Nmc2tWSU1EZzNrZXZ1X1pjX3hGRUxwZFltSnJCTkw0MUYtWFZUVW5jbWZUS284YnM0NzlRT2lHcElVdmRQLWtiR0d4SVR1cEFncG1adEhmRGdvNTRhaU9zelNvcXNTYnBfSGNlbmR1djUtLUV4WVdXRy1CWklhN0d4ZXVT0gHDAkFVX3lxTFB4STJremxuT2JTbWpfNWdDTktCVnZnQzJBUUZYeTYwaFdXdzRZRUxSZVFzZ1VyazF3YTJNU1lzQjRYZXZTTHRJQVE4RUY1TkVVcms4bFRlZkhnc2Q2UVVCZ2N4MWdnT3NxZF9OMkljZjhTbzJCZDFRNUZmeVZGRjVsUWc4TGxFQXAxd3NjZllEQWZadWVIY2x5VmRMcm93Uzlyd1pzYmhkRlVCdlBKRmhfeVQtWkxDTGllT0RpZ012bWR0bGxjMTBycF9LTVNwb0dxSGk2THVSU1MyY09zWURqTk9SVEV3UDEwcnRUNEhMelFXU2JXMXpTZnZqNWVrdS1HV1JDN01uREJPT3VBU0tDMEI0eU5tSFJBclpRaElpNE5PdmVPMEcydDVUTDJtc2JueHVIQmlPUm9RZWt2NGlRU0lV?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 2, 2026: Air Vice Marshal Shakti Sharma becomes first highest-ranking woman IAF officer The Indian Express",
-     "published": "2026-09-01T12:00:47+00:00",
-     "source": "The Indian Express",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "3402a97069de",
+     "id": "f5ef513735a3",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -1503,6 +1557,19 @@
      "category_label": "General"
     },
     {
+     "title": "Does a non-resident trustee make a trust non-resident?",
+     "url": "https://www.livemint.com/money/personal-finance/does-a-non-resident-trustee-make-a-trust-nonresident-11788246295564.html",
+     "summary": "A trust can remain resident despite having a non-resident trustee if its control and management is partly exercised from India.",
+     "published": "2026-09-02T10:24:24+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/01/600x338/pexels-photo-3771097_1787035872481_1787035884635_c1667411-ce4b-45cc-a810-797055ccbf86_1788261288367_b36dcb51-b36a-454b-bc62-58d1fe18faa4.jpeg",
+     "licence": "linkout",
+     "id": "213d4c0b4652",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Is your portfolio too heavy on equity? What investors should do now",
      "url": "https://www.livemint.com/money/equity-heavy-portfolio-risk-diversification-11788285837182.html",
      "summary": "Equity-heavy portfolios can deliver strong long-term returns, but investors must be prepared for sharp drawdowns and long periods of weak performance. A diversified mix of equity, fixed income and gold can make the journey smoother.",
@@ -1527,22 +1594,6 @@
      "id": "671d5be85c24",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "10 pharma mutual funds delivered over 20% in one year: HDFC Pharma leads with 28.66% return",
-     "url": "https://www.livemint.com/money/personal-finance/10-pharma-mutual-funds-delivered-over-20-in-one-year-hdfc-pharma-leads-with-28-66-return-11788336512520.html",
-     "summary": "Ten pharma and healthcare mutual funds delivered more than 20% returns in the past year, with HDFC Pharma And Healthcare Fund leading at 28.66%. Kotak Healthcare, PGIM India Healthcare and Quant Healthcare were among the other top performers.",
-     "published": "2026-09-02T08:18:35+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/Gemini_Generated_Image_dn861tdn861tdn86_1788337011488_1788337017609_2703f402-beb1-4976-8312-059129c69a3d.png",
-     "licence": "linkout",
-     "id": "a6ff705143dd",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "10 pharma mutual funds delivered over"
-     ]
     }
    ]
   },
@@ -1582,24 +1633,24 @@
      "category_label": "General"
     },
     {
-     "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-     "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-     "published": "2026-09-01T10:18:47+00:00",
+     "title": "Tech Life",
+     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
+     "summary": "AI can only communicate in languages that it's been trained on.",
+     "published": "2026-09-01T20:10:00+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7f0yz.jpg",
      "licence": "linkout",
-     "id": "b6772066296d",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "7a1c0e80d3c1",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
      "title": "Meta launches Muse Voice Transcribe with support for 5 Indian languages",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdExwNWRSY3BOclhCN050WExua01pakJScGRDRjFXMk95eDVNTEZzdDkxTGpwcUZDVm9jYWU5d3hVdXNPVEZuWjB0bU54M2R0WVA1VE1YU0RSSVJYS1Juc054OHJ0S2dveURhZGNJcVdVSHhLclUtX1lvcXZPTGlDS3hJZC1rNnF2a25Oem1MYk5zVU9uM2FLY2dvb2V3cW9sSUdvXzliUU5acU5GVkhVRVloVEhqZG00Zm5aU2dVdmxCNE4xWjB3YnB1eUpMbmo0TThLdy1ZWG4yMlRlVzRUNTkzaEU?oc=5",
-     "summary": "Meta launches Muse Voice Transcribe with support for 5 Indian languages The Indian Express",
+     "summary": "Meta launches Muse Voice Transcribe with support for 5 Indian languages indianexpress.com",
      "published": "2026-09-02T06:23:37+00:00",
-     "source": "The Indian Express",
+     "source": "indianexpress.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1608,7 +1659,7 @@
      "category_label": "General",
      "figures": [
       "5 Indian languages",
-      "5 Indian languages The Indian Express"
+      "5 Indian languages indianexpress"
      ]
     },
     {
@@ -1687,6 +1738,32 @@
      "id": "45839d75c206",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Cody Rhodes Enlists Millions Of Gamers To Search For John Cena In Clash of Clans-WWE Crossover",
+     "url": "https://sports.ndtv.com/othersports/cody-rhodes-enlists-millions-of-gamers-to-search-for-john-cena-in-clash-of-clans-wwe-crossover-11991346#publisher=newsstand",
+     "summary": "Clash of Clans, which has over two billion lifetime downloads, is back with WWE for a second collaboration; and this time, the rivalry is personal.",
+     "published": "2026-09-02T08:19:28+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/h0pnokag_clash-of-clans_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2ada08198539",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Cristiano Ronaldo's Sister Meets Kerala Chief Minister, Carries A Special Message For CR7",
+     "url": "https://sports.ndtv.com/football/cristiano-ronaldos-sister-meets-kerala-chief-minister-carries-a-special-message-for-cr7-11991062#publisher=newsstand",
+     "summary": "Cristiano Ronaldo's sister Elma Aveiro met Kerala Chief Minister VD Satheeshan during her visit to the state, with their interaction quickly turning into a conversation about Kerala's love for CR7.",
+     "published": "2026-09-02T08:13:11+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/788idndk_elma-aveiro_625x300_02_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "80de13b49eb3",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -1703,11 +1780,37 @@
      "published": "2026-09-01T21:41:05+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86fb/live/90821c60-a695-11f1-a291-b542ee92de7c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f25f/live/d90e5590-a6b6-11f1-aed2-8d6da8d75094.jpg",
      "licence": "linkout",
      "id": "e0595bd1106c",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Watch: Amol Rajan says goodbye to Today programme",
+     "url": "https://www.bbc.co.uk/news/videos/c9v9y7z7mxyo?at_medium=RSS&at_campaign=rss",
+     "summary": "In an emotional message, Rajan thanked his family, team and listeners as he said goodbye to the programme.",
+     "published": "2026-09-02T10:25:08+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a77/live/33dc1290-a6b8-11f1-ae1e-219da1d6451a.jpg",
+     "licence": "linkout",
+     "id": "f695f04e2858",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Gary Glitter pleads not guilty to historical sex offence charges",
+     "url": "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The former singer, whose real name is Paul Gadd, appeared at Southwark Crown Court via video.",
+     "published": "2026-09-02T10:13:19+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4785/live/81ea8370-901c-11f1-b783-f784376ffc11.jpg",
+     "licence": "linkout",
+     "id": "ab48704432bb",
+     "category": "celebrity",
+     "category_label": "Celebrity"
     },
     {
      "title": "In the studio with Kasabian: 'We never thought we'd see success again'",
@@ -1719,35 +1822,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03db/live/3655de80-a5ef-11f1-8348-fb0cb1cd9761.jpg",
      "licence": "linkout",
      "id": "0f5bc927fbf5",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-     "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-     "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
-     "published": "2026-09-01T18:26:12+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4e/live/2eecbe10-a334-11f1-84e6-5f05e8e26a23.png",
-     "licence": "linkout",
-     "id": "fb11d9ff678b",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "30 years ago"
-     ]
-    },
-    {
-     "title": "'A real privilege' - Casualty star to lead drama's 40th anniversary special",
-     "url": "https://www.bbc.co.uk/news/articles/ckg0y07rdplo?at_medium=RSS&at_campaign=rss",
-     "summary": "The BBC medical drama will celebrate the milestone in September with a two-part story.",
-     "published": "2026-09-01T11:17:11+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4375/live/ebe9add0-a5e5-11f1-a019-f3ea5e194221.jpg",
-     "licence": "linkout",
-     "id": "4f4fa063a3dd",
      "category": "general",
      "category_label": "General"
     }
@@ -1799,22 +1873,6 @@
      "category_label": "General",
      "figures": [
       "10 bladder cancers"
-     ]
-    },
-    {
-     "title": "Heart trial after breast cancer has 'improved my life'",
-     "url": "https://www.bbc.co.uk/news/articles/c5ye81nl98do?at_medium=RSS&at_campaign=rss",
-     "summary": "Lucy Shepherd is one of 90 women to take part in a trial helping cancer survivors come off medication.",
-     "published": "2026-09-02T05:10:22+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5585/live/de5fd740-a4a8-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "ede121cec18e",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "90 women to take part"
      ]
     },
     {
