@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T14:03:18.190140+00:00",
+ "generated_at": "2026-09-02T14:37:37.699518+00:00",
  "podcasts_fetched_at": "2026-09-01T22:01:39.218117+00:00",
  "markets": [
   {
@@ -79,20 +79,21 @@
    "value": 77154.0,
    "change": -1092.0,
    "changePct": -1.4,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
   "Nato Russia",
-  "Charlie Kirk",
+  "Many Missing",
   "Jazeera English",
   "News",
   "Anti",
-  "Consul General",
-  "Sonu Sood",
-  "Yemen",
-  "Nepal",
-  "Jailed Joshua"
+  "MSRIT",
+  "Naidu Uttarandhra",
+  "Trumpism",
+  "Palestinians Israeli",
+  "Nepal"
  ],
  "sections": [
   {
@@ -105,7 +106,7 @@
      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-     "published": "2026-09-02T13:04:47+00:00",
+     "published": "2026-09-02T14:34:22+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
@@ -116,51 +117,43 @@
      "from_section": "Global News"
     },
     {
-     "title": "Charlie Kirk murder suspect pleads not guilty to murder charge",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/charlie-kirk-murder-suspect-pleads-not-guilty-to-murder-charge?traffic_source=rss",
-     "summary": "Charlie Kirk murder suspect pleads not guilty to murder charge",
-     "published": "2026-09-02T12:57:45+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/RObinson-1788353849.jpg?resize=1920%2C1417",
-     "licence": "linkout",
-     "id": "2af22ddca8cc",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "9-Year-Old Girl Kidnapped By Uncle, Aunt In Assam, Rescued Hours Later",
-     "url": "https://www.ndtv.com/india-news/9-year-old-girl-kidnapped-by-uncle-aunt-in-assams-mariani-rescued-hours-later-11992449#publisher=newsstand",
-     "summary": "The girl was rescued from Islamnagar in Dergaon around 2 am following a swift police operation.",
-     "published": "2026-09-02T12:05:20+00:00",
+     "title": "'Many Missing Links': Supreme Court Acquits Man In Murder Case",
+     "url": "https://www.ndtv.com/india-news/many-missing-links-supreme-court-acquits-man-in-murder-case-11993115#publisher=newsstand",
+     "summary": "The top court noted that there was no direct evidence of the offence and the entire case against him was based on circumstantial evidence and the theory of \"last seen together\".",
+     "published": "2026-09-02T14:12:49+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/0fc0pok4_supreme-court-of-india-_625x300_26_August_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "02fd313aec3c",
+     "id": "0a5618cd49b6",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
-     "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
-     "summary": "Putin accuses Zelenskyy of 'terrorism', while Ukraine warns foreign airlines against using Russian airspace.",
-     "published": "2026-09-02T12:55:42+00:00",
+     "title": "County Side Forced To Take U-Turn On Kiwi Cricketer, Acquitted In Rape Charge, Over Fan Backlash",
+     "url": "https://sports.ndtv.com/cricket/county-side-forced-to-take-u-turn-on-kiwi-cricketer-acquitted-in-rape-charge-over-fan-backlash-11992254#publisher=newsstand",
+     "summary": "Hampshire said the decision was taken following \"feedback from our staff and supporters\", given the player's controversial past.",
+     "published": "2026-09-02T11:33:50+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2021-04/6c9bef38_scott-kuggeleijn-twitter_625x300_27_April_21.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b4b18135fd72",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Sports"
+    },
+    {
+     "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
+     "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
+     "summary": "Palestinian witnesses recount the coordinated Israeli army and settler attacks on mosques in the occupied West Bank.",
+     "published": "2026-09-02T14:14:34+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a980c3b3cfc-1788349499.jpg?resize=1920%2C1333",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a979ffc1f380-1788321788.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "8ad008ec7318",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-       "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-       "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
-      }
-     ],
+     "id": "91268fb9e47e",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -194,18 +187,35 @@
      "from_section": "Global News"
     },
     {
-     "title": "Goa Assembly passes Bill to drop ‘leprosy’ references from child law to curb stigma",
-     "url": "https://www.thehindu.com/news/national/goa/goa-assembly-passes-bill-to-drop-leprosy-references-from-child-law-to-curb-stigma/article71418822.ece",
-     "summary": "The legislative change aligns with a Supreme Court directive aimed at promoting inclusivity and ensuring that vulnerable populations receive equitable healthcare",
-     "published": "2026-09-02T13:51:57+00:00",
-     "source": "The Hindu",
+     "title": "\"They Should Compare Apples With Apples\": Minister Piyush Goyal On GDP Data Critics",
+     "url": "https://www.ndtv.com/india-news/piyush-goyals-slams-gdp-growth-data-critics-takes-jibes-at-subhash-chandra-garg-raghuram-rajan-11992794#publisher=newsstand",
+     "summary": "\"Ministers do not manufacture this data,\" Commerce Minister Piyush Goyal says on questions over 7.8 per cent GDP growth; suggests critics should \"compare apples with apples\"",
+     "published": "2026-09-02T14:31:56+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2cr1nb/article71418902.ece/alternates/LANDSCAPE_1200/leprosy-iStock-1752238075.jpg",
+     "image": "https://c.ndtvimg.com/2026-07/5evftg58_piyush-goyal_625x300_28_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b62b1cf327a1",
+     "id": "5fdc5f97f2d3",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "from_section": "National News",
+     "figures": [
+      "7.8 per cent GDP growth; suggests critics"
+     ]
+    },
+    {
+     "title": "A.P. CM Naidu stresses river interlinking to transform Uttarandhra into Uttamandhra",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-naidu-stresses-river-interlinking-to-transform-uttarandhra-into-uttamandhra/article71419908.ece",
+     "summary": "The Godavari water will reach Visakhapatnam by next year and Srikakulam in future, realising the goal of its interlinking with Vamsadhara River, says the Chief Minister",
+     "published": "2026-09-02T14:30:10+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/e32akz/article71420283.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%2017.54.13%201.jpeg",
+     "licence": "linkout",
+     "id": "0e9d1f55e734",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
     },
     {
      "title": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05",
@@ -225,18 +235,36 @@
      ]
     },
     {
-     "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-     "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-     "published": "2026-09-02T11:47:11+00:00",
-     "source": "BBC News",
+     "title": "NIT-C sets up Centre for Creative Economy and Public Policy",
+     "url": "https://www.thehindu.com/news/national/kerala/nit-c-sets-up-centre-for-creative-economy-and-public-policy/article71420014.ece",
+     "summary": "The centre to develop and offer courses and electives, and conduct executive education, capacity building and continuing education programmes in public policy, creative economy, and allied areas",
+     "published": "2026-09-02T14:29:25+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "fa0a9425f4a3",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
+     "id": "4af7511e97e2",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
+    },
+    {
+     "title": "₹28 crore annual salary with ₹519 crore equity award: How much will Apple pay Tim Cook and John Ternus?",
+     "url": "https://www.livemint.com/money/28-crore-annual-salary-with-519-crore-equity-award-how-much-will-apple-pay-tim-cook-and-john-ternus-11788358059692.html",
+     "summary": "Apple's compensation plans for Tim Cook and John Ternus include fixed salaries and performance-based RSUs. Check out the detailed breakdown.",
+     "published": "2026-09-02T14:15:55+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/John_Ternus_Tim_Cook_1788358516723_4964791e-c2a7-483a-ae6b-9e99907cc3aa_1788358520705_c40a165a-cb5b-4dcf-b7cd-620ba40d6c5b_ea29f87a-e6ea-4d5a-bb8d-88534375bcb3_0c767b64-1b04-4043-8130-c5cfd06114b3.jpg",
+     "licence": "linkout",
+     "id": "ae698cf6eaf1",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹28 crore annual salary with ₹519",
+      "₹519 crore equity award: How much"
+     ]
     },
     {
      "title": "DA news: Punjab says paying ₹14,191 crore dues in 14 days ‘constitutionally impossible’, challenges HC order",
@@ -256,56 +284,6 @@
       "14 days ‘constitutionally impossible’, challenges",
       "₹14,191 crore in pending DA"
      ]
-    },
-    {
-     "title": "Invested near 2024 market peak? New study reveals lessons from past crashes on SIPs, lump sums and volatility",
-     "url": "https://www.livemint.com/money/personal-finance/invested-near-2024-market-peak-new-study-reveals-lessons-from-past-crashes-on-sips-lump-sums-and-volatility-11788349057005.html",
-     "summary": "Investors who entered equities near the 2024 market highs are facing a prolonged spell of weak returns. But a new study reveals that past market cycles offer important lessons on SIPs, lump sums and staying invested when markets turn volatile.",
-     "published": "2026-09-02T13:19:29+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/market_two_to_1788353590685_fff2f0c7-f678-4f14-97bf-4b17c1d99185_1788353602032_263e9c08-c048-4a88-9e6c-de03d75fe6e0_69245ac3-7d25-46ec-a5d7-70d80ff36148_20622f40-5f57-48d3-95bd-bcd8277e50a5.png",
-     "licence": "linkout",
-     "id": "8827f7fd70ce",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "RBI Floating Rate Savings Bonds: Want to buy offline? Know where to apply, documents, interest and tax rules",
-     "url": "https://www.livemint.com/money/personal-finance/rbi-floating-rate-savings-bonds-want-to-buy-offline-know-where-to-apply-documents-interest-and-tax-rules-11788352509994.html",
-     "summary": "RBI Floating Rate Savings Bonds can be bought offline through authorised receiving offices, but consumers need to know the application process, documents, payment rules and branch requirements.&nbsp;",
-     "published": "2026-09-02T13:15:00+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/j_1788353245024_94e40a0a-66f9-465a-bef9-466ea249113c_1788353245332_ca1d4a01-7f8b-4277-8aab-19aa531cca2f_0d3b6276-f329-4547-b6fd-26f533bccd20_3702b529-b84c-4b8e-a52e-c4ad545f831b.png",
-     "licence": "linkout",
-     "id": "ec5623c51cf0",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Sonu Sood reaches Nepal with flood relief: ‘Will try to bring people’s live back on track’",
-     "url": "https://www.thehindu.com/news/national/sonu-sood-reaches-nepal-with-flood-relief-will-try-to-bring-peoples-live-back-on-track/article71419412.ece",
-     "summary": "The actor said the immediate relief effort includes blankets and food materials, while his team is also assessing the needs of affected communities on the ground",
-     "published": "2026-09-02T14:00:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/szggbb/article71419429.ece/alternates/LANDSCAPE_1200/HRMfswHawAA4c2g.jpg",
-     "licence": "linkout",
-     "id": "8db371b82a8c",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-       "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-       "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages."
-      }
-     ],
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "National News"
     },
     {
      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
@@ -336,32 +314,18 @@
      "from_section": "Culture"
     },
     {
-     "title": "Andhra Pradesh’s literacy rate surpasses national average in last two years",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradeshs-literacy-rate-surpasses-national-average-in-last-two-years/article71419618.ece",
-     "summary": "From 72.60% in 2024 to 82.10% in 2026, against the national average of 80.9%, the turnaround is attributed to ‘Akshara Andhra’ programme launched by the government last year",
-     "published": "2026-09-02T13:59:51+00:00",
-     "source": "The Hindu",
+     "title": "Argentina serves up a Messi-shaped schnitzel as fans say goodbye",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/argentina-serves-up-a-messi-shaped-schnitzel-as-fans-say-goodbye?traffic_source=rss",
+     "summary": "A Messi-shaped schnitzel is on the menu in Buenos Aires, as fans across Argentina pay tribute.",
+     "published": "2026-09-02T13:45:11+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/l01oju/article71420069.ece/alternates/LANDSCAPE_1200/20ONG1nearby1DaG2LGDTELS.3.jpg.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788356558.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "7431b03ffa5a",
+     "id": "d303bbc07ba8",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "National News"
-    },
-    {
-     "title": "Vaishya Sammelan to be held in Belagavi",
-     "url": "https://www.thehindu.com/news/national/karnataka/vaishya-sammelan-to-be-held-in-belagavi/article71419745.ece",
-     "summary": "This is being done with the aim of uniting the various sub-castes of the Vaishya community and to bring community members spread across the world in different sectors under one platform",
-     "published": "2026-09-02T13:51:23+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7am9vj/article71419865.ece/alternates/LANDSCAPE_1200/9727_2_9_2026_18_42_24_1_03BGMSVGMPC1.JPG",
-     "licence": "linkout",
-     "id": "4e5010a4a2b2",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National Hotlines"
+     "from_section": "Global News"
     },
     {
      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
@@ -381,18 +345,21 @@
      ]
     },
     {
-     "title": "Bodies excavated from worst flood-hit district near Nepal-China border",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss",
-     "summary": "Bodies are being excavated from the mud in Nepal's Rusawa district, which was devastated by the glacial flood.",
-     "published": "2026-09-02T12:53:27+00:00",
-     "source": "Al Jazeera",
+     "title": "Heart trial after breast cancer has 'improved my life'",
+     "url": "https://www.bbc.co.uk/news/articles/c5ye81nl98do?at_medium=RSS&at_campaign=rss",
+     "summary": "Lucy Shepherd is one of 90 women to take part in a trial helping cancer survivors come off medication.",
+     "published": "2026-09-02T05:10:22+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788353601.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5585/live/de5fd740-a4a8-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
-     "id": "6acbf4c3c808",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News"
+     "id": "ede121cec18e",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Health & Science",
+     "figures": [
+      "90 women to take part"
+     ]
     },
     {
      "title": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise",
@@ -445,6 +412,24 @@
      "from_section": "Technology"
     },
     {
+     "title": "Summer transfers 2026: All to know as Premier League signings break records",
+     "url": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
+     "summary": "Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.",
+     "published": "2026-09-02T13:58:49+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a97a865-1788323941.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "873d4830e1f1",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News",
+     "figures": [
+      "rs 2026 : All to know",
+      "11 most expensive signings have arrived"
+     ]
+    },
+    {
      "title": "Lionel Messi's Departure Leaves Argentina Facing Rebuild After Golden Era",
      "url": "https://sports.ndtv.com/football/lionel-messis-departure-leaves-argentina-facing-rebuild-after-golden-era-11991861#publisher=newsstand",
      "summary": "Argentina face a testing transition period as they attempt to move on from Lionel Messi's international retirement, with question marks also hanging over the futures of coach Lionel Scaloni and several ageing players.",
@@ -473,29 +458,15 @@
      "from_section": "Sports"
     },
     {
-     "title": "CSK Coach Turns Down England Role, Set To Consult Australia For Ashes",
-     "url": "https://sports.ndtv.com/cricket/csk-coach-turns-down-england-role-set-to-consult-australia-for-ashes-11990697#publisher=newsstand",
-     "summary": "Australia are set to receive a major boost ahead of the 2027 Ashes series against England, with former batter taking up a part-time consultancy role.",
-     "published": "2026-09-02T11:04:49+00:00",
-     "source": "NDTV Sports",
+     "title": "Traffic overhaul likely in Madhapur, Raidurgam IT corridor",
+     "url": "https://www.thehindu.com/news/national/telangana/traffic-overhaul-likely-in-madhapur-raidurgam-it-corridor/article71420165.ece",
+     "summary": "",
+     "published": "2026-09-02T14:28:19+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/paqbtrcc_michael-hussey-getty_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "3cf3b0753012",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
-     "title": "After Finding God Particle, CERN Eyes Universe's Biggest Mystery: Dark Matter",
-     "url": "https://www.ndtv.com/india-news/after-finding-god-particle-cern-eyes-universes-biggest-mystery-dark-matter-11992380#publisher=newsstand",
-     "summary": "The world's largest particle accelerator is now preparing for its next major scientific challenge: understanding dark matter, the invisible substance believed to account for a large share of the universe's mass but which has never been directly detected.",
-     "published": "2026-09-02T11:52:27+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/u2v3kqsk_cern_625x300_02_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "332268d82647",
+     "id": "6772bcc525db",
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "National News"
@@ -531,7 +502,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-02T14:03:06.350676+00:00",
+     "published": "2026-09-02T14:37:24.669411+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -542,7 +513,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-02T14:03:06.350685+00:00",
+     "published": "2026-09-02T14:37:24.669424+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -553,7 +524,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-02T14:03:06.350688+00:00",
+     "published": "2026-09-02T14:37:24.669428+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -564,7 +535,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-02T14:03:06.350691+00:00",
+     "published": "2026-09-02T14:37:24.669431+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -575,7 +546,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-02T14:03:06.350693+00:00",
+     "published": "2026-09-02T14:37:24.669434+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -586,7 +557,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-02T14:03:06.350695+00:00",
+     "published": "2026-09-02T14:37:24.669437+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -622,106 +593,106 @@
    "upsc": false,
    "items": [
     {
-     "title": "Consul-General of Japan in Chennai calls on Vijay",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/consul-general-of-japan-in-chennai-calls-on-vijay/article71419524.ece",
+     "title": "MSRIT welcomes new engineering batch",
+     "url": "https://www.thehindu.com/news/national/karnataka/msrit-welcomes-new-engineering-batch/article71419872.ece",
      "summary": "",
-     "published": "2026-09-02T14:00:36+00:00",
+     "published": "2026-09-02T14:30:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/tbs4w8/article71420076.ece/alternates/LANDSCAPE_1200/CM-Japan.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/3zlf79/article71420343.ece/alternates/LANDSCAPE_1200/Photo.JPEG",
      "licence": "linkout",
-     "id": "121caa43ffaa",
+     "id": "35f5f3b066e6",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Sonu Sood reaches Nepal with flood relief: ‘Will try to bring people’s live back on track’",
-     "url": "https://www.thehindu.com/news/national/sonu-sood-reaches-nepal-with-flood-relief-will-try-to-bring-peoples-live-back-on-track/article71419412.ece",
-     "summary": "The actor said the immediate relief effort includes blankets and food materials, while his team is also assessing the needs of affected communities on the ground",
-     "published": "2026-09-02T14:00:10+00:00",
+     "title": "A.P. CM Naidu stresses river interlinking to transform Uttarandhra into Uttamandhra",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-naidu-stresses-river-interlinking-to-transform-uttarandhra-into-uttamandhra/article71419908.ece",
+     "summary": "The Godavari water will reach Visakhapatnam by next year and Srikakulam in future, realising the goal of its interlinking with Vamsadhara River, says the Chief Minister",
+     "published": "2026-09-02T14:30:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/szggbb/article71419429.ece/alternates/LANDSCAPE_1200/HRMfswHawAA4c2g.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/e32akz/article71420283.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%2017.54.13%201.jpeg",
      "licence": "linkout",
-     "id": "8db371b82a8c",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-       "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-       "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages."
-      }
-     ],
-     "category": "celebrity",
-     "category_label": "Celebrity"
+     "id": "0e9d1f55e734",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "BRS releases chargesheet, calls Congress rule a ‘criminal waste’",
-     "url": "https://www.thehindu.com/news/national/telangana/brs-releases-chargesheet-calls-congress-rule-a-criminal-waste/article71419905.ece",
-     "summary": "",
-     "published": "2026-09-02T13:59:58+00:00",
+     "title": "NIT-C sets up Centre for Creative Economy and Public Policy",
+     "url": "https://www.thehindu.com/news/national/kerala/nit-c-sets-up-centre-for-creative-economy-and-public-policy/article71420014.ece",
+     "summary": "The centre to develop and offer courses and electives, and conduct executive education, capacity building and continuing education programmes in public policy, creative economy, and allied areas",
+     "published": "2026-09-02T14:29:25+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jecosy/article71420118.ece/alternates/LANDSCAPE_1200/K%20T%20Rama%20Rao%2005.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "9ade8b023743",
-     "category": "general",
-     "category_label": "General"
+     "id": "4af7511e97e2",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "Issue birth, death certificates at Hubballi-Dharwad Municipal Corporation office from today: Vinay Kulkarni to officials",
-     "url": "https://www.thehindu.com/news/national/karnataka/issue-birth-death-certificates-at-hubballi-dharwad-municipal-corporation-office-from-today-vinay-kulkarni-to-officials/article71419726.ece",
-     "summary": "",
-     "published": "2026-09-02T13:59:22+00:00",
+     "title": "Calicut varsity’s project for children with disabilities to be extended",
+     "url": "https://www.thehindu.com/news/national/kerala/calicut-varsitys-project-for-children-with-disabilities-to-be-extended/article71419824.ece",
+     "summary": "The pilot project, an extension centre of the Department of Psychology, was launched in 2015. Children aged below 18 with developmental disabilities are given comprehensive, evidence-based disability management and rehabilitation services",
+     "published": "2026-09-02T14:26:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uj32un/article71420082.ece/alternates/LANDSCAPE_1200/2699_2_9_2026_18_49_31_1_03HUBLIVINAY_REVIEW.JPEG",
+     "image": "https://th-i.thgim.com/public/incoming/xiwq8v/article71420314.ece/alternates/LANDSCAPE_1200/14TVEPCALICUT.jpg",
      "licence": "linkout",
-     "id": "d752425ec99e",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Ayodhya Ram Temple Gets Air Force Veteran As CEO, 3 New Members",
-     "url": "https://www.ndtv.com/india-news/retired-air-marshal-jitendra-mishra-to-be-ayodhya-ram-temples-new-ceo-11992100#publisher=newsstand",
-     "summary": "Air Marshal (Retired) Mishra was commissioned in the Indian Air Force as a fighter pilot in December 1986. He retired in May 2026 after serving for over 38 years.",
-     "published": "2026-09-02T12:14:42+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/fipia6tk_air-marshal-jitendra-mishra_650x400_02_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "41783ffde49d",
+     "id": "fb68aeead0dc",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "38 years"
+      "18 with developmental disabilities are given"
      ]
     },
     {
-     "title": "Opinion: Opinion | What 'Lalmunia Ki Mai' Can Teach Us About Feminism And Smashing Patriarchy",
-     "url": "https://www.ndtv.com/opinion/what-lalmunia-ki-mai-can-teach-us-about-feminism-and-smashing-patriarchy-11992333#publisher=newsstand",
-     "summary": "",
-     "published": "2026-09-02T12:14:23+00:00",
+     "title": "Cockpit To Ayodhya: The Op Sindoor Veteran Who Will Head Ram Temple Trust",
+     "url": "https://www.ndtv.com/india-news/cockpit-to-ayodhya-the-op-sindoor-veteran-who-will-head-ram-temple-trust-11993281#publisher=newsstand",
+     "summary": "Mishra spent more than 38 years in the Air Force, rising to become Air Officer Commanding-in-Chief of Western Air Command, which oversees operations along India's western and northern borders.",
+     "published": "2026-09-02T14:24:51+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2019-10/ujh6g4no_rural-women_625x300_15_October_19.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/3ma21ais_jeetendra-mishra_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "935bfd8b3108",
+     "id": "5c25ce2ab841",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "38 years in the Air Force"
+     ]
+    },
+    {
+     "title": "\"She Should Respect Other Women\": BJP Attacks Swara Bhasker Over Padmaavat Comment",
+     "url": "https://www.ndtv.com/india-news/she-should-respect-other-women-bjp-attacks-swara-bhasker-over-padmaavat-comment-11993180#publisher=newsstand",
+     "summary": "Swara Bhasker had at a recent event said a tradition such 'jauhar' shown in the movie implies \"I would feel like a coward [if] I didn't kill myself to 'save my honour'\".",
+     "published": "2026-09-02T14:07:07+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/lognbscg_swara-bhasker_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "66300dd9b103",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "\"19th Century Views\": Keralam Chief Minister Rejects Grand Mufti's Remarks On Women",
-     "url": "https://www.ndtv.com/india-news/19th-century-views-keralam-chief-minister-rejects-grand-muftis-remarks-on-women-11992149#publisher=newsstand",
-     "summary": "Kanthapuram has said bringing women into the public sphere would lead to \"great destruction\" and that Islam prescribed purdah to prevent it.",
-     "published": "2026-09-02T11:12:51+00:00",
+     "title": "12 Dead Across Uttarakhand Since Yesterday, Heavy Rain Alert For 3 Districts",
+     "url": "https://www.ndtv.com/india-news/12-dead-across-uttarakhand-since-yesterday-heavy-rain-alert-for-3-districts-11992952#publisher=newsstand",
+     "summary": "According to the State Emergency Operations Centre (SEOC) and the State Disaster Response Force (SDRF), 12 people died in rain-related incidents in the state on Tuesday.",
+     "published": "2026-09-02T14:06:49+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/4mtuhdf_satheesan_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/2d8lcbn_uttarakhand-rain_625x300_02_September_26.jpeg",
      "licence": "linkout",
-     "id": "be4a6a7b0826",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "088012d26908",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "12 Dead Across Uttarakhand Since Yesterday",
+      "3 Districts",
+      "12 people died in rain-related incidents"
+     ]
     }
    ]
   },
@@ -732,64 +703,73 @@
    "upsc": false,
    "items": [
     {
-     "title": "In Yemen, dates provide lifeline for farmers with few economic options",
-     "url": "https://www.aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options?traffic_source=rss",
-     "summary": "Hindered by poor infrastructure and climate challenges, farmers in Yemen cling to traditional methods to harvest dates.",
-     "published": "2026-09-02T13:29:51+00:00",
+     "title": "How Trumpism is changing the world",
+     "url": "https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss",
+     "summary": "This US presidency is rewriting the rules of global governance and ushering the world into a new era.",
+     "published": "2026-09-02T14:15:17+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_2279-1788311061.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8c6d008b28-1787587840.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "eed12529a920",
+     "id": "a93c32cca42d",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Charlie Kirk murder suspect pleads not guilty to murder charge",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/charlie-kirk-murder-suspect-pleads-not-guilty-to-murder-charge?traffic_source=rss",
-     "summary": "Charlie Kirk murder suspect pleads not guilty to murder charge",
-     "published": "2026-09-02T12:57:45+00:00",
+     "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
+     "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
+     "summary": "Palestinian witnesses recount the coordinated Israeli army and settler attacks on mosques in the occupied West Bank.",
+     "published": "2026-09-02T14:14:34+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/RObinson-1788353849.jpg?resize=1920%2C1417",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a979ffc1f380-1788321788.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "2af22ddca8cc",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
-     "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
-     "summary": "Putin accuses Zelenskyy of 'terrorism', while Ukraine warns foreign airlines against using Russian airspace.",
-     "published": "2026-09-02T12:55:42+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a980c3b3cfc-1788349499.jpg?resize=1920%2C1333",
-     "licence": "linkout",
-     "id": "8ad008ec7318",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-       "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-       "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
-      }
-     ],
+     "id": "91268fb9e47e",
      "category": "conflict",
      "category_label": "War & conflict"
     },
     {
-     "title": "What is Iran’s Castle Breaker missile, used against US bases?",
-     "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
-     "summary": "Kheibar Shekan, Iran's medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
-     "published": "2026-09-02T12:38:39+00:00",
+     "title": "Summer transfers 2026: All to know as Premier League signings break records",
+     "url": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
+     "summary": "Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.",
+     "published": "2026-09-02T13:58:49+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a97e38f-1788339087.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a97a865-1788323941.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "c25b817c347d",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "873d4830e1f1",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "rs 2026 : All to know",
+      "11 most expensive signings have arrived"
+     ]
+    },
+    {
+     "title": "Tiger Woods pleads guilty to reckless driving, forfeits driving licence",
+     "url": "https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss",
+     "summary": "Golfer's driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.",
+     "published": "2026-09-02T13:44:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26245463571248-1788354976.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "021f6aa760ad",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+     "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+     "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+     "published": "2026-09-02T11:47:11+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "fa0a9425f4a3",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
@@ -798,7 +778,7 @@
      "published": "2026-09-02T10:04:28+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f1/live/abdafbf0-a6b6-11f1-b109-879e35c24276.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/eb5af6f0-a6d8-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
      "id": "27e775b718f5",
      "category": "general",
@@ -868,7 +848,7 @@
      "published": "2026-09-02T10:04:28+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f1/live/abdafbf0-a6b6-11f1-b109-879e35c24276.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/eb5af6f0-a6d8-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
      "id": "27e775b718f5",
      "category": "general",
@@ -915,92 +895,92 @@
    "upsc": false,
    "items": [
     {
-     "title": "Andhra Pradesh’s literacy rate surpasses national average in last two years",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradeshs-literacy-rate-surpasses-national-average-in-last-two-years/article71419618.ece",
-     "summary": "From 72.60% in 2024 to 82.10% in 2026, against the national average of 80.9%, the turnaround is attributed to ‘Akshara Andhra’ programme launched by the government last year",
-     "published": "2026-09-02T13:55:24+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/l01oju/article71420069.ece/alternates/LANDSCAPE_1200/20ONG1nearby1DaG2LGDTELS.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "7431b03ffa5a",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "Ram Temple Trust appoints Air Marshal Jitendra Mishra (Retd.) as first CEO",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/air-marshal-retd-jeetendra-mishra-appointed-first-ceo-of-ram-temple-trust/article71419469.ece",
-     "summary": "Mahesh Bhagchandka, Madan Mohan Pandey, and Nirmala Yadav are appointed as trustees; Bhagchandka will take charge as treasurer; Swami Govind Dev Giri to continue as the Trust’s general secretary",
-     "published": "2026-09-02T13:54:59+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/g34olv/article71419486.ece/alternates/LANDSCAPE_1200/3122b020-b980-47a7-a47c-b623d7264679.jpg",
-     "licence": "linkout",
-     "id": "915beb37f8e7",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Issue birth, death certificates at Hubballi-Dharwad Municipal Corporation office from today: Vinay Kulkarni to officials",
-     "url": "https://www.thehindu.com/news/national/karnataka/issue-birth-death-certificates-at-hubballi-dharwad-municipal-corporation-office-from-today-vinay-kulkarni-to-officials/article71419726.ece",
+     "title": "MSRIT welcomes new engineering batch",
+     "url": "https://www.thehindu.com/news/national/karnataka/msrit-welcomes-new-engineering-batch/article71419872.ece",
      "summary": "",
-     "published": "2026-09-02T13:54:45+00:00",
+     "published": "2026-09-02T14:30:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uj32un/article71420082.ece/alternates/LANDSCAPE_1200/2699_2_9_2026_18_49_31_1_03HUBLIVINAY_REVIEW.JPEG",
+     "image": "https://th-i.thgim.com/public/incoming/3zlf79/article71420343.ece/alternates/LANDSCAPE_1200/Photo.JPEG",
      "licence": "linkout",
-     "id": "d752425ec99e",
+     "id": "35f5f3b066e6",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "‘TIRUPEX 2026’ releases special postal covers celebrating Tirumala’s heritage",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirupex-2026-releases-special-postal-covers-celebrating-tirumalas-heritage/article71419465.ece",
-     "summary": "Releasing the covers, TTD Additional Executive Officer says philately means more than merely collecting stamps, as it is also about learning a country’s history, traditions, heritage and culture; event will be held at S.R. Function Hall in Gollavanigunta till August 3 evening",
-     "published": "2026-09-02T13:54:23+00:00",
+     "title": "A.P. CM Naidu stresses river interlinking to transform Uttarandhra into Uttamandhra",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-naidu-stresses-river-interlinking-to-transform-uttarandhra-into-uttamandhra/article71419908.ece",
+     "summary": "The Godavari water will reach Visakhapatnam by next year and Srikakulam in future, realising the goal of its interlinking with Vamsadhara River, says the Chief Minister",
+     "published": "2026-09-02T14:30:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r7d66t/article71420030.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%2017.07.13.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/e32akz/article71420283.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%2017.54.13%201.jpeg",
      "licence": "linkout",
-     "id": "de6a5d8f393e",
+     "id": "0e9d1f55e734",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "NIT-C sets up Centre for Creative Economy and Public Policy",
+     "url": "https://www.thehindu.com/news/national/kerala/nit-c-sets-up-centre-for-creative-economy-and-public-policy/article71420014.ece",
+     "summary": "The centre to develop and offer courses and electives, and conduct executive education, capacity building and continuing education programmes in public policy, creative economy, and allied areas",
+     "published": "2026-09-02T14:29:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "4af7511e97e2",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Supreme Court orders oversight by AG, SG in BCI policy decisions ahead of polls",
+     "url": "https://www.thehindu.com/news/national/sc-orders-oversight-by-ag-sg-in-bci-policy-decisions-ahead-of-polls/article71419128.ece",
+     "summary": "The top court says Manan Kumar Mishra is only pro-tem chief, limited to Bar Council of India’s day-to-day functioning only",
+     "published": "2026-09-02T14:25:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/axicsj/article71419262.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-13%20220912.jpg",
+     "licence": "linkout",
+     "id": "2435084e89fb",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "50:50 scheme sites: MLA Srivatsa urges govt. to set up Help Centre in MDA",
+     "url": "https://www.thehindu.com/news/national/karnataka/5050-scheme-sites-mla-srivatsa-urges-govt-to-set-up-help-centre-in-mda/article71419973.ece",
+     "summary": "",
+     "published": "2026-09-02T14:25:36+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/mt07en/article71420274.ece/alternates/LANDSCAPE_1200/5964_2_9_2026_19_16_31_1_MDA.JPG",
+     "licence": "linkout",
+     "id": "8cb9d6191015",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "3 evening"
+      "50 scheme sites: MLA Srivatsa urges"
      ]
     },
     {
-     "title": "Arunachal’s Keyi Panyor plans to be India’s first ‘bio-happy district’",
-     "url": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachals-keyi-panyor-plans-to-be-indias-first-bio-happy-district/article71419407.ece",
-     "summary": "Local MLA Toko Tatung presents the development vision of one of the country’s youngest districts at an international summit in Bhutan",
-     "published": "2026-09-02T13:54:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3ola71/article71420083.ece/alternates/LANDSCAPE_1200/xnxTLsRk_400x400.jpg",
-     "licence": "linkout",
-     "id": "c9d878a7404c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Gollala Gudi near Ramappa temple in Palampet declared site of national importance by ASI",
-     "url": "https://www.thehindu.com/news/national/telangana/gollala-gudi-near-ramappa-temple-in-palampet-declared-site-of-national-importance-by-asi/article71419922.ece",
+     "title": "Shivamogga DC directs officers to auction seized sand as per law",
+     "url": "https://www.thehindu.com/news/national/karnataka/shivamogga-dc-directs-officers-to-auction-seized-sand-as-per-law/article71420133.ece",
      "summary": "",
-     "published": "2026-09-02T13:53:21+00:00",
+     "published": "2026-09-02T14:22:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/q7u3tl/article71419919.ece/alternates/LANDSCAPE_1200/Gollala%20Gudi%20%203.jpg.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/74i0eo/article71420282.ece/alternates/LANDSCAPE_1200/9911_2_9_2026_19_30_16_2_DC_MEETING_2.JPEG",
      "licence": "linkout",
-     "id": "f8ddb6efceea",
+     "id": "5334f8ca61d3",
      "category": "general",
      "category_label": "General"
     },
     {
      "title": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbUVtOUxmV0ZtMHh0M01NWDRQN0ItVlNBd3ZvZVI0bUJLRnEyT3p2Xy1Hb1N6ZDdmME1LVUt6NzRkNzVyTmdydGxQS3VkSm5iTWY4N0JOWThfLWw0Y0VxVkFDSTZrSzhSZHNiZFZpQmVaai1JOUFqQVQ2MmNNREVRTGI2YTJ0NmVYY1VPSHNoc1g2bWxRU01jMFVtWWNtMVJpWXFMbmhWOA?oc=5",
-     "summary": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling News On AIR",
+     "summary": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling newsonair.gov.in",
      "published": "2026-09-02T10:37:31+00:00",
-     "source": "News On AIR",
+     "source": "newsonair.gov.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1167,209 +1147,6 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Seen and silenced: How Russian surveillance software suppresses Georgian civilians rights",
-     "url": "https://globalvoices.org/2026/09/01/seen-and-silenced-how-russian-surveillance-software-suppresses-georgian-civilians-rights/",
-     "summary": "Over the two years, the Georgian government built a comprehensive face recognition enforcement system, procured by a Moscow-based company with ties to the FSB. The impact on demonstrators is appalling.",
-     "published": "2026-09-01T14:14:03+00:00",
-     "source": "Global Voices",
-     "byline": "Guest Contributor",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/08/sheldon-kennedy-FvZEPMoRaUA-unsplash-800x450.webp",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "The facial recognition system in Georgia is bought from Moscow"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "Photo by Sheldon Kennedy on Unsplash"
-      },
-      {
-       "kind": "p",
-       "text": "This article was originally published on Algorithm Watch on June 27, 2026. This edited version is republished on Global Voices under a Creative Commons Attribution 4.0 International license (CC BY 4.0)."
-      },
-      {
-       "kind": "p",
-       "text": "Over the past two years, the Georgian government has built a comprehensive face recognition enforcement system, procured by a Moscow-based company with ties to the Federal Security Service (FSB), and its impact on demonstrators is troubling."
-      },
-      {
-       "kind": "p",
-       "text": "In mid-March 2025, Nino, a Georgian in her 40s, received a call from the Tbilisi City Court, which summoned her to a hearing for blocking a road in the Georgian capital city two and a half months earlier. The call took her by surprise. Nino had protested against the alleged rigging of the last elections as well as the suspension of EU integration talks. She had known for a long time that the protest site surrounding the Georgian Parliament was covered with surveillance cameras, but had not considered them to be so effective at identifying her."
-      },
-      {
-       "kind": "p",
-       "text": "At the hearing, Nino saw footage of herself at the protest; she was accused of initiating a blockade of the road. The system had identified her through face recognition software and processed her as an unlawful protester — the imposed fine amounted to GEL 5,000 (around EUR 1,620 or USD 1,878). Five months later, Nino’s bank accounts were frozen. She was forced to set up a crowdfunding campaign to pay off the fine."
-      },
-      {
-       "kind": "p",
-       "text": "Like many others in Tbilisi, Nino could not afford the risk of receiving any more fines and largely stopped protesting. Her case resonated with many other Georgians who, since 2025, have stopped attending demonstrations against the ruling Georgian Dream party, in power since 2012 and dominated behind the scenes by its founder Bidzina Ivanishvili, a billionaire whose fortune was built in post-Soviet Russia."
-      },
-      {
-       "kind": "p",
-       "text": "The recent surveillance mechanisms, involving face recognition software and an extensive network of AI-enabled cameras, helped authorities achieve what physical force alone could not: breaking the protest movement."
-      },
-      {
-       "kind": "h",
-       "text": "From EU candidacy to authoritarian repression"
-      },
-      {
-       "kind": "p",
-       "text": "In 2023, Georgia was granted the status of EU candidate, a milestone that for many citizens meant far more than a diplomatic formality. Following the allegedly rigged parliamentary elections of October 26, 2024, many Georgians took to the streets and protested for 580 days in a row. The European Parliament called for a re-run of the vote."
-      },
-      {
-       "kind": "p",
-       "text": "In response, Prime Minister Irakli Kobakhidze announced that his government was suspending the EU accession process until 2028. The halt is widely considered unconstitutional, as the Georgian Constitution requires all public bodies to facilitate the accession, which 86 percent of Georgians supported."
-      },
-      {
-       "kind": "p",
-       "text": "Demonstrators have been progressively stripped of their rights. In 2023 assembly required no permit and freedom of expression was guaranteed; by 2024, covering one’s face was considered an administrative offense, and the penalty for blocking a road rose from GEL 500 (EUR 165 or USD 192) to GEL 5,000 (EUR 1,654 or USD 1,920)."
-      },
-      {
-       "kind": "p",
-       "text": "In 2025, both acts became criminal offenses, and even gathering required state registration. By 2026, calling the government illegitimate or criticizing it online using terms deemed offensive also became a criminal act, leaving Transparency International to conclude that “the laws amended by Georgian Dream have effectively abolished the freedom of assembly guaranteed by the Constitution of Georgia.”"
-      },
-      {
-       "kind": "h",
-       "text": "Face recognition: the crackdown’s technological backbone"
-      },
-      {
-       "kind": "p",
-       "text": "By December 2024, protests had spread across dozens of cities in Georgia, with many local outlets describing them as the largest demonstrations since the country’s independence in 1990."
-      },
-      {
-       "kind": "p",
-       "text": "The government responded forcibly, with the police used water cannons and rubber bullets on demonstrators. Beatings were documented: the Public Defender’s Office recorded 282 cases of physical abuse, and at least 486 people were detained in November and December 2024 alone. Still, the crowds kept returning, spending Christmas and New Year’s Eve on the street. Thematic protests led by teachers, musicians, athletes, and doctors arose, spreading to 37 of Georgia’s 55 cities and more than 40 cities abroad."
-      },
-      {
-       "kind": "p",
-       "text": "Then, once the authorities were able to accurately identify demonstrators, the fines began to arrive. By March 2025, at least GEL 2 million (around EUR 640,000 or USD 767,893) worth of penalties had been imposed on protesters. At first, people did not know how they could have been spotted so easily. The answer, however, had been in place for years."
-      },
-      {
-       "kind": "h",
-       "text": "Under the wing of Russian surveillance machines"
-      },
-      {
-       "kind": "p",
-       "text": "Georgia’s surveillance infrastructure is called Polyface; its Ministry of Internal Affairs has been procuring the facial recognition system from Papillon AO, a Moscow-based company that has been sanctioned by several countries. Its products are used primarily by Russian law enforcement and autocracies close to Russia, including Tajikistan, Turkmenistan, Kazakhstan, and Belarus."
-      },
-      {
-       "kind": "p",
-       "text": "Russia, now providing surveillance technology to Georgia, invaded the country in August 2008 in a five-day war, after which it recognized — unlike the international community — the breakaway regions of South Ossetia and Abkhazia as independent states. Russian troops have remained there ever since. Nearly two decades later, Moscow still controls roughly 20 percent of Georgian territory."
-      },
-      {
-       "kind": "p",
-       "text": "According to a 2018 upgrade contract, ministry operators would have been trained directly by Russian personnel. Papillon AO, like any other Russian company operating in Georgia, is obliged by Russian law to cooperate with Russian security services if compelled."
-      },
-      {
-       "kind": "p",
-       "text": "Meanwhile, procurement documents show that Georgia’s Ministry of Internal Affairs has been expanding its facial recognition capabilities. Several demonstrators interviewed for this article saw themselves in the footage for the first time during the hearings and admitted to being shocked about how precisely they were captured by the system."
-      },
-      {
-       "kind": "p",
-       "text": "One protester, Elene, recounted that Levani, a friend of hers, “was barely at the edge of the frame, but the camera was zoomed in to the point where every expression, every smile, was visible. It was unimaginable.”"
-      },
-      {
-       "kind": "h",
-       "text": "Through the lens of the system"
-      },
-      {
-       "kind": "p",
-       "text": "Polyface 3.7.0, the latest upgrade purchased by the Ministry of Internal Affairs, was delivered in early June 2025. Polyface is built on a deep learning recognition algorithm developed by 3DiVi, a Russian AI company based in Novosibirsk and backed by a Russian state venture fund. It records high-definition images of large crowds, even in poor lighting, and can identify faces that are under masks or partially occluded."
-      },
-      {
-       "kind": "p",
-       "text": "The tender documents show that the ministry explicitly requested licenses for an unlimited number of operators; the change suggests a rising demand within the ministry to monitor larger demonstrations."
-      },
-      {
-       "kind": "p",
-       "text": "To match faces to identities, the system uses the Unified Information Bank, which provides access to civil registry photographs. The software can also run searches against pre-loaded images from social media and other external sources – a feature the ministry requested in 2024, indicating cross-platform surveillance as an intended use."
-      },
-      {
-       "kind": "p",
-       "text": "This investigation has identified three ways in which the software may be used. Automated identification allows Polyface to scan a live camera feed, select each searchable face in the crowd, and capture an image that can identify the person. It then moves on to the next face. This process runs continuously, without a human."
-      },
-      {
-       "kind": "p",
-       "text": "In contrast, operator-directed search allows a staff member to take manual control of a camera, point it at a specific person, zoom in, and run an image of the face against the database in real time. Finally, watchlist alerts function by loading a list of people of interest (e.g. activists, protest organizers, previously fined demonstrators, etc.) into the system in advance. When a camera spots people from this list, Polyface flags them."
-      },
-      {
-       "kind": "h",
-       "text": "Uncertainty as a pressure of its own"
-      },
-      {
-       "kind": "p",
-       "text": "Early on, activists set up funds: people donated money, the funds paid the penalties, and the protest could keep going. “At first,” says Elene, “being fined felt almost like a badge – people would fundraise for you, there was solidarity.” Then, the government seized the funds’ accounts, leaving demonstrators on their own."
-      },
-      {
-       "kind": "p",
-       "text": "Because the fines would arrive weeks or months later, demonstrators understood that attending a protest was no longer a one-time act; it had become a searchable data record."
-      },
-      {
-       "kind": "p",
-       "text": "“The software doesn’t only identify who someone is – it can reconstruct a full protest history: when a person arrived, how long they stayed, how many times they came back,” explains Georgian cybersecurity expert Giorgi Lubaretsi. “Once identified at one protest, the system can locate them across every other recorded event.”"
-      },
-      {
-       "kind": "h",
-       "text": "Chilling effect gathers momentum"
-      },
-      {
-       "kind": "p",
-       "text": "Demonstrators described how they stopped chanting, using whistles, carrying posters, taking pictures, or even wearing distinctive clothes out of fear of identification. “I became paranoid,” recalls 22-year-old Tamuna, a student and frequent protester. “I would start covering my face the moment I left home, and I wore neutral clothes, but I still felt I could be identified.”"
-      },
-      {
-       "kind": "p",
-       "text": "Face masks worn by demonstrators for protection made the protest itself feel unrecognizable. “When everyone started wearing masks,” says Nino, “I started feeling anxious at Rustaveli. You can’t see faces, you lose contact, you can’t recognize people. It’s very stressful.”"
-      },
-      {
-       "kind": "p",
-       "text": "The chilling effect reduced both the scale of demonstrations and people’s willingness to show up. “The scale changed enormously,” Nino confirms. “When the funds were seized too, and there was no more hope of help, far fewer people came out.”"
-      },
-      {
-       "kind": "p",
-       "text": "For Tamuna, the fear kicked in gradually: “I changed my route to protests. I started covering my face; then, they criminalized face covering, too. I wanted to avoid the penalties – I had to. Fear was one of the main reasons why I stopped going.”"
-      },
-      {
-       "kind": "p",
-       "text": "The moral distance between those who still risk attending the protests and those who can no longer afford to is increasing. Luka, a winemaker, still goes to protests regularly and is angry at people like Nino who have stopped. “Honestly, I’m surprised by people who stopped going because of fines. If they hadn’t been scared back when masks were allowed [to avoid cameras], standing on pavements was allowed and there were a thousand ways out, we’d be standing stronger now.”"
-      },
-      {
-       "kind": "h",
-       "text": "The democratic facade"
-      },
-      {
-       "kind": "p",
-       "text": "Face recognition systems are not unique to authoritarian states; what differs is the political will."
-      },
-      {
-       "kind": "p",
-       "text": "Eto Buziashvili, a researcher at the Atlantic Council’s Digital Forensic Research Lab in Washington, United States, explains: “Papillon Systems is a core part of the Russian security infrastructure. Integrating this kind of biometric technology into the national infrastructure represents a substantial risk to Georgia’s national security. Integrity attacks could involve software being programmed to ‘ignore’ particular individuals, for example, to ignore a foreign intelligence officer of a hostile country, while creating a detailed map of the power structure within the host country.”"
-      },
-      {
-       "kind": "p",
-       "text": "Buziashvili recalls Russia’s invasion of Georgia in 2008, when Georgian internet traffic was re-routed through Russian servers and used as a main tactic to isolate the Georgian government. “When an adversary gains access to face recognition archives, they can use the database for intelligence profiling. There is a tragic precedent: during the Taliban’s takeover of Afghanistan, they inherited US-built biometric systems and used them to identify and target Afghans who had worked with the United States.”"
-      },
-      {
-       "kind": "p",
-       "text": "Standing on a pavement without state registration is now a criminal offense, punishable by jail. The cost of attending a protest in Georgia is now freedom. What’s at stake is the most basic question of Georgia’s post-Soviet existence: which direction does the country want to take? What the cameras record, in the end, is not disorder. It is the constitutional right to demand that Georgia keeps the European future its citizens have voted for."
-      },
-      {
-       "kind": "p",
-       "text": "Five hundred and eighty days in, hundreds, if not thousands, still gather at Rustaveli every evening, each of them being watched."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "1b773245568f",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "4.0 International license (CC BY 4"
-     ]
     }
    ]
   },
@@ -1599,6 +1376,32 @@
      "category_label": "General"
     },
     {
+     "title": "Invested near 2024 market peak? New study reveals lessons from past crashes on SIPs, lump sums and volatility",
+     "url": "https://www.livemint.com/money/personal-finance/invested-near-2024-market-peak-new-study-reveals-lessons-from-past-crashes-on-sips-lump-sums-and-volatility-11788349057005.html",
+     "summary": "Investors who entered equities near the 2024 market highs are facing a prolonged spell of weak returns. But a new study reveals that past market cycles offer important lessons on SIPs, lump sums and staying invested when markets turn volatile.",
+     "published": "2026-09-02T13:19:29+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/market_two_to_1788353590685_fff2f0c7-f678-4f14-97bf-4b17c1d99185_1788353602032_263e9c08-c048-4a88-9e6c-de03d75fe6e0_69245ac3-7d25-46ec-a5d7-70d80ff36148_20622f40-5f57-48d3-95bd-bcd8277e50a5.png",
+     "licence": "linkout",
+     "id": "8827f7fd70ce",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "RBI Floating Rate Savings Bonds: Want to buy offline? Know where to apply, documents, interest and tax rules",
+     "url": "https://www.livemint.com/money/personal-finance/rbi-floating-rate-savings-bonds-want-to-buy-offline-know-where-to-apply-documents-interest-and-tax-rules-11788352509994.html",
+     "summary": "RBI Floating Rate Savings Bonds can be bought offline through authorised receiving offices, but consumers need to know the application process, documents, payment rules and branch requirements.&nbsp;",
+     "published": "2026-09-02T13:15:00+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/j_1788353245024_94e40a0a-66f9-465a-bef9-466ea249113c_1788353245332_ca1d4a01-7f8b-4277-8aab-19aa531cca2f_0d3b6276-f329-4547-b6fd-26f533bccd20_3702b529-b84c-4b8e-a52e-c4ad545f831b.png",
+     "licence": "linkout",
+     "id": "ec5623c51cf0",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "EPF Passbook: How to check if your monthly PF contribution is credited? What happens when you change jobs? Explained",
      "url": "https://www.livemint.com/money/personal-finance/epf-passbook-how-to-check-if-your-monthly-pf-contribution-is-credited-what-happens-when-you-change-jobs-explained-11788352496500.html",
      "summary": "Provident fund deposits are crucial for retirement security, yet errors in contributions often go unnoticed. Regular passbook checks ensure accuracy, allowing employees to confirm EPS contributions match salary deductions.&nbsp;",
@@ -1608,19 +1411,6 @@
      "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/EPFO_passbook_1788353055959_20bf53a1-e600-4271-b238-17f91ec047cc_1788353062602_87891fe8-8005-4cbd-ac1c-afc6d59625c3_0ce1a1f4-8f1b-4907-beb8-2fa02e40626c_069c0ee9-e9ad-4d13-b54e-4d2073d55231.jpg",
      "licence": "linkout",
      "id": "1d3006bdd363",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Sick while pregnant? Why insurance companies might dispute your claim and what you can do about it",
-     "url": "https://www.livemint.com/money/personal-finance/sick-while-pregnant-why-insurance-companies-might-dispute-your-claim-and-what-you-can-do-about-it-11788347668094.html",
-     "summary": "Unrelated illnesses during pregnancy can create claim disputes. Experts note that when an excluded medical condition overlaps with another ailment, there is a high possibility that the related insurance claim could be rejected.",
-     "published": "2026-09-02T12:41:34+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/pregnancy_1788351413412_6521a8f5-d972-4e80-87a7-6793077a12e3_1788351434390_a3b81c54-258a-4574-bc1a-13450df84538_0c51ec1f-a3f8-4e8c-a755-177cd11f5a76_dbce2bac-040a-49d3-98d5-8a12b6031abf.jpg",
-     "licence": "linkout",
-     "id": "7ea317364aa2",
      "category": "general",
      "category_label": "General"
     }
@@ -1761,17 +1551,17 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "County Side Forced To Take U-Turn On Kiwi Cricketer, Acquitted In Rape Charge, Over Fan Backlash",
-     "url": "https://sports.ndtv.com/cricket/county-side-forced-to-take-u-turn-on-kiwi-cricketer-acquitted-in-rape-charge-over-fan-backlash-11992254#publisher=newsstand",
-     "summary": "Hampshire said the decision was taken following \"feedback from our staff and supporters\", given the player's controversial past.",
-     "published": "2026-09-02T11:33:50+00:00",
+     "title": "CSK Coach Turns Down England Role, Set To Consult Australia For Ashes",
+     "url": "https://sports.ndtv.com/cricket/csk-coach-turns-down-england-role-set-to-consult-australia-for-ashes-11990697#publisher=newsstand",
+     "summary": "Australia are set to receive a major boost ahead of the 2027 Ashes series against England, with former batter taking up a part-time consultancy role.",
+     "published": "2026-09-02T11:04:49+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2021-04/6c9bef38_scott-kuggeleijn-twitter_625x300_27_April_21.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/paqbtrcc_michael-hussey-getty_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b4b18135fd72",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "3cf3b0753012",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
      "title": "Major Champions Patrick Reed, Bubba Watson Set To Turn Up For DP World India Championship",
@@ -1920,22 +1710,6 @@
      "category_label": "General",
      "figures": [
       "10 bladder cancers"
-     ]
-    },
-    {
-     "title": "Heart trial after breast cancer has 'improved my life'",
-     "url": "https://www.bbc.co.uk/news/articles/c5ye81nl98do?at_medium=RSS&at_campaign=rss",
-     "summary": "Lucy Shepherd is one of 90 women to take part in a trial helping cancer survivors come off medication.",
-     "published": "2026-09-02T05:10:22+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5585/live/de5fd740-a4a8-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "ede121cec18e",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "90 women to take part"
      ]
     },
     {
