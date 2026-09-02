@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T18:36:54.338122+00:00",
+ "generated_at": "2026-09-02T19:01:44.572049+00:00",
  "podcasts_fetched_at": "2026-09-01T22:01:39.218117+00:00",
  "markets": [
   {
@@ -66,11 +66,10 @@
    "key": "brent",
    "label": "BRENT",
    "unit": "$/bbl",
-   "value": 88.86,
-   "change": 1.02,
-   "changePct": 1.16,
-   "decimals": 2,
-   "stale": true
+   "value": 95.38,
+   "change": 6.07,
+   "changePct": 6.8,
+   "decimals": 2
   },
   {
    "key": "btc",
@@ -84,16 +83,16 @@
   }
  ],
  "topics": [
+  "Traffic JNTU",
   "Priest",
-  "Police",
   "Jazeera English",
   "News",
   "Anti",
-  "Begin",
-  "Burnham",
-  "Ireland Israeli",
-  "Nepal",
-  "Jailed Joshua"
+  "Little Flower",
+  "Counterfeit Hyderabad",
+  "Abraham Lincoln",
+  "Signing Venezuela",
+  "Nepal"
  ],
  "sections": [
   {
@@ -102,6 +101,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Traffic police study bus diversions, u-turn closures to ease JNTU-HITEC City congestion",
+     "url": "https://www.thehindu.com/news/national/telangana/traffic-police-study-bus-diversions-u-turn-closures-to-ease-jntu-hitec-city-congestion/article71420977.ece",
+     "summary": "",
+     "published": "2026-09-02T18:38:55+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "5484ebae0777",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Priest arrested for stealing gold ornaments from temple",
      "url": "https://www.thehindu.com/news/national/andhra-pradesh/priest-arrested-for-stealing-gold-ornaments-from-temple/article71420893.ece",
@@ -114,49 +127,38 @@
      "id": "9d627eb0c5d3",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Police deny assault allegations into man’s death, probe continues",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-deny-assault-allegations-into-mans-death-probe-continues/article71420834.ece",
-     "summary": "",
-     "published": "2026-09-02T18:03:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "e077c6525658",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Guntur police launch ‘Stop – Wash and Go’ drive to prevent road accidents",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-police-launch-stop-wash-and-go-drive-to-prevent-road-accidents/article71419632.ece",
-     "summary": "",
-     "published": "2026-09-02T17:54:39+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d1ba25afd030",
-     "category": "crime",
-     "category_label": "Crime",
      "from_section": "National Hotlines"
     },
     {
-     "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
-     "summary": "EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel.",
-     "published": "2026-09-02T17:56:18+00:00",
+     "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+     "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+     "published": "2026-09-02T17:33:45+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
+     "licence": "linkout",
+     "id": "5ff02e054c7c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Israel kills or injures 7 children a day in Lebanon invasion, report says",
+     "url": "https://www.aljazeera.com/news/2026/9/2/israel-kills-or-injures-7-children-a-day-in-lebanon-invasion-report-says?traffic_source=rss",
+     "summary": "Save the Children data shows toll on children in Lebanon, despite government agreement with Israel to halt fighting.",
+     "published": "2026-09-02T18:31:22+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788371668.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a984704ccc43-1788364548.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "5f8a163b179a",
+     "id": "99f7ba851aae",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Global News"
+     "from_section": "Global News",
+     "figures": [
+      "7 children a day in Lebanon"
+     ]
     },
     {
      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
@@ -187,6 +189,42 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "School assembly news headlines today- September 3: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnd5YVZQMzZNbDN2dUxQMmpiT3ZoWFVKWWJBLUV6cUxOdnJoSWdRQkZwcUhGa2UyU1N4QTVqZFg2ZkFrOUVxRERKU09nckl3Nm1PNFBvTm56RlE5aGE1Tmlib3hqUGkxVC1qczZDQ1BlNUdkY2dhQVBFOWZiUTA1LWVvb1VyUjNqX2tnZ0ZGNTBZQmtaQ0ZIS1dMdE5Pd29TcGEzcWY4T3BMLWxBeWprRXZ6RTlBUWdSc2lha1hZRHlEVGFGUmxQeVJOMnpEU2pMYkZCWkxKeGNjLXgtVnNBQTFaekliZGs?oc=5",
+     "summary": "School assembly news headlines today- September 3: Top national, sports and world news curated for you India Today",
+     "published": "2026-09-02T13:43:15+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "cb4e2e874633",
+     "also": [
+      {
+       "source": "indianexpress.com",
+       "title": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05",
+       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5",
+       "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 indianexpress.com"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Keralam Chief Minister V.D. Satheesan seeks support of Centre for establishing coconut value-addition park",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-seeks-support-of-centre-for-establishing-coconut-value-addition-park/article71420856.ece",
+     "summary": "CM underscores the need to restructure coconut farming in Keralam through a shift from traditional methods to scientific and planned plantation models.",
+     "published": "2026-09-02T18:43:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/8te4n6/article71421161.ece/alternates/LANDSCAPE_1200/satheesan.jpg",
+     "licence": "linkout",
+     "id": "047311a276ee",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "UK’s Burnham faces first parliament grilling, vows to ‘bring back hope’",
      "url": "https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss",
      "summary": "Newly appointed leader takes first Prime Minister’s Questions, pledges to fulfill defence, social spending goals.",
@@ -201,32 +239,21 @@
      "from_section": "Global News"
     },
     {
-     "title": "Ex-Chief Economic Adviser Backs GDP Data, Calls Methodology \"Cutting-Edge\"",
-     "url": "https://www.ndtv.com/india-news/ex-chief-economic-advisor-backs-gdp-figure-says-new-methodology-cutting-edge-11993637#publisher=newsstand",
-     "summary": "Krishnamurthy V Subramanian dismissed the Opposition's charge that the government deliberately revised last year's GDP numbers downward, so that this year's growth rate would be artificially inflated.",
-     "published": "2026-09-02T17:44:14+00:00",
-     "source": "NDTV",
+     "title": "Counterfeit currency racket busted in Hyderabad, ₹2.91 lakh fake notes seized",
+     "url": "https://www.thehindu.com/news/national/telangana/counterfeit-currency-racket-busted-in-hyderabad-291-lakh-fake-notes-seized/article71419588.ece",
+     "summary": "The counterfeit notes were allegedly circulated in small quantities at wine shops and vegetable markets, particularly at night",
+     "published": "2026-09-02T18:45:22+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/df0h10h_interview_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/odm77m/article71419585.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%204.42.13%20PM.jpeg",
      "licence": "linkout",
-     "id": "6ba035e2b1f9",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-     "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-     "published": "2026-09-02T11:47:11+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "fa0a9425f4a3",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
+     "id": "6910630eeaa2",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "₹2.91 lakh fake notes seized"
+     ]
     },
     {
      "title": "Mid caps hit a new high in August 2026, while large caps remain below peaks: What investors should know",
@@ -262,20 +289,6 @@
       "5 years , but penetration remains",
       "₹18.6 trillion in five years, overtaking"
      ]
-    },
-    {
-     "title": "SBI user alert: UPI outage scheduled for September 4; what you need to know",
-     "url": "https://www.livemint.com/money/personal-finance/sbi-user-alert-upi-outage-scheduled-for-september-4-what-you-need-to-know-11788365704787.html",
-     "summary": "State Bank of India advises customers to use UPI Lite or alternative payment methods during maintenance.",
-     "published": "2026-09-02T17:49:46+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/INDIA-SBI-CHAIRMAN-17_1764587896892_1764587908950_1788368501653_6629db68-f630-4e41-b7db-5dcb7a17c0cd_45b56fbb-8a9d-4e01-bc1c-547ec0f0ad6a_a6b3d687-d593-48eb-b0ff-cf0cfff54b32.jpg",
-     "licence": "linkout",
-     "id": "63af3a13b7cf",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
     },
     {
      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
@@ -337,7 +350,7 @@
      "id": "65d20f2de51b",
      "category": "weather",
      "category_label": "Weather & disaster",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Landslides Hit Nainital Villages, Homes At Risk As Rain Continues",
@@ -356,9 +369,9 @@
     {
      "title": "AXionX Announces Computing Power Infrastructure Initiative to Support the Growing Demands of Artificial Intelligence",
      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQTTcxaUV2MjR3MkNoUWVQVmp1VU1YY3luZmtLTmJBWGl2eUtYOFo5cXpQVVZ3WUV6OHZmZnA2WU5mc20tcUZLbkZLTUR6SnlzdURyZ2xFQzB3WGZrQVllVWJHbndSaG44Ulk1bFBUZE01d1NaX250ZU9McENLNnhHQ0ltTVdMQ1JmRFd1TWlQeW40VzNCc1hfZ0lQT04xVlc1Nk03YWljWTh4enVpeG11aVRGV3E3YVpiZnBNTEpNR3JUSngyOGl5bWlIQWVrU2JacEx5SFZZV3RsbTVXeVJvZjRMZHM2a0RtMFRjMTI5aU03ZlFEVnk1ZXV5Q0EwNlc5ZGczbVZsZVRwbkxXbUo3Z3JWX0sxMEY3V29RbWdCbHQ5cVRtVzhJRFV6aVJhdVBDaFhQMmUtaVh0dWVwLWg0?oc=5",
-     "summary": "AXionX Announces Computing Power Infrastructure Initiative to Support the Growing Demands of Artificial Intelligence WBOC TV",
+     "summary": "AXionX Announces Computing Power Infrastructure Initiative to Support the Growing Demands of Artificial Intelligence wboc.com",
      "published": "2026-09-02T15:31:29+00:00",
-     "source": "WBOC TV",
+     "source": "wboc.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -472,7 +485,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-02T18:36:41.301034+00:00",
+     "published": "2026-09-02T19:01:33.091444+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -483,7 +496,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-02T18:36:41.301049+00:00",
+     "published": "2026-09-02T19:01:33.091453+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -494,7 +507,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-02T18:36:41.301059+00:00",
+     "published": "2026-09-02T19:01:33.091456+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -505,7 +518,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-02T18:36:41.301064+00:00",
+     "published": "2026-09-02T19:01:33.091459+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -516,7 +529,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-02T18:36:41.301069+00:00",
+     "published": "2026-09-02T19:01:33.091461+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -527,7 +540,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-02T18:36:41.301074+00:00",
+     "published": "2026-09-02T19:01:33.091463+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -563,59 +576,72 @@
    "upsc": false,
    "items": [
     {
-     "title": "Begin identifying tenant farmers under 2011 Act, parties urge govt.",
-     "url": "https://www.thehindu.com/news/national/telangana/begin-identifying-tenant-farmers-under-2011-act-parties-urge-govt/article71421003.ece",
+     "title": "Little Flower Degree College holds international seminar on climate change",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/little-flower-degree-college-holds-international-seminar-on-climate-change/article71420932.ece",
      "summary": "",
-     "published": "2026-09-02T18:29:55+00:00",
+     "published": "2026-09-02T18:53:23+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/611vtp/article71421002.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%206.40.14%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/wfwp81/article71420931.ece/alternates/LANDSCAPE_1200/Little%20Flower%20Degree%20College%20Uppal.jpeg",
      "licence": "linkout",
-     "id": "c48d9c080789",
+     "id": "46ce21038675",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Priest arrested for stealing gold ornaments from temple",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/priest-arrested-for-stealing-gold-ornaments-from-temple/article71420893.ece",
-     "summary": "",
-     "published": "2026-09-02T18:14:30+00:00",
+     "title": "Counterfeit currency racket busted in Hyderabad, ₹2.91 lakh fake notes seized",
+     "url": "https://www.thehindu.com/news/national/telangana/counterfeit-currency-racket-busted-in-hyderabad-291-lakh-fake-notes-seized/article71419588.ece",
+     "summary": "The counterfeit notes were allegedly circulated in small quantities at wine shops and vegetable markets, particularly at night",
+     "published": "2026-09-02T18:45:22+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/odm77m/article71419585.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%204.42.13%20PM.jpeg",
      "licence": "linkout",
-     "id": "9d627eb0c5d3",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Villages vulnerable to floods will be shifted permanently, says Minister in Bagalkot",
-     "url": "https://www.thehindu.com/news/national/karnataka/villages-vulnerable-to-floods-will-be-shifted-permanently-says-minister-in-bagalkot/article71420528.ece",
-     "summary": "‘I have requested the Chief Minister to visit the district to study the drought situation in the district, and fulfill the demands of the victims. He is likely to visit on September 4, 2026,’ says Bagalkot district in-charge Minister Vijayanand Kashappanavar.",
-     "published": "2026-09-02T18:09:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rdthws/article71420774.ece/alternates/LANDSCAPE_1200/9727_2_9_2026_20_33_30_1_03BGMKASHAPPAIDDALAGI1.JPG",
-     "licence": "linkout",
-     "id": "65d20f2de51b",
-     "category": "weather",
-     "category_label": "Weather & disaster"
-    },
-    {
-     "title": "Over 300 acres of farmland to be acquired for new airport expansion in Vellore",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/over-300-acres-of-farmland-to-be-acquired-for-new-airport-expansion-in-vellore/article71419744.ece",
-     "summary": "Surrounding villages that have been identified are Poigai, Abdullapuram, Anpoondi, and Pudur",
-     "published": "2026-09-02T18:03:03+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/xqip9h/article71420177.ece/alternates/LANDSCAPE_1200/airport.jpg",
-     "licence": "linkout",
-     "id": "1c55861e51e1",
-     "category": "general",
-     "category_label": "General",
+     "id": "6910630eeaa2",
+     "category": "money",
+     "category_label": "Money & scams",
      "figures": [
-      "300 acres of farmland to be"
+      "₹2.91 lakh fake notes seized"
      ]
+    },
+    {
+     "title": "Keralam Chief Minister V.D. Satheesan seeks support of Centre for establishing coconut value-addition park",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-seeks-support-of-centre-for-establishing-coconut-value-addition-park/article71420856.ece",
+     "summary": "CM underscores the need to restructure coconut farming in Keralam through a shift from traditional methods to scientific and planned plantation models.",
+     "published": "2026-09-02T18:43:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/8te4n6/article71421161.ece/alternates/LANDSCAPE_1200/satheesan.jpg",
+     "licence": "linkout",
+     "id": "047311a276ee",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "UDF aiding saffronisation of higher education: R. Bindu",
+     "url": "https://www.thehindu.com/news/national/kerala/udf-aiding-saffronisation-of-higher-education-r-bindu/article71420297.ece",
+     "summary": "The government’s position that the full rendition of Vande Mataram is required as per the protocol of programmes attended by the Governor is a wrong interpretation of the existing guidelines, she says",
+     "published": "2026-09-02T18:40:15+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/bas2oo/article71421098.ece/alternates/LANDSCAPE_1200/80968_2_9_2026_21_39_39_1_IMG_0384.JPEG",
+     "licence": "linkout",
+     "id": "255fa496c89a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Ex-Chief Economic Adviser Backs GDP Data, Calls Methodology \"Cutting-Edge\"",
+     "url": "https://www.ndtv.com/india-news/ex-chief-economic-advisor-backs-gdp-figure-says-new-methodology-cutting-edge-11993637#publisher=newsstand",
+     "summary": "Krishnamurthy V Subramanian dismissed the Opposition's charge that the government deliberately revised last year's GDP numbers downward, so that this year's growth rate would be artificially inflated.",
+     "published": "2026-09-02T17:44:14+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/df0h10h_interview_625x300_02_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6ba035e2b1f9",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "\"Blessings Of Lord Ram\": Air Force Veteran To NDTV On Trust CEO Role",
@@ -665,73 +691,46 @@
    "upsc": false,
    "items": [
     {
-     "title": "UK’s Burnham faces first parliament grilling, vows to ‘bring back hope’",
-     "url": "https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss",
-     "summary": "Newly appointed leader takes first Prime Minister’s Questions, pledges to fulfill defence, social spending goals.",
-     "published": "2026-09-02T18:11:48+00:00",
+     "title": "USS Abraham Lincoln reaches Thailand after 9 months at sea",
+     "url": "https://www.aljazeera.com/news/2026/9/2/uss-abraham-lincoln-reaches-thailand-after-9-months-at-sea?traffic_source=rss",
+     "summary": "The port visit comes amid reports of severe emotional strain and poor conditions on board following nine months at sea.",
+     "published": "2026-09-02T18:51:57+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-02T150245Z_1757207174_RC20BNAS6Y1T_RTRMADP_3_BRITAIN-POLITICS-PMQS-1788365334.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a984c1e-1788365854.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "5cbaafdfc625",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
-     "summary": "EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel.",
-     "published": "2026-09-02T17:56:18+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788371668.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "5f8a163b179a",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
-     "url": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss",
-     "summary": "Police say no indication anyone ​else involved in attack that killed 22-year-old Italian woman.",
-     "published": "2026-09-02T17:43:01+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a984605b883-1788364293.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "1100ed513a4a",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Over 500 students hospitalised after eating state-supplied meals in Indones",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/over-500-students-hospitalised-after-eating-state-supplied-meals-in-indones?traffic_source=rss",
-     "summary": "More than 500 students in Indonesia were hospitalised with food poisoning on Tuesday.",
-     "published": "2026-09-02T17:37:29+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788370589.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "582ba00d50e1",
+     "id": "3419e114e31b",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "500 students hospitalised after eating state-supplied",
-      "500 students in Indonesia were hospitalised"
+      "9 months at sea"
      ]
     },
     {
-     "title": "A year into Trump’s boat strike campaign, families search for answers",
-     "url": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss",
-     "summary": "While the Trump administration claims it has killed 'narcoterrorists', families fear fishermen are among the victims.",
-     "published": "2026-09-02T17:35:32+00:00",
+     "title": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/signing-ceremony-as-us-to-control-a-fifth-of-venezuelas-oil-reserves?traffic_source=rss",
+     "summary": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves.",
+     "published": "2026-09-02T18:51:07+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Boat-Strikes-18-1788328841.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-19.43.23-1788374858.png?resize=1200%2C675",
      "licence": "linkout",
-     "id": "01841a2b3447",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "2c9f675b8480",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Will the EU take action against Israel?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/9/2/will-the-eu-take-action-against-israel?traffic_source=rss",
+     "summary": "Surge in Israeli settler attacks against Palestinians",
+     "published": "2026-09-02T18:46:21+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788367733.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "30005adb3cf3",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
@@ -747,19 +746,6 @@
      "category_label": "Crime"
     },
     {
-     "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-     "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-     "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
-     "published": "2026-09-02T17:33:45+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
-     "licence": "linkout",
-     "id": "5ff02e054c7c",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
@@ -771,6 +757,19 @@
      "id": "15381f586f47",
      "category": "crime",
      "category_label": "Crime"
+    },
+    {
+     "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+     "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+     "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+     "published": "2026-09-02T11:47:11+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "fa0a9425f4a3",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
@@ -850,6 +849,48 @@
    "upsc": false,
    "items": [
     {
+     "title": "Little Flower Degree College holds international seminar on climate change",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/little-flower-degree-college-holds-international-seminar-on-climate-change/article71420932.ece",
+     "summary": "",
+     "published": "2026-09-02T18:53:23+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/wfwp81/article71420931.ece/alternates/LANDSCAPE_1200/Little%20Flower%20Degree%20College%20Uppal.jpeg",
+     "licence": "linkout",
+     "id": "46ce21038675",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Counterfeit currency racket busted in Hyderabad, ₹2.91 lakh fake notes seized",
+     "url": "https://www.thehindu.com/news/national/telangana/counterfeit-currency-racket-busted-in-hyderabad-291-lakh-fake-notes-seized/article71419588.ece",
+     "summary": "The counterfeit notes were allegedly circulated in small quantities at wine shops and vegetable markets, particularly at night",
+     "published": "2026-09-02T18:45:22+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/odm77m/article71419585.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%204.42.13%20PM.jpeg",
+     "licence": "linkout",
+     "id": "6910630eeaa2",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹2.91 lakh fake notes seized"
+     ]
+    },
+    {
+     "title": "Keralam Chief Minister V.D. Satheesan seeks support of Centre for establishing coconut value-addition park",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-seeks-support-of-centre-for-establishing-coconut-value-addition-park/article71420856.ece",
+     "summary": "CM underscores the need to restructure coconut farming in Keralam through a shift from traditional methods to scientific and planned plantation models.",
+     "published": "2026-09-02T18:43:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/8te4n6/article71421161.ece/alternates/LANDSCAPE_1200/satheesan.jpg",
+     "licence": "linkout",
+     "id": "047311a276ee",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "Begin identifying tenant farmers under 2011 Act, parties urge govt.",
      "url": "https://www.thehindu.com/news/national/telangana/begin-identifying-tenant-farmers-under-2011-act-parties-urge-govt/article71421003.ece",
      "summary": "",
@@ -863,88 +904,21 @@
      "category_label": "General"
     },
     {
-     "title": "Priest arrested for stealing gold ornaments from temple",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/priest-arrested-for-stealing-gold-ornaments-from-temple/article71420893.ece",
-     "summary": "",
-     "published": "2026-09-02T18:14:30+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "9d627eb0c5d3",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Villages vulnerable to floods will be shifted permanently, says Minister in Bagalkot",
-     "url": "https://www.thehindu.com/news/national/karnataka/villages-vulnerable-to-floods-will-be-shifted-permanently-says-minister-in-bagalkot/article71420528.ece",
-     "summary": "‘I have requested the Chief Minister to visit the district to study the drought situation in the district, and fulfill the demands of the victims. He is likely to visit on September 4, 2026,’ says Bagalkot district in-charge Minister Vijayanand Kashappanavar.",
-     "published": "2026-09-02T18:09:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rdthws/article71420774.ece/alternates/LANDSCAPE_1200/9727_2_9_2026_20_33_30_1_03BGMKASHAPPAIDDALAGI1.JPG",
-     "licence": "linkout",
-     "id": "65d20f2de51b",
-     "category": "weather",
-     "category_label": "Weather & disaster"
-    },
-    {
-     "title": "District Judge withdraws order prohibiting litigants’ vehicles inside court complex in Vellore",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/district-judge-withdraws-order-prohibiting-litigants-vehicles-inside-court-complex-in-vellore/article71419746.ece",
-     "summary": "Every day, on an average, more than 3,000 litigants visit the court complex in Vellore",
-     "published": "2026-09-02T18:01:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/qel845/article71420115.ece/alternates/LANDSCAPE_1200/court-7.jpeg",
-     "licence": "linkout",
-     "id": "9d6babe3a059",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "3,000 litigants visit the court complex"
-     ]
-    },
-    {
-     "title": "Straw-laden lorry catches fire in Ranipet",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/straw-laden-lorry-catches-fire-in-ranipet/article71419879.ece",
-     "summary": "",
-     "published": "2026-09-02T17:55:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/i398zn/article71420170.ece/alternates/LANDSCAPE_1200/bus-21.jpeg",
-     "licence": "linkout",
-     "id": "e3b5cd1984f2",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbUVtOUxmV0ZtMHh0M01NWDRQN0ItVlNBd3ZvZVI0bUJLRnEyT3p2Xy1Hb1N6ZDdmME1LVUt6NzRkNzVyTmdydGxQS3VkSm5iTWY4N0JOWThfLWw0Y0VxVkFDSTZrSzhSZHNiZFZpQmVaai1JOUFqQVQ2MmNNREVRTGI2YTJ0NmVYY1VPSHNoc1g2bWxRU01jMFVtWWNtMVJpWXFMbmhWOA?oc=5",
-     "summary": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling News On AIR",
-     "published": "2026-09-02T10:37:31+00:00",
-     "source": "News On AIR",
+     "title": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 indianexpress.com",
+     "published": "2026-09-02T12:15:31+00:00",
+     "source": "indianexpress.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "8f617241a189",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "ee499c946faa",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "10 per cent tariff for India"
+      "05. Today News Headlines for School",
+      "05 indianexpress"
      ]
-    },
-    {
-     "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-     "summary": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News News On AIR",
-     "published": "2026-09-02T10:26:10+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "66fadcf577e9",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1355,6 +1329,19 @@
      "id": "fd4a0cde281c",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "SBI user alert: UPI outage scheduled for September 4; what you need to know",
+     "url": "https://www.livemint.com/money/personal-finance/sbi-user-alert-upi-outage-scheduled-for-september-4-what-you-need-to-know-11788365704787.html",
+     "summary": "State Bank of India advises customers to use UPI Lite or alternative payment methods during maintenance.",
+     "published": "2026-09-02T17:49:46+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/02/600x338/INDIA-SBI-CHAIRMAN-17_1764587896892_1764587908950_1788368501653_6629db68-f630-4e41-b7db-5dcb7a17c0cd_45b56fbb-8a9d-4e01-bc1c-547ec0f0ad6a_a6b3d687-d593-48eb-b0ff-cf0cfff54b32.jpg",
+     "licence": "linkout",
+     "id": "63af3a13b7cf",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -1433,6 +1420,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeS0zQllBQlJPOGJULTd3dmQ3TGNQS2s3S0ZLNG5VUWRXTTRMT1hEQ3N1TWowakZPV0FmYVpsMlJJdENNVU4yRS00VUx2R3d3S3dKZ1FfRVRNT09hYnotdWFtYVBHLXkxY0I2bENKM3VJbkZGVVJQVFBNYXRzTEllYk04UU4yTFdXX045N1RDYXFjTE5aSEhxMG9YdXYxTFRVUE0ySDRrdnU2c3pkaVdGX0Z1RjhCdHpoTHc2VnZzeW9haWVhSnNGcnNBeE9naGN1V181RHlZcTc?oc=5",
+     "summary": "Google to speed up chip rollout to stay ahead in AI, technology chief says asia.nikkei.com",
+     "published": "2026-09-02T05:03:00+00:00",
+     "source": "asia.nikkei.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "15063edc564b",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWw2X2NldHh3RGRVVnAtckdtU2Z2TlFlcXZteWlqMTBDTHQySy1MS1VGR0pCbXIxaC1YNjFUdW96YmdOVFdDRmJDcjU1S3U0N0NXU2hxUG5WY2VrdFRQa1BiS1dEZHhBZU5LbGhUdXdqUUd6MFVXVUptODFDT2RSQnN4SThlYlFXRFd2UHQtYk90ZkhjWDRyYkd2eElhSzVzeURjUHFQTlNmQ2tFcDJDcXN30gGyAUFVX3lxTE9hbDZfY2V0eHdEZFVWcC1yR21TZnZOUWVxdm15aWoxMENMdDJLLUxLVUZHSkJtcjFoLVg2MVR1b3piZ05UV0NGYkNyNTVLdTQ3Q1dTaHFQblZjZWt0VFBrUGJLV0RkeEFlTktsaFR1d2pRR3owVVdVSm04MUNPZFJCc3hJOGViUVdEV3ZQdC1iT3RmSGNYNHJiR3Z4SWFLNXN5RGNQcVBOU2ZDa0VwMkNxc3c?oc=5",
      "summary": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise Newswise",
@@ -1442,19 +1442,6 @@
      "image": null,
      "licence": "linkout",
      "id": "66238fae8221",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Artificial intelligence facts most people never hear",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSnZRZmpxNDd4VVI4UjA1YzNPVERVLWJERDNzRlJtc2lWQ3IwTFNQNC1mWlU5NXIyOE05NHJxc19sb3NjWUI2OUdLOEVrc0pDYnJoNjZzWlBCQ1ltWDZ1QzlsdHFVeDR3Znc?oc=5",
-     "summary": "Artificial intelligence facts most people never hear qz.com",
-     "published": "2026-09-01T19:13:42+00:00",
-     "source": "qz.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "8dd3ecb1321c",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1560,7 +1547,7 @@
      "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
      "url": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
      "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
-     "published": "2026-09-02T18:24:50+00:00",
+     "published": "2026-09-02T18:57:51+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7baf/live/46099ef0-a6f5-11f1-97e2-55b9ef1865bd.jpg",
