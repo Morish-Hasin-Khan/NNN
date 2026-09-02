@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T15:09:31.393048+00:00",
+ "generated_at": "2026-09-02T15:40:33.012288+00:00",
  "podcasts_fetched_at": "2026-09-01T22:01:39.218117+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "YSRCP",
   "Nato Russia",
-  "Many Missing",
   "Jazeera English",
   "News",
   "Anti",
-  "Minor",
-  "After Bengaluru",
-  "Trumpism",
-  "Palestinians Israeli",
-  "Nepal"
+  "School Ganesha",
+  "Telangana",
+  "Aubameyang Arsenal",
+  "Nepal",
+  "Jailed Joshua"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "YSRCP women wing demands apology from police for ‘misconduct’ against ex-Dy. CM",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-women-wing-demands-apology-from-police-for-misconduct-against-ex-dy-cm/article71419362.ece",
+     "summary": "",
+     "published": "2026-09-02T15:32:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "af12f9afed0e",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
@@ -131,18 +145,43 @@
      "from_section": "National News"
     },
     {
-     "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
-     "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
-     "summary": "Palestinian witnesses recount the coordinated Israeli army and settler attacks on mosques in the occupied West Bank.",
-     "published": "2026-09-02T14:14:34+00:00",
+     "title": "Can Ukraine’s drones shut Russian airspace? What that means for airlines",
+     "url": "https://www.aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines?traffic_source=rss",
+     "summary": "What happens if the airspace of the world's largest country by land mass is out of bounds because of Ukrainian drones?",
+     "published": "2026-09-02T14:55:16+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a979ffc1f380-1788321788.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260814__C4P67WE__v2__MidRes__UkraineRussiaConflict-1788347329.jpg?resize=1200%2C630",
      "licence": "linkout",
-     "id": "91268fb9e47e",
+     "id": "6e1d24c7bd0d",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+       "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+       "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine."
+      }
+     ],
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
+    },
+    {
+     "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
+     "summary": "A Gaza Civil Defence worker helped recover the bodies of 21 of his relatives from beneath the rubble.",
+     "published": "2026-09-02T14:45:26+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-15.41.13-1788360211.png?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "0a6a8c99bbe7",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
+     "figures": [
+      "21 relatives beneath rubble"
+     ]
     },
     {
      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
@@ -159,90 +198,59 @@
      "from_section": "Business"
     },
     {
-     "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-     "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-     "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-     "published": "2026-09-02T13:16:26+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg",
-     "licence": "linkout",
-     "id": "4ce72792147b",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Three injured after speeding SUV of former Minister's wife hits e-rickshaw in Jaipur",
-     "url": "https://www.thehindu.com/news/national/rajasthan/three-injured-after-speeding-suv-of-former-ministers-wife-hits-e-rickshaw-in-jaipur/article71420487.ece",
-     "summary": "The Endeavour car registered in the name of former Minister Ashok Chandna's wife has about two dozen traffic challans, whereas the Thar has six over-speeding challans, the SHO said",
-     "published": "2026-09-02T15:01:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "7d1d8067223b",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Drought-hit farmers voice woes to Deputy Chief Minister in Nanjangud",
-     "url": "https://www.thehindu.com/news/national/karnataka/drought-hit-farmers-voice-woes-to-parameshwara-in-nanjangud/article71420244.ece",
-     "summary": "They seek immediate relief for crop losses caused by deficient rainfall",
-     "published": "2026-09-02T14:59:43+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wphmu7/article71420433.ece/alternates/LANDSCAPE_1200/2303_2_9_2026_19_33_8_1_DYCMINNANJANGUD.JPEG",
-     "licence": "linkout",
-     "id": "c884ba2362ec",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "House surgeons continue strike at Palakkad medical college",
-     "url": "https://www.thehindu.com/news/national/kerala/house-surgeons-continue-strike-at-palakkad-medical-college/article71420279.ece",
-     "summary": "The protest was triggered by the transfer of two accident victims to another hospital because of inadequate services like X-ray and scanning. The doctors are demanding improvements to the hospital’s infrastructure.",
-     "published": "2026-09-02T14:59:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d4fe366b4b55",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Congress cites former Finance Secretary’s analysis, questions 7.8% GDP growth",
-     "url": "https://www.thehindu.com/news/national/pr-can-polish-picture-of-gdp-but-not-economy-itself-congress-slams-modi-government/article71418728.ece",
-     "summary": "Congress says the government needs to acknowledge the actual state of the economy and undertake reforms to generate employment, strengthen MSMEs and private investment",
-     "published": "2026-09-02T14:57:25+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ocvjd8/article71418737.ece/alternates/LANDSCAPE_1200/04_Jairam_Ramesh_PC_25_08_Delhi.jpg",
-     "licence": "linkout",
-     "id": "ced62857b961",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbUVtOUxmV0ZtMHh0M01NWDRQN0ItVlNBd3ZvZVI0bUJLRnEyT3p2Xy1Hb1N6ZDdmME1LVUt6NzRkNzVyTmdydGxQS3VkSm5iTWY4N0JOWThfLWw0Y0VxVkFDSTZrSzhSZHNiZFZpQmVaai1JOUFqQVQ2MmNNREVRTGI2YTJ0NmVYY1VPSHNoc1g2bWxRU01jMFVtWWNtMVJpWXFMbmhWOA?oc=5",
-     "summary": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling News On AIR",
-     "published": "2026-09-02T10:37:31+00:00",
-     "source": "News On AIR",
+     "title": "School assembly news headlines for September 3: Top India, world, sports and business updates",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ0QtVk9fazBOcGZxYzRKR3c0dlJNemNnUjQwTFQtRDMyUmdtNWpYQ214cl85MlVrUFBQNzh4TFd0TWdXTGhFRzY0dEc3RmFLRXpnZU9jZ2h1X3ZXdWlYTGxLY2RnN2llTnFsZVNvN0ZQVnZGTW1kejNrUWdQRGdWZkFzRG10VzdOX28zaFk2R0pXQ0NKdTMtaWxSb1pxaTM4SG5Zc0c1QkxHQmlTNzEyMThxOWFodFVlU21mbjUzRGp3V3BhLTZMNEIyMTFYRFdxZVBmNzBkUmdhWXN3RFRuX2JuYk9lUThRNVRkYnNtMzAyYknSAfgBQVVfeXFMTWVZTktMNTR5X0ZMU3E4OXVEdmdVVXFlOHg1VUlmRFJHNm1Ed2gxSXd2WkNhS1hDY1Q3QkNpZE1BU1AyQkVydDJuMEhDeDNzMGN4c1VfSVFLQnV2bk8tMVRFaktqNlNOVUdRaTRlNHVoSzVuRTMtZkZsYm51STFqQUczT3hWa3FIcUlON3B4STdKRW0zdk5aRW54UUk2ZU9FTWsxRW51elBheGt6M29Oc1RCVkFocm9fV04yUHZkZ3Y2cmJzbzgzaGxDT1hYUDNWdG01NnM3UFRWUE9jYXZtNWVRUkN0MXM3T3lKTGlPWVM5N0djT2h1TUM?oc=5",
+     "summary": "School assembly news headlines for September 3: Top India, world, sports and business updates The Economic Times",
+     "published": "2026-09-02T12:49:05+00:00",
+     "source": "The Economic Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "8f617241a189",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "01fe86febb63",
+     "also": [
+      {
+       "source": "The Indian Express",
+       "title": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05",
+       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5",
+       "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 The Indian Express"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "\"They Should Compare Apples With Apples\": Minister Piyush Goyal On GDP Data Critics",
+     "url": "https://www.ndtv.com/india-news/piyush-goyals-slams-gdp-growth-data-critics-takes-jibes-at-subhash-chandra-garg-raghuram-rajan-11992794#publisher=newsstand",
+     "summary": "\"Ministers do not manufacture this data,\" Commerce Minister Piyush Goyal says on questions over 7.8 per cent GDP growth; suggests critics should \"compare apples with apples\"",
+     "published": "2026-09-02T14:31:56+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-07/5evftg58_piyush-goyal_625x300_28_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "5fdc5f97f2d3",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "7.8 per cent GDP growth; suggests critics"
+     ]
+    },
+    {
+     "title": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 The Indian Express",
+     "published": "2026-09-02T12:15:31+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "ee499c946faa",
+     "category": "politics",
+     "category_label": "Political controversy",
      "from_section": "National Hotlines",
      "figures": [
-      "10 per cent tariff for India"
+      "05. Today News Headlines for School"
      ]
     },
     {
@@ -263,7 +271,7 @@
      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
      "url": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
      "summary": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
-     "published": "2026-09-02T12:14:31+00:00",
+     "published": "2026-09-02T15:20:19+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg",
@@ -286,20 +294,6 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
-    },
-    {
-     "title": "Argentina serves up a Messi-shaped schnitzel as fans say goodbye",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/argentina-serves-up-a-messi-shaped-schnitzel-as-fans-say-goodbye?traffic_source=rss",
-     "summary": "A Messi-shaped schnitzel is on the menu in Buenos Aires, as fans across Argentina pay tribute.",
-     "published": "2026-09-02T13:45:11+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788356558.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "d303bbc07ba8",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
     },
     {
      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
@@ -336,6 +330,67 @@
      ]
     },
     {
+     "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+     "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+     "published": "2026-09-01T16:11:18+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "b4c36ef0729c",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global Hotline",
+     "figures": [
+      "20 minutes , Nepal worker tells"
+     ]
+    },
+    {
+     "title": "Nepal PM links deadly floods to climate change",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
+     "summary": "Nepal PM links deadly floods to climate change",
+     "published": "2026-09-02T15:11:19+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/nepal-pm-horizontal-thumb-1788361743.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "129acb807b28",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+       "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+       "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages."
+      }
+     ],
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global News"
+    },
+    {
+     "title": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWw2X2NldHh3RGRVVnAtckdtU2Z2TlFlcXZteWlqMTBDTHQySy1MS1VGR0pCbXIxaC1YNjFUdW96YmdOVFdDRmJDcjU1S3U0N0NXU2hxUG5WY2VrdFRQa1BiS1dEZHhBZU5LbGhUdXdqUUd6MFVXVUptODFDT2RSQnN4SThlYlFXRFd2UHQtYk90ZkhjWDRyYkd2eElhSzVzeURjUHFQTlNmQ2tFcDJDcXN30gGyAUFVX3lxTE9hbDZfY2V0eHdEZFVWcC1yR21TZnZOUWVxdm15aWoxMENMdDJLLUxLVUZHSkJtcjFoLVg2MVR1b3piZ05UV0NGYkNyNTVLdTQ3Q1dTaHFQblZjZWt0VFBrUGJLV0RkeEFlTktsaFR1d2pRR3owVVdVSm04MUNPZFJCc3hJOGViUVdEV3ZQdC1iT3RmSGNYNHJiR3Z4SWFLNXN5RGNQcVBOU2ZDa0VwMkNxc3c?oc=5",
+     "summary": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise Newswise",
+     "published": "2026-09-02T03:30:00+00:00",
+     "source": "Newswise",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "66238fae8221",
+     "also": [
+      {
+       "source": "unina.it",
+       "title": "Naples, European Capital of Artificial Intelligence: Federico II University to Host the 2026 Edition of ECML PKDD",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3lDRG51Si1JLUJyaFhrNkFNYUtaLUlrSWtFd1pvVGQzbThINTlaOEdkbDNlZkRQSXBmaFR5WE9rUWs1eElOQUt4Y0hwMzVHdHp4VXV2Y2NFd0hGY0Z4UmxZQUN4el9GT0F4X2JCVkphRjk5ZmVQNXl6ZWdCRU0wcUFLUHJaamVxMTNMSmZ0VUItY25Hd3ZuaU5aWjlGRC1PeWVxYkVPWVNHNkdFUjBPZFBQVUxzR1hMQ3BkM19UMkhaQWM?oc=5",
+       "summary": "Naples, European Capital of Artificial Intelligence: Federico II University to Host the 2026 Edition of ECML PKDD unina.it"
+      }
+     ],
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
      "title": "Lords call for AI 'kill switch' powers in UK",
      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
      "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
@@ -364,18 +419,18 @@
      "from_section": "Technology"
     },
     {
-     "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeS0zQllBQlJPOGJULTd3dmQ3TGNQS2s3S0ZLNG5VUWRXTTRMT1hEQ3N1TWowakZPV0FmYVpsMlJJdENNVU4yRS00VUx2R3d3S3dKZ1FfRVRNT09hYnotdWFtYVBHLXkxY0I2bENKM3VJbkZGVVJQVFBNYXRzTEllYk04UU4yTFdXX045N1RDYXFjTE5aSEhxMG9YdXYxTFRVUE0ySDRrdnU2c3pkaVdGX0Z1RjhCdHpoTHc2VnZzeW9haWVhSnNGcnNBeE9naGN1V181RHlZcTc?oc=5",
-     "summary": "Google to speed up chip rollout to stay ahead in AI, technology chief says Nikkei Asia",
-     "published": "2026-09-02T05:03:00+00:00",
-     "source": "Nikkei Asia",
+     "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
+     "url": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss",
+     "summary": "Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.",
+     "published": "2026-09-02T15:21:43+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-04-26T183243Z_1384602915_UP1EM4Q1FIHB4_RTRMADP_3_SOCCER-FRANCE-OM-NIC-1788359742.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "15063edc564b",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
+     "id": "0f34c6dfa7c6",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News"
     },
     {
      "title": "Indian Cricketer, Named After Shah Rukh Khan, Picks Salman Khan Instead",
@@ -404,38 +459,6 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
-    },
-    {
-     "title": "Summer transfers 2026: All to know as Premier League signings break records",
-     "url": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
-     "summary": "Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.",
-     "published": "2026-09-02T13:58:49+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a97a865-1788323941.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "873d4830e1f1",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News",
-     "figures": [
-      "rs 2026 : All to know",
-      "11 most expensive signings have arrived"
-     ]
-    },
-    {
-     "title": "After missing deadline, Bengaluru’s Namma Metro Pink Line’s 7.5-km stretch ready, inauguration expected in September",
-     "url": "https://www.thehindu.com/news/cities/bangalore/after-missing-deadline-bengaluru-metro-pink-lines-75-km-stretch-ready-inauguration-expected-in-september/article71419246.ece",
-     "summary": "The Pink Line, a 21.3-km corridor connecting Kalena Agrahara in the south to Nagawara in the north, is a crucial component of the metro expansion",
-     "published": "2026-09-02T15:04:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jfjwag/article71420505.ece/alternates/LANDSCAPE_1200/PTI09_02_2026_000357B.jpg",
-     "licence": "linkout",
-     "id": "34ccbace16bd",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News"
     },
     {
      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
@@ -468,7 +491,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-02T15:09:18.290013+00:00",
+     "published": "2026-09-02T15:40:18.914810+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -479,7 +502,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-02T15:09:18.290022+00:00",
+     "published": "2026-09-02T15:40:18.914826+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -490,7 +513,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-02T15:09:18.290025+00:00",
+     "published": "2026-09-02T15:40:18.914830+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -501,7 +524,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-02T15:09:18.290027+00:00",
+     "published": "2026-09-02T15:40:18.914833+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -512,7 +535,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-02T15:09:18.290029+00:00",
+     "published": "2026-09-02T15:40:18.914835+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -523,7 +546,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-02T15:09:18.290031+00:00",
+     "published": "2026-09-02T15:40:18.914837+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -559,88 +582,59 @@
    "upsc": false,
    "items": [
     {
-     "title": "Minor girl hands over newborn to welfare officers",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/minor-girl-hands-over-newborn-to-welfare-officers/article71420266.ece",
-     "summary": "The minor girl and her parents produced the baby before CWC and submitted a letter in writing handing over the baby, says Committee member Ch. Radha Kumari",
-     "published": "2026-09-02T15:06:25+00:00",
+     "title": "School students make eco-friendly Ganesha idols",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/school-students-make-eco-friendly-ganesha-idols/article71420463.ece",
+     "summary": "",
+     "published": "2026-09-02T15:36:57+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "35e4fbbfc507",
+     "id": "c9facffc5870",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "After missing deadline, Bengaluru’s Namma Metro Pink Line’s 7.5-km stretch ready, inauguration expected in September",
-     "url": "https://www.thehindu.com/news/cities/bangalore/after-missing-deadline-bengaluru-metro-pink-lines-75-km-stretch-ready-inauguration-expected-in-september/article71419246.ece",
-     "summary": "The Pink Line, a 21.3-km corridor connecting Kalena Agrahara in the south to Nagawara in the north, is a crucial component of the metro expansion",
-     "published": "2026-09-02T15:04:31+00:00",
+     "title": "Telangana govt makes it mandatory to account for construction debris at building permission stage",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-makes-it-mandatory-to-account-for-construction-debris-at-building-permission-stage/article71420290.ece",
+     "summary": "C&D waste disposal certificate should be produced prior to occupancy certificate, completion or closure of permission wherever applicable",
+     "published": "2026-09-02T15:36:06+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jfjwag/article71420505.ece/alternates/LANDSCAPE_1200/PTI09_02_2026_000357B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/k5v2zv/article71420707.ece/alternates/LANDSCAPE_1200/_DSC7453.JPG",
      "licence": "linkout",
-     "id": "34ccbace16bd",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Kadapa SP calls for enhanced training in modern policing",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-sp-calls-for-focus-on-future-policing/article71419284.ece",
-     "summary": "",
-     "published": "2026-09-02T15:03:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5flaxw/article71420519.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%2017.02.55%201.jpeg",
-     "licence": "linkout",
-     "id": "0e64cb713f15",
+     "id": "e86a59e913d8",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Six Odisha natives held with 53 kg ganja",
-     "url": "https://www.thehindu.com/news/national/kerala/six-odisha-natives-held-with-53-kg-ganja/article71420435.ece",
+     "title": "Three marijuana consignments seized in Hyderabad, 16 kg narcotic substance recovered",
+     "url": "https://www.thehindu.com/news/national/telangana/three-marijuana-consignments-seized-in-hyderabad-16-kg-narcotic-substance-recovered/article71420020.ece",
      "summary": "",
-     "published": "2026-09-02T15:02:17+00:00",
+     "published": "2026-09-02T15:34:53+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "7f049feb06e6",
+     "id": "e1e9224ba1a0",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "53 kg ganja"
+      "16 kg narcotic substance recovered"
      ]
     },
     {
-     "title": "Keralam raises demand of detailed technical study of Mullaperiyar dam before safety panel",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-raises-demand-of-detailed-technical-study-of-mullaperiyar-dam-before-safety-panel/article71420386.ece",
+     "title": "Lokesh inaugurates new hostels at JNTUK engineering college",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-inaugurates-new-hostels-at-jntuk-engineering-college/article71419358.ece",
      "summary": "",
-     "published": "2026-09-02T15:02:16+00:00",
+     "published": "2026-09-02T15:34:22+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/m7ix21/article71420697.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%2017.25.01.jpeg",
      "licence": "linkout",
-     "id": "3ba064bd961e",
+     "id": "03c10eee6650",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "\"They Should Compare Apples With Apples\": Minister Piyush Goyal On GDP Data Critics",
-     "url": "https://www.ndtv.com/india-news/piyush-goyals-slams-gdp-growth-data-critics-takes-jibes-at-subhash-chandra-garg-raghuram-rajan-11992794#publisher=newsstand",
-     "summary": "\"Ministers do not manufacture this data,\" Commerce Minister Piyush Goyal says on questions over 7.8 per cent GDP growth; suggests critics should \"compare apples with apples\"",
-     "published": "2026-09-02T14:31:56+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/5evftg58_piyush-goyal_625x300_28_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "5fdc5f97f2d3",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "7.8 per cent GDP growth; suggests critics"
-     ]
     },
     {
      "title": "Cockpit To Ayodhya: The Op Sindoor Veteran Who Will Head Ram Temple Trust",
@@ -698,58 +692,49 @@
    "upsc": false,
    "items": [
     {
-     "title": "How Trumpism is changing the world",
-     "url": "https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss",
-     "summary": "This US presidency is rewriting the rules of global governance and ushering the world into a new era.",
-     "published": "2026-09-02T14:15:17+00:00",
+     "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
+     "url": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss",
+     "summary": "Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.",
+     "published": "2026-09-02T15:21:43+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8c6d008b28-1787587840.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-04-26T183243Z_1384602915_UP1EM4Q1FIHB4_RTRMADP_3_SOCCER-FRANCE-OM-NIC-1788359742.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "a93c32cca42d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
-     "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
-     "summary": "Palestinian witnesses recount the coordinated Israeli army and settler attacks on mosques in the occupied West Bank.",
-     "published": "2026-09-02T14:14:34+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a979ffc1f380-1788321788.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "91268fb9e47e",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Summer transfers 2026: All to know as Premier League signings break records",
-     "url": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
-     "summary": "Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.",
-     "published": "2026-09-02T13:58:49+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a97a865-1788323941.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "873d4830e1f1",
+     "id": "0f34c6dfa7c6",
      "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "rs 2026 : All to know",
-      "11 most expensive signings have arrived"
-     ]
+     "category_label": "Sports"
     },
     {
-     "title": "Tiger Woods pleads guilty to reckless driving, forfeits driving licence",
-     "url": "https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss",
-     "summary": "Golfer's driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.",
-     "published": "2026-09-02T13:44:00+00:00",
+     "title": "Nepal PM links deadly floods to climate change",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
+     "summary": "Nepal PM links deadly floods to climate change",
+     "published": "2026-09-02T15:11:19+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26245463571248-1788354976.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/nepal-pm-horizontal-thumb-1788361743.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "021f6aa760ad",
+     "id": "129acb807b28",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+       "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+       "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages."
+      }
+     ],
+     "category": "weather",
+     "category_label": "Weather & disaster"
+    },
+    {
+     "title": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
+     "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters?traffic_source=rss",
+     "summary": "Xi Jinping's historic Egypt visit aims to strengthen China-Egypt ties amid rising Middle East tensions.",
+     "published": "2026-09-02T15:00:30+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a97f983d508-1788344707_a590e2-1788355585.jpg?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "fa6cac769f04",
      "category": "general",
      "category_label": "General"
     },
@@ -781,6 +766,19 @@
      "figures": [
       "250 days at sea"
      ]
+    },
+    {
+     "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+     "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+     "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+     "published": "2026-09-02T13:16:26+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg",
+     "licence": "linkout",
+     "id": "4ce72792147b",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
@@ -853,22 +851,6 @@
      ]
     },
     {
-     "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-     "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
-     "published": "2026-09-01T16:11:18+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "b4c36ef0729c",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "20 minutes , Nepal worker tells"
-     ]
-    },
-    {
      "title": "Why US troops have a history in this raucous Thai city",
      "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
      "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
@@ -890,98 +872,117 @@
    "upsc": false,
    "items": [
     {
-     "title": "Three injured after speeding SUV of former Minister's wife hits e-rickshaw in Jaipur",
-     "url": "https://www.thehindu.com/news/national/rajasthan/three-injured-after-speeding-suv-of-former-ministers-wife-hits-e-rickshaw-in-jaipur/article71420487.ece",
-     "summary": "The Endeavour car registered in the name of former Minister Ashok Chandna's wife has about two dozen traffic challans, whereas the Thar has six over-speeding challans, the SHO said",
-     "published": "2026-09-02T15:01:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "7d1d8067223b",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Keralam raises demand of detailed technical study of Mullaperiyar dam before safety panel",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-raises-demand-of-detailed-technical-study-of-mullaperiyar-dam-before-safety-panel/article71420386.ece",
+     "title": "YSRCP women wing demands apology from police for ‘misconduct’ against ex-Dy. CM",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-women-wing-demands-apology-from-police-for-misconduct-against-ex-dy-cm/article71419362.ece",
      "summary": "",
-     "published": "2026-09-02T15:00:56+00:00",
+     "published": "2026-09-02T15:31:24+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "3ba064bd961e",
-     "category": "general",
-     "category_label": "General"
+     "id": "af12f9afed0e",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "Drought-hit farmers voice woes to Deputy Chief Minister in Nanjangud",
-     "url": "https://www.thehindu.com/news/national/karnataka/drought-hit-farmers-voice-woes-to-parameshwara-in-nanjangud/article71420244.ece",
-     "summary": "They seek immediate relief for crop losses caused by deficient rainfall",
-     "published": "2026-09-02T14:59:43+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wphmu7/article71420433.ece/alternates/LANDSCAPE_1200/2303_2_9_2026_19_33_8_1_DYCMINNANJANGUD.JPEG",
-     "licence": "linkout",
-     "id": "c884ba2362ec",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Will Jagan claim credit for Polavaram too, questions TDP leader",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/will-jagan-claim-credit-for-polavaram-too-questions-tdp-leader/article71420152.ece",
-     "summary": "After accusing Chief Minister Chandrababu Naidu of stealing credit for the Veligonda project, the YSRCP chief is unable to accept the TDP-led government’s success in taking Godavari water to North Andhra through the Polavaram Left Main Canal, says Neelayapalem Vijay Kumar",
-     "published": "2026-09-02T14:57:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "bc1d0f5b07ed",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Telangana govt. makes it mandatory to account for construction debris at building permission stage",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-makes-it-mandatory-to-account-for-construction-debris-at-building-permission-stage/article71420290.ece",
+     "title": "158 medical shops across Telangana issued show-cause notices for illegal sale of prescription drugs",
+     "url": "https://www.thehindu.com/news/national/telangana/158-medical-shops-across-telangana-issued-show-cause-notices-for-illegal-sale-of-prescription-drugs/article71420590.ece",
      "summary": "",
-     "published": "2026-09-02T14:56:11+00:00",
+     "published": "2026-09-02T15:30:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/ut95c4/article71420601.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%207.23.18%20PM.jpeg",
      "licence": "linkout",
-     "id": "e86a59e913d8",
+     "id": "736a8133c700",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Fans, JSP workers celebrate Pawan’s birthday across Ongole, Nellore",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/fans-jsp-workers-celebrate-pawans-birthday-across-ongole-nellore/article71419766.ece",
-     "summary": "",
-     "published": "2026-09-02T14:55:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nreiiu/article71420483.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%2016.38.25.jpeg",
-     "licence": "linkout",
-     "id": "de9fdcc7aa09",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05",
-     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 The Indian Express",
-     "published": "2026-09-02T12:15:31+00:00",
-     "source": "The Indian Express",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "ee499c946faa",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "category_label": "General",
      "figures": [
-      "05. Today News Headlines for School"
+      "158 medical shops across Telangana issued"
      ]
+    },
+    {
+     "title": "Single-window system launched for Ganesh pandal organisers in Nellore",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/single-window-system-launched-for-ganesh-pandal-organisers-in-nellore/article71419956.ece",
+     "summary": "",
+     "published": "2026-09-02T15:28:22+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "47b0e308b862",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Stalin says DMK will not give up on party district secretaries affected by new rules",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-says-dmk-will-not-give-up-on-party-district-secretaries-affected-by-new-rules/article71420633.ece",
+     "summary": "M.K. Stalin said that though the DMK was the first regional party to capture power in India, it should adapt to changing times to avoid stagnation",
+     "published": "2026-09-02T15:27:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/kus3gz/article71420624.ece/alternates/LANDSCAPE_1200/PTI08_22_2026_000187B.jpg",
+     "licence": "linkout",
+     "id": "3b6bffd877c6",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "El Nino threat: Avoid paddy sowing farmers told",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/el-nino-threat-avoid-paddy-sowing-farmers-told/article71420107.ece",
+     "summary": "",
+     "published": "2026-09-02T15:27:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/58rg9j/article71420659.ece/alternates/LANDSCAPE_1200/9604_2_9_2026_14_13_5_3_WHATSAPPIMAGE2026_09_02AT134731.JPEG",
+     "licence": "linkout",
+     "id": "732e29615a00",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Over 2,500 Guarantee Committee members will be appointed in Mandya district soon: Dinesh Gooligowda",
+     "url": "https://www.thehindu.com/news/national/karnataka/over-2500-guarantee-committee-members-will-be-appointed-in-mandya-district-soon-dinesh-gooligowda/article71420292.ece",
+     "summary": "",
+     "published": "2026-09-02T15:27:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/w9m8og/article71420561.ece/alternates/LANDSCAPE_1200/5964_3_5_2026_19_15_12_1_MLCDINESHGOOLIGOWDA.JPG",
+     "licence": "linkout",
+     "id": "558c1201aa44",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2,500 Guarantee Committee members will be"
+     ]
+    },
+    {
+     "title": "10 fake doctors held for running clinics",
+     "url": "https://www.thehindu.com/news/national/telangana/10-fake-doctors-held-for-running-clinics/article71420140.ece",
+     "summary": "Their stated educational qualifications ranged from Intermediate and Class X to degrees such as B.Com, BA and B.Sc.",
+     "published": "2026-09-02T15:25:30+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "fe452cc93250",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "10 fake doctors held for running"
+     ]
+    },
+    {
+     "title": "NITI Aayog tells Karnataka to consider building a ‘second Bengaluru’ to ease pressure on capital",
+     "url": "https://www.thehindu.com/news/national/karnataka/niti-aayog-tells-karnataka-to-consider-building-a-second-bengaluru-to-ease-pressure-on-capital/article71420419.ece",
+     "summary": "The NITI Aayog has suggested that the Karnataka government consider building a “second Bengaluru” in the State to reduce the pressure on the capital",
+     "published": "2026-09-02T15:24:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/g8f61z/article71420651.ece/alternates/LANDSCAPE_1200/20260902363L.jpg",
+     "licence": "linkout",
+     "id": "819e888b4c7d",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1448,15 +1449,15 @@
      ]
     },
     {
-     "title": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWw2X2NldHh3RGRVVnAtckdtU2Z2TlFlcXZteWlqMTBDTHQySy1MS1VGR0pCbXIxaC1YNjFUdW96YmdOVFdDRmJDcjU1S3U0N0NXU2hxUG5WY2VrdFRQa1BiS1dEZHhBZU5LbGhUdXdqUUd6MFVXVUptODFDT2RSQnN4SThlYlFXRFd2UHQtYk90ZkhjWDRyYkd2eElhSzVzeURjUHFQTlNmQ2tFcDJDcXN30gGyAUFVX3lxTE9hbDZfY2V0eHdEZFVWcC1yR21TZnZOUWVxdm15aWoxMENMdDJLLUxLVUZHSkJtcjFoLVg2MVR1b3piZ05UV0NGYkNyNTVLdTQ3Q1dTaHFQblZjZWt0VFBrUGJLV0RkeEFlTktsaFR1d2pRR3owVVdVSm04MUNPZFJCc3hJOGViUVdEV3ZQdC1iT3RmSGNYNHJiR3Z4SWFLNXN5RGNQcVBOU2ZDa0VwMkNxc3c?oc=5",
-     "summary": "University of Chicago Launches New Master’s in Applied Artificial Intelligence | Newswise Newswise",
-     "published": "2026-09-02T03:30:00+00:00",
-     "source": "Newswise",
+     "title": "Naples, European Capital of Artificial Intelligence: Federico II University to Host the 2026 Edition of ECML PKDD",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3lDRG51Si1JLUJyaFhrNkFNYUtaLUlrSWtFd1pvVGQzbThINTlaOEdkbDNlZkRQSXBmaFR5WE9rUWs1eElOQUt4Y0hwMzVHdHp4VXV2Y2NFd0hGY0Z4UmxZQUN4el9GT0F4X2JCVkphRjk5ZmVQNXl6ZWdCRU0wcUFLUHJaamVxMTNMSmZ0VUItY25Hd3ZuaU5aWjlGRC1PeWVxYkVPWVNHNkdFUjBPZFBQVUxzR1hMQ3BkM19UMkhaQWM?oc=5",
+     "summary": "Naples, European Capital of Artificial Intelligence: Federico II University to Host the 2026 Edition of ECML PKDD unina.it",
+     "published": "2026-09-02T03:56:15+00:00",
+     "source": "unina.it",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "66238fae8221",
+     "id": "bac488273af6",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1561,7 +1562,7 @@
      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
      "url": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
      "summary": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
-     "published": "2026-09-02T12:14:31+00:00",
+     "published": "2026-09-02T15:20:19+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg",
