@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T09:35:57.609229+00:00",
+ "generated_at": "2026-09-03T10:02:14.128061+00:00",
  "podcasts_fetched_at": "2026-09-01T22:01:39.218117+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 125288.0,
    "change": 1345.0,
    "changePct": 1.09,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,15 +84,15 @@
   }
  ],
  "topics": [
-  "NALSAR",
-  "Month Girl",
+  "Former Minister",
+  "Norway Russian",
   "Jazeera English",
   "News",
   "IDFC Bank",
-  "Manipur Home",
-  "Srikakulam Ramayana",
-  "Egypt Sisi",
-  "Photos Symbolic",
+  "Abhinandan Varthaman",
+  "Anna Hazare",
+  "Rescue Nepal",
+  "Israel Ukraine",
   "Thailand"
  ],
  "sections": [
@@ -102,32 +103,32 @@
    "upsc": false,
    "items": [
     {
-     "title": "BCI withdraws NALSAR enrolment freeze within hours, says all 2026 graduates can enrol",
-     "url": "https://www.thehindu.com/news/national/bci-withdraws-nalsar-enrolment-freeze-within-hours-says-all-2026-graduates-can-enrol/article71341536.ece",
-     "summary": "NALSAR students had recently opposed the proposed participation of CJI Surya Kant as the chief guest at their convocation, citing his remarks during proceedings on alleged police excesses against NEET protesters in Delhi",
-     "published": "2026-09-03T09:21:07+00:00",
+     "title": "Former OSD to Minister Konda Surekha, five others booked for assaulting businessman",
+     "url": "https://www.thehindu.com/news/national/telangana/former-osd-to-konda-surekha-five-others-booked-for-assaulting-businessman/article71370067.ece",
+     "summary": "",
+     "published": "2026-09-03T09:55:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/shtjq7/article71342503.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-13%20220912.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "221f87f6d7b4",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "3-Month-Old Girl Raped By Neighbour, 35, In UP: Cops",
-     "url": "https://www.ndtv.com/india-news/3-month-old-girl-raped-by-neighbour-35-in-up-cops-11996272#publisher=newsstand",
-     "summary": "A three-month-old girl was raped allegedly by a 35-year-old neighbour in a village in Uttar Pradesh's Mainpuri, police said on Thursday.",
-     "published": "2026-09-03T08:05:55+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2024-06/olj5u4a8_police-generic-image_625x300_18_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a4de711450a7",
+     "id": "e083aa87ee3b",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
+    },
+    {
+     "title": "Norway seizes Russian ship in Arctic over Crimea compensation claim",
+     "url": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss",
+     "summary": "Moscow challenges Norway's seizure of vessel, the Professor Molchanov, calling it an act of piracy.",
+     "published": "2026-09-03T09:22:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-1371866576-1788425447.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "7e410dacaeed",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
     },
     {
      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
@@ -144,10 +145,52 @@
      "from_section": "Global News"
     },
     {
+     "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+     "url": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
+     "summary": "EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.",
+     "published": "2026-09-03T09:34:09+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a993ec9adf9-1788427977.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "afe1412edeec",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Gulf insecurity fuels US energy dominance",
+     "url": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
+     "summary": "The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.",
+     "published": "2026-09-03T09:16:20+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9924719be91-1788421233.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "ca598f051fb7",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Tamil Nadu government to finalise location for new Assembly-Secretariat complex by mid-September",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-to-finalise-location-for-new-assembly-secretariat-complex-by-mid-september/article71423051.ece",
+     "summary": "The TVK-led government has identified three potential sites for the new Secretariat",
+     "published": "2026-09-03T09:44:52+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/p81x8q/article71423194.ece/alternates/LANDSCAPE_1200/FORT%20ST%20GEORGE%20LEGISLATIVE%20ASSEMBLY%20HALL%20SECRETARIAT_09.jpg",
+     "licence": "linkout",
+     "id": "f0415df042c0",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "Telangana CM Revanth recommends Konda Surekha’s removal from Cabinet, Governor’s decision likely today",
      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-recommends-konda-surekhas-removal-from-cabinet-rescinds-chinna-reddys-appointment/article71423099.ece",
      "summary": "Telangana CM appoints three more women in important positions. G. Sudha Rani, a BC woman leader from the same district as Konda Surekha, was appointed as KUDA Chairperson",
-     "published": "2026-09-03T09:32:55+00:00",
+     "published": "2026-09-03T09:41:05+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/1nyzvw/article71423140.ece/alternates/LANDSCAPE_1200/IMG_Forest-2_2_1_LREOPK4B.jpg",
@@ -169,25 +212,25 @@
      "id": "36a4b59c0ba3",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "306 killed , 49 missing",
       "49 missing in ethnic violence since"
      ]
     },
     {
-     "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-     "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-     "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-     "published": "2026-09-03T09:30:26+00:00",
-     "source": "BBC News",
+     "title": "The gold trade is dead. Long live gold.",
+     "url": "https://www.livemint.com/money/personal-finance/the-gold-trade-is-dead-long-live-gold-etfs-jewellery-demand-buyers-investors-inflation-oil-shock-markets-11788338533918.html",
+     "summary": "Record US borrowing, weaker Treasury demand and rising fiscal pressures could eventually force policymakers to tolerate inflation and negative real rates—conditions that favour gold.",
+     "published": "2026-09-03T09:53:45+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8816/live/a45454a0-a76d-11f1-993c-a325009c1935.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/03/600x338/s_1782288538863_1782288543389_42eb1049-ce04-4fa4-a82e-b3b75d863f72_1788428683961_a2150e99-33a8-4306-9b6f-d1b720b367a0_a315eea6-9c7a-487d-ad44-161615f68e84_675e0ceb-1c89-413a-b83f-4d5f535e3180.jpg",
      "licence": "linkout",
-     "id": "292e784a2d86",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
+     "id": "d5a034bbb324",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business"
     },
     {
      "title": "Sri Lanka Face Rs 188 Crore Loss Due To Massive Decision By ICC: Report",
@@ -237,32 +280,29 @@
      "from_section": "Culture"
     },
     {
-     "title": "Cockroach Janta Party Faction Emerges, Calls For Volunteers",
-     "url": "https://www.ndtv.com/india-news/cockroach-janta-party-faction-emerges-calls-for-volunteers-11996231#publisher=newsstand",
-     "summary": "Manish Brahmbhatt, who leads this faction, alleges that after the movement led by the CJP succeeded it was \"sold out and politicised\". Sources say Brahmbhatt \"had nothing to do with the movement\" and have played down the talk of a faction.",
-     "published": "2026-09-03T08:05:20+00:00",
-     "source": "NDTV",
+     "title": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+     "url": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
+     "summary": "Authorities in Nepal use helicopters and zip lines to reach remote flood-stricken villages amid widespread destruction.",
+     "published": "2026-09-03T09:38:14+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/im78v1oo_cjp-d-_625x300_03_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a992f96-1788424086.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "7594dff79a2c",
+     "id": "e412ad7854e4",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+       "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+       "summary": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages."
+      }
+     ],
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "National News"
-    },
-    {
-     "title": "'India Lost To Ireland': PCB Chief's Bizarre Verdict On Pakistan's Test Struggles",
-     "url": "https://sports.ndtv.com/cricket/india-lost-to-ireland-pcb-chiefs-bizarre-verdict-on-pakistans-test-struggles-11995834#publisher=newsstand",
-     "summary": "Pakistan Cricket Board (PCB) chief Mohsin Naqvi pointed at India's shock defeat against Ireland to defend Pakistan cricket amid the ongoing criticism.",
-     "published": "2026-09-03T07:43:58+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/33vp3i5c_cs_625x300_03_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4f9af2fc0ecb",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Sports"
+     "from_section": "Global News",
+     "figures": [
+      "1,270. Authorities in Nepal use helicopters"
+     ]
     },
     {
      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
@@ -282,18 +322,18 @@
      ]
     },
     {
-     "title": "Photos: Symbolic funerals held in Nepal for missing flood victims",
-     "url": "https://www.aljazeera.com/gallery/2026/9/3/photos-symbolic-funerals-held-in-nepal-for-missing-flood-victims?traffic_source=rss",
-     "summary": "Symbolic funerals held in Nepal for those still missing after deadly floods in the Himalayan nation.",
-     "published": "2026-09-03T08:32:34+00:00",
-     "source": "Al Jazeera",
+     "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+     "url": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
+     "summary": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
+     "published": "2026-09-02T15:16:42+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260902__C74L2YB__v1__HighRes__NepalDisasterFlood-1788415739.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f47/live/b3e56ca0-a6d8-11f1-aed2-8d6da8d75094.jpg",
      "licence": "linkout",
-     "id": "07b16d628db9",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News"
+     "id": "b1b861199eae",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global Hotline"
     },
     {
      "title": "Why Nepal floods should worry India",
@@ -332,6 +372,20 @@
      "from_section": "Technology"
     },
     {
+     "title": "Not Just A Degree: Delhi Students To Get Global AI, Cyber Security Skills",
+     "url": "https://www.ndtv.com/education/not-just-a-degree-delhi-students-to-get-global-ai-cyber-security-skills-11996626#publisher=newsstand",
+     "summary": "Delhi state universities may forge global tie-ups to equip students with AI, cyber security and emerging technology skills, while boosting placements, research and student startups.",
+     "published": "2026-09-03T09:13:25+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-05/qtn93dq8_delhi-university_625x300_26_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "c38ea590565e",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News"
+    },
+    {
      "title": "Watch: BBC travels in self-driving Uber around London",
      "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
      "summary": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
@@ -346,80 +400,46 @@
      "from_section": "Technology"
     },
     {
-     "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-     "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-     "summary": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
-     "published": "2026-09-02T23:36:49+00:00",
-     "source": "BBC News",
+     "title": "Abhinandan Varthaman’s second innings in the skies: From fighter pilot to commercial pilot",
+     "url": "https://www.thehindu.com/news/national/abhinandan-varthaman-indian-airforce-captain-commercial-pilot-fly-91-airlines-balakot-airstrikes-news/article71422957.ece",
+     "summary": "Abhinandan Varthaman, who downed an enemy jet during an aerial combat with Pakistan in 2019, is set for a new chapter in the skies as a commercial pilot.",
+     "published": "2026-09-03T09:57:00+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d608/live/9029a2e0-a6e7-11f1-a291-b542ee92de7c.jpg",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
      "licence": "linkout",
-     "id": "970f8b61bfa5",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "15 self -driving taxis, but they"
-     ]
+     "id": "4d5c1210967c",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "National News"
     },
     {
-     "title": "Japan Cricket Chief Breaks Silence On Concerns Over Asian Games 2026 Accommodation",
-     "url": "https://sports.ndtv.com/cricket/japan-cricket-chief-breaks-silence-on-concerns-over-asian-games-2026-accommodation-11990998#publisher=newsstand",
-     "summary": "A Sri Lankan official said this week that some of Asia's top teams had raised doubts over facilities and accommodation at the Games, which are taking place in Nagoya and the wider Aichi area from September 19.",
-     "published": "2026-09-03T08:07:46+00:00",
+     "title": "BCCI Review Meeting Live Updates: Meeting Ends; ODI World Cup 2027 Plans For Virat Kohli, Rohit Sharma In Focus",
+     "url": "https://sports.ndtv.com/cricket/bcci-team-india-review-meeting-live-updates-shreyas-iyer-gautam-gambhir-shubman-gill-11996611#publisher=newsstand",
+     "summary": "BCCI Review Meeting Live Updates: Virat Kohli and Rohit Sharma's spot in the ODI World Cup 2027 squad remains a major focus at the BCCI review meeting on Thursday.",
+     "published": "2026-09-03T09:38:29+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/o892mn4g_team-india_625x300_28_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/rse0p8tk_cs_625x300_03_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "49d3cc5d98fb",
+     "id": "100dcbc70699",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
     },
     {
-     "title": "Shreyas Iyer, Shubman Gill, Gautam Gambhir Arrive At BCCI Office For Review Meeting",
-     "url": "https://sports.ndtv.com/cricket/shreyas-iyer-shubman-gill-gautam-gambhir-arrive-at-bcci-office-for-review-meeting-11995876#publisher=newsstand",
-     "summary": "India's T20I captain Shreyas Iyer, Test and ODI skipper Shubman Gill, national head coach Gautam Gambhir, and Centre of Excellence (CoE) chief VVS Laxman arrived in Mumbai at BCCI Headquarters on Thursday for the critical review meeting.",
-     "published": "2026-09-03T06:57:00+00:00",
+     "title": "PCB Chief Makes Stunning India Claim While Defending Pakistan's Test Horror Show",
+     "url": "https://sports.ndtv.com/cricket/india-lost-to-ireland-pcb-chiefs-bizarre-verdict-on-pakistans-test-struggles-11995834#publisher=newsstand",
+     "summary": "Pakistan Cricket Board (PCB) chief Mohsin Naqvi pointed at India's shock defeat against Ireland to defend Pakistan cricket amid the ongoing criticism.",
+     "published": "2026-09-03T08:18:00+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/3eqnqidg_shreyas-iyer-_625x300_03_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/33vp3i5c_cs_625x300_03_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4c659db8f2e6",
+     "id": "4f9af2fc0ecb",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
-    },
-    {
-     "title": "\"GOAT Debate Settled\": Lionel Messi Breaks Internet With Receipt-Style Instagram Post",
-     "url": "https://sports.ndtv.com/football/goat-debate-settled-lionel-messi-breaks-internet-with-receipt-style-instagram-post-11995193#publisher=newsstand",
-     "summary": "Lionel Messi has added his own twist to the long-running debate over football's greatest player by sharing a receipt-style Instagram post highlighting his achievements with Argentina.",
-     "published": "2026-09-03T06:44:01+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/l9nv0j34_lionel-messi-getty_625x300_03_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "2a83e6fdd2e4",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
-     "title": "NBA fines Clippers $30m, suspends several executives in Kawhi Leonard probe",
-     "url": "https://www.aljazeera.com/sports/2026/9/3/nba-fines-clippers-30m-suspends-several-executives-in-kawhi-leonard-probe?traffic_source=rss",
-     "summary": "Clippers owner Steve Ballmer suspended for one year; team disputes league's conclusions and validity of investigation.",
-     "published": "2026-09-03T08:17:46+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9916fc-1788417788.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "0bd575b2c0ce",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Global News",
-     "figures": [
-      "$30 m, suspends several executives"
-     ]
     },
     {
      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
@@ -449,7 +469,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-03T09:35:44.329585+00:00",
+     "published": "2026-09-03T10:02:00.940368+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -460,7 +480,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-03T09:35:44.329606+00:00",
+     "published": "2026-09-03T10:02:00.940384+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -471,7 +491,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-03T09:35:44.329611+00:00",
+     "published": "2026-09-03T10:02:00.940389+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -482,7 +502,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-03T09:35:44.329615+00:00",
+     "published": "2026-09-03T10:02:00.940394+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -493,7 +513,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-03T09:35:44.329619+00:00",
+     "published": "2026-09-03T10:02:00.940398+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -504,7 +524,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-03T09:35:44.329623+00:00",
+     "published": "2026-09-03T10:02:00.940402+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -543,102 +563,98 @@
    "upsc": false,
    "items": [
     {
-     "title": "306 killed, 49 missing in ethnic violence since May 2023: Manipur Home Minister tells Assembly",
-     "url": "https://www.thehindu.com/news/national/manipur/306-killed-49-missing-in-ethnic-violence-since-may-2023-manipur-home-minister-tells-assembly/article71423134.ece",
-     "summary": "The violence between the Meitei and Kuki-Zo communities started on May 3, 2023, after a ‘Tribal Solidarity March’ was organised in the hill districts to protest the Meitei community’s demand for Scheduled Tribes status",
-     "published": "2026-09-03T09:30:56+00:00",
+     "title": "Abhinandan Varthaman’s second innings in the skies: From fighter pilot to commercial pilot",
+     "url": "https://www.thehindu.com/news/national/abhinandan-varthaman-indian-airforce-captain-commercial-pilot-fly-91-airlines-balakot-airstrikes-news/article71422957.ece",
+     "summary": "Abhinandan Varthaman, who downed an enemy jet during an aerial combat with Pakistan in 2019, is set for a new chapter in the skies as a commercial pilot.",
+     "published": "2026-09-03T09:57:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xclcse/article71423167.ece/alternates/LANDSCAPE_1200/vbk-Govindas%20Konthoujam-%20twitter.jpg",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
      "licence": "linkout",
-     "id": "36a4b59c0ba3",
+     "id": "4d5c1210967c",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "Anna Hazare recovering, advised hospital stay for two more days, says aide",
+     "url": "https://www.thehindu.com/news/national/anna-hazare-recovering-advised-hospital-stay-for-two-more-days-says-aide/article71423213.ece",
+     "summary": "89-year-old activist Anna Hazare was admitted to Bombay Hospital in south Mumbai on Monday (August 31) night after his blood reports indicated a renal infection",
+     "published": "2026-09-03T09:56:03+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/mrmh2k/article71423236.ece/alternates/LANDSCAPE_1200/PTI09_01_2026_000564B.jpg",
+     "licence": "linkout",
+     "id": "53876a978616",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Former OSD to Minister Konda Surekha, five others booked for assaulting businessman",
+     "url": "https://www.thehindu.com/news/national/telangana/former-osd-to-konda-surekha-five-others-booked-for-assaulting-businessman/article71370067.ece",
+     "summary": "",
+     "published": "2026-09-03T09:55:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "e083aa87ee3b",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Opinion: Opinion | Why Nepal's Climate Grievance Is Valid, But Its Case Against India Isn't",
+     "url": "https://www.ndtv.com/opinion/why-nepals-climate-grievance-is-valid-but-its-case-against-india-isnt-11996658#publisher=newsstand",
+     "summary": "Nepal's vulnerability gives it a claim on multilateral climate finance. It does not follow that India bears responsibility for this.",
+     "published": "2026-09-03T09:33:37+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/53b5c07g_nepal-flood_625x300_03_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "9ac31d27bd04",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Bihar Teacher's Unique Teaching Method Earns Her State Teacher Award",
+     "url": "https://www.ndtv.com/education/teachers-day-2026-bihar-teachers-unique-teaching-method-earns-her-state-teacher-award-11995966#publisher=newsstand",
+     "summary": "Bihar State Teacher Award 2026: Nikita Bharti prepares different teaching-learning materials (TLMs) to make difficult subjects easier to understand.",
+     "published": "2026-09-03T09:27:21+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/viuelsog_bihar-teacher-nikita-bharti_625x300_03_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d0bcb32d97b0",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "AAP's Satyendar Jain Gets Bail In Delhi Jal Board Corruption Case",
+     "url": "https://www.ndtv.com/india-news/aaps-satyendar-jain-gets-bail-in-delhi-jal-board-corruption-case-11996694#publisher=newsstand",
+     "summary": "A Delhi court on Thursday granted bail to AAP leader and former Delhi minister Satyendar Jain in a corruption case involving the Delhi Jal Board.",
+     "published": "2026-09-03T09:26:00+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/kq0dc6p_satyendar-jain_625x300_18_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6d166a6a98b2",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "India, Belgium Target Doubling Bilateral Trade In Next 5 Years: PM Modi",
+     "url": "https://www.ndtv.com/india-news/india-belgium-target-doubling-bilateral-trade-in-next-5-years-pm-modi-11996585#publisher=newsstand",
+     "summary": "Prime Minister Narendra Modi on Thursday said India and Belgium have set a goal of doubling bilateral trade over the next five years, as the two countries moved to deepen economic, defence, clean energy and technology cooperation.",
+     "published": "2026-09-03T09:14:39+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/fhc0c28k_pm-modi-_650x400_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b5849b68d47e",
      "category": "politics",
      "category_label": "Political controversy",
      "figures": [
-      "306 killed , 49 missing",
-      "49 missing in ethnic violence since"
+      "5 Years : PM Modi"
      ]
-    },
-    {
-     "title": "At 84, a retired Srikakulam botany professor retells Ramayana in simple Telugu for children who find Valmiki hard",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/at-84-a-retired-srikakulam-botany-professor-retells-ramayana-in-simple-telugu-for-children-who-find-valmiki-hard/article71422275.ece",
-     "summary": "Nikku Appanna of Buditi village in Srikakulam district, who taught at Botany for 35 years; says the young will walk the right path if they can read Rama’s values in their own language",
-     "published": "2026-09-03T09:28:53+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/f2ewyx/article71423130.ece/alternates/LANDSCAPE_1200/Professor%20Rama.jpeg",
-     "licence": "linkout",
-     "id": "600cbc04aa98",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "35 years ; says the young"
-     ]
-    },
-    {
-     "title": "Supreme Court rules that BCI has no power to punish law students",
-     "url": "https://www.thehindu.com/news/national/supreme-court-rules-that-bci-has-no-power-to-punish-law-students/article71422900.ece",
-     "summary": "The petition said the BCI letters created a chilling effect on the freedom of speech and expression and the freedom of association among students",
-     "published": "2026-09-03T09:28:03+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/1xy0zp/article71423104.ece/alternates/LANDSCAPE_1200/IMG_nalsar_2_1_FEGC9466.jpg",
-     "licence": "linkout",
-     "id": "6f718b95e2de",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "BCI chairman apologises to law students amid enrolment ban controversy",
-     "url": "https://www.thehindu.com/news/national/bci-chairman-apologises-to-law-students-amid-enrolment-ban-controversy/article71350433.ece",
-     "summary": "Without specifying the controversy or NALSAR, Mr. Mishra apologises for his words or letters that may have hurt students; says they should be free to form and express their own opinions; seeks dialogue and mutual respect",
-     "published": "2026-09-03T09:22:57+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/chzq/article71350759.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-16%20014256.png",
-     "licence": "linkout",
-     "id": "59e7a06500be",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "\"Bar Council's Order Against Law Students Flawed\": Top Court In NALSAR Row",
-     "url": "https://www.ndtv.com/india-news/bar-councils-order-against-law-students-legally-flawed-top-court-in-nalsar-row-11996236#publisher=newsstand",
-     "summary": "The Supreme Court made it clear that the Bar Council of India (BCI) and State Bar Councils do not have authority to initiate disciplinary action against law students.",
-     "published": "2026-09-03T08:17:01+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/ah7c4mu4_manan-kumar-mishra_625x300_15_August_26.jpg",
-     "licence": "linkout",
-     "id": "4bad6ed9730f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Delhi-Bound Flight Lands In Lucknow After Smoke Alarm Goes Off",
-     "url": "https://www.ndtv.com/india-news/delhi-bound-flight-lands-in-lucknow-after-smoke-alarm-goes-off-11996312#publisher=newsstand",
-     "summary": "An Air India Express flight from Varanasi to Delhi made a precautionary landing at Lucknow airport Thursday morning allegedly after a smoke detection alarm went off in the aircraft's cargo hold, sources said.",
-     "published": "2026-09-03T08:12:39+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-06/4grbqia_air-india-express-photo-air-india-expressx_625x300_16_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "eda9e521497b",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Over 100 Dog-Bite Cases Reported In Assam's Dibrugarh In A Week",
-     "url": "https://www.ndtv.com/india-news/over-100-dog-bite-cases-reported-in-assams-dibrugarh-in-a-week-11996281#publisher=newsstand",
-     "summary": "Officials said the actual number of dog-bite cases could be higher as some victims seek treatment at private hospitals and healthcare facilities.",
-     "published": "2026-09-03T08:09:43+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-04/kvel9ucs_stray-dogs_625x300_20_April_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "15bcb1a90c0e",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -648,6 +664,56 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+     "url": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
+     "summary": "Authorities in Nepal use helicopters and zip lines to reach remote flood-stricken villages amid widespread destruction.",
+     "published": "2026-09-03T09:38:14+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a992f96-1788424086.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "e412ad7854e4",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+       "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+       "summary": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages."
+      }
+     ],
+     "category": "human",
+     "category_label": "Human interest",
+     "figures": [
+      "1,270. Authorities in Nepal use helicopters"
+     ]
+    },
+    {
+     "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+     "url": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
+     "summary": "EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.",
+     "published": "2026-09-03T09:34:09+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a993ec9adf9-1788427977.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "afe1412edeec",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Norway seizes Russian ship in Arctic over Crimea compensation claim",
+     "url": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss",
+     "summary": "Moscow challenges Norway's seizure of vessel, the Professor Molchanov, calling it an act of piracy.",
+     "published": "2026-09-03T09:22:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-1371866576-1788425447.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "7e410dacaeed",
+     "category": "crime",
+     "category_label": "Crime"
+    },
     {
      "title": "Egypt’s Sisi welcomes China’s President Xi in Grand Egyptian Museum tour",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/egypts-sisi-welcomes-chinas-president-xi-in-grand-egyptian-museum-tour?traffic_source=rss",
@@ -662,45 +728,6 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Photos: Symbolic funerals held in Nepal for missing flood victims",
-     "url": "https://www.aljazeera.com/gallery/2026/9/3/photos-symbolic-funerals-held-in-nepal-for-missing-flood-victims?traffic_source=rss",
-     "summary": "Symbolic funerals held in Nepal for those still missing after deadly floods in the Himalayan nation.",
-     "published": "2026-09-03T08:32:34+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260902__C74L2YB__v1__HighRes__NepalDisasterFlood-1788415739.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "07b16d628db9",
-     "category": "weather",
-     "category_label": "Weather & disaster"
-    },
-    {
-     "title": "Good Good Golf CEO, president quit amid advertisement controversy",
-     "url": "https://www.aljazeera.com/sports/2026/9/3/good-good-golf-ceo-president-quit-amid-advertisement-controversy?traffic_source=rss",
-     "summary": "The advertisement faced severe backlash and prompted calls for a boycott of products from Callaway, which co-branded it.",
-     "published": "2026-09-03T08:32:20+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9915aab5-1788417450.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "78ffb1ab4b05",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Russia to close Goethe-Institut centres as Germany tensions escalate",
-     "url": "https://www.aljazeera.com/news/2026/9/3/russia-to-close-goethe-institut-centres-as-germany-tensions-escalate?traffic_source=rss",
-     "summary": "Moscow to shut Goethe-Institut centres after Germany announces the closure of two Russian institutions.",
-     "published": "2026-09-03T08:12:46+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a734660c9-1785939552.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "40db11e315ee",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
@@ -712,6 +739,19 @@
      "id": "a75fefc502eb",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+     "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+     "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
+     "published": "2026-09-03T09:30:26+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8816/live/a45454a0-a76d-11f1-993c-a325009c1935.jpg",
+     "licence": "linkout",
+     "id": "292e784a2d86",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Trump $1 coin makes him first living president on US currency in a century",
@@ -811,21 +851,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "306 killed, 49 missing in ethnic violence since May 2023: Manipur Home Minister tells Assembly",
-     "url": "https://www.thehindu.com/news/national/manipur/306-killed-49-missing-in-ethnic-violence-since-may-2023-manipur-home-minister-tells-assembly/article71423134.ece",
-     "summary": "The violence between the Meitei and Kuki-Zo communities started on May 3, 2023, after a ‘Tribal Solidarity March’ was organised in the hill districts to protest the Meitei community’s demand for Scheduled Tribes status",
-     "published": "2026-09-03T09:30:56+00:00",
+     "title": "Abhinandan Varthaman’s second innings in the skies: From fighter pilot to commercial pilot",
+     "url": "https://www.thehindu.com/news/national/abhinandan-varthaman-indian-airforce-captain-commercial-pilot-fly-91-airlines-balakot-airstrikes-news/article71422957.ece",
+     "summary": "Abhinandan Varthaman, who downed an enemy jet during an aerial combat with Pakistan in 2019, is set for a new chapter in the skies as a commercial pilot.",
+     "published": "2026-09-03T09:57:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xclcse/article71423167.ece/alternates/LANDSCAPE_1200/vbk-Govindas%20Konthoujam-%20twitter.jpg",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
      "licence": "linkout",
-     "id": "36a4b59c0ba3",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "306 killed , 49 missing",
-      "49 missing in ethnic violence since"
-     ]
+     "id": "4d5c1210967c",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "Anna Hazare recovering, advised hospital stay for two more days, says aide",
+     "url": "https://www.thehindu.com/news/national/anna-hazare-recovering-advised-hospital-stay-for-two-more-days-says-aide/article71423213.ece",
+     "summary": "89-year-old activist Anna Hazare was admitted to Bombay Hospital in south Mumbai on Monday (August 31) night after his blood reports indicated a renal infection",
+     "published": "2026-09-03T09:56:03+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/mrmh2k/article71423236.ece/alternates/LANDSCAPE_1200/PTI09_01_2026_000564B.jpg",
+     "licence": "linkout",
+     "id": "53876a978616",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Former OSD to Minister Konda Surekha, five others booked for assaulting businessman",
+     "url": "https://www.thehindu.com/news/national/telangana/former-osd-to-konda-surekha-five-others-booked-for-assaulting-businessman/article71370067.ece",
+     "summary": "",
+     "published": "2026-09-03T09:55:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "e083aa87ee3b",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "At 84, a retired Srikakulam botany professor retells Ramayana in simple Telugu for children who find Valmiki hard",
@@ -853,35 +915,6 @@
      "image": "https://th-i.thgim.com/public/incoming/1xy0zp/article71423104.ece/alternates/LANDSCAPE_1200/IMG_nalsar_2_1_FEGC9466.jpg",
      "licence": "linkout",
      "id": "6f718b95e2de",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Watch: KSRTC driver’s tearful farewell to bus on retirement day goes viral",
-     "url": "https://www.thehindu.com/news/national/kerala/watch-ksrtc-drivers-tearful-farewell-to-bus-on-retirement-day-goes-viral/article71423107.ece",
-     "summary": "Paul Kurian, a driver attached to KSRTC Kumily depot in Keralam’s Idukki, completed his last duty on September 2. After parking the bus at the end of his shift, he kissed the steering wheel and saluted the vehicle before walking away",
-     "published": "2026-09-03T09:22:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/hxukn1/article71423112.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-03%20at%2013.17.40.jpeg",
-     "licence": "linkout",
-     "id": "c5c3af40dd44",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "2. After parking the bus"
-     ]
-    },
-    {
-     "title": "Historic Shivappa Nayaka Palace in Shivamogga renovated, needs staff for maintenance",
-     "url": "https://www.thehindu.com/news/national/karnataka/historic-shivappa-nayaka-palace-in-shivamogga-renovated-needs-staff-for-maintenance/article71419830.ece",
-     "summary": "The historic structure remained unknown of its significance. For several decades it housed an office of the Forest Department",
-     "published": "2026-09-03T09:19:39+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2y3lxo/article71420059.ece/alternates/LANDSCAPE_1200/9911_2_9_2026_18_29_22_4_PALACE05.JPG",
-     "licence": "linkout",
-     "id": "036bf3f14399",
      "category": "general",
      "category_label": "General"
     },
@@ -1442,26 +1475,6 @@
      "id": "773b386d1131",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "8th Pay Commission salary hike: How a 7% annual increment could mean ₹29 lakh extra pay in 10 years",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-how-a-7-annual-increment-could-mean-29-lakh-extra-pay-in-10-years-11788424458850.html",
-     "summary": "Central government employee bodies have demanded annual increments of 5%-7% under the 8th Pay Commission, against the current 3% rate. An illustrative calculation shows that a Level 8 employee could earn nearly ₹29 lakh more in cumulative basic pay over 10 years at a 7% increment.",
-     "published": "2026-09-03T08:50:51+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/03/600x338/d_1788425405429_0ab4a0d2-c0b4-461a-862f-afac4154ae36_1788425405622_e4184b51-dc28-4e3a-8431-c0721a65cc46_da885804-4f78-4db1-a335-b5c37cd0f44a_c593e652-db63-44a5-a080-8ce0430647d9.png",
-     "licence": "linkout",
-     "id": "3e40fb24566b",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "₹29 lakh extra pay in 10",
-      "10 years",
-      "8 employee could earn nearly ₹29",
-      "₹29 lakh more in cumulative basic",
-      "10 years at a 7% increment"
-     ]
     }
    ]
   },
@@ -1543,6 +1556,19 @@
      "category_label": "General"
     },
     {
+     "title": "New York City to ban student AI use in public schools until high school",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWp3YXkycXA0amJyLVZfbzh3a25JUGl2aFhLZ0otVVRCNTFnSXZORm1ZMVU1MWsyQW9jYmJhaWYtQkZUaktocTdTQnpWQ21KWHVxLWw4ZnZWQVdzc2RIZ3IwWmtxZTRHUS1RazlSS0JNSmZWdGxfak5nNWZuSVJtM3pESkM?oc=5",
+     "summary": "New York City to ban student AI use in public schools until high school The Guardian",
+     "published": "2026-09-02T15:36:00+00:00",
+     "source": "The Guardian",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "41ede31d04e8",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Hundreds protest outside Chapel Hill's G20 Innovation Ministerial, criticizing artificial intelligence",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSldacDFKdVVjaFFDajd3VWpGS3lybmZwLTZ1MGs2S0xWZjBXT0NEQkxKY2FzUlF6VTJ0YmxlVFRWQVJsSXFudm1vOXBtMGRKaG5ackhqdnpldFVtVjJXdmQ1MTdpZ1VocVZObjdpSVV0bm94Z2FYYmpIdG5qLXZ4bDdZSHpnRXVPVFdsTFFWbmQ3aGpnQU9TU1ItWHdwVzc0Q3hZY05yUUJQd1FISTlyN292VXRqTnBzSTdqdm42bU5aVHNIbWZvaEVnOGZfZkZhWFE?oc=5",
      "summary": "Hundreds protest outside Chapel Hill's G20 Innovation Ministerial, criticizing artificial intelligence WUNC News",
@@ -1567,19 +1593,6 @@
      "id": "340ac047c572",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "New York City Public Schools banning AI use through middle school starting this year - ABC News",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVFUVERKNGMyTDlwWUQ2Z29SYldYc1pyRHZvZHNFXzhsRFVROWE2T05vZ3lfLUE3Nm5tYWtxbU9fZVhIMUNXWFZ0aktrTHBUNHlFQll2QW94ZGdBbWFUT0tUcElMT1NMb2VkNDM3NkN4ZGYtb3E0eThhVHhsbkZkZEJLM2RSM2d1M3piNThHQWp4QzRDZjJfdl9qM0nSAaIBQVVfeXFMTl9KZ3YzOW9vdV9PcWhjTmV6bDZxTjZZYmRtZmNKdXRaenlXbEhETXZrRXVPdFJFZFNlcUM3WTZwRl9KS3VMWndXZS04NW53Vy1rUlFiWlkyRThhamNiVEg5bEdrOFBGYXFpelNnRUtLN2hLUWxxZjZoekhueHRjLUJ4aVJrNEFqSWtDUnNTVDlJSkxXM043R1lDbFdBME13ZHJ3?oc=5",
-     "summary": "New York City Public Schools banning AI use through middle school starting this year ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-09-02T11:06:45+00:00",
-     "source": "Breaking News, Latest News and Videos",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9a0689a08a8b",
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
@@ -1589,6 +1602,45 @@
    "title": "Sports",
    "upsc": false,
    "items": [
+    {
+     "title": "Ajit Agarkar Was Clueless On Jasprit Bumrah's Fitness, Hardik Pandya A Big Headache: Report",
+     "url": "https://sports.ndtv.com/cricket/ajit-agarkar-was-clueless-on-jasprit-bumrahs-fitness-hardik-pandya-a-big-headache-report-11992041#publisher=newsstand",
+     "summary": "The BCCI announced India's squad for the upcoming three-match T20I series against Afghanistan, with Bumrah included, subject to clearance from the CoE. Hardik, on the other hand, did not find a place in the team.",
+     "published": "2026-09-03T09:55:00+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-03/sekal5pg_jasprit-bumrah-hardik-pandya_625x300_01_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "792c199e4b49",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "BCCI Review Meeting Live Updates: Meeting Ends; ODI World Cup 2027 Plans For Virat Kohli, Rohit Sharma In Focus",
+     "url": "https://sports.ndtv.com/cricket/bcci-team-india-review-meeting-live-updates-shreyas-iyer-gautam-gambhir-shubman-gill-11996611#publisher=newsstand",
+     "summary": "BCCI Review Meeting Live Updates: Virat Kohli and Rohit Sharma's spot in the ODI World Cup 2027 squad remains a major focus at the BCCI review meeting on Thursday.",
+     "published": "2026-09-03T09:38:29+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/rse0p8tk_cs_625x300_03_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "100dcbc70699",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "\"He Keeps Tweeting Against Pakistan\": Wasim Akram's Big Remark On Ex-India Star",
+     "url": "https://sports.ndtv.com/cricket/he-keeps-tweeting-against-pakistan-wasim-akrams-big-remark-on-ex-india-star-11996419#publisher=newsstand",
+     "summary": "Recently, Wasim Akram opened up about his relationship with Irfan Pathan, revealing that he first met him in 2004 and was impressed by his approach and attitude.",
+     "published": "2026-09-03T08:52:14+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-11/82hobotc_wasim-akram_625x300_27_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "610cc92e77c1",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Japan Cricket Chief Breaks Silence On Concerns Over Asian Games 2026 Accommodation",
      "url": "https://sports.ndtv.com/cricket/japan-cricket-chief-breaks-silence-on-concerns-over-asian-games-2026-accommodation-11990998#publisher=newsstand",
@@ -1601,50 +1653,6 @@
      "id": "49d3cc5d98fb",
      "category": "sports",
      "category_label": "Sports"
-    },
-    {
-     "title": "'India Lost To Ireland': PCB Chief's Bizarre Verdict On Pakistan's Test Struggles",
-     "url": "https://sports.ndtv.com/cricket/india-lost-to-ireland-pcb-chiefs-bizarre-verdict-on-pakistans-test-struggles-11995834#publisher=newsstand",
-     "summary": "Pakistan Cricket Board (PCB) chief Mohsin Naqvi pointed at India's shock defeat against Ireland to defend Pakistan cricket amid the ongoing criticism.",
-     "published": "2026-09-03T07:43:58+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/33vp3i5c_cs_625x300_03_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4f9af2fc0ecb",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "Sri Lanka Face Rs 188 Crore Loss Due To Massive Decision By ICC: Report",
-     "url": "https://sports.ndtv.com/cricket/sri-lanka-face-rs-188-crore-loss-due-to-massive-decision-by-icc-report-11996011#publisher=newsstand",
-     "summary": "Sri Lanka are reportedly set to suffer an estimated loss of at least USD 20 million (around Rs 188 Crore) after the International Cricket Council formally stripped the country of hosting rights for the inaugural Women's Champions Trophy.",
-     "published": "2026-09-03T07:30:42+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/th5u98dc_ds_625x300_03_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e206ec06e579",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "Rs 188 Crore Loss Due To Massive",
-      "20 million (around Rs 188 Crore)",
-      "Rs 188 Crore ) after the International"
-     ]
-    },
-    {
-     "title": "\"Won't Play As Impact Player\": Ex-CSK Star Drops Big Hint On MS Dhoni's IPL Future",
-     "url": "https://sports.ndtv.com/cricket/wont-play-as-impact-player-ex-csk-star-drops-big-hint-on-ms-dhonis-ipl-future-11995822#publisher=newsstand",
-     "summary": "Former Chennai Super Kings batter S Badrinath has revealed that MS Dhoni does not see himself taking the field as an Impact Player.",
-     "published": "2026-09-03T07:07:04+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-05/jfjjs8cg_ms-dhoni-pti_625x300_19_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "0ce1a0cf757f",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1668,6 +1676,22 @@
      "category_label": "General"
     },
     {
+     "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+     "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
+     "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
+     "published": "2026-09-03T09:37:34+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
+     "licence": "linkout",
+     "id": "c130653105da",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "33. Jeffery was known for playing"
+     ]
+    },
+    {
      "title": "Kirstie Allsopp airlifted to hospital after fall during birthday celebrations",
      "url": "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo?at_medium=RSS&at_campaign=rss",
      "summary": "The TV presenter slipped and injured her leg while walking home from a beach in Devon with her family.",
@@ -1681,19 +1705,6 @@
      "category_label": "General"
     },
     {
-     "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
-     "url": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
-     "summary": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
-     "published": "2026-09-02T23:47:02+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae4/live/6a92f770-a71e-11f1-bae2-ff94dc64b981.jpg",
-     "licence": "linkout",
-     "id": "81a303d0b6d5",
-     "category": "celebrity",
-     "category_label": "Celebrity"
-    },
-    {
      "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
      "url": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
      "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
@@ -1705,22 +1716,6 @@
      "id": "7684a9044428",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Watch: From Star Wars to Banksy, the art is with you at new Lucas Museum",
-     "url": "https://www.bbc.co.uk/news/videos/cg59d9dyn46o?at_medium=RSS&at_campaign=rss",
-     "summary": "The museum, founded Star Wars creator George Lucas and his wife, will feature more than 1,200 works of art.",
-     "published": "2026-09-03T01:04:16+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c06/live/11d13510-a733-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "d7d4ae78706c",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1,200 works of art"
-     ]
     }
    ]
   },
@@ -1757,20 +1752,20 @@
      "category_label": "General"
     },
     {
-     "title": "Chasing a perfect sleep score? You could be making it worse",
+     "title": "Why 'sleepmaxxing' could be making your sleep worse",
      "url": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
      "summary": "The things you're doing to make your sleep better could actually be making your sleep worse.",
      "published": "2026-09-03T00:41:27+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df02/live/2518d250-a6d3-11f1-aed2-8d6da8d75094.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8147/live/bbd91c60-a77b-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
      "id": "28e3e769e067",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "A&E patients ending in 'corridors and cupboards'",
+     "title": "A&E patients ending up in 'corridors and cupboards'",
      "url": "https://www.bbc.co.uk/news/videos/cevwx7lmznro?at_medium=RSS&at_campaign=rss",
      "summary": "A consultant tells the Scotcast podcast that A&E patients ending in 'corridors and cupboards'.",
      "published": "2026-09-02T17:17:43+00:00",
@@ -1779,6 +1774,19 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f369/live/20da5f20-a6f0-11f1-aed2-8d6da8d75094.jpg",
      "licence": "linkout",
      "id": "37798f220999",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Social media 'spiral' found after sister's death",
+     "url": "https://www.bbc.co.uk/news/videos/cy8z3jj0geko?at_medium=RSS&at_campaign=rss",
+     "summary": "A woman whose 13-year-old sister took her own life says the \"spiral that she was going through\" was evident from her social media history.",
+     "published": "2026-09-02T13:10:22+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f517/live/67521820-a77d-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "5fb59955c003",
      "category": "general",
      "category_label": "General"
     },
@@ -1792,19 +1800,6 @@
      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p6mdw1.jpg",
      "licence": "linkout",
      "id": "692ae5d2f4e5",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Moral Maze",
-     "url": "https://www.bbc.co.uk/sounds/play/m0030xhn?at_medium=RSS&at_campaign=rss",
-     "summary": "Live debate examining the moral issues behind one of the week's news stories.",
-     "published": "2026-09-02T20:00:00+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nmg67x.jpg",
-     "licence": "linkout",
-     "id": "48f1170eef97",
      "category": "general",
      "category_label": "General"
     }
