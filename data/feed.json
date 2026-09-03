@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T23:02:02.386676+00:00",
+ "generated_at": "2026-09-03T23:31:46.851400+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Iran Vance",
   "Sixth Maratha",
-  "Encounter Underway",
   "Jazeera English",
   "News",
   "Stakeholder Technology",
-  "Bangladesh World",
+  "Kerala ADGP",
   "ISRO Earth",
   "Home Secretary",
-  "Venezuela",
-  "Burnham Macron"
+  "Congo Jerusalem",
+  "Venezuela"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "US investigating if missile hit Iran wedding, Vance says",
+     "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+     "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+     "published": "2026-09-03T22:19:59+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a5/live/33e75750-a7e3-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "2f45761c5c5c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "Sixth day of Maratha Reservation protest: Supporters block major national highways",
      "url": "https://www.thehindu.com/news/national/maharashtra/sixth-day-of-maratha-reservation-protest-supporters-block-major-national-highways/article71425027.ece",
@@ -132,20 +146,6 @@
      "figures": [
       "2 Terrorists Suspected To Be Hiding"
      ]
-    },
-    {
-     "title": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmlvWi1lSG51QmQyalUyV05kSjc4Q2hIR09DSlA1WEFqbkQyYjBrdnBnNThWNENJSXh4aG9tZlFqQ2pQQXF0MS01RWcxOGZ6eTNTM3ZPVVh0MnpfYl9SYzRvOWYzWDV1cXpudWJVS3REU3RBcEstRUFfWEtFT3AzX0Q2aDBXaU5hWGQzZ0QzMDJoMDZrZUxhYi13c292cWtXNElnTVh1YmVZX3NSVkdIRC1aaHhjZWZ4NkZGRFM3TDgwU3c3WlBkWU1QZjlDNWJFOEw4OEFOdnhvVkhfMXpaYktXTVp4Zw?oc=5",
-     "summary": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges Deccan Herald",
-     "published": "2026-09-03T17:22:00+00:00",
-     "source": "Deccan Herald",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "18cdd918c8b7",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Scandals & Investigations"
     },
     {
      "title": "India Ready To Extend \"Any Help\" To End Russia-Ukraine War: S Jaishankar",
@@ -339,20 +339,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "El Nino: A phenomenon supercharged by climate change",
-     "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
-     "summary": "Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.",
-     "published": "2026-09-03T21:09:39+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a983f13bf2a-1788362515.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "7424330d8a62",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News"
-    },
-    {
      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
      "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
@@ -368,6 +354,20 @@
      "figures": [
       "12,000 children suffering respiratory issues"
      ]
+    },
+    {
+     "title": "Why Nepal floods should worry India",
+     "url": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+     "summary": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
+     "published": "2026-09-03T00:58:44+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e16/live/dec53f80-a6bb-11f1-ae1e-219da1d6451a.jpg",
+     "licence": "linkout",
+     "id": "8cadd309d68e",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global Hotline"
     },
     {
      "title": "ISRO successfully launches Earth observation satellite EOS-05",
@@ -488,7 +488,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-03T23:01:48.858350+00:00",
+     "published": "2026-09-03T23:31:33.642691+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -499,7 +499,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-03T23:01:48.858362+00:00",
+     "published": "2026-09-03T23:31:33.642704+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -510,7 +510,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-03T23:01:48.858367+00:00",
+     "published": "2026-09-03T23:31:33.642706+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -521,7 +521,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-03T23:01:48.858369+00:00",
+     "published": "2026-09-03T23:31:33.642707+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -532,7 +532,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-03T23:01:48.858372+00:00",
+     "published": "2026-09-03T23:31:33.642709+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -543,7 +543,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-03T23:01:48.858374+00:00",
+     "published": "2026-09-03T23:31:33.642710+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -570,17 +570,17 @@
      "category_label": "General"
     },
     {
-     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India News On AIR",
-     "published": "2026-09-03T10:09:20+00:00",
-     "source": "News On AIR",
+     "title": "Kerala govt forms SIT headed by ADGP P Vijayan to probe Messi visit fraud",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUlHOTU0SWhHckVRbmotUmpyZ0NiSlNQM1lYNS1RaFU1al9NN2YxQW0wQjZnaFl5d1VadFRNVnRIcmlNbldaRHVMZlV0TDkzWjJMRkRYWmFSeEI1cXFuVG5sdXRKc1JaMjNvbGZnU0lqYTltRzFuSU1rRUx0N0tuLVdQVVRWb0tiel9Ea0JFWHV6Zm9rc2p1UVJvUkVIRm9ZY3MxbVdQbmpsV3NnNUp3Qklsbzc2UEZUNUhGQXBoVHltd9IBxwFBVV95cUxPUDZSTURORjNpTmZOemotZlJ1Y0ktSUhtREwxdFM0M1Y5WjVfRm0tS2FxZ1RUbU9QWjNHeXZoLV9YRU9GYTdydlk0RUFjZ2tjd1FCQVRvYWlGN2U1dGpXRGFFalByUDA2RW1KN2RLOVhVcDlEQkF4N0JEUU9NMjBQUVhGakxYM2E5YkZreTVhZkZISWNPc2F4X1JFMkt4d3hQM05iSzh6Sl9IQmlzYWFQNzM0a25YVVdjQmNWUkJfbm5OV3BzLWFN?oc=5",
+     "summary": "Kerala govt forms SIT headed by ADGP P Vijayan to probe Messi visit fraud The Statesman",
+     "published": "2026-09-03T13:18:00+00:00",
+     "source": "The Statesman",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "44ac1cfc8520",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "b7a65b84d8d4",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges",
@@ -688,6 +688,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "DR Congo joins countries pledging embassy move to Jerusalem",
+     "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+     "summary": "DR Congo has renewed its pledge to move its embassy in Israel from Tel Aviv to Jerusalem.",
+     "published": "2026-09-03T23:05:12+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260715__C2AJ6TB__v1__HighRes__ChadWaterEnvironmentDiplomacy-1788472883.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "942bc5d3d8bf",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
      "summary": "Critics call the US multi-billion-dollar oil deal in Venezuela modern-day colonialism.",
@@ -712,23 +725,6 @@
      "id": "bb065cdc64e1",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
-     "url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
-     "summary": "The ban will last for one year and affect 600,000 students.",
-     "published": "2026-09-03T21:32:55+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T152022Z_1559471517_RC2FANAGTJI9_RTRMADP_3_USA-TRUMP-NEW-YORK-1788456111.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "8dca16d83e18",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "8 sets stage for rest",
-      "600,000 students"
-     ]
     },
     {
      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
@@ -768,22 +764,6 @@
      "id": "4e4cfa70881f",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-     "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-     "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-     "published": "2026-09-03T09:37:34+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
-     "licence": "linkout",
-     "id": "c130653105da",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "33. Jeffery was known for playing"
-     ]
     }
    ]
   },
@@ -837,19 +817,6 @@
      "id": "154bcf844187",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Why Nepal floods should worry India",
-     "url": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
-     "summary": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
-     "published": "2026-09-03T00:58:44+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e16/live/dec53f80-a6bb-11f1-ae1e-219da1d6451a.jpg",
-     "licence": "linkout",
-     "id": "8cadd309d68e",
-     "category": "weather",
-     "category_label": "Weather & disaster"
     },
     {
      "title": "India's GDP growth defies oil shock but stirs up controversy",
@@ -1377,6 +1344,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+     "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+     "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+     "published": "2026-09-03T23:00:15+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab0/live/294bf5d0-a7b1-11f1-b78b-6b70b0a83270.jpg",
+     "licence": "linkout",
+     "id": "480faa522903",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+     "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+     "summary": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+     "published": "2026-09-03T23:25:45+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97d/live/d61d4260-90b8-11f1-b8f3-bf6a2c059a9b.jpg",
+     "licence": "linkout",
+     "id": "ebc1e7ddfcbc",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
      "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
      "summary": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
@@ -1388,22 +1381,6 @@
      "id": "3bbe27daf999",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-     "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-     "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-     "published": "2026-09-03T16:32:05+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "f247281fba63",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "$12.9bn deal to buy AI"
-     ]
     },
     {
      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
@@ -1421,32 +1398,6 @@
       "600 companies underpaid staff, with £4m",
       "£4 m returned to workers"
      ]
-    },
-    {
-     "title": "Almost half of households do not see benefits of economic growth, report says",
-     "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
-     "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
-     "published": "2026-09-03T05:47:11+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d15/live/ed462620-a6cd-11f1-b0c9-07afcdd8053c.jpg",
-     "licence": "linkout",
-     "id": "1895766b5604",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
-     "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-     "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
-     "published": "2026-09-02T23:25:50+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309d/live/9ac025f0-a767-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "2d28857565f4",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "HDFC Bank fell 26% in the last 1 year while SBI gained: Which mutual funds are betting big on the top 5 lenders?",
@@ -1562,6 +1513,19 @@
      ]
     },
     {
+     "title": "How artificial intelligence is reshaping higher education in India: Opportunity, responsibility and the need..",
+     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPNW5JU0I2MENPNThIbTZOYWVGM3JmeThoMUZvcGpIc01KaWRBUTl4VjVOMnpzTm9WaGdkMHFoYmJZMHFHNGtXYmpRZk1pQVRiaXd6ZUY5aHNFcWExbTBaQS11SVlHbm9jOXdpX0I5Q0N0amQzZE5MRUxtX0hsdVRXeXdKMkdfY2tDWHRmZWtsd2xJWDdpSVNJclZXVFRWZ2lmclllazh6RklERUhGcmlVRzN0SG52ay01anBIbWRXWXlwRHVSWU1KT1BoVnpsT2liWFFqOGl3LWNkYWdTNGJza091ZU5kYTNZdVpOUlU3Q3NweFJDdmNtelhRWXl5eDNLZkVKSDFkbnlsWTg4d3VLSXVkYl9VemZsdTBlQ29NUXJNdGIzQUHSAasCQVVfeXFMUGd4bzlUeDM5b09XX1JFamdhU09OcDZEUGNESFhoZXZma1RQZzFVejRWRHRWXzJsU1NaZUxZN0t2TzBpX2ZFVU9yOXN5VUxTY2pCLUhhQkxnaTJYN0VybmxvM0RQZVdvQmdTaURwaTI1VndlVmw1Z09fbjk1RDU4dUFVcXBfallaN05wb3cwRllkSmdWZFRHVnBDTG5QTkRHUmYxMThyZ1IxaUp6M0FldndVTURBM21OekUtcUZYNk96ZlFUSWkzYlkwdmdMS3dEWTRQRW9majZWajByZkNQTDY1OVgtaTNwdHFvT1VLWmhfb1VKdk9waklHb05mVnIwT3I4bTVOMTh1NkpVWThaNExKRVFxMXFndXNGeVNCX2h0M1FwY2xNcWtXZFE?oc=5",
+     "summary": "How artificial intelligence is reshaping higher education in India: Opportunity, responsibility and the need.. ET Education",
+     "published": "2026-09-03T09:46:30+00:00",
+     "source": "ET Education",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "b7b5e7b87a89",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
      "summary": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release The Guardian",
@@ -1571,19 +1535,6 @@
      "image": null,
      "licence": "linkout",
      "id": "1022fea7b1b7",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "How artificial intelligence is reshaping higher education in India: Opportunity, responsibility and the need..",
-     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPNW5JU0I2MENPNThIbTZOYWVGM3JmeThoMUZvcGpIc01KaWRBUTl4VjVOMnpzTm9WaGdkMHFoYmJZMHFHNGtXYmpRZk1pQVRiaXd6ZUY5aHNFcWExbTBaQS11SVlHbm9jOXdpX0I5Q0N0amQzZE5MRUxtX0hsdVRXeXdKMkdfY2tDWHRmZWtsd2xJWDdpSVNJclZXVFRWZ2lmclllazh6RklERUhGcmlVRzN0SG52ay01anBIbWRXWXlwRHVSWU1KT1BoVnpsT2liWFFqOGl3LWNkYWdTNGJza091ZU5kYTNZdVpOUlU3Q3NweFJDdmNtelhRWXl5eDNLZkVKSDFkbnlsWTg4d3VLSXVkYl9VemZsdTBlQ29NUXJNdGIzQUHSAasCQVVfeXFMUGd4bzlUeDM5b09XX1JFamdhU09OcDZEUGNESFhoZXZma1RQZzFVejRWRHRWXzJsU1NaZUxZN0t2TzBpX2ZFVU9yOXN5VUxTY2pCLUhhQkxnaTJYN0VybmxvM0RQZVdvQmdTaURwaTI1VndlVmw1Z09fbjk1RDU4dUFVcXBfallaN05wb3cwRllkSmdWZFRHVnBDTG5QTkRHUmYxMThyZ1IxaUp6M0FldndVTURBM21OekUtcUZYNk96ZlFUSWkzYlkwdmdMS3dEWTRQRW9majZWajByZkNQTDY1OVgtaTNwdHFvT1VLWmhfb1VKdk9waklHb05mVnIwT3I4bTVOMTh1NkpVWThaNExKRVFxMXFndXNGeVNCX2h0M1FwY2xNcWtXZFE?oc=5",
-     "summary": "How artificial intelligence is reshaping higher education in India: Opportunity, responsibility and the need.. education.economictimes.indiatimes.com",
-     "published": "2026-09-03T09:46:30+00:00",
-     "source": "education.economictimes.indiatimes.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "b7b5e7b87a89",
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1620,9 +1571,9 @@
     {
      "title": "Artificial intelligence, digital age constitute key family challenges in Muslim World: Dar Al-Iftaa Conference",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXZPbVNNZ0RqbUI2V1VLNDl5SWJ0aDIxZ0lHT1dwUGNxemJZTEx0NjBfWlVyMXMtYW9mdVdYLURydllHM2t3ZE5xZU1NRGRmWWYyWnRSNXhTNFlWeWpBZnVyMEpIcEZzNGlSM1hwaFk3N2x0aU8wcGVBUEEzbVdIQTlhdXlab0VQQWxDVGJWWnNBRnl5b2VmWXp1ZTNYcWJzb01Bb3RDWndLeXlzbFNQa0FsMFA0cHE4UEt2N2s0cw?oc=5",
-     "summary": "Artificial intelligence, digital age constitute key family challenges in Muslim World: Dar Al-Iftaa Conference egypttoday.com",
+     "summary": "Artificial intelligence, digital age constitute key family challenges in Muslim World: Dar Al-Iftaa Conference Egypt Today",
      "published": "2026-09-03T05:27:00+00:00",
-     "source": "egypttoday.com",
+     "source": "Egypt Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
