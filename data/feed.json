@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T01:33:39.500665+00:00",
+ "generated_at": "2026-09-04T02:02:44.831205+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -79,20 +79,21 @@
    "value": 80861.0,
    "change": 2312.0,
    "changePct": 2.94,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
   "Iran Vance",
-  "Sixth Maratha",
+  "Andhra Pradesh",
   "Jazeera English",
   "News",
   "Stakeholder Technology",
   "KPSC",
-  "ISRO Earth",
-  "Spoilt Blinkit",
-  "Feminist Gloria",
-  "Haitian"
+  "Traffic Abids",
+  "Flyover",
+  "Global News",
+  "Cuban"
  ],
  "sections": [
   {
@@ -116,20 +117,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "Sixth day of Maratha Reservation protest: Supporters block major national highways",
-     "url": "https://www.thehindu.com/news/national/maharashtra/sixth-day-of-maratha-reservation-protest-supporters-block-major-national-highways/article71425027.ece",
-     "summary": "According to police, the influx of people visiting Antarwali Sarati has been increasing. In the meantime, a bandh was announced in Jalna on Thursday to extend support to the protest.",
-     "published": "2026-09-03T19:49:48+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/w08epu/article71425758.ece/alternates/LANDSCAPE_1200/20251030257L.jpg",
-     "licence": "linkout",
-     "id": "824f33e2e086",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
      "title": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmlvWi1lSG51QmQyalUyV05kSjc4Q2hIR09DSlA1WEFqbkQyYjBrdnBnNThWNENJSXh4aG9tZlFqQ2pQQXF0MS01RWcxOGZ6eTNTM3ZPVVh0MnpfYl9SYzRvOWYzWDV1cXpudWJVS3REU3RBcEstRUFfWEtFT3AzX0Q2aDBXaU5hWGQzZ0QzMDJoMDZrZUxhYi13c292cWtXNElnTVh1YmVZX3NSVkdIRC1aaHhjZWZ4NkZGRFM3TDgwU3c3WlBkWU1QZjlDNWJFOEw4OEFOdnhvVkhfMXpaYktXTVp4Zw?oc=5",
      "summary": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges Deccan Herald",
@@ -142,20 +129,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Iran war live: US rules out Iran talks until ship attacks stop",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
-     "summary": "Iran's First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.",
-     "published": "2026-09-04T00:00:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/14241822-1788475186.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "a8f286ee4c1e",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
     },
     {
      "title": "India Ready To Extend \"Any Help\" To End Russia-Ukraine War: S Jaishankar",
@@ -197,7 +170,21 @@
      "id": "c4cdd232bb8b",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Pete Hegseth’s Pentagon: A list of controversies that define his tenure",
+     "url": "https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure?traffic_source=rss",
+     "summary": "The defence secretary faces renewed scrutiny after a Republican senator called for his removal from the US cabinet.",
+     "published": "2026-09-04T01:26:39+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69f24b4c553a-1777486668.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "41391286e1bf",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
     },
     {
      "title": "Ladakh's 5 New Districts To Get Elected Councils, Election Process To Begin",
@@ -214,17 +201,34 @@
      "from_section": "National News"
     },
     {
-     "title": "Haitian government calls for renewal of international anti-gang task force",
-     "url": "https://www.aljazeera.com/news/2026/9/4/haitian-government-calls-for-renewal-of-international-anti-gang-task-force?traffic_source=rss",
-     "summary": "Haitian foreign minister says renewal is necessary to ensure safety ahead of elections scheduled in December.",
-     "published": "2026-09-04T00:41:28+00:00",
+     "title": "World Bank considers financing Telangana’s programme for sustainable transformation in healthcare",
+     "url": "https://www.thehindu.com/news/national/telangana/world-bank-considers-financing-telanganas-programme-for-sustainable-transformation-in-healthcare/article71423028.ece",
+     "summary": "WB board likely to approve the project which involves Govt share of US $ 1,164 million in November",
+     "published": "2026-09-04T01:53:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/e49grm/article71426215.ece/alternates/LANDSCAPE_1200/World-Bank-consGESGG0JK3.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "5454037ebb03",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "$ 1,164 million in November"
+     ]
+    },
+    {
+     "title": "US continues to squeeze Cuban economy with new round of sanctions",
+     "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+     "summary": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
+     "published": "2026-09-04T01:45:56+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9a004f-1788477519.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9a0d1201e0-1788480786.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "9340425cef54",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "37e9dd57bd82",
+     "category": "money",
+     "category_label": "Money & scams",
      "from_section": "Global News"
     },
     {
@@ -240,37 +244,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
-    },
-    {
-     "title": "SEBI's new ETF pricing rules from 7 September: What's changing and why investors should care — experts explain",
-     "url": "https://www.livemint.com/money/personal-finance/sebis-new-etf-pricing-rules-from-7-september-whats-changing-and-why-investors-should-care-experts-explain-11788457928760.html",
-     "summary": "SEBI’s new rules from 7 September will change base prices, price bands, pre-open auctions, and close-out procedures for ETFs. Here’s what the changes mean for investors, including how they may affect ETF trading, price discovery, and the way investors should trade.",
-     "published": "2026-09-03T19:53:31+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/03/600x338/sebi_new_rule_1788464180221_bdadda0f-fb31-4a1e-8704-c04a78ae9e35_1788464184656_d75ece8d-8e6c-4441-a525-9c752c7206fe_300a9efa-21eb-4dc7-8f91-e8dce5921c58_41e117eb-4c5a-4da0-ae57-f62eaa2d5334.png",
-     "licence": "linkout",
-     "id": "cc6d375c0e06",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "₹1 Crore by 45: How much should you invest in SIPs at age 25 or 35?",
-     "url": "https://www.livemint.com/money/personal-finance/rs-1-crore-by-45-how-much-should-you-invest-in-sips-at-age-25-or-35-11788457138827.html",
-     "summary": "Systematic Investment Plans (SIPs) in mutual funds are among the popular routes for creating long-term wealth. Through an SIP, investors put a fixed amount into a mutual fund at regular intervals, generally every month",
-     "published": "2026-09-03T18:21:17+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/crore_1788458545274_e61872c4-c4c6-4187-a711-64257604599c_1788458567251_727167d1-1250-4312-ae8d-ddeb9b17db25_88d5d23d-999c-4f89-a749-35afcb2ceae1_1f28958e-4d9c-4022-8e88-e378d5c717b3.jpg",
-     "licence": "linkout",
-     "id": "9700ae06add6",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹1 Crore by 45: How much"
-     ]
     },
     {
      "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
@@ -298,7 +271,7 @@
      "id": "8d8aecab9645",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
@@ -357,6 +330,20 @@
      ]
     },
     {
+     "title": "Technological Leap in Costa Rica: Key Commission Born to Boost Artificial Intelligence and Data Centers",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTEJOcHNueXo1eVllcEd2UWZselc1bHBSeXJoaFFnTlNnTUF2WEQxOTlUR2Nqckh6eV96SWxTS3ZoRUpaSll3eVZMeVVxN0F4TFJhRmE1X3NpQ1pld2xlUmJKUF9HTjVYNFk4T3U1amtNS3Q3UHdmcEExdENMRkJRUGIwS25RQXNyWVppeTJ5ekRpWF85MlNYTEMyVG9EM3B5MzNKSFVLWVYwbkw1RkEwRXFCMkNDSFNFLVlENDlGV2hURlhlTlkzV0h1eU0?oc=5",
+     "summary": "Technological Leap in Costa Rica: Key Commission Born to Boost Artificial Intelligence and Data Centers The Costa Rica News",
+     "published": "2026-09-04T01:33:48+00:00",
+     "source": "The Costa Rica News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "4182e20cb094",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
      "title": "ISRO Successfully Launches GSLV F17 Rocket Carrying Imaging Satellite EOS-05",
      "url": "https://www.ndtv.com/india-news/isros-gslv-f17-rocket-carrying-imaging-satellite-eos-5-lifts-off-11999834#publisher=newsstand",
      "summary": "A GSLV rocket, carrying ISRO's earth observation satellite EOS-05, succssfully lauched from the spaceport in a pre-dawn mission on Friday from Sriharikota.",
@@ -372,20 +359,6 @@
      "figures": [
       "05, succssfully lauched from the spaceport"
      ]
-    },
-    {
-     "title": "Are Trump’s AI videos just memes or psychological warfare?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
-     "summary": "Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
-     "published": "2026-09-03T23:36:20+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788478512.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "7ea223d66def",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Global News"
     },
     {
      "title": "\"World Is Laughing Harder\": Usman Khawaja's Hilarious Dig At Pakistan Selector Amid Turmoil",
@@ -471,7 +444,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-04T01:33:28.307721+00:00",
+     "published": "2026-09-04T02:02:31.141467+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -482,7 +455,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-04T01:33:28.307730+00:00",
+     "published": "2026-09-04T02:02:31.141479+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -493,7 +466,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-04T01:33:28.307733+00:00",
+     "published": "2026-09-04T02:02:31.141485+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -504,7 +477,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-04T01:33:28.307736+00:00",
+     "published": "2026-09-04T02:02:31.141490+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -515,7 +488,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-04T01:33:28.307738+00:00",
+     "published": "2026-09-04T02:02:31.141494+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -526,7 +499,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-04T01:33:28.307740+00:00",
+     "published": "2026-09-04T02:02:31.141498+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -568,9 +541,9 @@
     {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India News On AIR",
+     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India newsonair.gov.in",
      "published": "2026-09-03T23:24:32+00:00",
-     "source": "News On AIR",
+     "source": "newsonair.gov.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -600,78 +573,62 @@
    "upsc": false,
    "items": [
     {
-     "title": "ISRO successfully launches Earth observation satellite EOS-05",
-     "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
-     "summary": "The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
-     "published": "2026-09-04T01:30:38+00:00",
+     "title": "Traffic restrictions, diversions around Abids ISKCON temple for Janmashtami",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/traffic-restrictions-diversions-around-abids-iskcon-temple-for-janmashtami/article71424274.ece",
+     "summary": "",
+     "published": "2026-09-04T01:56:19+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/41j08j/article71426819.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%206.jpg",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/bp9kb6/article71426431.ece/alternates/LANDSCAPE_1200/Traffic-restricGM7GG2CQ9.3.jpg.jpg",
      "licence": "linkout",
-     "id": "ea87af3f30a6",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "ISRO Successfully Launches GSLV F17 Rocket Carrying Imaging Satellite EOS-05",
-       "url": "https://www.ndtv.com/india-news/isros-gslv-f17-rocket-carrying-imaging-satellite-eos-5-lifts-off-11999834#publisher=newsstand",
-       "summary": "A GSLV rocket, carrying ISRO's earth observation satellite EOS-05, succssfully lauched from the spaceport in a pre-dawn mission on Friday from Sriharikota."
-      }
-     ],
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "36,000 km above the Earth"
-     ]
-    },
-    {
-     "title": "Spoilt eggs found at Blinkit stock unit in Mangaluru",
-     "url": "https://www.thehindu.com/news/cities/Mangalore/spoilt-eggs-found-at-blinkit-stock-unit-in-mangaluru/article71425107.ece",
-     "summary": "Following a complaint from a consumer to Health Minister U.T. Khader, food safety inspectors from the Food Safety and Drug Administration Department conducted an inspection at a Blinkit stock and supply unit",
-     "published": "2026-09-04T01:27:59+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hlz3lg/article71426817.ece/alternates/LANDSCAPE_1200/IMG-20260903-WA0047.JPG",
-     "licence": "linkout",
-     "id": "c4cdd232bb8b",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Home Secretary reviews Himalayan States’ preparedness for glacial lake outbursts",
-     "url": "https://www.thehindu.com/news/national/home-secy-reviews-himalayan-states-preparedness-for-glacial-lake-outbursts/article71424103.ece",
-     "summary": "States must move beyond a response-oriented approach and focus on preventive mitigation, risk reduction, and community-level readiness, says Home Secretary; stresses need for better early warning systems",
-     "published": "2026-09-03T21:06:14+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hcxhue/article71424602.ece/alternates/LANDSCAPE_1200/HRSDyyQbsAAIj24.jpg",
-     "licence": "linkout",
-     "id": "8d8aecab9645",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "Courtroom dramas, clipped and shared",
-     "url": "https://www.thehindu.com/news/national/courtroom-dramas-clipped-and-shared/article71418948.ece",
-     "summary": "Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms. But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks. The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik examines what the interim order could mean for public access, judicial accountability, and the youth, which is accustomed to consuming bite-sized news",
-     "published": "2026-09-03T20:59:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ixal4n/article71424904.ece/alternates/LANDSCAPE_1200/SL_court.jpg",
-     "licence": "linkout",
-     "id": "747fa107b5ac",
+     "id": "e118411692c5",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood",
-     "url": "https://www.thehindu.com/news/national/west-bengal/on-uttam-kumars-birth-centenary-west-bengal-cm-vows-to-keep-politics-out-of-tollywood/article71424013.ece",
-     "summary": "",
-     "published": "2026-09-03T19:57:55+00:00",
+     "title": "Flyover to cut down travel time by 30 minutes",
+     "url": "https://www.thehindu.com/news/national/telangana/flyover-to-cut-down-travel-time-by-30-minutes/article71423552.ece",
+     "summary": "With the main viaduct 2.53 kilometres long and 16.61 metres wide with four lanes, the structure takes off from Nalgonda Crossroads, flies over the Chanchalguda, Saidabad and IS Sadan junctions, to land at Champapet",
+     "published": "2026-09-04T01:54:21+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Delhi/qcz2yq/article71425759.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/7245lv/article71426264.ece/alternates/LANDSCAPE_1200/Flyover-to-cut-GJFGG2JHH.3.jpg.jpg",
      "licence": "linkout",
-     "id": "54b267802bc9",
+     "id": "0faa33c079b0",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "30 minutes",
+      "2.53 kilometres long and 16",
+      "16.61 metres wide with four lanes"
+     ]
+    },
+    {
+     "title": "World Bank considers financing Telangana’s programme for sustainable transformation in healthcare",
+     "url": "https://www.thehindu.com/news/national/telangana/world-bank-considers-financing-telanganas-programme-for-sustainable-transformation-in-healthcare/article71423028.ece",
+     "summary": "WB board likely to approve the project which involves Govt share of US $ 1,164 million in November",
+     "published": "2026-09-04T01:53:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/e49grm/article71426215.ece/alternates/LANDSCAPE_1200/World-Bank-consGESGG0JK3.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "5454037ebb03",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$ 1,164 million in November"
+     ]
+    },
+    {
+     "title": "C. V. Anand, others praise The Hindu’s journey of credible journalism, recall long standing association",
+     "url": "https://www.thehindu.com/news/national/telangana/c-v-anand-others-praise-the-hindus-journey-of-credible-journalism-recall-long-standing-association/article71425028.ece",
+     "summary": "He commended The Hindu for its exclusive reports on major incidents that had changed the course of the nation and said its accurate reporting had helped governments in nation-building",
+     "published": "2026-09-04T01:50:17+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nuhmhi/article71425205.ece/alternates/LANDSCAPE_1200/_NGP6342.jpg",
+     "licence": "linkout",
+     "id": "6bcf87803fa9",
      "category": "general",
      "category_label": "General"
     },
@@ -710,6 +667,45 @@
    "upsc": false,
    "items": [
     {
+     "title": "ICC leaders condemn efforts to erode international legal order",
+     "url": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
+     "summary": "Efforts to isolate the International Criminal Court aim to undermine the global rule of law, leaders say.",
+     "published": "2026-09-04T01:51:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ICC-THUMB-1787109875.jpeg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "b0a2dc1cee41",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "US continues to squeeze Cuban economy with new round of sanctions",
+     "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+     "summary": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
+     "published": "2026-09-04T01:45:56+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9a0d1201e0-1788480786.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "37e9dd57bd82",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Ghana tightens gold exports in push to keep more value at home",
+     "url": "https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss",
+     "summary": "The move is part of a broader effort to develop Ghana’s gold industry beyond raw exports.",
+     "published": "2026-09-04T01:29:48+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/8.jpg-1788441635.jpeg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "748845478f33",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Feminist trailblazer Gloria Steinem passes away at age 92",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/feminist-trailblazer-gloria-steinem-passes-away-at-age-92?traffic_source=rss",
      "summary": "Women’s rights activist Gloria Steinem has passed away at age 92.",
@@ -732,45 +728,6 @@
      "figures": [
       "92. Women ’s rights activist Gloria"
      ]
-    },
-    {
-     "title": "Haitian government calls for renewal of international anti-gang task force",
-     "url": "https://www.aljazeera.com/news/2026/9/4/haitian-government-calls-for-renewal-of-international-anti-gang-task-force?traffic_source=rss",
-     "summary": "Haitian foreign minister says renewal is necessary to ensure safety ahead of elections scheduled in December.",
-     "published": "2026-09-04T00:41:28+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9a004f-1788477519.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9340425cef54",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Iran war live: US rules out Iran talks until ship attacks stop",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
-     "summary": "Iran's First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.",
-     "published": "2026-09-04T00:00:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/14241822-1788475186.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "a8f286ee4c1e",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
-     "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
-     "summary": "Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.",
-     "published": "2026-09-03T23:23:26+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a99f474d5b8-1788474484.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "fbc37ad9c94f",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
@@ -915,72 +872,64 @@
    "upsc": false,
    "items": [
     {
-     "title": "ISRO successfully launches Earth observation satellite EOS-05",
-     "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
-     "summary": "The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
-     "published": "2026-09-04T01:30:38+00:00",
+     "title": "Traffic restrictions, diversions around Abids ISKCON temple for Janmashtami",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/traffic-restrictions-diversions-around-abids-iskcon-temple-for-janmashtami/article71424274.ece",
+     "summary": "",
+     "published": "2026-09-04T01:56:19+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/41j08j/article71426819.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%206.jpg",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/bp9kb6/article71426431.ece/alternates/LANDSCAPE_1200/Traffic-restricGM7GG2CQ9.3.jpg.jpg",
      "licence": "linkout",
-     "id": "ea87af3f30a6",
-     "category": "tech",
-     "category_label": "AI & technology",
+     "id": "e118411692c5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Flyover to cut down travel time by 30 minutes",
+     "url": "https://www.thehindu.com/news/national/telangana/flyover-to-cut-down-travel-time-by-30-minutes/article71423552.ece",
+     "summary": "With the main viaduct 2.53 kilometres long and 16.61 metres wide with four lanes, the structure takes off from Nalgonda Crossroads, flies over the Chanchalguda, Saidabad and IS Sadan junctions, to land at Champapet",
+     "published": "2026-09-04T01:54:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/7245lv/article71426264.ece/alternates/LANDSCAPE_1200/Flyover-to-cut-GJFGG2JHH.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "0faa33c079b0",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "36,000 km above the Earth"
+      "30 minutes",
+      "2.53 kilometres long and 16",
+      "16.61 metres wide with four lanes"
      ]
     },
     {
-     "title": "Spoilt eggs found at Blinkit stock unit in Mangaluru",
-     "url": "https://www.thehindu.com/news/cities/Mangalore/spoilt-eggs-found-at-blinkit-stock-unit-in-mangaluru/article71425107.ece",
-     "summary": "Following a complaint from a consumer to Health Minister U.T. Khader, food safety inspectors from the Food Safety and Drug Administration Department conducted an inspection at a Blinkit stock and supply unit",
-     "published": "2026-09-04T01:27:59+00:00",
+     "title": "World Bank considers financing Telangana’s programme for sustainable transformation in healthcare",
+     "url": "https://www.thehindu.com/news/national/telangana/world-bank-considers-financing-telanganas-programme-for-sustainable-transformation-in-healthcare/article71423028.ece",
+     "summary": "WB board likely to approve the project which involves Govt share of US $ 1,164 million in November",
+     "published": "2026-09-04T01:53:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hlz3lg/article71426817.ece/alternates/LANDSCAPE_1200/IMG-20260903-WA0047.JPG",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/e49grm/article71426215.ece/alternates/LANDSCAPE_1200/World-Bank-consGESGG0JK3.3.jpg.jpg",
      "licence": "linkout",
-     "id": "c4cdd232bb8b",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "5454037ebb03",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$ 1,164 million in November"
+     ]
     },
     {
-     "title": "Home Secretary reviews Himalayan States’ preparedness for glacial lake outbursts",
-     "url": "https://www.thehindu.com/news/national/home-secy-reviews-himalayan-states-preparedness-for-glacial-lake-outbursts/article71424103.ece",
-     "summary": "States must move beyond a response-oriented approach and focus on preventive mitigation, risk reduction, and community-level readiness, says Home Secretary; stresses need for better early warning systems",
-     "published": "2026-09-03T21:06:14+00:00",
+     "title": "Courtroom dramas, clipped and shared",
+     "url": "https://www.thehindu.com/news/national/courtroom-dramas-clipped-and-shared/article71418948.ece",
+     "summary": "Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms. But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks. The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik examines what the interim order could mean for public access, judicial accountability, and the youth, which is accustomed to consuming bite-sized news",
+     "published": "2026-09-03T20:59:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hcxhue/article71424602.ece/alternates/LANDSCAPE_1200/HRSDyyQbsAAIj24.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ixal4n/article71424904.ece/alternates/LANDSCAPE_1200/SL_court.jpg",
      "licence": "linkout",
-     "id": "8d8aecab9645",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "Akash Anand in need of more political maturity, won’t give him key party roles, says BSP chief Mayawati",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/akash-anand-in-need-of-more-political-maturity-wont-give-him-key-party-roles-says-bsp-chief-mayawati/article71424916.ece",
-     "summary": "The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own",
-     "published": "2026-09-03T19:50:44+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Delhi/sslfkf/article71425757.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-     "licence": "linkout",
-     "id": "adbe9a1aad8c",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "BJP seeks sacking of two Ministers over Congress MLA’s allegation of corruption in Karnataka",
-     "url": "https://www.thehindu.com/news/national/karnataka/bjp-seeks-sacking-of-two-ministers-over-congress-mlas-allegation/article71419997.ece",
-     "summary": "Congress MLA Ashok Kumar Rai accusing two engineers of KRIDL of collecting extra charges from contractors stating that it has to be given to the Dakshina Kannada district in-charge Minister and the department Minister",
-     "published": "2026-09-03T19:49:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nqe5vz/article71421226.ece/alternates/LANDSCAPE_1200/Nagendra-episodG1SGEF756.5.jpg.jpg",
-     "licence": "linkout",
-     "id": "3b3bd480f7f1",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "747fa107b5ac",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "School assembly news headlines today- September 4: Top national, sports and world news curated for you",
@@ -1159,6 +1108,114 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceiling",
+     "url": "https://globalvoices.org/2026/09/04/cameroons-indomitable-lionesses-football-team-finally-shatter-wafcon-glass-ceiling/",
+     "summary": "After losing three finals, the Cameroonian women’s team finally lifted the Women’s Africa Cup of Nations. Their 3–0 victory over Malawi demonstrates this generation’s perseverance and progressive transformation in African women’s football.",
+     "published": "2026-09-04T00:00:00+00:00",
+     "source": "Global Voices",
+     "byline": "Laura",
+     "image": "https://fr.globalvoices.org/wp-content/uploads/2026/08/Design-sans-titre24-800x450.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "Cameroon joins the ranks of WAFCON winners: Nigeria (10), Equatorial Guinea (2), and South Africa (1)."
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "Image of the Cameroonian women’s football team. Screenshot from the video “Cameroon – Women’s CAN: The Undaunted Lionesses Crowned Champions of Africa” on the Africa 24 YouTube Channel."
+      },
+      {
+       "kind": "p",
+       "text": "After losing three finals, the Cameroonian women’s football team has finally lifted the Women’s Africa Cup of Nations (WAFCON). Their victory over Malawi in Rabat (the capital of Morocco) on August 16, 2026, stands as a testament to this generation’s perseverance and the progressive transformation of African women’s football."
+      },
+      {
+       "kind": "p",
+       "text": "For more than two decades, Cameroon has had a reputation for being a powerhouse in African women’s football, but they had never been able to go all the way and snag the coveted WAFCON trophy. However, Sunday, August 16, at the Moulay El Hassan Stadium, told an entirely different story. In the 2026 TotalEnergies Women’s Africa Cup of Nations final, the indomitable Lionesses beat Malawi 3–0, clinching their first-ever continental title."
+      },
+      {
+       "kind": "h",
+       "text": "Fourth final’s a charm"
+      },
+      {
+       "kind": "p",
+       "text": "Before winning this championship title, Cameroon had already reached the WAFCON final in 2004, 2014, and 2016, losing each time to Nigeria without scoring a single goal. According to the official Confederation of African Football (CAF) statistics, the Lionesses hold the record for the most final appearances by a Central African nation."
+      },
+      {
+       "kind": "p",
+       "text": "Playing against Malawi in its first-ever WAFCON final, Cameroon left no room for doubt. In the 20th minute, Marie Ngah Manga scored the opening goal, before Naomi Najoah Eto doubled their lead nine minutes later with an acrobatic strike. Just before halftime, Ngah Manga scored a brace, with her second goal bringing the tally to 3–0. BeIN Sports provided detailed coverage of their victory, while sports website Yardbarker provided a tactical analysis."
+      },
+      {
+       "kind": "p",
+       "text": "At the final whistle, Cameroon was no longer a team that had never won the final, but the African champion. According to CAF, the country had now become the fourth African nation to lift this trophy, joining Nigeria (10 titles), Equatorial Guinea, and South Africa (2022)."
+      },
+      {
+       "kind": "p",
+       "text": "Interestingly enough, Cameroon’s title journey has its own paradox. The country didn’t initially secure qualification on the pitch. As CameroonOnline reports, the team could only compete after the tournament expanded from 12 to 16 teams. Once in play, the Lionesses beat Ghana in the group stages, eliminated defending champion Nigeria 1-0 in the quarter-finals, and defeated host country Morocco on penalties in the semi-finals."
+      },
+      {
+       "kind": "h",
+       "text": "A generational handover"
+      },
+      {
+       "kind": "p",
+       "text": "Cameroonian women’s football has long produced many players who ultimately become football legends, including Gabrielle Aboudi Onguéné. Today, a new generation has stepped up to take the mantle."
+      },
+      {
+       "kind": "p",
+       "text": "One of the team’s leading figures is Monique Ngock. This 21-year-old midfielder was named Woman of the Competition for her overall tournament performance. According to Yardbarker, she is best known for her tenacity, defensive anticipation, and composure on the ball."
+      },
+      {
+       "kind": "p",
+       "text": "Monique’s journey adds unique significance to this victory. At just 17, Monique had played in Cameroon’s 2022 quarter-final elimination match. Four years later, she is now one of the new African champions’ key players."
+      },
+      {
+       "kind": "p",
+       "text": "In an interview with CAF, quoted by Olympics.com, Ngock reflected on her initial lack of family support. She hopes this WAFCON title will show young girls watching African women’s football today that “girls can do anything.”"
+      },
+      {
+       "kind": "p",
+       "text": "At this year’s WAFCON, Cameroonian players largely dominated the individual accolades. In addition to Ngock, goalkeeper Michaely Bihina, who played a decisive role in the semi-final penalty shootout against Morocco, earned the Best Goalkeeper Award. Also, according to The Ghana Report, Marie Ngah Manga was named Player of the Final. However, the Golden Boot, an award for the player who scores the most goals, went to Malawi’s Temwa Chawinga. Chawinga scored five goals and made two assists during her country’s tournament debut."
+      },
+      {
+       "kind": "p",
+       "text": "Cameroon’s triumph in Rabat comes at a time when African women’s football is still working to solidify its place, and the talent gap between nations continues to narrow. This final pitted two teams against each other that, ten years ago, wouldn’t have been among the favorites. Cameroon, which missed out on direct qualification, faced Malawi in its tournament debut. As the first final since 2022 to feature two teams that had never won the title, CAF hailed this final as historic event for both sides; one that crystalizes the emerging support for women’s football across the region."
+      },
+      {
+       "kind": "h",
+       "text": "How will Cameroon make the best of this landmark moment?"
+      },
+      {
+       "kind": "p",
+       "text": "After the first few days of excitement that a continental trophy brings, the real challenge begins. This challenge means investing more in women’s leagues, improving preparation conditions, strengthening youth development, and ensuring visibility for female footballers without depending solely on major international tournaments."
+      },
+      {
+       "kind": "p",
+       "text": "In Rabat, the Lionesses overcame a 22-year-long struggle, transforming three lost finals, without scoring a single goal, into their first title win in no uncertain fashion."
+      },
+      {
+       "kind": "p",
+       "text": "Most importantly, they have given young girls watching from the country’s major cities, such as Yaoundé, Douala, Bafoussam, and elsewhere on the continent, a renewed vision of what African women’s football can be: A sport where champions and heroines are made."
+      },
+      {
+       "kind": "p",
+       "text": "Although this trophy has finally come to Cameroon, the next battle is ensuring this victory becomes a starting point, rather than a mere memory."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "9300390005b6",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "0 victory over Malawi demonstrates this",
+      "24 YouTube Channel"
+     ]
     },
     {
      "title": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
@@ -1491,6 +1548,35 @@
      ]
     },
     {
+     "title": "SEBI's new ETF pricing rules from 7 September: What's changing and why investors should care — experts explain",
+     "url": "https://www.livemint.com/money/personal-finance/sebis-new-etf-pricing-rules-from-7-september-whats-changing-and-why-investors-should-care-experts-explain-11788457928760.html",
+     "summary": "SEBI’s new rules from 7 September will change base prices, price bands, pre-open auctions, and close-out procedures for ETFs. Here’s what the changes mean for investors, including how they may affect ETF trading, price discovery, and the way investors should trade.",
+     "published": "2026-09-03T19:53:31+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/03/600x338/sebi_new_rule_1788464180221_bdadda0f-fb31-4a1e-8704-c04a78ae9e35_1788464184656_d75ece8d-8e6c-4441-a525-9c752c7206fe_300a9efa-21eb-4dc7-8f91-e8dce5921c58_41e117eb-4c5a-4da0-ae57-f62eaa2d5334.png",
+     "licence": "linkout",
+     "id": "cc6d375c0e06",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "₹1 Crore by 45: How much should you invest in SIPs at age 25 or 35?",
+     "url": "https://www.livemint.com/money/personal-finance/rs-1-crore-by-45-how-much-should-you-invest-in-sips-at-age-25-or-35-11788457138827.html",
+     "summary": "Systematic Investment Plans (SIPs) in mutual funds are among the popular routes for creating long-term wealth. Through an SIP, investors put a fixed amount into a mutual fund at regular intervals, generally every month",
+     "published": "2026-09-03T18:21:17+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/crore_1788458545274_e61872c4-c4c6-4187-a711-64257604599c_1788458567251_727167d1-1250-4312-ae8d-ddeb9b17db25_88d5d23d-999c-4f89-a749-35afcb2ceae1_1f28958e-4d9c-4022-8e88-e378d5c717b3.jpg",
+     "licence": "linkout",
+     "id": "9700ae06add6",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹1 Crore by 45: How much"
+     ]
+    },
+    {
      "title": "HDFC Bank fell 26% in the last 1 year while SBI gained: Which mutual funds are betting big on the top 5 lenders?",
      "url": "https://www.livemint.com/money/personal-finance/hdfc-bank-fell-26-in-the-last-1-year-while-sbi-gained-which-mutual-funds-are-betting-big-on-the-top-5-lenders-11788454767292.html",
      "summary": "India’s top five banks by market capitalisation delivered sharply different returns over the past year. While HDFC Bank fell 26%, SBI gained 26%, with Axis Bank rising 20%. The story looks different when viewed through mutual fund portfolios.",
@@ -1623,19 +1709,6 @@
      "image": null,
      "licence": "linkout",
      "id": "1022fea7b1b7",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Artificial Intelligence - ABC News",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-     "summary": "Artificial Intelligence ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-09-03T06:51:48+00:00",
-     "source": "Breaking News, Latest News and Videos",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "c5e803c22501",
      "category": "tech",
      "category_label": "AI & technology"
     },
