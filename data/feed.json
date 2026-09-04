@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T04:36:14.925049+00:00",
+ "generated_at": "2026-09-04T05:02:06.019698+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -85,15 +85,15 @@
  ],
  "topics": [
   "Steve Irwin",
-  "Chile",
+  "Tensions Lindsay",
   "Jazeera English",
   "News",
   "Stakeholder Technology",
   "KPSC",
-  "Jadavpur University",
-  "Hyderabad",
-  "Entertainment White",
-  "OpenAI Astra"
+  "Expired Chairman",
+  "Messi Keralam",
+  "Argentina Milei",
+  "Arsenal Martinelli"
  ],
  "sections": [
   {
@@ -114,24 +114,10 @@
      "id": "ce01a242b508",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global Hotline",
+     "from_section": "Global News",
      "figures": [
       "20 years after shock death"
      ]
-    },
-    {
-     "title": "Chile police and protesters clash outside far-right forum",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss",
-     "summary": "Police and protesters have clashed in Chile’s capital, outside the summit of the far-right Madrid Forum.",
-     "published": "2026-09-04T01:54:57+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788486830.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "64d2ce309dea",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
     },
     {
      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
@@ -145,6 +131,34 @@
      "id": "2aceafb83740",
      "category": "crime",
      "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "US investigating if missile hit Iran wedding, Vance says",
+     "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+     "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+     "published": "2026-09-03T22:19:59+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a5/live/33e75750-a7e3-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "2f45761c5c5c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Mladic’s body arrives to full military honours in Serbia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss",
+     "summary": "The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.",
+     "published": "2026-09-04T04:32:13+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788496296.jpg?resize=1618%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "ba23e049817c",
+     "category": "conflict",
+     "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
@@ -162,18 +176,26 @@
      "from_section": "Global News"
     },
     {
-     "title": "Akash Anand in need of more political maturity, won’t give him key party roles, says BSP chief Mayawati",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/akash-anand-in-need-of-more-political-maturity-wont-give-him-key-party-roles-says-bsp-chief-mayawati/article71424916.ece",
-     "summary": "The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own",
-     "published": "2026-09-04T03:30:40+00:00",
-     "source": "The Hindu",
+     "title": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss",
+     "summary": "Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands.",
+     "published": "2026-09-04T04:45:21+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Delhi/sslfkf/article71425757.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788497110.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "adbe9a1aad8c",
+     "id": "2eff9ad39d9e",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Argentine leader threatens to sanction oil firms working off Falklands",
+       "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+       "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it."
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "Global News"
     },
     {
      "title": "Slogans, Torn Kurtas In AAP vs BJP During Delhi Civic Body Panel Election",
@@ -190,18 +212,59 @@
      "from_section": "National News"
     },
     {
-     "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
-     "url": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
-     "summary": "Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.",
-     "published": "2026-09-04T02:46:50+00:00",
-     "source": "Al Jazeera",
+     "title": "School assembly news headlines today- September 4: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZHVvNWJzU2QtS1M2VzlOVEpKaDZITXFCeVNjdmNCR1dXNW8zTjN6R2FzcF9GNFJNcm9xUmhPYklidlNKRExRTVpVckhOZkhPQVdKcmhlQ0dvTXBqcS1WaUpvNlpuSHZnRzAzcFpxWEZ0RWpHWlhWNUhwQjA3U2NkeEp3dTAzNVJBZ1UySTJoQmJuUTd0V19kNkFCWXowa0dUa0VaUnFSeS1SZjNDTVpiWGMwYUpBYzhEb1RuUlNCdHI1MGp5ZDAzc3o5WXFRNFIwY3o5Q2hPTmVYc0JidzJmX3ExWVdhekU?oc=5",
+     "summary": "School assembly news headlines today- September 4: Top national, sports and world news curated for you India Today",
+     "published": "2026-09-03T12:05:29+00:00",
+     "source": "India Today",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9a1991b6443-1788483985.jpg?resize=1920%2C1440",
+     "image": null,
      "licence": "linkout",
-     "id": "beed699bbb6e",
+     "id": "a28f2ef4d48d",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Kerala govt forms SIT headed by ADGP P Vijayan to probe Messi visit fraud",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUlHOTU0SWhHckVRbmotUmpyZ0NiSlNQM1lYNS1RaFU1al9NN2YxQW0wQjZnaFl5d1VadFRNVnRIcmlNbldaRHVMZlV0TDkzWjJMRkRYWmFSeEI1cXFuVG5sdXRKc1JaMjNvbGZnU0lqYTltRzFuSU1rRUx0N0tuLVdQVVRWb0tiel9Ea0JFWHV6Zm9rc2p1UVJvUkVIRm9ZY3MxbVdQbmpsV3NnNUp3Qklsbzc2UEZUNUhGQXBoVHltd9IBxwFBVV95cUxPUDZSTURORjNpTmZOemotZlJ1Y0ktSUhtREwxdFM0M1Y5WjVfRm0tS2FxZ1RUbU9QWjNHeXZoLV9YRU9GYTdydlk0RUFjZ2tjd1FCQVRvYWlGN2U1dGpXRGFFalByUDA2RW1KN2RLOVhVcDlEQkF4N0JEUU9NMjBQUVhGakxYM2E5YkZreTVhZkZISWNPc2F4X1JFMkt4d3hQM05iSzh6Sl9IQmlzYWFQNzM0a25YVVdjQmNWUkJfbm5OV3BzLWFN?oc=5",
+     "summary": "Kerala govt forms SIT headed by ADGP P Vijayan to probe Messi visit fraud The Statesman",
+     "published": "2026-09-03T13:18:00+00:00",
+     "source": "The Statesman",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "b7a65b84d8d4",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Messi visit row: Keralam’s UDF govt finalises terms of reference for SIT probe into LDF’s botched move",
+       "url": "https://www.thehindu.com/news/national/kerala/messi-visit-row-keralams-udf-govt-finalises-terms-of-reference-for-sit-probe-into-ldfs-botched-move/article71426954.ece",
+       "summary": "Home Department on Thursday constituted an SIT, headed by ADGP, Law and Order, P. Vijayan, to conduct a comprehensive probe into previous government’s alleged collaboration with a private sponsor"
+      }
+     ],
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "BDA completes 1,441 percolation wells in Bengaluru, expected to help alleviate water crisis",
+     "url": "https://www.thehindu.com/news/national/karnataka/bda-completes-1441-percolation-wells-in-bengaluru/article71424458.ece",
+     "summary": "The infrastructure is expected to recharge 184.59 million litres (18.459 crore litres) of rainwater annually",
+     "published": "2026-09-04T04:35:17+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/1ka0ul/article71424634.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202024-05-02%20at%209.04.41%20PM.jpg",
+     "licence": "linkout",
+     "id": "01d4614e808d",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "1,441 percolation wells in Bengaluru, expected",
+      "184.59 million litres (18",
+      "18.459 crore litres) of rainwater annually"
+     ]
     },
     {
      "title": "Gold, silver prices today, 4 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
@@ -219,39 +282,6 @@
      "figures": [
       "999 silver in Delhi, Mumbai",
       "999 silver retail rates across Delhi"
-     ]
-    },
-    {
-     "title": "SBI ATM rules change from 1 Oct: Free other-bank transactions for salary accounts capped at 5 per month- Details here",
-     "url": "https://www.livemint.com/money/personal-finance/sbi-atm-rules-change-from-1-oct-free-other-bank-transactions-for-salary-accounts-capped-at-5-per-month-details-here-11788489914181.html",
-     "summary": "SBI ATM rules, effective 1 October 2026, will reduce the number of free other-bank ATM transactions available to salary package account holders to five per month. Here are more details on the revised charges.",
-     "published": "2026-09-04T03:53:57+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/04/600x338/SBI_ATM_RULES_1788490841632_947dab73-d4a7-4f9c-9124-97585a78fa73_1788490846136_1b1c940d-993c-4db0-81a8-adaeabdb3c88_69ab2325-921a-4e3d-b476-d686514b02d5_1c64088a-4ab7-4a49-bd6e-dd3ff8395f00.jpg",
-     "licence": "linkout",
-     "id": "2118200a0002",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Decoding 2 crore deletions in Maharashtra’s draft electoral roll after state-wide SIR",
-     "url": "https://www.thehindu.com/data/decoding-2-crore-deletions-in-maharashtras-draft-electoral-roll-after-state-wide-sir/article71424277.ece",
-     "summary": "Out of the 2 crore deletions, 75 lakh (around 37%) were marked ‘absent or untraceable’. Over 38% of names were deleted in the Thane district",
-     "published": "2026-09-04T03:23:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/4fvw3v/article71237280.ece/alternates/LANDSCAPE_1200/PTI07_15_2026_000206B.jpg",
-     "licence": "linkout",
-     "id": "04c3b4607dde",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National Hotlines",
-     "figures": [
-      "2 crore deletions in Maharashtra’s draft",
-      "2 crore deletions, 75 lakh (around",
-      "75 lakh (around 37%) were marked"
      ]
     },
     {
@@ -311,6 +341,31 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "ISRO successfully launches Earth observation satellite EOS-05",
+     "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
+     "summary": "The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
+     "published": "2026-09-04T04:35:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/41j08j/article71426819.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%206.jpg",
+     "licence": "linkout",
+     "id": "ea87af3f30a6",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "ISRO Successfully Launches GSLV F17 Rocket Carrying Imaging Satellite EOS-05",
+       "url": "https://www.ndtv.com/india-news/isros-gslv-f17-rocket-carrying-imaging-satellite-eos-5-lifts-off-11999834#publisher=newsstand",
+       "summary": "A GSLV rocket, carrying ISRO's earth observation satellite EOS-05, succssfully lauched from the spaceport in a pre-dawn mission on Friday from Sriharikota."
+      }
+     ],
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News",
+     "figures": [
+      "36,000 km above the Earth"
+     ]
+    },
+    {
      "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
      "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
      "summary": "OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.",
@@ -343,18 +398,18 @@
      "from_section": "Technology"
     },
     {
-     "title": "Technological Leap in Costa Rica: Key Commission Born to Boost Artificial Intelligence and Data Centers",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTEJOcHNueXo1eVllcEd2UWZselc1bHBSeXJoaFFnTlNnTUF2WEQxOTlUR2Nqckh6eV96SWxTS3ZoRUpaSll3eVZMeVVxN0F4TFJhRmE1X3NpQ1pld2xlUmJKUF9HTjVYNFk4T3U1amtNS3Q3UHdmcEExdENMRkJRUGIwS25RQXNyWVppeTJ5ekRpWF85MlNYTEMyVG9EM3B5MzNKSFVLWVYwbkw1RkEwRXFCMkNDSFNFLVlENDlGV2hURlhlTlkzV0h1eU0?oc=5",
-     "summary": "Technological Leap in Costa Rica: Key Commission Born to Boost Artificial Intelligence and Data Centers The Costa Rica News",
-     "published": "2026-09-04T01:33:48+00:00",
-     "source": "The Costa Rica News",
+     "title": "Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal",
+     "url": "https://www.aljazeera.com/sports/2026/9/4/arsenal-sell-martinelli-to-al-hilal-in-post-transfer-deadline-day-deal?traffic_source=rss",
+     "summary": "Brazil forward Gabriel Martinelli transfers to Saudi Pro League side Al-Hilal from Premier League champions Arsenal.",
+     "published": "2026-09-04T04:42:27+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-22T185630Z_1485120046_UP1EM6M1GM4M4_RTRMADP_3_SOCCER-WORLDCUP-BRA-1788496239.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "4182e20cb094",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
+     "id": "74e3bbbe766e",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News"
     },
     {
      "title": "Nick Kyrgios Gets Month Ban For Cocaine, Enters Treatment Programme",
@@ -388,24 +443,18 @@
      ]
     },
     {
-     "title": "Premier League Transfer Windfall A Lfeline For Ailing French Clubs",
-     "url": "https://sports.ndtv.com/football/premier-league-transfer-windfall-a-lfeline-for-ailing-french-clubs-12000004#publisher=newsstand",
-     "summary": "The transfers of Morocco midfielder Ayyoub Bouaddi from Lille to Manchester City for 100 million euros (85.6m pounds, $117m) and France winger Bradley Barcola from Paris Saint-Germain to Liverpool for a total of 145 million euros (124m pounds, $167m) captured many headlines.",
-     "published": "2026-09-04T02:35:04+00:00",
-     "source": "NDTV Sports",
+     "title": "Messi visit row: Keralam’s UDF govt finalises terms of reference for SIT probe into LDF’s botched move",
+     "url": "https://www.thehindu.com/news/national/kerala/messi-visit-row-keralams-udf-govt-finalises-terms-of-reference-for-sit-probe-into-ldfs-botched-move/article71426954.ece",
+     "summary": "Home Department on Thursday constituted an SIT, headed by ADGP, Law and Order, P. Vijayan, to conduct a comprehensive probe into previous government’s alleged collaboration with a private sponsor",
+     "published": "2026-09-04T04:50:00+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ermguuek_bradley-barcola_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/qy0f7r/article71427058.ece/alternates/LANDSCAPE_1200/No-shoot-order-G3FGC8EBQ.5.jpg.jpg",
      "licence": "linkout",
-     "id": "fb493f195a7f",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "100 million euros (85",
-      "$117 m) and France winger",
-      "145 million euros (124m pounds, $167m)",
-      "$167 m) captured many headlines"
-     ]
+     "id": "851db695f94b",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News"
     },
     {
      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
@@ -449,7 +498,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-04T04:36:01.655890+00:00",
+     "published": "2026-09-04T05:01:52.887487+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -460,7 +509,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-04T04:36:01.655909+00:00",
+     "published": "2026-09-04T05:01:52.887496+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -471,7 +520,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-04T04:36:01.655915+00:00",
+     "published": "2026-09-04T05:01:52.887500+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -482,7 +531,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-04T04:36:01.655920+00:00",
+     "published": "2026-09-04T05:01:52.887508+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -493,7 +542,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-04T04:36:01.655924+00:00",
+     "published": "2026-09-04T05:01:52.887513+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -504,7 +553,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-04T04:36:01.655928+00:00",
+     "published": "2026-09-04T05:01:52.887518+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -557,19 +606,6 @@
      "category_label": "Sports"
     },
     {
-     "title": "Kerala govt forms SIT headed by ADGP P Vijayan to probe Messi visit fraud",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUlHOTU0SWhHckVRbmotUmpyZ0NiSlNQM1lYNS1RaFU1al9NN2YxQW0wQjZnaFl5d1VadFRNVnRIcmlNbldaRHVMZlV0TDkzWjJMRkRYWmFSeEI1cXFuVG5sdXRKc1JaMjNvbGZnU0lqYTltRzFuSU1rRUx0N0tuLVdQVVRWb0tiel9Ea0JFWHV6Zm9rc2p1UVJvUkVIRm9ZY3MxbVdQbmpsV3NnNUp3Qklsbzc2UEZUNUhGQXBoVHltd9IBxwFBVV95cUxPUDZSTURORjNpTmZOemotZlJ1Y0ktSUhtREwxdFM0M1Y5WjVfRm0tS2FxZ1RUbU9QWjNHeXZoLV9YRU9GYTdydlk0RUFjZ2tjd1FCQVRvYWlGN2U1dGpXRGFFalByUDA2RW1KN2RLOVhVcDlEQkF4N0JEUU9NMjBQUVhGakxYM2E5YkZreTVhZkZISWNPc2F4X1JFMkt4d3hQM05iSzh6Sl9IQmlzYWFQNzM0a25YVVdjQmNWUkJfbm5OV3BzLWFN?oc=5",
-     "summary": "Kerala govt forms SIT headed by ADGP P Vijayan to probe Messi visit fraud The Statesman",
-     "published": "2026-09-03T13:18:00+00:00",
-     "source": "The Statesman",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "b7a65b84d8d4",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
      "title": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmlvWi1lSG51QmQyalUyV05kSjc4Q2hIR09DSlA1WEFqbkQyYjBrdnBnNThWNENJSXh4aG9tZlFqQ2pQQXF0MS01RWcxOGZ6eTNTM3ZPVVh0MnpfYl9SYzRvOWYzWDV1cXpudWJVS3REU3RBcEstRUFfWEtFT3AzX0Q2aDBXaU5hWGQzZ0QzMDJoMDZrZUxhYi13c292cWtXNElnTVh1YmVZX3NSVkdIRC1aaHhjZWZ4NkZGRFM3TDgwU3c3WlBkWU1QZjlDNWJFOEw4OEFOdnhvVkhfMXpaYktXTVp4Zw?oc=5",
      "summary": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges Deccan Herald",
@@ -604,59 +640,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Jadavpur University students use ex-PM Vajpayee’s remark to justify ‘Free Palestine’ graffiti",
-     "url": "https://www.thehindu.com/news/national/west-bengal/jadavpur-university-students-use-ex-pm-vajpayees-remark-to-justify-free-palestine-graffiti/article71424185.ece",
-     "summary": "",
-     "published": "2026-09-04T03:44:42+00:00",
+     "title": "Expired food products seized from Chairman’s Club at Sahakaranagar in Bengaluru, kitchen shut down",
+     "url": "https://www.thehindu.com/news/national/karnataka/expired-food-products-seized-from-chairmans-club-at-sahakaranagar-in-bengaluru-kitchen-shut-down/article71426986.ece",
+     "summary": "Food Safety and Drug Administration officials claim that highly unhygienic conditions were observed in the food preparation and storage areas, and the use of unauthorised and prohibited artificial colours in food products",
+     "published": "2026-09-04T04:51:14+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bg21qi/article71426929.ece/alternates/LANDSCAPE_1200/1001335254%201.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/k766fm/article71427060.ece/alternates/LANDSCAPE_1200/Chairman%E2%80%99s%20Club%20in%20Bengaluru%20kitchen.jpeg",
      "licence": "linkout",
-     "id": "149fcf97102d",
+     "id": "31e281c88b43",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Hyderabad on new growth orbit",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-on-new-growth-orbit/article71424590.ece",
-     "summary": "In the recent years, the city has emerged as preferred destination for Global Capability Centres, creating value across IT, R&D, customer support operations and intellectual property-related functions",
-     "published": "2026-09-04T03:36:32+00:00",
+     "title": "Messi visit row: Keralam’s UDF govt finalises terms of reference for SIT probe into LDF’s botched move",
+     "url": "https://www.thehindu.com/news/national/kerala/messi-visit-row-keralams-udf-govt-finalises-terms-of-reference-for-sit-probe-into-ldfs-botched-move/article71426954.ece",
+     "summary": "Home Department on Thursday constituted an SIT, headed by ADGP, Law and Order, P. Vijayan, to conduct a comprehensive probe into previous government’s alleged collaboration with a private sponsor",
+     "published": "2026-09-04T04:50:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lu2b8t/article71426917.ece/alternates/LANDSCAPE_1200/IMG_IMG_E1905_2_1_KRGFM8SU.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/qy0f7r/article71427058.ece/alternates/LANDSCAPE_1200/No-shoot-order-G3FGC8EBQ.5.jpg.jpg",
      "licence": "linkout",
-     "id": "d2b85649338b",
-     "category": "general",
-     "category_label": "General"
+     "id": "851db695f94b",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
     },
     {
-     "title": "Newsroom that learned to move at internet speed",
-     "url": "https://www.thehindu.com/news/national/telangana/newsroom-that-learned-to-move-at-internet-speed/article71424608.ece",
-     "summary": "From being the first Indian newspaper to foray into digital space in 1995 to today’s world of smartphones, The Hindu’s digital journey mirrors the transformation of news consumption",
-     "published": "2026-09-04T03:32:52+00:00",
+     "title": "Courtroom dramas, clipped and shared",
+     "url": "https://www.thehindu.com/news/national/courtroom-dramas-clipped-and-shared/article71418948.ece",
+     "summary": "Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms. But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks. The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik examines what the interim order could mean for public access, judicial accountability, and the youth, which is accustomed to consuming bite-sized news",
+     "published": "2026-09-04T04:45:11+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7zy6l8/article71426903.ece/alternates/LANDSCAPE_1200/C.-V.-Anand-otG2KGG0I0E.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ixal4n/article71424904.ece/alternates/LANDSCAPE_1200/SL_court.jpg",
      "licence": "linkout",
-     "id": "fbf4e6e52d79",
+     "id": "747fa107b5ac",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Fading fear of HIV puts focus on rising STI risks among youth in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/fading-fear-of-hiv-puts-focus-on-rising-sti-risks-among-youth-in-keralam/article71424304.ece",
-     "summary": "The virus no longer carries the deterrent power it once did and changing sexual behaviour is putting young people at risk of sexually transmitted infections. The numbers seeking care at the 23 District STI/RTI Centres under the Kerala State AIDS Control Society have been rising steadily. September 4 is World Sexual Health Day",
-     "published": "2026-09-04T03:25:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/c3jrta/article71425690.ece/alternates/LANDSCAPE_1200/world_AIDS_day_04.jpg",
-     "licence": "linkout",
-     "id": "6d700bdcfa47",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "23 District STI/RTI Centres under"
-     ]
     },
     {
      "title": "How ISRO's 'Naughty Boy' Rocket Delivered A Big Win For India",
@@ -712,66 +732,70 @@
    "upsc": false,
    "items": [
     {
-     "title": "Entertainment over policy? White House arcade games ignite backlash",
-     "url": "https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss",
-     "summary": "White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.",
-     "published": "2026-09-04T03:44:47+00:00",
+     "title": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss",
+     "summary": "Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands.",
+     "published": "2026-09-04T04:45:21+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9a3d20-1788493088.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788497110.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "dd7ffa792d8d",
+     "id": "2eff9ad39d9e",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Argentine leader threatens to sanction oil firms working off Falklands",
+       "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+       "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it."
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal",
+     "url": "https://www.aljazeera.com/sports/2026/9/4/arsenal-sell-martinelli-to-al-hilal-in-post-transfer-deadline-day-deal?traffic_source=rss",
+     "summary": "Brazil forward Gabriel Martinelli transfers to Saudi Pro League side Al-Hilal from Premier League champions Arsenal.",
+     "published": "2026-09-04T04:42:27+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-22T185630Z_1485120046_UP1EM6M1GM4M4_RTRMADP_3_SOCCER-WORLDCUP-BRA-1788496239.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "74e3bbbe766e",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "Mladic’s body arrives to full military honours in Serbia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss",
+     "summary": "The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.",
+     "published": "2026-09-04T04:32:13+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788496296.jpg?resize=1618%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "ba23e049817c",
      "category": "conflict",
      "category_label": "War & conflict"
     },
     {
-     "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
-     "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
-     "summary": "OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.",
-     "published": "2026-09-04T03:36:19+00:00",
-     "source": "Al Jazeera",
+     "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+     "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+     "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+     "published": "2026-09-04T02:20:37+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-03T171416Z_1469135381_RC2QRLANB0GV_RTRMADP_3_TECH-AI-OPENAI-1788480833_516ec7-1788488332.jpg?resize=1200%2C630&quality=80",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
-     "id": "4194820ee104",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "6 Astra amid rising scrutiny",
-      "6 Astra is the most advanced"
-     ]
+     "id": "5921185e3481",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
-     "url": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
-     "summary": "Republicans have pledged to appeal the ruling to the US Supreme Court with only months until the midterm elections.",
-     "published": "2026-09-04T02:46:50+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9a1991b6443-1788483985.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "beed699bbb6e",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Why did Trump meet with anti-Zionist Jewish leaders?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
-     "summary": "US President Donald Trump met six anti-Zionist rabbis privately amid protests over Israeli military conscription.",
-     "published": "2026-09-04T02:21:20+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788488464.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "f86914cab5e2",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+     "title": "Argentine leader threatens to sanction oil firms working off Falklands",
      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
      "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-     "published": "2026-09-04T04:04:42+00:00",
+     "published": "2026-09-04T04:59:34+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
@@ -779,48 +803,6 @@
      "id": "f84bbd8c79cb",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "US investigating if missile hit Iran wedding, Vance says",
-     "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-     "published": "2026-09-03T22:19:59+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a5/live/33e75750-a7e3-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "2f45761c5c5c",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-     "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-     "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-     "published": "2026-09-03T06:01:54+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "a75fefc502eb",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-     "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-     "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-     "published": "2026-09-04T01:20:32+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "a98be91cf983",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "50,000 jobs"
-     ]
     }
    ]
   },
@@ -926,54 +908,62 @@
    "upsc": false,
    "items": [
     {
-     "title": "Jadavpur University students use ex-PM Vajpayee’s remark to justify ‘Free Palestine’ graffiti",
-     "url": "https://www.thehindu.com/news/national/west-bengal/jadavpur-university-students-use-ex-pm-vajpayees-remark-to-justify-free-palestine-graffiti/article71424185.ece",
-     "summary": "",
-     "published": "2026-09-04T03:44:42+00:00",
+     "title": "Expired food products seized from Chairman’s Club at Sahakaranagar in Bengaluru, kitchen shut down",
+     "url": "https://www.thehindu.com/news/national/karnataka/expired-food-products-seized-from-chairmans-club-at-sahakaranagar-in-bengaluru-kitchen-shut-down/article71426986.ece",
+     "summary": "Food Safety and Drug Administration officials claim that highly unhygienic conditions were observed in the food preparation and storage areas, and the use of unauthorised and prohibited artificial colours in food products",
+     "published": "2026-09-04T04:51:14+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bg21qi/article71426929.ece/alternates/LANDSCAPE_1200/1001335254%201.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/k766fm/article71427060.ece/alternates/LANDSCAPE_1200/Chairman%E2%80%99s%20Club%20in%20Bengaluru%20kitchen.jpeg",
      "licence": "linkout",
-     "id": "149fcf97102d",
+     "id": "31e281c88b43",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Hyderabad on new growth orbit",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-on-new-growth-orbit/article71424590.ece",
-     "summary": "In the recent years, the city has emerged as preferred destination for Global Capability Centres, creating value across IT, R&D, customer support operations and intellectual property-related functions",
-     "published": "2026-09-04T03:36:32+00:00",
+     "title": "Messi visit row: Keralam’s UDF govt finalises terms of reference for SIT probe into LDF’s botched move",
+     "url": "https://www.thehindu.com/news/national/kerala/messi-visit-row-keralams-udf-govt-finalises-terms-of-reference-for-sit-probe-into-ldfs-botched-move/article71426954.ece",
+     "summary": "Home Department on Thursday constituted an SIT, headed by ADGP, Law and Order, P. Vijayan, to conduct a comprehensive probe into previous government’s alleged collaboration with a private sponsor",
+     "published": "2026-09-04T04:50:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lu2b8t/article71426917.ece/alternates/LANDSCAPE_1200/IMG_IMG_E1905_2_1_KRGFM8SU.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/qy0f7r/article71427058.ece/alternates/LANDSCAPE_1200/No-shoot-order-G3FGC8EBQ.5.jpg.jpg",
      "licence": "linkout",
-     "id": "d2b85649338b",
+     "id": "851db695f94b",
+     "also": [
+      {
+       "source": "The Statesman",
+       "title": "Kerala govt forms SIT headed by ADGP P Vijayan to probe Messi visit fraud",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUlHOTU0SWhHckVRbmotUmpyZ0NiSlNQM1lYNS1RaFU1al9NN2YxQW0wQjZnaFl5d1VadFRNVnRIcmlNbldaRHVMZlV0TDkzWjJMRkRYWmFSeEI1cXFuVG5sdXRKc1JaMjNvbGZnU0lqYTltRzFuSU1rRUx0N0tuLVdQVVRWb0tiel9Ea0JFWHV6Zm9rc2p1UVJvUkVIRm9ZY3MxbVdQbmpsV3NnNUp3Qklsbzc2UEZUNUhGQXBoVHltd9IBxwFBVV95cUxPUDZSTURORjNpTmZOemotZlJ1Y0ktSUhtREwxdFM0M1Y5WjVfRm0tS2FxZ1RUbU9QWjNHeXZoLV9YRU9GYTdydlk0RUFjZ2tjd1FCQVRvYWlGN2U1dGpXRGFFalByUDA2RW1KN2RLOVhVcDlEQkF4N0JEUU9NMjBQUVhGakxYM2E5YkZreTVhZkZISWNPc2F4X1JFMkt4d3hQM05iSzh6Sl9IQmlzYWFQNzM0a25YVVdjQmNWUkJfbm5OV3BzLWFN?oc=5",
+       "summary": "Kerala govt forms SIT headed by ADGP P Vijayan to probe Messi visit fraud The Statesman"
+      }
+     ],
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "Courtroom dramas, clipped and shared",
+     "url": "https://www.thehindu.com/news/national/courtroom-dramas-clipped-and-shared/article71418948.ece",
+     "summary": "Live-streaming and virtual hearings have brought transparency and scrutiny to courtrooms. But footage is often snipped and uploaded onto social media platforms, sometimes stripped of context and repackaged for clicks. The Supreme Court has moved to restrict their circulation. Aaratrika Bhaumik examines what the interim order could mean for public access, judicial accountability, and the youth, which is accustomed to consuming bite-sized news",
+     "published": "2026-09-04T04:45:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ixal4n/article71424904.ece/alternates/LANDSCAPE_1200/SL_court.jpg",
+     "licence": "linkout",
+     "id": "747fa107b5ac",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Newsroom that learned to move at internet speed",
-     "url": "https://www.thehindu.com/news/national/telangana/newsroom-that-learned-to-move-at-internet-speed/article71424608.ece",
-     "summary": "From being the first Indian newspaper to foray into digital space in 1995 to today’s world of smartphones, The Hindu’s digital journey mirrors the transformation of news consumption",
-     "published": "2026-09-04T03:32:52+00:00",
+     "title": "Gautam Menon seeks time till September 30, 2026 to release Dhruva Natchathiram",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/gautam-menon-seeks-time-till-september-31-2026-to-release-dhruva-natchathiram/article71423096.ece",
+     "summary": "He has approached the Madras High Court once again seeking further time to get the movie released after solving financial issues",
+     "published": "2026-09-04T04:24:03+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7zy6l8/article71426903.ece/alternates/LANDSCAPE_1200/C.-V.-Anand-otG2KGG0I0E.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/z1x6vx/article71425659.ece/alternates/LANDSCAPE_1200/image.jpg",
      "licence": "linkout",
-     "id": "fbf4e6e52d79",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Hyderabad’s art scene is finding new ways to make itself seen",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-art-scene-is-finding-new-ways-to-make-itself-seen/article71403866.ece",
-     "summary": "How a city with no art ecosystem is slowly and steadily nurturing a vibrant world balancing the regional identity while engaging with a globalised art world",
-     "published": "2026-09-04T03:23:14+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5s7toj/article71410910.ece/alternates/LANDSCAPE_1200/_DSC8001.JPG",
-     "licence": "linkout",
-     "id": "0644daa10d58",
+     "id": "591d6f509bb1",
      "category": "general",
      "category_label": "General"
     },
@@ -981,7 +971,7 @@
      "title": "The feminist organiser and her everyday rebellions",
      "url": "https://www.thehindu.com/news/international/gloria-steinem-death-feminist-organiser-indian-connection/article71425460.ece",
      "summary": "Gloria Steinem, 92, who gave feminism a good name and an image that debunked the stereotype, died in her New York home; through her life, she had a strong connection with India",
-     "published": "2026-09-04T03:15:15+00:00",
+     "published": "2026-09-04T04:23:02+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/36r3dk/article71425481.ece/alternates/LANDSCAPE_1200/Gloria_Steinem_64232.jpg",
@@ -991,17 +981,17 @@
      "category_label": "General"
     },
     {
-     "title": "School assembly news headlines today- September 4: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZHVvNWJzU2QtS1M2VzlOVEpKaDZITXFCeVNjdmNCR1dXNW8zTjN6R2FzcF9GNFJNcm9xUmhPYklidlNKRExRTVpVckhOZkhPQVdKcmhlQ0dvTXBqcS1WaUpvNlpuSHZnRzAzcFpxWEZ0RWpHWlhWNUhwQjA3U2NkeEp3dTAzNVJBZ1UySTJoQmJuUTd0V19kNkFCWXowa0dUa0VaUnFSeS1SZjNDTVpiWGMwYUpBYzhEb1RuUlNCdHI1MGp5ZDAzc3o5WXFRNFIwY3o5Q2hPTmVYc0JidzJmX3ExWVdhekU?oc=5",
-     "summary": "School assembly news headlines today- September 4: Top national, sports and world news curated for you India Today",
-     "published": "2026-09-03T12:05:29+00:00",
-     "source": "India Today",
+     "title": "The dedicated band of district correspondents",
+     "url": "https://www.thehindu.com/news/national/telangana/the-dedicated-band-of-district-correspondents/article71424359.ece",
+     "summary": "For five decades, the district correspondents chronicled the changing face of united Andhra Pradesh, taking the newspaper beyond capitals and corridors of power into villages, conflict zones and remote hinterlands. From painstaking trunk-call filings to laptops and digital reporting, they brought grassroots voices, rural concerns, political shifts, social movements and crises to readers, becoming the quiet pillars of the newspaper’s credibility and legacy. They laid the foundation for what became one of the strongest district reporting networks among English-language newspapers in the State",
+     "published": "2026-09-04T03:54:31+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/1pxwkh/article71426943.ece/alternates/LANDSCAPE_1200/C.-V.-Anand-otG2KGG0I0E.3.jpg.jpg",
      "licence": "linkout",
-     "id": "a28f2ef4d48d",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "3fdf8180355f",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1011,6 +1001,27 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on September 04, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63513",
+     "summary": "",
+     "published": "2026-09-04T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "6fc00bb44491",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "VRRR"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Result of Underwriting Auction conducted on September 04, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63512",
@@ -1087,27 +1098,6 @@
       ],
       "terms": [],
       "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on September 03, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63508",
-     "summary": "",
-     "published": "2026-09-04T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "6d3442add4c1",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [
-       "VRRR"
-      ],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
      },
      "category": "general",
      "category_label": "General"
@@ -1454,22 +1444,30 @@
      ]
     },
     {
-     "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+     "title": "Argentine leader threatens to sanction oil firms working off Falklands",
      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
      "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-     "published": "2026-09-04T04:04:42+00:00",
+     "published": "2026-09-04T04:59:34+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
      "licence": "linkout",
      "id": "f84bbd8c79cb",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss",
+       "summary": "Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands."
+      }
+     ],
      "category": "general",
      "category_label": "General"
     },
     {
      "title": "'I lost my savings after a job interview scam'",
      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Job seekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+     "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
      "published": "2026-09-03T23:41:49+00:00",
      "source": "BBC News",
      "byline": "",
@@ -1507,6 +1505,19 @@
      "figures": [
       "31. Eligible salaried individuals who missed"
      ]
+    },
+    {
+     "title": "SBI ATM rules change from 1 Oct: Free other-bank transactions for salary accounts capped at 5 per month- Details here",
+     "url": "https://www.livemint.com/money/personal-finance/sbi-atm-rules-change-from-1-oct-free-other-bank-transactions-for-salary-accounts-capped-at-5-per-month-details-here-11788489914181.html",
+     "summary": "SBI ATM rules, effective 1 October 2026, will reduce the number of free other-bank ATM transactions available to salary package account holders to five per month. Here are more details on the revised charges.",
+     "published": "2026-09-04T03:53:57+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/04/600x338/SBI_ATM_RULES_1788490841632_947dab73-d4a7-4f9c-9124-97585a78fa73_1788490846136_1b1c940d-993c-4db0-81a8-adaeabdb3c88_69ab2325-921a-4e3d-b476-d686514b02d5_1c64088a-4ab7-4a49-bd6e-dd3ff8395f00.jpg",
+     "licence": "linkout",
+     "id": "2118200a0002",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "Taxpayer denied LTCG exemption over suspected share price manipulation after 7,800% jump: How he won the case",
@@ -1654,6 +1665,19 @@
      "id": "c69d545b8390",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Technological Leap in Costa Rica: Key Commission Born to Boost Artificial Intelligence and Data Centers",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTEJOcHNueXo1eVllcEd2UWZselc1bHBSeXJoaFFnTlNnTUF2WEQxOTlUR2Nqckh6eV96SWxTS3ZoRUpaSll3eVZMeVVxN0F4TFJhRmE1X3NpQ1pld2xlUmJKUF9HTjVYNFk4T3U1amtNS3Q3UHdmcEExdENMRkJRUGIwS25RQXNyWVppeTJ5ekRpWF85MlNYTEMyVG9EM3B5MzNKSFVLWVYwbkw1RkEwRXFCMkNDSFNFLVlENDlGV2hURlhlTlkzV0h1eU0?oc=5",
+     "summary": "Technological Leap in Costa Rica: Key Commission Born to Boost Artificial Intelligence and Data Centers The Costa Rica News",
+     "published": "2026-09-04T01:33:48+00:00",
+     "source": "The Costa Rica News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "4182e20cb094",
+     "category": "tech",
+     "category_label": "AI & technology"
     }
    ]
   },
@@ -1714,6 +1738,25 @@
      "id": "3e0771fa7f47",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Premier League Transfer Windfall A Lfeline For Ailing French Clubs",
+     "url": "https://sports.ndtv.com/football/premier-league-transfer-windfall-a-lfeline-for-ailing-french-clubs-12000004#publisher=newsstand",
+     "summary": "The transfers of Morocco midfielder Ayyoub Bouaddi from Lille to Manchester City for 100 million euros (85.6m pounds, $117m) and France winger Bradley Barcola from Paris Saint-Germain to Liverpool for a total of 145 million euros (124m pounds, $167m) captured many headlines.",
+     "published": "2026-09-04T02:35:04+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/ermguuek_bradley-barcola_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "fb493f195a7f",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "100 million euros (85",
+      "$117 m) and France winger",
+      "145 million euros (124m pounds, $167m)",
+      "$167 m) captured many headlines"
+     ]
     }
    ]
   },
