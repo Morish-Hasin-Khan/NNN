@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T15:36:13.736610+00:00",
+ "generated_at": "2026-09-04T16:02:46.004562+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -79,20 +79,21 @@
    "value": 79460.0,
    "change": 911.0,
    "changePct": 1.16,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
   "Punjabi Canadian",
-  "Keralam Kasaragod",
+  "Jharkhand Police",
   "Jazeera English",
   "News",
   "Dentsu Royalty",
-  "Uddhav Thackeray",
-  "Supreme Court",
-  "Kavitha Intermediate",
-  "Israel Lebanese",
-  "Farage Reform"
+  "Monday",
+  "Elaborate Tirumala",
+  "Russia Ukraine",
+  "Israeli West",
+  "Nepal"
  ],
  "sections": [
   {
@@ -124,122 +125,155 @@
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "13-year-old tribal girl found pregnant after alleged sexual abuse in Keralam’s Kasaragod; father, cousin arrested",
-     "url": "https://www.thehindu.com/news/national/kerala/13-year-old-tribal-girl-found-pregnant-after-alleged-sexual-abuse-in-keralams-kasaragod-father-cousin-arrested/article71428260.ece",
-     "summary": "Details of alleged abuse emerge during counselling by police; cases registered against the two under Protection of Children from Sexual Offences Act",
-     "published": "2026-09-04T15:26:52+00:00",
+     "title": "Jharkhand BJP to gherao Police Commissioner's offices from September 8",
+     "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-to-gherao-police-commissioners-offices-from-september-8/article71428598.ece",
+     "summary": "The party alleged that the government has still not withdrawn the cases it had filed against student protesters; the gherao will be in a phase-wise manner across all 24 districts over four days",
+     "published": "2026-09-04T15:53:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/61euk5/article71429421.ece/alternates/LANDSCAPE_1200/20260904338L.jpg",
      "licence": "linkout",
-     "id": "705ec1b6e71b",
+     "id": "727b92c1f476",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "24 districts over four days"
+     ]
+    },
+    {
+     "title": "Man Who Bragged About Hitting Student's Father At CJP Protest Detained, Faces SC/ST Atrocities Act",
+     "url": "https://www.ndtv.com/india-news/influencer-who-bragged-about-hitting-students-father-at-cjp-protest-detained-12002364#publisher=newsstand",
+     "summary": "Case blew up after video clip went viral in which Swatantra Bhardwaj, a self-described \"kattar (hardline) Hindu\", claimed to have \"cracked the skull\" of Nishu's father. Congress, CJP, Chandrashekhar Azad had reached police station.",
+     "published": "2026-09-04T14:04:44+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/qm793t8k_swatantra-bhardwaj_625x300_04_September_26.jpg",
+     "licence": "linkout",
+     "id": "679847deef07",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "Why is Farage’s Reform accused of violating the UK’s foreign funding rules?",
-     "url": "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss",
-     "summary": "Undercover footage allegedly shows top Reform officials discussing ways to evade foreign funding laws.",
-     "published": "2026-09-04T14:38:30+00:00",
+     "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+     "url": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
+     "summary": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
+     "published": "2026-09-04T15:44:14+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9abd9c5750-1788525980.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T132122Z_2055207679_RC27ANAMC7RE_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1788529971.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "ea04f8a6f4ad",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-     "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-     "published": "2026-09-04T14:27:10+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
-     "licence": "linkout",
-     "id": "af2f5b8966b4",
+     "id": "2c744ea795ad",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
-     "title": "UK petrol prices hit highest level since Iran war began",
-     "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-     "summary": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
-     "published": "2026-09-04T13:05:52+00:00",
-     "source": "BBC News",
+     "title": "Diesel price hits all-time high in US amid Iran war woes",
+     "url": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
+     "summary": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
+     "published": "2026-09-04T15:28:28+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26247439721726-1788528709.jpg?resize=1200%2C675",
      "licence": "linkout",
-     "id": "99e72daa6921",
+     "id": "63db30a768fe",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Business"
+     "from_section": "Global News"
     },
     {
-     "title": "Congress stands with ‘all daughters’ seeking justice, says Alka Lamba",
-     "url": "https://www.thehindu.com/news/national/congress-stands-with-all-daughters-seeking-justice-says-alka-lamba/article71428240.ece",
-     "summary": "Alka Lamba said the party and Leader of the Opposition in the Lok Sabha Rahul Gandhi stood with Nishu Azad, journalists Shaheen Khan and Nafisa Khan, and student activist Akriti Chaudhary, who participated in a protest at Jantar Mantar",
-     "published": "2026-09-04T15:22:31+00:00",
+     "title": "US rejects Israeli suggestions of removing Palestinians from Gaza",
+     "url": "https://www.aljazeera.com/news/2026/9/4/us-rejects-israeli-suggestions-of-removing-palestinians-from-gaza?traffic_source=rss",
+     "summary": "US State Department tells Al Jazeera Washington 'does not support any plan' for the expulsion of Palestinians.",
+     "published": "2026-09-04T15:24:13+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26229640996307-1788535049.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "53fc13dbd1e2",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "People have given me the authority to take an S-turn, says Chief Minister D.K. Shivakumar",
+     "url": "https://www.thehindu.com/news/national/karnataka/people-have-given-me-the-authority-to-take-an-s-turn-says-chief-minister-dk-shivakumar/article71428795.ece",
+     "summary": "",
+     "published": "2026-09-04T15:38:19+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/an097f/article71428634.ece/alternates/LANDSCAPE_1200/CONGRESS%20ALKA%20LAMBA%20PC%20%20DELHI%202026_04_09_15.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/85x6d/article71429212.ece/alternates/LANDSCAPE_1200/_JAI0659.JPG",
      "licence": "linkout",
-     "id": "8295b770a2a1",
+     "id": "105e0ded0cb8",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
     },
     {
-     "title": "41 teachers get State-level best teacher awards",
-     "url": "https://www.thehindu.com/news/national/karnataka/41-teachers-get-state-level-best-teacher-awards/article71429093.ece",
-     "summary": "The awards will be presented by Chief Minister D.K. Shivakumar on Saturday (September 5) at Vidhana Soudha Banquet Hall.",
-     "published": "2026-09-04T15:22:06+00:00",
-     "source": "The Hindu",
+     "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+     "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+     "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+     "published": "2026-09-04T11:54:51+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/mb0wqr/article71429272.ece/alternates/LANDSCAPE_1200/IMG_iStock-2236590048_2_1_APGER4GE.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
-     "id": "c1e94a2473cc",
+     "id": "f9841d4b31c5",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines",
+     "from_section": "Global News",
      "figures": [
-      "41 teachers get State-level best teacher"
+      "10"
      ]
     },
     {
-     "title": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
-     "url": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss",
-     "summary": "Lebanese President Joseph Aoun praises the release and thanks US President Donald Trump for his efforts.",
-     "published": "2026-09-04T14:50:55+00:00",
-     "source": "Al Jazeera",
+     "title": "CBI Open To Probe Corruption Charges Against Punjab Chief Minister's Office",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlVuang2djhseUlDMXJSbWdRZUY2MklYMGVxdEdpa1lhRklQZUtwbTkxTnpWMnYzdUV6cUk1bzNHT3JtRmRTV1lkMkc5R0Nyd2lGQkFiYVhkWEhEOTgtblE5MlRQdlFiNnk5cUJOZEViQ2ctbU5GN2dMUEFWUnpGZVdubWJDZ3ZwMmZ6bDc3STFRNVhWbTgxZXNsRnR2bzlnaXkxTmFnbnR5M2tkNkJGTlI1cWhFZ9IBvgFBVV95cUxQLVNyZEN1TEVrc1JaemR3MFlEd1cwQzgzMV96emZUcmJXcG5hc293YXhURDFBWTZ6bmtSeWpqRXRydFFEcFV6cmluSjFIWjdGMkt3MGNaY3YybW1UR1AwRzlSaU1PckxnRnA2VW5vTjZDZDF6RHRUb3g4ckFzZVdqRUE2NEhqZ0VTQmFmTkV5UHFiS2VyZFBuMWgxU3VfSVFIcWl3VzhPU0QxT3pNN3dUSU5hdFI3S2NJbFkySVRR?oc=5",
+     "summary": "CBI Open To Probe Corruption Charges Against Punjab Chief Minister's Office ndtv.com",
+     "published": "2026-09-04T10:43:16+00:00",
+     "source": "ndtv.com",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9abdc9a1fe-1788526025.jpg?resize=1920%2C1440",
+     "image": null,
      "licence": "linkout",
-     "id": "fa72f96ad252",
+     "id": "ac7e17f83adc",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Freshwater ponds get a new lease of life under PMKSY in Andhra Pradesh",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/freshwater-ponds-get-a-new-lease-of-life-under-pmksy-in-andhra-pradesh/article71428928.ece",
-     "summary": "A sum of ₹50 crore has been sanctioned for the scheme, and 26 of the 105 village ponds have already been rejuvenated",
-     "published": "2026-09-04T15:23:13+00:00",
+     "title": "₹56.5-crore road project to Sidilu Mallikarjuna Swamy Hill launched",
+     "url": "https://www.thehindu.com/news/national/karnataka/565-crore-road-project-to-sidilu-mallikarjuna-swamy-hill-launched/article71429285.ece",
+     "summary": "",
+     "published": "2026-09-04T15:49:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7qoyl2/article71429267.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-04%20at%2019.39.49.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/i6b83q/article71429380.ece/alternates/LANDSCAPE_1200/5964_4_9_2026_20_54_55_1_LAUNCHOFROADWORKS.JPEG",
      "licence": "linkout",
-     "id": "f1734b3bf6c4",
+     "id": "f32f3695c5ab",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National Hotlines",
+     "from_section": "National News",
      "figures": [
-      "₹50 crore has been sanctioned",
-      "105 village ponds have already been"
+      "₹56.5 -crore road project"
+     ]
+    },
+    {
+     "title": "UN raises ‘ethnic cleansing’ concerns over Israeli West Bank operation",
+     "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
+     "summary": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
+     "published": "2026-09-04T15:31:54+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250223__36YG63E__v1__Preview__PalestinianIsraelConflict-1740406413.jpg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "8e0d573cdace",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News",
+     "figures": [
+      "33,000 Palestinian refugees remain displaced since"
      ]
     },
     {
@@ -260,26 +294,6 @@
      ]
     },
     {
-     "title": "Uttarakhand pensions: ₹147 crore instalment released for over 9.91 lakh beneficiaries — Here's how to check",
-     "url": "https://www.livemint.com/money/personal-finance/uttarakhand-pension-payments-rs-147-crore-instalment-releases-over-9-91-lakh-beneficiaries-bank-account-dbt-how-to-check-11788524476322.html",
-     "summary": "Uttarakhand releases ₹147.05 crore pension was transferred directly into the bank accounts of 991,914 beneficiaries. In August, pensions of 5,605 new beneficiaries were also sanctioned under various pension schemes.",
-     "published": "2026-09-04T13:48:16+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/04/600x338/8th_pay_commission_news_1788401458454_ea405b11-bfb_1788529123843_670cdd03-38af-475c-8a66-b26c4cc3254f_1788529124062_9fc7b7f3-30a2-4706-b234-d4ed65fb8f67_7400f463-6e98-45b7-9d45-e47ca347df32_e21f98e6-9c01-4116-9711-8f3e42e497e4.jpg",
-     "licence": "linkout",
-     "id": "b88b96c8b24c",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹147 crore instalment released for over",
-      "9.91 lakh beneficiaries — Here's how",
-      "₹147.05 crore pension was transferred directly",
-      "991,914 beneficiaries"
-     ]
-    },
-    {
      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
@@ -291,7 +305,7 @@
      "id": "342e01d3bf8c",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "Global Hotline"
+     "from_section": "Global News"
     },
     {
      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
@@ -322,7 +336,7 @@
      "id": "6c81d696dea3",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "Global News"
+     "from_section": "Global Hotline"
     },
     {
      "title": "Train Services To Mizoram Suspended After Landslide Hits Rail Track In Assam",
@@ -337,6 +351,24 @@
      "category": "weather",
      "category_label": "Weather & disaster",
      "from_section": "National News"
+    },
+    {
+     "title": "After 68 years, Air India flight connecting Madurai and Chennai to stop operations from October 25",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/after-68-years-air-india-flight-connecting-madurai-and-chennai-to-stop-operations-from-october-25-2026/article71428055.ece",
+     "summary": "With the closure of operations on the sector by AI Express, the route will become monopoly for Indigo, which operates over five flights daily between the two cities",
+     "published": "2026-09-04T15:47:59+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/o86tuw/article71429409.ece/alternates/LANDSCAPE_1200/iStock-2219843293.jpg",
+     "licence": "linkout",
+     "id": "f50664f30613",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News",
+     "figures": [
+      "68 years , Air India flight",
+      "25. With the closure of operations"
+     ]
     },
     {
      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
@@ -355,9 +387,9 @@
     {
      "title": "China’s AI Attack Chain Trails Foreign Models, Researchers Find",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53THUzUDRVT19YR2V2TE03c2RCWkVqdHBuMXlqOXlNXzlRdGpiRTdoNFJFSDZ1QzFmN0tDOGtJMkVoalVvaGw1Qk42bEZQQkpTajRlaW8wbmN3T3hOeDJuNkVMUWNNeUZwQTV1dGFSYnBrdHNhWjFhZXpRUdIBgAFBVV95cUxPQTEzdW5lUThXNGxxdmhZaXUyZENiNkZiekRXWFk5UXpuM2R0LVMzNWY2TlplczhYVjdtWUV3NnlkcEtiWDBLVENxSE5Balo3WUdnbDdPdHdoX1V1Z0dvU0FDUXNuNVVESlBrVng2WFdHS0lPbmJwSGZ2TkNHcnlDSA?oc=5",
-     "summary": "China’s AI Attack Chain Trails Foreign Models, Researchers Find The Defense Post",
+     "summary": "China’s AI Attack Chain Trails Foreign Models, Researchers Find thedefensepost.com",
      "published": "2026-09-04T14:04:58+00:00",
-     "source": "The Defense Post",
+     "source": "thedefensepost.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -365,20 +397,6 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
-    },
-    {
-     "title": "How Oasis fans cracked the Celtic Park gigs code in chip shop video",
-     "url": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
-     "summary": "Internet sleuths spotted sets of numbers in posters suggesting the map co-ordinates for Celtic's Parkhead stadium in Glasgow.",
-     "published": "2026-09-04T12:06:37+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2189/live/60fe27d0-a85d-11f1-aed2-8d6da8d75094.png",
-     "licence": "linkout",
-     "id": "22c46d405d5e",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Culture"
     },
     {
      "title": "Pakistan Coach Breaks Silence On Reports Of Salman Ali Agha Snubbing King Charles Meeting",
@@ -423,18 +441,18 @@
      "from_section": "Sports"
     },
     {
-     "title": "\"Why Uddhav Thackeray's govt refuse CBI probe?\": BJP's Ram Kadam questions handling of Disha Salian case",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb05IYWdtME5naVkxVTljZ0N4azRlMWdpQXhOdmxITmJFYXRoaEhnSnRFZE44WENSbnBVZ1psYmtHckJ2YXR1djRCaHd3cDJUUU1CMmdzaF90MnFReUNWTW1WcUVRVzZ4WVFsOG9JMENDem1DcUpmZFJSRGVkTDAyQXo3MXhiaDEySDVQNGRCaXhyamY0eUdpb1pWN0hIdWlBNGk4ckNOTkRIdnJCaHdFbmJIY055MnVwbGppRVRWTmFLTDFRMGtsaVZvaDZnWDB1M2hKM05CQQ?oc=5",
-     "summary": "\"Why Uddhav Thackeray's govt refuse CBI probe?\": BJP's Ram Kadam questions handling of Disha Salian case indiagazette.com",
-     "published": "2026-09-04T06:59:00+00:00",
-     "source": "indiagazette.com",
+     "title": "Air India sacks Delhi-Phuket flight pilot who tested positive for drugs",
+     "url": "https://www.thehindu.com/news/national/air-india-sacks-pilot-who-tested-positive-for-psychoactive-substance-after-phuket-delhi-flight-scare/article71428735.ece",
+     "summary": "Aircraft Accident Investigation Bureau’s report had flagged the pilot-in-command’s substance use as a serious concern and recommended appropriate action by DGCA",
+     "published": "2026-09-04T15:39:06+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/gktvq7/article71428847.ece/alternates/LANDSCAPE_1200/2026-08-05T130201Z_911165123_RC2DK5ASTM2P_RTRMADP_3_AIR-INDIA-CEO.jpg",
      "licence": "linkout",
-     "id": "d5e8efc4eaf6",
+     "id": "8a862632b355",
      "category": "mystery",
      "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
@@ -449,20 +467,6 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Culture"
-    },
-    {
-     "title": "KPSC irregularities: K’taka govt suspends IAS officer facing probe",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGYxQ2gyVlZKMk1kQ003RU1qT2d3ZlMyVVJ1bkhnVU5IbXJudTZvMmpwbXVOa0QxTXkwNkEybnFiRVJNanhwQlpHSmZnanlZWFVINlZIYjI2VFU3bUZ0dm9sWWRVSWRxRFpITjVDLVdfdmVwZWRpa2JBUW1ITW9tT3MxQ1FmRE5NVVRic2hCSjBYamRhNS1ieFU0NmZSTzNy0gGmAUFVX3lxTE0ydE9ZVzhEUWV4Q1pFMGZKNHhWYUtZNWRiMlFLQjRIdUJJZjJwUXpLU1JpSnpmdVcxS2wxMlNKeWRMMzh4Ukp4RTRCWGpheEQxV3pVd1VGUzlXVEtKTVdhR3RIeEF5T1ZGSVExejBhcVJEc3J3c2lSWFFUVWpSRVBhUXoyNk83akxzS2pfamxmdDZuZ2NKYXYxQ2JyRDZGVGlsQXVDaVE?oc=5",
-     "summary": "KPSC irregularities: K’taka govt suspends IAS officer facing probe ThePrint",
-     "published": "2026-09-03T15:49:15+00:00",
-     "source": "ThePrint",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "42ba73955e33",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
     }
    ]
   },
@@ -478,7 +482,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-04T15:36:02.317537+00:00",
+     "published": "2026-09-04T16:02:33.014480+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -489,7 +493,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-04T15:36:02.317553+00:00",
+     "published": "2026-09-04T16:02:33.014494+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -500,7 +504,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-04T15:36:02.317556+00:00",
+     "published": "2026-09-04T16:02:33.014502+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -511,7 +515,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-04T15:36:02.317559+00:00",
+     "published": "2026-09-04T16:02:33.014506+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -522,7 +526,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-04T15:36:02.317561+00:00",
+     "published": "2026-09-04T16:02:33.014511+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -533,7 +537,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-04T15:36:02.317563+00:00",
+     "published": "2026-09-04T16:02:33.014515+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -588,35 +592,22 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "\"Why Uddhav Thackeray's govt refuse CBI probe?\": BJP's Ram Kadam questions handling of Disha Salian case",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb05IYWdtME5naVkxVTljZ0N4azRlMWdpQXhOdmxITmJFYXRoaEhnSnRFZE44WENSbnBVZ1psYmtHckJ2YXR1djRCaHd3cDJUUU1CMmdzaF90MnFReUNWTW1WcUVRVzZ4WVFsOG9JMENDem1DcUpmZFJSRGVkTDAyQXo3MXhiaDEySDVQNGRCaXhyamY0eUdpb1pWN0hIdWlBNGk4ckNOTkRIdnJCaHdFbmJIY055MnVwbGppRVRWTmFLTDFRMGtsaVZvaDZnWDB1M2hKM05CQQ?oc=5",
-     "summary": "\"Why Uddhav Thackeray's govt refuse CBI probe?\": BJP's Ram Kadam questions handling of Disha Salian case indiagazette.com",
-     "published": "2026-09-04T06:59:00+00:00",
-     "source": "indiagazette.com",
+     "title": "SFI to launch statewide audit of govt schools from Monday",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZDg3TE15R0ZpWmkwcnZOeVJLbjVWU3FORDJYUmo4SEV0aFNhV3dXUEY0RXNmUXByUHdwbzg0Nl9ZdkJwUDVKaWVqTDdZQnkyVUYwZEpDZjhKQUIwcnVUVUM0TS1ONlNOazM5S1lBaUZWMk5PNTNBdF9USjQyWjBwc3ZVVWRFZXp2QVZISTRoVUJjMEVWWnJPR1B6UVZubjdFRzZ3U3lVeGViYl9HdzhILU8zekdXZ3VyUXpmaE5LUUkyRUU0bktDQU1HRdIB0AFBVV95cUxNTjJxVzBJcGtLeTNYX1JLYUFoOGNNY0VFYWNoTmRtMS15M25xUGN1QTUxZGNvWUhYZDBGczBUX3lPbXQ2aENfbzNjRURXaTVUSDE2bC1oMmFrNVRZX3BYcFNiQVFMaFY4bmZ3S1psTS04Vk1JUUlPenF4MjFRYnZKc1dsdDA5VWQ3T0Nnak5yTnVnNzV6RlhhWEo2UkdlNFF5LVZtOXJOemtoUTQ3Q2FCOWRzSFNFR0FObUtWc05QY0stMU5aTWNMLTNGQWNnRllM?oc=5",
+     "summary": "SFI to launch statewide audit of govt schools from Monday The Times of India",
+     "published": "2026-09-04T15:13:00+00:00",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "d5e8efc4eaf6",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
+     "id": "06429bdf0346",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "KPSC irregularities: K’taka govt suspends IAS officer facing probe",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGYxQ2gyVlZKMk1kQ003RU1qT2d3ZlMyVVJ1bkhnVU5IbXJudTZvMmpwbXVOa0QxTXkwNkEybnFiRVJNanhwQlpHSmZnanlZWFVINlZIYjI2VFU3bUZ0dm9sWWRVSWRxRFpITjVDLVdfdmVwZWRpa2JBUW1ITW9tT3MxQ1FmRE5NVVRic2hCSjBYamRhNS1ieFU0NmZSTzNy0gGmAUFVX3lxTE0ydE9ZVzhEUWV4Q1pFMGZKNHhWYUtZNWRiMlFLQjRIdUJJZjJwUXpLU1JpSnpmdVcxS2wxMlNKeWRMMzh4Ukp4RTRCWGpheEQxV3pVd1VGUzlXVEtKTVdhR3RIeEF5T1ZGSVExejBhcVJEc3J3c2lSWFFUVWpSRVBhUXoyNk83akxzS2pfamxmdDZuZ2NKYXYxQ2JyRDZGVGlsQXVDaVE?oc=5",
-     "summary": "KPSC irregularities: K’taka govt suspends IAS officer facing probe ThePrint",
-     "published": "2026-09-03T15:49:15+00:00",
-     "source": "ThePrint",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "42ba73955e33",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India",
+     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India News On AIR",
+     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
      "published": "2026-09-03T23:24:32+00:00",
      "source": "News On AIR",
      "byline": "",
@@ -625,19 +616,6 @@
      "id": "44ac1cfc8520",
      "category": "sports",
      "category_label": "Sports"
-    },
-    {
-     "title": "CBI Open To Probe Corruption Charges Against Punjab Chief Minister's Office",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlVuang2djhseUlDMXJSbWdRZUY2MklYMGVxdEdpa1lhRklQZUtwbTkxTnpWMnYzdUV6cUk1bzNHT3JtRmRTV1lkMkc5R0Nyd2lGQkFiYVhkWEhEOTgtblE5MlRQdlFiNnk5cUJOZEViQ2ctbU5GN2dMUEFWUnpGZVdubWJDZ3ZwMmZ6bDc3STFRNVhWbTgxZXNsRnR2bzlnaXkxTmFnbnR5M2tkNkJGTlI1cWhFZ9IBvgFBVV95cUxQLVNyZEN1TEVrc1JaemR3MFlEd1cwQzgzMV96emZUcmJXcG5hc293YXhURDFBWTZ6bmtSeWpqRXRydFFEcFV6cmluSjFIWjdGMkt3MGNaY3YybW1UR1AwRzlSaU1PckxnRnA2VW5vTjZDZDF6RHRUb3g4ckFzZVdqRUE2NEhqZ0VTQmFmTkV5UHFiS2VyZFBuMWgxU3VfSVFIcWl3VzhPU0QxT3pNN3dUSU5hdFI3S2NJbFkySVRR?oc=5",
-     "summary": "CBI Open To Probe Corruption Charges Against Punjab Chief Minister's Office NDTV",
-     "published": "2026-09-04T10:43:16+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "ac7e17f83adc",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "High-profile Punjabi-origin Canadian cop charged with fraud, theft and breach of trust",
@@ -651,6 +629,19 @@
      "id": "966ba41b1769",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmlvWi1lSG51QmQyalUyV05kSjc4Q2hIR09DSlA1WEFqbkQyYjBrdnBnNThWNENJSXh4aG9tZlFqQ2pQQXF0MS01RWcxOGZ6eTNTM3ZPVVh0MnpfYl9SYzRvOWYzWDV1cXpudWJVS3REU3RBcEstRUFfWEtFT3AzX0Q2aDBXaU5hWGQzZ0QzMDJoMDZrZUxhYi13c292cWtXNElnTVh1YmVZX3NSVkdIRC1aaHhjZWZ4NkZGRFM3TDgwU3c3WlBkWU1QZjlDNWJFOEw4OEFOdnhvVkhfMXpaYktXTVp4Zw?oc=5",
+     "summary": "Andhra Pradesh ACB arrests TTD deputy executive officer over corruption charges Deccan Herald",
+     "published": "2026-09-03T17:22:00+00:00",
+     "source": "Deccan Herald",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "18cdd918c8b7",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -661,70 +652,63 @@
    "upsc": false,
    "items": [
     {
-     "title": "Supreme Court questions ‘for dismissal’ tag in Andhra Pradesh HC cause list",
-     "url": "https://www.thehindu.com/news/national/supreme-court-questions-for-dismissal-tag-in-andhra-pradesh-hc-cause-list/article71428806.ece",
-     "summary": "Supreme Court says listing criminal case under ‘For Dismissal’ caption before order is pronounced suggests decision was pre-determined",
-     "published": "2026-09-04T15:30:36+00:00",
+     "title": "Jharkhand BJP to gherao Police Commissioner's offices from September 8",
+     "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-to-gherao-police-commissioners-offices-from-september-8/article71428598.ece",
+     "summary": "The party alleged that the government has still not withdrawn the cases it had filed against student protesters; the gherao will be in a phase-wise manner across all 24 districts over four days",
+     "published": "2026-09-04T15:53:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/i0wzt4/article71429175.ece/alternates/LANDSCAPE_1200/Supreme%20Court.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/61euk5/article71429421.ece/alternates/LANDSCAPE_1200/20260904338L.jpg",
      "licence": "linkout",
-     "id": "4cceb6465203",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Kavitha opposes move to phase out Intermediate education",
-     "url": "https://www.thehindu.com/news/national/telangana/kavitha-opposes-move-to-phase-out-intermediate-education/article71428312.ece",
-     "summary": "",
-     "published": "2026-09-04T15:27:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "8a7d42cfa957",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "13-year-old tribal girl found pregnant after alleged sexual abuse in Keralam’s Kasaragod; father, cousin arrested",
-     "url": "https://www.thehindu.com/news/national/kerala/13-year-old-tribal-girl-found-pregnant-after-alleged-sexual-abuse-in-keralams-kasaragod-father-cousin-arrested/article71428260.ece",
-     "summary": "Details of alleged abuse emerge during counselling by police; cases registered against the two under Protection of Children from Sexual Offences Act",
-     "published": "2026-09-04T15:26:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "705ec1b6e71b",
+     "id": "727b92c1f476",
      "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Excise identifies 15 locations in Ernakulam for public to ‘RELACZ’",
-     "url": "https://www.thehindu.com/news/national/kerala/excise-identifies-15-locations-in-ernakulam-for-public-to-relacz/article71428848.ece",
-     "summary": "The plan is to set up facilities such as open gym, volleyball court, reading room, or hangouts at the locations in collaboration with the Local Self-Government department",
-     "published": "2026-09-04T15:25:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9zbbyl/article71429290.ece/alternates/LANDSCAPE_1200/IMG_Wavy_Med-08_Single-1_2_1_7TDHAFRR.jpg",
-     "licence": "linkout",
-     "id": "1a84a8f09943",
-     "category": "general",
-     "category_label": "General",
+     "category_label": "Crime",
      "figures": [
-      "15 locations in Ernakulam for public"
+      "24 districts over four days"
      ]
     },
     {
-     "title": "Kodangal Lift Irrigation project to be ready by Oct. 2028",
-     "url": "https://www.thehindu.com/news/national/telangana/kodangal-lift-irrigation-project-to-be-ready-by-oct-2028/article71429133.ece",
-     "summary": "",
-     "published": "2026-09-04T15:24:16+00:00",
+     "title": "Elaborate security, crowd management plan for Tirumala Brahmotsavams",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/elaborate-security-crowd-management-plan-for-tirumala-brahmotsavams/article71428982.ece",
+     "summary": "More than 2,800 CCTV cameras installed across Tirumala have been integrated with the Command Control Centre and private and yellow-board vehicles will be regulated, with designated parking facilities being identified in Tirupati, say officials",
+     "published": "2026-09-04T15:52:35+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/6u3g5w/article71429143.ece/alternates/LANDSCAPE_1200/Hakimpet%20Education%20Hub%20review%20.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/pfdz0j/article71429406.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-04%20at%2020.25.41.jpeg",
      "licence": "linkout",
-     "id": "a0a01a6378a8",
+     "id": "83bafe0684ae",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2,800 CCTV cameras installed across Tirumala"
+     ]
+    },
+    {
+     "title": "₹56.5-crore road project to Sidilu Mallikarjuna Swamy Hill launched",
+     "url": "https://www.thehindu.com/news/national/karnataka/565-crore-road-project-to-sidilu-mallikarjuna-swamy-hill-launched/article71429285.ece",
+     "summary": "",
+     "published": "2026-09-04T15:49:01+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i6b83q/article71429380.ece/alternates/LANDSCAPE_1200/5964_4_9_2026_20_54_55_1_LAUNCHOFROADWORKS.JPEG",
+     "licence": "linkout",
+     "id": "f32f3695c5ab",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹56.5 -crore road project"
+     ]
+    },
+    {
+     "title": "Dry spell leaves Chittoor farmers staring at crop loss",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/dry-spell-leaves-chittoor-farmers-staring-at-crop-loss/article71428146.ece",
+     "summary": "64.5% rainfall deficit hits kharif crops; western mandals record over 78% shortfall, with groundwater, drinking water and fodder sources under strain",
+     "published": "2026-09-04T15:39:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/edtye7/article71429363.ece/alternates/LANDSCAPE_1200/10215_1_7_2024_13_4_32_1_IMG_20240701_WA0104.JPG",
+     "licence": "linkout",
+     "id": "86fccce54ad5",
      "category": "general",
      "category_label": "General"
     },
@@ -738,21 +722,16 @@
      "image": "https://c.ndtvimg.com/2026-08/2pemkrfc_air-india-phuket-delhi-flight_625x300_05_August_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "8b44e4b5a678",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Air India sacks Delhi-Phuket flight pilot who tested positive for drugs",
+       "url": "https://www.thehindu.com/news/national/air-india-sacks-pilot-who-tested-positive-for-psychoactive-substance-after-phuket-delhi-flight-scare/article71428735.ece",
+       "summary": "Aircraft Accident Investigation Bureau’s report had flagged the pilot-in-command’s substance use as a serious concern and recommended appropriate action by DGCA"
+      }
+     ],
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Man Who Bragged About Hitting Student's Father At CJP Protest Detained, Faces SC/ST Atrocities Act",
-     "url": "https://www.ndtv.com/india-news/influencer-who-bragged-about-hitting-students-father-at-cjp-protest-detained-12002364#publisher=newsstand",
-     "summary": "Case blew up after video clip went viral in which Swatantra Bhardwaj, a self-described \"kattar (hardline) Hindu\", claimed to have \"cracked the skull\" of Nishu's father. Congress, CJP, Chandrashekhar Azad had reached police station.",
-     "published": "2026-09-04T14:04:44+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/qm793t8k_swatantra-bhardwaj_625x300_04_September_26.jpg",
-     "licence": "linkout",
-     "id": "679847deef07",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Delhi University Removes Age Limit For CES 2026 Admissions, Check Eligibility",
@@ -795,69 +774,59 @@
    "upsc": false,
    "items": [
     {
-     "title": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
-     "url": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss",
-     "summary": "Lebanese President Joseph Aoun praises the release and thanks US President Donald Trump for his efforts.",
-     "published": "2026-09-04T14:50:55+00:00",
+     "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+     "url": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
+     "summary": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
+     "published": "2026-09-04T15:44:14+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9abdc9a1fe-1788526025.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T132122Z_2055207679_RC27ANAMC7RE_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION-1788529971.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "fa72f96ad252",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "2c744ea795ad",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "Why is Farage’s Reform accused of violating the UK’s foreign funding rules?",
-     "url": "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss",
-     "summary": "Undercover footage allegedly shows top Reform officials discussing ways to evade foreign funding laws.",
-     "published": "2026-09-04T14:38:30+00:00",
+     "title": "UN raises ‘ethnic cleansing’ concerns over Israeli West Bank operation",
+     "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
+     "summary": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
+     "published": "2026-09-04T15:31:54+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9abd9c5750-1788525980.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250223__36YG63E__v1__Preview__PalestinianIsraelConflict-1740406413.jpg?resize=1200%2C630",
      "licence": "linkout",
-     "id": "ea04f8a6f4ad",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "8e0d573cdace",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "33,000 Palestinian refugees remain displaced since"
+     ]
     },
     {
-     "title": "Can the Green Party’s Polanski take on Labour and win Starmer’s old seat?",
-     "url": "https://www.aljazeera.com/news/2026/9/4/can-green-leader-polanski-take-on-labour-and-win-starmers-old-seat?traffic_source=rss",
-     "summary": "Analysts say although Polanski has gained popularity, toppling Labour in its traditional stronghold may be difficult.",
-     "published": "2026-09-04T13:59:46+00:00",
+     "title": "Diesel price hits all-time high in US amid Iran war woes",
+     "url": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
+     "summary": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
+     "published": "2026-09-04T15:28:28+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a997ac12fd4f-1788443329.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26247439721726-1788528709.jpg?resize=1200%2C675",
      "licence": "linkout",
-     "id": "a309cf55ada3",
+     "id": "63db30a768fe",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Israel releases five detainees to Lebanon after US-mediated negotiations",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss",
+     "summary": "Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.",
+     "published": "2026-09-04T15:16:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788534843.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "841da66c8c53",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Two Muslim women journalists allege police assault in India",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss",
-     "summary": "Two Muslim female journalists allege they were detained and brutally assaulted by police in India’s capital, Delhi.",
-     "published": "2026-09-04T13:37:43+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-INDIAN-JOURNO0409-1788528991.png?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "5d2fbb826d08",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-     "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
-     "summary": "Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.",
-     "published": "2026-09-04T13:35:55+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-02T052549Z_1760082592_RC2FPCA4E3TW_RTRMADP_3_PHILIPPINES-POLITICS-1771388033.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "c6f6616db069",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -873,20 +842,17 @@
      "category_label": "General"
     },
     {
-     "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-     "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-     "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-     "published": "2026-09-04T11:54:51+00:00",
+     "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+     "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+     "published": "2026-09-04T15:55:16+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d4/live/99481b50-a86c-11f1-bbad-43eaf67b94b6.jpg",
      "licence": "linkout",
-     "id": "f9841d4b31c5",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "10"
-     ]
+     "id": "2812aaa9cbdb",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
@@ -992,43 +958,65 @@
    "upsc": false,
    "items": [
     {
-     "title": "Supreme Court questions ‘for dismissal’ tag in Andhra Pradesh HC cause list",
-     "url": "https://www.thehindu.com/news/national/supreme-court-questions-for-dismissal-tag-in-andhra-pradesh-hc-cause-list/article71428806.ece",
-     "summary": "Supreme Court says listing criminal case under ‘For Dismissal’ caption before order is pronounced suggests decision was pre-determined",
-     "published": "2026-09-04T15:30:36+00:00",
+     "title": "Jharkhand BJP to gherao Police Commissioner's offices from September 8",
+     "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-to-gherao-police-commissioners-offices-from-september-8/article71428598.ece",
+     "summary": "The party alleged that the government has still not withdrawn the cases it had filed against student protesters; the gherao will be in a phase-wise manner across all 24 districts over four days",
+     "published": "2026-09-04T15:53:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/i0wzt4/article71429175.ece/alternates/LANDSCAPE_1200/Supreme%20Court.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/61euk5/article71429421.ece/alternates/LANDSCAPE_1200/20260904338L.jpg",
      "licence": "linkout",
-     "id": "4cceb6465203",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Kavitha opposes move to phase out Intermediate education",
-     "url": "https://www.thehindu.com/news/national/telangana/kavitha-opposes-move-to-phase-out-intermediate-education/article71428312.ece",
-     "summary": "",
-     "published": "2026-09-04T15:27:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "8a7d42cfa957",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "13-year-old tribal girl found pregnant after alleged sexual abuse in Keralam’s Kasaragod; father, cousin arrested",
-     "url": "https://www.thehindu.com/news/national/kerala/13-year-old-tribal-girl-found-pregnant-after-alleged-sexual-abuse-in-keralams-kasaragod-father-cousin-arrested/article71428260.ece",
-     "summary": "Details of alleged abuse emerge during counselling by police; cases registered against the two under Protection of Children from Sexual Offences Act",
-     "published": "2026-09-04T15:26:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "705ec1b6e71b",
+     "id": "727b92c1f476",
      "category": "crime",
-     "category_label": "Crime"
+     "category_label": "Crime",
+     "figures": [
+      "24 districts over four days"
+     ]
+    },
+    {
+     "title": "Elaborate security, crowd management plan for Tirumala Brahmotsavams",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/elaborate-security-crowd-management-plan-for-tirumala-brahmotsavams/article71428982.ece",
+     "summary": "More than 2,800 CCTV cameras installed across Tirumala have been integrated with the Command Control Centre and private and yellow-board vehicles will be regulated, with designated parking facilities being identified in Tirupati, say officials",
+     "published": "2026-09-04T15:52:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/pfdz0j/article71429406.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-04%20at%2020.25.41.jpeg",
+     "licence": "linkout",
+     "id": "83bafe0684ae",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2,800 CCTV cameras installed across Tirumala"
+     ]
+    },
+    {
+     "title": "₹56.5-crore road project to Sidilu Mallikarjuna Swamy Hill launched",
+     "url": "https://www.thehindu.com/news/national/karnataka/565-crore-road-project-to-sidilu-mallikarjuna-swamy-hill-launched/article71429285.ece",
+     "summary": "",
+     "published": "2026-09-04T15:49:01+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i6b83q/article71429380.ece/alternates/LANDSCAPE_1200/5964_4_9_2026_20_54_55_1_LAUNCHOFROADWORKS.JPEG",
+     "licence": "linkout",
+     "id": "f32f3695c5ab",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹56.5 -crore road project"
+     ]
+    },
+    {
+     "title": "AP-Transco mulls drone patrolling to assess health of transmission assets",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-transco-mulls-drone-patrolling-to-assess-health-of-transmission-assets/article71428413.ece",
+     "summary": "It invites tenders from the DGCA-compliant drone service providers to deploy unmanned aerial vehicles for preventive maintenance on a pilot basis",
+     "published": "2026-09-04T15:38:49+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/sw77se/article71429331.ece/alternates/LANDSCAPE_1200/02Drone.jpg",
+     "licence": "linkout",
+     "id": "0b8ec3b023f2",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1513,6 +1501,19 @@
      "category_label": "General"
     },
     {
+     "title": "UK petrol prices hit highest level since Iran war began",
+     "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+     "summary": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+     "published": "2026-09-04T13:05:52+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+     "licence": "linkout",
+     "id": "99e72daa6921",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
      "title": "Lock in low premiums: Why buying health insurance in your 20s can save you lakhs later",
      "url": "https://www.livemint.com/money/lock-in-low-premiums-why-buying-health-insurance-in-your-20s-can-save-you-lakhs-later-11788525903534.html",
      "summary": "Securing an individual insurance policy around age 25 while in good health unlocks financial and structural perks, including lower starting premiums and the ability to clear required waiting periods before medical issues arise.",
@@ -1553,6 +1554,25 @@
      "id": "76951ca1488f",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Uttarakhand pensions: ₹147 crore instalment released for over 9.91 lakh beneficiaries — Here's how to check",
+     "url": "https://www.livemint.com/money/personal-finance/uttarakhand-pension-payments-rs-147-crore-instalment-releases-over-9-91-lakh-beneficiaries-bank-account-dbt-how-to-check-11788524476322.html",
+     "summary": "Uttarakhand releases ₹147.05 crore pension was transferred directly into the bank accounts of 991,914 beneficiaries. In August, pensions of 5,605 new beneficiaries were also sanctioned under various pension schemes.",
+     "published": "2026-09-04T13:48:16+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/04/600x338/8th_pay_commission_news_1788401458454_ea405b11-bfb_1788529123843_670cdd03-38af-475c-8a66-b26c4cc3254f_1788529124062_9fc7b7f3-30a2-4706-b234-d4ed65fb8f67_7400f463-6e98-45b7-9d45-e47ca347df32_e21f98e6-9c01-4116-9711-8f3e42e497e4.jpg",
+     "licence": "linkout",
+     "id": "b88b96c8b24c",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹147 crore instalment released for over",
+      "9.91 lakh beneficiaries — Here's how",
+      "₹147.05 crore pension was transferred directly",
+      "991,914 beneficiaries"
+     ]
     },
     {
      "title": "Too much AI exposure? Can Apple be the diversification play in your portfolio? What Indian investors need to know",
@@ -1650,9 +1670,9 @@
     {
      "title": "Ethiopia prepares to integrate artificial intelligence into core curriculum",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1dod2ZiY2RhV2RNTjR2c2oyXy02OWhtUXVqRFlxMlliRDZaLXVVUWxTMmhWem9sSnlRNEUzVktVRWY3a0tIdjBBeEZTUUh0bm5zVi16UGhjVUx5alFYQmhaOWp3WHo1M2E4QWFtNnFIRDdKNlJXNXBNT3JNS1JKVW5sUmswWnp2UF9ac21fRVJtVWpaUXhRRXo0Y1o3M0VSU0hXdW1nZw?oc=5",
-     "summary": "Ethiopia prepares to integrate artificial intelligence into core curriculum tvbrics.com",
+     "summary": "Ethiopia prepares to integrate artificial intelligence into core curriculum TV BRICS",
      "published": "2026-09-04T09:08:23+00:00",
-     "source": "tvbrics.com",
+     "source": "TV BRICS",
      "byline": "",
      "image": null,
      "licence": "linkout",
