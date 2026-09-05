@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T10:32:37.526598+00:00",
+ "generated_at": "2026-09-05T11:02:11.557226+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Mistrial Lindsay",
-  "Police Body",
+  "MDMA Mattancherry",
+  "Assault Podcast",
   "Jazeera English",
   "News",
   "Haryana",
   "Monday",
-  "Couple",
-  "Police Pinarayi",
+  "Auto Telangana",
+  "Russian Ukraine",
   "Trump Iran",
-  "Israel Palestinian"
+  "Nepal"
  ],
  "sections": [
   {
@@ -102,6 +102,38 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "2 kg of suspected MDMA seized in Mattancherry in Keralam originated from Delhi: police",
+     "url": "https://www.thehindu.com/news/national/kerala/2-kg-of-suspected-mdma-seized-in-mattancherry-in-keralam-originated-from-delhi-police/article71431401.ece",
+     "summary": "Sources with the anti-narcotic wing of Kochi City police say Mattancherry native Noufal, 32, allegedly used to source the synthetic drug from Delhi",
+     "published": "2026-09-05T10:45:36+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "1cabc6e30a3c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "2 kg of suspected MDMA seized",
+      "32, allegedly used to source"
+     ]
+    },
+    {
+     "title": "Assault To Podcast To Hate Posts: The Swatantra Bhardwaj Story Explained",
+     "url": "https://www.ndtv.com/india-news/assault-to-podcast-to-hate-posts-the-swatantra-bhardwaj-story-explained-12005563#publisher=newsstand",
+     "summary": "In a viral podcast, Swatantra Bhardwaj claimed that he had \"cracked open\" the head of the father of a student protester at Jantar Mantar.",
+     "published": "2026-09-05T10:44:42+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/qm793t8k_swatantra-bhardwaj_625x300_04_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "091d8ab7e5a1",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
@@ -117,47 +149,40 @@
      "from_section": "Global News"
     },
     {
-     "title": "Police Body Cameras Are Learning to Speak 50 Languages",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDdTVVFwUmlvSFc5dzFfVHZwZVVKR1J5Nm5yMnZwSmpKQnZYd2ZOcnFZMlo2aUU0cmRrT2ZjV3g4X25IcU5KN2NwQlVFRjE1VFJLRko3ZWNNa0cyRWtzUWpaNVBHX0dLbkMtSHlPT2NodnYxendrYlAwdVhaRGtJQURic0NjR1VCdGlmMm5fRFhXZFVtSXRyVTdPUXZwYkUyQ2ZuYk5MZw?oc=5",
-     "summary": "Police Body Cameras Are Learning to Speak 50 Languages Governing",
-     "published": "2026-09-04T20:31:26+00:00",
-     "source": "Governing",
+     "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+     "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
+     "summary": "Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.",
+     "published": "2026-09-05T10:27:23+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9be5012c3d-1788601601.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "b683085edd49",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Technology",
+     "id": "7527636d0a56",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+       "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
      "figures": [
-      "50 Languages",
-      "50 Languages Governing"
+      "5 killed in Russian attacks"
      ]
     },
     {
-     "title": "Punjab-origin cop arrested in Vancouver; charged with fraud, theft",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdlFreHF2X0N1TWV0TmpvMEVKVmhoN2hqSy1NbVA3UkFSYzRLejdEakZDWVUtd20yQlRnNkllWUxUNmhwa1NvUS16WWlHU01SR3pXaGZFMWRua09tckxXa0VUVkZTRXczelAwbEotRmtSSXllTER0dlgzcFhmaS1obGxkX3IzWmNXdVk3WWU4WjI1a2NLVHpwMGVTQ243ck1QbktMVlQtU3VEMk9WUkgtem5SVDNxSEcxR3hSTDYzdXJ1Ti1CWlIzMHhTTmlhWE1FT1N4ZmZiTXJFQdIB3wFBVV95cUxOUHJMc3dxVXVZRzV2RU5fbVJDOXNxekNUeV9oVU9lT3VQcjR4cmVHM01pUFJpdWlNY3F3bnFuaV9lcmw2eEVURW5jTnF0MGpWaGJ0MDhISGEyUlhsQUtBMVpwQVJUMUxhMVlGZU53Qnl3T2dZenVfVlhpdWxUNE9GeGFvUlRaM1NiZDZybmFZZVd0YzlLTFhCdUh5RGNBVmI3eWFLNjZZazQwdDE0MVA4aXlrUUxlcndDaDVPWUZyd0dsZUlVM29hb3VmTDlraXVVRWFBeDNHb29vOHRhd21j?oc=5",
-     "summary": "Punjab-origin cop arrested in Vancouver; charged with fraud, theft The Times of India",
-     "published": "2026-09-04T19:38:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "937ac3af25d8",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-     "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-     "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-     "published": "2026-09-05T04:28:21+00:00",
+     "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+     "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+     "published": "2026-09-05T10:34:08+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a17/live/0cde6b70-a910-11f1-9eff-150801023722.jpg",
      "licence": "linkout",
-     "id": "af2f5b8966b4",
+     "id": "83f9a270e22c",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -177,6 +202,34 @@
      "from_section": "Business"
     },
     {
+     "title": "'Face Telangana Students': KTR Dares Rahul Gandhi Over 'Chhatron Ki Goonj'",
+     "url": "https://www.ndtv.com/india-news/face-telangana-students-ktr-dares-rahul-gandhi-over-chhatron-ki-goonj-12005725#publisher=newsstand",
+     "summary": "Mentioning Rahul Gandhi's pre-election interaction with youth in Hyderabad, KTR questioned the status of the Congress promise to provide two lakh government jobs annually.",
+     "published": "2026-09-05T10:39:44+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/lorbb1k_ktr_625x300_05_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8c6008b04560",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "In Teachers’ Day post, Keralam Higher Education Minister takes a dig at V-Cs attending RSS events",
+     "url": "https://www.thehindu.com/news/national/kerala/in-teachers-day-post-keralam-higher-education-minister-takes-a-dig-at-v-cs-attending-rss-events/article71431234.ece",
+     "summary": "",
+     "published": "2026-09-05T10:38:56+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/cfdg28/article71431317.ece/alternates/LANDSCAPE_1200/Roji_m_john_03.JPG",
+     "licence": "linkout",
+     "id": "dd537f0f956f",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
      "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
      "summary": "Opposition Leader says was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
@@ -188,35 +241,29 @@
      "id": "a2c519d595fd",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
-     "title": "TVK to formalise existing alliance led by it in Tamil Nadu on September 9",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-to-formalise-existing-alliance-led-by-it-in-tamil-nadu-on-september-9/article71431519.ece",
-     "summary": "TVK president and Tamil Nadu Chief Minister C. Joseph Vijay will hold discussions with leaders of the Congress, IUML, VCK, and MDMK on formalising the existing alliance in the State",
-     "published": "2026-09-05T10:15:37+00:00",
-     "source": "The Hindu",
+     "title": "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
+     "url": "https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss",
+     "summary": "Fights between players and coaching staff broke out after the Turkish side won the Champions League playoff second leg.",
+     "published": "2026-09-05T09:44:45+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/xmpbz8/article71431573.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2014.41.02.jpeg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9be35f1892-1788601183.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "c76eb82ecd93",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "In Teachers’ Day post, Keralam Higher Education Minister takes a dig at V-Cs attending RSS events",
-     "url": "https://www.thehindu.com/news/national/kerala/in-teachers-day-post-keralam-higher-education-minister-takes-a-dig-at-v-cs-attending-rss-events/article71431234.ece",
-     "summary": "",
-     "published": "2026-09-05T10:14:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cfdg28/article71431317.ece/alternates/LANDSCAPE_1200/Roji_m_john_03.JPG",
-     "licence": "linkout",
-     "id": "dd537f0f956f",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "id": "c12fa0cde1da",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "Mason Greenwood, Matteo Guendouzi Handed Bans After Fenerbahce-Lyon Brawl",
+       "url": "https://sports.ndtv.com/football/mason-greenwood-matteo-guendouzi-handed-bans-after-fenerbahce-lyon-brawl-12005505#publisher=newsstand",
+       "summary": "Fenerbahce duo Mason Greenwood and Matteo Guendouzi have been suspended for their part in the chaotic scenes after their club's Champions League play-off second leg against Lyon."
+      }
+     ],
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News"
     },
     {
      "title": "Overpriced popcorn, bottled water in multiplexes: Keralam govt agencies begin inspections",
@@ -230,7 +277,7 @@
      "id": "a22735eb1c35",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
@@ -247,24 +294,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "Insurance fraud: ₹15 lakh landed in senior citizen’s account, HC said mere receipt of money doesn’t prove guilt",
-     "url": "https://www.livemint.com/money/personal-finance/insurance-fraud-15-lakh-landed-in-senior-citizen-s-account-hc-said-mere-receipt-of-money-doesn-t-prove-guilt-11788600893814.html",
-     "summary": "A 78-year-old retired IFS officer got ₹15.15 lakh in his bank account linked to an alleged insurance fraud. The Madhya Pradesh High Court granted him anticipatory bail, saying merely receiving crime proceeds did not prove knowing involvement.",
-     "published": "2026-09-05T09:45:19+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/Gemini_GeneratedImage_afibd7d7afib_17886014749_1788601491023_27f9b7a2-92ee-468f-ab03-53a3ef5c0b35_1788601491329_644af4c2-5c1a-4c7d-9a1c-8c01d673eadb_d7400ed6-d9e8-452c-ab3c-211b9b7d45ea_f3bc6a99-8a4f-4ab3-b1fc-f92643eb2b4f.png",
-     "licence": "linkout",
-     "id": "56f4c591b57c",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹15 lakh landed in senior citizen’s",
-      "₹15.15 lakh in his bank account"
-     ]
-    },
-    {
      "title": "Couple along with two children attempt to end their lives, wife rescued",
      "url": "https://www.thehindu.com/news/national/andhra-pradesh/couple-along-with-two-children-attempt-to-end-their-lives-wife-rescued/article71431495.ece",
      "summary": "The local fisherfolk noticed the family, while they were engaged in fishing in the Godavari River",
@@ -279,23 +308,6 @@
      "from_section": "National News"
     },
     {
-     "title": "35 Years, One Phone Call: How SIR Reunited Brothers In Haryana",
-     "url": "https://www.ndtv.com/india-news/jind-35-years-one-phone-call-how-sir-reunited-brothers-in-haryana-12005538#publisher=newsstand",
-     "summary": "Electoral roll verification in Haryana reunites brothers separated for 35 years.",
-     "published": "2026-09-05T09:38:13+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/dg76oc98_haryana-brother-reunited_625x300_05_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "f647983df76b",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National News",
-     "figures": [
-      "35 Years , One Phone Call"
-     ]
-    },
-    {
      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
@@ -308,6 +320,23 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Global Hotline"
+    },
+    {
+     "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+     "url": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+     "summary": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
+     "published": "2026-09-04T12:30:56+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/034c61b0-a830-11f1-b808-43cdd10f38ce.jpg",
+     "licence": "linkout",
+     "id": "74e707e5168e",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global News",
+     "figures": [
+      "1,300 people have died and thousands"
+     ]
     },
     {
      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
@@ -366,47 +395,43 @@
      "from_section": "Technology"
     },
     {
-     "title": "Sachin Tendulkar Honours Late Father, Announces New Initiative On Teachers' Day",
-     "url": "https://sports.ndtv.com/cricket/sachin-tendulkar-honours-late-father-announces-new-initiative-on-teachers-day-12005491#publisher=newsstand",
-     "summary": "Former India cricketer Sachin Tendulkar on Teachers' Day honoured the memory of his late father, Ramesh Tendulkar, by announcing the Professor Ramesh Tendulkar Memorial Fellowship.",
-     "published": "2026-09-05T09:39:15+00:00",
+     "title": "Rohit Sharma's 'Garden Se Reporting Live' Viral Remark On TV Debut Breaks The Internet",
+     "url": "https://sports.ndtv.com/cricket/rohit-sharmas-garden-se-reporting-live-viral-remark-on-tv-debut-breaks-the-internet-12005218#publisher=newsstand",
+     "summary": "With uncertainty still surrounding his place in India's 2027 World Cup plans, Rohit Sharma has stepped into the role of host for the show, which is set to premiere on September 19.",
+     "published": "2026-09-05T10:44:19+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/praq5bq4_sachin-tendulkar-_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/sndgn6ls_rohit-sharma_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "7e7d86946217",
+     "id": "190811585a3d",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
     },
     {
-     "title": "ISL 2026-27 To Kick Off On October 10 Under New Club-Led Model",
-     "url": "https://sports.ndtv.com/football/isl-2026-27-to-kick-off-on-october-10-under-new-club-led-model-12005351#publisher=newsstand",
-     "summary": "The Indian Super League (ISL) 2026-27 season will begin on October 10 and run until next May, with the competition returning to a traditional home-and-away format under a new club-led structure.",
-     "published": "2026-09-05T09:14:18+00:00",
+     "title": "Mason Greenwood, Matteo Guendouzi Handed Bans After Fenerbahce-Lyon Brawl",
+     "url": "https://sports.ndtv.com/football/mason-greenwood-matteo-guendouzi-handed-bans-after-fenerbahce-lyon-brawl-12005505#publisher=newsstand",
+     "summary": "Fenerbahce duo Mason Greenwood and Matteo Guendouzi have been suspended for their part in the chaotic scenes after their club's Champions League play-off second leg against Lyon.",
+     "published": "2026-09-05T10:40:07+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/8osj210s_isl_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/kqb2evv_mason-greenwood_625x300_05_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "998dd02c37c2",
+     "id": "1b641b5efbf0",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "10 Under New Club-Led Model",
-      "27 season will begin on October"
-     ]
+     "from_section": "Sports"
     },
     {
-     "title": "Indian-Origin Star Named In Uruguay Squad For India Football Friendly",
-     "url": "https://sports.ndtv.com/football/indian-origin-star-named-in-uruguay-squad-for-india-football-friendly-12005397#publisher=newsstand",
-     "summary": "Uruguay announced the names of its players on September 5 for the upcoming clash against India, with the squad featuring an impressive mix of established internationals and emerging talents across all positions.",
-     "published": "2026-09-05T09:10:25+00:00",
+     "title": "\"Made It Worse\": England Great Accuses Mohsin Naqvi's PCB Of Making Pakistan A 'Laughing Stock'",
+     "url": "https://sports.ndtv.com/cricket/made-it-worse-england-great-accuses-mohsin-naqvis-pcb-of-making-pakistan-a-laughing-stock-12000356#publisher=newsstand",
+     "summary": "The PCB offloaded seven players and some members of the team management, including head coach Sarfaraz Ahmed, following the 194-run loss to England in the Lord's Test last week.",
+     "published": "2026-09-05T10:38:57+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/rmkpece8_maximiliano-araujo-auf_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/92kms8q4_moshin-naqvi-afp_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6edfe1a7bf61",
+     "id": "722af0bda25d",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
@@ -425,7 +450,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-05T10:32:24.630914+00:00",
+     "published": "2026-09-05T11:01:58.729935+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -436,7 +461,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-05T10:32:24.630931+00:00",
+     "published": "2026-09-05T11:01:58.729953+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -447,7 +472,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-05T10:32:24.630937+00:00",
+     "published": "2026-09-05T11:01:58.729958+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -458,7 +483,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-05T10:32:24.630941+00:00",
+     "published": "2026-09-05T11:01:58.729962+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +494,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-05T10:32:24.630946+00:00",
+     "published": "2026-09-05T11:01:58.729966+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -480,10 +505,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-05T10:32:24.630950+00:00",
+     "published": "2026-09-05T11:01:58.729969+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "Live music to raise cash for Christmas dinners",
+     "url": "https://www.bbc.co.uk/news/articles/crl6dw4pzexo?at_medium=RSS&at_campaign=rss",
+     "summary": "Proceeds from the event help fund Christmas for families struggling financially in the South East.",
+     "published": "2026-09-05T06:03:29+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba95/live/c9e13100-a873-11f1-824a-0fc4c5d895ae.jpg",
+     "licence": "linkout",
+     "id": "121480d930e0",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -538,19 +577,6 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "CBI Open To Probe Corruption Charges Against Punjab Chief Minister's Office",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlVuang2djhseUlDMXJSbWdRZUY2MklYMGVxdEdpa1lhRklQZUtwbTkxTnpWMnYzdUV6cUk1bzNHT3JtRmRTV1lkMkc5R0Nyd2lGQkFiYVhkWEhEOTgtblE5MlRQdlFiNnk5cUJOZEViQ2ctbU5GN2dMUEFWUnpGZVdubWJDZ3ZwMmZ6bDc3STFRNVhWbTgxZXNsRnR2bzlnaXkxTmFnbnR5M2tkNkJGTlI1cWhFZ9IBvgFBVV95cUxQLVNyZEN1TEVrc1JaemR3MFlEd1cwQzgzMV96emZUcmJXcG5hc293YXhURDFBWTZ6bmtSeWpqRXRydFFEcFV6cmluSjFIWjdGMkt3MGNaY3YybW1UR1AwRzlSaU1PckxnRnA2VW5vTjZDZDF6RHRUb3g4ckFzZVdqRUE2NEhqZ0VTQmFmTkV5UHFiS2VyZFBuMWgxU3VfSVFIcWl3VzhPU0QxT3pNN3dUSU5hdFI3S2NJbFkySVRR?oc=5",
-     "summary": "CBI Open To Probe Corruption Charges Against Punjab Chief Minister's Office NDTV",
-     "published": "2026-09-04T10:43:16+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "ac7e17f83adc",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "PIO facing $600k fraud charge in US nabbed in Punjab",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1VeTdSQ0pMWEMxa050XzM1UFR3TkIwckFNcEdGVGVzZkZIaFhJcGVfclZTVVlkdmZMYTRHT05Cb1R5Sk9Xd25vTWJuTl9JV3JVYmI0dHdnYXBCTzBpZGdGWWxJUFZQSHAxWmJ4UUdmekJFMGEtb0hHT1J1Tl9ybDB2bWE1WlBsQVVOMjhFdW5CYnFJT3NZOW94WldDcWJ4eWc3V09IUlVySFRWZWJOZFh2MmJodDZTMmF2aUJZRFBOTFVFNHZmdtIBzgFBVV95cUxPdWZwejE3WUxYajhjcFJvd3VhR1g0RDdLRTUtSzdMNzdxREE3SHRBNWZ0Q013WnJPY3kwenNYajZxVGhKbjdrTFJOX3lsYUd1M2tqSC0ycV8xSE91ZXMwY2JuNDYxVFp6ajROVTE0QWlrMmVYSHRyUzdYNEZkUXNacE8wRW5DWGRyODNMcTU0UlB5ZFNFclZfVVd4UERNenZ6US12UEFtZE5EOXh3cXZxdjJSb1ZfeFpvWkZ4TzFqQ25mejA1LVlCZThHaUJvUQ?oc=5",
      "summary": "PIO facing $600k fraud charge in US nabbed in Punjab The Times of India",
@@ -565,6 +591,19 @@
      "figures": [
       "$600 k fraud charge"
      ]
+    },
+    {
+     "title": "Punjab-origin cop arrested in Vancouver; charged with fraud, theft",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdlFreHF2X0N1TWV0TmpvMEVKVmhoN2hqSy1NbVA3UkFSYzRLejdEakZDWVUtd20yQlRnNkllWUxUNmhwa1NvUS16WWlHU01SR3pXaGZFMWRua09tckxXa0VUVkZTRXczelAwbEotRmtSSXllTER0dlgzcFhmaS1obGxkX3IzWmNXdVk3WWU4WjI1a2NLVHpwMGVTQ243ck1QbktMVlQtU3VEMk9WUkgtem5SVDNxSEcxR3hSTDYzdXJ1Ti1CWlIzMHhTTmlhWE1FT1N4ZmZiTXJFQdIB3wFBVV95cUxOUHJMc3dxVXVZRzV2RU5fbVJDOXNxekNUeV9oVU9lT3VQcjR4cmVHM01pUFJpdWlNY3F3bnFuaV9lcmw2eEVURW5jTnF0MGpWaGJ0MDhISGEyUlhsQUtBMVpwQVJUMUxhMVlGZU53Qnl3T2dZenVfVlhpdWxUNE9GeGFvUlRaM1NiZDZybmFZZVd0YzlLTFhCdUh5RGNBVmI3eWFLNjZZazQwdDE0MVA4aXlrUUxlcndDaDVPWUZyd0dsZUlVM29hb3VmTDlraXVVRWFBeDNHb29vOHRhd21j?oc=5",
+     "summary": "Punjab-origin cop arrested in Vancouver; charged with fraud, theft The Times of India",
+     "published": "2026-09-04T19:38:00+00:00",
+     "source": "The Times of India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "937ac3af25d8",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -575,93 +614,106 @@
    "upsc": false,
    "items": [
     {
-     "title": "Couple along with two children attempt to end their lives, wife rescued",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/couple-along-with-two-children-attempt-to-end-their-lives-wife-rescued/article71431495.ece",
-     "summary": "The local fisherfolk noticed the family, while they were engaged in fishing in the Godavari River",
-     "published": "2026-09-05T10:23:20+00:00",
+     "title": "Auto fare likely to go up in Telangana; Transport Dept proposes increase in minimum fares",
+     "url": "https://www.thehindu.com/news/national/telangana/auto-fare-likely-to-go-up-in-telangana/article71431591.ece",
+     "summary": "The existing fares remains unchanged for 12 years",
+     "published": "2026-09-05T10:51:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ehh9sa/article71431712.ece/alternates/LANDSCAPE_1200/Auto-drivers-goG30FFCEMM.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "d6e83a0acec0",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "12 years"
+     ]
+    },
+    {
+     "title": "2 kg of suspected MDMA seized in Mattancherry in Keralam originated from Delhi: police",
+     "url": "https://www.thehindu.com/news/national/kerala/2-kg-of-suspected-mdma-seized-in-mattancherry-in-keralam-originated-from-delhi-police/article71431401.ece",
+     "summary": "Sources with the anti-narcotic wing of Kochi City police say Mattancherry native Noufal, 32, allegedly used to source the synthetic drug from Delhi",
+     "published": "2026-09-05T10:45:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "41ad541cac2f",
-     "category": "human",
-     "category_label": "Human interest"
+     "id": "1cabc6e30a3c",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "2 kg of suspected MDMA seized",
+      "32, allegedly used to source"
+     ]
     },
     {
-     "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
-     "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
-     "summary": "Opposition Leader says was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
-     "published": "2026-09-05T10:21:34+00:00",
+     "title": "In Teachers’ Day post, Keralam Higher Education Minister takes a dig at V-Cs attending RSS events",
+     "url": "https://www.thehindu.com/news/national/kerala/in-teachers-day-post-keralam-higher-education-minister-takes-a-dig-at-v-cs-attending-rss-events/article71431234.ece",
+     "summary": "",
+     "published": "2026-09-05T10:38:56+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/s5e9s/article71431507.ece/alternates/LANDSCAPE_1200/20260904026L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/cfdg28/article71431317.ece/alternates/LANDSCAPE_1200/Roji_m_john_03.JPG",
      "licence": "linkout",
-     "id": "a2c519d595fd",
+     "id": "dd537f0f956f",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "TVK to formalise existing alliance led by it in Tamil Nadu on September 9",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-to-formalise-existing-alliance-led-by-it-in-tamil-nadu-on-september-9/article71431519.ece",
-     "summary": "TVK president and Tamil Nadu Chief Minister C. Joseph Vijay will hold discussions with leaders of the Congress, IUML, VCK, and MDMK on formalising the existing alliance in the State",
-     "published": "2026-09-05T10:15:37+00:00",
+     "title": "Flyover at Ranasthalam likely to be ready in six months",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/flyover-at-ranasthalam-likely-to-be-ready-in-six-months/article71431050.ece",
+     "summary": "Srikakulam District Collector Swapnil Dinakar Pundkar and other officials have been holding meetings regularly with officials of the National Highways Authority of India (NHAI) for the quick completion of the flyover at Ranasthalam",
+     "published": "2026-09-05T10:27:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/xmpbz8/article71431573.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2014.41.02.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/260sze/article71431673.ece/alternates/LANDSCAPE_1200/9604_5_9_2026_13_38_46_1_WHATSAPPIMAGE2026_09_05AT124613.JPEG",
      "licence": "linkout",
-     "id": "c76eb82ecd93",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Opinion: Blog | Why You Should Care Whether Schrodinger's Cat Is Dead Or Alive",
-     "url": "https://www.ndtv.com/opinion/why-you-should-care-whether-schrodingers-cat-is-dead-or-alive-by-shashi-tharoor-12005493#publisher=newsstand",
-     "summary": "Imagine going on a romantic Alpine getaway and returning with the equation that runs the modern world. The only snag: nobody can quite agree on what it says about reality.",
-     "published": "2026-09-05T09:31:15+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/9gn9ardo_1_625x300_05_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e71224665aad",
+     "id": "6678078c80ac",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "PM Modi To Teachers: Raise Drug Awareness, Help Students Reduce Screen Time",
-     "url": "https://www.ndtv.com/education/teachers-day-2026-pm-narendra-modi-urges-teachers-to-raise-drug-awareness-help-children-cut-screen-time-12005137#publisher=newsstand",
-     "summary": "Teacher's Day 2026: The Prime Minister also emphasised the importance of connecting children with creativity and encouraging schools to organise activities and events that can help them explore their interests.",
-     "published": "2026-09-05T07:37:22+00:00",
+     "title": "NBEMS Post Diploma DNB 2026: Joining Report Submission Starts September 7",
+     "url": "https://www.ndtv.com/education/nbems-post-diploma-dnb-2026-joining-report-submission-starts-september-7-12005713#publisher=newsstand",
+     "summary": "NBEMS has asked Post Diploma DNB trainees from the 2026 admission session to submit their Joining Report and Self-Appraisal Form through the OPJR portal from September 7.",
+     "published": "2026-09-05T10:41:29+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/12bejq0c_pm-modi-with-the-winners-of-the-national-teachers-awards-2026_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/bvutv6ac_nbems_625x300_05_September_26.jpeg",
      "licence": "linkout",
-     "id": "42a403adcff1",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "83% Of Gen Z Professionals In India Hesitate To Network Online: LinkedIn Research Reveals Why",
-     "url": "https://www.ndtv.com/education/83-of-gen-z-professionals-in-india-hesitate-to-network-online-linkedin-research-reveals-why-12005132#publisher=newsstand",
-     "summary": "LinkedIn research shows 83% of Gen Z professionals in India hesitate to network online. Here are five simple ways to build meaningful professional connections.",
-     "published": "2026-09-05T07:34:40+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-06/t8dsoqms_gen-z_625x300_12_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "3c258835fc64",
+     "id": "92bb7b31d0d9",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "7. NBEMS has asked Post Diploma"
+     ]
     },
     {
-     "title": "Promote, Punish, Repeat: Decoding Mayawati's Akash Anand Puzzle",
-     "url": "https://www.ndtv.com/india-news/bsp-up-elections-promote-punish-repeat-decoding-mayawatis-akash-anand-puzzle-12005154#publisher=newsstand",
-     "summary": "The development in the BSP is unprecedented. Never before has any Indian party elevated a family member and dumped him or her unceremoniously thrice within a span of three years.",
-     "published": "2026-09-05T07:33:20+00:00",
+     "title": "10 Convicted In Deadly 2013 Maoist Attack On Congress Leaders In Bastar",
+     "url": "https://www.ndtv.com/india-news/jhiram-ghati-massacre-verdict-10-convicted-in-2013-maoist-attack-that-killed-27-people-in-chhattisgarh-bastar-12005566#publisher=newsstand",
+     "summary": "The incident took place on May 25, 2013, when Maoists ambushed a convoy of Congress leaders on a national highway in Jhiram Valley in Bastar.",
+     "published": "2026-09-05T10:32:33+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/2nf090a_akash-anand-31-was-once-the-declared-successor-of-mayawati-his-paternal-aunt_625x300_03_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-03/825mc908_jhiram-ghati-memorial_625x300_29_March_26.jpeg",
      "licence": "linkout",
-     "id": "4b5614e062ae",
+     "id": "88d76ea61f3b",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "10 Convicted In Deadly 2013 Maoist"
+     ]
+    },
+    {
+     "title": "ISKCON Dwarka Janmashtami 2026: Yasmin Singh Presents Kathak Performance",
+     "url": "https://www.ndtv.com/india-news/iskcon-dwarka-janmashtami-2026-yasmin-singh-presents-kathak-performance-12005580#publisher=newsstand",
+     "summary": "At the ISKCON Dwarka programme, 'Divya Krishna' added a classical dance presentation to the Janmashtami celebrations, using Kathak to explore different facets of Krishna's life.",
+     "published": "2026-09-05T10:16:29+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/rmv8eao8_janmashtami_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a8d32df63823",
      "category": "general",
      "category_label": "General"
     }
@@ -673,6 +725,30 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+     "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
+     "summary": "Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.",
+     "published": "2026-09-05T10:27:23+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9be5012c3d-1788601601.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "7527636d0a56",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+       "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "5 killed in Russian attacks"
+     ]
+    },
     {
      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
      "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
@@ -713,32 +789,6 @@
      "category_label": "General"
     },
     {
-     "title": "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
-     "url": "https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss",
-     "summary": "Fights between players and coaching staff broke out after the Turkish side won the Champions League playoff second leg.",
-     "published": "2026-09-05T09:44:45+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9be35f1892-1788601183.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "c12fa0cde1da",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
-     "url": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
-     "summary": "Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.",
-     "published": "2026-09-05T09:11:58+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-04T232943Z_921625423_RC2E9NAI1FP3_RTRMADP_3_USA-VENEZUELA-OIL-BILLIONAIRE-1788595769.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "7fe806e57812",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
@@ -750,22 +800,6 @@
      "id": "4217cb2605bd",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-     "url": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
-     "summary": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
-     "published": "2026-09-04T12:30:56+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/034c61b0-a830-11f1-b808-43cdd10f38ce.jpg",
-     "licence": "linkout",
-     "id": "74e707e5168e",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "1,300 people have died and thousands"
-     ]
     },
     {
      "title": "Trump signs order to remove endangered species protection for grey wolves",
@@ -852,28 +886,48 @@
    "upsc": false,
    "items": [
     {
-     "title": "Couple along with two children attempt to end their lives, wife rescued",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/couple-along-with-two-children-attempt-to-end-their-lives-wife-rescued/article71431495.ece",
-     "summary": "The local fisherfolk noticed the family, while they were engaged in fishing in the Godavari River",
-     "published": "2026-09-05T10:23:20+00:00",
+     "title": "Auto fare likely to go up in Telangana; Transport Dept proposes increase in minimum fares",
+     "url": "https://www.thehindu.com/news/national/telangana/auto-fare-likely-to-go-up-in-telangana/article71431591.ece",
+     "summary": "The existing fares remains unchanged for 12 years",
+     "published": "2026-09-05T10:51:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ehh9sa/article71431712.ece/alternates/LANDSCAPE_1200/Auto-drivers-goG30FFCEMM.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "d6e83a0acec0",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "12 years"
+     ]
+    },
+    {
+     "title": "2 kg of suspected MDMA seized in Mattancherry in Keralam originated from Delhi: police",
+     "url": "https://www.thehindu.com/news/national/kerala/2-kg-of-suspected-mdma-seized-in-mattancherry-in-keralam-originated-from-delhi-police/article71431401.ece",
+     "summary": "Sources with the anti-narcotic wing of Kochi City police say Mattancherry native Noufal, 32, allegedly used to source the synthetic drug from Delhi",
+     "published": "2026-09-05T10:45:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "41ad541cac2f",
-     "category": "human",
-     "category_label": "Human interest"
+     "id": "1cabc6e30a3c",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "2 kg of suspected MDMA seized",
+      "32, allegedly used to source"
+     ]
     },
     {
-     "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
-     "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
-     "summary": "Opposition Leader says was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
-     "published": "2026-09-05T10:21:34+00:00",
+     "title": "In Teachers’ Day post, Keralam Higher Education Minister takes a dig at V-Cs attending RSS events",
+     "url": "https://www.thehindu.com/news/national/kerala/in-teachers-day-post-keralam-higher-education-minister-takes-a-dig-at-v-cs-attending-rss-events/article71431234.ece",
+     "summary": "",
+     "published": "2026-09-05T10:38:56+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/s5e9s/article71431507.ece/alternates/LANDSCAPE_1200/20260904026L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/cfdg28/article71431317.ece/alternates/LANDSCAPE_1200/Roji_m_john_03.JPG",
      "licence": "linkout",
-     "id": "a2c519d595fd",
+     "id": "dd537f0f956f",
      "category": "politics",
      "category_label": "Political controversy"
     },
@@ -887,45 +941,6 @@
      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/xmpbz8/article71431573.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2014.41.02.jpeg",
      "licence": "linkout",
      "id": "c76eb82ecd93",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "KTR warns Congress against seeking KCR’s resignation, recalls 2006 episode",
-     "url": "https://www.thehindu.com/news/national/telangana/ktr-warns-congress-against-seeking-kcrs-resignation-recalls-2006-episode/article71431377.ece",
-     "summary": "BRS working president challenges Rahul Gandhi to visit Telangana with ‘Chatron ki Ghoonj’ programme",
-     "published": "2026-09-05T10:08:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/nqkf4k/article71431524.ece/alternates/LANDSCAPE_1200/Image%2027.jpg",
-     "licence": "linkout",
-     "id": "5fe81f626c9e",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "A teacher is also a learner",
-     "url": "https://www.thehindu.com/children/a-teacher-is-also-a-learner/article71387704.ece",
-     "summary": "If you google Sathyanarayanan Mundayoor, the first thing you may see is that he won the Padma Shri in 2020. But today, we look beyond the title and into the world of teaching through his eyes, from classrooms and libraries to the hills of Arunachal Pradesh, where he has spent decades nurturing curiosity, sharing the joy of reading and becoming “Uncle Moosa” to generations of young learners.",
-     "published": "2026-09-05T09:58:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/52rufv/article71387728.ece/alternates/LANDSCAPE_1200/4.%20SM%20NOV%2021%202025%20LITFEST.png",
-     "licence": "linkout",
-     "id": "06d96718cdac",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Don’t take to streets; give me two years to resolve issues: Telangana CM to teachers",
-     "url": "https://www.thehindu.com/news/national/telangana/teachers-should-not-take-to-streets-give-me-two-years-to-resolve-issues-telangana-cm/article71431356.ece",
-     "summary": "The Telangana CM quoted former President Sarvepalli Radhakrishnan, and said the future of students was in the hands of teachers",
-     "published": "2026-09-05T09:58:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/sycvv8/article71431441.ece/alternates/LANDSCAPE_1200/Image%2026.jpg",
-     "licence": "linkout",
-     "id": "bd5fa275cb30",
      "category": "politics",
      "category_label": "Political controversy"
     },
@@ -1551,19 +1566,6 @@
    "upsc": false,
    "items": [
     {
-     "title": "Stock up on food to prepare for extreme weather, minister says",
-     "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
-     "published": "2026-09-04T10:40:23+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4805/live/d3c90eb0-a85d-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "d66e65dedd86",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
      "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
@@ -1606,17 +1608,34 @@
      ]
     },
     {
-     "title": "US diesel prices hit an all-time-high",
-     "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-     "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-     "published": "2026-09-04T10:52:56+00:00",
+     "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+     "url": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
+     "summary": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
+     "published": "2026-09-05T01:03:35+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ea/live/aaff4f90-a843-11f1-b3a7-d5de760fef6e.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f0/live/38040b40-a882-11f1-824a-0fc4c5d895ae.jpg",
      "licence": "linkout",
-     "id": "5f42fdde6dd5",
+     "id": "b177e27c45de",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Insurance fraud: ₹15 lakh landed in senior citizen’s account, HC said mere receipt of money doesn’t prove guilt",
+     "url": "https://www.livemint.com/money/personal-finance/insurance-fraud-15-lakh-landed-in-senior-citizen-s-account-hc-said-mere-receipt-of-money-doesn-t-prove-guilt-11788600893814.html",
+     "summary": "A 78-year-old retired IFS officer got ₹15.15 lakh in his bank account linked to an alleged insurance fraud. The Madhya Pradesh High Court granted him anticipatory bail, saying merely receiving crime proceeds did not prove knowing involvement.",
+     "published": "2026-09-05T09:45:19+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/Gemini_GeneratedImage_afibd7d7afib_17886014749_1788601491023_27f9b7a2-92ee-468f-ab03-53a3ef5c0b35_1788601491329_644af4c2-5c1a-4c7d-9a1c-8c01d673eadb_d7400ed6-d9e8-452c-ab3c-211b9b7d45ea_f3bc6a99-8a4f-4ab3-b1fc-f92643eb2b4f.png",
+     "licence": "linkout",
+     "id": "56f4c591b57c",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹15 lakh landed in senior citizen’s",
+      "₹15.15 lakh in his bank account"
+     ]
     },
     {
      "title": "ITR deadline for businesses and professionals: Who gets time until October 31 to file their returns?",
@@ -1735,6 +1754,23 @@
      "id": "4733e8cd5701",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Police Body Cameras Are Learning to Speak 50 Languages",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDdTVVFwUmlvSFc5dzFfVHZwZVVKR1J5Nm5yMnZwSmpKQnZYd2ZOcnFZMlo2aUU0cmRrT2ZjV3g4X25IcU5KN2NwQlVFRjE1VFJLRko3ZWNNa0cyRWtzUWpaNVBHX0dLbkMtSHlPT2NodnYxendrYlAwdVhaRGtJQURic0NjR1VCdGlmMm5fRFhXZFVtSXRyVTdPUXZwYkUyQ2ZuYk5MZw?oc=5",
+     "summary": "Police Body Cameras Are Learning to Speak 50 Languages Governing",
+     "published": "2026-09-04T20:31:26+00:00",
+     "source": "Governing",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "b683085edd49",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "50 Languages",
+      "50 Languages Governing"
+     ]
     }
    ]
   },
@@ -1745,58 +1781,87 @@
    "upsc": false,
    "items": [
     {
-     "title": "Sachin Tendulkar Honours Late Father, Announces New Initiative On Teachers' Day",
-     "url": "https://sports.ndtv.com/cricket/sachin-tendulkar-honours-late-father-announces-new-initiative-on-teachers-day-12005491#publisher=newsstand",
-     "summary": "Former India cricketer Sachin Tendulkar on Teachers' Day honoured the memory of his late father, Ramesh Tendulkar, by announcing the Professor Ramesh Tendulkar Memorial Fellowship.",
-     "published": "2026-09-05T09:39:15+00:00",
+     "title": "Rohit Sharma's 'Garden Se Reporting Live' Viral Remark On TV Debut Breaks The Internet",
+     "url": "https://sports.ndtv.com/cricket/rohit-sharmas-garden-se-reporting-live-viral-remark-on-tv-debut-breaks-the-internet-12005218#publisher=newsstand",
+     "summary": "With uncertainty still surrounding his place in India's 2027 World Cup plans, Rohit Sharma has stepped into the role of host for the show, which is set to premiere on September 19.",
+     "published": "2026-09-05T10:44:19+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/praq5bq4_sachin-tendulkar-_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/sndgn6ls_rohit-sharma_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "7e7d86946217",
+     "id": "190811585a3d",
      "category": "sports",
      "category_label": "Sports"
     },
     {
-     "title": "BCCI Told To Accept Facilities Or Arrange Its Own Stay For Asian Games: Report",
-     "url": "https://sports.ndtv.com/cricket/accept-or-make-own-arrangements-athletes-body-draws-line-on-bccis-asian-games-concern-12005280#publisher=newsstand",
-     "summary": "The report added that the BCCI will send an advance team next week to inspect the facilities in Aichi-Nagoya before taking a final call.",
-     "published": "2026-09-05T09:36:49+00:00",
+     "title": "Mason Greenwood, Matteo Guendouzi Handed Bans After Fenerbahce-Lyon Brawl",
+     "url": "https://sports.ndtv.com/football/mason-greenwood-matteo-guendouzi-handed-bans-after-fenerbahce-lyon-brawl-12005505#publisher=newsstand",
+     "summary": "Fenerbahce duo Mason Greenwood and Matteo Guendouzi have been suspended for their part in the chaotic scenes after their club's Champions League play-off second leg against Lyon.",
+     "published": "2026-09-05T10:40:07+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/0b37hat_team-india-afp_625x300_05_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/kqb2evv_mason-greenwood_625x300_05_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "d8e2b89ca574",
-     "category": "general",
-     "category_label": "General"
+     "id": "1b641b5efbf0",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
-     "title": "KL Rahul To Miss Duleep Trophy Final Against Vaibhav Sooryavanshi's East Zone",
-     "url": "https://sports.ndtv.com/cricket/kl-rahul-to-miss-duleep-trophy-final-against-vaibhav-sooryavanshis-east-zone-12005484#publisher=newsstand",
-     "summary": "India batter KL Rahul will miss the final of the Duleep Trophy against East Zone, South Zone captain Tilak Varma confirmed during a press conference in Chennai.",
-     "published": "2026-09-05T09:24:35+00:00",
+     "title": "\"Made It Worse\": England Great Accuses Mohsin Naqvi's PCB Of Making Pakistan A 'Laughing Stock'",
+     "url": "https://sports.ndtv.com/cricket/made-it-worse-england-great-accuses-mohsin-naqvis-pcb-of-making-pakistan-a-laughing-stock-12000356#publisher=newsstand",
+     "summary": "The PCB offloaded seven players and some members of the team management, including head coach Sarfaraz Ahmed, following the 194-run loss to England in the Lord's Test last week.",
+     "published": "2026-09-05T10:38:57+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/3v69q5u4_kl-rahul-afp_625x300_15_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/92kms8q4_moshin-naqvi-afp_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "adc21a740683",
-     "category": "general",
-     "category_label": "General"
+     "id": "722af0bda25d",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
-     "title": "Pakistan Coach Breaks Silence On Dropping 3 Senior Players During England Test Series: 'Really Don't Know'",
-     "url": "https://sports.ndtv.com/cricket/pakistan-coach-breaks-silence-on-dropping-3-senior-players-during-england-test-series-really-dont-know-12002604#publisher=newsstand",
-     "summary": "Pakistan's interim red-ball head coach Mike Hesson on Friday distanced himself from the decision to drop senior players Mohammad Rizwan, Salman Agha and Imam-ul-Haq from the Test squad following a disastrous tour of England.",
-     "published": "2026-09-05T08:51:58+00:00",
+     "title": "India's Friendly Match Against FIFA World Cup Team Rescheduled. New Date Announced",
+     "url": "https://sports.ndtv.com/football/indias-friendly-match-against-fifa-world-cup-team-panama-rescheduled-new-date-announced-12005335#publisher=newsstand",
+     "summary": "The All India Football Federation (AIFF) on Saturday announced that the men's international friendly between India and Panama has been rescheduled and will now be played on September 25 instead of the previously announced date of September 26.",
+     "published": "2026-09-05T10:30:35+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/hbhkrpdo_cs_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-05/46t1aj9_team-india-football_625x300_28_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "e814cba45ca1",
+     "id": "5c0e4319e492",
      "category": "sports",
      "category_label": "Sports",
      "figures": [
-      "3 Senior Players During England Test"
+      "25 instead of the previously announced"
+     ]
+    },
+    {
+     "title": "India To Face Bangladesh With AFC U20 Asian Cup Qualification In Sight",
+     "url": "https://sports.ndtv.com/football/india-to-face-bangladesh-with-afc-u20-asian-cup-qualification-in-sight-12005202#publisher=newsstand",
+     "summary": "Should India finish second, they would have a chance to qualify for the AFC U20 Asian Cup China 2027 as one of the seven best runners-up across the eight groups.",
+     "published": "2026-09-05T10:24:53+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/3jnrhsa_india-u20-football_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d69288ef9168",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Ishan Kishan's Big Message To Selectors Over Mohammed Shami India Comeback Debate: \"Age Is Just A Number\"",
+     "url": "https://sports.ndtv.com/cricket/ishan-kishans-big-message-to-selectors-over-mohammed-shami-india-comeback-debate-age-is-just-a-number-12005554#publisher=newsstand",
+     "summary": "Mohammed Shami played a big role in East Zone's march to the Duleep Trophy final after 13 years, taking five wickets against Central Zone in the semifinal at Bengaluru.",
+     "published": "2026-09-05T10:22:36+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/1foi7jj8_mohammed-shami-_625x300_04_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "25d1ff9abd33",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "13 years , taking five wickets"
      ]
     }
    ]
