@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T09:01:45.221745+00:00",
+ "generated_at": "2026-09-05T09:33:06.442286+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Eight Keralam",
   "Egyptian Qaradawi",
+  "Drunk Kills",
   "Jazeera English",
   "News",
   "Haryana",
   "Monday",
-  "Velachery Aassan",
-  "People Book",
-  "Muslim Europe",
-  "Nepal"
+  "Police Pinarayi",
+  "Teachers",
+  "What Trump",
+  "Orangutan Indonesia"
  ],
  "sections": [
   {
@@ -102,20 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "Eight T.N. engineering students killed as car rams parked lorry on NH 66 in Keralam’s Thrissur",
-     "url": "https://www.thehindu.com/news/national/kerala/eight-killed-as-car-rams-parked-lorry-on-nh-66-in-thrissur/article71429840.ece",
-     "summary": "The impact was devastating. The car was crushed and wedged beneath the rear of the lorry, leaving rescuers struggling to even locate the vehicle at first.",
-     "published": "2026-09-05T08:53:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/vh4ay3/article71429841.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%201.59.44%20AM.jpeg",
-     "licence": "linkout",
-     "id": "c8c9dcde7859",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
     {
      "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
      "url": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
@@ -148,6 +134,20 @@
      "from_section": "National News"
     },
     {
+     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+     "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+     "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+     "published": "2026-09-04T22:48:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
+     "licence": "linkout",
+     "id": "ab7c59624980",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
@@ -176,161 +176,138 @@
      "from_section": "Business"
     },
     {
-     "title": "ECI bars former Velachery MLA Aassan Maulaana from contesting elections for three years",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/eci-bars-former-velachery-mla-aassan-maulaana-from-contesting-elections-for-three-years/article71431382.ece",
-     "summary": "The EC’s order said, Mr. Maulaana failed to lodge a true and correct account of his election expenses within the time and in the manner required under the Representation of the People Act",
-     "published": "2026-09-05T08:53:59+00:00",
+     "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
+     "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
+     "summary": "Opposition Leader says was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
+     "published": "2026-09-05T09:27:48+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/kaoqrr/article71431468.ece/alternates/LANDSCAPE_1200/1693_21_1_2023_15_9_36_1_PUBLIC_HEARING_MEETING_KOTTURPURAM_15.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/s5e9s/article71431507.ece/alternates/LANDSCAPE_1200/20260904026L.jpg",
      "licence": "linkout",
-     "id": "1af02f476a23",
+     "id": "a2c519d595fd",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "No evidence in KPSC probe will be diluted, says Karnataka Minister Priyank Kharge",
-     "url": "https://www.thehindu.com/news/national/karnataka/no-evidence-in-kpsc-probe-will-be-diluted-says-karnataka-minister-priyank-kharge/article71431260.ece",
-     "summary": "Home Minister Priyank Kharge said the government is committed to safeguarding the interests of candidates appearing for various recruitment examinations in Karnataka",
-     "published": "2026-09-05T08:43:17+00:00",
+     "title": "KTR warns Congress against seeking KCR’s resignation, recalls 2006 episode",
+     "url": "https://www.thehindu.com/news/national/telangana/ktr-warns-congress-against-seeking-kcrs-resignation-recalls-2006-episode/article71431377.ece",
+     "summary": "BRS working president challenges Rahul Gandhi to visit Telangana with ‘Chatron ki Ghoonj’ programme",
+     "published": "2026-09-05T09:13:49+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/39087k/article71431353.ece/alternates/LANDSCAPE_1200/10258_5_9_2026_12_10_35_2_PRIYANK_KHARGE_2.JPG",
+     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/nqkf4k/article71431524.ece/alternates/LANDSCAPE_1200/Image%2027.jpg",
      "licence": "linkout",
-     "id": "dc5da82364af",
+     "id": "5fe81f626c9e",
      "category": "politics",
      "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Trump signs order to remove endangered species protection for grey wolves",
+     "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+     "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+     "published": "2026-09-05T09:12:48+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
+     "licence": "linkout",
+     "id": "4a7dca476c43",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGd0MHNnMkhGT1JzQWhIdnI0Qk83OVVqSnJJekgwNU5lYWpQVGhWY0FiOWVTQ2ZSUXBnSEF3YV9Tcnk4Z1E3VGQzSkoyVHlITGtpT3lMbGtWTUp4QmF6N0VzN2hBRFQ3SlJvS0R0b1hTNnBYMDhiMEN4dTJ5dnVteERFWUZOQmtxQnFFeXdwZUY2SDJCTUVCTE1hNXRoSGNQRHZiUHo3TVRQSUJwMllfNGNuVmJfZjR2eEJFTUthS0IwWVJTeVQwMkxUR0E1cVdkTUpWYtIB2gFBVV95cUxOZGN5dXpZRFpLSjdrVzZ4enZpbERVeHVMRXJuY2NJRnhiT2F1aWxab0ZoOU80dVhyZ19fbGpLYy1Qd29GSzV1VGlMMk00QzZPNHRiX1Z3YkNYN09MYWtaVXdkc2RUN3pfOGFKM09tWHFFeE9Nbllfd3QzLVpORGVxaWl0UkFRSGI5ZUlnUjB0c2Y5djhaN3NyM1RsUlUtcERuRVhUZi0ycmJ4SWRkaF9HVjk1Y1JVLWEzeDhGc1FLTUUwb2V4MGNBeDJ5WE1KV3hZeHJFWWhmT3R5dw?oc=5",
+     "summary": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted thestatesman.com",
+     "published": "2026-09-05T05:19:00+00:00",
+     "source": "thestatesman.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "937e92d391bb",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Scandals & Investigations",
+     "figures": [
+      "Rs 504 -crore Haryana govt funds",
+      "19 chargesheeted",
+      "19 chargesheeted thestatesman"
+     ]
+    },
+    {
+     "title": "PIO facing $600k fraud charge in US nabbed in Punjab",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1VeTdSQ0pMWEMxa050XzM1UFR3TkIwckFNcEdGVGVzZkZIaFhJcGVfclZTVVlkdmZMYTRHT05Cb1R5Sk9Xd25vTWJuTl9JV3JVYmI0dHdnYXBCTzBpZGdGWWxJUFZQSHAxWmJ4UUdmekJFMGEtb0hHT1J1Tl9ybDB2bWE1WlBsQVVOMjhFdW5CYnFJT3NZOW94WldDcWJ4eWc3V09IUlVySFRWZWJOZFh2MmJodDZTMmF2aUJZRFBOTFVFNHZmdtIBzgFBVV95cUxPdWZwejE3WUxYajhjcFJvd3VhR1g0RDdLRTUtSzdMNzdxREE3SHRBNWZ0Q013WnJPY3kwenNYajZxVGhKbjdrTFJOX3lsYUd1M2tqSC0ycV8xSE91ZXMwY2JuNDYxVFp6ajROVTE0QWlrMmVYSHRyUzdYNEZkUXNacE8wRW5DWGRyODNMcTU0UlB5ZFNFclZfVVd4UERNenZ6US12UEFtZE5EOXh3cXZxdjJSb1ZfeFpvWkZ4TzFqQ25mejA1LVlCZThHaUJvUQ?oc=5",
+     "summary": "PIO facing $600k fraud charge in US nabbed in Punjab The Times of India",
+     "published": "2026-09-05T04:06:00+00:00",
+     "source": "The Times of India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "a856dcbf5481",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Scandals & Investigations",
+     "figures": [
+      "$600 k fraud charge"
+     ]
+    },
+    {
+     "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
+     "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
+     "published": "2026-09-04T23:47:40+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb31/live/429d3890-a861-11f1-ae45-e9984fc27c77.png",
+     "licence": "linkout",
+     "id": "b87d684fa395",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Health & Science"
+    },
+    {
+     "title": "Teachers’ Day 2026: A deep dive into the education ecosystem",
+     "url": "https://www.thehindu.com/education/teachers-day-2026-a-deep-dive-into-the-education-ecosystem/article71431339.ece",
+     "summary": "As we celebrate Teachers’ Day 2026, here are some of the best articles that celebrate the OG influencers",
+     "published": "2026-09-05T09:25:01+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/9vbma0/article70911628.ece/alternates/LANDSCAPE_1200/PTI09_18_2023_000217B.jpg",
+     "licence": "linkout",
+     "id": "94e89e4a969e",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "National News"
+    },
+    {
+     "title": "Nepal floods: Indian volunteers take relief to isolated communities",
+     "url": "https://www.thehindu.com/news/national/nepal-floods-indian-volunteers-take-relief-to-isolated-communities/article71428975.ece",
+     "summary": "Nepal floods leave remote communities struggling for shelter and basic amenities as damaged roads and bridges hamper relief efforts",
+     "published": "2026-09-05T09:04:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/rgkc2x/article71429046.ece/alternates/LANDSCAPE_1200/AFP_C7CP788.jpg",
+     "licence": "linkout",
+     "id": "b0d74f174879",
+     "category": "human",
+     "category_label": "Human interest",
      "from_section": "National Hotlines"
     },
     {
-     "title": "PM Modi To Teachers: Raise Drug Awareness, Help Students Reduce Screen Time",
-     "url": "https://www.ndtv.com/education/teachers-day-2026-pm-narendra-modi-urges-teachers-to-raise-drug-awareness-help-children-cut-screen-time-12005137#publisher=newsstand",
-     "summary": "Teacher's Day 2026: The Prime Minister also emphasised the importance of connecting children with creativity and encouraging schools to organise activities and events that can help them explore their interests.",
-     "published": "2026-09-05T07:37:22+00:00",
-     "source": "NDTV",
+     "title": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/orangutan-mother-and-infant-rescued-from-wildfire-hit-forest-in-indonesia?traffic_source=rss",
+     "summary": "A mother orangutan and her infant have been rescued from a shrinking patch of forest threatened by wildfires.",
+     "published": "2026-09-05T08:44:40+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/12bejq0c_pm-modi-with-the-winners-of-the-national-teachers-awards-2026_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-09.41.20-1788597787.png?resize=1200%2C675",
      "licence": "linkout",
-     "id": "42a403adcff1",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Bengaluru man gets tax demand on ₹2.33 crore online gaming winnings: What convinced ITAT to rule in his favour",
-     "url": "https://www.livemint.com/money/bengaluru-man-gets-tax-demand-on-2-33-crore-online-gaming-winnings-what-convinced-itat-to-rule-in-his-favour-11788592206672.html",
-     "summary": "After failing to report ₹2.33 crore in gaming winnings, a Bengaluru taxpayer faced an income tax notice. Although the tax officer deemed the winnings taxable, the assessee ended up winning the case. Here's what happened.",
-     "published": "2026-09-05T08:49:37+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/rummy_1788596492830_6f56135b-886a-4476-ad31-9f0659e9e0f7_1788596508017_2c5ddf3b-a582-47bc-a632-504d9b550f59_a86df4a5-995c-4542-9c1d-38efdfda5ff5_5718cc53-5cec-45f2-80b9-c3b3a974168a.png",
-     "licence": "linkout",
-     "id": "0a83133b62a6",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹2.33 crore online gaming winnings: What",
-      "₹2.33 crore in gaming winnings"
-     ]
-    },
-    {
-     "title": "Which small savings schemes offer tax benefits with no investment limit? Check the complete comparison",
-     "url": "https://www.livemint.com/money/personal-finance/which-small-savings-schemes-offer-tax-benefits-with-no-investment-limit-check-the-complete-comparison-11788580728454.html",
-     "summary": "NSC and 5-year Post Office Time Deposit offer Section 80C tax benefits without an investment ceiling. Know their tenure, tax rules and how they compare with PPF, SSY and KVP. Having a clear understanding of investment limits and basic tax-related concepts can help in meaningful investment planning.&nbsp;",
-     "published": "2026-09-05T07:08:39+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/Small_Savings_Schemes_1788581692067_4416a194-f7db-4199-9dc2-1ece90bcd10b_1788581695998_bb77bf9a-5f50-45d0-9c32-676a1a1c40d5_31d3aab0-6c62-49df-bac1-290360ca4561_8a1433cb-641b-4742-8b62-62cdcfe386ca.jpg",
-     "licence": "linkout",
-     "id": "7571c123c941",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Paying over ₹50,000 rent per month? Here's what tenants must do to avoid income tax penalty, interest",
-     "url": "https://www.livemint.com/money/personal-finance/paying-over-50-000-rent-per-month-heres-what-tenants-must-do-to-avoid-income-tax-penalty-11788587978418.html",
-     "summary": "Tenants paying high rent must deduct 2% TDS before making the payment to the landlord. Failure to comply can result in penalties and interest charges. Full details here.",
-     "published": "2026-09-05T07:08:11+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/pexels-photo-4174740_1784212495329_1784212519192_087b1e24-a920-42e4-b567-951f24281b1e_1788591031051_a9f3497c-44be-421a-9af5-3cb95cb4e3a2_29852e80-9156-4ed9-ab09-6f96d380fa48_392dc413-316c-4f33-8236-be51583d02d1.jpeg",
-     "licence": "linkout",
-     "id": "0605929b0a78",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹50,000  rent per month? Here's"
-     ]
-    },
-    {
-     "title": "8th Pay Commission: Level 5 staff could see ₹15,768 monthly HRA gain under the proposed 40% rate",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-level-5-staff-could-see-15-768-monthly-hra-gain-under-the-proposed-40-rate-11788584961901.html",
-     "summary": "Pay Level 5 central government employees could see their monthly HRA rise by nearly ₹15,800 under a proposed 40% HRA rate and 2.1 fitment factor if accepted. Still, the final figures will depend on the 8th Pay Commission’s recommendations.",
-     "published": "2026-09-05T08:55:03+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/8th_pay_1788585868609_b0a2dc44-0c3e-42d5-b20a-ef88fb415c7a_1788585868821_a5ae06c6-8662-4458-b281-52d273651316_a7b7b257-238c-483b-b4dc-3cdee6c86499_de4ee41a-fb5b-4f1f-8cbe-f3d187c9ec9a.jpg",
-     "licence": "linkout",
-     "id": "ba7622103ba2",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "Business",
-     "figures": [
-      "5 staff could see ₹15,768 monthly",
-      "₹15,768  monthly HRA gain under",
-      "5 central government employees could see",
-      "₹15,800  under a proposed 40%",
-      "2.1 fitment factor if accepted"
-     ]
-    },
-    {
-     "title": "Three bonded labour victims rescued from cold storage at West Bengal’s Alipurduar",
-     "url": "https://www.thehindu.com/news/national/west-bengal/three-bonded-labour-victims-rescued-from-cold-storage-at-west-bengals-alipurduar/article71428990.ece",
-     "summary": "Local contractors from Sundarbans had engaged the victims after payment of some advance and all the three were denied minimum wages and their movement was restricted. The rescue was made from a cold storage facility.",
-     "published": "2026-09-05T08:50:19+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uovhz/article71431463.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%201.38.13%20PM.jpeg",
-     "licence": "linkout",
-     "id": "971cc111293d",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "National News"
-    },
-    {
-     "title": "How three Keralam nuns stitched together clothing venture ‘Stand By Me’ in a struggle for survival after standing up against Church",
-     "url": "https://www.thehindu.com/news/national/kerala/how-three-keralam-nuns-have-launched-clothing-venture-stand-by-me-in-a-struggle-for-survival/article71431372.ece",
-     "summary": "The three nuns at St. Francis Mission Home at Kuravilangad in Kottayam seek to carve out a life of their own after years of isolation and hardship following their stand in the Bishop Franco Mulakkal case",
-     "published": "2026-09-05T08:49:08+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/x363z5/article71431425.ece/alternates/LANDSCAPE_1200/sbm.jpg",
-     "licence": "linkout",
-     "id": "85367ee74314",
+     "id": "72da59dba0cc",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "National News"
-    },
-    {
-     "title": "UN votes to adopt new world map to reflect Africa's true size",
-     "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
-     "published": "2026-09-05T00:53:11+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
-     "licence": "linkout",
-     "id": "019b2f5a178c",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News",
-     "figures": [
-      "164 nations - with the US"
-     ]
+     "from_section": "Global News"
     },
     {
      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
@@ -345,6 +322,25 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Global Hotline"
+    },
+    {
+     "title": "Valles Marineris flood may have raised ancient Martian sea level by 34 metres: study",
+     "url": "https://www.thehindu.com/sci-tech/science/valles-marineris-flood-may-have-raised-ancient-martian-sea-level-by-34-metres/article71427793.ece",
+     "summary": "The flood, from the ancient canyon system, the largest in the Solar System, is estimated to have released 1,245 trillion cubic metres of water and may have raised the global mean level of the hypothesised ancient Martian ocean by about 34 metres, according to a new study published online in the peer-reviewed journal Icarus.",
+     "published": "2026-09-05T09:22:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/6rt683/article71427797.ece/alternates/LANDSCAPE_1200/5tvkz1-%20Mars.jpg",
+     "licence": "linkout",
+     "id": "4745352d6e4f",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News",
+     "figures": [
+      "34 metres : study",
+      "1,245 trillion cubic metres of water",
+      "34 metres , according"
+     ]
     },
     {
      "title": "Rohit Sharma, AB De Villiers Snubbed As Rajat Patidar Picks Best T20 Batter Of All Time",
@@ -375,6 +371,20 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
+     "summary": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? The Guardian",
+     "published": "2026-09-05T07:00:00+00:00",
+     "source": "The Guardian",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "cdf9548314c0",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
      "title": "Leading AI journalist gives free UH talk on artificial intelligence",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MVE9iNHkxaEcxVS1LMVVsWGhNWXdJTGdZM2pnT0NlOXRKWEtody1XU3Q1SzR1UEQ5UG84bDM5bDRUa0pnNzBaTkZTcXR3LXN4TlhyRmpFREJMOUdaZ01jU0UzTTZpU2dsT3RMbTlkakZlUjZEd0o2LTFJWQ?oc=5",
      "summary": "Leading AI journalist gives free UH talk on artificial intelligence University of Hawaii System",
@@ -398,20 +408,6 @@
      "image": null,
      "licence": "linkout",
      "id": "5ea265088975",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-     "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-     "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-     "published": "2026-09-04T14:59:13+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
-     "licence": "linkout",
-     "id": "3152bdb0ea47",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -458,7 +454,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-05T09:01:32.286641+00:00",
+     "published": "2026-09-05T09:32:52.223985+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +465,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-05T09:01:32.286657+00:00",
+     "published": "2026-09-05T09:32:52.224000+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -480,7 +476,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-05T09:01:32.286661+00:00",
+     "published": "2026-09-05T09:32:52.224004+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -491,7 +487,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-05T09:01:32.286664+00:00",
+     "published": "2026-09-05T09:32:52.224007+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -502,7 +498,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-05T09:01:32.286666+00:00",
+     "published": "2026-09-05T09:32:52.224011+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -513,7 +509,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-05T09:01:32.286669+00:00",
+     "published": "2026-09-05T09:32:52.224014+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -529,9 +525,9 @@
     {
      "title": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGd0MHNnMkhGT1JzQWhIdnI0Qk83OVVqSnJJekgwNU5lYWpQVGhWY0FiOWVTQ2ZSUXBnSEF3YV9Tcnk4Z1E3VGQzSkoyVHlITGtpT3lMbGtWTUp4QmF6N0VzN2hBRFQ3SlJvS0R0b1hTNnBYMDhiMEN4dTJ5dnVteERFWUZOQmtxQnFFeXdwZUY2SDJCTUVCTE1hNXRoSGNQRHZiUHo3TVRQSUJwMllfNGNuVmJfZjR2eEJFTUthS0IwWVJTeVQwMkxUR0E1cVdkTUpWYtIB2gFBVV95cUxOZGN5dXpZRFpLSjdrVzZ4enZpbERVeHVMRXJuY2NJRnhiT2F1aWxab0ZoOU80dVhyZ19fbGpLYy1Qd29GSzV1VGlMMk00QzZPNHRiX1Z3YkNYN09MYWtaVXdkc2RUN3pfOGFKM09tWHFFeE9Nbllfd3QzLVpORGVxaWl0UkFRSGI5ZUlnUjB0c2Y5djhaN3NyM1RsUlUtcERuRVhUZi0ycmJ4SWRkaF9HVjk1Y1JVLWEzeDhGc1FLTUUwb2V4MGNBeDJ5WE1KV3hZeHJFWWhmT3R5dw?oc=5",
-     "summary": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted The Statesman",
+     "summary": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted thestatesman.com",
      "published": "2026-09-05T05:19:00+00:00",
-     "source": "The Statesman",
+     "source": "thestatesman.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -541,7 +537,7 @@
      "figures": [
       "Rs 504 -crore Haryana govt funds",
       "19 chargesheeted",
-      "19 chargesheeted The Statesman"
+      "19 chargesheeted thestatesman"
      ]
     },
     {
@@ -560,9 +556,9 @@
     {
      "title": "Dentsu IT probe widens: ‘Royalty pivot’, election and government campaigns under scanner",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWdaZWlOQy1VdnFXWm9CSjRyQXVhY3BkZGcwOWNIUURSXzdGLU9EeHhwX2R2a3hJSHg3c0lPTlJKSWdwS2lncVR1R09lakJoek51UktLSGhTR1lHYXZ6Q1c5amx1dXpQZW5oY3cwUGx1QkprTTc4ejFRaDB0dUthd1FCcHUzNmlkcDJtd3RMcFpvUmRCa2loS0JPX1hXUXU4Q2s3VS1mVWM4ZzN1MVZubndJRVVVUUp2RjVycE52ajBoTVVaUUppRjhmSzhKU1BWd2lXcEMzMWVDcUFC?oc=5",
-     "summary": "Dentsu IT probe widens: ‘Royalty pivot’, election and government campaigns under scanner Exchange4Media",
+     "summary": "Dentsu IT probe widens: ‘Royalty pivot’, election and government campaigns under scanner exchange4media.com",
      "published": "2026-09-04T10:31:45+00:00",
-     "source": "Exchange4Media",
+     "source": "exchange4media.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -597,22 +593,6 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "PIO facing $600k fraud charge in US nabbed in Punjab",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1VeTdSQ0pMWEMxa050XzM1UFR3TkIwckFNcEdGVGVzZkZIaFhJcGVfclZTVVlkdmZMYTRHT05Cb1R5Sk9Xd25vTWJuTl9JV3JVYmI0dHdnYXBCTzBpZGdGWWxJUFZQSHAxWmJ4UUdmekJFMGEtb0hHT1J1Tl9ybDB2bWE1WlBsQVVOMjhFdW5CYnFJT3NZOW94WldDcWJ4eWc3V09IUlVySFRWZWJOZFh2MmJodDZTMmF2aUJZRFBOTFVFNHZmdtIBzgFBVV95cUxPdWZwejE3WUxYajhjcFJvd3VhR1g0RDdLRTUtSzdMNzdxREE3SHRBNWZ0Q013WnJPY3kwenNYajZxVGhKbjdrTFJOX3lsYUd1M2tqSC0ycV8xSE91ZXMwY2JuNDYxVFp6ajROVTE0QWlrMmVYSHRyUzdYNEZkUXNacE8wRW5DWGRyODNMcTU0UlB5ZFNFclZfVVd4UERNenZ6US12UEFtZE5EOXh3cXZxdjJSb1ZfeFpvWkZ4TzFqQ25mejA1LVlCZThHaUJvUQ?oc=5",
-     "summary": "PIO facing $600k fraud charge in US nabbed in Punjab The Times of India",
-     "published": "2026-09-05T04:06:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "a856dcbf5481",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$600 k fraud charge"
-     ]
-    },
-    {
      "title": "Punjab-origin cop arrested in Vancouver; charged with fraud, theft",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdlFreHF2X0N1TWV0TmpvMEVKVmhoN2hqSy1NbVA3UkFSYzRLejdEakZDWVUtd20yQlRnNkllWUxUNmhwa1NvUS16WWlHU01SR3pXaGZFMWRua09tckxXa0VUVkZTRXczelAwbEotRmtSSXllTER0dlgzcFhmaS1obGxkX3IzWmNXdVk3WWU4WjI1a2NLVHpwMGVTQ243ck1QbktMVlQtU3VEMk9WUkgtem5SVDNxSEcxR3hSTDYzdXJ1Ti1CWlIzMHhTTmlhWE1FT1N4ZmZiTXJFQdIB3wFBVV95cUxOUHJMc3dxVXVZRzV2RU5fbVJDOXNxekNUeV9oVU9lT3VQcjR4cmVHM01pUFJpdWlNY3F3bnFuaV9lcmw2eEVURW5jTnF0MGpWaGJ0MDhISGEyUlhsQUtBMVpwQVJUMUxhMVlGZU53Qnl3T2dZenVfVlhpdWxUNE9GeGFvUlRaM1NiZDZybmFZZVd0YzlLTFhCdUh5RGNBVmI3eWFLNjZZazQwdDE0MVA4aXlrUUxlcndDaDVPWUZyd0dsZUlVM29hb3VmTDlraXVVRWFBeDNHb29vOHRhd21j?oc=5",
      "summary": "Punjab-origin cop arrested in Vancouver; charged with fraud, theft The Times of India",
@@ -634,43 +614,74 @@
    "upsc": false,
    "items": [
     {
-     "title": "ECI bars former Velachery MLA Aassan Maulaana from contesting elections for three years",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/eci-bars-former-velachery-mla-aassan-maulaana-from-contesting-elections-for-three-years/article71431382.ece",
-     "summary": "The EC’s order said, Mr. Maulaana failed to lodge a true and correct account of his election expenses within the time and in the manner required under the Representation of the People Act",
-     "published": "2026-09-05T08:53:59+00:00",
+     "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
+     "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
+     "summary": "Opposition Leader says was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
+     "published": "2026-09-05T09:27:48+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/kaoqrr/article71431468.ece/alternates/LANDSCAPE_1200/1693_21_1_2023_15_9_36_1_PUBLIC_HEARING_MEETING_KOTTURPURAM_15.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/s5e9s/article71431507.ece/alternates/LANDSCAPE_1200/20260904026L.jpg",
      "licence": "linkout",
-     "id": "1af02f476a23",
+     "id": "a2c519d595fd",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "People of the Book | On the treatment of ancient, religious texts",
-     "url": "https://www.thehindu.com/news/national/people-of-the-book-on-the-treatment-of-ancient-religious-texts/article71431350.ece",
-     "summary": "The debates over what the Manusmriti or the Quran says about the roles ascribed to women could lead to different paths",
-     "published": "2026-09-05T08:53:26+00:00",
+     "title": "Teachers’ Day 2026: A deep dive into the education ecosystem",
+     "url": "https://www.thehindu.com/education/teachers-day-2026-a-deep-dive-into-the-education-ecosystem/article71431339.ece",
+     "summary": "As we celebrate Teachers’ Day 2026, here are some of the best articles that celebrate the OG influencers",
+     "published": "2026-09-05T09:25:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/1518mb/article71431408.ece/alternates/LANDSCAPE_1200/rahul%20gandhi%20Kanthapuram%20collage.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/9vbma0/article70911628.ece/alternates/LANDSCAPE_1200/PTI09_18_2023_000217B.jpg",
      "licence": "linkout",
-     "id": "667d782103e0",
+     "id": "94e89e4a969e",
+     "category": "celebrity",
+     "category_label": "Celebrity"
+    },
+    {
+     "title": "Valles Marineris flood may have raised ancient Martian sea level by 34 metres: study",
+     "url": "https://www.thehindu.com/sci-tech/science/valles-marineris-flood-may-have-raised-ancient-martian-sea-level-by-34-metres/article71427793.ece",
+     "summary": "The flood, from the ancient canyon system, the largest in the Solar System, is estimated to have released 1,245 trillion cubic metres of water and may have raised the global mean level of the hypothesised ancient Martian ocean by about 34 metres, according to a new study published online in the peer-reviewed journal Icarus.",
+     "published": "2026-09-05T09:22:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/6rt683/article71427797.ece/alternates/LANDSCAPE_1200/5tvkz1-%20Mars.jpg",
+     "licence": "linkout",
+     "id": "4745352d6e4f",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "34 metres : study",
+      "1,245 trillion cubic metres of water",
+      "34 metres , according"
+     ]
+    },
+    {
+     "title": "Don’t take to streets; give me two years to resolve issues: Telangana CM to teachers",
+     "url": "https://www.thehindu.com/news/national/telangana/teachers-should-not-take-to-streets-give-me-two-years-to-resolve-issues-telangana-cm/article71431356.ece",
+     "summary": "",
+     "published": "2026-09-05T09:15:46+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/sycvv8/article71431441.ece/alternates/LANDSCAPE_1200/Image%2026.jpg",
+     "licence": "linkout",
+     "id": "bd5fa275cb30",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Eight T.N. engineering students killed as car rams parked lorry on NH 66 in Keralam’s Thrissur",
-     "url": "https://www.thehindu.com/news/national/kerala/eight-killed-as-car-rams-parked-lorry-on-nh-66-in-thrissur/article71429840.ece",
-     "summary": "The impact was devastating. The car was crushed and wedged beneath the rear of the lorry, leaving rescuers struggling to even locate the vehicle at first.",
-     "published": "2026-09-05T08:53:04+00:00",
-     "source": "The Hindu",
+     "title": "PM Modi To Teachers: Raise Drug Awareness, Help Students Reduce Screen Time",
+     "url": "https://www.ndtv.com/education/teachers-day-2026-pm-narendra-modi-urges-teachers-to-raise-drug-awareness-help-children-cut-screen-time-12005137#publisher=newsstand",
+     "summary": "Teacher's Day 2026: The Prime Minister also emphasised the importance of connecting children with creativity and encouraging schools to organise activities and events that can help them explore their interests.",
+     "published": "2026-09-05T07:37:22+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/vh4ay3/article71429841.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%201.59.44%20AM.jpeg",
+     "image": "https://c.ndtvimg.com/2026-09/12bejq0c_pm-modi-with-the-winners-of-the-national-teachers-awards-2026_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c8c9dcde7859",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "42a403adcff1",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "83% Of Gen Z Professionals In India Hesitate To Network Online: LinkedIn Research Reveals Why",
@@ -723,88 +734,59 @@
    "upsc": false,
    "items": [
     {
-     "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
-     "url": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
-     "summary": "Egyptian activist Abdul Rahman al-Qaradawi was held due to an arrest warrant by the Arab Interior Ministers Council.",
-     "published": "2026-09-05T08:14:46+00:00",
+     "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
+     "url": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
+     "summary": "Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.",
+     "published": "2026-09-05T09:11:58+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2025/01/AFP__20241229__36RQ3WJ__v1__HighRes__FilesLebanonEgyptJudiciaryMuslimBrotherhood-1736101048.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-04T232943Z_921625423_RC2E9NAI1FP3_RTRMADP_3_USA-VENEZUELA-OIL-BILLIONAIRE-1788595769.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "b700624356bf",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "10 years in prison"
-     ]
+     "id": "7fe806e57812",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "UK art show explores Muslim life, Europe’s Islamic history and Islamophobia",
-     "url": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss",
-     "summary": "Shahed Saleem's exhibition presents colourful tapestries depicting fateful moments for British and European Muslims.",
-     "published": "2026-09-05T08:07:08+00:00",
+     "title": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/orangutan-mother-and-infant-rescued-from-wildfire-hit-forest-in-indonesia?traffic_source=rss",
+     "summary": "A mother orangutan and her infant have been rescued from a shrinking patch of forest threatened by wildfires.",
+     "published": "2026-09-05T08:44:40+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/%E2%80%98I-Was-Born-Here-by-Shahed-Saleem-VA-East-New-Work-commission-on-display-at-VA-East-Storehouse-%C2%A9-David-Parry-for-the-VA-1-1788595483.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-09.41.20-1788597787.png?resize=1200%2C675",
      "licence": "linkout",
-     "id": "6b83d22d0166",
+     "id": "72da59dba0cc",
+     "category": "human",
+     "category_label": "Human interest"
+    },
+    {
+     "title": "Mansour Abbas is betting on a Zionist to make Palestinian votes count",
+     "url": "https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count?traffic_source=rss",
+     "summary": "By allying with Segalovich in the Israeli vote, Abbas is hoping for greater acceptance in Israeli coalition politics.",
+     "published": "2026-09-05T08:40:53+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9a9f7299b7-1788518258.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "153960471704",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Niger accuses France of orchestrating failed military mutiny",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
-     "summary": "Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.",
-     "published": "2026-09-05T07:42:59+00:00",
+     "title": "Pentagon polygraphs dozens of US military staff over media leaks: Report",
+     "url": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
+     "summary": "About 50 officers on the US Joint Staff were interrogated over reports detailing depleted weapons stockpiles, NYT says.",
+     "published": "2026-09-05T08:37:34+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-08.38.52-1788594044.png?resize=1200%2C630",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-03T164453Z_1313396527_RC24PMA6PGH8_RTRMADP_3_USA-PENTAGON-TESTOSTERONE-1788594711.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "4b5f5cefe77f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return",
-     "url": "https://www.aljazeera.com/sports/2026/9/5/alcaraz-sabalenka-into-us-open-last-16-as-williams-sisters-lose-on-return?traffic_source=rss",
-     "summary": "Alcaraz beat China's Wu Yibing 6-3, 6-4, 6-1, while Sabalenka defeated Kamilla Rakhimova 6-3, 6-4.",
-     "published": "2026-09-05T07:15:29+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9bc0e5ef02-1788592357.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "4fe8ad7e56f8",
+     "id": "f5c24c2d7f32",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "1, while Sabalenka defeated Kamilla Rakhimova"
+      "50 officers on the US Joint"
      ]
-    },
-    {
-     "title": "Have scientists discovered a dark matter particle?",
-     "url": "https://www.aljazeera.com/features/2026/9/5/have-scientists-discovered-a-dark-matter-particle?traffic_source=rss",
-     "summary": "Dark matter is an invisible substance that is said to bind the universe; scientists may have found new signs of it.",
-     "published": "2026-09-05T07:13:23+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T140004Z_1634843710_RC2W9NA19BEC_RTRMADP_3_SPACE-DARK-MATTER-1788440143_57480e-1788588435.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "50135fd85498",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-     "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-     "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-     "published": "2026-09-04T22:48:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
-     "licence": "linkout",
-     "id": "ab7c59624980",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -820,17 +802,20 @@
      "category_label": "General"
     },
     {
-     "title": "At least two dead in blast at Bolivia military barracks",
-     "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-     "published": "2026-09-05T08:41:38+00:00",
+     "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+     "url": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+     "summary": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
+     "published": "2026-09-04T12:30:56+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cea5/live/8e7be190-a905-11f1-b109-879e35c24276.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/034c61b0-a830-11f1-b808-43cdd10f38ce.jpg",
      "licence": "linkout",
-     "id": "07da5d49e7cb",
-     "category": "general",
-     "category_label": "General"
+     "id": "74e707e5168e",
+     "category": "human",
+     "category_label": "Human interest",
+     "figures": [
+      "1,300 people have died and thousands"
+     ]
     }
    ]
   },
@@ -904,72 +889,74 @@
    "upsc": false,
    "items": [
     {
-     "title": "ECI bars former Velachery MLA Aassan Maulaana from contesting elections for three years",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/eci-bars-former-velachery-mla-aassan-maulaana-from-contesting-elections-for-three-years/article71431382.ece",
-     "summary": "The EC’s order said, Mr. Maulaana failed to lodge a true and correct account of his election expenses within the time and in the manner required under the Representation of the People Act",
-     "published": "2026-09-05T08:53:59+00:00",
+     "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
+     "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
+     "summary": "Opposition Leader says was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
+     "published": "2026-09-05T09:27:48+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/kaoqrr/article71431468.ece/alternates/LANDSCAPE_1200/1693_21_1_2023_15_9_36_1_PUBLIC_HEARING_MEETING_KOTTURPURAM_15.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/s5e9s/article71431507.ece/alternates/LANDSCAPE_1200/20260904026L.jpg",
      "licence": "linkout",
-     "id": "1af02f476a23",
+     "id": "a2c519d595fd",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "People of the Book | On the treatment of ancient, religious texts",
-     "url": "https://www.thehindu.com/news/national/people-of-the-book-on-the-treatment-of-ancient-religious-texts/article71431350.ece",
-     "summary": "The debates over what the Manusmriti or the Quran says about the roles ascribed to women could lead to different paths",
-     "published": "2026-09-05T08:53:26+00:00",
+     "title": "Teachers’ Day 2026: A deep dive into the education ecosystem",
+     "url": "https://www.thehindu.com/education/teachers-day-2026-a-deep-dive-into-the-education-ecosystem/article71431339.ece",
+     "summary": "As we celebrate Teachers’ Day 2026, here are some of the best articles that celebrate the OG influencers",
+     "published": "2026-09-05T09:25:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/1518mb/article71431408.ece/alternates/LANDSCAPE_1200/rahul%20gandhi%20Kanthapuram%20collage.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/9vbma0/article70911628.ece/alternates/LANDSCAPE_1200/PTI09_18_2023_000217B.jpg",
      "licence": "linkout",
-     "id": "667d782103e0",
-     "category": "general",
-     "category_label": "General"
+     "id": "94e89e4a969e",
+     "category": "celebrity",
+     "category_label": "Celebrity"
     },
     {
-     "title": "Eight T.N. engineering students killed as car rams parked lorry on NH 66 in Keralam’s Thrissur",
-     "url": "https://www.thehindu.com/news/national/kerala/eight-killed-as-car-rams-parked-lorry-on-nh-66-in-thrissur/article71429840.ece",
-     "summary": "The impact was devastating. The car was crushed and wedged beneath the rear of the lorry, leaving rescuers struggling to even locate the vehicle at first.",
-     "published": "2026-09-05T08:53:04+00:00",
+     "title": "Valles Marineris flood may have raised ancient Martian sea level by 34 metres: study",
+     "url": "https://www.thehindu.com/sci-tech/science/valles-marineris-flood-may-have-raised-ancient-martian-sea-level-by-34-metres/article71427793.ece",
+     "summary": "The flood, from the ancient canyon system, the largest in the Solar System, is estimated to have released 1,245 trillion cubic metres of water and may have raised the global mean level of the hypothesised ancient Martian ocean by about 34 metres, according to a new study published online in the peer-reviewed journal Icarus.",
+     "published": "2026-09-05T09:22:25+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/vh4ay3/article71429841.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%201.59.44%20AM.jpeg",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/6rt683/article71427797.ece/alternates/LANDSCAPE_1200/5tvkz1-%20Mars.jpg",
      "licence": "linkout",
-     "id": "c8c9dcde7859",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Teachers should not take to streets; give me two years to resolve issues: Telangana CM",
-     "url": "https://www.thehindu.com/news/national/telangana/teachers-should-not-take-to-streets-give-me-two-years-to-resolve-issues-telangana-cm/article71431356.ece",
-     "summary": "",
-     "published": "2026-09-05T08:40:42+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/sycvv8/article71431441.ece/alternates/LANDSCAPE_1200/Image%2026.jpg",
-     "licence": "linkout",
-     "id": "bd5fa275cb30",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Sonia Gandhi’s ‘Belonging’ | What is the controversy over its publication in India?",
-     "url": "https://www.thehindu.com/books/sonia-gandhis-belonging-what-is-the-controversy-over-its-publication-in-india/article71431117.ece",
-     "summary": "The book was initially expected to be published in India by Penguin Random House India (PRHI); however, PRHI announced on August 28 that it was not the publisher of the memoir in India",
-     "published": "2026-09-05T08:38:39+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/1inoem/article71431157.ece/alternates/LANDSCAPE_1200/PTI08_23_2026_000608B.jpg",
-     "licence": "linkout",
-     "id": "ac96979ae696",
-     "category": "general",
-     "category_label": "General",
+     "id": "4745352d6e4f",
+     "category": "weather",
+     "category_label": "Weather & disaster",
      "figures": [
-      "28 that it was not"
+      "34 metres : study",
+      "1,245 trillion cubic metres of water",
+      "34 metres , according"
      ]
+    },
+    {
+     "title": "Munnar plantation worker narrowly escapes wild elephant attack",
+     "url": "https://www.thehindu.com/news/national/kerala/munnar-plantation-worker-narrowly-escapes-wild-elephant-attack/article71428579.ece",
+     "summary": "",
+     "published": "2026-09-05T09:06:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/mw8v1p/article71431298.ece/alternates/LANDSCAPE_1200/elephant%20new.jpg",
+     "licence": "linkout",
+     "id": "6abd97c5035e",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "‘Utlotsavam’ steals the show at ISKCON festival",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/utlotsavam-steals-the-show-at-iskcon-festival/article71429146.ece",
+     "summary": "The traditional festival is performed every year on the sprawling ground abutting the temple to celebrate the event observed during Lord Krishna’s childhood, which is followed even today in Vrindavan",
+     "published": "2026-09-05T09:02:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/2ocmo4/article71431492.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-04%20at%2018.04.20.jpeg",
+     "licence": "linkout",
+     "id": "cbc66db55dea",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "School Assembly News Headlines (September 5): Top National, International, Sports News",
@@ -1659,22 +1646,6 @@
      "id": "5f42fdde6dd5",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Only one overseas fund is accepting new investors now; Baroda BNP Paribas Aqua reopens for SIPs and lump sums",
-     "url": "https://www.livemint.com/money/personal-finance/only-one-overseas-fund-is-accepting-new-investors-now-baroda-bnp-paribas-aqua-reopens-for-sips-and-lump-sums-11788594467610.html",
-     "summary": "Baroda BNP Paribas Aqua has reopened for fresh investments from 1 September, becoming the only overseas equity fund among 60 to accept new investors. Here’s what the reopening means for lump-sum investors and new SIPs, and why 59 other international funds remain closed.",
-     "published": "2026-09-05T08:01:14+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/f_1788595223601_5a6fc3cf-f408-4c55-864e-59124c69f7ff_1788595223770_7ffc140f-eaa6-4a60-b940-a5197f217129_631633ec-2d2d-48b2-b580-a5e12d303e86_c81ad229-37f5-43af-ad7f-fa63fa1c434d.png",
-     "licence": "linkout",
-     "id": "fbd520528045",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "59 other international funds remain closed"
-     ]
     }
    ]
   },
@@ -1740,24 +1711,11 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "M&T Bank expands enterprise AI after years of technology overhaul",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmJFNXZ4TjNEbXZJUFMxOThxTEM2NkhmX2xicHpnXzRNOTY5TkFJdy04eV9ucTlWYzdObnpRdlF5QW44bkZYRUpmT1BKSl9maS1xR19HLTVMS0wtWDhlbHRqNkw0VWlmV3hTZTlkOUY3Um1JS0NSUkNPWFh4QmRqNkNMX3hfcTlFRFhkdjBCb3c?oc=5",
-     "summary": "M&T Bank expands enterprise AI after years of technology overhaul AI News",
-     "published": "2026-09-04T10:01:25+00:00",
-     "source": "AI News",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "1de9d9cae8e0",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
      "title": "Police Body Cameras Are Learning to Speak 50 Languages",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDdTVVFwUmlvSFc5dzFfVHZwZVVKR1J5Nm5yMnZwSmpKQnZYd2ZOcnFZMlo2aUU0cmRrT2ZjV3g4X25IcU5KN2NwQlVFRjE1VFJLRko3ZWNNa0cyRWtzUWpaNVBHX0dLbkMtSHlPT2NodnYxendrYlAwdVhaRGtJQURic0NjR1VCdGlmMm5fRFhXZFVtSXRyVTdPUXZwYkUyQ2ZuYk5MZw?oc=5",
-     "summary": "Police Body Cameras Are Learning to Speak 50 Languages governing.com",
+     "summary": "Police Body Cameras Are Learning to Speak 50 Languages Governing",
      "published": "2026-09-04T20:31:26+00:00",
-     "source": "governing.com",
+     "source": "Governing",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1766,7 +1724,7 @@
      "category_label": "Crime",
      "figures": [
       "50 Languages",
-      "50 Languages governing"
+      "50 Languages Governing"
      ]
     }
    ]
@@ -1911,7 +1869,7 @@
    "upsc": false,
    "items": [
     {
-     "title": "How the hunger for a new weight loss drug is feeding an industry of fakes",
+     "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
      "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
      "summary": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
      "published": "2026-09-04T23:47:40+00:00",
