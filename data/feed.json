@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T21:31:36.680319+00:00",
+ "generated_at": "2026-09-05T22:01:52.778945+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -49,7 +49,8 @@
    "value": 186702.0,
    "change": 1474.0,
    "changePct": 0.8,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -87,12 +88,12 @@
   "Traffic Kochi",
   "Jazeera English",
   "News",
-  "Prior Consent",
-  "Haryana",
-  "Spotlight Meghalaya",
-  "Chittoor Vaduthala",
-  "Building India",
-  "Argentina Falklands"
+  "Needs Bihar",
+  "Cash Former",
+  "Bihar State",
+  "National News",
+  "Witkoff Kushner",
+  "Building India"
  ],
  "sections": [
   {
@@ -127,7 +128,7 @@
      "id": "075a91c8a3d1",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "544 between SCMS, Kalamassery, and JLN"
      ]
@@ -147,10 +148,32 @@
      "from_section": "National News"
     },
     {
+     "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+     "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
+     "published": "2026-09-05T21:23:06+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788643368.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "1f5eb3fe9576",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "US envoys meet Putin in Moscow for Ukraine talks",
+       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+       "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
      "title": "US envoys meet Putin in Moscow for Ukraine talks",
      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
      "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-     "published": "2026-09-05T20:15:49+00:00",
+     "published": "2026-09-05T21:39:02+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7d/live/1a5083e0-a953-11f1-adf0-6d46cbf5ba37.png",
@@ -172,25 +195,11 @@
      "id": "81792e1134c3",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "342 complete training at OTA; commissioned",
       "17 from seven friendly foreign countries"
      ]
-    },
-    {
-     "title": "How much can Canada fight back in its trade war with the US?",
-     "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-     "published": "2026-09-05T02:13:21+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b5/live/459265a0-a8c2-11f1-a051-bbe11131eba6.jpg",
-     "licence": "linkout",
-     "id": "ee1a1164e1ae",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Business"
     },
     {
      "title": "Why is Argentina reigniting the Falklands dispute?",
@@ -287,20 +296,6 @@
      ]
     },
     {
-     "title": "What different world maps get right - and what they get wrong",
-     "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-     "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-     "published": "2026-09-05T16:14:24+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/d224a510-a92f-11f1-bb81-8fbd2d2d397c.jpg",
-     "licence": "linkout",
-     "id": "24fd29acb2ee",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
-    },
-    {
      "title": "China to proceed with Brahmaputra mega dam despite new concerns",
      "url": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece",
      "summary": "Dubbed the ‘project of the century’ by Beijing, it has been included in China’s 15th Five-Year Plan for renewable energy; of concern to India is the impact it could have downstream, particularly in the aftermath of the recent devastating flash flood along the Nepal-China border",
@@ -331,9 +326,9 @@
     {
      "title": "India news: 275 Indians still missing in Nepal floods",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVQzSzZ2VDVzTjVLSXdHUDBIaEV0OXBGVWRUMWQtQkFTbHViQVZ5ajZ4b2h2bmhGb3loVmJORFJ2SkFQTi1pcV9uaDRHMlJQNG5lU0VudXhDWXR1Q09QR2k2ejZ4cXpQall5STJUMVB3MVFzdDRFWlBzV2c4eDRzdGFxLWlSVU9WZ3V6UlNNMkNXdw?oc=5",
-     "summary": "India news: 275 Indians still missing in Nepal floods DW.com",
+     "summary": "India news: 275 Indians still missing in Nepal floods dw.com",
      "published": "2026-09-05T07:19:47+00:00",
-     "source": "DW.com",
+     "source": "dw.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -376,9 +371,9 @@
     {
      "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
-     "summary": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? The Guardian",
+     "summary": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? theguardian.com",
      "published": "2026-09-05T07:00:00+00:00",
-     "source": "The Guardian",
+     "source": "theguardian.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -442,6 +437,42 @@
      ]
     },
     {
+     "title": "CBI Now Needs Bihar Govt Nod to Probe State Government Employees",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRk5QRlVlNVhCSDFkQkwybjhrUkpkeDY0VUtqMTcxenB2al9vRHJIV1l0TTFGSEU3RElmMkF4WEY5ZlNxajVKT0I2NHpuOEo4WlpOWFJZcFlNRmF3UlFuMEp0MTJEcmxhdDNDVHV6T0hiS1NraHJMSzd1aVhXZDMwRnBQcmp4SDJpSEUzR29FLW9XQQ?oc=5",
+     "summary": "CBI Now Needs Bihar Govt Nod to Probe State Government Employees indianmasterminds.com",
+     "published": "2026-09-05T14:08:40+00:00",
+     "source": "indianmasterminds.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "546b4449e2d2",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
+       "url": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece",
+       "summary": "However, the notification issued by the Bihar Home Department on September 3, 2026, clearly stated that the CBI will not require permission from the State government to take action against Central Government employees"
+      }
+     ],
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
+     "url": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece",
+     "summary": "However, the notification issued by the Bihar Home Department on September 3, 2026, clearly stated that the CBI will not require permission from the State government to take action against Central Government employees",
+     "published": "2026-09-05T21:52:37+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/tav0yv/article71433478.ece/alternates/LANDSCAPE_1200/cbi.png",
+     "licence": "linkout",
+     "id": "2a5bfc56c740",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News"
+    },
+    {
      "title": "Spotlight on illegal coal trade in Meghalaya after truck accident",
      "url": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece",
      "summary": "A High Court-constituted panel has sought a detailed inquiry into whether the coal transported in the truck was legally auctioned or illegally mined",
@@ -454,34 +485,6 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "National News"
-    },
-    {
-     "title": "Manipur tribe body seeks ‘impartial’ NIA probe in killing of three church leaders",
-     "url": "https://www.thehindu.com/news/national/manipur/manipur-tribe-body-seeks-impartial-nia-probe-in-killing-of-three-church-leaders/article71432079.ece",
-     "summary": "The Thadou Inpi Manipur resents the sloth in the probe and says the lack of publicly known arrests has raised concerns about the transparency and credibility of the investigation",
-     "published": "2026-09-05T19:58:26+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yv6ykl/article71433356.ece/alternates/LANDSCAPE_1200/20260828132L.jpg",
-     "licence": "linkout",
-     "id": "dedc3b522bc8",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News"
-    },
-    {
-     "title": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakYzelAwQ0NQMEM3bEw3bUpTbkt5QWRSSkdnLThDeHFvMkZqWXN2em9lZzVLalc1TlBqbWhNSjBZOFdVN3ZRY2dKZkxxWXB6Q0NxNlh5eTZmRWxiMVZBM1dCeEVDV0ZTNXU3aU9HYkVveVhxQm0tWjdZUXgtLWFuMVZjbDk0SElpZjUxZkhFdURlUmYyem82dzNRSE5aaXo3WmhaQkhza3FjMDRHZXJrSjlvV2dFQjJRbDZkSGtBSlc0Q1hVemhsYU5fZ3FVMHdCZjg0U3BuRWZ5QdIB3wFBVV95cUxORFRINWFVM3Voc3lPeUl0Tmt4MGNqREttRUg0dWU2LUZJbzRkaTdub0liWXVsOFNkUHFDT3EwUWpVMS1lUlp4NlpPQ2dHcGhNN0w2WjVXZWZ6VEM2MVRUbWtha0doNnEwOWxTSG4wQmJxaW00X1RLTXpkY2YyaF9CUHdHRU15ZTRETXY3UlN6VlZsQTEwTTViWXpGLWRBUzVjR3N3TkE2cFBRZHktSy1iTkhkTjJuM3JhZTc4SHlRdUFDb3RyQXVaZXM3NEQwOVAtcl9Panl3b3B0S3g0d0dF?oc=5",
-     "summary": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt ETV Bharat",
-     "published": "2026-09-05T12:16:20+00:00",
-     "source": "ETV Bharat",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "6b97ff6cd312",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
     }
    ]
   },
@@ -497,7 +500,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-05T21:31:25.567229+00:00",
+     "published": "2026-09-05T22:01:39.497845+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -508,7 +511,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-05T21:31:25.567244+00:00",
+     "published": "2026-09-05T22:01:39.497860+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -519,7 +522,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-05T21:31:25.567249+00:00",
+     "published": "2026-09-05T22:01:39.497864+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -530,7 +533,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-05T21:31:25.567252+00:00",
+     "published": "2026-09-05T22:01:39.497867+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -541,7 +544,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-05T21:31:25.567256+00:00",
+     "published": "2026-09-05T22:01:39.497870+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -552,7 +555,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-05T21:31:25.567259+00:00",
+     "published": "2026-09-05T22:01:39.497873+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -781,35 +784,25 @@
    "upsc": false,
    "items": [
     {
-     "title": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakYzelAwQ0NQMEM3bEw3bUpTbkt5QWRSSkdnLThDeHFvMkZqWXN2em9lZzVLalc1TlBqbWhNSjBZOFdVN3ZRY2dKZkxxWXB6Q0NxNlh5eTZmRWxiMVZBM1dCeEVDV0ZTNXU3aU9HYkVveVhxQm0tWjdZUXgtLWFuMVZjbDk0SElpZjUxZkhFdURlUmYyem82dzNRSE5aaXo3WmhaQkhza3FjMDRHZXJrSjlvV2dFQjJRbDZkSGtBSlc0Q1hVemhsYU5fZ3FVMHdCZjg0U3BuRWZ5QdIB3wFBVV95cUxORFRINWFVM3Voc3lPeUl0Tmt4MGNqREttRUg0dWU2LUZJbzRkaTdub0liWXVsOFNkUHFDT3EwUWpVMS1lUlp4NlpPQ2dHcGhNN0w2WjVXZWZ6VEM2MVRUbWtha0doNnEwOWxTSG4wQmJxaW00X1RLTXpkY2YyaF9CUHdHRU15ZTRETXY3UlN6VlZsQTEwTTViWXpGLWRBUzVjR3N3TkE2cFBRZHktSy1iTkhkTjJuM3JhZTc4SHlRdUFDb3RyQXVaZXM3NEQwOVAtcl9Panl3b3B0S3g0d0dF?oc=5",
-     "summary": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt ETV Bharat",
-     "published": "2026-09-05T12:16:20+00:00",
-     "source": "ETV Bharat",
+     "title": "CBI Now Needs Bihar Govt Nod to Probe State Government Employees",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRk5QRlVlNVhCSDFkQkwybjhrUkpkeDY0VUtqMTcxenB2al9vRHJIV1l0TTFGSEU3RElmMkF4WEY5ZlNxajVKT0I2NHpuOEo4WlpOWFJZcFlNRmF3UlFuMEp0MTJEcmxhdDNDVHV6T0hiS1NraHJMSzd1aVhXZDMwRnBQcmp4SDJpSEUzR29FLW9XQQ?oc=5",
+     "summary": "CBI Now Needs Bihar Govt Nod to Probe State Government Employees indianmasterminds.com",
+     "published": "2026-09-05T14:08:40+00:00",
+     "source": "indianmasterminds.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "6b97ff6cd312",
+     "id": "546b4449e2d2",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
+       "url": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece",
+       "summary": "However, the notification issued by the Bihar Home Department on September 3, 2026, clearly stated that the CBI will not require permission from the State government to take action against Central Government employees"
+      }
+     ],
      "category": "mystery",
      "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGd0MHNnMkhGT1JzQWhIdnI0Qk83OVVqSnJJekgwNU5lYWpQVGhWY0FiOWVTQ2ZSUXBnSEF3YV9Tcnk4Z1E3VGQzSkoyVHlITGtpT3lMbGtWTUp4QmF6N0VzN2hBRFQ3SlJvS0R0b1hTNnBYMDhiMEN4dTJ5dnVteERFWUZOQmtxQnFFeXdwZUY2SDJCTUVCTE1hNXRoSGNQRHZiUHo3TVRQSUJwMllfNGNuVmJfZjR2eEJFTUthS0IwWVJTeVQwMkxUR0E1cVdkTUpWYtIB2gFBVV95cUxOZGN5dXpZRFpLSjdrVzZ4enZpbERVeHVMRXJuY2NJRnhiT2F1aWxab0ZoOU80dVhyZ19fbGpLYy1Qd29GSzV1VGlMMk00QzZPNHRiX1Z3YkNYN09MYWtaVXdkc2RUN3pfOGFKM09tWHFFeE9Nbllfd3QzLVpORGVxaWl0UkFRSGI5ZUlnUjB0c2Y5djhaN3NyM1RsUlUtcERuRVhUZi0ycmJ4SWRkaF9HVjk1Y1JVLWEzeDhGc1FLTUUwb2V4MGNBeDJ5WE1KV3hZeHJFWWhmT3R5dw?oc=5",
-     "summary": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted The Statesman",
-     "published": "2026-09-05T05:19:00+00:00",
-     "source": "The Statesman",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "937e92d391bb",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "Rs 504 -crore Haryana govt funds",
-      "19 chargesheeted",
-      "19 chargesheeted The Statesman"
-     ]
     },
     {
      "title": "Cash-for-jobs scam: Former Tamil Nadu minister KN Nehru’s home, other premises searched",
@@ -848,6 +841,32 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
+     "url": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece",
+     "summary": "However, the notification issued by the Bihar Home Department on September 3, 2026, clearly stated that the CBI will not require permission from the State government to take action against Central Government employees",
+     "published": "2026-09-05T21:52:37+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/tav0yv/article71433478.ece/alternates/LANDSCAPE_1200/cbi.png",
+     "licence": "linkout",
+     "id": "2a5bfc56c740",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "VTU asks principals of engineering colleges to dedicate time slots for student interaction and grievance redressal",
+     "url": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece",
+     "summary": "The colleges have been asked to maintain a grievance log book. In the log book, the principal must record the date, brief nature of the grievance/query, and the action taken or resolution provided, wherever applicable.",
+     "published": "2026-09-05T21:35:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "33f1f96594f7",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Spotlight on illegal coal trade in Meghalaya after truck accident",
      "url": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece",
@@ -925,6 +944,27 @@
    "upsc": false,
    "items": [
     {
+     "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+     "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
+     "published": "2026-09-05T21:23:06+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788643368.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "1f5eb3fe9576",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "US envoys meet Putin in Moscow for Ukraine talks",
+       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+       "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
      "title": "Building collapses after heavy rain in northern India",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
      "summary": "A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.",
@@ -949,40 +989,6 @@
      "id": "d3e40f4119cf",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups",
-     "url": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-     "summary": "Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip.",
-     "published": "2026-09-05T20:04:30+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26137505562052-1788636908.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "f80cacbc0f72",
-     "also": [
-      {
-       "source": "NDTV Sports",
-       "title": "Erling Haaland Keeps New-Look Manchester City Perfect In Premier League, Blunt Spurs Held",
-       "url": "https://sports.ndtv.com/football/erling-haaland-keeps-new-look-manchester-city-perfect-in-premier-league-blunt-spurs-held-12006975#publisher=newsstand",
-       "summary": "New-look Manchester City overcame a spirited challenge from Coventry on Saturday courtesy of an Erling Haaland goal to stay perfect in the Premier League, as blunt Tottenham were held to a goalless draw at Nottingham…"
-      }
-     ],
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
-     "summary": "Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority",
-     "published": "2026-09-05T20:00:05+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788638339.jpg?resize=1911%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "d2320a3118d3",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
@@ -1020,6 +1026,19 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cea5/live/8e7be190-a905-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
      "id": "07da5d49e7cb",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Prince William to attend King Harald's funeral in Norway",
+     "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+     "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+     "published": "2026-09-05T21:00:02+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg",
+     "licence": "linkout",
+     "id": "5ef7d8508952",
      "category": "general",
      "category_label": "General"
     }
@@ -1066,6 +1085,40 @@
    "upsc": false,
    "items": [
     {
+     "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
+     "url": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece",
+     "summary": "However, the notification issued by the Bihar Home Department on September 3, 2026, clearly stated that the CBI will not require permission from the State government to take action against Central Government employees",
+     "published": "2026-09-05T21:52:37+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/tav0yv/article71433478.ece/alternates/LANDSCAPE_1200/cbi.png",
+     "licence": "linkout",
+     "id": "2a5bfc56c740",
+     "also": [
+      {
+       "source": "indianmasterminds.com",
+       "title": "CBI Now Needs Bihar Govt Nod to Probe State Government Employees",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRk5QRlVlNVhCSDFkQkwybjhrUkpkeDY0VUtqMTcxenB2al9vRHJIV1l0TTFGSEU3RElmMkF4WEY5ZlNxajVKT0I2NHpuOEo4WlpOWFJZcFlNRmF3UlFuMEp0MTJEcmxhdDNDVHV6T0hiS1NraHJMSzd1aVhXZDMwRnBQcmp4SDJpSEUzR29FLW9XQQ?oc=5",
+       "summary": "CBI Now Needs Bihar Govt Nod to Probe State Government Employees indianmasterminds.com"
+      }
+     ],
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "VTU asks principals of engineering colleges to dedicate time slots for student interaction and grievance redressal",
+     "url": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece",
+     "summary": "The colleges have been asked to maintain a grievance log book. In the log book, the principal must record the date, brief nature of the grievance/query, and the action taken or resolution provided, wherever applicable.",
+     "published": "2026-09-05T21:35:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "33f1f96594f7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Spotlight on illegal coal trade in Meghalaya after truck accident",
      "url": "https://www.thehindu.com/news/national/meghalaya/spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-accident/article71432293.ece",
      "summary": "A High Court-constituted panel has sought a detailed inquiry into whether the coal transported in the truck was legally auctioned or illegally mined",
@@ -1077,58 +1130,6 @@
      "id": "4be69f31e085",
      "category": "mystery",
      "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "MLA seeks steps to address water shortage in Chittoor, Vaduthala areas",
-     "url": "https://www.thehindu.com/news/national/kerala/mla-seeks-steps-to-address-water-shortage-in-chittoor-vaduthala-areas/article71433057.ece",
-     "summary": "Drinking water supply in Chittoor and Vaduthala areas has been significantly disrupted for nearly a month, causing immense difficulty to residents.",
-     "published": "2026-09-05T19:59:30+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "72b1da12572e",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Manipur tribe body seeks ‘impartial’ NIA probe in killing of three church leaders",
-     "url": "https://www.thehindu.com/news/national/manipur/manipur-tribe-body-seeks-impartial-nia-probe-in-killing-of-three-church-leaders/article71432079.ece",
-     "summary": "The Thadou Inpi Manipur resents the sloth in the probe and says the lack of publicly known arrests has raised concerns about the transparency and credibility of the investigation",
-     "published": "2026-09-05T19:58:26+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yv6ykl/article71433356.ece/alternates/LANDSCAPE_1200/20260828132L.jpg",
-     "licence": "linkout",
-     "id": "dedc3b522bc8",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Documentary on wildlife in Tamil Nadu to be screened from Monday",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/documentary-on-wildlife-in-tamil-nadu-to-be-screened-from-monday/article71432552.ece",
-     "summary": "",
-     "published": "2026-09-05T19:35:03+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/entertainment/movies/2euzfk/article71164817.ece/alternates/LANDSCAPE_1200/Wild%20Tamil%20Nadu%20-%20Official%20Poster.jpg.jpeg",
-     "licence": "linkout",
-     "id": "34659b2de837",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Second homes, lifestyle upgrades fuel interest at property expo",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/second-homes-lifestyle-upgrades-fuel-interest-at-property-expo/article71432227.ece",
-     "summary": "Young women were among the prominent visitors at the expo, with many exploring property options and looking to make their own real estate investments",
-     "published": "2026-09-05T19:30:20+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/g7yk7k/article71432577.ece/alternates/LANDSCAPE_1200/BVR_9884.JPG",
-     "licence": "linkout",
-     "id": "954ddcfb366f",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -1904,9 +1905,9 @@
     {
      "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
-     "summary": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? The Guardian",
+     "summary": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? theguardian.com",
      "published": "2026-09-05T07:00:00+00:00",
-     "source": "The Guardian",
+     "source": "theguardian.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
