@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T13:32:43.045396+00:00",
+ "generated_at": "2026-09-05T14:02:17.963130+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -84,15 +84,15 @@
   }
  ],
  "topics": [
-  "Houthi Yemen",
-  "Drunk Minor",
+  "Police Puttaparthi",
+  "Front Page",
   "Jazeera English",
   "News",
   "Prior Consent",
-  "Bangladesh World",
-  "Praja Seva",
-  "TNPCB Vinayagar",
-  "Africa",
+  "Haryana",
+  "Tsunami Thiruvananthapuram",
+  "Arsenal Chelsea",
+  "Stop England",
   "Nepal"
  ],
  "sections": [
@@ -102,6 +102,39 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Police arrest man in ₹17.45 lakh theft from Puttaparthi college",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-arrest-man-in-1745-lakh-theft-from-puttaparthi-college/article71431868.ece",
+     "summary": "According to the SP. the theft reportedly occurred on the night of July 23, when a three-member gang allegedly entered the accounts section from the back side of the building, broke open the almirah and fled with ₹17,45,450",
+     "published": "2026-09-05T13:57:12+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "b751fbbb01e5",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "₹17.45 lakh theft from Puttaparthi college",
+      "23, when a three-member gang allegedly",
+      "₹17,45,450"
+     ]
+    },
+    {
+     "title": "Man killed after compressor-tractor falls into quarry pit",
+     "url": "https://www.thehindu.com/news/national/kerala/man-killed-after-compressor-tractor-falls-into-quarry-pit/article71431875.ece",
+     "summary": "",
+     "published": "2026-09-05T13:48:44+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "94a596ee7c99",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
@@ -114,51 +147,6 @@
      "id": "fa0aeb30aa94",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Drunk Minor Molests Woman In Coimbatore, Stray Dogs Chase Him Away",
-     "url": "https://www.ndtv.com/india-news/drunk-minor-molests-woman-in-coimbatore-stray-dogs-chase-him-away-12006075#publisher=newsstand",
-     "summary": "According to police, the incident happened on September 3 near Thudiyalur in Coimbatore. The boy, 16, has been detained by the Coimbatore City Police and has been put in a Juvenile Home.",
-     "published": "2026-09-05T12:18:22+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ic9i324k_coimbatore_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "9f2b69e3c76c",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "3 near Thudiyalur in Coimbatore"
-     ]
-    },
-    {
-     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-     "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-     "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-     "published": "2026-09-04T22:48:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
-     "licence": "linkout",
-     "id": "ab7c59624980",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Yemen government launches own air attacks on Houthis: What that means",
-     "url": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss",
-     "summary": "A major Houthi offensive towards Bab al-Mandeb has triggered some of Yemen’s worst fighting in years.",
-     "published": "2026-09-05T12:43:38+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a99e0a8-1788469416_64e0cb-1788605892.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "b4d6f0014b64",
-     "category": "conflict",
-     "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
@@ -176,63 +164,60 @@
      "from_section": "Global News"
     },
     {
-     "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
-     "url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
-     "summary": "Huckabee labels some of the settlers committing violence as 'terrorists' though analysts say his visit is 'symbolic'.",
-     "published": "2026-09-05T12:04:52+00:00",
-     "source": "Al Jazeera",
+     "title": "How much can Canada fight back in its trade war with the US?",
+     "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+     "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+     "published": "2026-09-05T02:13:21+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9bd3772e52-1788597111.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b5/live/459265a0-a8c2-11f1-a051-bbe11131eba6.jpg",
      "licence": "linkout",
-     "id": "7175b6f5bcd9",
+     "id": "ee1a1164e1ae",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Global News"
+     "from_section": "Business"
     },
     {
-     "title": "Praja Seva Department launched to make administration responsive: Minister",
-     "url": "https://www.thehindu.com/news/national/karnataka/praja-seva-department-launched-to-make-administration-responsive-minister/article71431656.ece",
+     "title": "Shift hostel to better building, Minister instructs Social Welfare Department",
+     "url": "https://www.thehindu.com/news/national/karnataka/shift-hostel-to-better-building-minister-instructs-social-welfare-department/article71431829.ece",
      "summary": "",
-     "published": "2026-09-05T13:27:32+00:00",
+     "published": "2026-09-05T13:52:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/s6gwl1/article71432175.ece/alternates/LANDSCAPE_1200/2303_5_9_2026_17_29_23_1_PRAJASEVA.JPEG",
+     "image": "https://th-i.thgim.com/public/incoming/fo3v6a/article71432335.ece/alternates/LANDSCAPE_1200/9911_5_9_2026_16_49_45_1_SCHOOL_1.JPEG",
      "licence": "linkout",
-     "id": "85691372a31a",
+     "id": "e3c4c95bf0bc",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Punjab DA hike: Which govt employees will get jump from 42% to 60%? Check details here",
-     "url": "https://www.livemint.com/money/personal-finance/punjab-da-hike-85000-state-govt-employees-get-jump-42-pc-to-60-pc-recruit-after-17-july-2020-pay-matrix-cm-mann-approval-11788607129867.html",
-     "summary": "Punjab has proposed hiking dearness allowance of 85,000 state government employees from 42% to 60%, according to Cabinet Minister Aman Arora. Recommendation will be sent to CM Mann for final approval.&nbsp;",
-     "published": "2026-09-05T12:27:46+00:00",
-     "source": "Mint",
+     "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
+     "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
+     "summary": "Opposition Leader says there was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
+     "published": "2026-09-05T13:49:45+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/Punjab_DA_1788261144748_1788261174498_c774c8e1-abd7-497a-b6fc-041a79c52523_1788610940923_8e641954-f92b-44da-a4bf-75109f950cc1_180d031b-6660-406e-acd5-c0af8b35ecec_87e7e940-75c7-409e-a358-565c1a456d6d.png",
+     "image": "https://th-i.thgim.com/public/incoming/s5e9s/article71431507.ece/alternates/LANDSCAPE_1200/20260904026L.jpg",
      "licence": "linkout",
-     "id": "76f8ba3e7684",
+     "id": "a2c519d595fd",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Business",
-     "figures": [
-      "85,000 state government employees from 42%"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "Costa Rica’s president says US ground forces would boost national security",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/costa-ricas-president-says-us-ground-forces-would-boost-national-security?traffic_source=rss",
-     "summary": "Costa Rican President Laura Fernandez said US ground operations could boost national security.",
-     "published": "2026-09-05T12:09:56+00:00",
-     "source": "Al Jazeera",
+     "title": "Jagan demands CBI probe into alleged DSC-2025 recruitment scam",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-demands-cbi-probe-into-alleged-dsc-2025-recruitment-scam/article71432230.ece",
+     "summary": "YSRCP chief alleges suppression of voices questioning the recruitment process; demands restoration of restricted social media accounts and Lokesh’s resignation",
+     "published": "2026-09-05T13:48:05+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-13.06.26-1788610117.png?resize=1200%2C630",
+     "image": "https://th-i.thgim.com/public/incoming/vpp55v/article71432318.ece/alternates/LANDSCAPE_1200/79_-of-PolavaraGC7GFRLTL.3.jpg.jpg",
      "licence": "linkout",
-     "id": "0e30978e2270",
+     "id": "c0911c0c74af",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4%",
@@ -289,21 +274,18 @@
      ]
     },
     {
-     "title": "UN votes to adopt new world map to reflect Africa's true size",
-     "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
-     "published": "2026-09-05T00:53:11+00:00",
+     "title": "What different world maps get right - and what they get wrong",
+     "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+     "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+     "published": "2026-09-05T13:46:02+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/d224a510-a92f-11f1-bb81-8fbd2d2d397c.jpg",
      "licence": "linkout",
-     "id": "019b2f5a178c",
+     "id": "24fd29acb2ee",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "Global News",
-     "figures": [
-      "164 nations - with the US"
-     ]
+     "from_section": "Global News"
     },
     {
      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
@@ -320,18 +302,18 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "Blood samples from relatives of missing persons in Nepal floods collected",
-     "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/blood-samples-from-relatives-of-missing-persons-in-nepal-floods-collected/article71432013.ece",
-     "summary": "",
-     "published": "2026-09-05T13:18:42+00:00",
+     "title": "Tsunami mock drill held in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/tsunami-mock-drill-held-in-thiruvananthapuram/article71432171.ece",
+     "summary": "To test the institutional preparedness, inter-agency coordination and emergency response protocols in the event of a natural calamity",
+     "published": "2026-09-05T13:57:11+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/dv3d6h/article71432368.ece/alternates/LANDSCAPE_1200/NH17Valiyathura02.JPG",
      "licence": "linkout",
-     "id": "5f23e349fdff",
+     "id": "759d8cf3e59a",
      "category": "weather",
      "category_label": "Weather & disaster",
-     "from_section": "National Hotlines"
+     "from_section": "National News"
     },
     {
      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
@@ -404,63 +386,49 @@
      "from_section": "Technology"
     },
     {
-     "title": "Amid Repeated Injuries, BCCI Come Up With New 'Workshop' Plan. Details Revealed",
-     "url": "https://sports.ndtv.com/cricket/amid-repeated-injuries-bcci-come-up-with-new-workshop-plan-details-revealed-12005867#publisher=newsstand",
-     "summary": "The Board of Control for Cricket in India (BCCI) will send its operations team to a workshop on the Future Tours Programme (FTP) as part of its bid to widen the gap between international matches.",
-     "published": "2026-09-05T12:25:42+00:00",
+     "title": "Despite T20I Push, Vaibhav Sooryavanshi 'Currently' Not In India's Red-Ball Plans: Report",
+     "url": "https://sports.ndtv.com/cricket/despite-t20i-push-vaibhav-sooryavanshi-currently-not-in-indias-red-ball-plans-report-12006417#publisher=newsstand",
+     "summary": "aibhav Sooryavanshi is embarking on a series of cricket assignments starting Sunday",
+     "published": "2026-09-05T13:54:08+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7vpaeuik_jasprit-bumrah-hardik_625x300_05_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/dqs1h198_vaibhav-sooryavanshi-getty_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "2369c3c0e71e",
+     "id": "fde8729367da",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
     },
     {
-     "title": "On Drastic Switch From Duleep Trophy To T20Is, Tilak Varma And Ishan Kishan's Big Verdicts",
-     "url": "https://sports.ndtv.com/cricket/on-drastic-switch-from-duleep-trophy-to-t20is-tilak-varma-and-ishan-kishans-big-verdicts-12005820#publisher=newsstand",
-     "summary": "Tilak Varma and Ishan Kishan admitted that it is \"tough\" to join India's T20I squad for the three-match series against Afghanistan right after the Duleep Trophy final, but understood the need to adapt to the situation and as professional cricketers they can't offer \"excuses.\"",
-     "published": "2026-09-05T12:17:32+00:00",
+     "title": "Manav Suthar Stars With Seven-Wicket Haul As Warwickshire Crush Hampshire",
+     "url": "https://sports.ndtv.com/cricket/manav-suthar-stars-with-seven-wicket-haul-as-warwickshire-crush-hampshire-12006078#publisher=newsstand",
+     "summary": "India's newest spin-bowling star Manav Suthar picked up a match haul of seven wickets as Warwickshire defeated Hampshire by an innings and 129 runs in a Division One away game of the English County Championship.",
+     "published": "2026-09-05T13:34:51+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ihn8tvvs_tilak-varma-ishan-kishan_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/uc9lbcpg_manav-suthar-afp_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "5be17bc57091",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
-     "title": "230+ Graduates, 14 India Stars: The Success Story Of Sesa Football Academy",
-     "url": "https://sports.ndtv.com/cricket/230-graduates-14-india-stars-the-success-story-of-sesa-football-academy-12005962#publisher=newsstand",
-     "summary": "What began in 1999 on reclaimed mining land in Sankhali, building on the legacy of the Sesa Sports Club, has evolved into a robust football development programme",
-     "published": "2026-09-05T11:46:17+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/kaj9rgl4_ss_625x300_05_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "3fa73344a660",
+     "id": "ff67861d8fda",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports",
      "figures": [
-      "14 India Stars: The Success Story"
+      "129 runs in a Division One"
      ]
     },
     {
-     "title": "Expedite investigation of SC/ST atrocity cases to punish guilty at the earliest: CM",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/expedite-investigation-of-scst-atrocity-cases-to-punish-guilty-at-the-earliest-cm/article71432033.ece",
-     "summary": "Naidu calls for special study into high number of cases in Guntur, Anantapur, East Godavari and Prakasam districts, and stresses that the law should not be misused",
-     "published": "2026-09-05T13:19:45+00:00",
-     "source": "The Hindu",
+     "title": "Arsenal vs Chelsea: Premier League – prediction, teams, lineups",
+     "url": "https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss",
+     "summary": "Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.",
+     "published": "2026-09-05T13:20:42+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2292917953-1788610235.jpg?resize=1200%2C675",
      "licence": "linkout",
-     "id": "e86b53bc694e",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News"
+     "id": "6c2ee8e29432",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News"
     },
     {
      "title": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt",
@@ -490,7 +458,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-05T13:32:30.168503+00:00",
+     "published": "2026-09-05T14:02:04.824175+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -501,7 +469,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-05T13:32:30.168511+00:00",
+     "published": "2026-09-05T14:02:04.824186+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -512,7 +480,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-05T13:32:30.168515+00:00",
+     "published": "2026-09-05T14:02:04.824192+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -523,7 +491,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-05T13:32:30.168517+00:00",
+     "published": "2026-09-05T14:02:04.824197+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -534,7 +502,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-05T13:32:30.168519+00:00",
+     "published": "2026-09-05T14:02:04.824201+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -545,7 +513,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-05T13:32:30.168522+00:00",
+     "published": "2026-09-05T14:02:04.824205+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -565,35 +533,18 @@
      "category_label": "General"
     },
     {
-     "title": "India vs Pakistan Free Live Telecast, Women's Asia Cup 2026 LIVE Streaming: When And Where To Watch",
-     "url": "https://sports.ndtv.com/cricket/india-vs-pakistan-free-live-telecast-womens-asia-cup-2026-live-streaming-when-and-where-to-watch-12005862#publisher=newsstand",
-     "summary": "Women's Asia Cup 2026: India vs Pakistan live streaming and free live telecast details -",
-     "published": "2026-09-05T12:26:18+00:00",
+     "title": "India vs Pakistan LIVE Score, Women's Asia Cup 2026: Smriti Mandhana On Verge Of All-Time Record As India Face Pakistan",
+     "url": "https://sports.ndtv.com/cricket/india-vs-pakistan-live-score-womens-asia-cup-2026-ind-w-vs-pak-w-cricket-match-live-updates-scorecard-smriti-mandhana-harmanpreet-kaur-12006248#publisher=newsstand",
+     "summary": "India vs Pakistan Live Score, Women's Asia Cup Live Updates: India take on Pakistan in a blockbuster Group A game at Women's Asia Cup 2026.",
+     "published": "2026-09-05T13:37:02+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/n1lnsg8g_india-pakistan-afp_625x300_05_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/9qf0p8vc_india-vs-pakistan_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "d0e09a32137c",
+     "id": "b0438293f449",
      "kind": "liveblog",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "China Masters 2026 LIVE Streaming Badminton: When And Where To Watch Satwiksairaj Rankireddy/Chirag Shetty Semi-Final",
-     "url": "https://sports.ndtv.com/badminton/china-masters-2026-live-streaming-badminton-when-and-where-to-watch-satwiksairaj-rankireddy-chirag-shetty-semi-final-live-telecast-12005918#publisher=newsstand",
-     "summary": "China Masters 2026 LIVE Streaming Badminton: When And Where To Watch Satwiksairaj Rankireddy/Chirag Shetty Semi-Final",
-     "published": "2026-09-05T11:35:00+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-08/5g5ltu7g_satwik-chirag-afp_625x300_30_August_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "0947bc7f940f",
-     "kind": "liveblog",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "rs 2026  LIVE Streaming Badminton: When"
-     ]
     }
    ]
   },
@@ -615,19 +566,6 @@
      "id": "6b97ff6cd312",
      "category": "mystery",
      "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
-     "published": "2026-09-05T11:10:21+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "44ac1cfc8520",
-     "category": "sports",
-     "category_label": "Sports"
     },
     {
      "title": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted",
@@ -711,56 +649,48 @@
    "upsc": false,
    "items": [
     {
-     "title": "Praja Seva Department launched to make administration responsive: Minister",
-     "url": "https://www.thehindu.com/news/national/karnataka/praja-seva-department-launched-to-make-administration-responsive-minister/article71431656.ece",
-     "summary": "",
-     "published": "2026-09-05T13:27:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/s6gwl1/article71432175.ece/alternates/LANDSCAPE_1200/2303_5_9_2026_17_29_23_1_PRAJASEVA.JPEG",
-     "licence": "linkout",
-     "id": "85691372a31a",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "TNPCB asks public to opt for eco-friendly Vinayagar idols",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tnpcb-asks-public-to-opt-for-eco-friendly-vinayagar-idols/article71432081.ece",
-     "summary": "The guidelines issued ahead of the festival stipulate that only idols made of natural, biodegradable and eco-friendly materials such as traditional clay and mud should be used",
-     "published": "2026-09-05T13:26:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/grry2y/article71432209.ece/alternates/LANDSCAPE_1200/GANESH%20IDOL%20IMMERSION%20SEA%20SHORE%20ENVIORNMENT%20THREAT_16.jpg",
-     "licence": "linkout",
-     "id": "47a7aa32389d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Hyderabad airport bags three ACI World recognitions for passenger experience",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-airport-bags-three-aci-world-recognitions-for-passenger-experience/article71431517.ece",
-     "summary": "",
-     "published": "2026-09-05T13:25:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jbachb/article71431518.ece/alternates/LANDSCAPE_1200/pic%202%201.jpeg",
-     "licence": "linkout",
-     "id": "946b182020d3",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Home department in Keralam to launch second phase of ‘Operation Toofan’",
-     "url": "https://www.thehindu.com/news/national/kerala/home-department-in-keralam-to-launch-second-phase-of-operation-toofan/article71431933.ece",
-     "summary": "Local Self-Government department to be roped in for the anti-narcotics campaign",
-     "published": "2026-09-05T13:25:18+00:00",
+     "title": "Police arrest man in ₹17.45 lakh theft from Puttaparthi college",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-arrest-man-in-1745-lakh-theft-from-puttaparthi-college/article71431868.ece",
+     "summary": "According to the SP. the theft reportedly occurred on the night of July 23, when a three-member gang allegedly entered the accounts section from the back side of the building, broke open the almirah and fled with ₹17,45,450",
+     "published": "2026-09-05T13:57:12+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "91b6f1de337e",
-     "category": "general",
-     "category_label": "General"
+     "id": "b751fbbb01e5",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "₹17.45 lakh theft from Puttaparthi college",
+      "23, when a three-member gang allegedly",
+      "₹17,45,450"
+     ]
+    },
+    {
+     "title": "Tsunami mock drill held in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/tsunami-mock-drill-held-in-thiruvananthapuram/article71432171.ece",
+     "summary": "To test the institutional preparedness, inter-agency coordination and emergency response protocols in the event of a natural calamity",
+     "published": "2026-09-05T13:57:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/dv3d6h/article71432368.ece/alternates/LANDSCAPE_1200/NH17Valiyathura02.JPG",
+     "licence": "linkout",
+     "id": "759d8cf3e59a",
+     "category": "weather",
+     "category_label": "Weather & disaster"
+    },
+    {
+     "title": "Shift hostel to better building, Minister instructs Social Welfare Department",
+     "url": "https://www.thehindu.com/news/national/karnataka/shift-hostel-to-better-building-minister-instructs-social-welfare-department/article71431829.ece",
+     "summary": "",
+     "published": "2026-09-05T13:52:57+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/fo3v6a/article71432335.ece/alternates/LANDSCAPE_1200/9911_5_9_2026_16_49_45_1_SCHOOL_1.JPEG",
+     "licence": "linkout",
+     "id": "e3c4c95bf0bc",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Stepfather Can't Replace Biological Father On Birth Certificate: High Court",
@@ -819,6 +749,22 @@
      "id": "6f3a783abbb5",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Drunk Minor Molests Woman In Coimbatore, Stray Dogs Chase Him Away",
+     "url": "https://www.ndtv.com/india-news/drunk-minor-molests-woman-in-coimbatore-stray-dogs-chase-him-away-12006075#publisher=newsstand",
+     "summary": "According to police, the incident happened on September 3 near Thudiyalur in Coimbatore. The boy, 16, has been detained by the Coimbatore City Police and has been put in a Juvenile Home.",
+     "published": "2026-09-05T12:18:22+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/ic9i324k_coimbatore_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "9f2b69e3c76c",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "3 near Thudiyalur in Coimbatore"
+     ]
     }
    ]
   },
@@ -829,17 +775,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-     "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
-     "summary": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
-     "published": "2026-09-05T12:54:15+00:00",
+     "title": "Arsenal vs Chelsea: Premier League – prediction, teams, lineups",
+     "url": "https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss",
+     "summary": "Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.",
+     "published": "2026-09-05T13:20:42+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260905__C7EW4UG__v1__HighRes__YemenIranUsIsraelWarHouthis-1788609687.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2292917953-1788610235.jpg?resize=1200%2C675",
      "licence": "linkout",
-     "id": "fa0aeb30aa94",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "6c2ee8e29432",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "‘Stop the boats’ masked protesters block England’s Port of Dover",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss",
+     "summary": "Masked protesters blocked major roads around England’s Port of Dover on Saturday.",
+     "published": "2026-09-05T13:09:24+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-14.05.38-1788613635.png?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "716cecde0e69",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+     "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
+     "summary": "Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.",
+     "published": "2026-09-05T13:07:36+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9c13e2-1788613602.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "6c672dc200ee",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "How big is Africa really? Why the UN voted to change the world map",
@@ -855,17 +827,17 @@
      "category_label": "General"
     },
     {
-     "title": "Yemen government launches own air attacks on Houthis: What that means",
-     "url": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss",
-     "summary": "A major Houthi offensive towards Bab al-Mandeb has triggered some of Yemen’s worst fighting in years.",
-     "published": "2026-09-05T12:43:38+00:00",
-     "source": "Al Jazeera",
+     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+     "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+     "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+     "published": "2026-09-04T22:48:38+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a99e0a8-1788469416_64e0cb-1788605892.jpg?resize=1200%2C630&quality=80",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
      "licence": "linkout",
-     "id": "b4d6f0014b64",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "ab7c59624980",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -949,73 +921,74 @@
    "upsc": false,
    "items": [
     {
-     "title": "Praja Seva Department launched to make administration responsive: Minister",
-     "url": "https://www.thehindu.com/news/national/karnataka/praja-seva-department-launched-to-make-administration-responsive-minister/article71431656.ece",
-     "summary": "",
-     "published": "2026-09-05T13:27:32+00:00",
+     "title": "Police arrest man in ₹17.45 lakh theft from Puttaparthi college",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-arrest-man-in-1745-lakh-theft-from-puttaparthi-college/article71431868.ece",
+     "summary": "According to the SP. the theft reportedly occurred on the night of July 23, when a three-member gang allegedly entered the accounts section from the back side of the building, broke open the almirah and fled with ₹17,45,450",
+     "published": "2026-09-05T13:57:12+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/s6gwl1/article71432175.ece/alternates/LANDSCAPE_1200/2303_5_9_2026_17_29_23_1_PRAJASEVA.JPEG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "85691372a31a",
+     "id": "b751fbbb01e5",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "₹17.45 lakh theft from Puttaparthi college",
+      "23, when a three-member gang allegedly",
+      "₹17,45,450"
+     ]
+    },
+    {
+     "title": "Tsunami mock drill held in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/tsunami-mock-drill-held-in-thiruvananthapuram/article71432171.ece",
+     "summary": "To test the institutional preparedness, inter-agency coordination and emergency response protocols in the event of a natural calamity",
+     "published": "2026-09-05T13:57:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/dv3d6h/article71432368.ece/alternates/LANDSCAPE_1200/NH17Valiyathura02.JPG",
+     "licence": "linkout",
+     "id": "759d8cf3e59a",
+     "category": "weather",
+     "category_label": "Weather & disaster"
+    },
+    {
+     "title": "Shift hostel to better building, Minister instructs Social Welfare Department",
+     "url": "https://www.thehindu.com/news/national/karnataka/shift-hostel-to-better-building-minister-instructs-social-welfare-department/article71431829.ece",
+     "summary": "",
+     "published": "2026-09-05T13:52:57+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/fo3v6a/article71432335.ece/alternates/LANDSCAPE_1200/9911_5_9_2026_16_49_45_1_SCHOOL_1.JPEG",
+     "licence": "linkout",
+     "id": "e3c4c95bf0bc",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "TNPCB asks public to opt for eco-friendly Vinayagar idols",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tnpcb-asks-public-to-opt-for-eco-friendly-vinayagar-idols/article71432081.ece",
-     "summary": "The guidelines issued ahead of the festival stipulate that only idols made of natural, biodegradable and eco-friendly materials such as traditional clay and mud should be used",
-     "published": "2026-09-05T13:26:35+00:00",
+     "title": "KRMB asks Telangana stop water drawal for power generation at Srisailam",
+     "url": "https://www.thehindu.com/news/national/telangana/krmb-asks-telangana-stop-water-drawal-for-power-generation-at-srisailam/article71431879.ece",
+     "summary": "It ignores huge volume of water drawal by A.P. without its approval since Aug. 10",
+     "published": "2026-09-05T13:46:12+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/grry2y/article71432209.ece/alternates/LANDSCAPE_1200/GANESH%20IDOL%20IMMERSION%20SEA%20SHORE%20ENVIORNMENT%20THREAT_16.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "47a7aa32389d",
+     "id": "f130459fcf84",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Hyderabad airport bags three ACI World recognitions for passenger experience",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-airport-bags-three-aci-world-recognitions-for-passenger-experience/article71431517.ece",
+     "title": "State govt. committed to ensuring life of dignity, self-respect for underprivileged, says Sharan Prakash Patil",
+     "url": "https://www.thehindu.com/news/national/karnataka/state-govt-committed-to-ensuring-life-of-dignity-self-respect-for-underprivileged-says-sharan-prakash-patil/article71431707.ece",
      "summary": "",
-     "published": "2026-09-05T13:25:49+00:00",
+     "published": "2026-09-05T13:45:27+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jbachb/article71431518.ece/alternates/LANDSCAPE_1200/pic%202%201.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/4s3i3k/article71432313.ece/alternates/LANDSCAPE_1200/YDRKN_5_9_2026_16_22_47_2_IMG_20260905_WA0064.JPG",
      "licence": "linkout",
-     "id": "946b182020d3",
+     "id": "e0a017aeb52c",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "AP-Transco mulls drone patrolling to assess health of transmission assets",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-transco-mulls-drone-patrolling-to-assess-health-of-transmission-assets/article71428413.ece",
-     "summary": "It invites tenders from the DGCA-compliant drone service providers to deploy unmanned aerial vehicles for preventive maintenance on a pilot basis",
-     "published": "2026-09-05T13:19:21+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/sw77se/article71429331.ece/alternates/LANDSCAPE_1200/02Drone.jpg",
-     "licence": "linkout",
-     "id": "0b8ec3b023f2",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Four held after 25 thefts across Nirmal, 12 kg silver recovered",
-     "url": "https://www.thehindu.com/news/national/telangana/four-held-after-25-thefts-across-nirmal-12-kg-silver-recovered/article71431788.ece",
-     "summary": "",
-     "published": "2026-09-05T13:12:14+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/fr63e4/article71431785.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2014.45.29.jpeg",
-     "licence": "linkout",
-     "id": "aca409ab5095",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "25 thefts across Nirmal, 12 kg",
-      "12 kg silver recovered"
-     ]
     },
     {
      "title": "School Assembly News Headlines (September 5): Top National, International, Sports News",
@@ -1691,17 +1664,20 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "How much can Canada fight back in its trade war with the US?",
-     "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-     "published": "2026-09-05T02:13:21+00:00",
-     "source": "BBC News",
+     "title": "Punjab DA hike: Which govt employees will get jump from 42% to 60%? Check details here",
+     "url": "https://www.livemint.com/money/personal-finance/punjab-da-hike-85000-state-govt-employees-get-jump-42-pc-to-60-pc-recruit-after-17-july-2020-pay-matrix-cm-mann-approval-11788607129867.html",
+     "summary": "Punjab has proposed hiking dearness allowance of 85,000 state government employees from 42% to 60%, according to Cabinet Minister Aman Arora. Recommendation will be sent to CM Mann for final approval.&nbsp;",
+     "published": "2026-09-05T12:27:46+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b5/live/459265a0-a8c2-11f1-a051-bbe11131eba6.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/Punjab_DA_1788261144748_1788261174498_c774c8e1-abd7-497a-b6fc-041a79c52523_1788610940923_8e641954-f92b-44da-a4bf-75109f950cc1_180d031b-6660-406e-acd5-c0af8b35ecec_87e7e940-75c7-409e-a358-565c1a456d6d.png",
      "licence": "linkout",
-     "id": "ee1a1164e1ae",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "76f8ba3e7684",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "85,000 state government employees from 42%"
+     ]
     },
     {
      "title": "7th Pay Commission DA hike: What is AICPI-IW? Why it matters so much for amount calculation for central govt employees",
@@ -1828,56 +1804,92 @@
    "upsc": false,
    "items": [
     {
-     "title": "India vs Pakistan Free Live Telecast, Women's Asia Cup 2026 LIVE Streaming: When And Where To Watch",
-     "url": "https://sports.ndtv.com/cricket/india-vs-pakistan-free-live-telecast-womens-asia-cup-2026-live-streaming-when-and-where-to-watch-12005862#publisher=newsstand",
-     "summary": "Women's Asia Cup 2026: India vs Pakistan live streaming and free live telecast details -",
-     "published": "2026-09-05T12:26:18+00:00",
+     "title": "Despite T20I Push, Vaibhav Sooryavanshi 'Currently' Not In India's Red-Ball Plans: Report",
+     "url": "https://sports.ndtv.com/cricket/despite-t20i-push-vaibhav-sooryavanshi-currently-not-in-indias-red-ball-plans-report-12006417#publisher=newsstand",
+     "summary": "aibhav Sooryavanshi is embarking on a series of cricket assignments starting Sunday",
+     "published": "2026-09-05T13:54:08+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/n1lnsg8g_india-pakistan-afp_625x300_05_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/dqs1h198_vaibhav-sooryavanshi-getty_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "d0e09a32137c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Amid Repeated Injuries, BCCI Come Up With New 'Workshop' Plan. Details Revealed",
-     "url": "https://sports.ndtv.com/cricket/amid-repeated-injuries-bcci-come-up-with-new-workshop-plan-details-revealed-12005867#publisher=newsstand",
-     "summary": "The Board of Control for Cricket in India (BCCI) will send its operations team to a workshop on the Future Tours Programme (FTP) as part of its bid to widen the gap between international matches.",
-     "published": "2026-09-05T12:25:42+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7vpaeuik_jasprit-bumrah-hardik_625x300_05_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "2369c3c0e71e",
+     "id": "fde8729367da",
      "category": "sports",
      "category_label": "Sports"
     },
     {
-     "title": "On Drastic Switch From Duleep Trophy To T20Is, Tilak Varma And Ishan Kishan's Big Verdicts",
-     "url": "https://sports.ndtv.com/cricket/on-drastic-switch-from-duleep-trophy-to-t20is-tilak-varma-and-ishan-kishans-big-verdicts-12005820#publisher=newsstand",
-     "summary": "Tilak Varma and Ishan Kishan admitted that it is \"tough\" to join India's T20I squad for the three-match series against Afghanistan right after the Duleep Trophy final, but understood the need to adapt to the situation and as professional cricketers they can't offer \"excuses.\"",
-     "published": "2026-09-05T12:17:32+00:00",
+     "title": "India vs Pakistan LIVE Score, Women's Asia Cup 2026: Smriti Mandhana On Verge Of All-Time Record As India Face Pakistan",
+     "url": "https://sports.ndtv.com/cricket/india-vs-pakistan-live-score-womens-asia-cup-2026-ind-w-vs-pak-w-cricket-match-live-updates-scorecard-smriti-mandhana-harmanpreet-kaur-12006248#publisher=newsstand",
+     "summary": "India vs Pakistan Live Score, Women's Asia Cup Live Updates: India take on Pakistan in a blockbuster Group A game at Women's Asia Cup 2026.",
+     "published": "2026-09-05T13:37:02+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ihn8tvvs_tilak-varma-ishan-kishan_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/9qf0p8vc_india-vs-pakistan_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "5be17bc57091",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Shot Putter Tajinderpal Singh Toor Targets 22m Throw, Wants To Raise Bar Like Neeraj Chopra In Javelin",
-     "url": "https://sports.ndtv.com/athletics/shot-putter-tajinderpal-singh-toor-targets-22m-throw-wants-to-raise-bar-like-neeraj-chopra-in-javelin-12005677#publisher=newsstand",
-     "summary": "India's most accomplished shot putter Tajinderpal Singh Toor wants to breach the long-awaited 22m barrier and set a benchmark for the next generation much like Neeraj Chopra has raised the bar for the country's javelin throwers.",
-     "published": "2026-09-05T12:13:38+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/cvv459bc_neeraj-chopra-and-tajinderpal-singh-toor_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "8f817236f40d",
+     "id": "b0438293f449",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Manav Suthar Stars With Seven-Wicket Haul As Warwickshire Crush Hampshire",
+     "url": "https://sports.ndtv.com/cricket/manav-suthar-stars-with-seven-wicket-haul-as-warwickshire-crush-hampshire-12006078#publisher=newsstand",
+     "summary": "India's newest spin-bowling star Manav Suthar picked up a match haul of seven wickets as Warwickshire defeated Hampshire by an innings and 129 runs in a Division One away game of the English County Championship.",
+     "published": "2026-09-05T13:34:51+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/uc9lbcpg_manav-suthar-afp_625x300_20_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ff67861d8fda",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "129 runs in a Division One"
+     ]
+    },
+    {
+     "title": "BCCI Told To Get Rid Of Impact Player Rule By Four-Time IPL Winner: \"How Will You Improve?\"",
+     "url": "https://sports.ndtv.com/cricket/bcci-told-to-get-rid-of-impact-player-rule-by-four-time-ipl-winner-how-will-you-improve-12004926#publisher=newsstand",
+     "summary": "Since its introduction, several players, including former India captains Virat Kohli and Rohit Sharma, have voiced their displeasure with the rule.",
+     "published": "2026-09-05T13:12:58+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-05/41ksnsko_rohit-sharma-bcci_625x300_05_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3c562b7ea311",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Suresh Raina Drops Bombshell On India Ouster During Virat Kohli-Anil Kumble Era",
+     "url": "https://sports.ndtv.com/cricket/suresh-raina-drops-bombshell-on-india-ouster-during-virat-kohli-anil-kumble-era-looking-for-a-reason-12004617#publisher=newsstand",
+     "summary": "Suresh Raina retired from international cricket in 2020 at the age of 33 after being left out of India's squad for the 2019 ODI World Cup in England.",
+     "published": "2026-09-05T12:58:00+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/csdsajf8_virat-kohli-suresh-raina-afp_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b8549fbd3346",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "33 after being left out"
+     ]
+    },
+    {
+     "title": "Smriti Mandhana 78 Runs Away From Achieving Another All-Time Record, Can Do It vs Pakistan",
+     "url": "https://sports.ndtv.com/cricket/smriti-mandhana-78-runs-away-from-achieving-another-all-time-record-can-do-it-vs-pakistan-12005829#publisher=newsstand",
+     "summary": "Indian vice-captain and superstar batter Smriti Mandhana could add another feather to her cap against arch-rivals Pakistan, as she stands just 78 runs away from overtaking New Zealand legend Suzie Bates as the highest run-getter in women's T20Is.",
+     "published": "2026-09-05T12:38:30+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/0rbikf78_smriti-mandhana_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "651e6bbad34f",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "78 Runs Away From Achieving Another",
+      "78 runs away from overtaking New"
+     ]
     }
    ]
   },
