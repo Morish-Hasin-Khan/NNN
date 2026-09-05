@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T11:02:11.557226+00:00",
+ "generated_at": "2026-09-05T11:32:34.803028+00:00",
  "podcasts_fetched_at": "2026-09-03T22:01:45.442042+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "MDMA Mattancherry",
-  "Assault Podcast",
+  "Special Court",
+  "Around Assam",
   "Jazeera English",
   "News",
   "Haryana",
   "Monday",
-  "Auto Telangana",
-  "Russian Ukraine",
-  "Trump Iran",
-  "Nepal"
+  "President India",
+  "While West",
+  "Mudslide China",
+  "Russian Ukraine"
  ],
  "sections": [
   {
@@ -103,50 +103,56 @@
    "upsc": false,
    "items": [
     {
-     "title": "2 kg of suspected MDMA seized in Mattancherry in Keralam originated from Delhi: police",
-     "url": "https://www.thehindu.com/news/national/kerala/2-kg-of-suspected-mdma-seized-in-mattancherry-in-keralam-originated-from-delhi-police/article71431401.ece",
-     "summary": "Sources with the anti-narcotic wing of Kochi City police say Mattancherry native Noufal, 32, allegedly used to source the synthetic drug from Delhi",
-     "published": "2026-09-05T10:45:36+00:00",
+     "title": "NIA Special Court convicts 10 accused in 2013 Jheeram Valley massacre",
+     "url": "https://www.thehindu.com/news/national/chhattisgarh/nia-special-court-convicts-10-accused-in-2013-jheeram-valley-massacre/article71431808.ece",
+     "summary": "The case pertains to one of the deadliest Maoist attacks in the country, reported on May 25, 2013, when a large group of Maoists attacked a convoy of Congress leaders, around 10km from the Darbha police station in Sukma district",
+     "published": "2026-09-05T11:17:11+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "1cabc6e30a3c",
+     "id": "148313de054e",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News",
      "figures": [
-      "2 kg of suspected MDMA seized",
-      "32, allegedly used to source"
+      "10 accused in 2013 Jheeram Valley",
+      "10km from the Darbha police"
      ]
     },
     {
-     "title": "Assault To Podcast To Hate Posts: The Swatantra Bhardwaj Story Explained",
-     "url": "https://www.ndtv.com/india-news/assault-to-podcast-to-hate-posts-the-swatantra-bhardwaj-story-explained-12005563#publisher=newsstand",
-     "summary": "In a viral podcast, Swatantra Bhardwaj claimed that he had \"cracked open\" the head of the father of a student protester at Jantar Mantar.",
-     "published": "2026-09-05T10:44:42+00:00",
-     "source": "NDTV",
+     "title": "Around 330 held in crackdown on fraudulent activities in Assam: DGP",
+     "url": "https://www.thehindu.com/news/national/assam/many-held-in-crackdown-on-fraudulent-activities-in-assam-says-dgp/article71431714.ece",
+     "summary": "DGP Harmeet Singh said those arrested were involved in various frauds and threatening people over the phone and extracting money",
+     "published": "2026-09-05T11:10:27+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/qm793t8k_swatantra-bhardwaj_625x300_04_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/79v4z1/article71431764.ece/alternates/LANDSCAPE_1200/20260905144L.jpg",
      "licence": "linkout",
-     "id": "091d8ab7e5a1",
+     "id": "ab2576b44f63",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "National Hotlines",
+     "figures": [
+      "330 held in crackdown on fraudulent"
+     ]
     },
     {
-     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-     "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-     "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-     "published": "2026-09-04T22:48:38+00:00",
-     "source": "BBC News",
+     "title": "Mudslide in eastern China kills one, leaves 11 missing",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
+     "summary": "A mudslide triggered by days of heavy rain in Jiangxi province, China, has killed one person and left 11 missing.",
+     "published": "2026-09-05T10:49:23+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-11.45.16-1788605225.png?resize=1200%2C675",
      "licence": "linkout",
-     "id": "ab7c59624980",
+     "id": "1af641b4e524",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News"
+     "from_section": "Global News",
+     "figures": [
+      "11 missing"
+     ]
     },
     {
      "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
@@ -161,7 +167,7 @@
      "also": [
       {
        "source": "BBC News",
-       "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+       "title": "US envoys arrive in Moscow ahead of Ukraine talks",
        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
        "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
       }
@@ -174,10 +180,10 @@
      ]
     },
     {
-     "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+     "title": "US envoys arrive in Moscow ahead of Ukraine talks",
      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-     "published": "2026-09-05T10:34:08+00:00",
+     "published": "2026-09-05T11:07:08+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a17/live/0cde6b70-a910-11f1-9eff-150801023722.jpg",
@@ -202,6 +208,20 @@
      "from_section": "Business"
     },
     {
+     "title": "President of India confers National Awards on teachers",
+     "url": "https://www.thehindu.com/news/national/president-of-india-confers-national-awards-on-teachers/article71431816.ece",
+     "summary": "President Droupadi Murmu said that education is the most effective means of realising the ideal of equality of opportunity enshrined in our Constitution",
+     "published": "2026-09-05T11:23:30+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/1hh6pv/article71431828.ece/alternates/LANDSCAPE_1200/20260905168L.jpg",
+     "licence": "linkout",
+     "id": "e34f468698fa",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "'Face Telangana Students': KTR Dares Rahul Gandhi Over 'Chhatron Ki Goonj'",
      "url": "https://www.ndtv.com/india-news/face-telangana-students-ktr-dares-rahul-gandhi-over-chhatron-ki-goonj-12005725#publisher=newsstand",
      "summary": "Mentioning Rahul Gandhi's pre-election interaction with youth in Hyderabad, KTR questioned the status of the Congress promise to provide two lakh government jobs annually.",
@@ -216,68 +236,18 @@
      "from_section": "National News"
     },
     {
-     "title": "In Teachers’ Day post, Keralam Higher Education Minister takes a dig at V-Cs attending RSS events",
-     "url": "https://www.thehindu.com/news/national/kerala/in-teachers-day-post-keralam-higher-education-minister-takes-a-dig-at-v-cs-attending-rss-events/article71431234.ece",
-     "summary": "",
-     "published": "2026-09-05T10:38:56+00:00",
-     "source": "The Hindu",
+     "title": "Trump signs order to remove endangered species protection for grey wolves",
+     "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+     "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+     "published": "2026-09-05T09:12:48+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cfdg28/article71431317.ece/alternates/LANDSCAPE_1200/Roji_m_john_03.JPG",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
      "licence": "linkout",
-     "id": "dd537f0f956f",
+     "id": "4a7dca476c43",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Police action against SFI: Pinarayi urges Mallikarjun Kharge to restrain Congress-led Keralam govt from ‘pandering to Sangh Parivar’",
-     "url": "https://www.thehindu.com/news/national/kerala/police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-to-restrain-congress-led-keralam-govt-from-pandering-to-sangh-parivar/article71431471.ece",
-     "summary": "Opposition Leader says was no provocation for police to resort to ‘violent lathicharge’ on students, who were peacefully protesting against full rendition of Vande Mataram in front of university building",
-     "published": "2026-09-05T10:21:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/s5e9s/article71431507.ece/alternates/LANDSCAPE_1200/20260904026L.jpg",
-     "licence": "linkout",
-     "id": "a2c519d595fd",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
-     "url": "https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss",
-     "summary": "Fights between players and coaching staff broke out after the Turkish side won the Champions League playoff second leg.",
-     "published": "2026-09-05T09:44:45+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9be35f1892-1788601183.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "c12fa0cde1da",
-     "also": [
-      {
-       "source": "NDTV Sports",
-       "title": "Mason Greenwood, Matteo Guendouzi Handed Bans After Fenerbahce-Lyon Brawl",
-       "url": "https://sports.ndtv.com/football/mason-greenwood-matteo-guendouzi-handed-bans-after-fenerbahce-lyon-brawl-12005505#publisher=newsstand",
-       "summary": "Fenerbahce duo Mason Greenwood and Matteo Guendouzi have been suspended for their part in the chaotic scenes after their club's Champions League play-off second leg against Lyon."
-      }
-     ],
-     "category": "money",
-     "category_label": "Money & scams",
      "from_section": "Global News"
-    },
-    {
-     "title": "Overpriced popcorn, bottled water in multiplexes: Keralam govt agencies begin inspections",
-     "url": "https://www.thehindu.com/news/national/kerala/overpriced-popcorn-bottled-water-in-multiplexes-keralam-govt-agencies-begin-inspections/article71431510.ece",
-     "summary": "Based on inspections in Kochi, steps have been taken to issue notices to theatres that have not made free drinking water available, say officials",
-     "published": "2026-09-05T10:09:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i8ilm9/article71431633.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U5D6N6KIK_R1573646667_1_643a783b-26a7-4ed2-9e58-9a344f9a2cb7.jpg",
-     "licence": "linkout",
-     "id": "a22735eb1c35",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National Hotlines"
     },
     {
      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
@@ -294,18 +264,55 @@
      "from_section": "Global News"
     },
     {
-     "title": "Couple along with two children attempt to end their lives, wife rescued",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/couple-along-with-two-children-attempt-to-end-their-lives-wife-rescued/article71431495.ece",
-     "summary": "The local fisherfolk noticed the family, while they were engaged in fishing in the Godavari River",
-     "published": "2026-09-05T10:23:20+00:00",
+     "title": "Insurance fraud: ₹15 lakh landed in senior citizen’s account, HC said mere receipt of money doesn’t prove guilt",
+     "url": "https://www.livemint.com/money/personal-finance/insurance-fraud-15-lakh-landed-in-senior-citizen-s-account-hc-said-mere-receipt-of-money-doesn-t-prove-guilt-11788600893814.html",
+     "summary": "A 78-year-old retired IFS officer got ₹15.15 lakh in his bank account linked to an alleged insurance fraud. The Madhya Pradesh High Court granted him anticipatory bail, saying merely receiving crime proceeds did not prove knowing involvement.",
+     "published": "2026-09-05T09:45:19+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/Gemini_GeneratedImage_afibd7d7afib_17886014749_1788601491023_27f9b7a2-92ee-468f-ab03-53a3ef5c0b35_1788601491329_644af4c2-5c1a-4c7d-9a1c-8c01d673eadb_d7400ed6-d9e8-452c-ab3c-211b9b7d45ea_f3bc6a99-8a4f-4ab3-b1fc-f92643eb2b4f.png",
+     "licence": "linkout",
+     "id": "56f4c591b57c",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹15 lakh landed in senior citizen’s",
+      "₹15.15 lakh in his bank account"
+     ]
+    },
+    {
+     "title": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGd0MHNnMkhGT1JzQWhIdnI0Qk83OVVqSnJJekgwNU5lYWpQVGhWY0FiOWVTQ2ZSUXBnSEF3YV9Tcnk4Z1E3VGQzSkoyVHlITGtpT3lMbGtWTUp4QmF6N0VzN2hBRFQ3SlJvS0R0b1hTNnBYMDhiMEN4dTJ5dnVteERFWUZOQmtxQnFFeXdwZUY2SDJCTUVCTE1hNXRoSGNQRHZiUHo3TVRQSUJwMllfNGNuVmJfZjR2eEJFTUthS0IwWVJTeVQwMkxUR0E1cVdkTUpWYtIB2gFBVV95cUxOZGN5dXpZRFpLSjdrVzZ4enZpbERVeHVMRXJuY2NJRnhiT2F1aWxab0ZoOU80dVhyZ19fbGpLYy1Qd29GSzV1VGlMMk00QzZPNHRiX1Z3YkNYN09MYWtaVXdkc2RUN3pfOGFKM09tWHFFeE9Nbllfd3QzLVpORGVxaWl0UkFRSGI5ZUlnUjB0c2Y5djhaN3NyM1RsUlUtcERuRVhUZi0ycmJ4SWRkaF9HVjk1Y1JVLWEzeDhGc1FLTUUwb2V4MGNBeDJ5WE1KV3hZeHJFWWhmT3R5dw?oc=5",
+     "summary": "CBI’s Rs 504-crore Haryana govt funds probe widens; 6 IAS officers among 19 chargesheeted The Statesman",
+     "published": "2026-09-05T05:19:00+00:00",
+     "source": "The Statesman",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "937e92d391bb",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Scandals & Investigations",
+     "figures": [
+      "Rs 504 -crore Haryana govt funds",
+      "19 chargesheeted",
+      "19 chargesheeted The Statesman"
+     ]
+    },
+    {
+     "title": "How three Keralam nuns stitched together clothing venture ‘Stand By Me’ in a struggle for survival after standing up against the Church",
+     "url": "https://www.thehindu.com/news/national/kerala/how-three-keralam-nuns-have-launched-clothing-venture-stand-by-me-in-a-struggle-for-survival/article71431372.ece",
+     "summary": "The three nuns at St. Francis Mission Home at Kuravilangad in Kottayam seek to carve out a life of their own after years of isolation and hardship following their stand in the Bishop Franco Mulakkal case",
+     "published": "2026-09-05T11:06:48+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/x363z5/article71431425.ece/alternates/LANDSCAPE_1200/sbm.jpg",
      "licence": "linkout",
-     "id": "41ad541cac2f",
+     "id": "85367ee74314",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
@@ -353,6 +360,23 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "Revanth and TCS announce ₹70,000 crore AI Data Centre in Future City, to be completed by June 2, 2028",
+     "url": "https://www.thehindu.com/news/national/telangana/revanth-and-tcs-announce-70000-crore-ai-data-centre-in-future-city-to-be-completed-by-june-2-2028/article71431767.ece",
+     "summary": "it is biggest investment ever in Telangana by TCS; Chief Minister also set a deadline of June 2, 2028 for its completion",
+     "published": "2026-09-05T11:19:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/g1de0q/article71431824.ece/alternates/LANDSCAPE_1200/CM.jpeg",
+     "licence": "linkout",
+     "id": "a1a315d303ea",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News",
+     "figures": [
+      "₹70,000 crore AI Data Centre"
+     ]
+    },
+    {
      "title": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdlp5eWVyQXhXV3duM0NBXzloWW4zcFdMd090bzRFTW0yYWpIREJGS2NlUi1Va3E0Y2o4SkVFTlU1Ujg3NEJOaWU0VU5feHNCZ1hnV3NQQ3YyZ254VXhaalhrWHRmZzZsWVJqd001a21tVVZHeW9mTEtJOUYzVkJrcWV1ems2ckhkZHpBOE9lTUptNFIwZXZkdVNRNURpOTJYM2d4VzNrMVdDRlBxQUEtVy1PZVBaWkxTbU10ZnVOeHdELWhxRDA2RG1hTjlQS0txaXk3cGkzV3d6SldQanN3MzBFTlZWWF9RZGfSAe8BQVVfeXFMUDBTdGNDVUhySGV3QnB1TTFyOTNucmt5YjNnRWtvVzctTGFvN0hkMGNITGo0bDEzdkNOVlpHeHV2elBKSldTU3FRUmJGSno5Nm9JVmx5dEVuNkJ3eU5DNzZhZHd1NXpFaFdnbXVXdzIteGFmYW04TEhiUHJxOFVQbnotS19QS2hoc1J5Zmd0TllvUDNzUmdnaU9NdDU2Y2JKZEg2aTZFSG5kSVFLaUFFbGR0Skh4NDZaOWUtMWZmTW1hOWYwZ0M4SmJ0OXFjY05fQWFYdloxa1ZQM29INjdUR3E2QWt6aHYwSFBIenNONmM?oc=5",
      "summary": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut Business Standard",
@@ -376,20 +400,6 @@
      "image": null,
      "licence": "linkout",
      "id": "cdf9548314c0",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Leading AI journalist gives free UH talk on artificial intelligence",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MVE9iNHkxaEcxVS1LMVVsWGhNWXdJTGdZM2pnT0NlOXRKWEtody1XU3Q1SzR1UEQ5UG84bDM5bDRUa0pnNzBaTkZTcXR3LXN4TlhyRmpFREJMOUdaZ01jU0UzTTZpU2dsT3RMbTlkakZlUjZEd0o2LTFJWQ?oc=5",
-     "summary": "Leading AI journalist gives free UH talk on artificial intelligence University of Hawaii System",
-     "published": "2026-09-04T21:34:17+00:00",
-     "source": "University of Hawaii System",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "0f9e63408ed4",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -450,7 +460,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-05T11:01:58.729935+00:00",
+     "published": "2026-09-05T11:32:21.499629+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -461,7 +471,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-05T11:01:58.729953+00:00",
+     "published": "2026-09-05T11:32:21.499641+00:00",
      "image": "https://static.dw.com/image/62494257_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -472,7 +482,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-05T11:01:58.729958+00:00",
+     "published": "2026-09-05T11:32:21.499644+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -483,7 +493,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-05T11:01:58.729962+00:00",
+     "published": "2026-09-05T11:32:21.499646+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -494,7 +504,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-05T11:01:58.729966+00:00",
+     "published": "2026-09-05T11:32:21.499649+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -505,7 +515,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-05T11:01:58.729969+00:00",
+     "published": "2026-09-05T11:32:21.499651+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -614,63 +624,72 @@
    "upsc": false,
    "items": [
     {
-     "title": "Auto fare likely to go up in Telangana; Transport Dept proposes increase in minimum fares",
-     "url": "https://www.thehindu.com/news/national/telangana/auto-fare-likely-to-go-up-in-telangana/article71431591.ece",
-     "summary": "The existing fares remains unchanged for 12 years",
-     "published": "2026-09-05T10:51:50+00:00",
+     "title": "President of India confers National Awards on teachers",
+     "url": "https://www.thehindu.com/news/national/president-of-india-confers-national-awards-on-teachers/article71431816.ece",
+     "summary": "President Droupadi Murmu said that education is the most effective means of realising the ideal of equality of opportunity enshrined in our Constitution",
+     "published": "2026-09-05T11:23:30+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ehh9sa/article71431712.ece/alternates/LANDSCAPE_1200/Auto-drivers-goG30FFCEMM.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/1hh6pv/article71431828.ece/alternates/LANDSCAPE_1200/20260905168L.jpg",
      "licence": "linkout",
-     "id": "d6e83a0acec0",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "12 years"
-     ]
-    },
-    {
-     "title": "2 kg of suspected MDMA seized in Mattancherry in Keralam originated from Delhi: police",
-     "url": "https://www.thehindu.com/news/national/kerala/2-kg-of-suspected-mdma-seized-in-mattancherry-in-keralam-originated-from-delhi-police/article71431401.ece",
-     "summary": "Sources with the anti-narcotic wing of Kochi City police say Mattancherry native Noufal, 32, allegedly used to source the synthetic drug from Delhi",
-     "published": "2026-09-05T10:45:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "1cabc6e30a3c",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "2 kg of suspected MDMA seized",
-      "32, allegedly used to source"
-     ]
-    },
-    {
-     "title": "In Teachers’ Day post, Keralam Higher Education Minister takes a dig at V-Cs attending RSS events",
-     "url": "https://www.thehindu.com/news/national/kerala/in-teachers-day-post-keralam-higher-education-minister-takes-a-dig-at-v-cs-attending-rss-events/article71431234.ece",
-     "summary": "",
-     "published": "2026-09-05T10:38:56+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cfdg28/article71431317.ece/alternates/LANDSCAPE_1200/Roji_m_john_03.JPG",
-     "licence": "linkout",
-     "id": "dd537f0f956f",
+     "id": "e34f468698fa",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Flyover at Ranasthalam likely to be ready in six months",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/flyover-at-ranasthalam-likely-to-be-ready-in-six-months/article71431050.ece",
-     "summary": "Srikakulam District Collector Swapnil Dinakar Pundkar and other officials have been holding meetings regularly with officials of the National Highways Authority of India (NHAI) for the quick completion of the flyover at Ranasthalam",
-     "published": "2026-09-05T10:27:18+00:00",
+     "title": "SIR notice: While West Bengal netas paid for flight tickets for their voters, what will those in Karnataka do?",
+     "url": "https://www.thehindu.com/news/national/karnataka/sir-notice-while-west-bengal-netas-paid-for-flight-tickets-for-their-voters-what-will-those-in-karnataka-do/article71429604.ece",
+     "summary": "Congress, BJP and JD(S) argue that gap between issue of a notice and date of hearing leaves them with little time to identify voters, inform them, or make arrangements for those who are not in live outside the State",
+     "published": "2026-09-05T11:19:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/260sze/article71431673.ece/alternates/LANDSCAPE_1200/9604_5_9_2026_13_38_46_1_WHATSAPPIMAGE2026_09_05AT124613.JPEG",
+     "image": "https://th-i.thgim.com/public/incoming/1we7bp/article71431758.ece/alternates/LANDSCAPE_1200/DSC_4906.JPG",
      "licence": "linkout",
-     "id": "6678078c80ac",
+     "id": "c245b27f2232",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Revanth and TCS announce ₹70,000 crore AI Data Centre in Future City, to be completed by June 2, 2028",
+     "url": "https://www.thehindu.com/news/national/telangana/revanth-and-tcs-announce-70000-crore-ai-data-centre-in-future-city-to-be-completed-by-june-2-2028/article71431767.ece",
+     "summary": "it is biggest investment ever in Telangana by TCS; Chief Minister also set a deadline of June 2, 2028 for its completion",
+     "published": "2026-09-05T11:19:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/g1de0q/article71431824.ece/alternates/LANDSCAPE_1200/CM.jpeg",
+     "licence": "linkout",
+     "id": "a1a315d303ea",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "figures": [
+      "₹70,000 crore AI Data Centre"
+     ]
+    },
+    {
+     "title": "One hour of rain, hours of congestion: Gurugram's waterlogging woes persist",
+     "url": "https://www.thehindu.com/news/national/one-hour-of-rain-hours-of-congestion-gurugrams-waterlogging-woes-persist/article71431774.ece",
+     "summary": "Heavy rain brought Gurugram traffic to a crawl on Saturday, with 36 mm of rainfall recorded in an hour, causing waterlogging across several key roads and junctions. The downpour disrupted traffic from Sarhaul Border to Rajiv Chowk and affected areas including Sohna Road, Golf Course Extension Road and Udyog Vihar",
+     "published": "2026-09-05T11:18:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/3uhatk/article71431801.ece/alternates/LANDSCAPE_1200/20260905190L.jpg",
+     "licence": "linkout",
+     "id": "3cda1709a95d",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Assault To Podcast To Hate Posts: The Swatantra Bhardwaj Story Explained",
+     "url": "https://www.ndtv.com/india-news/assault-to-podcast-to-hate-posts-the-swatantra-bhardwaj-story-explained-12005563#publisher=newsstand",
+     "summary": "In a viral podcast, Swatantra Bhardwaj claimed that he had \"cracked open\" the head of the father of a student protester at Jantar Mantar.",
+     "published": "2026-09-05T10:44:42+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/qm793t8k_swatantra-bhardwaj_625x300_04_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "091d8ab7e5a1",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "NBEMS Post Diploma DNB 2026: Joining Report Submission Starts September 7",
@@ -726,6 +745,22 @@
    "upsc": false,
    "items": [
     {
+     "title": "Mudslide in eastern China kills one, leaves 11 missing",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
+     "summary": "A mudslide triggered by days of heavy rain in Jiangxi province, China, has killed one person and left 11 missing.",
+     "published": "2026-09-05T10:49:23+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-11.45.16-1788605225.png?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "1af641b4e524",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "11 missing"
+     ]
+    },
+    {
      "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
      "summary": "Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.",
@@ -738,7 +773,7 @@
      "also": [
       {
        "source": "BBC News",
-       "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+       "title": "US envoys arrive in Moscow ahead of Ukraine talks",
        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
        "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
       }
@@ -763,19 +798,6 @@
      "category_label": "General"
     },
     {
-     "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-     "summary": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.",
-     "published": "2026-09-05T09:52:44+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-10.47.14-1788601751.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "e817c39a7422",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
      "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
      "url": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
      "summary": "The global ratings agency has also maintained the country’s sovereign rating at AA.",
@@ -789,6 +811,19 @@
      "category_label": "General"
     },
     {
+     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+     "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+     "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+     "published": "2026-09-04T22:48:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
+     "licence": "linkout",
+     "id": "ab7c59624980",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
@@ -800,19 +835,6 @@
      "id": "4217cb2605bd",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Trump signs order to remove endangered species protection for grey wolves",
-     "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-     "published": "2026-09-05T09:12:48+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
-     "licence": "linkout",
-     "id": "4a7dca476c43",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -886,10 +908,52 @@
    "upsc": false,
    "items": [
     {
-     "title": "Auto fare likely to go up in Telangana; Transport Dept proposes increase in minimum fares",
+     "title": "President of India confers National Awards on teachers",
+     "url": "https://www.thehindu.com/news/national/president-of-india-confers-national-awards-on-teachers/article71431816.ece",
+     "summary": "President Droupadi Murmu said that education is the most effective means of realising the ideal of equality of opportunity enshrined in our Constitution",
+     "published": "2026-09-05T11:23:30+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/1hh6pv/article71431828.ece/alternates/LANDSCAPE_1200/20260905168L.jpg",
+     "licence": "linkout",
+     "id": "e34f468698fa",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "SIR notice: While West Bengal netas paid for flight tickets for their voters, what will those in Karnataka do?",
+     "url": "https://www.thehindu.com/news/national/karnataka/sir-notice-while-west-bengal-netas-paid-for-flight-tickets-for-their-voters-what-will-those-in-karnataka-do/article71429604.ece",
+     "summary": "Congress, BJP and JD(S) argue that gap between issue of a notice and date of hearing leaves them with little time to identify voters, inform them, or make arrangements for those who are not in live outside the State",
+     "published": "2026-09-05T11:19:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/1we7bp/article71431758.ece/alternates/LANDSCAPE_1200/DSC_4906.JPG",
+     "licence": "linkout",
+     "id": "c245b27f2232",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Revanth and TCS announce ₹70,000 crore AI Data Centre in Future City, to be completed by June 2, 2028",
+     "url": "https://www.thehindu.com/news/national/telangana/revanth-and-tcs-announce-70000-crore-ai-data-centre-in-future-city-to-be-completed-by-june-2-2028/article71431767.ece",
+     "summary": "it is biggest investment ever in Telangana by TCS; Chief Minister also set a deadline of June 2, 2028 for its completion",
+     "published": "2026-09-05T11:19:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/g1de0q/article71431824.ece/alternates/LANDSCAPE_1200/CM.jpeg",
+     "licence": "linkout",
+     "id": "a1a315d303ea",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "figures": [
+      "₹70,000 crore AI Data Centre"
+     ]
+    },
+    {
+     "title": "Auto fares likely to go up in Telangana",
      "url": "https://www.thehindu.com/news/national/telangana/auto-fare-likely-to-go-up-in-telangana/article71431591.ece",
-     "summary": "The existing fares remains unchanged for 12 years",
-     "published": "2026-09-05T10:51:50+00:00",
+     "summary": "The existing fares remain unchanged for 12 years",
+     "published": "2026-09-05T11:16:19+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/ehh9sa/article71431712.ece/alternates/LANDSCAPE_1200/Auto-drivers-goG30FFCEMM.3.jpg.jpg",
@@ -900,49 +964,6 @@
      "figures": [
       "12 years"
      ]
-    },
-    {
-     "title": "2 kg of suspected MDMA seized in Mattancherry in Keralam originated from Delhi: police",
-     "url": "https://www.thehindu.com/news/national/kerala/2-kg-of-suspected-mdma-seized-in-mattancherry-in-keralam-originated-from-delhi-police/article71431401.ece",
-     "summary": "Sources with the anti-narcotic wing of Kochi City police say Mattancherry native Noufal, 32, allegedly used to source the synthetic drug from Delhi",
-     "published": "2026-09-05T10:45:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "1cabc6e30a3c",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "2 kg of suspected MDMA seized",
-      "32, allegedly used to source"
-     ]
-    },
-    {
-     "title": "In Teachers’ Day post, Keralam Higher Education Minister takes a dig at V-Cs attending RSS events",
-     "url": "https://www.thehindu.com/news/national/kerala/in-teachers-day-post-keralam-higher-education-minister-takes-a-dig-at-v-cs-attending-rss-events/article71431234.ece",
-     "summary": "",
-     "published": "2026-09-05T10:38:56+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cfdg28/article71431317.ece/alternates/LANDSCAPE_1200/Roji_m_john_03.JPG",
-     "licence": "linkout",
-     "id": "dd537f0f956f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "TVK to formalise existing alliance led by it in Tamil Nadu on September 9",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-to-formalise-existing-alliance-led-by-it-in-tamil-nadu-on-september-9/article71431519.ece",
-     "summary": "TVK president and Tamil Nadu Chief Minister C. Joseph Vijay will hold discussions with leaders of the Congress, IUML, VCK, and MDMK on formalising the existing alliance in the State",
-     "published": "2026-09-05T10:15:37+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/xmpbz8/article71431573.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2014.41.02.jpeg",
-     "licence": "linkout",
-     "id": "c76eb82ecd93",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "School Assembly News Headlines (September 5): Top National, International, Sports News",
@@ -1621,21 +1642,17 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Insurance fraud: ₹15 lakh landed in senior citizen’s account, HC said mere receipt of money doesn’t prove guilt",
-     "url": "https://www.livemint.com/money/personal-finance/insurance-fraud-15-lakh-landed-in-senior-citizen-s-account-hc-said-mere-receipt-of-money-doesn-t-prove-guilt-11788600893814.html",
-     "summary": "A 78-year-old retired IFS officer got ₹15.15 lakh in his bank account linked to an alleged insurance fraud. The Madhya Pradesh High Court granted him anticipatory bail, saying merely receiving crime proceeds did not prove knowing involvement.",
-     "published": "2026-09-05T09:45:19+00:00",
+     "title": "7th Pay Commission DA hike: What is AICPI-IW? Why it matters so much for amount calculation for central govt employees",
+     "url": "https://www.livemint.com/money/personal-finance/7th-pay-commission-da-hike-what-is-aicpi-iw-why-it-matters-so-much-for-amount-calculation-salary-central-govt-employees-11788602259383.html",
+     "summary": "7th Pay Commission DA hike: What is the AICPI-IW? We explain its significance and why it matters so much for salary amount calculation for central government employees and pensioners in India.",
+     "published": "2026-09-05T11:01:23+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/Gemini_GeneratedImage_afibd7d7afib_17886014749_1788601491023_27f9b7a2-92ee-468f-ab03-53a3ef5c0b35_1788601491329_644af4c2-5c1a-4c7d-9a1c-8c01d673eadb_d7400ed6-d9e8-452c-ab3c-211b9b7d45ea_f3bc6a99-8a4f-4ab3-b1fc-f92643eb2b4f.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/AICPI_IW_1788605993266_9dbf863d-9dc2-4d03-b20b-4621a170ae53_1788606000533_e9d24ccb-325b-4bc9-bb2a-6ed8137d6215_20142873-63d1-4094-9433-92dbc33b21f2_a25cb6d6-407d-4353-be54-2bfa1b52b390.png",
      "licence": "linkout",
-     "id": "56f4c591b57c",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹15 lakh landed in senior citizen’s",
-      "₹15.15 lakh in his bank account"
-     ]
+     "id": "c823c8fffb5e",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "ITR deadline for businesses and professionals: Who gets time until October 31 to file their returns?",
@@ -1676,19 +1693,6 @@
      "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/Gemini_Generatejxl9t1jxl9t1_1788599927_1788599940093_da81c487-99ae-4272-b523-ef4057da81e4_1788599940298_3a10bf88-b521-4793-96e4-be3ec813811f_41037855-5eed-46db-b191-b09f2395595f_402d152e-6d07-4c0d-a911-b553a9f6f1f1.png",
      "licence": "linkout",
      "id": "d89d75751c4e",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "8th Pay Commission: DA may hit 66%-67% by January 2027 as AICPI-IW points to another hike",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-da-may-hit-66-67-by-january-2027-as-aicpi-iw-points-to-another-hike-11788591338877.html",
-     "summary": "Central government employees may see DA rise to 66%-67% from January 2027 if AICPI-IW remains strong. The projection is based on the existing 7th Pay Commission formula and is not an official government announcement.",
-     "published": "2026-09-05T09:19:23+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/8th_1788591525465_ffde7a30-5cf6-4e73-b1e8-463a341d6296_1788591525654_01f619f4-241e-4734-8652-38253fd63c91_1f545a55-debb-4e87-9879-7161cdfcd218_63c575ae-d311-406d-a07a-9609f93bd10a.jpg",
-     "licence": "linkout",
-     "id": "b2b40d88f6f0",
      "category": "general",
      "category_label": "General"
     }
@@ -1745,13 +1749,26 @@
     {
      "title": "CX AI: Artificial Intelligence and the Future of CX",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0hVUUFzdGhaUGNQQ255MzkwX0ZRYUU4eEVFX250ZmhTM3NZSHd5ZW01YlhfSFhYZi1EQ3J3c05GaEZ4aG9kRFpFYWdjQ09VcEtjZ2xPTjJNUmxBaU8xYTZUV1NZVS1mUlVYZkxjWEI5TVJ4cnMzV2U5c0gyNjh2WTNmdlF1OTZDZFlzSVY3RlI0UERuSTVFdjd0UEo0eHZmbDlvNkQzcmlLQQ?oc=5",
-     "summary": "CX AI: Artificial Intelligence and the Future of CX SNS Insider",
+     "summary": "CX AI: Artificial Intelligence and the Future of CX snsinsider.com",
      "published": "2026-09-04T13:37:56+00:00",
-     "source": "SNS Insider",
+     "source": "snsinsider.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "4733e8cd5701",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Leading AI journalist gives free UH talk on artificial intelligence",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MVE9iNHkxaEcxVS1LMVVsWGhNWXdJTGdZM2pnT0NlOXRKWEtody1XU3Q1SzR1UEQ5UG84bDM5bDRUa0pnNzBaTkZTcXR3LXN4TlhyRmpFREJMOUdaZ01jU0UzTTZpU2dsT3RMbTlkakZlUjZEd0o2LTFJWQ?oc=5",
+     "summary": "Leading AI journalist gives free UH talk on artificial intelligence University of Hawaii System",
+     "published": "2026-09-04T21:34:17+00:00",
+     "source": "University of Hawaii System",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "0f9e63408ed4",
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1882,19 +1899,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d643/live/eafef5b0-a8c4-11f1-998e-85baf5f0ad36.jpg",
      "licence": "linkout",
      "id": "d4cf388910be",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Russell Howard 'devastated' after his baby son died shortly after birth",
-     "url": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
-     "summary": "The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth.",
-     "published": "2026-09-04T11:26:32+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/601e/live/3504da00-a84b-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "210187106bc8",
      "category": "general",
      "category_label": "General"
     },
