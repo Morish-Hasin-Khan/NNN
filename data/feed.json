@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T04:02:25.131498+00:00",
+ "generated_at": "2026-09-06T04:35:21.999313+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -36,11 +36,10 @@
    "key": "gold",
    "label": "GOLD",
    "unit": "₹/10g",
-   "value": 125288.0,
-   "change": 1345.0,
-   "changePct": 1.09,
-   "decimals": 0,
-   "stale": true
+   "value": 125216.0,
+   "change": 3597.0,
+   "changePct": 2.96,
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -90,10 +89,10 @@
   "News",
   "Prior Consent",
   "Haryana",
-  "Eight High",
-  "Javelin",
-  "Indonesia Anak",
-  "Nepal"
+  "Mappilappattu Nisar",
+  "News Frames",
+  "German",
+  "Indonesia Anak"
  ],
  "sections": [
   {
@@ -164,7 +163,7 @@
      "id": "5d5ca6610be6",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
@@ -195,6 +194,20 @@
      "from_section": "Global News"
     },
     {
+     "title": "German voters head to polls as far-right AfD party eyes historic state win",
+     "url": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
+     "summary": "Saxony-Anhalt elections could see AfD become the first far-right party to take power at a state level since WWII.",
+     "published": "2026-09-06T04:12:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9cd6e1ec30-1788663521.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "9b8f33c78084",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
      "title": "Jharkhand Higher Education Minister Sudivya Kumar Sonu Dies Of Heart Attack",
      "url": "https://www.ndtv.com/india-news/jharkhand-mukti-morcha-leader-jharkhand-minister-sudivya-kumar-sonu-dies-of-heart-attack-12007800#publisher=newsstand",
      "summary": "Sudivya Kumar Sonu, the legislator from Giridih, also held charge of the Tourism, Arts, Culture, Sports and Youth Affairs departments",
@@ -204,14 +217,6 @@
      "image": "https://c.ndtvimg.com/2026-09/23av71dc_jmm-leader_625x300_06_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "b3dcd0bff9c0",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Sudivya Kumar, JMM senior leader and Jharkhand Minister, dies at 56",
-       "url": "https://www.thehindu.com/news/national/jharkhand/sudivya-kumar-jmm-senior-leader-and-jharkhand-minister-dies-at-56/article71434454.ece",
-       "summary": "The JMM expressed shock and grief over the minister's death, describing his demise as an “irreparable loss” to the party, the government and Jharkhand"
-      }
-     ],
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
@@ -231,18 +236,22 @@
      "from_section": "National News"
     },
     {
-     "title": "Sudivya Kumar, JMM senior leader and Jharkhand Minister, dies at 56",
-     "url": "https://www.thehindu.com/news/national/jharkhand/sudivya-kumar-jmm-senior-leader-and-jharkhand-minister-dies-at-56/article71434454.ece",
-     "summary": "The JMM expressed shock and grief over the minister's death, describing his demise as an “irreparable loss” to the party, the government and Jharkhand",
-     "published": "2026-09-06T02:42:42+00:00",
-     "source": "The Hindu",
+     "title": "Think a ₹10,000 income mismatch is too small to matter? Tax expert explains why it could trigger an Income Tax notice",
+     "url": "https://www.livemint.com/money/personal-finance/think-a-10-000-income-mismatch-is-too-small-to-matter-tax-expert-explains-why-it-could-trigger-an-income-tax-notice-11788525453178.html",
+     "summary": "A small ₹10,000 income mismatch in savings interest, dividends or freelance receipts could trigger an income tax notice. Tax expert urges taxpayers to reconcile AIS and TIS statements before filing returns to avoid compliance hassles and penalties.",
+     "published": "2026-09-06T04:31:30+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/if4pp2/article71434458.ece/alternates/LANDSCAPE_1200/HRfi140aQAA00QQ.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/tax_management_1788661006972_badfbe04-d169-45ff-a5b2-22ad4cac23eb_1788661011589_663478a9-a58d-497e-bdcb-523063734e5c_821aebd8-4173-405c-bf3d-5e8c13afe817_864b4cee-b09b-46ba-bec8-3d16e43cc17e.jpg",
      "licence": "linkout",
-     "id": "cacc3c728c5d",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "id": "40fb9f64ecb4",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹10,000  income mismatch is too",
+      "₹10,000  income mismatch in savings"
+     ]
     },
     {
      "title": "Bengali Hindu landlord split ₹1.89 cr rental income between HUF and personal ITR, then got a tax notice — here's why",
@@ -280,18 +289,32 @@
      ]
     },
     {
-     "title": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGZIOUJEWVdVRGVIWGtyd2F0Zk5zb25NWHUzR3dDdVo4QmM4d2JZQWVMMVlCNXFCQkNzYlU0RThIX29tcU1GQkk3elNZb3hwbHZKSnh5ZXVZVVhtUmhqUjNVMDh5c2EzTmJqSmtWclBiQ1BtcV85SUhwdWxXRlVOUThnMVZGUXlrM2s4MHh5SEVoOXE4SUhYcExtcVQ2RWxseFdnUzR1X2JpQjIzV1hkRXd5bXlOZU1PRE1B0gHAAUFVX3lxTE9mMnZ6dEx2YkdVcE43empyNTBZVVhmMnZMUzBlLVpTczJpYzlaNUE3ZXNBUnZzU1Nva3pLLUxYLTI2WUFucU5yMm5QUlhncmoweDFUSVkwdmVDbzBPcWkwdllhTjVLUDJUMEpiUkxkbUNGTlJKZWs2YmNRZVREbFE0YXRNN0sxVTM2cXVXQmJVTFo0V2tobzk5WVJrQmR5MWI4aWJFTGdOOEl1Uzc2VG0xWHZQYWtxWjBrUVBVRVJJSw?oc=5",
-     "summary": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India Fox News",
-     "published": "2026-09-05T21:31:35+00:00",
-     "source": "Fox News",
+     "title": "Mappilappattu singer Nisar Wayanad passes away in Dubai",
+     "url": "https://www.thehindu.com/news/national/kerala/mappilappattu-singer-nisar-wayanad-passes-away-in-dubai/article71434512.ece",
+     "summary": "According to reports, Nisar, 44, had been undergoing treatment for fever at a private hospital in Dubai",
+     "published": "2026-09-06T04:19:06+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/v39tsi/article71434521.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%209.35.20%20AM.jpeg",
      "licence": "linkout",
-     "id": "11c07fc29f0b",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Scandals & Investigations"
+     "id": "2d92297e6289",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "National News"
+    },
+    {
+     "title": "Teachers’ Day 2026: A deep dive into the education ecosystem",
+     "url": "https://www.thehindu.com/education/teachers-day-2026-a-deep-dive-into-the-education-ecosystem/article71431339.ece",
+     "summary": "As we celebrate Teachers’ Day 2026, here are some of the best articles that celebrate the OG influencers",
+     "published": "2026-09-06T04:07:27+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/9vbma0/article70911628.ece/alternates/LANDSCAPE_1200/PTI09_18_2023_000217B.jpg",
+     "licence": "linkout",
+     "id": "94e89e4a969e",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "National News"
     },
     {
      "title": "Bhupesh Baghel's Punjab Rescue Mission For Congress Ends With His Own Exit",
@@ -338,9 +361,9 @@
     {
      "title": "India news: 275 Indians still missing in Nepal floods",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVQzSzZ2VDVzTjVLSXdHUDBIaEV0OXBGVWRUMWQtQkFTbHViQVZ5ajZ4b2h2bmhGb3loVmJORFJ2SkFQTi1pcV9uaDRHMlJQNG5lU0VudXhDWXR1Q09QR2k2ejZ4cXpQall5STJUMVB3MVFzdDRFWlBzV2c4eDRzdGFxLWlSVU9WZ3V6UlNNMkNXdw?oc=5",
-     "summary": "India news: 275 Indians still missing in Nepal floods dw.com",
+     "summary": "India news: 275 Indians still missing in Nepal floods DW.com",
      "published": "2026-09-05T09:22:48+00:00",
-     "source": "dw.com",
+     "source": "DW.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -367,35 +390,32 @@
      "from_section": "Technology"
     },
     {
-     "title": "University of Hawaiʻi receives $2M for development of artificial intelligence tools to protect food production systems",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3NkUWhMR0lEVlhFOFo5eEVNNlpyWXZYUUp0QXIzRXl0emdWZktRR3dfU3g2NFNZZ2ZUTGFWQTJkVVJBV0k4MHctZmZaMk8wVHZ1U0VTeWFVemlZT0FleWZkMVhlNjBUSzdOUE4tMDdDclJyNDBFMHlWQUpEZjZ3T2NIRUtDR3F1WE91aXE2RWlQX0xLN3U0QmVwVVh4Y05xZnpQUXN4ZzRUb1N3anI3OXFXcXFTeU5oaXhsVWJwcC1uOC15ZWR4SmtpaHhEYm40MEtnRkJBUGpxZTZLSVFuSk5LOHJMUk1lZTBSeFVvc1M?oc=5",
-     "summary": "University of Hawaiʻi receives $2M for development of artificial intelligence tools to protect food production systems Kauai Now",
-     "published": "2026-09-06T02:00:00+00:00",
-     "source": "Kauai Now",
+     "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
+     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
+     "published": "2026-09-05T20:12:50+00:00",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "19a5998060a2",
+     "id": "e5acc0fd27af",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "$2 M for development"
-     ]
+     "from_section": "National Hotlines"
     },
     {
-     "title": "German company launches rocket as Europe enters satellite race",
-     "url": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss",
-     "summary": "Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.",
-     "published": "2026-09-06T00:53:23+00:00",
-     "source": "Al Jazeera",
+     "title": "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNREg5cS04OHJzOV9CRmdDNTVyYjZtWkVjcU9Helh1U09QSE1FTkpRZHRqRzBuVGc0WlE5N0duNmpVSmpJay1Kdm04UnZnVTNfaDZmVmlpUy1yY0stNWZxQXhwT3p2VHBZUkxtajR5Um1TZUVodW9tSEdzTEtfTjZLeWQtaDRONGVXQUNXd3Uza1VsYXNBTFJCZDJkZnV0a1RtTkN1MkV1dEF6c2RDckFtTWlqUlo2TXAtOUM0bWk1WQ?oc=5",
+     "summary": "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations Cureus",
+     "published": "2026-09-05T17:19:45+00:00",
+     "source": "Cureus",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9c9a13-1788647955.jpg?resize=1920%2C1440",
+     "image": null,
      "licence": "linkout",
-     "id": "5620f47de4ea",
+     "id": "88b4cd605e3b",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Global News"
+     "from_section": "Technology"
     },
     {
      "title": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026: All Eyes On Vaibhav Sooryavanshi As East Zone Opt To Bat",
@@ -439,7 +459,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-06T04:02:12.298405+00:00",
+     "published": "2026-09-06T04:35:10.291793+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -450,7 +470,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-06T04:02:12.298414+00:00",
+     "published": "2026-09-06T04:35:10.291803+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -461,7 +481,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-06T04:02:12.298417+00:00",
+     "published": "2026-09-06T04:35:10.291807+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -472,7 +492,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-06T04:02:12.298420+00:00",
+     "published": "2026-09-06T04:35:10.291809+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -483,7 +503,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-06T04:02:12.298422+00:00",
+     "published": "2026-09-06T04:35:10.291812+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -494,7 +514,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-06T04:02:12.298424+00:00",
+     "published": "2026-09-06T04:35:10.291814+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -782,46 +802,17 @@
      ]
     },
     {
-     "title": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVJRR2tDdlFKSi12OG56MTF3cEFZa0wtdHZvOXpuY1dRNTFUNVpLTlZfVHZsZ2JXajZwTXUxYUVUTi1hanR5YjZEUEdDS3RWdWd4cGFCRk1DRkJEcXFNYzJlejR6TGRnV1NfTUJEcnlUTlJvRnF1TUVoVEdBRUdLbjFYa3lCLUFlMjN1bzB1VDZDb1V3S2VzWk56WS1ob2N0dGg4?oc=5",
-     "summary": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket News On AIR",
-     "published": "2026-09-05T17:37:44+00:00",
-     "source": "News On AIR",
+     "title": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGZIOUJEWVdVRGVIWGtyd2F0Zk5zb25NWHUzR3dDdVo4QmM4d2JZQWVMMVlCNXFCQkNzYlU0RThIX29tcU1GQkk3elNZb3hwbHZKSnh5ZXVZVVhtUmhqUjNVMDh5c2EzTmJqSmtWclBiQ1BtcV85SUhwdWxXRlVOUThnMVZGUXlrM2s4MHh5SEVoOXE4SUhYcExtcVQ2RWxseFdnUzR1X2JpQjIzV1hkRXd5bXlOZU1PRE1B0gHAAUFVX3lxTE9mMnZ6dEx2YkdVcE43empyNTBZVVhmMnZMUzBlLVpTczJpYzlaNUE3ZXNBUnZzU1Nva3pLLUxYLTI2WUFucU5yMm5QUlhncmoweDFUSVkwdmVDbzBPcWkwdllhTjVLUDJUMEpiUkxkbUNGTlJKZWs2YmNRZVREbFE0YXRNN0sxVTM2cXVXQmJVTFo0V2tobzk5WVJrQmR5MWI4aWJFTGdOOEl1Uzc2VG0xWHZQYWtxWjBrUVBVRVJJSw?oc=5",
+     "summary": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India Fox News",
+     "published": "2026-09-05T21:31:35+00:00",
+     "source": "Fox News",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "b0b1fa438e5d",
+     "id": "11c07fc29f0b",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Cash-for-jobs scam: Former Tamil Nadu minister KN Nehru’s home, other premises searched",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZng5bzVZRjNwNExfMHVRYjlGcUZ3UU9NSjJRUUZYUmFTclNMZ2EzQWpRdkRFcXg2UmRPT0ltTExFRkRwcXNrYVRMSHFSMkVFYmg2WHRuQV9XLXZRRURtM0JEU3BwVG91aWhGakF1WnFvcDlrekIwVTRmX0xmSlFwVFE1T1BnOWlxa1lLSnJqOFp1cWRHcDlzeDJVcVJXNDFfUF8wRnM2Q0VfdEcyQWUyWDNRX0ZYQTJScUg0bjdfdTRhS0hsSjlBejVUdzl2OVNBRnM2R1oxUHhLWUx2dVdEeTZrWm8tZU3SAewBQVVfeXFMT0dzWm1rb2szaHNaaF8wcElaVU52RlNhU0k0VlFtTVY1RUtKa2Z1a0t6T2txa040ZDZCeUNOc2VTeWZPdXBRMWdIRWIxSmk5MWZQcnFtREdZN01fdlBYVm52MlY2QzVrWDV5ZVRPZzdnb3ZzZFRiSWRiWTgzY0ZQMU5QUmMzV21UYWF5ZEtUNExlWEhKcjRIT3kwRFBieEFNTF9kZklVSGtMQ2JRbVJjS2dnN0hYcWRfYk5UajZQOXoxbFR4VDFiaHQwaHlsOVdxTnFZMWtKX2VtWEpRajZndVlfTm9lM1d6ZW9QcTk?oc=5",
-     "summary": "Cash-for-jobs scam: Former Tamil Nadu minister KN Nehru’s home, other premises searched The Times of India",
-     "published": "2026-09-05T04:34:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "917eaf3a16a1",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "PIO facing $600k fraud charge in US nabbed in Punjab",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOG1VeTdSQ0pMWEMxa050XzM1UFR3TkIwckFNcEdGVGVzZkZIaFhJcGVfclZTVVlkdmZMYTRHT05Cb1R5Sk9Xd25vTWJuTl9JV3JVYmI0dHdnYXBCTzBpZGdGWWxJUFZQSHAxWmJ4UUdmekJFMGEtb0hHT1J1Tl9ybDB2bWE1WlBsQVVOMjhFdW5CYnFJT3NZOW94WldDcWJ4eWc3V09IUlVySFRWZWJOZFh2MmJodDZTMmF2aUJZRFBOTFVFNHZmdtIBzgFBVV95cUxPdWZwejE3WUxYajhjcFJvd3VhR1g0RDdLRTUtSzdMNzdxREE3SHRBNWZ0Q013WnJPY3kwenNYajZxVGhKbjdrTFJOX3lsYUd1M2tqSC0ycV8xSE91ZXMwY2JuNDYxVFp6ajROVTE0QWlrMmVYSHRyUzdYNEZkUXNacE8wRW5DWGRyODNMcTU0UlB5ZFNFclZfVVd4UERNenZ6US12UEFtZE5EOXh3cXZxdjJSb1ZfeFpvWkZ4TzFqQ25mejA1LVlCZThHaUJvUQ?oc=5",
-     "summary": "PIO facing $600k fraud charge in US nabbed in Punjab The Times of India",
-     "published": "2026-09-05T04:06:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "a856dcbf5481",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$600 k fraud charge"
-     ]
     }
    ]
   },
@@ -832,67 +823,59 @@
    "upsc": false,
    "items": [
     {
-     "title": "Eight High Court judges appointed as Chief Justices",
-     "url": "https://www.thehindu.com/news/national/eight-high-court-judges-appointed-as-chief-justices/article71433268.ece",
-     "summary": "Chief Justice of the Rajasthan High Court’s appointment comes amid a recent controversy involving Acting Chief Justice in the HC",
-     "published": "2026-09-06T03:27:30+00:00",
+     "title": "Mappilappattu singer Nisar Wayanad passes away in Dubai",
+     "url": "https://www.thehindu.com/news/national/kerala/mappilappattu-singer-nisar-wayanad-passes-away-in-dubai/article71434512.ece",
+     "summary": "According to reports, Nisar, 44, had been undergoing treatment for fever at a private hospital in Dubai",
+     "published": "2026-09-06T04:19:06+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cmu9b0/article71433328.ece/alternates/LANDSCAPE_1200/iStock-1666778610.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/v39tsi/article71434521.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%209.35.20%20AM.jpeg",
      "licence": "linkout",
-     "id": "a2fb537379da",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Javelin | An icon of modern warfare",
-     "url": "https://www.thehindu.com/news/national/javelin-an-icon-of-modern-warfare/article71433164.ece",
-     "summary": "The anti-tank system India is planning to acquire is a mainstay brigade combat team weapon for the U.S. Army and Marine Corps",
-     "published": "2026-09-06T03:24:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2j2lzn/article71433161.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
-     "licence": "linkout",
-     "id": "5d5ca6610be6",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Farakka rail restoration nears completion; North Bengal train services may resume soon",
-     "url": "https://www.thehindu.com/news/national/west-bengal/farakka-rail-restoration-nears-completion-north-bengaltrain-servicesmayresume-soon/article71432010.ece",
-     "summary": "Trial run conducted on restored down line as railway authorities inspect tracks for safety",
-     "published": "2026-09-06T03:23:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6chwzv/article71434491.ece/alternates/LANDSCAPE_1200/PTI09_04_2026_000223B.jpg",
-     "licence": "linkout",
-     "id": "9ccb99ec500b",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "BJP MP Dinesh Sharma appointed Lt Governor of Andaman and Nicobar Islands",
-     "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece",
-     "summary": "Mr. Sharma will succeed Admiral D K Joshi (retd), who took over as lieutenant governor of the Andaman and Nicobar Islands on October 8, 2017.",
-     "published": "2026-09-06T03:22:19+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9er0ww/article71434240.ece/alternates/LANDSCAPE_1200/20251203260L.jpg",
-     "licence": "linkout",
-     "id": "95b27f302c82",
-     "category": "general",
-     "category_label": "General"
+     "id": "2d92297e6289",
+     "category": "celebrity",
+     "category_label": "Celebrity"
     },
     {
      "title": "News in Frames | Where the mountains narrate stories",
      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/news-in-frames-where-the-mountainsnarrate-stories/article71434468.ece",
      "summary": "Suru Valley preserves a rich cultural heritage shaped by Purgi traditions, Islamic and Buddhist influences; the Suru Summer Festival recently showcased this legacy as the administration promotes Kargil as a sustainable tourism destination",
-     "published": "2026-09-06T02:53:30+00:00",
+     "published": "2026-09-06T04:09:17+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/yy5w5q/article71434479.ece/alternates/LANDSCAPE_1200/NEWS%20IN%20FRAMES_%2028.jpg",
      "licence": "linkout",
      "id": "28fc049ea516",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Flyover to cut down travel time by 30 minutes",
+     "url": "https://www.thehindu.com/news/national/telangana/flyover-to-cut-down-travel-time-by-30-minutes/article71423552.ece",
+     "summary": "With the main viaduct 2.53 kilometres long and 16.61 metres wide with four lanes, the structure takes off from Nalgonda Crossroads, flies over the Chanchalguda, Saidabad and IS Sadan junctions, to land at Champapet",
+     "published": "2026-09-06T04:08:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/7245lv/article71426264.ece/alternates/LANDSCAPE_1200/Flyover-to-cut-GJFGG2JHH.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "0faa33c079b0",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "30 minutes",
+      "2.53 kilometres long and 16",
+      "16.61 metres wide with four lanes"
+     ]
+    },
+    {
+     "title": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit",
+     "url": "https://www.thehindu.com/news/national/kerala/kanthapuram-ap-aboobacker-power-beyond-the-pulpit/article71433157.ece",
+     "summary": "The Muslim cleric and scholar based in Keralam has faced criticism over his recent comments that women should remain at home rather than occupy public spaces",
+     "published": "2026-09-06T03:49:27+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/luzudw/article71433153.ece/alternates/LANDSCAPE_1200/Kanthapuram%201.jpg",
+     "licence": "linkout",
+     "id": "e08a34cb7da4",
      "category": "general",
      "category_label": "General"
     },
@@ -920,6 +903,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "German voters head to polls as far-right AfD party eyes historic state win",
+     "url": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
+     "summary": "Saxony-Anhalt elections could see AfD become the first far-right party to take power at a state level since WWII.",
+     "published": "2026-09-06T04:12:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9cd6e1ec30-1788663521.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "9b8f33c78084",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
     {
      "title": "Indonesia’s main airport suspends flights due to Anak Krakatau eruption",
      "url": "https://www.aljazeera.com/news/2026/9/6/indonesias-main-airport-suspends-flights-due-to-anak-krakatoa-eruption?traffic_source=rss",
@@ -1065,6 +1061,50 @@
    "upsc": false,
    "items": [
     {
+     "title": "Mappilappattu singer Nisar Wayanad passes away in Dubai",
+     "url": "https://www.thehindu.com/news/national/kerala/mappilappattu-singer-nisar-wayanad-passes-away-in-dubai/article71434512.ece",
+     "summary": "According to reports, Nisar, 44, had been undergoing treatment for fever at a private hospital in Dubai",
+     "published": "2026-09-06T04:19:06+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/v39tsi/article71434521.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%209.35.20%20AM.jpeg",
+     "licence": "linkout",
+     "id": "2d92297e6289",
+     "category": "celebrity",
+     "category_label": "Celebrity"
+    },
+    {
+     "title": "News in Frames | Where the mountains narrate stories",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/news-in-frames-where-the-mountainsnarrate-stories/article71434468.ece",
+     "summary": "Suru Valley preserves a rich cultural heritage shaped by Purgi traditions, Islamic and Buddhist influences; the Suru Summer Festival recently showcased this legacy as the administration promotes Kargil as a sustainable tourism destination",
+     "published": "2026-09-06T04:09:17+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/yy5w5q/article71434479.ece/alternates/LANDSCAPE_1200/NEWS%20IN%20FRAMES_%2028.jpg",
+     "licence": "linkout",
+     "id": "28fc049ea516",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Flyover to cut down travel time by 30 minutes",
+     "url": "https://www.thehindu.com/news/national/telangana/flyover-to-cut-down-travel-time-by-30-minutes/article71423552.ece",
+     "summary": "With the main viaduct 2.53 kilometres long and 16.61 metres wide with four lanes, the structure takes off from Nalgonda Crossroads, flies over the Chanchalguda, Saidabad and IS Sadan junctions, to land at Champapet",
+     "published": "2026-09-06T04:08:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/7245lv/article71426264.ece/alternates/LANDSCAPE_1200/Flyover-to-cut-GJFGG2JHH.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "0faa33c079b0",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "30 minutes",
+      "2.53 kilometres long and 16",
+      "16.61 metres wide with four lanes"
+     ]
+    },
+    {
      "title": "Eight High Court judges appointed as Chief Justices",
      "url": "https://www.thehindu.com/news/national/eight-high-court-judges-appointed-as-chief-justices/article71433268.ece",
      "summary": "Chief Justice of the Rajasthan High Court’s appointment comes amid a recent controversy involving Acting Chief Justice in the HC",
@@ -1078,19 +1118,6 @@
      "category_label": "General"
     },
     {
-     "title": "Javelin | An icon of modern warfare",
-     "url": "https://www.thehindu.com/news/national/javelin-an-icon-of-modern-warfare/article71433164.ece",
-     "summary": "The anti-tank system India is planning to acquire is a mainstay brigade combat team weapon for the U.S. Army and Marine Corps",
-     "published": "2026-09-06T03:24:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2j2lzn/article71433161.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
-     "licence": "linkout",
-     "id": "5d5ca6610be6",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
      "title": "Farakka rail restoration nears completion; North Bengal train services may resume soon",
      "url": "https://www.thehindu.com/news/national/west-bengal/farakka-rail-restoration-nears-completion-north-bengaltrain-servicesmayresume-soon/article71432010.ece",
      "summary": "Trial run conducted on restored down line as railway authorities inspect tracks for safety",
@@ -1102,45 +1129,6 @@
      "id": "9ccb99ec500b",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit",
-     "url": "https://www.thehindu.com/news/national/kerala/kanthapuram-ap-aboobacker-power-beyond-the-pulpit/article71433157.ece",
-     "summary": "The Muslim cleric and scholar based in Keralam has faced criticism over his recent comments that women should remain at home rather than occupy public spaces",
-     "published": "2026-09-06T02:26:30+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/luzudw/article71433153.ece/alternates/LANDSCAPE_1200/Kanthapuram%201.jpg",
-     "licence": "linkout",
-     "id": "e08a34cb7da4",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "The feminist organiser and her everyday rebellions",
-     "url": "https://www.thehindu.com/news/international/gloria-steinem-death-feminist-organiser-indian-connection/article71425460.ece",
-     "summary": "Gloria Steinem, 92, who gave feminism a good name and an image that debunked the stereotype, died in her New York home; through her life, she had a strong connection with India",
-     "published": "2026-09-06T02:20:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/36r3dk/article71425481.ece/alternates/LANDSCAPE_1200/Gloria_Steinem_64232.jpg",
-     "licence": "linkout",
-     "id": "7cb41a1828c3",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
-     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
-     "published": "2026-09-05T20:12:50+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e5acc0fd27af",
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
@@ -1303,6 +1291,114 @@
       }
      ],
      "id": "23252798e3da",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "What does folklore have to say? It helps uncover untold facets of Indigenous stories overlooked for generations",
+     "url": "https://globalvoices.org/2026/09/06/what-does-folklore-have-to-say-it-helps-uncover-untold-facets-of-indigenous-stories-overlooked-for-generations/",
+     "summary": "I never thought of documenting the Indigenous Tharu folklore until my grandmother left this world. Now she is no more with us, I yearn for those priceless words of wisdom.",
+     "published": "2026-09-06T04:18:04+00:00",
+     "source": "Global Voices",
+     "byline": "Sanjib Chaudhary",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/08/Tharu-women-with-tattoo-by-Indu-Tharu-800x450.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "Some interesting stories I came across during documentation of Tharu Indigenous folklore"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "A Tharu woman from Kailali District of Western Nepal with tattoos on her legs. Photo by Indu Tharu, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "This post is part of Global Voices’ August 2026 Spotlight series, “Indigenous Rights.” This series offers insight into the lives and experiences of Indigenous peoples to build connections across regions, center Indigenous experiences, and share the stories of leaders, activists, community members, and more. You can support this coverage by donating here."
+      },
+      {
+       "kind": "p",
+       "text": "As a child, I used to sit with my grandmother near a borais (a small earthen pot used to make fire) during the harsh winter days. I would listen to her stories of benevolent and malevolent characters – djinns, spirits, ghosts, witches and wizards, trees, birds and animals that had special significance in the Tharu culture and tradition. She used to sing folk songs and then explain their meaning."
+      },
+      {
+       "kind": "p",
+       "text": "I never thought of documenting the Indigenous Tharu folklore until she left this world. Now that she is no more with us, I yearn for those priceless words of wisdom. Fortunately, I had the opportunity to join hands with Amrit Sufi and Subhasish Panigrahi, who have not only been documenting oral culture in India but have also inspired and helped many culture and tradition lovers document their own cultures."
+      },
+      {
+       "kind": "p",
+       "text": "Documenting Indigenous folklore is time-consuming work. One needs to spend time with the communities before they are comfortable enough to open up and share their folktales, songs, phrases and idioms, not to mention their personal experiences."
+      },
+      {
+       "kind": "p",
+       "text": "While documenting Tharu oral culture in eastern Nepal, I came across many interesting facts that would reveal untold facets of Indigenous stories if researched further."
+      },
+      {
+       "kind": "h",
+       "text": "Morangsair: A song of seasonal migration"
+      },
+      {
+       "kind": "p",
+       "text": "When I recorded a folk song called “Morangsair” or “Morangesari,” which is still sung in the eastern part of Nepal’s southern plains, I learned about the seasonal migration of young men from the Saptari District, in the easternmost part of Madhesh Province to Morang District of Koshi Province in eastern Nepal where it was more fertile and provided work for men wanting to earn some extra money."
+      },
+      {
+       "kind": "p",
+       "text": "Sunsari District, named after the Sursair River (nowadays called “Sunsari River”), was part of the Morang District before 1962. Now, we have to cross two rivers, the Koshi River and Sunsari River, to get to Sunsari (earlier Morang) from Saptari. The journey used to be much more difficult in those times, before bridges were built."
+      },
+      {
+       "kind": "p",
+       "text": "The folk song is the lament of a young woman who is pleading with her husband not to go to Morang. She talks about the dense forest, the hot climate and the Sursair River, which he would need to cross to get to Morang. However, the song doesn’t mention Koshi River, which is the biggest river in Nepal and lies ahead of Sunsari River on the way to Morang."
+      },
+      {
+       "kind": "p",
+       "text": "In the video below, Chandrakala Chaudhary from Itahari, Sunsari District, sings “Morangsair,” also called “Morangesari”:"
+      },
+      {
+       "kind": "p",
+       "text": "Researching further, I learned that the current Koshi River had been flowing many kilometres east of where it is now. In the Indian part, the river has shifted almost 100 kilometres west. Also, the Ganges River is called “Sursuri” or “Sursari” in the Guru Granth Sahib, a sacred Hindu scripture. The Sursair and Koshi Rivers eventually terminate in the Ganges."
+      },
+      {
+       "kind": "h",
+       "text": "Biyahi: When a river is named after a married woman"
+      },
+      {
+       "kind": "p",
+       "text": "Talking with a Tharu elder, Mahabir Chaudhary, in Nepal’s Saptari District, I came across an interesting fact: a river and its tributary have been named after the Tharu words for a married woman."
+      },
+      {
+       "kind": "p",
+       "text": "The river has been renamed “Behai” by the Nepali-speaking administrators. However, according to Tharu elders, the river’s original name is “Biyahi,” meaning the “first wife” in Kochila Tharu or Eastern Tharu language. A tributary called “Samdahi” feeds the river. Samdahi is the word for “second wife” in Eastern Tharu. The Samdahi River and Biyahi River, after the confluence, continue flowing as Biyahi River."
+      },
+      {
+       "kind": "h",
+       "text": "Sabudana ke gachhi: The tattoo motif that tells story of sago pearls"
+      },
+      {
+       "kind": "p",
+       "text": "Kashia Chaudhary from Nepal's Sunsari District with a sago palm and marigold tattoos on her lower arms. Photo by Sanjib Chaudhary, used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "These days, sabudana or sago found in the markets is made mainly from cassava root starch. However, traditionally sago pearls were also made from the pith of sago palms. I came to find out about this process of making sago pearls during an interview with elderly Eastern Tharu-speaking women. One of them showed a tattoo that looked like a palm tree and said that it was sabudana ke gachhi. “Gachhi” is a Tharu word for a tree. She also told me that sabudana used to be made from a palm tree."
+      },
+      {
+       "kind": "p",
+       "text": "I then researched further and found that in the past they used to cut down the palm trees, scrape the starchy core from the trunk and process it further to make sago pearls. The tradition is still prevalent in some southeastern countries."
+      },
+      {
+       "kind": "p",
+       "text": "There are many more stories I have heard while documenting Tharu oral culture that need to be told to a wider audience."
+      },
+      {
+       "kind": "p",
+       "text": "But I still yearn to recall the stories told to me by my grandmother while sitting together by the fireside on chilly winter days."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "007c857ef3c3",
      "category": "money",
      "category_label": "Money & scams"
     },
@@ -1813,20 +1909,20 @@
      "category_label": "Weather & disaster"
     },
     {
-     "title": "Bengali Hindu landlord split ₹1.89 cr rental income between HUF and personal ITR, then got a tax notice — here's why",
-     "url": "https://www.livemint.com/money/bengali-hindu-landlord-split-1-89-cr-rental-income-between-huf-and-personal-itr-then-got-a-tax-notice-heres-why-11788660532332.html",
-     "summary": "A legal dispute arose over ₹1.89 crore rental income claimed by a Bengali Hindu landlord under HUF tax status. Despite being challenged by tax authorities, the ITAT Delhi ruled in his favor. Here's what happened.&nbsp;",
-     "published": "2026-09-06T03:31:53+00:00",
+     "title": "Think a ₹10,000 income mismatch is too small to matter? Tax expert explains why it could trigger an Income Tax notice",
+     "url": "https://www.livemint.com/money/personal-finance/think-a-10-000-income-mismatch-is-too-small-to-matter-tax-expert-explains-why-it-could-trigger-an-income-tax-notice-11788525453178.html",
+     "summary": "A small ₹10,000 income mismatch in savings interest, dividends or freelance receipts could trigger an income tax notice. Tax expert urges taxpayers to reconcile AIS and TIS statements before filing returns to avoid compliance hassles and penalties.",
+     "published": "2026-09-06T04:31:30+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/rental_1788665450780_da8d7b12-9f7a-4a53-87f4-bb16cfc54435_1788665458490_9a5d3c6c-8d02-43bc-a77c-bd0ebd83d532_f892f04e-ca6d-4848-a781-2b812c3ad499_2dff8857-6a0c-4542-9f74-debbe88a79be.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/tax_management_1788661006972_badfbe04-d169-45ff-a5b2-22ad4cac23eb_1788661011589_663478a9-a58d-497e-bdcb-523063734e5c_821aebd8-4173-405c-bf3d-5e8c13afe817_864b4cee-b09b-46ba-bec8-3d16e43cc17e.jpg",
      "licence": "linkout",
-     "id": "733253d7c475",
+     "id": "40fb9f64ecb4",
      "category": "money",
      "category_label": "Money & scams",
      "figures": [
-      "₹1.89  cr rental income between",
-      "₹1.89 crore rental income claimed"
+      "₹10,000  income mismatch is too",
+      "₹10,000  income mismatch in savings"
      ]
     },
     {
@@ -1860,19 +1956,6 @@
      "figures": [
       "₹21,000  ceiling, while employee groups"
      ]
-    },
-    {
-     "title": "Debt warning signs: 5 red flags that your borrowing may be getting out of control",
-     "url": "https://www.livemint.com/money/personal-finance/debt-warning-signs-5-red-flags-that-your-borrowing-may-be-getting-out-of-control-11788528878671.html",
-     "summary": "Debt can quietly become a financial burden. Here are five warning signs of excessive debt, from minimum credit card payments and high EMIs to borrowing for repayments and using savings for bills.",
-     "published": "2026-09-06T02:16:54+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/debt_management_1788660882924_c3221950-a857-4d24-8c17-cb68d7de8d0a_1788660887244_228ea3f7-0c93-4000-923a-6c3544b697ce_fe6f1ebc-efee-4c0c-b9dc-174d2338f162_d4521efc-0229-4afc-963c-7f0cd5fca6fb.jpg",
-     "licence": "linkout",
-     "id": "30182494bb54",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1882,6 +1965,19 @@
    "title": "Technology",
    "upsc": false,
    "items": [
+    {
+     "title": "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNREg5cS04OHJzOV9CRmdDNTVyYjZtWkVjcU9Helh1U09QSE1FTkpRZHRqRzBuVGc0WlE5N0duNmpVSmpJay1Kdm04UnZnVTNfaDZmVmlpUy1yY0stNWZxQXhwT3p2VHBZUkxtajR5Um1TZUVodW9tSEdzTEtfTjZLeWQtaDRONGVXQUNXd3Uza1VsYXNBTFJCZDJkZnV0a1RtTkN1MkV1dEF6c2RDckFtTWlqUlo2TXAtOUM0bWk1WQ?oc=5",
+     "summary": "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations Cureus",
+     "published": "2026-09-05T17:19:45+00:00",
+     "source": "Cureus",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "88b4cd605e3b",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
     {
      "title": "24_Che_RR_IIT Madras professor Ravindran is appointed to UN panel on artificial intelligence",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYUU3ckJtVXppbGVYQjZVZDd3SG9jUHFmYVlHN3VrVjFTS0x3M00wN0gzdlhiTDNXQVRwdlpKaGlYZVlKTU00cDRzRXQ1c0xqRXEwbGU2VlNSQUJ4eWhwY2thUU0ybUtCMVBPWkdpUlpIVmJadG9iZ1dabGlhRDM0eUNYMHNmdGxhLTRHSGNVMU1sTVpZVDN4eEc2TnhLVDBCeHVaLTA3Y3R0SVlfd25qVzllOG9VSjlrR3M4WEJHUmg5YjBoc19DOHlrUldGQTQ5Vm1CM2RvLXdZWjNWVHNaYmo4azBzUzJKb0hvc18wczFoNDlFUG8tUTRwb9IBgAJBVV95cUxQLTJONGthdTAxcENLSHZ1ODU5c0Myc01wdFBPTjdtaEM4M3lqZFJ2SERBUTF5N2lzeV9KbGZkY2hBa19EWlh2aE0yLVcxdTR1bzQ4UGp6Qi1YaUVNa0tJNE5Pd2R1S2lqOVdBOFdMalN1NFlCU2RQOF95LTQ3bUZ2QVFhcWJMdUFZVVhJUHI0SjBJT2tUVXdJaFQ5SzIxTzdJQkRCX291WmFmcS16UF92WENwbTlmS1dld3hRandNM1gyZ3dIRW9qUFNpb2FxM24xWG0zeW5jNW5fdXUtWnhnRTJ1NWFwUUtBejYzSzFRejhwd2YxSF9OUkIta1gxNDR1?oc=5",
@@ -1909,11 +2005,11 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut - business-standard.com",
+     "title": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdlp5eWVyQXhXV3duM0NBXzloWW4zcFdMd090bzRFTW0yYWpIREJGS2NlUi1Va3E0Y2o4SkVFTlU1Ujg3NEJOaWU0VU5feHNCZ1hnV3NQQ3YyZ254VXhaalhrWHRmZzZsWVJqd001a21tVVZHeW9mTEtJOUYzVkJrcWV1ems2ckhkZHpBOE9lTUptNFIwZXZkdVNRNURpOTJYM2d4VzNrMVdDRlBxQUEtVy1PZVBaWkxTbU10ZnVOeHdELWhxRDA2RG1hTjlQS0txaXk3cGkzV3d6SldQanN3MzBFTlZWWF9RZGfSAe8BQVVfeXFMUDBTdGNDVUhySGV3QnB1TTFyOTNucmt5YjNnRWtvVzctTGFvN0hkMGNITGo0bDEzdkNOVlpHeHV2elBKSldTU3FRUmJGSno5Nm9JVmx5dEVuNkJ3eU5DNzZhZHd1NXpFaFdnbXVXdzIteGFmYW04TEhiUHJxOFVQbnotS19QS2hoc1J5Zmd0TllvUDNzUmdnaU9NdDU2Y2JKZEg2aTZFSG5kSVFLaUFFbGR0Skh4NDZaOWUtMWZmTW1hOWYwZ0M4SmJ0OXFjY05fQWFYdloxa1ZQM29INjdUR3E2QWt6aHYwSFBIenNONmM?oc=5",
-     "summary": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut business-standard.com",
+     "summary": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut Business Standard",
      "published": "2026-09-05T10:22:47+00:00",
-     "source": "Google News",
+     "source": "Business Standard",
      "byline": "",
      "image": null,
      "licence": "linkout",
