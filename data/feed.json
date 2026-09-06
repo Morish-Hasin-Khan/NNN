@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T04:35:21.999313+00:00",
+ "generated_at": "2026-09-06T05:02:15.851576+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 125216.0,
    "change": 3597.0,
    "changePct": 2.96,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
+  "More Congo",
   "Takes Pakistan",
-  "Nearly Israeli",
   "Jazeera English",
   "News",
   "Prior Consent",
   "Haryana",
-  "Mappilappattu Nisar",
-  "News Frames",
-  "German",
-  "Indonesia Anak"
+  "Govt Maharashtra",
+  "Farakka North",
+  "South Africa",
+  "Nepal"
  ],
  "sections": [
   {
@@ -101,6 +102,24 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "More than 20 killed in fire at wedding party in DR Congo",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
+     "summary": "Authorities have launched an investigation into a fire that killed 22 people at a wedding party in Kinshasa, DR Congo.",
+     "published": "2026-09-06T04:47:55+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-congo-fire-1788670021.png?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "3339486837f3",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "20 killed in fire at wedding",
+      "22 people at a wedding party"
+     ]
+    },
     {
      "title": "PCB Takes Pakistan Players' Phones Into Custody, Drama Unfolds Ahead Of 3rd England Test: Report",
      "url": "https://sports.ndtv.com/cricket/pcb-takes-pakistan-players-phones-into-custody-drama-unfolds-ahead-of-3rd-england-test-report-12008017#publisher=newsstand",
@@ -135,37 +154,6 @@
      ]
     },
     {
-     "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-     "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-     "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-     "published": "2026-09-05T21:29:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
-     "licence": "linkout",
-     "id": "d31b4f8c9165",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "11 sentenced to death in Egypt"
-     ]
-    },
-    {
-     "title": "Javelin | An icon of modern warfare",
-     "url": "https://www.thehindu.com/news/national/javelin-an-icon-of-modern-warfare/article71433164.ece",
-     "summary": "The anti-tank system India is planning to acquire is a mainstay brigade combat team weapon for the U.S. Army and Marine Corps",
-     "published": "2026-09-06T03:24:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2j2lzn/article71433161.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
-     "licence": "linkout",
-     "id": "5d5ca6610be6",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "National Hotlines"
-    },
-    {
      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
      "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
@@ -175,20 +163,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
      "id": "5ea7c78ca31e",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-     "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-     "summary": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
-     "published": "2026-09-06T01:02:08+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a889d7c-1787338108.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9237ff105d28",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -236,6 +210,20 @@
      "from_section": "National News"
     },
     {
+     "title": "South Africa’s chrome riches fuel a deadly underground economy",
+     "url": "https://www.aljazeera.com/news/2026/9/6/south-africas-chrome-riches-fuel-a-deadly-underground-economy?traffic_source=rss",
+     "summary": "Behind South Africa’s chrome riches lies a shadow economy where migrants and unemployed workers face deadly conditions.",
+     "published": "2026-09-06T04:31:45+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/illegal-chrome-workers-at-work-pic-credit-Tsitsi-Bhobo-1786979291.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "c2fc34cfb569",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News"
+    },
+    {
      "title": "Think a ₹10,000 income mismatch is too small to matter? Tax expert explains why it could trigger an Income Tax notice",
      "url": "https://www.livemint.com/money/personal-finance/think-a-10-000-income-mismatch-is-too-small-to-matter-tax-expert-explains-why-it-could-trigger-an-income-tax-notice-11788525453178.html",
      "summary": "A small ₹10,000 income mismatch in savings interest, dividends or freelance receipts could trigger an income tax notice. Tax expert urges taxpayers to reconcile AIS and TIS statements before filing returns to avoid compliance hassles and penalties.",
@@ -272,23 +260,6 @@
      ]
     },
     {
-     "title": "Think your salary TDS covers everything? How a ₹15-lakh FD can trigger advance tax penalties on September 15",
-     "url": "https://www.livemint.com/money/personal-finance/think-your-salary-tds-covers-everything-how-a-15-lakh-fd-can-trigger-advance-tax-penalties-on-september-15-11788661597032.html",
-     "summary": "The issue, the financial planner said, stems from the gap between the bank's basic tax deduction and an investor’s actual income slab.",
-     "published": "2026-09-06T03:19:46+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/3d5fa02a-13c8-4fec-998e-ac35816fd854_1788664185307_bfa42e19-6d9f-434c-910a-d63ac2c8e989_1788664192983_3dc86822-2622-44c1-8e84-4b7c531c5f25_9aed493a-f500-4bd9-b846-5a00c064d2af_6c6a5667-7390-4412-b3ca-d4e3e5791bb3.jpeg",
-     "licence": "linkout",
-     "id": "0677573947ec",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹15 -lakh FD can trigger"
-     ]
-    },
-    {
      "title": "Mappilappattu singer Nisar Wayanad passes away in Dubai",
      "url": "https://www.thehindu.com/news/national/kerala/mappilappattu-singer-nisar-wayanad-passes-away-in-dubai/article71434512.ece",
      "summary": "According to reports, Nisar, 44, had been undergoing treatment for fever at a private hospital in Dubai",
@@ -314,7 +285,7 @@
      "id": "94e89e4a969e",
      "category": "celebrity",
      "category_label": "Celebrity",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Bhupesh Baghel's Punjab Rescue Mission For Congress Ends With His Own Exit",
@@ -418,18 +389,35 @@
      "from_section": "Technology"
     },
     {
-     "title": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026: All Eyes On Vaibhav Sooryavanshi As East Zone Opt To Bat",
+     "title": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026: 4, 6, 4 - Vaibhav Sooryavanshi Thrashes Mohammed Siraj; East Zone On Top",
      "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-day-1-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-east-zone-vs-south-zone-12006147#publisher=newsstand",
-     "summary": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026 Cricket Match Scorecard LIVE Updates: East Zone skipper Ishan Kishan won the toss and opted to bat against South Zone in the final of the prestigious Duleep Trophy.",
-     "published": "2026-09-06T03:53:25+00:00",
+     "summary": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026 Cricket Match Scorecard LIVE Updates: Vaibhav Sooryavanshi and Abhimanyu Easwaran are forming a good partnership for East Zone on Day 1 of the Duleep Trophy final against South Zone.",
+     "published": "2026-09-06T04:42:57+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/p9ce3p6c_vaibhav-sooryavanshi-bcci_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/acel9ro8_vaibhav-sooryavanshi-bcci_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "f7083e60cf0b",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
+    },
+    {
+     "title": "\"Pakistan Best Team In Women's Asia Cup\": Coach Wahab Riaz After 55-All Out Show Against India",
+     "url": "https://sports.ndtv.com/cricket/pakistan-best-team-in-womens-asia-cup-coach-wahab-riaz-after-55-all-out-show-against-india-12008149#publisher=newsstand",
+     "summary": "Pakistan women's team coach Wahab Riaz made a surprising statement after the team was bowled out for 55 against India, labelling his side the \"best\" in Women's Asia Cup 2026.",
+     "published": "2026-09-06T04:24:49+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/fea2o0cs_india-vs-pakistan-women-getty_625x300_06_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3f6e3ddd8648",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "55 against India, labelling his side"
+     ]
     },
     {
      "title": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt",
@@ -459,7 +447,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-06T04:35:10.291793+00:00",
+     "published": "2026-09-06T05:02:03.087448+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -470,7 +458,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-06T04:35:10.291803+00:00",
+     "published": "2026-09-06T05:02:03.087459+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -481,7 +469,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-06T04:35:10.291807+00:00",
+     "published": "2026-09-06T05:02:03.087464+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -492,7 +480,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-06T04:35:10.291809+00:00",
+     "published": "2026-09-06T05:02:03.087469+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -503,7 +491,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-06T04:35:10.291812+00:00",
+     "published": "2026-09-06T05:02:03.087473+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -514,7 +502,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-06T04:35:10.291814+00:00",
+     "published": "2026-09-06T05:02:03.087477+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -747,20 +735,6 @@
      "kind": "liveblog",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Duleep Trophy Final Live Score, East Zone vs South Zone Live Updates: Focus On Vaibhav Sooryavanshi",
-     "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-live-score-east-zone-vs-south-zone-live-updates-vaibhav-sooryavanshi-in-action-12006166#publisher=newsstand",
-     "summary": "Duleep Trophy Final Live Score, East Zone vs South Zone Live Updates:Vaibhav Sooryavanshi, Devdutt Padikkal and Tilak Varma will be eager to amplify their recent red ball gains while Mohammed Siraj will look to rediscover his rhythm",
-     "published": "2026-09-06T02:38:22+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/rdq1cfn4_vaibhav-sooryavanshi_625x300_05_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "95b3e0c0cd6c",
-     "kind": "liveblog",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -802,6 +776,19 @@
      ]
     },
     {
+     "title": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVJRR2tDdlFKSi12OG56MTF3cEFZa0wtdHZvOXpuY1dRNTFUNVpLTlZfVHZsZ2JXajZwTXUxYUVUTi1hanR5YjZEUEdDS3RWdWd4cGFCRk1DRkJEcXFNYzJlejR6TGRnV1NfTUJEcnlUTlJvRnF1TUVoVEdBRUdLbjFYa3lCLUFlMjN1bzB1VDZDb1V3S2VzWk56WS1ob2N0dGg4?oc=5",
+     "summary": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket News On AIR",
+     "published": "2026-09-05T17:37:44+00:00",
+     "source": "News On AIR",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "b0b1fa438e5d",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGZIOUJEWVdVRGVIWGtyd2F0Zk5zb25NWHUzR3dDdVo4QmM4d2JZQWVMMVlCNXFCQkNzYlU0RThIX29tcU1GQkk3elNZb3hwbHZKSnh5ZXVZVVhtUmhqUjNVMDh5c2EzTmJqSmtWclBiQ1BtcV85SUhwdWxXRlVOUThnMVZGUXlrM2s4MHh5SEVoOXE4SUhYcExtcVQ2RWxseFdnUzR1X2JpQjIzV1hkRXd5bXlOZU1PRE1B0gHAAUFVX3lxTE9mMnZ6dEx2YkdVcE43empyNTBZVVhmMnZMUzBlLVpTczJpYzlaNUE3ZXNBUnZzU1Nva3pLLUxYLTI2WUFucU5yMm5QUlhncmoweDFUSVkwdmVDbzBPcWkwdllhTjVLUDJUMEpiUkxkbUNGTlJKZWs2YmNRZVREbFE0YXRNN0sxVTM2cXVXQmJVTFo0V2tobzk5WVJrQmR5MWI4aWJFTGdOOEl1Uzc2VG0xWHZQYWtxWjBrUVBVRVJJSw?oc=5",
      "summary": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India Fox News",
@@ -822,6 +809,32 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Govt must listen to Maharashtra students’ voice otherwise ‘Chhatron ki Goonj’ will grow louder: Rahul",
+     "url": "https://www.thehindu.com/news/national/govt-must-listen-to-maharashtra-students-voice-otherwise-chhatron-ki-goonj-will-grow-louder-rahul/article71434526.ece",
+     "summary": "Mr. Gandhi said whether it's the Central or State government, every student is \"tormented\" by the BJP regime",
+     "published": "2026-09-06T04:55:49+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/64ek60/article71434561.ece/alternates/LANDSCAPE_1200/RAHUL%20CONGRESS%20CONVENTION%20%20DELHI%202026_13_08_22.jpg",
+     "licence": "linkout",
+     "id": "5fe54110bcbf",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Farakka rail restoration nears completion; North Bengal train services may resume soon",
+     "url": "https://www.thehindu.com/news/national/west-bengal/farakka-rail-restoration-nears-completion-north-bengaltrain-servicesmayresume-soon/article71432010.ece",
+     "summary": "Trial run conducted on restored down line as railway authorities inspect tracks for safety",
+     "published": "2026-09-06T04:48:52+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6chwzv/article71434491.ece/alternates/LANDSCAPE_1200/PTI09_04_2026_000223B.jpg",
+     "licence": "linkout",
+     "id": "9ccb99ec500b",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Mappilappattu singer Nisar Wayanad passes away in Dubai",
      "url": "https://www.thehindu.com/news/national/kerala/mappilappattu-singer-nisar-wayanad-passes-away-in-dubai/article71434512.ece",
@@ -867,19 +880,6 @@
      ]
     },
     {
-     "title": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit",
-     "url": "https://www.thehindu.com/news/national/kerala/kanthapuram-ap-aboobacker-power-beyond-the-pulpit/article71433157.ece",
-     "summary": "The Muslim cleric and scholar based in Keralam has faced criticism over his recent comments that women should remain at home rather than occupy public spaces",
-     "published": "2026-09-06T03:49:27+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/luzudw/article71433153.ece/alternates/LANDSCAPE_1200/Kanthapuram%201.jpg",
-     "licence": "linkout",
-     "id": "e08a34cb7da4",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Pralhad Joshi Pays Homage To Sarvepalli Radhakrishnan, 82 Teachers Receive National Awards",
      "url": "https://www.ndtv.com/education/pralhad-joshi-pays-homage-to-sarvepalli-radhakrishnan-82-teachers-receive-national-awards-12007949#publisher=newsstand",
      "summary": "Education Ministry Updates: Joshi also hosted a dinner in honour of the recipients of the National Teachers' Awards 2026.",
@@ -903,6 +903,36 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "More than 20 killed in fire at wedding party in DR Congo",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
+     "summary": "Authorities have launched an investigation into a fire that killed 22 people at a wedding party in Kinshasa, DR Congo.",
+     "published": "2026-09-06T04:47:55+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-congo-fire-1788670021.png?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "3339486837f3",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "20 killed in fire at wedding",
+      "22 people at a wedding party"
+     ]
+    },
+    {
+     "title": "South Africa’s chrome riches fuel a deadly underground economy",
+     "url": "https://www.aljazeera.com/news/2026/9/6/south-africas-chrome-riches-fuel-a-deadly-underground-economy?traffic_source=rss",
+     "summary": "Behind South Africa’s chrome riches lies a shadow economy where migrants and unemployed workers face deadly conditions.",
+     "published": "2026-09-06T04:31:45+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/illegal-chrome-workers-at-work-pic-credit-Tsitsi-Bhobo-1786979291.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "c2fc34cfb569",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
     {
      "title": "German voters head to polls as far-right AfD party eyes historic state win",
      "url": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
@@ -930,37 +960,6 @@
      "category_label": "General"
     },
     {
-     "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
-     "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
-     "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
-     "published": "2026-09-06T02:56:31+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9cbcfbe0b64-1788656891.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "ae94b0cf8920",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "9,000 killed in Israeli attacks",
-      "179 attacks on ambulance crews recorded",
-      "2, killing 179 healthcare workers"
-     ]
-    },
-    {
-     "title": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss",
-     "summary": "A 21-year-old student in India’s Madhya Pradesh has single-handedly cleaned up a trash-filled river.",
-     "published": "2026-09-06T01:38:52+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-cms-cleanup-boy-1788658660.png?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "27f90b528f28",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
@@ -972,6 +971,22 @@
      "id": "84a48662e571",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+     "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+     "published": "2026-09-05T21:29:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
+     "licence": "linkout",
+     "id": "d31b4f8c9165",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "11 sentenced to death in Egypt"
+     ]
     },
     {
      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
@@ -1061,6 +1076,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Govt must listen to Maharashtra students’ voice otherwise ‘Chhatron ki Goonj’ will grow louder: Rahul",
+     "url": "https://www.thehindu.com/news/national/govt-must-listen-to-maharashtra-students-voice-otherwise-chhatron-ki-goonj-will-grow-louder-rahul/article71434526.ece",
+     "summary": "Mr. Gandhi said whether it's the Central or State government, every student is \"tormented\" by the BJP regime",
+     "published": "2026-09-06T04:55:49+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/64ek60/article71434561.ece/alternates/LANDSCAPE_1200/RAHUL%20CONGRESS%20CONVENTION%20%20DELHI%202026_13_08_22.jpg",
+     "licence": "linkout",
+     "id": "5fe54110bcbf",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Farakka rail restoration nears completion; North Bengal train services may resume soon",
+     "url": "https://www.thehindu.com/news/national/west-bengal/farakka-rail-restoration-nears-completion-north-bengaltrain-servicesmayresume-soon/article71432010.ece",
+     "summary": "Trial run conducted on restored down line as railway authorities inspect tracks for safety",
+     "published": "2026-09-06T04:48:52+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6chwzv/article71434491.ece/alternates/LANDSCAPE_1200/PTI09_04_2026_000223B.jpg",
+     "licence": "linkout",
+     "id": "9ccb99ec500b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Mappilappattu singer Nisar Wayanad passes away in Dubai",
      "url": "https://www.thehindu.com/news/national/kerala/mappilappattu-singer-nisar-wayanad-passes-away-in-dubai/article71434512.ece",
      "summary": "According to reports, Nisar, 44, had been undergoing treatment for fever at a private hospital in Dubai",
@@ -1074,35 +1115,17 @@
      "category_label": "Celebrity"
     },
     {
-     "title": "News in Frames | Where the mountains narrate stories",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/news-in-frames-where-the-mountainsnarrate-stories/article71434468.ece",
-     "summary": "Suru Valley preserves a rich cultural heritage shaped by Purgi traditions, Islamic and Buddhist influences; the Suru Summer Festival recently showcased this legacy as the administration promotes Kargil as a sustainable tourism destination",
-     "published": "2026-09-06T04:09:17+00:00",
+     "title": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit",
+     "url": "https://www.thehindu.com/news/national/kerala/kanthapuram-ap-aboobacker-power-beyond-the-pulpit/article71433157.ece",
+     "summary": "The Muslim cleric and scholar based in Keralam has faced criticism over his recent comments that women should remain at home rather than occupy public spaces",
+     "published": "2026-09-06T03:49:27+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yy5w5q/article71434479.ece/alternates/LANDSCAPE_1200/NEWS%20IN%20FRAMES_%2028.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/luzudw/article71433153.ece/alternates/LANDSCAPE_1200/Kanthapuram%201.jpg",
      "licence": "linkout",
-     "id": "28fc049ea516",
+     "id": "e08a34cb7da4",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Flyover to cut down travel time by 30 minutes",
-     "url": "https://www.thehindu.com/news/national/telangana/flyover-to-cut-down-travel-time-by-30-minutes/article71423552.ece",
-     "summary": "With the main viaduct 2.53 kilometres long and 16.61 metres wide with four lanes, the structure takes off from Nalgonda Crossroads, flies over the Chanchalguda, Saidabad and IS Sadan junctions, to land at Champapet",
-     "published": "2026-09-06T04:08:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/7245lv/article71426264.ece/alternates/LANDSCAPE_1200/Flyover-to-cut-GJFGG2JHH.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "0faa33c079b0",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "30 minutes",
-      "2.53 kilometres long and 16",
-      "16.61 metres wide with four lanes"
-     ]
     },
     {
      "title": "Eight High Court judges appointed as Chief Justices",
@@ -1114,19 +1137,6 @@
      "image": "https://th-i.thgim.com/public/incoming/cmu9b0/article71433328.ece/alternates/LANDSCAPE_1200/iStock-1666778610.jpg",
      "licence": "linkout",
      "id": "a2fb537379da",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Farakka rail restoration nears completion; North Bengal train services may resume soon",
-     "url": "https://www.thehindu.com/news/national/west-bengal/farakka-rail-restoration-nears-completion-north-bengaltrain-servicesmayresume-soon/article71432010.ece",
-     "summary": "Trial run conducted on restored down line as railway authorities inspect tracks for safety",
-     "published": "2026-09-06T03:23:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6chwzv/article71434491.ece/alternates/LANDSCAPE_1200/PTI09_04_2026_000223B.jpg",
-     "licence": "linkout",
-     "id": "9ccb99ec500b",
      "category": "general",
      "category_label": "General"
     }
@@ -1601,130 +1611,6 @@
      "id": "ed2bbf05f5a8",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "In turbulent times, football brings Haiti hope",
-     "url": "https://globalvoices.org/2026/09/05/in-turbulent-times-football-brings-haiti-hope/",
-     "summary": "The security crisis has displaced more than a million people and caused thousands of deaths, affecting every sector of national life. This includes sport, in general, and football, in particular.",
-     "published": "2026-09-05T05:00:38+00:00",
-     "source": "Global Voices",
-     "byline": "Jude Pierre Louis",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/09/Haiti-football-800x450.jpg",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "Many sports parks are located in areas controlled by gangs, but Haitian football is not dead"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "Feature image of a football in the colours of the Haitian flag, on a football field, created using Canva Pro elements."
-      },
-      {
-       "kind": "p",
-       "text": "In Haiti, the sport of football creates social cohesion: despite their differences, people from all classes come together on the field. Children from wealthy families, poor backgrounds, and middle-class homes alike get the opportunity to mix by either playing for the same football team, or facing one another as opponents."
-      },
-      {
-       "kind": "p",
-       "text": "The same approach informs how players are chosen for the national team; all social categories are represented based solely on the quality of each player’s talent. Spectators have a similar experience, in that people from all walks of life cross paths to celebrate, support their teams, and share moments of victory or defeat."
-      },
-      {
-       "kind": "p",
-       "text": "Naturally, the security crisis that has displaced more than a million people internally and caused thousands of deaths over the last six years has affected every sector of national life. This includes sport in general and football, in particular, since “the beautiful game” is a passion for almost all ages and social groups in Haiti."
-      },
-      {
-       "kind": "p",
-       "text": "Despite the country’s lack of modern sports infrastructure, you can see people of every generation playing football everywhere: on school grounds, in the streets, on unpaved fields, in yards and corridors, and in sports parks across the country. For young people from poor and disadvantaged neighbourhoods, football offers an opportunity to join local semi-professional clubs and maybe even play at national level."
-      },
-      {
-       "kind": "p",
-       "text": "Since the gang violence has escalated, however, much of the country’s main infrastructure has been damaged through looting, fire, or other means, and sports facilities have not been spared. The FIFA Goal Center in Croix-des-Bouquets, for instance, which trained stars like Melchie Dumornay (Corventina) of Olympique Lyonnais in France, Nérilia Mondésir of Seattle Reign FC in the United States, and Kethna Louis of Montpellier HSC in France, was attacked, looted, and burned by the 400 Mawozo gang led by Wilson Joseph (alias Lanmò San Jou)."
-      },
-      {
-       "kind": "p",
-       "text": "Likewise, the Sylvio Cator Stadium in southern Port-au-Prince, the home of Haitian national football, and the Haitian Olympic Center in Croix-des-Missions in the city's north, where many young people would train in different sports, suffered major gang attacks in February 2024 and February 2026, respectively. The area around the Sylvio Cator Stadium is controlled by two powerful gangs, one led by Renel Destina (alias “Ti Lapli” or “Kaporal Lapli”) and the other by Johnson André (alias “Izo 5 Second”). The Olympic Center area is controlled by Claudy Célestin (alias “Chen Mechan” or “Stevenson Pierre”) of the Chen Mechan (“Mean Dog,” in English) gang in Plaine-du-Cul-de-Sac, and Jeff Larose (alias Jeff Gwo Lwa) of the Taliban gang based in Canaan."
-      },
-      {
-       "kind": "p",
-       "text": "Because criminal gangs control the main roads leading to the country's Great South and Great North, the regular national championship has halted, forcing the national football league to adapt and organise a special competition so players can keep playing. Many sports parks are located in areas controlled by gangs, which makes the situation worse."
-      },
-      {
-       "kind": "p",
-       "text": "Despite all this, Haitian football is not dead. On November 18, 2025, the Grenadiers qualified for the 2026 World Cup, even though no qualifying match was played in Haiti because of the gang violence. Although the national team was eliminated in the first round of the World Cup, their participation brought joy to the Haitian people."
-      },
-      {
-       "kind": "p",
-       "text": "The sport continues to put smiles on people’s faces in Haiti. In this year’s Caribbean Football Union (CFU) U14 Challenge Series, which ended on August 23 in Punta Cana, Dominican Republic, the Haitian U14 team won the tournament with a series of brilliant performances."
-      },
-      {
-       "kind": "p",
-       "text": "Haiti's triumphant U14 football team after their victory. Photo courtesy the Caribbean Football Union (CFU), used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "They beat Trinidad and Tobago 4-1 and French Guiana 5-2, lost 1-0 to Puerto Rico (after already qualifying for the semifinals), defeated the host nation 6-1 in the semifinals, and beat Jamaica 4-0 in the final to become Division 1 champions. This victory marked Haiti’s third CFU U14 title, following their previous championship wins in 2021 and 2022. All three titles were secured during a time when the country was going through a crisis."
-      },
-      {
-       "kind": "p",
-       "text": "To help these young players participate in the tournament, the Haitian Football Federation (FHF) organised a talent detection tournament across various regions of the island, with participation from several football academies. Young footballers were enrolled in a two-month preparation camp at the Dulaire Sports Complex/Training Center, in the municipality of Ouanaminthe and, more specifically, in the communal section of Haut-Maribahoux, a border area near Dajabón in the Dominican Republic."
-      },
-      {
-       "kind": "p",
-       "text": "The young champions returned home on Monday, August 24, to a welcome reception at the diplomatic lounge of the Toussaint Louverture International Airport in Port-au-Prince, organised by the Ministry of Youth, Sports, and Civic Action (MJSAC)."
-      },
-      {
-       "kind": "p",
-       "text": "During the ceremony, the Minister of Sports highlighted individual performances, including Jerry Petit-Homme, who scored a goal just four or five seconds into the match against the Dominican Republic — one of the fastest goals in football history. Wensley Dumorné was named the Best Player of Division 1, and Jodley Sheeckensley Delmas was named top scorer, with seven goals."
-      },
-      {
-       "kind": "p",
-       "text": "Team captain Cedric Clairemond shared a warm message with Haitian football fans, on behalf of all the players:"
-      },
-      {
-       "kind": "p",
-       "text": "Moun yo mèsi anpil pou lamou nou, jodi a nou chanpyon nou ba nou koup la, mwen fyè anpil paske mwen reprezante peyi'm antan ke kapitèn, sa fè de mwa n ap prepare, nou te motive pou sa, tout objektif la se te chanpyon jodi a nou fè'l, nou swete pou nou rejwi de koup la, ti grenadye yo ap vini pou nou monte pi wo."
-      },
-      {
-       "kind": "p",
-       "text": "Thank you everyone so much for your love. Today we are champions and we bring you the trophy. I am very proud to represent my country as captain. We prepared for two months and were very motivated. The goal was to become champions, and today we did it. We hope you enjoy this trophy; the young Grenadiers are coming to reach even higher levels."
-      },
-      {
-       "kind": "p",
-       "text": "Sports Minister Phytagore Dumas stated his commitment to supporting these young players in their education and personal growth. According to a statement from his ministry, the young Grenadiers won on the field, and it is now up to the nation to support them towards a future worthy of their talent."
-      },
-      {
-       "kind": "p",
-       "text": "The Haitian Football Federation echoed this sentiment:"
-      },
-      {
-       "kind": "p",
-       "text": "Aktivite jodi a se te pou temwanye yo lanmou ak sipò, pou renouvle angajman nou pou kontinye batay pou leve nivo foutbòl la nan peyi a epi garanti relèv la. Objektif la pa t lòt, se mize sou jenès la jodi a pou reyalize rèv demen yo."
-      },
-      {
-       "kind": "p",
-       "text": "Today’s event was to show them love and support, and to renew our commitment to keep fighting to raise the level of football in the country and secure the future. The objective was simple: invest in today’s youth to achieve tomorrow’s dreams."
-      },
-      {
-       "kind": "p",
-       "text": "Haiti’s U17 national team is currently preparing at Parc Sainte-Claire in Delmas for the 20th edition of the FIFA U-17 World Cup in Qatar, training and playing friendly matches against local teams to get ready for the tournament, which takes place from November 19 to December 13. Meanwhile, the U20s narrowly missed qualification for the FIFA U-20 World Cup in Chile. On August 31, however, the same team qualified for the men’s football tournament of the 2027 Pan American Games, to be held in Lima, Peru. Haiti earned its spot as the highest-ranked Caribbean team following its performance in the recent Concacaf U-20 Championship."
-      },
-      {
-       "kind": "p",
-       "text": "Yet, because of the ongoing violence, especially in the metropolitan area of Port-au-Prince, Haiti itself cannot celebrate as it would like. Even with the U14s’ great performance, the joy did not last long. On the night of August 24, fewer than 24 hours after their victory, armed gangs from the criminal group Viv Ansanm killed around 47 people and kidnapped more than 30 others, including young girls, women, and seniors in the municipality of Kenscoff, a mountain town near the capital."
-      },
-      {
-       "kind": "p",
-       "text": "In spite of the challenges, good things keep happening every day in the country. You can see it in culture, art, farming projects, entrepreneurship and sport, especially in parts of the country not under gang control. Perhaps that is football’s most enduring lesson — that in spite of obstacles, you must keep moving forward."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "c33064a7d651",
-     "category": "sports",
-     "category_label": "Sports"
     }
    ]
   },
@@ -1926,6 +1812,22 @@
      ]
     },
     {
+     "title": "Think your salary TDS covers everything? How a ₹15-lakh FD can trigger advance tax penalties on September 15",
+     "url": "https://www.livemint.com/money/personal-finance/think-your-salary-tds-covers-everything-how-a-15-lakh-fd-can-trigger-advance-tax-penalties-on-september-15-11788661597032.html",
+     "summary": "The issue, the financial planner said, stems from the gap between the bank's basic tax deduction and an investor’s actual income slab.",
+     "published": "2026-09-06T03:19:46+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/3d5fa02a-13c8-4fec-998e-ac35816fd854_1788664185307_bfa42e19-6d9f-434c-910a-d63ac2c8e989_1788664192983_3dc86822-2622-44c1-8e84-4b7c531c5f25_9aed493a-f500-4bd9-b846-5a00c064d2af_6c6a5667-7390-4412-b3ca-d4e3e5791bb3.jpeg",
+     "licence": "linkout",
+     "id": "0677573947ec",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹15 -lakh FD can trigger"
+     ]
+    },
+    {
      "title": "Retiring at 45? Why the 4% rule may not work for your mutual fund corpus and what early retirees can do",
      "url": "https://www.livemint.com/money/personal-finance/retiring-at-45-why-the-4-rule-may-not-work-for-your-mutual-fund-corpus-and-what-early-retirees-can-do-11788586137256.html",
      "summary": "Retiring at 45 can mean funding expenses for 40 years or more, making the withdrawal strategy as important as building the corpus. Experts explain why the 4% rule may not suit early retirees in India.&nbsp;",
@@ -1992,6 +1894,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "Anthropic IPO launch shifts toward mid-October: Report",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQREs0ajlIYUl1dWNqd2lOSUNUZFJ5NGhhRVBZS0FfdWIzd3pJaE1iSVBWYWVTREItVmozX1BxRGVGUUw5RjlSMXJlSXc1bkREc1N5R0xxM3VmQVNkYl85UWlmYnRDRWpwZmlvNU5hYklZN3p4UFFwZ25hMFMzd1lQM01FR0FuTVhWMWZlazNrVndVZFBaUFpPbXdyLVRUSE1jdXpXaksybkhseklwc3hBdHVMNGt4dnljcHQ3QmthSmxsSGwyOWRpZkFSREnSAdMBQVVfeXFMTXRJZk9NNXN0OVJEbFhIZGtGdXFVbUhySENTVUZWN0dYOEwyamJnZTVwZEdWcHR2QlpWRG95ZVI4UnFwZEVuUVZTVlFDM1dqRmcxcXktTjRLZDVuc0V6aWlXcGJkY3BKeDQwS0hEQlR0QVBkSFZZalBoTElobndRZHh5dzVfQS1uMWlUV1VocV95TlhVeEhwZDFzeTdmT2tZaEF3cUI1VktZMHVWM2pXU0NtSTkyaVJab3JkSWJJSWpsYTZWYlMyNkljdjRDMW93UW9sRQ?oc=5",
+     "summary": "Anthropic IPO launch shifts toward mid-October: Report The Indian Express",
+     "published": "2026-09-06T04:35:47+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "385561ccfc78",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
      "summary": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? The Guardian",
@@ -2016,22 +1931,6 @@
      "id": "05df93aa89a4",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4%",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDNjY2xyTGctZnNQN2VmYTlRaDVpdDJhRFRxQ01seTdJMHhIREFEbmNvZHdpV01wUVFHbFIwSXRfVjh1TTNJdE9nUE9RWl9adjNhS3ZwbnNXTWNaOUlEZGxzQ3Q2R2tjSzZ2TjRYTEJFdUNGVEgteUxDNlhzdFBGUGZ2TnJ6dVNMQ0FzQTB5T2g0SkVQQ3pXeU5KNEFnMXYybkZEbkRmU0lQRnJHVjBRRW1rY3ZUN1Q2VllLOGhtSnNPQ0NHTmFzaUM3anQxdFFTc3hHNUYtdG9PV2QyOHU1UU52ZlZ4bW9WM0hGZ2tZNnUtRVVfWGs4?oc=5",
-     "summary": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4% EIN Presswire",
-     "published": "2026-09-05T12:23:00+00:00",
-     "source": "EIN Presswire",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "8b6035caeafa",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$27.66Billion By 2030"
-     ]
     }
    ]
   },
@@ -2042,17 +1941,33 @@
    "upsc": false,
    "items": [
     {
-     "title": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026: All Eyes On Vaibhav Sooryavanshi As East Zone Opt To Bat",
+     "title": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026: 4, 6, 4 - Vaibhav Sooryavanshi Thrashes Mohammed Siraj; East Zone On Top",
      "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-day-1-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-east-zone-vs-south-zone-12006147#publisher=newsstand",
-     "summary": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026 Cricket Match Scorecard LIVE Updates: East Zone skipper Ishan Kishan won the toss and opted to bat against South Zone in the final of the prestigious Duleep Trophy.",
-     "published": "2026-09-06T03:53:25+00:00",
+     "summary": "East Zone vs South Zone LIVE Score, Duleep Trophy Final 2026 Cricket Match Scorecard LIVE Updates: Vaibhav Sooryavanshi and Abhimanyu Easwaran are forming a good partnership for East Zone on Day 1 of the Duleep Trophy final against South Zone.",
+     "published": "2026-09-06T04:42:57+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/p9ce3p6c_vaibhav-sooryavanshi-bcci_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/acel9ro8_vaibhav-sooryavanshi-bcci_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "f7083e60cf0b",
      "category": "sports",
      "category_label": "Sports"
+    },
+    {
+     "title": "\"Pakistan Best Team In Women's Asia Cup\": Coach Wahab Riaz After 55-All Out Show Against India",
+     "url": "https://sports.ndtv.com/cricket/pakistan-best-team-in-womens-asia-cup-coach-wahab-riaz-after-55-all-out-show-against-india-12008149#publisher=newsstand",
+     "summary": "Pakistan women's team coach Wahab Riaz made a surprising statement after the team was bowled out for 55 against India, labelling his side the \"best\" in Women's Asia Cup 2026.",
+     "published": "2026-09-06T04:24:49+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/fea2o0cs_india-vs-pakistan-women-getty_625x300_06_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3f6e3ddd8648",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "55 against India, labelling his side"
+     ]
     },
     {
      "title": "Carlos Alcaraz Excited To Face 'Dangerous' Tommy Paul For US Open Quarter-Final Berth",
