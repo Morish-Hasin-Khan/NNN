@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T03:02:24.029320+00:00",
+ "generated_at": "2026-09-06T03:35:05.165999+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Nearly Israeli",
   "Egypt",
-  "Delhi Teenager",
   "Jazeera English",
   "News",
   "Prior Consent",
   "Haryana",
-  "News Frames",
-  "Sudivya Kumar",
+  "Eight High",
+  "Javelin",
   "People Indian",
-  "Netanyahu Qatar"
+  "Nepal"
  ],
  "sections": [
   {
@@ -102,6 +102,25 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+     "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+     "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
+     "published": "2026-09-06T02:56:31+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9cbcfbe0b64-1788656891.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "ae94b0cf8920",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "9,000 killed in Israeli attacks",
+      "179 attacks on ambulance crews recorded",
+      "2, killing 179 healthcare workers"
+     ]
+    },
     {
      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
@@ -156,6 +175,20 @@
      "from_section": "Global News"
     },
     {
+     "title": "Javelin | An icon of modern warfare",
+     "url": "https://www.thehindu.com/news/national/javelin-an-icon-of-modern-warfare/article71433164.ece",
+     "summary": "The anti-tank system India is planning to acquire is a mainstay brigade combat team weapon for the U.S. Army and Marine Corps",
+     "published": "2026-09-06T03:24:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/2j2lzn/article71433161.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
+     "licence": "linkout",
+     "id": "5d5ca6610be6",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News"
+    },
+    {
      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
      "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
@@ -170,18 +203,26 @@
      "from_section": "Global News"
     },
     {
-     "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-     "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-     "summary": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
-     "published": "2026-09-06T01:02:08+00:00",
-     "source": "Al Jazeera",
+     "title": "Jharkhand Minister Sudivya Kumar Sonu Dies Of Heart Attack",
+     "url": "https://www.ndtv.com/india-news/jharkhand-mukti-morcha-leader-jharkhand-minister-sudivya-kumar-sonu-dies-of-heart-attack-12007800#publisher=newsstand",
+     "summary": "Sudivya Kumar Sonu, the legislator from Giridih, also held charge of the Tourism, Arts, Culture, Sports and Youth Affairs departments",
+     "published": "2026-09-06T01:36:23+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a889d7c-1787338108.jpg?resize=1920%2C1440",
+     "image": "https://c.ndtvimg.com/2026-09/23av71dc_jmm-leader_625x300_06_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "9237ff105d28",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
+     "id": "b3dcd0bff9c0",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Sudivya Kumar, JMM senior leader and Jharkhand Minister, dies at 56",
+       "url": "https://www.thehindu.com/news/national/jharkhand/sudivya-kumar-jmm-senior-leader-and-jharkhand-minister-dies-at-56/article71434454.ece",
+       "summary": "The JMM expressed shock and grief over the minister's death, describing his demise as an “irreparable loss” to the party, the government and Jharkhand"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
     },
     {
      "title": "Sudivya Kumar, JMM senior leader and Jharkhand Minister, dies at 56",
@@ -193,45 +234,65 @@
      "image": "https://th-i.thgim.com/public/incoming/if4pp2/article71434458.ece/alternates/LANDSCAPE_1200/HRfi140aQAA00QQ.jpg",
      "licence": "linkout",
      "id": "cacc3c728c5d",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Jharkhand Minister Sudivya Kumar Sonu Dies Of Heart Attack",
-       "url": "https://www.ndtv.com/india-news/jharkhand-mukti-morcha-leader-jharkhand-minister-sudivya-kumar-sonu-dies-of-heart-attack-12007800#publisher=newsstand",
-       "summary": "Sudivya Kumar Sonu, the legislator from Giridih, also held charge of the Tourism, Arts, Culture, Sports and Youth Affairs departments"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "In Congress organisational reshuffle, Sachin Pilot gets poll-bound Punjab, Surjewala for Gujarat, Baghel moved to Assam",
-     "url": "https://www.thehindu.com/news/national/congress-replaces-bhupesh-baghel-with-sachin-pilot-as-punjab-general-secretary/article71432855.ece",
-     "summary": "Ahead of crucial Assembly elections, the change in Punjab is most significant as it comes amid intense factionalism between the camps of former CM Charanjit Singh Channi and PC chief Amrinder Singh Raja Warring; Sukhdeo Bhagat made AICC in-charge of Chhattisgarh, Sirivella Prasad of Maharashtra, P.V. Mohan in-charge of Andhra Pradesh",
-     "published": "2026-09-06T02:17:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/14x02b/article71432928.ece/alternates/LANDSCAPE_1200/20260902412L.jpg",
-     "licence": "linkout",
-     "id": "9151b6794342",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
     },
     {
-     "title": "Jharkhand Minister Sudivya Kumar Sonu Dies Of Heart Attack",
-     "url": "https://www.ndtv.com/india-news/jharkhand-mukti-morcha-leader-jharkhand-minister-sudivya-kumar-sonu-dies-of-heart-attack-12007800#publisher=newsstand",
-     "summary": "Sudivya Kumar Sonu, the legislator from Giridih, also held charge of the Tourism, Arts, Culture, Sports and Youth Affairs departments",
-     "published": "2026-09-06T01:36:23+00:00",
-     "source": "NDTV",
+     "title": "Cash-for-jobs scam: Former Tamil Nadu minister KN Nehru’s home, other premises searched",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZng5bzVZRjNwNExfMHVRYjlGcUZ3UU9NSjJRUUZYUmFTclNMZ2EzQWpRdkRFcXg2UmRPT0ltTExFRkRwcXNrYVRMSHFSMkVFYmg2WHRuQV9XLXZRRURtM0JEU3BwVG91aWhGakF1WnFvcDlrekIwVTRmX0xmSlFwVFE1T1BnOWlxa1lLSnJqOFp1cWRHcDlzeDJVcVJXNDFfUF8wRnM2Q0VfdEcyQWUyWDNRX0ZYQTJScUg0bjdfdTRhS0hsSjlBejVUdzl2OVNBRnM2R1oxUHhLWUx2dVdEeTZrWm8tZU3SAewBQVVfeXFMT0dzWm1rb2szaHNaaF8wcElaVU52RlNhU0k0VlFtTVY1RUtKa2Z1a0t6T2txa040ZDZCeUNOc2VTeWZPdXBRMWdIRWIxSmk5MWZQcnFtREdZN01fdlBYVm52MlY2QzVrWDV5ZVRPZzdnb3ZzZFRiSWRiWTgzY0ZQMU5QUmMzV21UYWF5ZEtUNExlWEhKcjRIT3kwRFBieEFNTF9kZklVSGtMQ2JRbVJjS2dnN0hYcWRfYk5UajZQOXoxbFR4VDFiaHQwaHlsOVdxTnFZMWtKX2VtWEpRajZndVlfTm9lM1d6ZW9QcTk?oc=5",
+     "summary": "Cash-for-jobs scam: Former Tamil Nadu minister KN Nehru’s home, other premises searched The Times of India",
+     "published": "2026-09-05T04:34:00+00:00",
+     "source": "The Times of India",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/23av71dc_jmm-leader_625x300_06_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": null,
      "licence": "linkout",
-     "id": "b3dcd0bff9c0",
+     "id": "917eaf3a16a1",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4%",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDNjY2xyTGctZnNQN2VmYTlRaDVpdDJhRFRxQ01seTdJMHhIREFEbmNvZHdpV01wUVFHbFIwSXRfVjh1TTNJdE9nUE9RWl9adjNhS3ZwbnNXTWNaOUlEZGxzQ3Q2R2tjSzZ2TjRYTEJFdUNGVEgteUxDNlhzdFBGUGZ2TnJ6dVNMQ0FzQTB5T2g0SkVQQ3pXeU5KNEFnMXYybkZEbkRmU0lQRnJHVjBRRW1rY3ZUN1Q2VllLOGhtSnNPQ0NHTmFzaUM3anQxdFFTc3hHNUYtdG9PV2QyOHU1UU52ZlZ4bW9WM0hGZ2tZNnUtRVVfWGs4?oc=5",
+     "summary": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4% EIN Presswire",
+     "published": "2026-09-05T12:23:00+00:00",
+     "source": "EIN Presswire",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "8b6035caeafa",
+     "also": [
+      {
+       "source": "Google News",
+       "title": "Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 - Carroll County Mirror-Democrat",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTERvS1R1a0FnM3hNSXJGRmU5UGpRVlFLOXowSTlMalBkcnVubTlBWVN3YlNQNG5XX0lQZ3ZidTdYMFJ0MVN4VnV5c1JDMmozLWdYRVJqLUtGQXZEZXNWRVpTSUdMQ2kyOW5IRy1zOEphRUtIai1vc2w5M2otMWd5WHFVXzVGWUdaQ19nNG42WlFFNFJmMDN1YkdPd0tnMWxJQUhKOW5qUFp3WFRsOXJ6SV9sTVliQWs?oc=5",
+       "summary": "Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 Carroll County Mirror-Democrat"
+      }
+     ],
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Technology",
+     "figures": [
+      "$27.66Billion By 2030"
+     ]
+    },
+    {
+     "title": "Think your salary TDS covers everything? How a ₹15-lakh FD can trigger advance tax penalties on September 15",
+     "url": "https://www.livemint.com/money/personal-finance/think-your-salary-tds-covers-everything-how-a-15-lakh-fd-can-trigger-advance-tax-penalties-on-september-15-11788661597032.html",
+     "summary": "The issue, the financial planner said, stems from the gap between the bank's basic tax deduction and an investor’s actual income slab.",
+     "published": "2026-09-06T03:19:46+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/3d5fa02a-13c8-4fec-998e-ac35816fd854_1788664185307_bfa42e19-6d9f-434c-910a-d63ac2c8e989_1788664192983_3dc86822-2622-44c1-8e84-4b7c531c5f25_9aed493a-f500-4bd9-b846-5a00c064d2af_6c6a5667-7390-4412-b3ca-d4e3e5791bb3.jpeg",
+     "licence": "linkout",
+     "id": "0677573947ec",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹15 -lakh FD can trigger"
+     ]
     },
     {
      "title": "How much gold can you keep at home without worrying about seizure? Know what the 500g, 250g and 100g limits mean",
@@ -246,66 +307,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
-    },
-    {
-     "title": "PPF, NSC, KVP or SSY: How many small savings schemes should you have in your investment portfolio",
-     "url": "https://www.livemint.com/money/personal-finance/ppf-nsc-kvp-or-ssy-how-many-small-savings-schemes-should-you-have-in-your-investment-portfolio-11788545008091.html",
-     "summary": "Most investors do not need to hold PPF, NSC, KVP and SSY together, experts say. Choosing one or two schemes based on goals, tax benefits, returns and liquidity can make a portfolio more efficient.",
-     "published": "2026-09-06T01:55:58+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/04/600x338/bg_1788545668074_626ac43f-5365-4758-bca8-94e4eacb65a4_1788545668299_68869b25-b257-489f-8d40-349f8119ec03_f3435fc5-386c-495c-94de-8337401829bc_cc1a0240-5eb4-48dd-a3e5-865d8dd2e73a.png",
-     "licence": "linkout",
-     "id": "672e32bf4f11",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Bank holidays this week: SBI, HDFC, ICICI, PNB closed for upto 3 days between 7 - 13 Sep; check RBI holiday calendar",
-     "url": "https://www.livemint.com/money/personal-finance/bank-holidays-this-week-sbi-hdfc-icici-pnb-closed-for-upto-3-days-between-7-13-sep-check-rbi-holiday-calendar-11788655481491.html",
-     "summary": "Bank holidays this week: SBI, HDFC, ICICI, PNB and other banks will remain open for upto 4 to 5 days this week. Check RBI calendar for full holiday list.",
-     "published": "2026-09-06T01:34:26+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/bank_1788658947994_d1deb333-b966-4481-90e9-825f50512d5d_1788658965887_285584be-8ccc-482d-a9a1-73aa7a0b0da5_387cbc4f-de11-49a3-b5b3-98ce0b71a0eb_ef97a310-d0a5-4a28-8d88-38a9b0a21efe.jpg",
-     "licence": "linkout",
-     "id": "fe7c41ab630a",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "3 days between 7 - 13",
-      "5 days this week"
-     ]
-    },
-    {
-     "title": "Madanapalle weavers fight to keep their heritage alive amid economic hardship, fading tradition",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/madanapalle-weavers-fight-to-keep-their-heritage-alive-amid-economic-hardship-fading-tradition/article71427094.ece",
-     "summary": "For generations, weaving has been a way of life for this town that is celebrated as a handloom and silk saree hub. But, declining returns, health concerns, fewer younger people willing to pursue this craft, and competition from power looms are making it difficult for the traditional weaving community to keep the craft alive and earn their livelihood",
-     "published": "2026-09-06T02:15:54+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xq6v6j/article71429398.ece/alternates/LANDSCAPE_1200/IMG-20260904-WA2280.jpg",
-     "licence": "linkout",
-     "id": "53d21c6046d3",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "China to proceed with Brahmaputra mega dam despite new concerns",
-     "url": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece",
-     "summary": "Dubbed the ‘project of the century’ by Beijing, it has been included in China’s 15th Five-Year Plan for renewable energy; of concern to India is the impact it could have downstream, particularly in the aftermath of the recent devastating flash flood along the Nepal-China border",
-     "published": "2026-09-06T02:20:24+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/z0x11h/article71432997.ece/alternates/LANDSCAPE_1200/IMG_CHINA-TIBET-INDIA-EN_2_1_8JDQJCDS.jpg",
-     "licence": "linkout",
-     "id": "0a5eb086d770",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National News"
     },
     {
      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
@@ -336,6 +337,23 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "India news: 275 Indians still missing in Nepal floods",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVQzSzZ2VDVzTjVLSXdHUDBIaEV0OXBGVWRUMWQtQkFTbHViQVZ5ajZ4b2h2bmhGb3loVmJORFJ2SkFQTi1pcV9uaDRHMlJQNG5lU0VudXhDWXR1Q09QR2k2ejZ4cXpQall5STJUMVB3MVFzdDRFWlBzV2c4eDRzdGFxLWlSVU9WZ3V6UlNNMkNXdw?oc=5",
+     "summary": "India news: 275 Indians still missing in Nepal floods DW.com",
+     "published": "2026-09-05T09:22:48+00:00",
+     "source": "DW.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "24b56bbb86a0",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National Hotlines",
+     "figures": [
+      "275 Indians still missing in Nepal"
+     ]
+    },
+    {
      "title": "24_Che_RR_IIT Madras professor Ravindran is appointed to UN panel on artificial intelligence",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYUU3ckJtVXppbGVYQjZVZDd3SG9jUHFmYVlHN3VrVjFTS0x3M00wN0gzdlhiTDNXQVRwdlpKaGlYZVlKTU00cDRzRXQ1c0xqRXEwbGU2VlNSQUJ4eWhwY2thUU0ybUtCMVBPWkdpUlpIVmJadG9iZ1dabGlhRDM0eUNYMHNmdGxhLTRHSGNVMU1sTVpZVDN4eEc2TnhLVDBCeHVaLTA3Y3R0SVlfd25qVzllOG9VSjlrR3M4WEJHUmg5YjBoc19DOHlrUldGQTQ5Vm1CM2RvLXdZWjNWVHNaYmo4azBzUzJKb0hvc18wczFoNDlFUG8tUTRwb9IBgAJBVV95cUxQLTJONGthdTAxcENLSHZ1ODU5c0Myc01wdFBPTjdtaEM4M3lqZFJ2SERBUTF5N2lzeV9KbGZkY2hBa19EWlh2aE0yLVcxdTR1bzQ4UGp6Qi1YaUVNa0tJNE5Pd2R1S2lqOVdBOFdMalN1NFlCU2RQOF95LTQ3bUZ2QVFhcWJMdUFZVVhJUHI0SjBJT2tUVXdJaFQ5SzIxTzdJQkRCX291WmFmcS16UF92WENwbTlmS1dld3hRandNM1gyZ3dIRW9qUFNpb2FxM24xWG0zeW5jNW5fdXUtWnhnRTJ1NWFwUUtBejYzSzFRejhwd2YxSF9OUkIta1gxNDR1?oc=5",
      "summary": "24_Che_RR_IIT Madras professor Ravindran is appointed to UN panel on artificial intelligence The Times of India",
@@ -364,18 +382,18 @@
      "from_section": "Global News"
     },
     {
-     "title": "RANDOM MUSING: Was the Hugging Face attack Artificial Intelligence's 'Agent Smith breaks free from The Ma",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZDRXaGJxNWQwbTVKdHNRLU1hQmVxR1RYVEp4VFU5ZlRnLU5lSVdVazVEWnVGQU9URi1ucFlId1ZUQk54TVotUHN3Y0tjYnpRaGhzODQ4SnEyOExXSnhOeHBsS0F1TEdYZklFbXZCbUcyZ3lLNGlxVGhyOW1Zd2VnVGdVcl8xX19FYlZ1bFVTcjJJR1pSaExJWk1qNjQxcHl0UFFfRkhwM1lQWUdfa1lzVzdQQmRQc3BGcVdXWlJQeXkwTTlxdDJmXzRKZmNpQlJ5em53Y3BRdTF5ZzFwRWxlZDNsUFhSbTRfREF6bjFjcGcyRE9meEx2bnNxVG00WDFVNFdaSHNJOVNSX21OMFkzODNLVy1CSUNqZVk3dmNwLWc4Z9IBpwJBVV95cUxPOHZnVlpOdzV5M0hvRksxTkY0WVFlNVJIWGE2MVlkSTREZ3F5QTQtMGNzem1TQlNWUTZHa1RTNlNpaVZVS1I0ekhya19ZT0hjcWhaYlhMZUZtb2Y4TGVVbGF3OHYyUVZnaXpMMFVyZEI5SjUtZC1IQ3RPT2tXUld5Vl93a01BX0NXOVVGZ0hIZ3RoS0tIZWlWa3pzSGVzcW8zdWlrZjk0ODQtNWktNzItRm44ZTM0bTFrM2hCZ1E2cldkMkJITzM2RjhMVDk1anBzMU9BRThKc2tuSXFFWVRPNGNBZEphN2hhb1VQekZENEhIUHhuWnZ3NXp3VkdSUjBRV0ctTXhBZzhPcEQtNGRfS3hBMnV4clBxR2NOalN4NnpYREYwcUI4?oc=5",
-     "summary": "RANDOM MUSING: Was the Hugging Face attack Artificial Intelligence's 'Agent Smith breaks free from The Ma The Times of India",
-     "published": "2026-09-05T12:32:00+00:00",
-     "source": "The Times of India",
+     "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
+     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
+     "published": "2026-09-05T20:12:50+00:00",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "dea153a1b878",
+     "id": "e5acc0fd27af",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology"
+     "from_section": "National Hotlines"
     },
     {
      "title": "What Is PCB Investigating? Report On Players' Phone-Confiscation Raises Serious Questions",
@@ -447,7 +465,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-06T03:02:10.356510+00:00",
+     "published": "2026-09-06T03:34:52.371003+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -458,7 +476,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-06T03:02:10.356524+00:00",
+     "published": "2026-09-06T03:34:52.371015+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +487,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-06T03:02:10.356527+00:00",
+     "published": "2026-09-06T03:34:52.371020+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -480,7 +498,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-06T03:02:10.356530+00:00",
+     "published": "2026-09-06T03:34:52.371024+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -491,7 +509,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-06T03:02:10.356533+00:00",
+     "published": "2026-09-06T03:34:52.371028+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -502,7 +520,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-06T03:02:10.356539+00:00",
+     "published": "2026-09-06T03:34:52.371031+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -762,41 +780,28 @@
      ]
     },
     {
-     "title": "RBI moves to protect customers in online fraud cases, seeks public feedback",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUp2cy1Fdnl5UDJMMUU4NWZPTzNQZ2FSMVY3NHYxYzI2WHZMMGMxcE1OemFfMkp1WmhJSWpGWmc5TjRQMTRGa3BsWkZEbGxZZ2pHSWtIbG93QVZTbDF6SUtxc3ZiOWVieVhZZ2x1aG9OQTZKbklNbkdidzlnQ3hfSkE2OGdiZEZEVG0tSlNoTWt2VXYzTlBkdlhya0IyZ0NFVkE?oc=5",
-     "summary": "RBI moves to protect customers in online fraud cases, seeks public feedback DD News",
-     "published": "2026-09-05T19:43:34+00:00",
-     "source": "DD News",
+     "title": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVJRR2tDdlFKSi12OG56MTF3cEFZa0wtdHZvOXpuY1dRNTFUNVpLTlZfVHZsZ2JXajZwTXUxYUVUTi1hanR5YjZEUEdDS3RWdWd4cGFCRk1DRkJEcXFNYzJlejR6TGRnV1NfTUJEcnlUTlJvRnF1TUVoVEdBRUdLbjFYa3lCLUFlMjN1bzB1VDZDb1V3S2VzWk56WS1ob2N0dGg4?oc=5",
+     "summary": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket News On AIR",
+     "published": "2026-09-05T17:37:44+00:00",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "15027d0b2636",
+     "id": "b0b1fa438e5d",
      "category": "money",
      "category_label": "Money & scams"
     },
     {
-     "title": "Cash-for-jobs scam: Former Tamil Nadu minister KN Nehru’s home, other premises searched",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZng5bzVZRjNwNExfMHVRYjlGcUZ3UU9NSjJRUUZYUmFTclNMZ2EzQWpRdkRFcXg2UmRPT0ltTExFRkRwcXNrYVRMSHFSMkVFYmg2WHRuQV9XLXZRRURtM0JEU3BwVG91aWhGakF1WnFvcDlrekIwVTRmX0xmSlFwVFE1T1BnOWlxa1lLSnJqOFp1cWRHcDlzeDJVcVJXNDFfUF8wRnM2Q0VfdEcyQWUyWDNRX0ZYQTJScUg0bjdfdTRhS0hsSjlBejVUdzl2OVNBRnM2R1oxUHhLWUx2dVdEeTZrWm8tZU3SAewBQVVfeXFMT0dzWm1rb2szaHNaaF8wcElaVU52RlNhU0k0VlFtTVY1RUtKa2Z1a0t6T2txa040ZDZCeUNOc2VTeWZPdXBRMWdIRWIxSmk5MWZQcnFtREdZN01fdlBYVm52MlY2QzVrWDV5ZVRPZzdnb3ZzZFRiSWRiWTgzY0ZQMU5QUmMzV21UYWF5ZEtUNExlWEhKcjRIT3kwRFBieEFNTF9kZklVSGtMQ2JRbVJjS2dnN0hYcWRfYk5UajZQOXoxbFR4VDFiaHQwaHlsOVdxTnFZMWtKX2VtWEpRajZndVlfTm9lM1d6ZW9QcTk?oc=5",
-     "summary": "Cash-for-jobs scam: Former Tamil Nadu minister KN Nehru’s home, other premises searched The Times of India",
-     "published": "2026-09-05T04:34:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "917eaf3a16a1",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1JZTTlpMXlNLVdfNDJJU0trOE5feldXRGhfdHNKLUlvZndybzBia1U1VGpvM2N4LVhKdENXbk5kc3FjZ0w1dVhTVXlUVzhEekZfLUh3YmJvLU9XdmRwZEVzYjRRM0ZIYS1lLTZ5emRXaGhKdHF1bGxMODdSOGlRYUh0Q0ZOSVBIOGY2WWdtNA?oc=5",
-     "summary": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India yahoo.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGZIOUJEWVdVRGVIWGtyd2F0Zk5zb25NWHUzR3dDdVo4QmM4d2JZQWVMMVlCNXFCQkNzYlU0RThIX29tcU1GQkk3elNZb3hwbHZKSnh5ZXVZVVhtUmhqUjNVMDh5c2EzTmJqSmtWclBiQ1BtcV85SUhwdWxXRlVOUThnMVZGUXlrM2s4MHh5SEVoOXE4SUhYcExtcVQ2RWxseFdnUzR1X2JpQjIzV1hkRXd5bXlOZU1PRE1B0gHAAUFVX3lxTE9mMnZ6dEx2YkdVcE43empyNTBZVVhmMnZMUzBlLVpTczJpYzlaNUE3ZXNBUnZzU1Nva3pLLUxYLTI2WUFucU5yMm5QUlhncmoweDFUSVkwdmVDbzBPcWkwdllhTjVLUDJUMEpiUkxkbUNGTlJKZWs2YmNRZVREbFE0YXRNN0sxVTM2cXVXQmJVTFo0V2tobzk5WVJrQmR5MWI4aWJFTGdOOEl1Uzc2VG0xWHZQYWtxWjBrUVBVRVJJSw?oc=5",
+     "summary": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India Fox News",
      "published": "2026-09-05T21:31:35+00:00",
-     "source": "yahoo.com",
+     "source": "Fox News",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "73c1f6c47a4d",
+     "id": "11c07fc29f0b",
      "category": "money",
      "category_label": "Money & scams"
     },
@@ -825,6 +830,66 @@
    "upsc": false,
    "items": [
     {
+     "title": "Eight High Court judges appointed as Chief Justices",
+     "url": "https://www.thehindu.com/news/national/eight-high-court-judges-appointed-as-chief-justices/article71433268.ece",
+     "summary": "Chief Justice of the Rajasthan High Court’s appointment comes amid a recent controversy involving Acting Chief Justice in the HC",
+     "published": "2026-09-06T03:27:30+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/cmu9b0/article71433328.ece/alternates/LANDSCAPE_1200/iStock-1666778610.jpg",
+     "licence": "linkout",
+     "id": "a2fb537379da",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Centre Appoints 8 Chief Justices In High Courts Across India",
+       "url": "https://www.ndtv.com/india-news/centre-appoints-8-chief-justices-in-high-courts-across-india-12007432#publisher=newsstand",
+       "summary": "Justice Ravindra V Ghuge of the Bombay High Court will head the Calcutta High Court. Justice Mahesh Chandra Tripathi of the Allahabad High Court has been appointed Chief Justice of the Bombay High Court."
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Javelin | An icon of modern warfare",
+     "url": "https://www.thehindu.com/news/national/javelin-an-icon-of-modern-warfare/article71433164.ece",
+     "summary": "The anti-tank system India is planning to acquire is a mainstay brigade combat team weapon for the U.S. Army and Marine Corps",
+     "published": "2026-09-06T03:24:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/2j2lzn/article71433161.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
+     "licence": "linkout",
+     "id": "5d5ca6610be6",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Farakka rail restoration nears completion; North Bengal train services may resume soon",
+     "url": "https://www.thehindu.com/news/national/west-bengal/farakka-rail-restoration-nears-completion-north-bengaltrain-servicesmayresume-soon/article71432010.ece",
+     "summary": "Trial run conducted on restored down line as railway authorities inspect tracks for safety",
+     "published": "2026-09-06T03:23:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6chwzv/article71434491.ece/alternates/LANDSCAPE_1200/PTI09_04_2026_000223B.jpg",
+     "licence": "linkout",
+     "id": "9ccb99ec500b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "BJP MP Dinesh Sharma appointed Lt Governor of Andaman and Nicobar Islands",
+     "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece",
+     "summary": "Mr. Sharma will succeed Admiral D K Joshi (retd), who took over as lieutenant governor of the Andaman and Nicobar Islands on October 8, 2017.",
+     "published": "2026-09-06T03:22:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/9er0ww/article71434240.ece/alternates/LANDSCAPE_1200/20251203260L.jpg",
+     "licence": "linkout",
+     "id": "95b27f302c82",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "News in Frames | Where the mountains narrate stories",
      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/news-in-frames-where-the-mountainsnarrate-stories/article71434468.ece",
      "summary": "Suru Valley preserves a rich cultural heritage shaped by Purgi traditions, Islamic and Buddhist influences; the Suru Summer Festival recently showcased this legacy as the administration promotes Kargil as a sustainable tourism destination",
@@ -838,53 +903,6 @@
      "category_label": "General"
     },
     {
-     "title": "Sudivya Kumar, JMM senior leader and Jharkhand Minister, dies at 56",
-     "url": "https://www.thehindu.com/news/national/jharkhand/sudivya-kumar-jmm-senior-leader-and-jharkhand-minister-dies-at-56/article71434454.ece",
-     "summary": "The JMM expressed shock and grief over the minister's death, describing his demise as an “irreparable loss” to the party, the government and Jharkhand",
-     "published": "2026-09-06T02:42:42+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/if4pp2/article71434458.ece/alternates/LANDSCAPE_1200/HRfi140aQAA00QQ.jpg",
-     "licence": "linkout",
-     "id": "cacc3c728c5d",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Jharkhand Minister Sudivya Kumar Sonu Dies Of Heart Attack",
-       "url": "https://www.ndtv.com/india-news/jharkhand-mukti-morcha-leader-jharkhand-minister-sudivya-kumar-sonu-dies-of-heart-attack-12007800#publisher=newsstand",
-       "summary": "Sudivya Kumar Sonu, the legislator from Giridih, also held charge of the Tourism, Arts, Culture, Sports and Youth Affairs departments"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit",
-     "url": "https://www.thehindu.com/news/national/kerala/kanthapuram-ap-aboobacker-power-beyond-the-pulpit/article71433157.ece",
-     "summary": "The Muslim cleric and scholar based in Keralam has faced criticism over his recent comments that women should remain at home rather than occupy public spaces",
-     "published": "2026-09-06T02:26:30+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/luzudw/article71433153.ece/alternates/LANDSCAPE_1200/Kanthapuram%201.jpg",
-     "licence": "linkout",
-     "id": "e08a34cb7da4",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "The feminist organiser and her everyday rebellions",
-     "url": "https://www.thehindu.com/news/international/gloria-steinem-death-feminist-organiser-indian-connection/article71425460.ece",
-     "summary": "Gloria Steinem, 92, who gave feminism a good name and an image that debunked the stereotype, died in her New York home; through her life, she had a strong connection with India",
-     "published": "2026-09-06T02:20:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/36r3dk/article71425481.ece/alternates/LANDSCAPE_1200/Gloria_Steinem_64232.jpg",
-     "licence": "linkout",
-     "id": "7cb41a1828c3",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Sachin Pilot In. Bhupesh Baghel Out. Why Punjab Congress Change Was Imminent",
      "url": "https://www.ndtv.com/india-news/sachin-pilot-in-bhupesh-baghel-out-why-punjab-congress-change-was-imminent-12007155#publisher=newsstand",
      "summary": "Bhupesh Baghel was appointed Punjab Congress in-charge in Feb 2025; favoured retaining Raja Warring as state chief but became a target for other factions, such as Charanjit Channi's camp.",
@@ -894,14 +912,6 @@
      "image": "https://c.ndtvimg.com/2026-09/nv75e4sg_bhupesh-baghel-sachin-pilot_625x300_05_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "d5c635db2913",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "In Congress organisational reshuffle, Sachin Pilot gets poll-bound Punjab, Surjewala for Gujarat, Baghel moved to Assam",
-       "url": "https://www.thehindu.com/news/national/congress-replaces-bhupesh-baghel-with-sachin-pilot-as-punjab-general-secretary/article71432855.ece",
-       "summary": "Ahead of crucial Assembly elections, the change in Punjab is most significant as it comes amid intense factionalism between the camps of former CM Charanjit Singh Channi and PC chief Amrinder Singh Raja Warring; Sukhdeo…"
-      }
-     ],
      "category": "general",
      "category_label": "General"
     },
@@ -943,6 +953,24 @@
    "upsc": false,
    "items": [
     {
+     "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+     "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+     "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
+     "published": "2026-09-06T02:56:31+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9cbcfbe0b64-1788656891.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "ae94b0cf8920",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "9,000 killed in Israeli attacks",
+      "179 attacks on ambulance crews recorded",
+      "2, killing 179 healthcare workers"
+     ]
+    },
+    {
      "title": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss",
      "summary": "A 21-year-old student in India’s Madhya Pradesh has single-handedly cleaned up a trash-filled river.",
@@ -967,32 +995,6 @@
      "id": "9237ff105d28",
      "category": "conflict",
      "category_label": "War & conflict"
-    },
-    {
-     "title": "German company launches rocket as Europe enters satellite race",
-     "url": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss",
-     "summary": "Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.",
-     "published": "2026-09-06T00:53:23+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9c9a13-1788647955.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "5620f47de4ea",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Fuel tanker blast in western Iran kills at least 10",
-     "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-     "summary": "At least six other people were injured in the tanker blast on Iran's Hamedan-Sanandaj highway, officials say.",
-     "published": "2026-09-05T23:07:48+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9c98ccbe-1788647628.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "ade9335b716f",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
@@ -1056,6 +1058,35 @@
      "id": "d3ad7d37bf6c",
      "category": "weather",
      "category_label": "Weather & disaster"
+    },
+    {
+     "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+     "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+     "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+     "published": "2026-09-06T01:54:29+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645e/live/47458b70-a994-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "034d3cc784dd",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "10 days in her partially buried"
+     ]
+    },
+    {
+     "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
+     "url": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
+     "summary": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
+     "published": "2026-09-05T06:53:20+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/b2e2b170-a87f-11f1-aed2-8d6da8d75094.png",
+     "licence": "linkout",
+     "id": "f92b4cd96f2e",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1066,30 +1097,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "News in Frames | Where the mountains narrate stories",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/news-in-frames-where-the-mountainsnarrate-stories/article71434468.ece",
-     "summary": "Suru Valley preserves a rich cultural heritage shaped by Purgi traditions, Islamic and Buddhist influences; the Suru Summer Festival recently showcased this legacy as the administration promotes Kargil as a sustainable tourism destination",
-     "published": "2026-09-06T02:53:30+00:00",
+     "title": "Eight High Court judges appointed as Chief Justices",
+     "url": "https://www.thehindu.com/news/national/eight-high-court-judges-appointed-as-chief-justices/article71433268.ece",
+     "summary": "Chief Justice of the Rajasthan High Court’s appointment comes amid a recent controversy involving Acting Chief Justice in the HC",
+     "published": "2026-09-06T03:27:30+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yy5w5q/article71434479.ece/alternates/LANDSCAPE_1200/NEWS%20IN%20FRAMES_%2028.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/cmu9b0/article71433328.ece/alternates/LANDSCAPE_1200/iStock-1666778610.jpg",
      "licence": "linkout",
-     "id": "28fc049ea516",
+     "id": "a2fb537379da",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Sudivya Kumar, JMM senior leader and Jharkhand Minister, dies at 56",
-     "url": "https://www.thehindu.com/news/national/jharkhand/sudivya-kumar-jmm-senior-leader-and-jharkhand-minister-dies-at-56/article71434454.ece",
-     "summary": "The JMM expressed shock and grief over the minister's death, describing his demise as an “irreparable loss” to the party, the government and Jharkhand",
-     "published": "2026-09-06T02:42:42+00:00",
+     "title": "Javelin | An icon of modern warfare",
+     "url": "https://www.thehindu.com/news/national/javelin-an-icon-of-modern-warfare/article71433164.ece",
+     "summary": "The anti-tank system India is planning to acquire is a mainstay brigade combat team weapon for the U.S. Army and Marine Corps",
+     "published": "2026-09-06T03:24:11+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/if4pp2/article71434458.ece/alternates/LANDSCAPE_1200/HRfi140aQAA00QQ.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/2j2lzn/article71433161.ece/alternates/LANDSCAPE_1200/Javelin%20image.jpg",
      "licence": "linkout",
-     "id": "cacc3c728c5d",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "5d5ca6610be6",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Farakka rail restoration nears completion; North Bengal train services may resume soon",
+     "url": "https://www.thehindu.com/news/national/west-bengal/farakka-rail-restoration-nears-completion-north-bengaltrain-servicesmayresume-soon/article71432010.ece",
+     "summary": "Trial run conducted on restored down line as railway authorities inspect tracks for safety",
+     "published": "2026-09-06T03:23:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6chwzv/article71434491.ece/alternates/LANDSCAPE_1200/PTI09_04_2026_000223B.jpg",
+     "licence": "linkout",
+     "id": "9ccb99ec500b",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit",
@@ -1105,37 +1149,17 @@
      "category_label": "General"
     },
     {
-     "title": "Voter lists shrink by more than 15% since 2024 in States where SIR phase-3 draft lists are out",
-     "url": "https://www.thehindu.com/news/national/voter-lists-shrink-by-more-than-15-since-2024-in-states-where-sir-phase-3-draft-lists-are-out/article71432179.ece",
-     "summary": "Maharashtra records the largest drop in absolute numbers, losing 15,896,198 electors or 17.08% in the draft phase, while Delhi and Chandigarh register the sharpest dips in percentage at 35.89% and 31.84% respectively",
-     "published": "2026-09-06T01:28:22+00:00",
+     "title": "The feminist organiser and her everyday rebellions",
+     "url": "https://www.thehindu.com/news/international/gloria-steinem-death-feminist-organiser-indian-connection/article71425460.ece",
+     "summary": "Gloria Steinem, 92, who gave feminism a good name and an image that debunked the stereotype, died in her New York home; through her life, she had a strong connection with India",
+     "published": "2026-09-06T02:20:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t77rd2/article71433019.ece/alternates/LANDSCAPE_1200/17_BM_MaharashtGGDGDJ0DS.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/36r3dk/article71425481.ece/alternates/LANDSCAPE_1200/Gloria_Steinem_64232.jpg",
      "licence": "linkout",
-     "id": "fee3bc5e42a0",
+     "id": "7cb41a1828c3",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "3 draft lists are out",
-      "15,896,198 electors or 17"
-     ]
-    },
-    {
-     "title": "India news: 275 Indians still missing in Nepal floods",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVQzSzZ2VDVzTjVLSXdHUDBIaEV0OXBGVWRUMWQtQkFTbHViQVZ5ajZ4b2h2bmhGb3loVmJORFJ2SkFQTi1pcV9uaDRHMlJQNG5lU0VudXhDWXR1Q09QR2k2ejZ4cXpQall5STJUMVB3MVFzdDRFWlBzV2c4eDRzdGFxLWlSVU9WZ3V6UlNNMkNXdw?oc=5",
-     "summary": "India news: 275 Indians still missing in Nepal floods DW.com",
-     "published": "2026-09-05T09:22:48+00:00",
-     "source": "DW.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "24b56bbb86a0",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "figures": [
-      "275 Indians still missing in Nepal"
-     ]
+     "category_label": "General"
     }
    ]
   },
@@ -1808,6 +1832,38 @@
      "category_label": "Weather & disaster"
     },
     {
+     "title": "Think your salary TDS covers everything? How a ₹15-lakh FD can trigger advance tax penalties on September 15",
+     "url": "https://www.livemint.com/money/personal-finance/think-your-salary-tds-covers-everything-how-a-15-lakh-fd-can-trigger-advance-tax-penalties-on-september-15-11788661597032.html",
+     "summary": "The issue, the financial planner said, stems from the gap between the bank's basic tax deduction and an investor’s actual income slab.",
+     "published": "2026-09-06T03:19:46+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/3d5fa02a-13c8-4fec-998e-ac35816fd854_1788664185307_bfa42e19-6d9f-434c-910a-d63ac2c8e989_1788664192983_3dc86822-2622-44c1-8e84-4b7c531c5f25_9aed493a-f500-4bd9-b846-5a00c064d2af_6c6a5667-7390-4412-b3ca-d4e3e5791bb3.jpeg",
+     "licence": "linkout",
+     "id": "0677573947ec",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹15 -lakh FD can trigger"
+     ]
+    },
+    {
+     "title": "Retiring at 45? Why the 4% rule may not work for your mutual fund corpus and what early retirees can do",
+     "url": "https://www.livemint.com/money/personal-finance/retiring-at-45-why-the-4-rule-may-not-work-for-your-mutual-fund-corpus-and-what-early-retirees-can-do-11788586137256.html",
+     "summary": "Retiring at 45 can mean funding expenses for 40 years or more, making the withdrawal strategy as important as building the corpus. Experts explain why the 4% rule may not suit early retirees in India.&nbsp;",
+     "published": "2026-09-06T03:18:06+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/05/600x338/k_1788586884868_6bc343ab-774c-41eb-862d-80f1bc4e8e06_1788586885016_17d64623-5308-4fbf-b9d4-723fe8985aa6_3422db18-c9db-45e5-ab2e-8a9b241e54f2_0240d115-c6d4-41b7-855d-b8b1ce724557.png",
+     "licence": "linkout",
+     "id": "e1032602676d",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "40 years or more, making"
+     ]
+    },
+    {
      "title": "8th Pay Commission: Why Central Government employees could see a higher bonus calculation",
      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-why-central-government-employees-could-see-a-higher-bonus-calculation-11788660342140.html",
      "summary": "The 8th Pay Commission bonus debate continues to gain momentum as NC-JCM seeks a ₹21,000 ceiling, while employee groups propose using sector-wise minimum wages to calculate bonuses for central government employees.",
@@ -1860,9 +1916,9 @@
     {
      "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
-     "summary": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? theguardian.com",
+     "summary": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? The Guardian",
      "published": "2026-09-05T07:00:00+00:00",
-     "source": "theguardian.com",
+     "source": "The Guardian",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1884,19 +1940,20 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4%",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDNjY2xyTGctZnNQN2VmYTlRaDVpdDJhRFRxQ01seTdJMHhIREFEbmNvZHdpV01wUVFHbFIwSXRfVjh1TTNJdE9nUE9RWl9adjNhS3ZwbnNXTWNaOUlEZGxzQ3Q2R2tjSzZ2TjRYTEJFdUNGVEgteUxDNlhzdFBGUGZ2TnJ6dVNMQ0FzQTB5T2g0SkVQQ3pXeU5KNEFnMXYybkZEbkRmU0lQRnJHVjBRRW1rY3ZUN1Q2VllLOGhtSnNPQ0NHTmFzaUM3anQxdFFTc3hHNUYtdG9PV2QyOHU1UU52ZlZ4bW9WM0hGZ2tZNnUtRVVfWGs4?oc=5",
-     "summary": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4% EIN Presswire",
-     "published": "2026-09-05T12:23:00+00:00",
-     "source": "EIN Presswire",
+     "title": "Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 - Carroll County Mirror-Democrat",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTERvS1R1a0FnM3hNSXJGRmU5UGpRVlFLOXowSTlMalBkcnVubTlBWVN3YlNQNG5XX0lQZ3ZidTdYMFJ0MVN4VnV5c1JDMmozLWdYRVJqLUtGQXZEZXNWRVpTSUdMQ2kyOW5IRy1zOEphRUtIai1vc2w5M2otMWd5WHFVXzVGWUdaQ19nNG42WlFFNFJmMDN1YkdPd0tnMWxJQUhKOW5qUFp3WFRsOXJ6SV9sTVliQWs?oc=5",
+     "summary": "Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 Carroll County Mirror-Democrat",
+     "published": "2026-09-05T12:23:42+00:00",
+     "source": "Google News",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "8b6035caeafa",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "a495a49a6296",
+     "category": "tech",
+     "category_label": "AI & technology",
      "figures": [
-      "$27.66Billion By 2030"
+      "$47.26 Bn By 2030 - Carroll",
+      "$47.26 Bn By 2030 Carroll County"
      ]
     }
    ]
