@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T12:02:48.219161+00:00",
+ "generated_at": "2026-09-06T12:38:33.977913+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Front Page",
   "Madhya Pradesh",
-  "Manjit Singh",
   "Jazeera English",
   "News",
   "Bihar State",
   "Bihar BNSS",
-  "Thrissur Minister",
+  "National News",
+  "Tamil Nadu",
   "Jovic Eala",
-  "Global News",
-  "Volcano Indonesia"
+  "Global News"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "At least six, including four family members, killed in house-collapse incidents in U.P.",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/six-including-four-family-members-killed-in-house-collapse-incidents-in-up/article71435111.ece",
+     "summary": "Victim’s cousin alleged police negligence, saying that the family repeatedly called the Saadh police station after the collapse, but the calls were initially unanswered, so villagers had to launch a rescue operation themselves and worked for nearly two hours to pull the trapped family members out",
+     "published": "2026-09-06T12:22:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lyf53i/article71435181.ece/alternates/LANDSCAPE_1200/PTI09_06_2026_000133B.jpg",
+     "licence": "linkout",
+     "id": "5c75d042e72c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "At least 11 dead after consuming spurious liquor in Madhya Pradesh's Sagar",
      "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-sagar-spurious-liquor-hooch-alcohol-death-toll/article71434596.ece",
@@ -114,25 +128,11 @@
      "id": "ea7acaa35f5a",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "11 dead after consuming spurious liquor",
       "12 suspects have been detained"
      ]
-    },
-    {
-     "title": "Manjit Singh Bedi, FBI's 'Most Wanted Fraudster' arrested in India",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmhaSWN1UTVDZXBETVd0dGpXR1JqT3JrUkJKU1dqYXN5T25hZHVFcnNiajJtZm5oWWoxckc1MGtoS3JLT0N5YWVNSjlwNHZHT2JZQWMzclFZM09zN3RCTkw3RFNEb2pJRjdTV04xNDNMdmdyWkx2dnlUWC1hbGM3UW81VE04S1JuRjJMUl9ZMExlbWVtWHhweFFTbS15TUlBclNTMlZHbUsweGs?oc=5",
-     "summary": "Manjit Singh Bedi, FBI's 'Most Wanted Fraudster' arrested in India NewsBytes",
-     "published": "2026-09-06T10:33:15+00:00",
-     "source": "NewsBytes",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "a8ec1f2240f8",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Scandals & Investigations"
     },
     {
      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
@@ -158,7 +158,7 @@
      "published": "2026-09-06T11:19:30+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f3d/live/937b0470-a9df-11f1-803f-7f2a9199ddc4.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
      "licence": "linkout",
      "id": "5ea7c78ca31e",
      "category": "conflict",
@@ -198,6 +198,34 @@
      "from_section": "Global News"
     },
     {
+     "title": "Tamil Nadu government mulling over abolition of State Planning Commission",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-mulling-over-abolition-of-state-planning-commission/article71434892.ece",
+     "summary": "The TVK-led government has not filled the posts of Vice-Chairperson and full-time members of the SPC after the resignation of the team appointed by the previous DMK government",
+     "published": "2026-09-06T12:17:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/yp5us7/article71435036.ece/alternates/LANDSCAPE_1200/Tamil-Nadu-CM-VGS0GFU4S5.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "e327005fc839",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "CPI(M) identifies ‘parliamentary aberrations’, failure to follow mass line, collective functioning as key concerns",
+     "url": "https://www.thehindu.com/news/national/cpim-identifies-parliamentary-aberrations-failure-to-follow-mass-line-collective-functioning-as-key-concerns/article71435064.ece",
+     "summary": "M.A. Baby says party to undertake stage-wise rectification campaign across States following Polit Bureau discussions",
+     "published": "2026-09-06T12:07:49+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nrxckh/article71435147.ece/alternates/LANDSCAPE_1200/20260714356L.jpg",
+     "licence": "linkout",
+     "id": "37ceae856bb3",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "Thrissur road accident: T.N. Minister visits Kaipamangalam crash site, promises support for victims’ families",
      "url": "https://www.thehindu.com/news/national/kerala/thrissur-road-accident-tn-minister-visits-kaipamangalam-crash-site-promises-support-for-victims-families/article71435083.ece",
      "summary": "Eight students from Dindigul had lost their lives in a crash on NH 66 at Kaipamangalam in Keralam’s Thissur. Minister S. Rajesh Kumar calls for urgent completion of NH 66 works and stronger safety measures",
@@ -209,66 +237,38 @@
      "id": "f51a3e9406e2",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "66 works and stronger safety measures"
      ]
     },
     {
-     "title": "Gangster-Turned-Politician Gurpreet Singh Sekhon Joins AAP Ahead Of Punjab Polls",
-     "url": "https://www.ndtv.com/india-news/gangster-turned-politician-gurpreet-singh-sekhon-joins-aap-ahead-of-punjab-polls-12009243#publisher=newsstand",
-     "summary": "Political analysts believe that the AAP might field Sekhon as its candidate from the Zira assembly constituency.",
-     "published": "2026-09-06T10:59:33+00:00",
-     "source": "NDTV",
+     "title": "8th pay commission: Central Secretariat Service (CSS) Forum hopes panel enhances contribution, sum assured under CGEIS",
+     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-central-secretariat-service-css-forum-hope-cpc-enhances-contribution-sum-assured-under-cgeis-11788694080878.html",
+     "summary": "The Central Secretariat Service Forum said it hopes the 8th CPC would consider enhancing contribution and sum assured under the Central Government Employees Group Insurance Scheme (CGEIS) keeping in view higher insurance covers available in the market.",
+     "published": "2026-09-06T12:33:33+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/77u19in_mann-sekhon_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/healthinsurance_1788528998843_bcd9e975-8c65-4c32-9_1788697652261_c701ba53-db34-4f4a-8006-c4d471086a52_1788697652401_6657986d-f4dc-4d3f-8020-649aa46d8903_61e636af-e369-42cf-84b8-3de8f62adc0b_a7b230e6-0aae-43c2-b629-e67be956b231.jpg",
      "licence": "linkout",
-     "id": "6f418f8ebe40",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "India: Rahul Gandhi backs student protests in Maharashtra",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUhmRXZzSE96YVJmalZ3ZXZpaGRGaGtzUkRHQzRnbGs4Rno1c0YzSVVOS0NuNThaS0Zqd0h4bnBLaGJxZVBMWHhHVjhVZWphSmpaYlJjelZPVnFLUS0tZ3hrYkNld1VaS3lHdVVzR1hGalhLa0kyaV9tOXRhOWVqQkdIUHV4OXJLOGZoZk9DQWgtWWxVU2ZpTFctTjlJUQ?oc=5",
-     "summary": "India: Rahul Gandhi backs student protests in Maharashtra DW.com",
-     "published": "2026-09-06T10:43:05+00:00",
-     "source": "DW.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5eeb31a36b2b",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "EXCLUSIVE: FBI's fifth Most Wanted Fraudster captured after alleged SNAP scam suspect arrested in India",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1JZTTlpMXlNLVdfNDJJU0trOE5feldXRGhfdHNKLUlvZndybzBia1U1VGpvM2N4LVhKdENXbk5kc3FjZ0w1dVhTVXlUVzhEekZfLUh3YmJvLU9XdmRwZEVzYjRRM0ZIYS1lLTZ5emRXaGhKdHF1bGxMODdSOGlRYUh0Q0ZOSVBIOGY2WWdtNA?oc=5",
-     "summary": "EXCLUSIVE: FBI's fifth Most Wanted Fraudster captured after alleged SNAP scam suspect arrested in India Yahoo",
-     "published": "2026-09-05T21:31:35+00:00",
-     "source": "Yahoo",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "73c1f6c47a4d",
-     "also": [
-      {
-       "source": "OdishaBytes",
-       "title": "USD 6 Lakh US Welfare Fraud: Kash Patel Confirms FBI’s Most-Wanted Suspect Arrested In India",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXktTHJCcUtFZG1YbFNpc0Qtd3ZCaElwTmhxcTVFRkhIR1l1N0xYTUJxdXJrY2Q5OGE0TDNmczlZTnlBWUdnR0MwWFhyWWczU2wwWmlsQWxpYTl0cDlFR0x5emxVUWI4Z29yZkgzSGRUd1hTM2lScVJQQ2RLV2VPc3ctM2o0elphRGdQQktHRG8zWDVmQnYxbHB5Mm9IQ25EMnVta21YNXRhU0RiVEV0dzNKcjJKQdIBuwFBVV95cUxOMVRwRklWNlNLREIzcVdRendXVFJyaFJhbDVuUWRlVWx2RW5EWUJFLTdzNzJTcUJGU1hyX096QjZKWVNnZno5dndSREdSTUNyZ3ZISHdmRnJRU3lhM0V4OHcwRXJGQnI3eUM2Y1V1ZXA4R284RWNfSEFXRDQ5UUJuUjdRLUcxa1M2LXVOZ09oNXZoLXRIVEFTY3pJdUtOYXNtR0l6Zk9SMkNmcUdQalZ3c2xfVlptbnBkeXVv?oc=5",
-       "summary": "USD 6 Lakh US Welfare Fraud: Kash Patel Confirms FBI’s Most-Wanted Suspect Arrested In India OdishaBytes"
-      },
-      {
-       "source": "NewsBytes",
-       "title": "Manjit Singh Bedi, FBI's 'Most Wanted Fraudster' arrested in India",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmhaSWN1UTVDZXBETVd0dGpXR1JqT3JrUkJKU1dqYXN5T25hZHVFcnNiajJtZm5oWWoxckc1MGtoS3JLT0N5YWVNSjlwNHZHT2JZQWMzclFZM09zN3RCTkw3RFNEb2pJRjdTV04xNDNMdmdyWkx2dnlUWC1hbGM3UW81VE04S1JuRjJMUl9ZMExlbWVtWHhweFFTbS15TUlBclNTMlZHbUsweGs?oc=5",
-       "summary": "Manjit Singh Bedi, FBI's 'Most Wanted Fraudster' arrested in India NewsBytes"
-      }
-     ],
+     "id": "f98621c59ef9",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Scandals & Investigations"
+     "from_section": "Business"
+    },
+    {
+     "title": "Fuel duty proposal withdrawn after discussions",
+     "url": "https://www.bbc.co.uk/news/articles/cy8znkkn5rvo?at_medium=RSS&at_campaign=rss",
+     "summary": "Deputy Lucy Stephenson had wanted to cut the tax by 10p a litre for three months.",
+     "published": "2026-09-06T12:01:41+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1594/live/860aa170-a9e3-11f1-803f-7f2a9199ddc4.jpg",
+     "licence": "linkout",
+     "id": "ace8729846ff",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business"
     },
     {
      "title": "Trimming equity exposure: how to rebalance risk according to long-term goals",
@@ -285,46 +285,10 @@
      "from_section": "Business"
     },
     {
-     "title": "Don’t sit on court orders related to compensation for land acquisition, Keralam’s Finance department issues circular",
-     "url": "https://www.thehindu.com/news/national/kerala/dont-sit-on-court-orders-related-to-compensation-for-land-acquisition-keralams-finance-department-issues-circular/article71435000.ece",
-     "summary": "Finance department directs government departments to establish an internal monitoring mechanism for prompt compliance with court directions so as to avoid execution proceedings and attachment of government bank accounts and to ensure accountability",
-     "published": "2026-09-06T11:44:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qlxqyn/article71435077.ece/alternates/LANDSCAPE_1200/NH09Keralam03.JPEG",
-     "licence": "linkout",
-     "id": "8b63d84e120b",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News"
-    },
-    {
-     "title": "8th Pay Commission: Can Level 7 pension rise from ₹22,450 to ₹57,697? Check the calculation",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-can-level-7-pension-rise-from-22-450-to-57-697-check-the-calculation-11788688620993.html",
-     "summary": "The 8th Pay Commission could significantly change central government pensions. Here is how an illustrative fitment factor of 2.57 could take the minimum Level 7 pension to nearly ₹58,000, and what pensioners should know.",
-     "published": "2026-09-06T10:33:55+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/8th_pay_1788688901329_4c511dff-42b4-46ed-9fd4-4037c4332382_1788688901500_54fbc8ba-5f37-4367-9e5a-1d3faeebeabc_84875668-b754-44cc-bfc3-75ee04bd3637_0aa227bb-2fac-4b5f-883c-3aac5a05155c.jpg",
-     "licence": "linkout",
-     "id": "7b919a576b33",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "Business",
-     "figures": [
-      "7 pension rise from ₹22,450",
-      "₹22,450  to ₹57,697? Check",
-      "₹57,697 ? Check the calculation",
-      "2.57 could take the minimum Level",
-      "7 pension to nearly ₹58,000",
-      "₹58,000,  and what pensioners should"
-     ]
-    },
-    {
-     "title": "Delhi building collapse LIVE updates: Six rescued, several feared trapped",
+     "title": "Delhi building collapse LIVE updates: Delhi CM Rekha Gupta reaches site; rescue operations underway",
      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
-     "summary": "Eight fire tenders and multiple rescue teams of various departments were rushed to the spot, a Delhi Fire Service official said",
-     "published": "2026-09-06T11:52:35+00:00",
+     "summary": "Six people were rescued, while several others are feared trapped; multiple rescue teams from various departments were rushed to the spot, a Delhi Fire Service official said",
+     "published": "2026-09-06T12:14:28+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/xfmeb4/article71435081.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%2015.23.39.jpeg",
@@ -333,13 +297,27 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "Several Feared Trapped After 6-Storey Building Collapses In Delhi",
-       "url": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
-       "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred."
+       "title": "'Trapped Students Making Phone Calls': BJP MLA On Delhi Building Collapse",
+       "url": "https://www.ndtv.com/india-news/bjp-mla-on-delhi-building-collapse-trapped-students-making-phone-calls-12009205#publisher=newsstand",
+       "summary": "The injured were rushed to the AIIMS Trauma Centre for treatment. They were stated to be critical."
       }
      ],
      "category": "human",
      "category_label": "Human interest",
+     "from_section": "National News"
+    },
+    {
+     "title": "Collector inspects flood mitigation projects in Cuddalore",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/collector-inspects-flood-mitigation-projects-in-cuddalore/article71434589.ece",
+     "summary": "The works include construction of check-dams, drainage facilities, sluices to prevent breaches along riverbanks, strengthening of flood-damaged embankments, and flood-protection walls.",
+     "published": "2026-09-06T12:11:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/r6298c/article71434887.ece/alternates/LANDSCAPE_1200/2786_6_9_2026_12_2_23_1_IMG_20260906_WA0006.JPEG",
+     "licence": "linkout",
+     "id": "4120a9a82334",
+     "category": "weather",
+     "category_label": "Weather & disaster",
      "from_section": "National News"
     },
     {
@@ -371,29 +349,15 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "RANDOM MUSING: Was the Hugging Face attack Artificial Intelligence's 'Agent Smith breaks free from The Ma",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZDRXaGJxNWQwbTVKdHNRLU1hQmVxR1RYVEp4VFU5ZlRnLU5lSVdVazVEWnVGQU9URi1ucFlId1ZUQk54TVotUHN3Y0tjYnpRaGhzODQ4SnEyOExXSnhOeHBsS0F1TEdYZklFbXZCbUcyZ3lLNGlxVGhyOW1Zd2VnVGdVcl8xX19FYlZ1bFVTcjJJR1pSaExJWk1qNjQxcHl0UFFfRkhwM1lQWUdfa1lzVzdQQmRQc3BGcVdXWlJQeXkwTTlxdDJmXzRKZmNpQlJ5em53Y3BRdTF5ZzFwRWxlZDNsUFhSbTRfREF6bjFjcGcyRE9meEx2bnNxVG00WDFVNFdaSHNJOVNSX21OMFkzODNLVy1CSUNqZVk3dmNwLWc4Z9IBpwJBVV95cUxPOHZnVlpOdzV5M0hvRksxTkY0WVFlNVJIWGE2MVlkSTREZ3F5QTQtMGNzem1TQlNWUTZHa1RTNlNpaVZVS1I0ekhya19ZT0hjcWhaYlhMZUZtb2Y4TGVVbGF3OHYyUVZnaXpMMFVyZEI5SjUtZC1IQ3RPT2tXUld5Vl93a01BX0NXOVVGZ0hIZ3RoS0tIZWlWa3pzSGVzcW8zdWlrZjk0ODQtNWktNzItRm44ZTM0bTFrM2hCZ1E2cldkMkJITzM2RjhMVDk1anBzMU9BRThKc2tuSXFFWVRPNGNBZEphN2hhb1VQekZENEhIUHhuWnZ3NXp3VkdSUjBRV0ctTXhBZzhPcEQtNGRfS3hBMnV4clBxR2NOalN4NnpYREYwcUI4?oc=5",
-     "summary": "RANDOM MUSING: Was the Hugging Face attack Artificial Intelligence's 'Agent Smith breaks free from The Ma The Times of India",
-     "published": "2026-09-05T12:32:00+00:00",
-     "source": "The Times of India",
+     "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
+     "summary": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI The Guardian",
+     "published": "2026-09-06T11:00:00+00:00",
+     "source": "The Guardian",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "dea153a1b878",
-     "also": [
-      {
-       "source": "facebook.com",
-       "title": "Nobel Peace Prize laureate Maria Ressa urged journalists to take control of the technology that increasingly determines how news reaches the public in the face of artificial intelligence.",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZm54X3VBel9Tb2g0LTlYbkNYVFd2cm1zV2htWTZCY2FmT1YzbEVGTWtUVTlsOVRoNV8tUUF1b3NoYVFpRk1NaEMwM1c4OGRMZkgxSlFrQWYySWZkNFVydGV6MGNJM3JDWXlCbnV0VlVORl9oVmc5VGJvVTg5dnJQeXh1VVpXTjlPWWtSb0RrdkRVUFBWeGF4YnNjZkU1azZCclViYkFpTU14LXdDUjhJOFN1QzFyMTh2Y2lBdkhqREY3TU1rR2RBTnh0TTFZRzEwYWhRbm5FT18yNUk?oc=5",
-       "summary": "Nobel Peace Prize laureate Maria Ressa urged journalists to take control of the technology that increasingly determines how news reaches the public in the face of artificial intelligence. facebook.com"
-      },
-      {
-       "source": "EIN Presswire",
-       "title": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4%",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDNjY2xyTGctZnNQN2VmYTlRaDVpdDJhRFRxQ01seTdJMHhIREFEbmNvZHdpV01wUVFHbFIwSXRfVjh1TTNJdE9nUE9RWl9adjNhS3ZwbnNXTWNaOUlEZGxzQ3Q2R2tjSzZ2TjRYTEJFdUNGVEgteUxDNlhzdFBGUGZ2TnJ6dVNMQ0FzQTB5T2g0SkVQQ3pXeU5KNEFnMXYybkZEbkRmU0lQRnJHVjBRRW1rY3ZUN1Q2VllLOGhtSnNPQ0NHTmFzaUM3anQxdFFTc3hHNUYtdG9PV2QyOHU1UU52ZlZ4bW9WM0hGZ2tZNnUtRVVfWGs4?oc=5",
-       "summary": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4% EIN Presswire"
-      }
-     ],
+     "id": "506c43b773ee",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -459,51 +423,29 @@
      ]
     },
     {
-     "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZHhnLTlIV01acEVHX1FBMHRQYWlSemZGMi0xMzN1bENmcTFpcjkwVDBmbkQxYUpMenZrTTROODA2ZEo5RkJqT1lKeHBvdTFIWmpndzlTTUJyOGo2NF9yLTBMQnFYX05jS0dtUHhMUzZoUlVWS3dCMmRfZURVTkhQNUlJWUNldzZ2NnZlN0RmNE1iUUtvd2ZXNEZKZEphWXVxRUQyMk8zOEJ3cFUwdzdZWFN5SEkwRzBqYXllQkZBdGl0YUVSaWZTQkloTE9aRlFrU0tvbTdUYUN0VlZfdi02SGNRb0gtUdIB5gFBVV95cUxNZHhnLTlIV01acEVHX1FBMHRQYWlSemZGMi0xMzN1bENmcTFpcjkwVDBmbkQxYUpMenZrTTROODA2ZEo5RkJqT1lKeHBvdTFIWmpndzlTTUJyOGo2NF9yLTBMQnFYX05jS0dtUHhMUzZoUlVWS3dCMmRfZURVTkhQNUlJWUNldzZ2NnZlN0RmNE1iUUtvd2ZXNEZKZEphWXVxRUQyMk8zOEJ3cFUwdzdZWFN5SEkwRzBqYXllQkZBdGl0YUVSaWZTQkloTE9aRlFrU0tvbTdUYUN0VlZfdi02SGNRb0gtUQ?oc=5",
-     "summary": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees The Hindu",
-     "published": "2026-09-05T21:52:28+00:00",
-     "source": "The Hindu",
+     "title": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1ld2p3NklDY2x6cVktMTlvNkI1MkFYVDF2VHhKc2lpRXczVHc5WW92cHpselR6OFZZNnZiYVVoNEVvdGVYXy1PalBkY01sS24zZVNmb2JsdGd0RlpjZXN4bnZXX1NqTlQyVzlKendtUVducTc5UVk2QTVzRE50Q19QQzdMeWoxX0ZTckI5RnVDMmo1aFI5SGtDeWN0OXhrdkNKOHFSNkd6YWMtMFZzRjY4bXh6Nl9I0gG-AUFVX3lxTFBIM25pRHNTTlJXSTBXRXEzdVFmTHJLR091ekpYMzNjeXd3TnhqZndkM0R0Wml2OGtuQ25tREpqTWJSSUxjWEdkMkRJckc0MHVhbUZVeGVva0VIdXhzVi1ET0pYcEEwM0xCVmhDMVFNMHlCNHlFamxtVDNRdlZ5RTB6aU1xeFp2b2MwZmZWM2FlWVoxUDh3bXBXUWpfc0hBNE5NQ3JWemtoaGFUMXZjVWw0bXVBNDFRSHY5dkJMS2c?oc=5",
+     "summary": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News Hindustan Times",
+     "published": "2026-09-06T05:34:57+00:00",
+     "source": "Hindustan Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "66eb748755a8",
-     "also": [
-      {
-       "source": "ETV Bharat",
-       "title": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakYzelAwQ0NQMEM3bEw3bUpTbkt5QWRSSkdnLThDeHFvMkZqWXN2em9lZzVLalc1TlBqbWhNSjBZOFdVN3ZRY2dKZkxxWXB6Q0NxNlh5eTZmRWxiMVZBM1dCeEVDV0ZTNXU3aU9HYkVveVhxQm0tWjdZUXgtLWFuMVZjbDk0SElpZjUxZkhFdURlUmYyem82dzNRSE5aaXo3WmhaQkhza3FjMDRHZXJrSjlvV2dFQjJRbDZkSGtBSlc0Q1hVemhsYU5fZ3FVMHdCZjg0U3BuRWZ5QdIB3wFBVV95cUxORFRINWFVM3Voc3lPeUl0Tmt4MGNqREttRUg0dWU2LUZJbzRkaTdub0liWXVsOFNkUHFDT3EwUWpVMS1lUlp4NlpPQ2dHcGhNN0w2WjVXZWZ6VEM2MVRUbWtha0doNnEwOWxTSG4wQmJxaW00X1RLTXpkY2YyaF9CUHdHRU15ZTRETXY3UlN6VlZsQTEwTTViWXpGLWRBUzVjR3N3TkE2cFBRZHktSy1iTkhkTjJuM3JhZTc4SHlRdUFDb3RyQXVaZXM3NEQwOVAtcl9Panl3b3B0S3g0d0dF?oc=5",
-       "summary": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt ETV Bharat"
-      }
-     ],
+     "id": "70199a50baa9",
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Watch: The man behind Maharashtra’s FDA crackdown: Tukaram Mundhe",
-     "url": "https://www.thehindu.com/news/national/watch-the-man-behind-maharashtras-fda-crackdown-tukaram-mundhe/article71385878.ece",
-     "summary": "Tukaram Mundhe, Maharashtra’s Food and Drug Administration Commissioner, is leading an aggressive crackdown on food safety violations across the state. From raids on restaurants and food outlets to action against adulteration and unsafe practices, Mundhe’s enforcement drive has drawn widespread attention.",
-     "published": "2026-09-06T11:37:02+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/qsbti6/article71385875.ece/alternates/LANDSCAPE_1200/For%20pressmeet%20%20Speeches%201.png",
-     "licence": "linkout",
-     "id": "4423d6bd8b62",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1ld2p3NklDY2x6cVktMTlvNkI1MkFYVDF2VHhKc2lpRXczVHc5WW92cHpselR6OFZZNnZiYVVoNEVvdGVYXy1PalBkY01sS24zZVNmb2JsdGd0RlpjZXN4bnZXX1NqTlQyVzlKendtUVducTc5UVk2QTVzRE50Q19QQzdMeWoxX0ZTckI5RnVDMmo1aFI5SGtDeWN0OXhrdkNKOHFSNkd6YWMtMFZzRjY4bXh6Nl9I0gG-AUFVX3lxTFBIM25pRHNTTlJXSTBXRXEzdVFmTHJLR091ekpYMzNjeXd3TnhqZndkM0R0Wml2OGtuQ25tREpqTWJSSUxjWEdkMkRJckc0MHVhbUZVeGVva0VIdXhzVi1ET0pYcEEwM0xCVmhDMVFNMHlCNHlFamxtVDNRdlZ5RTB6aU1xeFp2b2MwZmZWM2FlWVoxUDh3bXBXUWpfc0hBNE5NQ3JWemtoaGFUMXZjVWw0bXVBNDFRSHY5dkJMS2c?oc=5",
-     "summary": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News hindustantimes.com",
-     "published": "2026-09-06T05:34:57+00:00",
-     "source": "hindustantimes.com",
+     "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZHhnLTlIV01acEVHX1FBMHRQYWlSemZGMi0xMzN1bENmcTFpcjkwVDBmbkQxYUpMenZrTTROODA2ZEo5RkJqT1lKeHBvdTFIWmpndzlTTUJyOGo2NF9yLTBMQnFYX05jS0dtUHhMUzZoUlVWS3dCMmRfZURVTkhQNUlJWUNldzZ2NnZlN0RmNE1iUUtvd2ZXNEZKZEphWXVxRUQyMk8zOEJ3cFUwdzdZWFN5SEkwRzBqYXllQkZBdGl0YUVSaWZTQkloTE9aRlFrU0tvbTdUYUN0VlZfdi02SGNRb0gtUdIB5gFBVV95cUxNZHhnLTlIV01acEVHX1FBMHRQYWlSemZGMi0xMzN1bENmcTFpcjkwVDBmbkQxYUpMenZrTTROODA2ZEo5RkJqT1lKeHBvdTFIWmpndzlTTUJyOGo2NF9yLTBMQnFYX05jS0dtUHhMUzZoUlVWS3dCMmRfZURVTkhQNUlJWUNldzZ2NnZlN0RmNE1iUUtvd2ZXNEZKZEphWXVxRUQyMk8zOEJ3cFUwdzdZWFN5SEkwRzBqYXllQkZBdGl0YUVSaWZTQkloTE9aRlFrU0tvbTdUYUN0VlZfdi02SGNRb0gtUQ?oc=5",
+     "summary": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees thehindu.com",
+     "published": "2026-09-05T21:52:28+00:00",
+     "source": "thehindu.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "70199a50baa9",
+     "id": "66eb748755a8",
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Scandals & Investigations"
@@ -522,7 +464,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-06T12:02:35.239923+00:00",
+     "published": "2026-09-06T12:38:20.537664+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -533,7 +475,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-06T12:02:35.239938+00:00",
+     "published": "2026-09-06T12:38:20.537676+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -544,7 +486,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-06T12:02:35.239944+00:00",
+     "published": "2026-09-06T12:38:20.537679+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -555,7 +497,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-06T12:02:35.239949+00:00",
+     "published": "2026-09-06T12:38:20.537681+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -566,7 +508,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-06T12:02:35.239953+00:00",
+     "published": "2026-09-06T12:38:20.537695+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -577,7 +519,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-06T12:02:35.239957+00:00",
+     "published": "2026-09-06T12:38:20.537699+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -784,20 +726,6 @@
      "category_label": "General"
     },
     {
-     "title": "EPFO to hold live session on PM-Viksit Bharat Rozgar Yojana on 8 September: Here are the key details you should know",
-     "url": "https://www.livemint.com/money/personal-finance/epfo-to-hold-live-session-on-pm-viksit-bharat-rozgar-yojana-on-8-september-here-are-the-key-details-you-should-know-11788690421963.html",
-     "summary": "EPFO will host a live session on the Pradhan Mantri Viksit Bharat Rozgar Yojana (PM-VBRY) on 8 September at 12 pm. Here’s what employees and employers can ask during the session, along with the scheme’s key benefits, incentives, and eligibility criteria.",
-     "published": "2026-09-06T11:25:10+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/pm_vkby_1788691818424_6271e935-6e61-4596-8e40-fece4c0fa5f4_1788691825024_9f65dff6-ac43-4933-8d7a-f2c8ec777057_c9d7e64c-2b0a-48c5-8b46-122bcfd9b0cf_c7721a58-3e58-430f-b0cd-10f567d3b47d.png",
-     "licence": "linkout",
-     "id": "3f72f1c72743",
-     "kind": "liveblog",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: Ishan Kishan Slams Superb 100, Misery For Tilak Varma's South Zone",
      "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-day-1-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-east-zone-vs-south-zone-12006147#publisher=newsstand",
      "summary": "Duleep Trophy Final LIVE Score, East Zone vs South Zone Live Updates: Ishan Kishan's century and Kumar Kushagra's fifty have put East Zone in command in the Duleep Trophy final.",
@@ -857,30 +785,22 @@
     {
      "title": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZHhnLTlIV01acEVHX1FBMHRQYWlSemZGMi0xMzN1bENmcTFpcjkwVDBmbkQxYUpMenZrTTROODA2ZEo5RkJqT1lKeHBvdTFIWmpndzlTTUJyOGo2NF9yLTBMQnFYX05jS0dtUHhMUzZoUlVWS3dCMmRfZURVTkhQNUlJWUNldzZ2NnZlN0RmNE1iUUtvd2ZXNEZKZEphWXVxRUQyMk8zOEJ3cFUwdzdZWFN5SEkwRzBqYXllQkZBdGl0YUVSaWZTQkloTE9aRlFrU0tvbTdUYUN0VlZfdi02SGNRb0gtUdIB5gFBVV95cUxNZHhnLTlIV01acEVHX1FBMHRQYWlSemZGMi0xMzN1bENmcTFpcjkwVDBmbkQxYUpMenZrTTROODA2ZEo5RkJqT1lKeHBvdTFIWmpndzlTTUJyOGo2NF9yLTBMQnFYX05jS0dtUHhMUzZoUlVWS3dCMmRfZURVTkhQNUlJWUNldzZ2NnZlN0RmNE1iUUtvd2ZXNEZKZEphWXVxRUQyMk8zOEJ3cFUwdzdZWFN5SEkwRzBqYXllQkZBdGl0YUVSaWZTQkloTE9aRlFrU0tvbTdUYUN0VlZfdi02SGNRb0gtUQ?oc=5",
-     "summary": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees The Hindu",
+     "summary": "Bihar govt. restricts CBI power; State nod mandatory to probe against its employees thehindu.com",
      "published": "2026-09-05T21:52:28+00:00",
-     "source": "The Hindu",
+     "source": "thehindu.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "66eb748755a8",
-     "also": [
-      {
-       "source": "ETV Bharat",
-       "title": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakYzelAwQ0NQMEM3bEw3bUpTbkt5QWRSSkdnLThDeHFvMkZqWXN2em9lZzVLalc1TlBqbWhNSjBZOFdVN3ZRY2dKZkxxWXB6Q0NxNlh5eTZmRWxiMVZBM1dCeEVDV0ZTNXU3aU9HYkVveVhxQm0tWjdZUXgtLWFuMVZjbDk0SElpZjUxZkhFdURlUmYyem82dzNRSE5aaXo3WmhaQkhza3FjMDRHZXJrSjlvV2dFQjJRbDZkSGtBSlc0Q1hVemhsYU5fZ3FVMHdCZjg0U3BuRWZ5QdIB3wFBVV95cUxORFRINWFVM3Voc3lPeUl0Tmt4MGNqREttRUg0dWU2LUZJbzRkaTdub0liWXVsOFNkUHFDT3EwUWpVMS1lUlp4NlpPQ2dHcGhNN0w2WjVXZWZ6VEM2MVRUbWtha0doNnEwOWxTSG4wQmJxaW00X1RLTXpkY2YyaF9CUHdHRU15ZTRETXY3UlN6VlZsQTEwTTViWXpGLWRBUzVjR3N3TkE2cFBRZHktSy1iTkhkTjJuM3JhZTc4SHlRdUFDb3RyQXVaZXM3NEQwOVAtcl9Panl3b3B0S3g0d0dF?oc=5",
-       "summary": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt ETV Bharat"
-      }
-     ],
      "category": "mystery",
      "category_label": "Mystery & investigation"
     },
     {
      "title": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1ld2p3NklDY2x6cVktMTlvNkI1MkFYVDF2VHhKc2lpRXczVHc5WW92cHpselR6OFZZNnZiYVVoNEVvdGVYXy1PalBkY01sS24zZVNmb2JsdGd0RlpjZXN4bnZXX1NqTlQyVzlKendtUVducTc5UVk2QTVzRE50Q19QQzdMeWoxX0ZTckI5RnVDMmo1aFI5SGtDeWN0OXhrdkNKOHFSNkd6YWMtMFZzRjY4bXh6Nl9I0gG-AUFVX3lxTFBIM25pRHNTTlJXSTBXRXEzdVFmTHJLR091ekpYMzNjeXd3TnhqZndkM0R0Wml2OGtuQ25tREpqTWJSSUxjWEdkMkRJckc0MHVhbUZVeGVva0VIdXhzVi1ET0pYcEEwM0xCVmhDMVFNMHlCNHlFamxtVDNRdlZ5RTB6aU1xeFp2b2MwZmZWM2FlWVoxUDh3bXBXUWpfc0hBNE5NQ3JWemtoaGFUMXZjVWw0bXVBNDFRSHY5dkJMS2c?oc=5",
-     "summary": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News hindustantimes.com",
+     "summary": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News Hindustan Times",
      "published": "2026-09-06T05:34:57+00:00",
-     "source": "hindustantimes.com",
+     "source": "Hindustan Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -889,33 +809,30 @@
      "category_label": "Mystery & investigation"
     },
     {
-     "title": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakYzelAwQ0NQMEM3bEw3bUpTbkt5QWRSSkdnLThDeHFvMkZqWXN2em9lZzVLalc1TlBqbWhNSjBZOFdVN3ZRY2dKZkxxWXB6Q0NxNlh5eTZmRWxiMVZBM1dCeEVDV0ZTNXU3aU9HYkVveVhxQm0tWjdZUXgtLWFuMVZjbDk0SElpZjUxZkhFdURlUmYyem82dzNRSE5aaXo3WmhaQkhza3FjMDRHZXJrSjlvV2dFQjJRbDZkSGtBSlc0Q1hVemhsYU5fZ3FVMHdCZjg0U3BuRWZ5QdIB3wFBVV95cUxORFRINWFVM3Voc3lPeUl0Tmt4MGNqREttRUg0dWU2LUZJbzRkaTdub0liWXVsOFNkUHFDT3EwUWpVMS1lUlp4NlpPQ2dHcGhNN0w2WjVXZWZ6VEM2MVRUbWtha0doNnEwOWxTSG4wQmJxaW00X1RLTXpkY2YyaF9CUHdHRU15ZTRETXY3UlN6VlZsQTEwTTViWXpGLWRBUzVjR3N3TkE2cFBRZHktSy1iTkhkTjJuM3JhZTc4SHlRdUFDb3RyQXVaZXM3NEQwOVAtcl9Panl3b3B0S3g0d0dF?oc=5",
-     "summary": "Prior Consent Mandatory For CBI To Probe Offences Involving Public Servants: Bihar Govt ETV Bharat",
-     "published": "2026-09-05T12:16:20+00:00",
-     "source": "ETV Bharat",
+     "title": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVJRR2tDdlFKSi12OG56MTF3cEFZa0wtdHZvOXpuY1dRNTFUNVpLTlZfVHZsZ2JXajZwTXUxYUVUTi1hanR5YjZEUEdDS3RWdWd4cGFCRk1DRkJEcXFNYzJlejR6TGRnV1NfTUJEcnlUTlJvRnF1TUVoVEdBRUdLbjFYa3lCLUFlMjN1bzB1VDZDb1V3S2VzWk56WS1ob2N0dGg4?oc=5",
+     "summary": "NIA Charges Three in Myanmar-Based Human Trafficking and Cyber Fraud Racket News On AIR",
+     "published": "2026-09-05T17:37:44+00:00",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "6b97ff6cd312",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
+     "id": "b0b1fa438e5d",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "USD 6 Lakh US Welfare Fraud: Kash Patel Confirms FBI’s Most-Wanted Suspect Arrested In India",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXktTHJCcUtFZG1YbFNpc0Qtd3ZCaElwTmhxcTVFRkhIR1l1N0xYTUJxdXJrY2Q5OGE0TDNmczlZTnlBWUdnR0MwWFhyWWczU2wwWmlsQWxpYTl0cDlFR0x5emxVUWI4Z29yZkgzSGRUd1hTM2lScVJQQ2RLV2VPc3ctM2o0elphRGdQQktHRG8zWDVmQnYxbHB5Mm9IQ25EMnVta21YNXRhU0RiVEV0dzNKcjJKQdIBuwFBVV95cUxOMVRwRklWNlNLREIzcVdRendXVFJyaFJhbDVuUWRlVWx2RW5EWUJFLTdzNzJTcUJGU1hyX096QjZKWVNnZno5dndSREdSTUNyZ3ZISHdmRnJRU3lhM0V4OHcwRXJGQnI3eUM2Y1V1ZXA4R284RWNfSEFXRDQ5UUJuUjdRLUcxa1M2LXVOZ09oNXZoLXRIVEFTY3pJdUtOYXNtR0l6Zk9SMkNmcUdQalZ3c2xfVlptbnBkeXVv?oc=5",
-     "summary": "USD 6 Lakh US Welfare Fraud: Kash Patel Confirms FBI’s Most-Wanted Suspect Arrested In India OdishaBytes",
-     "published": "2026-09-06T04:19:55+00:00",
-     "source": "OdishaBytes",
+     "title": "EXCLUSIVE: FBI's fifth Most Wanted Fraudster captured after alleged SNAP scam suspect arrested in India",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1JZTTlpMXlNLVdfNDJJU0trOE5feldXRGhfdHNKLUlvZndybzBia1U1VGpvM2N4LVhKdENXbk5kc3FjZ0w1dVhTVXlUVzhEekZfLUh3YmJvLU9XdmRwZEVzYjRRM0ZIYS1lLTZ5emRXaGhKdHF1bGxMODdSOGlRYUh0Q0ZOSVBIOGY2WWdtNA?oc=5",
+     "summary": "EXCLUSIVE: FBI's fifth Most Wanted Fraudster captured after alleged SNAP scam suspect arrested in India Yahoo",
+     "published": "2026-09-05T21:31:35+00:00",
+     "source": "Yahoo",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "09e72a012dd3",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "6 Lakh US Welfare Fraud: Kash"
-     ]
+     "id": "73c1f6c47a4d",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -926,43 +843,36 @@
    "upsc": false,
    "items": [
     {
-     "title": "At least 11 dead after consuming spurious liquor in Madhya Pradesh's Sagar",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-sagar-spurious-liquor-hooch-alcohol-death-toll/article71434596.ece",
-     "summary": "Superintendent of Police (SP) Anurag Sujaniya said that about 12 suspects have been detained and are currently being questioned",
-     "published": "2026-09-06T11:58:15+00:00",
+     "title": "At least six, including four family members, killed in house-collapse incidents in U.P.",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/six-including-four-family-members-killed-in-house-collapse-incidents-in-up/article71435111.ece",
+     "summary": "Victim’s cousin alleged police negligence, saying that the family repeatedly called the Saadh police station after the collapse, but the calls were initially unanswered, so villagers had to launch a rescue operation themselves and worked for nearly two hours to pull the trapped family members out",
+     "published": "2026-09-06T12:22:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/fddyhk/article71434672.ece/alternates/LANDSCAPE_1200/PTI09_06_2026_000030B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/lyf53i/article71435181.ece/alternates/LANDSCAPE_1200/PTI09_06_2026_000133B.jpg",
      "licence": "linkout",
-     "id": "ea7acaa35f5a",
+     "id": "5c75d042e72c",
      "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "11 dead after consuming spurious liquor",
-      "12 suspects have been detained"
-     ]
+     "category_label": "Crime"
     },
     {
-     "title": "Thrissur road accident: T.N. Minister visits Kaipamangalam crash site, promises support for victims’ families",
-     "url": "https://www.thehindu.com/news/national/kerala/thrissur-road-accident-tn-minister-visits-kaipamangalam-crash-site-promises-support-for-victims-families/article71435083.ece",
-     "summary": "Eight students from Dindigul had lost their lives in a crash on NH 66 at Kaipamangalam in Keralam’s Thissur. Minister S. Rajesh Kumar calls for urgent completion of NH 66 works and stronger safety measures",
-     "published": "2026-09-06T11:57:51+00:00",
+     "title": "Tamil Nadu government mulling over abolition of State Planning Commission",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-mulling-over-abolition-of-state-planning-commission/article71434892.ece",
+     "summary": "The TVK-led government has not filled the posts of Vice-Chairperson and full-time members of the SPC after the resignation of the team appointed by the previous DMK government",
+     "published": "2026-09-06T12:17:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/p8qop5/article71435133.ece/alternates/LANDSCAPE_1200/IMG_80688_5_9_2026_19_11_1_1_G1GGA6GG.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/yp5us7/article71435036.ece/alternates/LANDSCAPE_1200/Tamil-Nadu-CM-VGS0GFU4S5.3.jpg.jpg",
      "licence": "linkout",
-     "id": "f51a3e9406e2",
+     "id": "e327005fc839",
      "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "66 works and stronger safety measures"
-     ]
+     "category_label": "Political controversy"
     },
     {
-     "title": "Delhi building collapse LIVE updates: Six rescued, several feared trapped",
+     "title": "Delhi building collapse LIVE updates: Delhi CM Rekha Gupta reaches site; rescue operations underway",
      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
-     "summary": "Eight fire tenders and multiple rescue teams of various departments were rushed to the spot, a Delhi Fire Service official said",
-     "published": "2026-09-06T11:52:35+00:00",
+     "summary": "Six people were rescued, while several others are feared trapped; multiple rescue teams from various departments were rushed to the spot, a Delhi Fire Service official said",
+     "published": "2026-09-06T12:14:28+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/xfmeb4/article71435081.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%2015.23.39.jpeg",
@@ -971,26 +881,26 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "Several Feared Trapped After 6-Storey Building Collapses In Delhi",
-       "url": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
-       "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred."
+       "title": "'Trapped Students Making Phone Calls': BJP MLA On Delhi Building Collapse",
+       "url": "https://www.ndtv.com/india-news/bjp-mla-on-delhi-building-collapse-trapped-students-making-phone-calls-12009205#publisher=newsstand",
+       "summary": "The injured were rushed to the AIIMS Trauma Centre for treatment. They were stated to be critical."
       }
      ],
      "category": "human",
      "category_label": "Human interest"
     },
     {
-     "title": "Tamil Nadu failing at animal birth control programme",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-animal-birth-control-centres-in-shambles/article71431541.ece",
-     "summary": "The abject failure of the Animal Birth Control programme in the State is apparent on the streets. This report reveals that the ABC programme, besides being in a shambles, is inhumane, corrupt, and cruel, in many cases",
-     "published": "2026-09-06T11:42:37+00:00",
-     "source": "The Hindu",
+     "title": "Gangster-Turned-Politician Gurpreet Singh Sekhon Joins AAP Ahead Of Punjab Polls",
+     "url": "https://www.ndtv.com/india-news/gangster-turned-politician-gurpreet-singh-sekhon-joins-aap-ahead-of-punjab-polls-12009243#publisher=newsstand",
+     "summary": "Political analysts believe that the AAP might field Sekhon as its candidate from the Zira assembly constituency.",
+     "published": "2026-09-06T10:59:33+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/mdh2ub/article71431928.ece/alternates/LANDSCAPE_1200/_DSC9822.JPG",
+     "image": "https://c.ndtvimg.com/2026-09/77u19in_mann-sekhon_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "9bd636745d69",
-     "category": "general",
-     "category_label": "General"
+     "id": "6f418f8ebe40",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Several Feared Trapped After 6-Storey Building Collapses In Delhi",
@@ -1018,14 +928,6 @@
      "image": "https://c.ndtvimg.com/2026-09/ks8s1eg4_delhi-collapse_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "9dcfa2e62b88",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Delhi building collapse LIVE updates: Six rescued, several feared trapped",
-       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
-       "summary": "Eight fire tenders and multiple rescue teams of various departments were rushed to the spot, a Delhi Fire Service official said"
-      }
-     ],
      "category": "general",
      "category_label": "General"
     },
@@ -1235,84 +1137,69 @@
    "upsc": false,
    "items": [
     {
-     "title": "At least 11 dead after consuming spurious liquor in Madhya Pradesh's Sagar",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-sagar-spurious-liquor-hooch-alcohol-death-toll/article71434596.ece",
-     "summary": "Superintendent of Police (SP) Anurag Sujaniya said that about 12 suspects have been detained and are currently being questioned",
-     "published": "2026-09-06T11:58:15+00:00",
+     "title": "At least six, including four family members, killed in house-collapse incidents in U.P.",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/six-including-four-family-members-killed-in-house-collapse-incidents-in-up/article71435111.ece",
+     "summary": "Victim’s cousin alleged police negligence, saying that the family repeatedly called the Saadh police station after the collapse, but the calls were initially unanswered, so villagers had to launch a rescue operation themselves and worked for nearly two hours to pull the trapped family members out",
+     "published": "2026-09-06T12:22:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/fddyhk/article71434672.ece/alternates/LANDSCAPE_1200/PTI09_06_2026_000030B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/lyf53i/article71435181.ece/alternates/LANDSCAPE_1200/PTI09_06_2026_000133B.jpg",
      "licence": "linkout",
-     "id": "ea7acaa35f5a",
+     "id": "5c75d042e72c",
      "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "11 dead after consuming spurious liquor",
-      "12 suspects have been detained"
-     ]
+     "category_label": "Crime"
     },
     {
-     "title": "Thrissur road accident: T.N. Minister visits Kaipamangalam crash site, promises support for victims’ families",
-     "url": "https://www.thehindu.com/news/national/kerala/thrissur-road-accident-tn-minister-visits-kaipamangalam-crash-site-promises-support-for-victims-families/article71435083.ece",
-     "summary": "Eight students from Dindigul had lost their lives in a crash on NH 66 at Kaipamangalam in Keralam’s Thissur. Minister S. Rajesh Kumar calls for urgent completion of NH 66 works and stronger safety measures",
-     "published": "2026-09-06T11:57:51+00:00",
+     "title": "Tamil Nadu government mulling over abolition of State Planning Commission",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-mulling-over-abolition-of-state-planning-commission/article71434892.ece",
+     "summary": "The TVK-led government has not filled the posts of Vice-Chairperson and full-time members of the SPC after the resignation of the team appointed by the previous DMK government",
+     "published": "2026-09-06T12:17:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/p8qop5/article71435133.ece/alternates/LANDSCAPE_1200/IMG_80688_5_9_2026_19_11_1_1_G1GGA6GG.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/yp5us7/article71435036.ece/alternates/LANDSCAPE_1200/Tamil-Nadu-CM-VGS0GFU4S5.3.jpg.jpg",
      "licence": "linkout",
-     "id": "f51a3e9406e2",
+     "id": "e327005fc839",
      "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "66 works and stronger safety measures"
-     ]
+     "category_label": "Political controversy"
     },
     {
-     "title": "Delhi building collapse LIVE updates: Six rescued, several feared trapped",
+     "title": "Delhi building collapse LIVE updates: Delhi CM Rekha Gupta reaches site; rescue operations underway",
      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
-     "summary": "Eight fire tenders and multiple rescue teams of various departments were rushed to the spot, a Delhi Fire Service official said",
-     "published": "2026-09-06T11:52:35+00:00",
+     "summary": "Six people were rescued, while several others are feared trapped; multiple rescue teams from various departments were rushed to the spot, a Delhi Fire Service official said",
+     "published": "2026-09-06T12:14:28+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/xfmeb4/article71435081.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%2015.23.39.jpeg",
      "licence": "linkout",
      "id": "549d7bd7f74c",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "'Trapped Students Making Phone Calls': BJP MLA On Delhi Building Collapse",
-       "url": "https://www.ndtv.com/india-news/bjp-mla-on-delhi-building-collapse-trapped-students-making-phone-calls-12009205#publisher=newsstand",
-       "summary": "The injured were rushed to the AIIMS Trauma Centre for treatment. They were stated to be critical."
-      }
-     ],
      "category": "human",
      "category_label": "Human interest"
     },
     {
-     "title": "Popularity was never my goal; what matters is public health: Tukaram Mundhe",
-     "url": "https://www.thehindu.com/news/national/maharashtra/popularity-was-never-my-goal-what-matters-is-public-health-tukaram-mundhe/article71434746.ece",
-     "summary": "“We cannot become a superpower if our human resources are not healthy,” Tukaram Mundhe says",
-     "published": "2026-09-06T11:37:48+00:00",
+     "title": "Don’t sit on court orders related to compensation for land acquisition, Keralam’s Finance department issues circular",
+     "url": "https://www.thehindu.com/news/national/kerala/dont-sit-on-court-orders-related-to-compensation-for-land-acquisition-keralams-finance-department-issues-circular/article71435000.ece",
+     "summary": "Finance department directs government departments to establish an internal monitoring mechanism for prompt compliance with court directions so as to avoid execution proceedings and attachment of government bank accounts and to ensure accountability",
+     "published": "2026-09-06T11:44:49+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ty8ksh/article71434780.ece/alternates/LANDSCAPE_1200/PTI08_08_2026_000398B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/qlxqyn/article71435077.ece/alternates/LANDSCAPE_1200/NH09Keralam03.JPEG",
      "licence": "linkout",
-     "id": "5aac581514e6",
-     "category": "general",
-     "category_label": "General"
+     "id": "8b63d84e120b",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "FDA suspends license of Mumbai's Otters Club over analogue paneer; Crackdown on several other establishments across Maharashtra",
-     "url": "https://www.thehindu.com/news/cities/mumbai/fda-suspends-license-of-mumbais-otters-club-over-analogue-paneer-crackdown-on-several-other-establishments-across-maharashtra/article71365259.ece",
-     "summary": "Other establishments across Maharashtra also had their licences suspended after inspections found alleged hygiene, storage, pest-control and food-safety violations during the ongoing statewide enforcement drive between July 14, 2026, and August 17, 2026",
-     "published": "2026-09-06T11:37:41+00:00",
-     "source": "The Hindu",
+     "title": "India: Rahul Gandhi backs student protests in Maharashtra",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUhmRXZzSE96YVJmalZ3ZXZpaGRGaGtzUkRHQzRnbGs4Rno1c0YzSVVOS0NuNThaS0Zqd0h4bnBLaGJxZVBMWHhHVjhVZWphSmpaYlJjelZPVnFLUS0tZ3hrYkNld1VaS3lHdVVzR1hGalhLa0kyaV9tOXRhOWVqQkdIUHV4OXJLOGZoZk9DQWgtWWxVU2ZpTFctTjlJUQ?oc=5",
+     "summary": "India: Rahul Gandhi backs student protests in Maharashtra DW.com",
+     "published": "2026-09-06T10:43:05+00:00",
+     "source": "DW.com",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/j4r0cu/article71367640.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000365B.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "af0f6766dce5",
-     "category": "general",
-     "category_label": "General"
+     "id": "5eeb31a36b2b",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
@@ -1898,15 +1785,15 @@
      ]
     },
     {
-     "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-     "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
-     "summary": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
-     "published": "2026-09-06T06:04:51+00:00",
-     "source": "BBC News",
+     "title": "UAN, passbook, claim status and more: Labour Ministry lists 5 key EPFO services members can access on the Umang app",
+     "url": "https://www.livemint.com/money/personal-finance/uan-passbook-claim-status-and-more-labour-ministry-lists-5-key-epfo-services-members-can-access-on-the-umang-app-11788693129971.html",
+     "summary": "EPFO members can now generate, activate and authenticate their UAN through the UMANG app using Aadhaar-based face authentication. After activation, members can check their EPF balance, download their passbook, track claims and update KYC digitally.",
+     "published": "2026-09-06T12:04:46+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d316/live/da5dc3c0-a889-11f1-96fc-dd627484b0e6.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/umang_app_o_1788695502865_bccc5718-6000-481c-9f5a-5aed54388aae_1788695509077_8cf4d25f-9cf5-4ef6-b914-ecfab32c76f4_943ae323-37aa-4723-9c26-89fb30e423b1_0dff6081-db7b-42e0-aa43-5c740af903b5.png",
      "licence": "linkout",
-     "id": "29bda0e93f3c",
+     "id": "ca3785439a7a",
      "category": "general",
      "category_label": "General"
     },
@@ -1949,6 +1836,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
+     "summary": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI The Guardian",
+     "published": "2026-09-06T11:00:00+00:00",
+     "source": "The Guardian",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "506c43b773ee",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Artificial intelligence at IMTS 2026",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnNMdWtlaXZEczRfc0dnb2NRNF9GYkJVN0tVZTZnN1NNQnlBdnRSdTB1TFJXWEpZd2hpSS1GdGs3MW9BQlZ1WEVfeU9MdUNISkktOWZmYndkdVZGajRNTG01VFl6OWpYOHRnU05raEQ4Z0N3TWNqQVd5SkdXejUtZUZINTRxY3VP?oc=5",
      "summary": "Artificial intelligence at IMTS 2026 Today's Medical Developments",
@@ -1975,47 +1875,17 @@
      "category_label": "General"
     },
     {
-     "title": "RANDOM MUSING: Was the Hugging Face attack Artificial Intelligence's 'Agent Smith breaks free from The Ma",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZDRXaGJxNWQwbTVKdHNRLU1hQmVxR1RYVEp4VFU5ZlRnLU5lSVdVazVEWnVGQU9URi1ucFlId1ZUQk54TVotUHN3Y0tjYnpRaGhzODQ4SnEyOExXSnhOeHBsS0F1TEdYZklFbXZCbUcyZ3lLNGlxVGhyOW1Zd2VnVGdVcl8xX19FYlZ1bFVTcjJJR1pSaExJWk1qNjQxcHl0UFFfRkhwM1lQWUdfa1lzVzdQQmRQc3BGcVdXWlJQeXkwTTlxdDJmXzRKZmNpQlJ5em53Y3BRdTF5ZzFwRWxlZDNsUFhSbTRfREF6bjFjcGcyRE9meEx2bnNxVG00WDFVNFdaSHNJOVNSX21OMFkzODNLVy1CSUNqZVk3dmNwLWc4Z9IBpwJBVV95cUxPOHZnVlpOdzV5M0hvRksxTkY0WVFlNVJIWGE2MVlkSTREZ3F5QTQtMGNzem1TQlNWUTZHa1RTNlNpaVZVS1I0ekhya19ZT0hjcWhaYlhMZUZtb2Y4TGVVbGF3OHYyUVZnaXpMMFVyZEI5SjUtZC1IQ3RPT2tXUld5Vl93a01BX0NXOVVGZ0hIZ3RoS0tIZWlWa3pzSGVzcW8zdWlrZjk0ODQtNWktNzItRm44ZTM0bTFrM2hCZ1E2cldkMkJITzM2RjhMVDk1anBzMU9BRThKc2tuSXFFWVRPNGNBZEphN2hhb1VQekZENEhIUHhuWnZ3NXp3VkdSUjBRV0ctTXhBZzhPcEQtNGRfS3hBMnV4clBxR2NOalN4NnpYREYwcUI4?oc=5",
-     "summary": "RANDOM MUSING: Was the Hugging Face attack Artificial Intelligence's 'Agent Smith breaks free from The Ma The Times of India",
-     "published": "2026-09-05T12:32:00+00:00",
-     "source": "The Times of India",
+     "title": "Emirati women help shape the future through artificial intelligence",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2lkVnlpTTRrbW1vazhPRl83NmVJeHAyU2lVWkNpaC1sano3TEliaFJSck1vUXVZd2MxTE9YVmQ5QVNsS1Z1eDNjVTJ6SllvVldfV09MeXNpcU5FU3ZlZjJlcUxWNldKMmt1RTJqQzhJTXFLWjJRRTdYWHhJMjROeTdPM2NqNUp0VFludDVUYm1DRFZqX2NyaWFsUE9TZGdkal9JbVUxNNIBwgFBVV95cUxQSlM3RUxxUmR4WHJFaGpsNWM0LXB1b25ZcS1pMHN0V2cyNWNfZFQzOWg2bFBKc0E1ZWxxbnNqcldOMXh0Z3NyQUtpYWp2RzBUQkRyUG9vRHRrSTJYX3pRcXh1RkxBR0NsZUF0VkRHTWJwbVF3YlgyU1NvQXk0NlljelV4NFFQY2c0ZnczTWRFREh1R1dFSnQzUDNUUUZucmU5ZU0yV3ZXQnlGdm4yU25Jc3Zub3RwRHlXOVBjeTl2RC03dw?oc=5",
+     "summary": "Emirati women help shape the future through artificial intelligence Emirates 24|7",
+     "published": "2026-09-06T04:26:00+00:00",
+     "source": "Emirates 24|7",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "dea153a1b878",
-     "also": [
-      {
-       "source": "facebook.com",
-       "title": "Nobel Peace Prize laureate Maria Ressa urged journalists to take control of the technology that increasingly determines how news reaches the public in the face of artificial intelligence.",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZm54X3VBel9Tb2g0LTlYbkNYVFd2cm1zV2htWTZCY2FmT1YzbEVGTWtUVTlsOVRoNV8tUUF1b3NoYVFpRk1NaEMwM1c4OGRMZkgxSlFrQWYySWZkNFVydGV6MGNJM3JDWXlCbnV0VlVORl9oVmc5VGJvVTg5dnJQeXh1VVpXTjlPWWtSb0RrdkRVUFBWeGF4YnNjZkU1azZCclViYkFpTU14LXdDUjhJOFN1QzFyMTh2Y2lBdkhqREY3TU1rR2RBTnh0TTFZRzEwYWhRbm5FT18yNUk?oc=5",
-       "summary": "Nobel Peace Prize laureate Maria Ressa urged journalists to take control of the technology that increasingly determines how news reaches the public in the face of artificial intelligence. facebook.com"
-      },
-      {
-       "source": "EIN Presswire",
-       "title": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4%",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDNjY2xyTGctZnNQN2VmYTlRaDVpdDJhRFRxQ01seTdJMHhIREFEbmNvZHdpV01wUVFHbFIwSXRfVjh1TTNJdE9nUE9RWl9adjNhS3ZwbnNXTWNaOUlEZGxzQ3Q2R2tjSzZ2TjRYTEJFdUNGVEgteUxDNlhzdFBGUGZ2TnJ6dVNMQ0FzQTB5T2g0SkVQQ3pXeU5KNEFnMXYybkZEbkRmU0lQRnJHVjBRRW1rY3ZUN1Q2VllLOGhtSnNPQ0NHTmFzaUM3anQxdFFTc3hHNUYtdG9PV2QyOHU1UU52ZlZ4bW9WM0hGZ2tZNnUtRVVfWGs4?oc=5",
-       "summary": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4% EIN Presswire"
-      }
-     ],
+     "id": "21fb3087c8c2",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4%",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDNjY2xyTGctZnNQN2VmYTlRaDVpdDJhRFRxQ01seTdJMHhIREFEbmNvZHdpV01wUVFHbFIwSXRfVjh1TTNJdE9nUE9RWl9adjNhS3ZwbnNXTWNaOUlEZGxzQ3Q2R2tjSzZ2TjRYTEJFdUNGVEgteUxDNlhzdFBGUGZ2TnJ6dVNMQ0FzQTB5T2g0SkVQQ3pXeU5KNEFnMXYybkZEbkRmU0lQRnJHVjBRRW1rY3ZUN1Q2VllLOGhtSnNPQ0NHTmFzaUM3anQxdFFTc3hHNUYtdG9PV2QyOHU1UU52ZlZ4bW9WM0hGZ2tZNnUtRVVfWGs4?oc=5",
-     "summary": "Artificial Intelligence In Manufacturing And Supply Chain Market Size To Reach $27.66Billion By 2030 At A CAGR Of 27.4% EIN Presswire",
-     "published": "2026-09-05T12:23:00+00:00",
-     "source": "EIN Presswire",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "8b6035caeafa",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$27.66Billion By 2030"
-     ]
     }
    ]
   },
@@ -2130,19 +2000,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9c/live/67c5d5d0-a7af-11f1-aed2-8d6da8d75094.png",
      "licence": "linkout",
      "id": "9c5a6525811d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
-     "url": "https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&at_campaign=rss",
-     "summary": "A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May.",
-     "published": "2026-09-05T12:32:09+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf69/live/036b5aa0-a79c-11f1-a7ad-37a1f7dc081c.jpg",
-     "licence": "linkout",
-     "id": "9ef3011de412",
      "category": "general",
      "category_label": "General"
     }
