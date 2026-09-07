@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T20:02:16.219818+00:00",
+ "generated_at": "2026-09-07T20:35:26.469188+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Ground Report",
   "Keralam Kochi",
-  "Student Alappuzha",
   "Jazeera English",
   "News",
-  "Satya Niketan",
   "Delhi",
-  "Syria Assad",
-  "Moment",
-  "Indonesia",
-  "Australians"
+  "Satya Niketan",
+  "Authorities Kerala",
+  "Cuba",
+  "What Germany",
+  "Indonesia"
  ],
  "sections": [
   {
@@ -102,6 +102,28 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Ground Report | Sunlight Is A Luxury In Delhi Students' Hub Where Building Collapse Killed 7",
+     "url": "https://www.ndtv.com/india-news/high-rent-congestion-in-delhis-satya-niketan-where-sunlight-is-a-luxury-12014355#publisher=newsstand",
+     "summary": "The civic infrastructure in Delhi's Satya Niketan hasn't caught up with the pace of development and appears to be crumbling under the weight of the influx of tenants and the greed of landlords.",
+     "published": "2026-09-07T19:26:56+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/894vtvkc_rent_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b5d7a4f3b43b",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
+       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+       "summary": "It's not clear how many people were inside the building - or if there are still people under the debris."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Two bike riders killed, one injured in separate accidents in Keralam’s Kochi",
      "url": "https://www.thehindu.com/news/national/kerala/two-bike-riders-killed-one-injured-in-separate-accidents-in-keralams-kochi/article71438510.ece",
@@ -129,37 +151,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
-    },
-    {
-     "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
-     "url": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
-     "summary": "Major-General Mohammed Ali Durgham is accused of links to 1982 Hama massacre and 2011 protest crackdown.",
-     "published": "2026-09-07T19:03:29+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9ee95d-1788799325.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "cd4d23ed53b8",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Tigress Tranquilised After Killing 4, Dies On Way To Rescue Centre",
-     "url": "https://www.ndtv.com/india-news/tigress-tranquilised-after-killing-4-dies-on-way-to-rescue-centre-12015107#publisher=newsstand",
-     "summary": "The tigress had been terrorising parts of Amravati and Wardha districts since the middle of last month.",
-     "published": "2026-09-07T18:03:29+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/a9q6v47_tigress_625x300_07_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "30b8a6d451fe",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "National News",
-     "figures": [
-      "4, Dies On Way To Rescue"
-     ]
     },
     {
      "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
@@ -193,6 +184,34 @@
      ]
     },
     {
+     "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+     "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+     "summary": "Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.",
+     "published": "2026-09-07T19:58:48+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9f00a85690-1788805288.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "f5f193096ce8",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+     "summary": "The far-right Alternative for Germany is just short of a majority in a regional election.",
+     "published": "2026-09-07T19:50:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788808719.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "343ec372a2b7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
      "title": "BJP all set for four-day protest over student issues in Jharkhand from September 8",
      "url": "https://www.thehindu.com/news/national/jharkhand/bjp-all-set-for-four-dayprotestoverstudentissuesin-jharkhand-from-september-8/article71438767.ece",
      "summary": "BJP State president Aditya Sahu, Leader of the Opposition Babulal Marandi, and other senior party leaders, including former Chief Ministers, will lead the protest in different districts",
@@ -204,35 +223,21 @@
      "id": "4a2a8100bf1b",
      "category": "politics",
      "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Authorities must show leniency while asking members of SC/ST communities to prove their caste status: Kerala High Court",
+     "url": "https://www.thehindu.com/news/national/kerala/authorities-must-show-leniency-while-asking-members-of-scst-communities-to-prove-their-caste-status-kerala-high-court/article71439539.ece",
+     "summary": "‘Denial of constitutionally guaranteed privileges to members of SC/ST communities must only be in exceptional cases of apparent fraud that is established through material independently available to the State’",
+     "published": "2026-09-07T20:12:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lu50eb/article71440277.ece/alternates/LANDSCAPE_1200/Murder-allegedlG5CGE8MPD.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "0d16e27fbe74",
+     "category": "money",
+     "category_label": "Money & scams",
      "from_section": "National News"
-    },
-    {
-     "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-     "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-     "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-     "published": "2026-09-07T14:04:01+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
-     "licence": "linkout",
-     "id": "826be3ecd39b",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ktM3JaWWEwSWNvZWQ2aFNWbkdVeFVvVmFUTm1QUGlmYTU3VzdMTEcwMHliZlMwM1dRdU94QjhGdktrZC1mdDFpb2ZEVlRieU0xc2xJa19Fa1dMdmhsOFN3RE9pbmNvaWhiTndRYW1IZjFPWFNoSEVPU0sxQi0ySEJyMDdIMXE0M3NaSVhUVUs2X0JzODRpX3k2RklnOXlzenBwMVlNSV93MXlqV3paN0RYYkpRWTREOUJaNWNpcTAxdTM0ZTFMc1JwV2ZmaHlsRVFhU2NVaVQ3c3lzc0FlUHJXUmFoNG1acEhGdVpLdnZSYWJOTnfSAfsBQVVfeXFMT2h2V09hTXdwbUhuZVB3bThseEtDSmtkQUhBT1cwb18tcUhtajkyNy1KUEZSN1NzZ2pMZGxEcDRTTVd0RjNvcGswa2ZJNWM0WFV3bVJnUzUzLUV2V2YyOEdZcHBuc21lVGpFQ2c3ajBHUGNVZUprQkhCNHpnekhaQ2Z1U0hQNkJSU2ctRmI3SEk0a2NqV0dodzdyR3ZDakNVNERRYWQySVBFTmF6ZXhxOHZKVVM0bEFiM21PTVg5TGpmcWxSNWFCR0ZMc3hua3VNcWZ6Nm9rdTVOZnNXbFZ5RU0wVGVyM2tzSlgwMmhRckNZZWxRelhoZlZtS3M?oc=5",
-     "summary": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption India Today",
-     "published": "2026-09-07T06:29:50+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "d7083f295a13",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Scandals & Investigations"
     },
     {
      "title": "Mutual funds vs direct stocks: The hidden tax advantage on dividends that investors should know about",
@@ -263,23 +268,6 @@
      "from_section": "Business"
     },
     {
-     "title": "The £70 refund letter that isn't a scam",
-     "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-     "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-     "published": "2026-09-07T08:50:55+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff9/live/508ded00-a78a-11f1-9bb7-af8e8fd3d806.jpg",
-     "licence": "linkout",
-     "id": "ec3efb343bf6",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "£70  refund letter that isn't"
-     ]
-    },
-    {
      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
      "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
      "summary": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
@@ -294,20 +282,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home",
-     "url": "https://www.ndtv.com/india-news/manipur-singer-beaten-to-death-for-objecting-to-drinking-outside-delhi-home-12014965#publisher=newsstand",
-     "summary": "Vikram Singh, who belonged to the Meitei community, objected to men creating a nuisance outside his house.",
-     "published": "2026-09-07T17:24:45+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/i2bpls9k_manipur_625x300_07_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "543279afb7fc",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "National News"
-    },
-    {
      "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
      "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
      "summary": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
@@ -320,6 +294,20 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
+    },
+    {
+     "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+     "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+     "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+     "published": "2026-09-07T11:30:27+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+     "licence": "linkout",
+     "id": "49fa1c646a86",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Technology"
     },
     {
      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
@@ -419,9 +407,9 @@
     {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News newsonair.gov.in",
+     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
      "published": "2026-09-07T07:43:05+00:00",
-     "source": "newsonair.gov.in",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -442,10 +430,10 @@
      "id": "9bb73ccd42ff",
      "also": [
       {
-       "source": "newsonair.gov.in",
+       "source": "News On AIR",
        "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News newsonair.gov.in"
+       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
       },
       {
        "source": "DW.com",
@@ -475,7 +463,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-07T20:02:02.116315+00:00",
+     "published": "2026-09-07T20:35:12.987362+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -486,7 +474,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-07T20:02:02.116327+00:00",
+     "published": "2026-09-07T20:35:12.987373+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -497,7 +485,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-07T20:02:02.116337+00:00",
+     "published": "2026-09-07T20:35:12.987376+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -508,7 +496,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-07T20:02:02.116342+00:00",
+     "published": "2026-09-07T20:35:12.987378+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -519,7 +507,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-07T20:02:02.116347+00:00",
+     "published": "2026-09-07T20:35:12.987384+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -530,7 +518,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-07T20:02:02.116352+00:00",
+     "published": "2026-09-07T20:35:12.987387+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -558,6 +546,27 @@
    "upsc": false,
    "items": [
     {
+     "title": "You cannot shirk responsibility: Delhi HC pulls up govt, civic body over unsafe PGs",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZXdfa0thdmNibkxDTlA1al9JWTI1MGFNUld5NTRwR2daR0V6UWh2dlhMSXJwYktYWVNDckNSd0VoeWxIZVhteXJhRlo2NXR5bkhudUg2SXNtVnVyVHhKOXNiUTNMYVRYbFhIWlp1eC0wZjg2NjdzQ0t1SXNwYkhtcTBld3c1WTNrSWdvMVlGVEVyOHllZGdNcmxGd2Y5WXhNQlNJQWJtWENmZkpWdU9NVFNkODAwVU42VXhSZmtybUpHZ1d6S2RISGpXRkdUSHdyTjdwa3ZHY3BiM1NVbkhTNDNaeEVDaGhUaWFQdEdoajl3Z9IB9wFBVV95cUxQeGItZTEtV09IMWk4ZTU2eE1NbTRaQ0FSVTRPcThkMmRaUDdWRUpVRDNIcXZnVF9GLWtla1dNS1pkN1JyWEVIYnlKdEl2Z2RaUU8zTEh1MDdQeEI1ZHhSeG5ucWJOM01lQmswdHJjSFhSMDVzSDF3LTZlQ0tPVXhTMUhLSVZTN21lUDZsa29RSTktSU9UMFl6T1g5RFk0Z2FVR2JKVF8zUkp2Rm1KbUNRaHJvU1VRcEg3R1hQQ0VaTndfWmwwTHp2SkpiNWQ5d2dpVVdVVm5LcHB3clQtc0ZnUVlzaExNeVJ0RUEwV1FkVm56YXhqbTg4?oc=5",
+     "summary": "You cannot shirk responsibility: Delhi HC pulls up govt, civic body over unsafe PGs India Today",
+     "published": "2026-09-07T10:42:04+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "2dad8d03e891",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Key Officer, 4 Civic Body Officials Suspended After Delhi Tragedy Kills 7",
+       "url": "https://www.ndtv.com/india-news/satya-niketan-building-collapse-key-officer-4-civic-body-officials-suspended-after-delhi-tragedy-kills-7-12012273#publisher=newsstand",
+       "summary": "The Satya Niketan area is home to hundreds of university students living in crowded accommodation."
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "CJP's 7 demands after Satya Niketan tragedy: ‘Probe PG mafia, build government hostels’ | India News",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeGNBRXlINGNnT3BCNkMwS2YyRjVCNmlzNnhGZGtxbUpPN0dpenpqRmhsSFZHa01XTG45SVBnODJpdmpYMi1wUjVHNjhLMGRZVXhoVXJKRHNxbDNiYlVqd1gyZHJqZjN3M0pMcVp2OUlFWld3ZXpZMldnZFRHaGdDQ2FaM2RKRFZ6TFFfWG11WnNQRkJHUVhDMWw1LWV3b19PaFJrOTFmXzhSVXVpTW11RjRieUNBcmp5ZVUwdlgyMkhGWmdUREgxN2QwWXhrVkgtNExmMWdwSWVwcEdsbmRvOGJiSlFCaHhqcExsOXBCQldzTXUxTjlPcW9zbVRVVVlUakRORUtCT0VwSEFEUEHSAZMCQVVfeXFMT3NuY09qV3B1R0lMYVdHNk9iV0JKd2VBakY1aUx3RHRjeGtjeGZSLV8tUGo3MFp6TUVmeEJqSjdlSzdMTmE1am9aVzF0ZTJsZmFPOUNoSW5QVWFiZU9waTBkakFzOThGZ0Z6bklhU0hJd2hxUVZ3UTBDYnBXMUxseUl1NDZuZnlWMFhQRnM4R2U5anBDZmdCTjhaRUZHTHdIa1VlaXBPSmNuUzV1dU5qbUhIelJDVXRVdnRXZXlsUlM3SGo3bEptb2dneTg5NUtaTUpkcUx0M19sQ0pXbXU0RDBmdENlLTJ1M2dYNU9jdHBEZlhhdkI3bkJUam9IZ2MxVmJaZXMxbktoLUFRcFlyazZXams?oc=5",
      "summary": "CJP's 7 demands after Satya Niketan tragedy: ‘Probe PG mafia, build government hostels’ | India News Hindustan Times",
@@ -569,10 +578,10 @@
      "id": "9bb73ccd42ff",
      "also": [
       {
-       "source": "newsonair.gov.in",
+       "source": "News On AIR",
        "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News newsonair.gov.in"
+       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
       },
       {
        "source": "DW.com",
@@ -588,30 +597,30 @@
      ]
     },
     {
-     "title": "You cannot shirk responsibility: Delhi HC pulls up govt, civic body over unsafe PGs",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZXdfa0thdmNibkxDTlA1al9JWTI1MGFNUld5NTRwR2daR0V6UWh2dlhMSXJwYktYWVNDckNSd0VoeWxIZVhteXJhRlo2NXR5bkhudUg2SXNtVnVyVHhKOXNiUTNMYVRYbFhIWlp1eC0wZjg2NjdzQ0t1SXNwYkhtcTBld3c1WTNrSWdvMVlGVEVyOHllZGdNcmxGd2Y5WXhNQlNJQWJtWENmZkpWdU9NVFNkODAwVU42VXhSZmtybUpHZ1d6S2RISGpXRkdUSHdyTjdwa3ZHY3BiM1NVbkhTNDNaeEVDaGhUaWFQdEdoajl3Z9IB9wFBVV95cUxQeGItZTEtV09IMWk4ZTU2eE1NbTRaQ0FSVTRPcThkMmRaUDdWRUpVRDNIcXZnVF9GLWtla1dNS1pkN1JyWEVIYnlKdEl2Z2RaUU8zTEh1MDdQeEI1ZHhSeG5ucWJOM01lQmswdHJjSFhSMDVzSDF3LTZlQ0tPVXhTMUhLSVZTN21lUDZsa29RSTktSU9UMFl6T1g5RFk0Z2FVR2JKVF8zUkp2Rm1KbUNRaHJvU1VRcEg3R1hQQ0VaTndfWmwwTHp2SkpiNWQ5d2dpVVdVVm5LcHB3clQtc0ZnUVlzaExNeVJ0RUEwV1FkVm56YXhqbTg4?oc=5",
-     "summary": "You cannot shirk responsibility: Delhi HC pulls up govt, civic body over unsafe PGs India Today",
-     "published": "2026-09-07T10:42:04+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "2dad8d03e891",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News newsonair.gov.in",
+     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
      "published": "2026-09-07T07:43:05+00:00",
-     "source": "newsonair.gov.in",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "44ac1cfc8520",
      "category": "sports",
      "category_label": "Sports"
+    },
+    {
+     "title": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ktM3JaWWEwSWNvZWQ2aFNWbkdVeFVvVmFUTm1QUGlmYTU3VzdMTEcwMHliZlMwM1dRdU94QjhGdktrZC1mdDFpb2ZEVlRieU0xc2xJa19Fa1dMdmhsOFN3RE9pbmNvaWhiTndRYW1IZjFPWFNoSEVPU0sxQi0ySEJyMDdIMXE0M3NaSVhUVUs2X0JzODRpX3k2RklnOXlzenBwMVlNSV93MXlqV3paN0RYYkpRWTREOUJaNWNpcTAxdTM0ZTFMc1JwV2ZmaHlsRVFhU2NVaVQ3c3lzc0FlUHJXUmFoNG1acEhGdVpLdnZSYWJOTnfSAfsBQVVfeXFMT2h2V09hTXdwbUhuZVB3bThseEtDSmtkQUhBT1cwb18tcUhtajkyNy1KUEZSN1NzZ2pMZGxEcDRTTVd0RjNvcGswa2ZJNWM0WFV3bVJnUzUzLUV2V2YyOEdZcHBuc21lVGpFQ2c3ajBHUGNVZUprQkhCNHpnekhaQ2Z1U0hQNkJSU2ctRmI3SEk0a2NqV0dodzdyR3ZDakNVNERRYWQySVBFTmF6ZXhxOHZKVVM0bEFiM21PTVg5TGpmcWxSNWFCR0ZMc3hua3VNcWZ6Nm9rdTVOZnNXbFZ5RU0wVGVyM2tzSlgwMmhRckNZZWxRelhoZlZtS3M?oc=5",
+     "summary": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption India Today",
+     "published": "2026-09-07T06:29:50+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "d7083f295a13",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -621,6 +630,19 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Authorities must show leniency while asking members of SC/ST communities to prove their caste status: Kerala High Court",
+     "url": "https://www.thehindu.com/news/national/kerala/authorities-must-show-leniency-while-asking-members-of-scst-communities-to-prove-their-caste-status-kerala-high-court/article71439539.ece",
+     "summary": "‘Denial of constitutionally guaranteed privileges to members of SC/ST communities must only be in exceptional cases of apparent fraud that is established through material independently available to the State’",
+     "published": "2026-09-07T20:12:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lu50eb/article71440277.ece/alternates/LANDSCAPE_1200/Murder-allegedlG5CGE8MPD.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "0d16e27fbe74",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
     {
      "title": "Two bike riders killed, one injured in separate accidents in Keralam’s Kochi",
      "url": "https://www.thehindu.com/news/national/kerala/two-bike-riders-killed-one-injured-in-separate-accidents-in-keralams-kochi/article71438510.ece",
@@ -674,46 +696,64 @@
      "category_label": "General"
     },
     {
-     "title": "Top Honour For Goa Police As Amit Shah Presents President's Colour",
-     "url": "https://www.ndtv.com/india-news/top-honour-for-goa-police-as-amit-shah-presents-presidents-colour-12015143#publisher=newsstand",
-     "summary": "Goa Police carries a job most states don't: guard a long, exposed coast and keep millions of tourists safe, year after year, said Amit Shah",
-     "published": "2026-09-07T18:14:37+00:00",
+     "title": "Baba Ramdev's Aide Balkrishna Acquitted In 15-Year Old Forged Documents Case",
+     "url": "https://www.ndtv.com/india-news/baba-ramdevs-aide-balkrishna-acquitted-in-15-year-old-forged-documents-case-12015306#publisher=newsstand",
+     "summary": "The court of the Special Judicial Magistrate (CBI) also acquitted Naresh Chandra Dwivedi, a co-accused charged with providing forged documents to Balkrishna.",
+     "published": "2026-09-07T19:34:22+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/cm4fl72s_amit-shah_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/eikm37ng_balkrishna-_625x300_27_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c2aa2473573c",
+     "id": "5046b885066b",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "Man Kills Wife In Guwahati, Chops Fingers, Stores Severed Head In Fridge",
-     "url": "https://www.ndtv.com/india-news/man-kills-wife-in-guwahati-chops-fingers-stores-severed-head-in-fridge-12011932#publisher=newsstand",
-     "summary": "A woman was found dead with severed body parts in Guwahati, husband arrested after surrender.",
-     "published": "2026-09-07T17:52:58+00:00",
+     "title": "Delhi Tragedy: Building Owner Retired From Air Force, Runs Shop In Gurugram",
+     "url": "https://www.ndtv.com/india-news/delhi-tragedy-building-owner-retired-from-air-force-runs-shop-in-gurugram-12015218#publisher=newsstand",
+     "summary": "The building was 50 years old. The Gupta family had it repaired and turned it into a paying-guest facility to leverage the area's proximity to Delhi University.",
+     "published": "2026-09-07T19:22:01+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/mnck0tr8_guwahati-man-kills-wife_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/bm744u0o_gupta_625x300_08_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "802fa5282c0d",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "3 Killed, 3 Critical After Motorcycles Collide Head-On In Tripura's Sabroom",
-     "url": "https://www.ndtv.com/india-news/3-killed-3-critical-after-motorcycles-collide-head-on-in-tripuras-sabroom-12014954#publisher=newsstand",
-     "summary": "The accident occurred on the Sabroom-Agartala National Highway near the Dasharath Deb Memorial School in the Satchand area.",
-     "published": "2026-09-07T17:20:46+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2024-11/uqtdb6a_accident-generic_625x300_11_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "03ea81d646ce",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "fd6428954a5a",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "3 Killed , 3 Critical",
-      "3 Critical After Motorcycles Collide Head-On"
+      "50 years old"
+     ]
+    },
+    {
+     "title": "Key Officer, 4 Civic Body Officials Suspended After Delhi Tragedy Kills 7",
+     "url": "https://www.ndtv.com/india-news/satya-niketan-building-collapse-key-officer-4-civic-body-officials-suspended-after-delhi-tragedy-kills-7-12012273#publisher=newsstand",
+     "summary": "The Satya Niketan area is home to hundreds of university students living in crowded accommodation.",
+     "published": "2026-09-07T19:03:18+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/4urfi6k_delhi-building-collapse_625x300_07_September_26.jpeg",
+     "licence": "linkout",
+     "id": "61ea28bb337d",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "4 Civic Body Officials Suspended"
+     ]
+    },
+    {
+     "title": "Dry Day, Grants Cut: Suvendu Adhikari's Big-Ticket Changes For Durga Puja",
+     "url": "https://www.ndtv.com/india-news/dry-day-grants-cut-suvendu-adhikaris-big-ticket-changes-for-durga-puja-12014598#publisher=newsstand",
+     "summary": "Last puja, the Trinamool government had given a grant of Rs 1.10 lakh to each puja committee. Adhikari said as the Chief Minister, he could not pay for a religious festival.",
+     "published": "2026-09-07T19:03:01+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/9lvrqv1s_suvendu-adhikari-durga-puja_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f51aa760aaf8",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "Rs 1.10 lakh to each puja committee"
      ]
     }
    ]
@@ -725,17 +765,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
-     "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
-     "summary": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
-     "published": "2026-09-07T19:31:05+00:00",
+     "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+     "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+     "summary": "Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.",
+     "published": "2026-09-07T19:58:48+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a9758c2e201-1788303554.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9f00a85690-1788805288.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "d05cc32efdb7",
-     "category": "celebrity",
-     "category_label": "Celebrity"
+     "id": "f5f193096ce8",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+     "summary": "The far-right Alternative for Germany is just short of a majority in a regional election.",
+     "published": "2026-09-07T19:50:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788808719.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "343ec372a2b7",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "UK government refuses slavery reparations as Jamaica urges king to act",
+     "url": "https://www.aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss",
+     "summary": "Britain expresses sorrow over slavery, but rejects financial compensation.",
+     "published": "2026-09-07T19:48:48+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2022-03-22T223212Z_1602412855_RC2Q7T95VHF0_RTRMADP_3_BRITAIN-ROYALS-JAMAICA-1788782594.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "4aef60b8b520",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Moment shop worker dives into traffic to save child",
@@ -751,30 +817,17 @@
      "category_label": "General"
     },
     {
-     "title": "The domestic armed threat facing Iran",
-     "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
-     "summary": "External support for ethnic armed groups poses an escalating security threat to Iran, experts and state officials warn.",
-     "published": "2026-09-07T19:06:22+00:00",
-     "source": "Al Jazeera",
+     "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+     "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+     "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+     "published": "2026-09-07T14:04:01+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9efe05e7-1788804613.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
      "licence": "linkout",
-     "id": "96544f465b4d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
-     "url": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
-     "summary": "Trump targets aeroplane maker again, accusing Canada of unfair practices and threatening to block sales in the US.",
-     "published": "2026-09-07T19:01:51+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9f025053782-1788805712.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "c7578e46c246",
-     "category": "general",
-     "category_label": "General"
+     "id": "826be3ecd39b",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Investigators begin work on why cargo plane overran Miami runway",
@@ -878,6 +931,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Authorities must show leniency while asking members of SC/ST communities to prove their caste status: Kerala High Court",
+     "url": "https://www.thehindu.com/news/national/kerala/authorities-must-show-leniency-while-asking-members-of-scst-communities-to-prove-their-caste-status-kerala-high-court/article71439539.ece",
+     "summary": "‘Denial of constitutionally guaranteed privileges to members of SC/ST communities must only be in exceptional cases of apparent fraud that is established through material independently available to the State’",
+     "published": "2026-09-07T20:12:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lu50eb/article71440277.ece/alternates/LANDSCAPE_1200/Murder-allegedlG5CGE8MPD.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "0d16e27fbe74",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Two bike riders killed, one injured in separate accidents in Keralam’s Kochi",
      "url": "https://www.thehindu.com/news/national/kerala/two-bike-riders-killed-one-injured-in-separate-accidents-in-keralams-kochi/article71438510.ece",
      "summary": "",
@@ -902,19 +968,6 @@
      "id": "a42063cafc7e",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "New UN map depicts Arunachal, Aksai Chin as territories caught between Indian, Chinese ‘unspecified’ claim lines",
-     "url": "https://www.thehindu.com/news/national/new-un-map-depicts-arunachal-pradesh-and-aksai-chin-as-territories-caught-between-indian-line-and-chinese-line/article71437431.ece",
-     "summary": "Map shows Aksai Chin’s eastern borders as the “Indian Line” and uses a “Chinese line” that appears to serve as a line of demarcation between Ladakh and Aksai Chin",
-     "published": "2026-09-07T19:45:45+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/qsxp22/article71440266.ece/alternates/LANDSCAPE_1200/FINALMAP.jpg",
-     "licence": "linkout",
-     "id": "525145dc1e23",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "AAI team begins two-day inspection of sites for proposed greenfield airport in Bhadradri",
@@ -943,27 +996,11 @@
      "category_label": "General"
     },
     {
-     "title": "77 days and counting: Haryana guest teachers intensify agitation seeking job regularisation",
-     "url": "https://www.thehindu.com/news/national/haryana/77-days-and-counting-haryana-guest-teachers-intensify-agitation-seeking-job-regularisation/article71440250.ece",
-     "summary": "The teachers are demanding implementation of the State government’s regularisation policies framed in 2014, citing recent judgments of the Supreme Court and the Punjab and Haryana High Court",
-     "published": "2026-09-07T19:20:47+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Delhi/81nuu3/article71440251.ece/alternates/LANDSCAPE_1200/7_BM_Teachers.jpg",
-     "licence": "linkout",
-     "id": "5f47d2b12485",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "77 days and counting: Haryana guest"
-     ]
-    },
-    {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
-     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News newsonair.gov.in",
+     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
      "published": "2026-09-07T17:26:11+00:00",
-     "source": "newsonair.gov.in",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -975,7 +1012,7 @@
      "title": "India news: Several dead in Delhi building collapse",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
      "summary": "India news: Several dead in Delhi building collapse DW.com",
-     "published": "2026-09-07T19:21:23+00:00",
+     "published": "2026-09-07T08:17:06+00:00",
      "source": "DW.com",
      "byline": "",
      "image": null,
@@ -1104,7 +1141,8 @@
      "category": "general",
      "category_label": "General"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1584,6 +1622,22 @@
      "id": "cd252d1ead3d",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "The £70 refund letter that isn't a scam",
+     "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+     "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+     "published": "2026-09-07T08:50:55+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff9/live/508ded00-a78a-11f1-9bb7-af8e8fd3d806.jpg",
+     "licence": "linkout",
+     "id": "ec3efb343bf6",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "£70  refund letter that isn't"
+     ]
     },
     {
      "title": "Only 20 of 320 active fund managers have 10+ years of experience: Why investors should look beyond past returns",
