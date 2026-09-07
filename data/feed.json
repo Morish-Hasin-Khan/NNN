@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T03:02:16.549272+00:00",
+ "generated_at": "2026-09-07T03:37:15.146860+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 125216.0,
    "change": 3597.0,
    "changePct": 2.96,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -88,11 +89,11 @@
   "Jazeera English",
   "News",
   "Bihar BNSS",
+  "Bangladesh World",
   "Amravati",
   "Punjab Ashwani",
   "Iran Strait",
-  "Australia Tech",
-  "Volcano Indonesia"
+  "Australia Tech"
  ],
  "sections": [
   {
@@ -193,28 +194,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "Delhi Building Collapse Raises Questions On Safety, Student Organisations Protest",
-     "url": "https://www.ndtv.com/india-news/delhi-building-collapse-raises-questions-on-safety-student-organisations-protest-12010786#publisher=newsstand",
-     "summary": "The incident raised questions on how the building was allowed to be occupied again after being vacated and whether proper safety and structural checks were conducted before people were allowed to stay there.",
-     "published": "2026-09-06T19:45:23+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/m633l7c8_delhi-building-fire-_625x300_07_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "0a35c8be504d",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Delhi building collapse updates: At least five dead; FIR registered against alleged owner",
-       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
-       "summary": "Locals said the building, which comprises a basement plus five more floors, is at least 50 years old; 11 people were rescued, police said"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
      "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
      "summary": "Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees.",
@@ -238,6 +217,20 @@
      "image": "https://th-i.thgim.com/public/incoming/nb4wja/article71437251.ece/alternates/LANDSCAPE_1200/20260902372L.jpg",
      "licence": "linkout",
      "id": "0185ffb814dc",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Maharashtra Ministers call for DJ-free festivals citing health hazards",
+     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ministers-call-for-dj-free-festivals-citing-health-hazards/article71435983.ece",
+     "summary": "The demand for a festival free of DJs and high-powered loudspeakers has been gaining momentum in the State, with Pune-based activist Vidyanad Bapat emerging as one of the prominent voices opposing the use of high-decibel sound systems that cause noise pollution during festivities.",
+     "published": "2026-09-06T22:22:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/pairh3/article71436638.ece/alternates/LANDSCAPE_1200/idols_krd.jpg",
+     "licence": "linkout",
+     "id": "95bb4bff19ce",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
@@ -268,7 +261,7 @@
      "published": "2026-09-07T02:26:12+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa90/live/53598b50-aa57-11f1-bd0c-f98b6f213356.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg",
      "licence": "linkout",
      "id": "681db6f07567",
      "category": "money",
@@ -338,32 +331,46 @@
      "from_section": "Global News"
     },
     {
-     "title": "AI becomes the new arms race: China warns US against technological dominance",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWx3MDJEZW1lbnNzNEZibTYydnR5NVNweXBUWlRaa0pxZi1XazJDRHVMcmZ0WkJsVVJELXR6ekFHWHZuNHFIejdXQmszNi10VGw2XzJoWUFoUlhqZm5oUm9Zc1o4ZWF6S3pDOXZGRWZ4dzFXbGdjVmVFOFZDZUpOSEc0a18zRmxpVHo4aHppRTNOUjQ1SmQ0Wjc5cmV3am1LSmRGdHhoeFhSc0luX3ZCZl9Jc1VsVDk5bm15MkhpdmIxU3prRUFMYzk1RFhtNUZpNnNXY04tVUNxMVRrQnBicklYbTlVdEw2YmwwbWNTLUzSAfYBQVVfeXFMTWQ5R0lGRVZtT2kwY1dUNGxtelR6bDZhRGVHMTNWYUZnOHJxZjBlVVE1eWxEOUhmQW9OYnFuS1p5bkM1TEk5QjU2OVdoUDQ5ZFVpZlpGaW5IN2VtU2FWV1BIc2otdTV3MTdPTDN4SlJjaVBKSXpoWEhHZUlJMWZJN1pxV194cXN4RDRBMjBxY2dkeE11Wk1pVU5VeFgzWHhpMFFPb255N2p0dElIR21xbU1QWW02anJtYlVJTGxRUVp5ZXZHWUhscV85QllGcG5UbnBDWkhBOVY5MFlEaUhYNWlIRlk1UjVpa01XaTI0VGZMM25YWS1n?oc=5",
-     "summary": "AI becomes the new arms race: China warns US against technological dominance The Times of India",
-     "published": "2026-09-06T17:57:00+00:00",
-     "source": "The Times of India",
+     "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
+     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
+     "published": "2026-09-07T00:16:01+00:00",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "7b19d964283f",
+     "id": "e5acc0fd27af",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Top Tech Expert Says Artificial Intelligence Is Running Out of Power, and Elon Musk's Fix Is to Leave the Planet",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTHpZUUpOSUhXWmNhWE5MbzlxUmZFd2JnQ3N3NEQwMlpaeHVWVUVNSmtMeUxla2dHbDNKdEVhYVcxNFpQZXpoTWdybU9BcEJKQkNzWWJkZEFIMzE2aGZSSk9WTzR2ZzgyNmVadDZrZkFteERRdUQzbDh5aTNnWF8xZ0hQV0xwMUxfUS1UVEhncTNYQWRyMEJjTWhRYURmTGMwYW9OdGt6WVp2VWNUVFVMWWlTY3BJMWlJSHJvVEdtaEt0Y2VZOW55ZnlSLWFUZzVYLUJzbEREQm9idDFRS0NGTGRFRFQwUFF5VFMxcnRzVkt2U2VPSUlQaDRnR3pUVDZuRUtORXNqcEFyZU9ENTNZdF9R0gGXAkFVX3lxTE9ZS05vV0pWdGhXS2t5Qjl4aXA3VFFwTWJfelBibWdDaTMtdlNWb3lJYkp1YXNpbURZM09xVTNBUEtJUVA0QU1LSnJfQ3E0ejh1TlN1MDhOWVZBOUFhTlBrMXJMdklLaVdON2J3S2RfNHlTbTRiOU5NbGhwN09xRDlCQmNlOThiVFhGeFpZdXFpeHZRRXc3YnR1RVhtSE40WGRJdF9NVEV2UUt0S0RoTl9tZXRHODB6QzNHdmpyd1kxbHJFQUJkbnlyZXJMUXJ4MTF4TENMLTV1RExVcW82OUthVHdadzRuM0tWalRTWUIxSDBmYlB3WUVzdl9mdjQ4WlpUSGZidEdlTk1DZGRnY0tWM0FTUWZiSQ?oc=5",
+     "summary": "Top Tech Expert Says Artificial Intelligence Is Running Out of Power, and Elon Musk's Fix Is to Leave the Planet The Manila Times",
+     "published": "2026-09-06T20:49:17+00:00",
+     "source": "The Manila Times",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "181d2be23425",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
-     "summary": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI The Guardian",
-     "published": "2026-09-06T11:00:00+00:00",
-     "source": "The Guardian",
+     "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: Ishan KIshan's Hundred Pivotal As East Zone Eye 500+ Total",
+     "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-day-2-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-east-zone-vs-south-zone-12011290#publisher=newsstand",
+     "summary": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: East Zone will be resuming their innings from 385/4 on Day 2 of the Duleep Trophy final against South Zone at Chepauk, Chennai.",
+     "published": "2026-09-07T02:56:59+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": null,
+     "image": "https://c.ndtvimg.com/2026-09/7nf9pc1g_ishan-kishan_625x300_06_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "506c43b773ee",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
+     "id": "847fa459eac5",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
     },
     {
      "title": "India Star Concedes 51 Runs In 4 Overs In Local T20 League, Internet Has Questions",
@@ -400,20 +407,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Sreesanth-Sanju Samson Handshake Mystery Takes Internet By Storm - Video",
-     "url": "https://sports.ndtv.com/cricket/did-sreesanth-ignore-handshake-with-sanju-samson-viral-video-sets-internet-on-fire-12009675#publisher=newsstand",
-     "summary": "A viral video from the Kerala Cricket League 2026 final presentation ceremony featuring Sanju Samson and Sreesanth led to a lot of chatter on social media.",
-     "published": "2026-09-07T00:52:45+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7rs3klo8_cs_625x300_06_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "3598cfae0061",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
      "title": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1ld2p3NklDY2x6cVktMTlvNkI1MkFYVDF2VHhKc2lpRXczVHc5WW92cHpselR6OFZZNnZiYVVoNEVvdGVYXy1PalBkY01sS24zZVNmb2JsdGd0RlpjZXN4bnZXX1NqTlQyVzlKendtUVducTc5UVk2QTVzRE50Q19QQzdMeWoxX0ZTckI5RnVDMmo1aFI5SGtDeWN0OXhrdkNKOHFSNkd6YWMtMFZzRjY4bXh6Nl9I0gG-AUFVX3lxTFBIM25pRHNTTlJXSTBXRXEzdVFmTHJLR091ekpYMzNjeXd3TnhqZndkM0R0Wml2OGtuQ25tREpqTWJSSUxjWEdkMkRJckc0MHVhbUZVeGVva0VIdXhzVi1ET0pYcEEwM0xCVmhDMVFNMHlCNHlFamxtVDNRdlZ5RTB6aU1xeFp2b2MwZmZWM2FlWVoxUDh3bXBXUWpfc0hBNE5NQ3JWemtoaGFUMXZjVWw0bXVBNDFRSHY5dkJMS2c?oc=5",
      "summary": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News Hindustan Times",
@@ -423,6 +416,14 @@
      "image": null,
      "licence": "linkout",
      "id": "70199a50baa9",
+     "also": [
+      {
+       "source": "News On AIR",
+       "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
+       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
+      }
+     ],
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Scandals & Investigations"
@@ -441,7 +442,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-07T03:02:05.318847+00:00",
+     "published": "2026-09-07T03:37:01.535373+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -452,7 +453,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-07T03:02:05.318862+00:00",
+     "published": "2026-09-07T03:37:01.535383+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -463,7 +464,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-07T03:02:05.318866+00:00",
+     "published": "2026-09-07T03:37:01.535387+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -474,7 +475,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-07T03:02:05.318869+00:00",
+     "published": "2026-09-07T03:37:01.535389+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -485,7 +486,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-07T03:02:05.318875+00:00",
+     "published": "2026-09-07T03:37:01.535391+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -496,10 +497,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-07T03:02:05.318880+00:00",
+     "published": "2026-09-07T03:37:01.535400+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "CTET 2026 LIVE Updates: Revised Exam Dates For 22nd Edition; Admit Card, City Slip Details",
+     "url": "https://www.ndtv.com/education/ctet-2026-live-updates-revised-exam-dates-for-22nd-edition-admit-card-city-slip-exam-day-rules-12008041#publisher=newsstand",
+     "summary": "CBSE CTET 2026 Live Updates: According to the prescribed test structure by the Central Board of Secondary Education, all questions in the CTET exam will be multiple choice questions.",
+     "published": "2026-09-07T02:13:04+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/llclr63k_ctet-2026_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "69bcddf9bf34",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -519,8 +534,29 @@
      "image": null,
      "licence": "linkout",
      "id": "70199a50baa9",
+     "also": [
+      {
+       "source": "News On AIR",
+       "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
+       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
+      }
+     ],
      "category": "mystery",
      "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
+     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
+     "published": "2026-09-06T09:35:30+00:00",
+     "source": "News On AIR",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "44ac1cfc8520",
+     "category": "sports",
+     "category_label": "Sports"
     }
    ]
   },
@@ -591,19 +627,6 @@
      ]
     },
     {
-     "title": "Maharashtra Ministers call for DJ-free festivals citing health hazards",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ministers-call-for-dj-free-festivals-citing-health-hazards/article71435983.ece",
-     "summary": "The demand for a festival free of DJs and high-powered loudspeakers has been gaining momentum in the State, with Pune-based activist Vidyanad Bapat emerging as one of the prominent voices opposing the use of high-decibel sound systems that cause noise pollution during festivities.",
-     "published": "2026-09-06T22:22:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pairh3/article71436638.ece/alternates/LANDSCAPE_1200/idols_krd.jpg",
-     "licence": "linkout",
-     "id": "95bb4bff19ce",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Raj Thackeray warns cadres against communalism distracting economic problems",
      "url": "https://www.thehindu.com/news/national/maharashtra/raj-thackeray-warns-cadres-against-communalism-distracting-economic-problems/article71435607.ece",
      "summary": "Speaking to his party office-bearers in Thane, Mr. Thackeray urged citizens to remain alert and avoid falling into traps designed to incite religious conflict to distract the public from pressing socio-economic challenges.",
@@ -613,6 +636,19 @@
      "image": "https://th-i.thgim.com/public/incoming/hi35hy/article71436486.ece/alternates/LANDSCAPE_1200/PTI09_06_2026_000164B.jpg",
      "licence": "linkout",
      "id": "a77197dbcce1",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Venkateswara College To Remain Closed Today After Satya Niketan Building Collapse, Offers Food, Shelter",
+     "url": "https://www.ndtv.com/education/delhi-universitys-venkateswara-college-to-remain-closed-today-after-satya-niketan-building-collapse-offers-food-shelter-to-students-12011376#publisher=newsstand",
+     "summary": "The institute is also offering food to the students. The accommodation is available for the students of Venkateswara College and all south campus girl-students.",
+     "published": "2026-09-07T03:28:46+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/m5c7sqno_satya-niketan_625x300_07_September_26.jpeg",
+     "licence": "linkout",
+     "id": "673cab8299fd",
      "category": "general",
      "category_label": "General"
     },
@@ -661,19 +697,6 @@
      "figures": [
       "50 Years Old And Dying"
      ]
-    },
-    {
-     "title": "Explained: The Warring Equation And Baghel Paradox In Punjab Congress",
-     "url": "https://www.ndtv.com/india-news/explained-the-warring-equation-and-baghel-paradox-in-punjab-congress-12010766#publisher=newsstand",
-     "summary": "How did Baghel fall victim to Punjab Congress politics? Is it now the state president's turn after the in-charge?",
-     "published": "2026-09-06T19:31:40+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/fsj0ep_bhupesh-baghel_625x300_06_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a8ef0c0e1639",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -895,14 +918,6 @@
      "image": "https://th-i.thgim.com/public/incoming/xfmeb4/article71435081.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%2015.23.39.jpeg",
      "licence": "linkout",
      "id": "549d7bd7f74c",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Delhi Building Collapse Raises Questions On Safety, Student Organisations Protest",
-       "url": "https://www.ndtv.com/india-news/delhi-building-collapse-raises-questions-on-safety-student-organisations-protest-12010786#publisher=newsstand",
-       "summary": "The incident raised questions on how the building was allowed to be occupied again after being vacated and whether proper safety and structural checks were conducted before people were allowed to stay there."
-      }
-     ],
      "category": "crime",
      "category_label": "Crime",
      "figures": [
@@ -950,19 +965,6 @@
      "category_label": "General"
     },
     {
-     "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
-     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News newsonair.gov.in",
-     "published": "2026-09-06T17:46:06+00:00",
-     "source": "newsonair.gov.in",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "723347f12081",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Top news of the day: September 6, 2026",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNm83Q0JHemNveGZ5QmhPNVowZk9lUnNiRU1CSGdkV3lqMG51Wk93ZnVWbHlXSkRXYTl1azVMMmY2cDIxdGt4T1dFUjNEa2l4X1NhVWRKZTJ2cFhoR25ORm1nVHdzbWtsVHQ0VWpMY29nOXRHdjdiTGpuRkRNUFlVcF9nN0paYUJhekp1TUwtSTZCTm85c2VLV3FKUk02M0xQMnc0eHR5WDZTbUpLbGkwY0JFUGlZNEpya3lxLXRfOWNRSWFwYlc3Nk9ORG5wZFFzVEhzbjZTTWE4UlQ3Rzd1LWNVUFJsNkZMQWZTOXViWE9IMFQ0b2ctTdIB_wFBVV95cUxNeWVyZ280WjZFVkl6LW03TklhelZUNDdZenotc0pXY2hKT3AwTkRXMkVsX21ZTEMyQ0I0TFVBREthaWpqbk1yaEdtSWt0eHllMElIaUo0T2NfREI3SFpaZC1BQnoyRFdGSDNrMldEeDFWeVRiQV9kYUh2OWp6YmJ2S0xYY2NORXBveG1vWTRma25WMEh4bmoxZ3E0RlNOcmpkb0VHbHlIZTBlM2NSajVMVVk5R1c3QlVPTXJDWU14RTZtaWhfNE9sT3dPRUJzcGxLVXQ0dnpROHVqZV9vTHhZYmFUZ2xocFllQ3Nsd3l5bWU2Nm81bFA5Vno3R3NwdEk?oc=5",
      "summary": "Top news of the day: September 6, 2026 The Hindu",
@@ -984,10 +986,29 @@
    "upsc": true,
    "items": [
     {
+     "title": "Money Market Operations as on September 04, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63529",
+     "summary": "",
+     "published": "2026-09-07T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "a7d4deea772c",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "RBI to conduct 30-day Variable Rate Reverse Repo (VRRR) auction under LAF",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63528",
      "summary": "",
-     "published": "2026-09-05T00:00:00+00:00",
+     "published": "2026-09-07T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1010,7 +1031,7 @@
      "title": "RBI imposes monetary penalty on Hinduja Leyland Finance Limited",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63527",
      "summary": "",
-     "published": "2026-09-05T00:00:00+00:00",
+     "published": "2026-09-07T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1031,7 +1052,7 @@
      "title": "Auction of State Government Securities",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63526",
      "summary": "",
-     "published": "2026-09-05T00:00:00+00:00",
+     "published": "2026-09-07T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1050,7 +1071,7 @@
      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series VI due on September 07, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63525",
      "summary": "",
-     "published": "2026-09-05T00:00:00+00:00",
+     "published": "2026-09-07T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1070,28 +1091,8 @@
      "figures": [
       "22 Series VI due on September"
      ]
-    },
-    {
-     "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63524",
-     "summary": "",
-     "published": "2026-09-05T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "b810803cb682",
-     "upsc": {
-      "papers": [
-       "GS-II — Polity & Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "id": "editorial",
@@ -1550,6 +1551,32 @@
      ]
     },
     {
+     "title": "The best gift for your children isn't a house—it's optionality",
+     "url": "https://www.livemint.com/money/personal-finance/property-vs-financial-assets-inheritance-planning-11788679587887.html",
+     "summary": "Real estate may offer stability, but liquid financial assets give the next generation the flexibility to adapt to changing life goals.",
+     "published": "2026-09-07T03:30:40+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/will2_1759987707406_1759987719725_1788697686409_0170595f-3d1f-427f-b02a-1ae7dafb8275_7b505869-18fd-4a02-bb8c-59df75781655_343caa7a-6134-44c4-a9c7-7a366acc7feb.png",
+     "licence": "linkout",
+     "id": "02cf1e85323c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "NPS for NRIs: What happens to your account when you move abroad? PFRDA explains",
+     "url": "https://www.livemint.com/money/personal-finance/nps-for-nris-what-happens-to-your-account-when-you-move-abroad-pfrda-explains-11788749878391.html",
+     "summary": "Moving abroad does not automatically mean closing your NPS account. PFRDA allows NRIs to continue NPS Tier I through NRE or NRO accounts, but Tier II cannot be activated.",
+     "published": "2026-09-07T03:09:10+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/Gemini_Generatd_Image_7yqzi27yqzi27yqz_1788750318_1788750330177_0b48360f-8d06-49eb-8db5-2d8c0474642d_1788750330347_ead2c69b-6311-48aa-b9db-b0bbdb853187_4d325ba0-0735-4316-b2cd-43997f4af7ce_387325bb-8bd0-4e0a-a6df-1d515604dc9e.png",
+     "licence": "linkout",
+     "id": "7b468c7f084f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "India’s senior living market to grow 4x, cross ₹1 trillion by 2030, Tier II, III cities to see most new projects: Report",
      "url": "https://www.livemint.com/money/personal-finance/india-senior-living-market-grow-4x-cross-rs-1-lakh-crore-2030-tier-ii-iii-cities-new-projects-invest-real-estate-report-11788716428873.html",
      "summary": "India's senior living market is estimated to cross ₹1 lakh crore by 2030, nearly four times the current levels, according to a report by Colliers. The segment's expansion is drawing increased investment from real estate developers and investors, it added.&nbsp;",
@@ -1578,38 +1605,6 @@
      "id": "23fc1e724299",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "5 investment rules everybody must know: You don’t need to be Warren Buffett to understand these simple money basics",
-     "url": "https://www.livemint.com/money/personal-finance/5-investment-rules-everybody-must-know-you-don-t-need-to-be-warren-buffett-to-understand-these-simple-money-basics-11788718796662.html",
-     "summary": "Simple financial rules help manage expenses and investments for Indian households. You don’t need to be Warren Buffett to understand these simple money basics.",
-     "published": "2026-09-06T18:26:17+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/Warren_1788718874378_29c7e1fc-4a08-4a71-a579-4d6ff29a40e8_1788718881870_7a247de0-fee9-41b0-9ca5-769910890e58_e0953962-1ee8-4474-b673-bab6c246693d_61addf23-9bb3-4f14-a1f7-dc9595a8a584.jpg",
-     "licence": "linkout",
-     "id": "3fb66f291f21",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "5 investment rules everybody must know"
-     ]
-    },
-    {
-     "title": "Retiring with ₹2 crore? Here’s how much you can withdraw every month",
-     "url": "https://www.livemint.com/money/personal-finance/retiring-with-2-crore-here-s-how-much-you-can-withdraw-every-month-11788713384085.html",
-     "summary": "A practical approach can be to keep a portion of the corpus in relatively stable and liquid investments for near-term expenses, while investing another portion for long-term growth",
-     "published": "2026-09-06T17:38:01+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/retirement_1788716245105_95518d5a-b464-4248-8c05-044cb9d08cda_1788716245259_042bbab3-2e49-4441-95db-6d24050f63a3_d5bbd8d8-167d-42d9-b05d-a29edfc7a381_6aba5f6f-910b-444f-8d34-687b8e4db349.png",
-     "licence": "linkout",
-     "id": "cdd327a53978",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹2 crore ? Here’s how much"
-     ]
     }
    ]
   },
@@ -1661,26 +1656,13 @@
     {
      "title": "A Strategic Perspective On The Current Development Of High-Tech Industries In China - Analysis",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzUza0JibTVOQllLM2pjeTA4aUUxT2NySzZhS3E3N1U0TTNZTndGcWtQdjlSMGRac3p2bUxSVmx5d3NuWWZ5SG0xem9zdG9FU2dPNXowYnFBZy01RzNEWkN2eWp3ZUFMZTUzZmItQUV2MjhhLVVUeW9rVWQ3WVRkSFhKdkJpc2F5YW1BSld6VnZLTzNabVg5MGk3RkdEOXo0U2puVnM2OGoyWXdVZXAwYy1WZEIwNVItV01OR1lXaEJzVTZjaFQ3NXJXU3U?oc=5",
-     "summary": "A Strategic Perspective On The Current Development Of High-Tech Industries In China - Analysis Eurasia Review",
+     "summary": "A Strategic Perspective On The Current Development Of High-Tech Industries In China - Analysis eurasiareview.com",
      "published": "2026-09-06T23:25:29+00:00",
-     "source": "Eurasia Review",
+     "source": "eurasiareview.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "8dd9604474fb",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Anthropic IPO launch shifts toward mid-October: Report",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQREs0ajlIYUl1dWNqd2lOSUNUZFJ5NGhhRVBZS0FfdWIzd3pJaE1iSVBWYWVTREItVmozX1BxRGVGUUw5RjlSMXJlSXc1bkREc1N5R0xxM3VmQVNkYl85UWlmYnRDRWpwZmlvNU5hYklZN3p4UFFwZ25hMFMzd1lQM01FR0FuTVhWMWZlazNrVndVZFBaUFpPbXdyLVRUSE1jdXpXaksybkhseklwc3hBdHVMNGt4dnljcHQ3QmthSmxsSGwyOWRpZkFSREnSAdMBQVVfeXFMTXRJZk9NNXN0OVJEbFhIZGtGdXFVbUhySENTVUZWN0dYOEwyamJnZTVwZEdWcHR2QlpWRG95ZVI4UnFwZEVuUVZTVlFDM1dqRmcxcXktTjRLZDVuc0V6aWlXcGJkY3BKeDQwS0hEQlR0QVBkSFZZalBoTElobndRZHh5dzVfQS1uMWlUV1VocV95TlhVeEhwZDFzeTdmT2tZaEF3cUI1VktZMHVWM2pXU0NtSTkyaVJab3JkSWJJSWpsYTZWYlMyNkljdjRDMW93UW9sRQ?oc=5",
-     "summary": "Anthropic IPO launch shifts toward mid-October: Report The Indian Express",
-     "published": "2026-09-06T04:35:47+00:00",
-     "source": "The Indian Express",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "385561ccfc78",
      "category": "general",
      "category_label": "General"
     }
@@ -1693,36 +1675,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "India Star Concedes 51 Runs In 4 Overs In Local T20 League, Internet Has Questions",
-     "url": "https://sports.ndtv.com/cricket/india-star-concedes-51-runs-in-4-overs-in-local-t20-league-internet-has-questions-12011194#publisher=newsstand",
-     "summary": "Arshdeep Singh was taken to the cleaners in the Sher-E-Punjab T20 Cup. The India international conceded 51 runs in 4 overs without picking up a single wicket.",
-     "published": "2026-09-07T01:47:20+00:00",
+     "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: Ishan KIshan's Hundred Pivotal As East Zone Eye 500+ Total",
+     "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-day-2-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-east-zone-vs-south-zone-12011290#publisher=newsstand",
+     "summary": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: East Zone will be resuming their innings from 385/4 on Day 2 of the Duleep Trophy final against South Zone at Chepauk, Chennai.",
+     "published": "2026-09-07T02:56:59+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/s1l3vnas_arshdeep-singh-x_625x300_07_September_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-09/7nf9pc1g_ishan-kishan_625x300_06_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4cd334c07142",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "51 Runs In 4 Overs",
-      "4 Overs In Local T20 League",
-      "51 runs in 4 overs without",
-      "4 overs without picking up"
-     ]
-    },
-    {
-     "title": "'Victory Against India Damaged Us': Ex-Pakistan Captain Gives Bizarre Verdict",
-     "url": "https://sports.ndtv.com/cricket/victory-against-india-damaged-us-ex-pakistan-captain-gives-bizarre-verdict-12010425#publisher=newsstand",
-     "summary": "Former Pakistan cricket team skipper Mohammad Yousuf believes that the national team's current crisis resulted from one of the biggest wins in their history.",
-     "published": "2026-09-07T01:03:24+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/0dm6fng_cs_625x300_06_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e37af2e97a75",
+     "id": "847fa459eac5",
      "category": "sports",
      "category_label": "Sports"
+    },
+    {
+     "title": "Australia Name Squad For South Africa Test Tour, Out-Of-Form Batter Retains Spot",
+     "url": "https://sports.ndtv.com/cricket/australia-name-squad-for-south-africa-test-tour-out-of-form-batter-retains-spot-12011275#publisher=newsstand",
+     "summary": "The tour is the first time Australia have travelled to South Africa for a Test series since the infamous series in 2018, with just five players - skipper Pat Cummins, Josh Hazlewood, Mitchell Starc, Smith and Renshaw - having previously been included in a touring party.",
+     "published": "2026-09-07T02:54:18+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/fucjtk14_australia-test-team-afp_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a6a317972568",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Another Asia Cup Trophy Drama Likely, Mohsin Naqvi To Attend Women's Final: Report",
+     "url": "https://sports.ndtv.com/cricket/another-asia-cup-trophy-drama-likely-mohsin-naqvi-to-attend-womens-final-report-12011273#publisher=newsstand",
+     "summary": "Mohsin Naqvi could be at the centre of another trophy drama as he is set to attend the Women's Asia Cup 2026 final.",
+     "published": "2026-09-07T02:37:27+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/50f18ag8_mohsin-naqvi-afp_625x300_07_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ab7da8863a42",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "\"Don't Need Anyone Else\": Rajat Patidar's Stunning Virat Kohli Revelation After Getting RCB Captaincy",
@@ -1734,32 +1723,6 @@
      "image": "https://c.ndtvimg.com/2026-09/j7suonv8_virat-kohli-rajat-patidar_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "4cd8667d9f43",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "More Drama In Pakistan Cricket, Misbah-ul-Haq Drops Bombshell: \"Treated Differently\"",
-     "url": "https://sports.ndtv.com/cricket/more-drama-in-pakistan-cricket-misbah-ul-haq-drops-bombshell-treated-differently-12009970#publisher=newsstand",
-     "summary": "Misbah-ul-Haq, who recently stepped down as national selector, has complained about differential treatment meted out to foreign and local coaches in Pakistan cricket.",
-     "published": "2026-09-07T00:50:33+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/mdgnrjag_misbahulhaq_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b7701f7a1152",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Lamine Yamal Slams Double, Barcelona Thrash Valencia To Take Clear Lead In La Liga",
-     "url": "https://sports.ndtv.com/football/lamine-yamal-slams-double-barcelona-thrash-valencia-to-take-clear-lead-in-la-liga-12010509#publisher=newsstand",
-     "summary": "Reigning champions Barcelona moved three points clear at the top of La Liga, after Jose Mourinho's Real Madrid lost 1-0 at Real Betis on Friday.",
-     "published": "2026-09-06T18:48:15+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7emr7o44_fc-barcelona-afp_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "d47570e7908f",
      "category": "general",
      "category_label": "General"
     }
@@ -1831,7 +1794,7 @@
      "published": "2026-09-06T22:00:36+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/babc/live/53861fc0-aa3a-11f1-8bb0-bf56fd285213.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1897/live/de970710-aa3e-11f1-88c5-8f28a3313a0e.jpg",
      "licence": "linkout",
      "id": "20fa99de9ab0",
      "category": "general",
