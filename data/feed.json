@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T00:44:58.727961+00:00",
+ "generated_at": "2026-09-07T01:03:11.123148+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -89,11 +89,11 @@
   "Jazeera English",
   "News",
   "Bihar BNSS",
-  "Bangladesh World",
   "Punjab Ashwani",
-  "Iran Tehran",
-  "Alcaraz Open",
-  "Volcano Indonesia"
+  "Serbia Star",
+  "North Korea",
+  "Volcano Indonesia",
+  "Indonesia"
  ],
  "sections": [
   {
@@ -115,9 +115,15 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "Delhi Building Collapse Raises Questions On Safety, Student Organisations Protest",
-       "url": "https://www.ndtv.com/india-news/delhi-building-collapse-raises-questions-on-safety-student-organisations-protest-12010786#publisher=newsstand",
-       "summary": "The incident raised questions on how the building was allowed to be occupied again after being vacated and whether proper safety and structural checks were conducted before people were allowed to stay there."
+       "title": "6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
+       "url": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
+       "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred."
+      },
+      {
+       "source": "BBC News",
+       "title": "Dozens feared trapped in collapsed building in Delhi",
+       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+       "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
       }
      ],
      "category": "crime",
@@ -138,26 +144,33 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9dcc0a4c39-1788726282.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "fc4883779bea",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+       "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+       "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say."
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
     },
     {
-     "title": "At least 10 killed in central Mexico fireworks blast during festival",
-     "url": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
-     "summary": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
-     "published": "2026-09-06T21:08:30+00:00",
-     "source": "Al Jazeera",
+     "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+     "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+     "published": "2026-09-06T08:05:22+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9dcd61-1788726625.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
      "licence": "linkout",
-     "id": "bb083b1a68e8",
+     "id": "d31b4f8c9165",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News",
+     "from_section": "Culture",
      "figures": [
-      "10 killed in central Mexico fireworks",
-      "60 were wounded in the blast"
+      "12 sentenced to death in Egypt"
      ]
     },
     {
@@ -203,6 +216,28 @@
      "from_section": "Global News"
     },
     {
+     "title": "Delhi Building Collapse Raises Questions On Safety, Student Organisations Protest",
+     "url": "https://www.ndtv.com/india-news/delhi-building-collapse-raises-questions-on-safety-student-organisations-protest-12010786#publisher=newsstand",
+     "summary": "The incident raised questions on how the building was allowed to be occupied again after being vacated and whether proper safety and structural checks were conducted before people were allowed to stay there.",
+     "published": "2026-09-06T19:45:23+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/m633l7c8_delhi-building-fire-_625x300_07_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "0a35c8be504d",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Delhi building collapse updates: At least five dead; FIR registered against alleged owner",
+       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
+       "summary": "Locals said the building, which comprises a basement plus five more floors, is at least 50 years old; 11 people were rescued, police said"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "Delhi Building Collapse: Rekha Gupta Orders Case Against Owner",
      "url": "https://www.ndtv.com/india-news/delhi-building-collapse-rekha-gupta-orders-case-against-owner-12010697#publisher=newsstand",
      "summary": "Five people have died in the Satya Niketan building collapse, while several others are feared trapped under the debris. Chief Minister Rekha Gupta visited the site and AIIMS Trauma Centre and ordered a case against the house owner.",
@@ -239,18 +274,26 @@
      "from_section": "National News"
     },
     {
-     "title": "Maharashtra Ministers call for DJ-free festivals citing health hazards",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ministers-call-for-dj-free-festivals-citing-health-hazards/article71435983.ece",
-     "summary": "The demand for a festival free of DJs and high-powered loudspeakers has been gaining momentum in the State, with Pune-based activist Vidyanad Bapat emerging as one of the prominent voices opposing the use of high-decibel sound systems that cause noise pollution during festivities.",
-     "published": "2026-09-06T22:22:51+00:00",
+     "title": "CJP demands accountability over South Delhi hostel collapse; Dipke questions PM",
+     "url": "https://www.thehindu.com/news/cities/Delhi/cjp-demands-accountability-over-south-delhi-hostel-collapse-dipke-questions-pm/article71436451.ece",
+     "summary": "“How long must students be made to pay the price for failing infrastructure?” Abhijeet Dipke asked, demanding safe classrooms, hostels, and basic dignity for students.",
+     "published": "2026-09-06T19:36:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pairh3/article71436638.ece/alternates/LANDSCAPE_1200/idols_krd.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/7956bp/article71436463.ece/alternates/LANDSCAPE_1200/BUILDING%20COLLAPSE%20NEW%20DELHI%204.JPG",
      "licence": "linkout",
-     "id": "95bb4bff19ce",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "id": "aa1ad1a8faf4",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Delhi Building Collapse Raises Questions On Safety, Student Organisations Protest",
+       "url": "https://www.ndtv.com/india-news/delhi-building-collapse-raises-questions-on-safety-student-organisations-protest-12010786#publisher=newsstand",
+       "summary": "The incident raised questions on how the building was allowed to be occupied again after being vacated and whether proper safety and structural checks were conducted before people were allowed to stay there."
+      }
+     ],
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National Hotlines"
     },
     {
      "title": "The £70 refund letter that isn't a scam",
@@ -268,20 +311,6 @@
      "figures": [
       "£70  refund letter that isn't"
      ]
-    },
-    {
-     "title": "CJP demands accountability over South Delhi hostel collapse; Dipke questions PM",
-     "url": "https://www.thehindu.com/news/cities/Delhi/cjp-demands-accountability-over-south-delhi-hostel-collapse-dipke-questions-pm/article71436451.ece",
-     "summary": "“How long must students be made to pay the price for failing infrastructure?” Abhijeet Dipke asked, demanding safe classrooms, hostels, and basic dignity for students.",
-     "published": "2026-09-06T19:36:57+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7956bp/article71436463.ece/alternates/LANDSCAPE_1200/BUILDING%20COLLAPSE%20NEW%20DELHI%204.JPG",
-     "licence": "linkout",
-     "id": "aa1ad1a8faf4",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National Hotlines"
     },
     {
      "title": "India’s senior living market to grow 4x, cross ₹1 trillion by 2030, Tier II, III cities to see most new projects: Report",
@@ -316,25 +345,11 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "Top Tech Expert Says Artificial Intelligence Is Running Out of Power, and Elon Musk's Fix Is to Leave the Planet",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTHpZUUpOSUhXWmNhWE5MbzlxUmZFd2JnQ3N3NEQwMlpaeHVWVUVNSmtMeUxla2dHbDNKdEVhYVcxNFpQZXpoTWdybU9BcEJKQkNzWWJkZEFIMzE2aGZSSk9WTzR2ZzgyNmVadDZrZkFteERRdUQzbDh5aTNnWF8xZ0hQV0xwMUxfUS1UVEhncTNYQWRyMEJjTWhRYURmTGMwYW9OdGt6WVp2VWNUVFVMWWlTY3BJMWlJSHJvVEdtaEt0Y2VZOW55ZnlSLWFUZzVYLUJzbEREQm9idDFRS0NGTGRFRFQwUFF5VFMxcnRzVkt2U2VPSUlQaDRnR3pUVDZuRUtORXNqcEFyZU9ENTNZdF9R0gGXAkFVX3lxTE9ZS05vV0pWdGhXS2t5Qjl4aXA3VFFwTWJfelBibWdDaTMtdlNWb3lJYkp1YXNpbURZM09xVTNBUEtJUVA0QU1LSnJfQ3E0ejh1TlN1MDhOWVZBOUFhTlBrMXJMdklLaVdON2J3S2RfNHlTbTRiOU5NbGhwN09xRDlCQmNlOThiVFhGeFpZdXFpeHZRRXc3YnR1RVhtSE40WGRJdF9NVEV2UUt0S0RoTl9tZXRHODB6QzNHdmpyd1kxbHJFQUJkbnlyZXJMUXJ4MTF4TENMLTV1RExVcW82OUthVHdadzRuM0tWalRTWUIxSDBmYlB3WUVzdl9mdjQ4WlpUSGZidEdlTk1DZGRnY0tWM0FTUWZiSQ?oc=5",
-     "summary": "Top Tech Expert Says Artificial Intelligence Is Running Out of Power, and Elon Musk's Fix Is to Leave the Planet The Manila Times",
-     "published": "2026-09-06T20:49:17+00:00",
-     "source": "The Manila Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "181d2be23425",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
      "title": "AI becomes the new arms race: China warns US against technological dominance",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWx3MDJEZW1lbnNzNEZibTYydnR5NVNweXBUWlRaa0pxZi1XazJDRHVMcmZ0WkJsVVJELXR6ekFHWHZuNHFIejdXQmszNi10VGw2XzJoWUFoUlhqZm5oUm9Zc1o4ZWF6S3pDOXZGRWZ4dzFXbGdjVmVFOFZDZUpOSEc0a18zRmxpVHo4aHppRTNOUjQ1SmQ0Wjc5cmV3am1LSmRGdHhoeFhSc0luX3ZCZl9Jc1VsVDk5bm15MkhpdmIxU3prRUFMYzk1RFhtNUZpNnNXY04tVUNxMVRrQnBicklYbTlVdEw2YmwwbWNTLUzSAfYBQVVfeXFMTWQ5R0lGRVZtT2kwY1dUNGxtelR6bDZhRGVHMTNWYUZnOHJxZjBlVVE1eWxEOUhmQW9OYnFuS1p5bkM1TEk5QjU2OVdoUDQ5ZFVpZlpGaW5IN2VtU2FWV1BIc2otdTV3MTdPTDN4SlJjaVBKSXpoWEhHZUlJMWZJN1pxV194cXN4RDRBMjBxY2dkeE11Wk1pVU5VeFgzWHhpMFFPb255N2p0dElIR21xbU1QWW02anJtYlVJTGxRUVp5ZXZHWUhscV85QllGcG5UbnBDWkhBOVY5MFlEaUhYNWlIRlk1UjVpa01XaTI0VGZMM25YWS1n?oc=5",
-     "summary": "AI becomes the new arms race: China warns US against technological dominance timesofindia.indiatimes.com",
+     "summary": "AI becomes the new arms race: China warns US against technological dominance The Times of India",
      "published": "2026-09-06T17:57:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -353,6 +368,20 @@
      "image": null,
      "licence": "linkout",
      "id": "506c43b773ee",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "Artificial intelligence at IMTS 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnNMdWtlaXZEczRfc0dnb2NRNF9GYkJVN0tVZTZnN1NNQnlBdnRSdTB1TFJXWEpZd2hpSS1GdGs3MW9BQlZ1WEVfeU9MdUNISkktOWZmYndkdVZGajRNTG01VFl6OWpYOHRnU05raEQ4Z0N3TWNqQVd5SkdXejUtZUZINTRxY3VP?oc=5",
+     "summary": "Artificial intelligence at IMTS 2026 Today's Medical Developments",
+     "published": "2026-09-06T06:00:00+00:00",
+     "source": "Today's Medical Developments",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "25d143cac45f",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -416,14 +445,6 @@
      "image": null,
      "licence": "linkout",
      "id": "70199a50baa9",
-     "also": [
-      {
-       "source": "News On AIR",
-       "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
-      }
-     ],
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Scandals & Investigations"
@@ -442,7 +463,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-07T00:44:45.574192+00:00",
+     "published": "2026-09-07T01:02:58.334656+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -453,7 +474,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-07T00:44:45.574209+00:00",
+     "published": "2026-09-07T01:02:58.334670+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -464,7 +485,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-07T00:44:45.574215+00:00",
+     "published": "2026-09-07T01:02:58.334679+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -475,7 +496,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-07T00:44:45.574219+00:00",
+     "published": "2026-09-07T01:02:58.334683+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -486,7 +507,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-07T00:44:45.574223+00:00",
+     "published": "2026-09-07T01:02:58.334688+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -497,7 +518,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-07T00:44:45.574228+00:00",
+     "published": "2026-09-07T01:02:58.334692+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -520,29 +541,8 @@
      "image": null,
      "licence": "linkout",
      "id": "70199a50baa9",
-     "also": [
-      {
-       "source": "News On AIR",
-       "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
-      }
-     ],
      "category": "mystery",
      "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
-     "published": "2026-09-06T09:35:30+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "44ac1cfc8520",
-     "category": "sports",
-     "category_label": "Sports"
     }
    ]
   },
@@ -578,9 +578,15 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "Delhi Building Collapse Raises Questions On Safety, Student Organisations Protest",
-       "url": "https://www.ndtv.com/india-news/delhi-building-collapse-raises-questions-on-safety-student-organisations-protest-12010786#publisher=newsstand",
-       "summary": "The incident raised questions on how the building was allowed to be occupied again after being vacated and whether proper safety and structural checks were conducted before people were allowed to stay there."
+       "title": "6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
+       "url": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
+       "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred."
+      },
+      {
+       "source": "BBC News",
+       "title": "Dozens feared trapped in collapsed building in Delhi",
+       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+       "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
       }
      ],
      "category": "crime",
@@ -630,17 +636,37 @@
      "category_label": "General"
     },
     {
-     "title": "Delhi Building Collapse Raises Questions On Safety, Student Organisations Protest",
-     "url": "https://www.ndtv.com/india-news/delhi-building-collapse-raises-questions-on-safety-student-organisations-protest-12010786#publisher=newsstand",
-     "summary": "The incident raised questions on how the building was allowed to be occupied again after being vacated and whether proper safety and structural checks were conducted before people were allowed to stay there.",
-     "published": "2026-09-06T19:45:23+00:00",
+     "title": "Delhi Building That Collapsed Was 50 Years Old And Dying. Greed Revived It",
+     "url": "https://www.ndtv.com/india-news/delhi-building-that-collapsed-was-50-years-old-and-dying-greed-revived-it-12010232#publisher=newsstand",
+     "summary": "When the building collapsed, construction workers were working in the basement.",
+     "published": "2026-09-07T00:51:26+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/m633l7c8_delhi-building-fire-_625x300_07_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/5r5267gk_delhi_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "0a35c8be504d",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "c1c3fe1a7933",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "50 Years Old And Dying"
+     ]
+    },
+    {
+     "title": "6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
+     "url": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
+     "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred.",
+     "published": "2026-09-07T00:49:30+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/nosmj474_building-collapse-delhi_625x300_06_September_26.jpg",
+     "licence": "linkout",
+     "id": "1e3c5ef287f5",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "6 Dead , Several Feared Trapped",
+      "50 students were believed to be"
+     ]
     },
     {
      "title": "Explained: The Warring Equation And Baghel Paradox In Punjab Congress",
@@ -654,61 +680,6 @@
      "id": "a8ef0c0e1639",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "5 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
-     "url": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
-     "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred.",
-     "published": "2026-09-06T18:57:16+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/nosmj474_building-collapse-delhi_625x300_06_September_26.jpg",
-     "licence": "linkout",
-     "id": "1e3c5ef287f5",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Delhi building collapse updates: At least five dead; FIR registered against alleged owner",
-       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
-       "summary": "Locals said the building, which comprises a basement plus five more floors, is at least 50 years old; 11 people were rescued, police said"
-      },
-      {
-       "source": "BBC News",
-       "title": "Dozens feared trapped in collapsed building in Delhi",
-       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-       "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
-      }
-     ],
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "5 Dead , Several Feared Trapped",
-      "50 students were believed to be"
-     ]
-    },
-    {
-     "title": "Delhi Building That Collapsed Was 50 Years Old And Dying. Greed Revived It",
-     "url": "https://www.ndtv.com/india-news/delhi-building-that-collapsed-was-50-years-old-and-dying-greed-revived-it-12010232#publisher=newsstand",
-     "summary": "When the building collapsed, construction workers were working in the basement.",
-     "published": "2026-09-06T18:55:07+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5r5267gk_delhi_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "c1c3fe1a7933",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Dozens feared trapped in collapsed building in Delhi",
-       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-       "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
-      }
-     ],
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "50 Years Old And Dying"
-     ]
     }
    ]
   },
@@ -718,6 +689,32 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss",
+     "summary": "Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.",
+     "published": "2026-09-07T00:49:33+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788742312.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "0131adb6bc8b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+     "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
+     "summary": "Leader Kim Jong Un says vessel will form part of Pyongyang's nuclear response system, strengthen naval forces.",
+     "published": "2026-09-07T00:20:04+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-06T220958Z_1520531840_RC2XDNABDUIX_RTRMADP_3_NORTHKOREA-WARSHIP-1788736478.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "ce45ed62f9dd",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
      "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
@@ -745,38 +742,9 @@
      "category_label": "General"
     },
     {
-     "title": "At least five killed after Amazon cargo plane crash in Miami airport",
-     "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
-     "summary": "Five people are injured, and the cause of the crash is being investigated, authorities say.",
-     "published": "2026-09-06T21:11:01+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9dcc0a4c39-1788726282.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "fc4883779bea",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Amazon Prime plane overruns runway at Miami Airport",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
-     "summary": "An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.",
-     "published": "2026-09-06T21:08:24+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-22.05.04-1788728816.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "01f875cbce30",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "767 overran a runway at Miami"
-     ]
-    },
-    {
      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-     "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+     "summary": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
      "published": "2026-09-06T23:02:45+00:00",
      "source": "BBC News",
      "byline": "",
@@ -785,6 +753,22 @@
      "id": "aafc7669e145",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+     "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+     "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+     "published": "2026-09-07T00:57:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8f2/live/4a70f2d0-aa39-11f1-9023-2129273d2865.jpg",
+     "licence": "linkout",
+     "id": "85e21207cd70",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "300 cargo plane \"overran\" the runway"
+     ]
     },
     {
      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
@@ -801,22 +785,6 @@
      "figures": [
       "170,000 passengers stranded in Indonesia",
       "170,000 airline passengers are stranded"
-     ]
-    },
-    {
-     "title": "Dozens feared trapped in collapsed building in Delhi",
-     "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-     "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
-     "published": "2026-09-06T16:54:34+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "8888dade1bda",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "50 people are thought to have"
      ]
     }
    ]
@@ -869,6 +837,22 @@
      "id": "e0641d3a845e",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Dozens feared trapped in collapsed building in Delhi",
+     "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+     "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+     "published": "2026-09-06T16:54:34+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "8888dade1bda",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "50 people are thought to have"
+     ]
     },
     {
      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
@@ -979,9 +963,9 @@
     {
      "title": "Top news of the day: September 6, 2026",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNm83Q0JHemNveGZ5QmhPNVowZk9lUnNiRU1CSGdkV3lqMG51Wk93ZnVWbHlXSkRXYTl1azVMMmY2cDIxdGt4T1dFUjNEa2l4X1NhVWRKZTJ2cFhoR25ORm1nVHdzbWtsVHQ0VWpMY29nOXRHdjdiTGpuRkRNUFlVcF9nN0paYUJhekp1TUwtSTZCTm85c2VLV3FKUk02M0xQMnc0eHR5WDZTbUpLbGkwY0JFUGlZNEpya3lxLXRfOWNRSWFwYlc3Nk9ORG5wZFFzVEhzbjZTTWE4UlQ3Rzd1LWNVUFJsNkZMQWZTOXViWE9IMFQ0b2ctTdIB_wFBVV95cUxNeWVyZ280WjZFVkl6LW03TklhelZUNDdZenotc0pXY2hKT3AwTkRXMkVsX21ZTEMyQ0I0TFVBREthaWpqbk1yaEdtSWt0eHllMElIaUo0T2NfREI3SFpaZC1BQnoyRFdGSDNrMldEeDFWeVRiQV9kYUh2OWp6YmJ2S0xYY2NORXBveG1vWTRma25WMEh4bmoxZ3E0RlNOcmpkb0VHbHlIZTBlM2NSajVMVVk5R1c3QlVPTXJDWU14RTZtaWhfNE9sT3dPRUJzcGxLVXQ0dnpROHVqZV9vTHhZYmFUZ2xocFllQ3Nsd3l5bWU2Nm81bFA5Vno3R3NwdEk?oc=5",
-     "summary": "Top news of the day: September 6, 2026 thehindu.com",
+     "summary": "Top news of the day: September 6, 2026 The Hindu",
      "published": "2026-09-06T13:03:48+00:00",
-     "source": "thehindu.com",
+     "source": "The Hindu",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1536,7 +1520,7 @@
     {
      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
      "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-     "summary": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+     "summary": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
      "published": "2026-09-06T16:32:59+00:00",
      "source": "BBC News",
      "byline": "",
@@ -1561,19 +1545,6 @@
      "figures": [
       "£70  refund letter that isn't"
      ]
-    },
-    {
-     "title": "Fuel duty proposal withdrawn after discussions",
-     "url": "https://www.bbc.co.uk/news/articles/cy8znkkn5rvo?at_medium=RSS&at_campaign=rss",
-     "summary": "Deputy Lucy Stephenson had wanted to cut the tax by 10p a litre for three months.",
-     "published": "2026-09-06T12:01:41+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1594/live/860aa170-a9e3-11f1-803f-7f2a9199ddc4.jpg",
-     "licence": "linkout",
-     "id": "ace8729846ff",
-     "category": "money",
-     "category_label": "Money & scams"
     },
     {
      "title": "AUM giants lose to smaller equity funds: The surprising gap in 1-year returns investors need to know about",
@@ -1657,9 +1628,9 @@
     {
      "title": "AI becomes the new arms race: China warns US against technological dominance",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWx3MDJEZW1lbnNzNEZibTYydnR5NVNweXBUWlRaa0pxZi1XazJDRHVMcmZ0WkJsVVJELXR6ekFHWHZuNHFIejdXQmszNi10VGw2XzJoWUFoUlhqZm5oUm9Zc1o4ZWF6S3pDOXZGRWZ4dzFXbGdjVmVFOFZDZUpOSEc0a18zRmxpVHo4aHppRTNOUjQ1SmQ0Wjc5cmV3am1LSmRGdHhoeFhSc0luX3ZCZl9Jc1VsVDk5bm15MkhpdmIxU3prRUFMYzk1RFhtNUZpNnNXY04tVUNxMVRrQnBicklYbTlVdEw2YmwwbWNTLUzSAfYBQVVfeXFMTWQ5R0lGRVZtT2kwY1dUNGxtelR6bDZhRGVHMTNWYUZnOHJxZjBlVVE1eWxEOUhmQW9OYnFuS1p5bkM1TEk5QjU2OVdoUDQ5ZFVpZlpGaW5IN2VtU2FWV1BIc2otdTV3MTdPTDN4SlJjaVBKSXpoWEhHZUlJMWZJN1pxV194cXN4RDRBMjBxY2dkeE11Wk1pVU5VeFgzWHhpMFFPb255N2p0dElIR21xbU1QWW02anJtYlVJTGxRUVp5ZXZHWUhscV85QllGcG5UbnBDWkhBOVY5MFlEaUhYNWlIRlk1UjVpa01XaTI0VGZMM25YWS1n?oc=5",
-     "summary": "AI becomes the new arms race: China warns US against technological dominance timesofindia.indiatimes.com",
+     "summary": "AI becomes the new arms race: China warns US against technological dominance The Times of India",
      "published": "2026-09-06T17:57:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1679,6 +1650,19 @@
      "id": "25d143cac45f",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "A Strategic Perspective On The Current Development Of High-Tech Industries In China - Analysis",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzUza0JibTVOQllLM2pjeTA4aUUxT2NySzZhS3E3N1U0TTNZTndGcWtQdjlSMGRac3p2bUxSVmx5d3NuWWZ5SG0xem9zdG9FU2dPNXowYnFBZy01RzNEWkN2eWp3ZUFMZTUzZmItQUV2MjhhLVVUeW9rVWQ3WVRkSFhKdkJpc2F5YW1BSld6VnZLTzNabVg5MGk3RkdEOXo0U2puVnM2OGoyWXdVZXAwYy1WZEIwNVItV01OR1lXaEJzVTZjaFQ3NXJXU3U?oc=5",
+     "summary": "A Strategic Perspective On The Current Development Of High-Tech Industries In China - Analysis Eurasia Review",
+     "published": "2026-09-06T23:25:29+00:00",
+     "source": "Eurasia Review",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "8dd9604474fb",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Anthropic IPO launch shifts toward mid-October: Report",
