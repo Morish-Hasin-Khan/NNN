@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T10:03:02.688145+00:00",
+ "generated_at": "2026-09-07T10:36:16.256709+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -39,8 +39,7 @@
    "value": 125216.0,
    "change": 3597.0,
    "changePct": 2.96,
-   "decimals": 0,
-   "stale": true
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -84,16 +83,16 @@
   }
  ],
  "topics": [
-  "Fisherman Visakhapatnam",
-  "Keralam Muttil",
+  "Kills Wife",
+  "Member With",
   "Jazeera English",
   "News",
   "Bangladesh World",
-  "Bribes EMIs",
+  "Karur Vijay",
+  "Tamil Nadu",
   "Tumultuous Tamil",
-  "Video Israeli",
-  "Iran",
-  "Indonesia"
+  "World Germany",
+  "Video Israeli"
  ],
  "sections": [
   {
@@ -102,34 +101,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "Fisherman who told sister he feared for his life found dead on Visakhapatnam beach; murder suspected",
-     "url": "https://www.thehindu.com/news/cities/Visakhapatnam/fisherman-who-told-sister-he-feared-for-his-life-found-dead-on-visakhapatnam-beach-murder-suspected/article71437917.ece",
-     "summary": "Mylapalli Chanti left his sister’s house at Kotha Jalaripeta during the night and was found on the beach in the morning with injuries to the neck and head",
-     "published": "2026-09-07T09:57:08+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ro40ql/article71400860.ece/alternates/LANDSCAPE_1200/iStock-523699180%201.jpg",
-     "licence": "linkout",
-     "id": "769161fae636",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Keralam’s Muttil tree-felling case: court defers framing of charges against Augustine brothers to Sept. 11",
-     "url": "https://www.thehindu.com/news/national/kerala/keralams-muttil-tree-felling-case-court-defers-framing-of-charges-against-augustine-brothers-to-sept-11/article71437745.ece",
-     "summary": "The adjournment followed a plea by the accused seeking suspension of proceedings until the Kerala High Court considers their request to stay trial court proceedings on September 8",
-     "published": "2026-09-07T09:47:45+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "ab57ce289152",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
     {
      "title": "Man Kills Wife In Guwahati, Chops Fingers, Stores Severed Head In Fridge",
      "url": "https://www.ndtv.com/india-news/man-kills-wife-in-guwahati-chops-fingers-stores-severed-head-in-fridge-12011932#publisher=newsstand",
@@ -143,6 +114,51 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
+    },
+    {
+     "title": "TVK Member With Criminal Record Stabbed To Death In Chennai, 5 Arrested",
+     "url": "https://www.ndtv.com/india-news/tvk-member-kannan-with-criminal-record-stabbed-to-death-in-chennai-5-arrested-12012536#publisher=newsstand",
+     "summary": "According to police, Kannan was involved in the car rental business and was on the police radar as a history-sheeter.",
+     "published": "2026-09-07T09:19:32+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/1hi84t1o_kannan-chennai-murder-_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "10503faca5c5",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "5 Arrested"
+     ]
+    },
+    {
+     "title": "'Commit Murders, Then...': Sidhu Moosewala's Father Slams AAP Over Gangster's Entry",
+     "url": "https://www.ndtv.com/india-news/commit-murders-then-sidhu-moosewalas-father-balkaur-singh-slams-aap-over-gangsters-entry-punjab-assembly-elections-12012696#publisher=newsstand",
+     "summary": "The controversy erupted after Gurpreet Singh Sekhon, a gangster-turned-politician and the main accused in the 2016 Nabha jailbreak case, joined the AAP months ahead of the Punjab Assembly elections.",
+     "published": "2026-09-07T09:18:35+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/ciet587k_punjab_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "556f66382a13",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Israeli strikes in southern Lebanese village kill nine",
+     "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+     "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+     "published": "2026-09-07T10:16:56+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "115206efe783",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "Iran war: How US consumers spent an additional $100bn on fuel",
@@ -163,20 +179,6 @@
      ]
     },
     {
-     "title": "Israeli strikes in southern Lebanese village kill nine",
-     "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-     "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
-     "published": "2026-09-07T08:57:30+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "115206efe783",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
@@ -191,10 +193,54 @@
      "from_section": "Global News"
     },
     {
+     "title": "World reacts to AfD victory in east Germany state election",
+     "url": "https://www.aljazeera.com/news/2026/9/7/world-reacts-to-afd-victory-in-east-germany-state-election?traffic_source=rss",
+     "summary": "French minister calls AfD's victory a grave moment, warning of growing nationalism and its impact on European unity.",
+     "published": "2026-09-07T10:20:15+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260906__C7GU69V__v1__HighRes__GermanyPoliticsVoteStateSaxonyAnhalt-1788762509.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "c80d667808f9",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+       "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+       "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ktM3JaWWEwSWNvZWQ2aFNWbkdVeFVvVmFUTm1QUGlmYTU3VzdMTEcwMHliZlMwM1dRdU94QjhGdktrZC1mdDFpb2ZEVlRieU0xc2xJa19Fa1dMdmhsOFN3RE9pbmNvaWhiTndRYW1IZjFPWFNoSEVPU0sxQi0ySEJyMDdIMXE0M3NaSVhUVUs2X0JzODRpX3k2RklnOXlzenBwMVlNSV93MXlqV3paN0RYYkpRWTREOUJaNWNpcTAxdTM0ZTFMc1JwV2ZmaHlsRVFhU2NVaVQ3c3lzc0FlUHJXUmFoNG1acEhGdVpLdnZSYWJOTnfSAfsBQVVfeXFMT2h2V09hTXdwbUhuZVB3bThseEtDSmtkQUhBT1cwb18tcUhtajkyNy1KUEZSN1NzZ2pMZGxEcDRTTVd0RjNvcGswa2ZJNWM0WFV3bVJnUzUzLUV2V2YyOEdZcHBuc21lVGpFQ2c3ajBHUGNVZUprQkhCNHpnekhaQ2Z1U0hQNkJSU2ctRmI3SEk0a2NqV0dodzdyR3ZDakNVNERRYWQySVBFTmF6ZXhxOHZKVVM0bEFiM21PTVg5TGpmcWxSNWFCR0ZMc3hua3VNcWZ6Nm9rdTVOZnNXbFZ5RU0wVGVyM2tzSlgwMmhRckNZZWxRelhoZlZtS3M?oc=5",
+     "summary": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption India Today",
+     "published": "2026-09-07T06:29:50+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "d7083f295a13",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking Sarkaria Commission, Veeranam scandal",
+       "url": "https://www.thehindu.com/news/national/tamil-nadu/tumultuous-scenes-in-tn-assembly-as-cm-vijay-attacks-dmk-invoking-sarkaria-commission-veeranam-scandal/article71437671.ece",
+       "summary": "DMK MLAs surrounded the Speaker and even resorted to a sit-in protest after Mr. Vijay departed from his prepared speech, raised his voice and targeted the DMK, case by case, accusing its leaders of nepotism."
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Scandals & Investigations"
+    },
+    {
      "title": "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking Sarkaria Commission, Veeranam scandal",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/tumultuous-scenes-in-tn-assembly-as-cm-vijay-attacks-dmk-invoking-sarkaria-commission-veeranam-scandal/article71437671.ece",
      "summary": "DMK MLAs surrounded the Speaker and even resorted to a sit-in protest after Mr. Vijay departed from his prepared speech, raised his voice and targeted the DMK, case by case, accusing its leaders of nepotism.",
-     "published": "2026-09-07T09:53:10+00:00",
+     "published": "2026-09-07T10:32:19+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/9s5kcw/article71437700.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000044B.jpg",
@@ -205,85 +251,48 @@
      "from_section": "National News"
     },
     {
-     "title": "Telangana Assembly monsoon session LIVE: BJP leaders protest near Assembly over fee reimbursement dues",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-registration-act-september-7-2026/article71437724.ece",
-     "summary": "The BJP also leaders raised the issue of land in the prohibited properties list immediately as the House assembled for the day",
-     "published": "2026-09-07T09:47:37+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/1e0zdc/article71437720.ece/alternates/LANDSCAPE_1200/Assembly%20break%20for%2014%20minutes.png",
-     "licence": "linkout",
-     "id": "cf6c496ed61a",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Bribes taken like loan EMIs: Vijay's big charge against DMK in assembly",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ktM3JaWWEwSWNvZWQ2aFNWbkdVeFVvVmFUTm1QUGlmYTU3VzdMTEcwMHliZlMwM1dRdU94QjhGdktrZC1mdDFpb2ZEVlRieU0xc2xJa19Fa1dMdmhsOFN3RE9pbmNvaWhiTndRYW1IZjFPWFNoSEVPU0sxQi0ySEJyMDdIMXE0M3NaSVhUVUs2X0JzODRpX3k2RklnOXlzenBwMVlNSV93MXlqV3paN0RYYkpRWTREOUJaNWNpcTAxdTM0ZTFMc1JwV2ZmaHlsRVFhU2NVaVQ3c3lzc0FlUHJXUmFoNG1acEhGdVpLdnZSYWJOTnfSAfsBQVVfeXFMT2h2V09hTXdwbUhuZVB3bThseEtDSmtkQUhBT1cwb18tcUhtajkyNy1KUEZSN1NzZ2pMZGxEcDRTTVd0RjNvcGswa2ZJNWM0WFV3bVJnUzUzLUV2V2YyOEdZcHBuc21lVGpFQ2c3ajBHUGNVZUprQkhCNHpnekhaQ2Z1U0hQNkJSU2ctRmI3SEk0a2NqV0dodzdyR3ZDakNVNERRYWQySVBFTmF6ZXhxOHZKVVM0bEFiM21PTVg5TGpmcWxSNWFCR0ZMc3hua3VNcWZ6Nm9rdTVOZnNXbFZ5RU0wVGVyM2tzSlgwMmhRckNZZWxRelhoZlZtS3M?oc=5",
-     "summary": "Bribes taken like loan EMIs: Vijay's big charge against DMK in assembly India Today",
-     "published": "2026-09-07T06:29:50+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "d7083f295a13",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Online wills are cheaper and easier. But can a ₹499 will protect a ₹5 crore estate?",
-     "url": "https://www.livemint.com/money/personal-finance/online-wills-are-cheaper-and-easier-but-can-a-499-will-protect-a-5-crore-estate-11788771989769.html",
-     "summary": "Online platforms can help create a will for as little as ₹499, while assisted services can cost ₹30,000 or more. But the question is not just how much you pay to make a will—it is whether you have disclosed every relevant asset, established ownership correctly and planned for potential disputes.",
-     "published": "2026-09-07T09:43:01+00:00",
+     "title": "Your biggest retirement risk may not be inflation. One risk you can't afford to ignore",
+     "url": "https://www.livemint.com/money/personal-finance/your-biggest-retirement-risk-may-not-be-inflation-one-risk-you-cant-afford-to-ignore-11788768226847.html",
+     "summary": "India's life expectancy has risen over the last few decades, emphasising the need for enhanced retirement planning. Experts explain what an average retiree needs after exiting the workforce.",
+     "published": "2026-09-07T10:21:22+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/MixCollage-07-Sep-2026-02-51-PM-8283_1788772904036_abdf5ac1-b282-42fe-959c-1849f42181cb_1788772915015_c44f9b7a-e46e-473d-ac9c-d79e80c502ee_fc8dd3c3-8b8c-4aca-9ee6-595e5dbd8742_1d700a8b-7bad-4e77-af0f-9c3b86168afb.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/retirement_risk_1788776415943_4454de28-b131-42fe-ba1e-ae12960ae878_1788776424383_e425c6a3-8bdc-4e4d-8be8-4d87327124bf_2eec8e3d-9f37-42af-bfe3-9ad58650f4c1_53e3b524-620f-4d76-9e9f-8a5fd5ed8e08.png",
      "licence": "linkout",
-     "id": "705244a4d527",
+     "id": "3f81bf0185a0",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹499  will protect a ₹5",
-      "₹5 crore estate?",
-      "₹499,  while assisted services can",
-      "₹30,000  or more"
-     ]
+     "from_section": "Business"
     },
     {
-     "title": "Jaguar Land Rover to cut 4,000 jobs",
-     "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-     "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-     "published": "2026-09-07T09:39:17+00:00",
+     "title": "Chancellor says UK economy 'turning a corner' despite debt concerns",
+     "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+     "summary": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
+     "published": "2026-09-07T10:16:19+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba1/live/1f725c70-aa9a-11f1-ab09-7f2415c9a652.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/337d/live/666febe0-aaa6-11f1-9eba-7de947fa7cd1.jpg",
+     "licence": "linkout",
+     "id": "cd252d1ead3d",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business"
+    },
+    {
+     "title": "Jaguar Land Rover to cut 4,000 jobs as it faces tough competition",
+     "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+     "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+     "published": "2026-09-07T10:03:06+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
      "id": "e09ebdd818ec",
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business",
      "figures": [
-      "4,000 jobs"
-     ]
-    },
-    {
-     "title": "₹760 crore sanctioned for Amaravati Sangamam: State library, archives, auditorium at Sakhamuru",
-     "url": "https://www.thehindu.com/news/cities/Vijayawada/760-crore-sanctioned-for-amaravati-sangamam-state-library-archives-auditorium-at-sakhamuru/article71437834.ece",
-     "summary": "The G.O. issued on Monday clears tenders for the complex housing the A.P. State Public Library, Archives, Auditorium and the Global Institute of Good Governance",
-     "published": "2026-09-07T09:35:22+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/ht5mhi/article71426413.ece/alternates/LANDSCAPE_1200/%E2%82%B9759-cr.-AmaravG2KGG09OG.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "1d64e5adf046",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National Hotlines",
-     "figures": [
-      "₹760 crore sanctioned for Amaravati Sangamam"
+      "4,000 jobs as it faces tough"
      ]
     },
     {
@@ -335,12 +344,20 @@
      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
      "summary": "It's not clear how many people were inside the building - or if there are still people under the debris.",
-     "published": "2026-09-07T08:26:09+00:00",
+     "published": "2026-09-07T10:31:01+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a01/live/36daba00-aa91-11f1-ab09-7f2415c9a652.jpg",
      "licence": "linkout",
      "id": "8888dade1bda",
+     "also": [
+      {
+       "source": "dw.com",
+       "title": "India news: Several dead in Delhi building collapse",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
+       "summary": "India news: Several dead in Delhi building collapse dw.com"
+      }
+     ],
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Global Hotline"
@@ -360,35 +377,18 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "Visakhapatnam civil society calls for moratorium on AI data centre approvals",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnam-civil-society-calls-for-moratorium-on-ai-data-centre-approvals/article71435952.ece",
-     "summary": "The convention flags water, land and transparency concerns; adopts six-point declaration",
-     "published": "2026-09-07T09:41:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/h938or/article71436123.ece/alternates/LANDSCAPE_1200/VSP07_SEMINAR%203.JPG",
-     "licence": "linkout",
-     "id": "4ccb11cf45d4",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Ugandan Startup SANDI AI Wins US$50,000 GoGettaz Agripreneur Prize for Using Artificial Intelligence to Unlock Finance for Farmers",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajV4NWMtNkttMGcyQkVMdjlwR3JpVFh1RF9xR3lybVV5djNibGhSNkowWUZCVGJBNFVDWFhEamxONlFaWGszeTE0V0Nhb0FVQjdGa1BNVWZEZ1QtTXU2RTVrVWN5R1NTLWV4Q3BSczlmVVRRNkQ3SUR2RFB2MzMwcENucWwxMmFnRDNHTk9rcnlTWmE2R0VxcjRyNTFoSUwyM3FXN2dMcUcwQldGSlRiM2h6eVAydUxZaHA4eWtDeFAyVFFMS1FBUDRKamhab2JlUkdzUFdNU0lSb2VJYVpaV2tHNA?oc=5",
-     "summary": "Ugandan Startup SANDI AI Wins US$50,000 GoGettaz Agripreneur Prize for Using Artificial Intelligence to Unlock Finance for Farmers iAfrica.com",
-     "published": "2026-09-07T09:29:10+00:00",
-     "source": "iAfrica.com",
+     "title": "Third Taiwan-Paraguay Technology Forum To Focus On Artificial Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1IydTdGNWQ2bkwyV1RsQjd6TVgtMEtzX0Q2ZjBNTTVscHM4cWtjNDhVMTY4NHFuVXd0a1ZYQ1JxYU92cXNYb1pKRHVMVzhueW85ay1QSEluTmRIZzhKb01PN3J4N0xOQUpMakdLWlpFX3dxRkxweDVXcW5wSlpzSGJVanpKSVF2UUZVbjctY0sxdG1DWWpzNDRNemxzN21uM094NUpubFUwNTl5WVZGOVBoMHVDaGczVUJWcGdJd3hSUHM?oc=5",
+     "summary": "Third Taiwan-Paraguay Technology Forum To Focus On Artificial Intelligence asunciontimes.com",
+     "published": "2026-09-07T09:54:00+00:00",
+     "source": "asunciontimes.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "ea500c8954dc",
+     "id": "b67256709a80",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "$50,000  GoGettaz Agripreneur Prize"
-     ]
+     "from_section": "Technology"
     },
     {
      "title": "Jill Lepore observes the risks of artificial intelligence... Will technological development lead to a new crisis?",
@@ -403,6 +403,20 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
+    },
+    {
+     "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
+     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
+     "published": "2026-09-07T00:16:01+00:00",
+     "source": "News On AIR",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "e5acc0fd27af",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National Hotlines"
     },
     {
      "title": "'Fixing' Concern Surrounds Pakistan Team, Data Transferred From 2 Players' Phones: Report",
@@ -422,20 +436,6 @@
      ]
     },
     {
-     "title": "Arsenal vs Chelsea: Gunners stamp authority, but Blues are contenders too",
-     "url": "https://www.aljazeera.com/sports/2026/9/7/arsenal-vs-chelsea-gunners-stamp-authority-but-blues-are-contenders-too?traffic_source=rss",
-     "summary": "Arsenal's strong defence and reliable attack edge Chelsea's bravery and intent in the Premier League's biggest clash.",
-     "published": "2026-09-07T08:50:35+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260906__C7HC2X8__v1__HighRes__FblEngPrArsenalChelsea-1788758622.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "7bf6b6e9b73d",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
-    },
-    {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
      "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
@@ -450,6 +450,20 @@
      "from_section": "Scandals & Investigations"
     },
     {
+     "title": "How Samay Raina's Joke Triggered Anand Mahindra To Start A Chess League",
+     "url": "https://sports.ndtv.com/chess/how-samay-rainas-joke-triggered-anand-mahindra-to-start-a-chess-league-12012210#publisher=newsstand",
+     "summary": "Anand Mahindra credits comedian Samay Raina for inspiring the Global Chess League, a franchise-based chess tournament that began as a joke in 2020 and is now a major international event.",
+     "published": "2026-09-07T07:34:20+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/h5qprsu4_anand-mahindra-and-samay-raina-getty_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "4755c813ea87",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
      "title": "Probe begins into why Amazon cargo plane overran Miami runway",
      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
      "summary": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
@@ -462,20 +476,6 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Global News"
-    },
-    {
-     "title": "Assam Rifles captures two men from Bihar possessing firearms in Agartala",
-     "url": "https://www.thehindu.com/news/national/tripura/assam-rifles-captures-two-men-from-bihar-possessing-firearms-in-agartala/article71438120.ece",
-     "summary": "Initial investigation revealed that the two men arrived in Agartala from Khowai in west Tripura to hand over firearms to someone yet to be identified",
-     "published": "2026-09-07T09:49:06+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "550d2ac1b003",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News"
     }
    ]
   },
@@ -491,7 +491,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-07T10:02:49.414674+00:00",
+     "published": "2026-09-07T10:36:04.939755+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -502,7 +502,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-07T10:02:49.414686+00:00",
+     "published": "2026-09-07T10:36:04.939767+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -513,7 +513,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-07T10:02:49.414689+00:00",
+     "published": "2026-09-07T10:36:04.939774+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -524,7 +524,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-07T10:02:49.414690+00:00",
+     "published": "2026-09-07T10:36:04.939778+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -535,7 +535,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-07T10:02:49.414692+00:00",
+     "published": "2026-09-07T10:36:04.939783+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -546,10 +546,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-07T10:02:49.414694+00:00",
+     "published": "2026-09-07T10:36:04.939787+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "Telangana Assembly monsoon session LIVE: CM Revanth demands KCR’s apology, BRS MLC’s membership termination over ‘derogatory remarks’ against Speaker",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-registration-act-september-7-2026/article71437724.ece",
+     "summary": "The Chief Minister says Assembly Speaker occupied a constitutional position that deserved the same respect as any other member of the House",
+     "published": "2026-09-07T10:26:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/1e0zdc/article71437720.ece/alternates/LANDSCAPE_1200/Assembly%20break%20for%2014%20minutes.png",
+     "licence": "linkout",
+     "id": "cf6c496ed61a",
+     "kind": "liveblog",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: 250-Up Ishan Retires Hurt, No Declaration From East Zone",
@@ -587,15 +601,23 @@
      "category_label": "Sports"
     },
     {
-     "title": "Bribes taken like loan EMIs: Vijay's big charge against DMK in assembly",
+     "title": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption",
      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ktM3JaWWEwSWNvZWQ2aFNWbkdVeFVvVmFUTm1QUGlmYTU3VzdMTEcwMHliZlMwM1dRdU94QjhGdktrZC1mdDFpb2ZEVlRieU0xc2xJa19Fa1dMdmhsOFN3RE9pbmNvaWhiTndRYW1IZjFPWFNoSEVPU0sxQi0ySEJyMDdIMXE0M3NaSVhUVUs2X0JzODRpX3k2RklnOXlzenBwMVlNSV93MXlqV3paN0RYYkpRWTREOUJaNWNpcTAxdTM0ZTFMc1JwV2ZmaHlsRVFhU2NVaVQ3c3lzc0FlUHJXUmFoNG1acEhGdVpLdnZSYWJOTnfSAfsBQVVfeXFMT2h2V09hTXdwbUhuZVB3bThseEtDSmtkQUhBT1cwb18tcUhtajkyNy1KUEZSN1NzZ2pMZGxEcDRTTVd0RjNvcGswa2ZJNWM0WFV3bVJnUzUzLUV2V2YyOEdZcHBuc21lVGpFQ2c3ajBHUGNVZUprQkhCNHpnekhaQ2Z1U0hQNkJSU2ctRmI3SEk0a2NqV0dodzdyR3ZDakNVNERRYWQySVBFTmF6ZXhxOHZKVVM0bEFiM21PTVg5TGpmcWxSNWFCR0ZMc3hua3VNcWZ6Nm9rdTVOZnNXbFZ5RU0wVGVyM2tzSlgwMmhRckNZZWxRelhoZlZtS3M?oc=5",
-     "summary": "Bribes taken like loan EMIs: Vijay's big charge against DMK in assembly India Today",
+     "summary": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption India Today",
      "published": "2026-09-07T06:29:50+00:00",
      "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "d7083f295a13",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking Sarkaria Commission, Veeranam scandal",
+       "url": "https://www.thehindu.com/news/national/tamil-nadu/tumultuous-scenes-in-tn-assembly-as-cm-vijay-attacks-dmk-invoking-sarkaria-commission-veeranam-scandal/article71437671.ece",
+       "summary": "DMK MLAs surrounded the Speaker and even resorted to a sit-in protest after Mr. Vijay departed from his prepared speech, raised his voice and targeted the DMK, case by case, accusing its leaders of nepotism."
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -608,23 +630,23 @@
    "upsc": false,
    "items": [
     {
-     "title": "Fisherman who told sister he feared for his life found dead on Visakhapatnam beach; murder suspected",
-     "url": "https://www.thehindu.com/news/cities/Visakhapatnam/fisherman-who-told-sister-he-feared-for-his-life-found-dead-on-visakhapatnam-beach-murder-suspected/article71437917.ece",
-     "summary": "Mylapalli Chanti left his sister’s house at Kotha Jalaripeta during the night and was found on the beach in the morning with injuries to the neck and head",
-     "published": "2026-09-07T09:57:08+00:00",
+     "title": "Tamil Nadu CM Vijay warns of action against anyone making obscene remarks against women",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/why-should-dmk-continue-in-politics-if-it-cannot-accept-peoples-verdict-asks-tamil-nadu-cm-vijay/article71438114.ece",
+     "summary": "Why should DMK continue in politics if it cannot accept people’s verdict, asks Mr. Vijay",
+     "published": "2026-09-07T10:31:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ro40ql/article71400860.ece/alternates/LANDSCAPE_1200/iStock-523699180%201.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/itwweb/article71438194.ece/alternates/LANDSCAPE_1200/Vijay%20Assembly%20Sep%207%202026.jpeg",
      "licence": "linkout",
-     "id": "769161fae636",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "056f953e876f",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking Sarkaria Commission, Veeranam scandal",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/tumultuous-scenes-in-tn-assembly-as-cm-vijay-attacks-dmk-invoking-sarkaria-commission-veeranam-scandal/article71437671.ece",
      "summary": "DMK MLAs surrounded the Speaker and even resorted to a sit-in protest after Mr. Vijay departed from his prepared speech, raised his voice and targeted the DMK, case by case, accusing its leaders of nepotism.",
-     "published": "2026-09-07T09:53:10+00:00",
+     "published": "2026-09-07T10:32:19+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/9s5kcw/article71437700.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000044B.jpg",
@@ -634,17 +656,35 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Why should DMK continue in politics if it cannot accept people’s verdict, asks Tamil Nadu CM Vijay",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/why-should-dmk-continue-in-politics-if-it-cannot-accept-peoples-verdict-asks-tamil-nadu-cm-vijay/article71438114.ece",
-     "summary": "He warns of action against anyone making obscene remarks against women",
-     "published": "2026-09-07T09:56:54+00:00",
+     "title": "Political parties scramble to finalise candidates for low-stakes Ayyappankkavu bypoll in Kochi Corporation",
+     "url": "https://www.thehindu.com/news/national/kerala/political-parties-scramble-to-finalise-candidates-for-low-stakes-ayyappankkavu-bypoll-in-kochi-corporation/article71437497.ece",
+     "summary": "In the 76-member council, now reduced to 75 following the vacancy in Ayyappankkavu, the UDF commands the support of 47 members, including an independent. The main Opposition LDF remains restricted to 22, while the BJP holds six seats",
+     "published": "2026-09-07T10:27:32+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gbmjh2/article71438127.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000079B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/3wi5mq/article71438239.ece/alternates/LANDSCAPE_1200/Factional-equatG6DG91R61.3.jpg.jpg",
      "licence": "linkout",
-     "id": "056f953e876f",
-     "category": "general",
-     "category_label": "General"
+     "id": "53d587b5faf2",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "75 following the vacancy in Ayyappankkavu",
+      "47 members , including an independent",
+      "22, while the BJP holds six"
+     ]
+    },
+    {
+     "title": "Telangana CM Revanth demands KCR’s apology, BRS MLC’s membership termination over ‘derogatory remarks’ against Speaker",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-demands-kcrs-apology-brs-mlcs-membership-termination-over-derogatory-remarks-against-speaker/article71438116.ece",
+     "summary": "The Chief Minister says Assembly Speaker occupied a constitutional position that deserved the same respect as any other member of the House",
+     "published": "2026-09-07T10:23:03+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/dhl5gs/article71438122.ece/alternates/LANDSCAPE_1200/Telangana%20CM%20in%20Assembly%20Spetember%207%202026.png",
+     "licence": "linkout",
+     "id": "668b895f37e2",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Did You Know? Who Started The First School For Girls In India? Know The History",
@@ -671,35 +711,6 @@
      "id": "ab1ef9cccd56",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "TVK Member With Criminal Record Stabbed To Death In Chennai, 5 Arrested",
-     "url": "https://www.ndtv.com/india-news/tvk-member-kannan-with-criminal-record-stabbed-to-death-in-chennai-5-arrested-12012536#publisher=newsstand",
-     "summary": "According to police, Kannan was involved in the car rental business and was on the police radar as a history-sheeter.",
-     "published": "2026-09-07T09:19:32+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/1hi84t1o_kannan-chennai-murder-_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "10503faca5c5",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "5 Arrested"
-     ]
-    },
-    {
-     "title": "'Commit Murders, Then...': Sidhu Moosewala's Father Slams AAP Over Gangster's Entry",
-     "url": "https://www.ndtv.com/india-news/commit-murders-then-sidhu-moosewalas-father-balkaur-singh-slams-aap-over-gangsters-entry-punjab-assembly-elections-12012696#publisher=newsstand",
-     "summary": "The controversy erupted after Gurpreet Singh Sekhon, a gangster-turned-politician and the main accused in the 2016 Nabha jailbreak case, joined the AAP months ahead of the Punjab Assembly elections.",
-     "published": "2026-09-07T09:18:35+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ciet587k_punjab_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "556f66382a13",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -709,6 +720,27 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "World reacts to AfD victory in east Germany state election",
+     "url": "https://www.aljazeera.com/news/2026/9/7/world-reacts-to-afd-victory-in-east-germany-state-election?traffic_source=rss",
+     "summary": "French minister calls AfD's victory a grave moment, warning of growing nationalism and its impact on European unity.",
+     "published": "2026-09-07T10:20:15+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260906__C7GU69V__v1__HighRes__GermanyPoliticsVoteStateSaxonyAnhalt-1788762509.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "c80d667808f9",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+       "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+       "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
     {
      "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
@@ -780,17 +812,17 @@
      ]
     },
     {
-     "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-     "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-     "summary": "Preliminary results give the Alternative for Germany a big margin of victory - almost 44% of the vote.",
-     "published": "2026-09-07T08:52:04+00:00",
+     "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+     "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+     "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+     "published": "2026-09-07T10:14:51+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
      "licence": "linkout",
-     "id": "aafc7669e145",
-     "category": "general",
-     "category_label": "General"
+     "id": "826be3ecd39b",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
@@ -899,67 +931,106 @@
    "upsc": false,
    "items": [
     {
-     "title": "Fisherman who told sister he feared for his life found dead on Visakhapatnam beach; murder suspected",
-     "url": "https://www.thehindu.com/news/cities/Visakhapatnam/fisherman-who-told-sister-he-feared-for-his-life-found-dead-on-visakhapatnam-beach-murder-suspected/article71437917.ece",
-     "summary": "Mylapalli Chanti left his sister’s house at Kotha Jalaripeta during the night and was found on the beach in the morning with injuries to the neck and head",
-     "published": "2026-09-07T09:57:08+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ro40ql/article71400860.ece/alternates/LANDSCAPE_1200/iStock-523699180%201.jpg",
-     "licence": "linkout",
-     "id": "769161fae636",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking Sarkaria Commission, Veeranam scandal",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tumultuous-scenes-in-tn-assembly-as-cm-vijay-attacks-dmk-invoking-sarkaria-commission-veeranam-scandal/article71437671.ece",
-     "summary": "DMK MLAs surrounded the Speaker and even resorted to a sit-in protest after Mr. Vijay departed from his prepared speech, raised his voice and targeted the DMK, case by case, accusing its leaders of nepotism.",
-     "published": "2026-09-07T09:53:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9s5kcw/article71437700.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000044B.jpg",
-     "licence": "linkout",
-     "id": "5d3cfd9485a6",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Why should DMK continue in politics if it cannot accept people’s verdict, asks Tamil Nadu CM Vijay",
+     "title": "Tamil Nadu CM Vijay warns of action against anyone making obscene remarks against women",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/why-should-dmk-continue-in-politics-if-it-cannot-accept-peoples-verdict-asks-tamil-nadu-cm-vijay/article71438114.ece",
-     "summary": "He warns of action against anyone making obscene remarks against women",
-     "published": "2026-09-07T09:56:54+00:00",
+     "summary": "Why should DMK continue in politics if it cannot accept people’s verdict, asks Mr. Vijay",
+     "published": "2026-09-07T10:31:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gbmjh2/article71438127.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000079B.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/itwweb/article71438194.ece/alternates/LANDSCAPE_1200/Vijay%20Assembly%20Sep%207%202026.jpeg",
      "licence": "linkout",
      "id": "056f953e876f",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
-     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
-     "published": "2026-09-07T00:16:01+00:00",
-     "source": "News On AIR",
+     "title": "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking Sarkaria Commission, Veeranam scandal",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tumultuous-scenes-in-tn-assembly-as-cm-vijay-attacks-dmk-invoking-sarkaria-commission-veeranam-scandal/article71437671.ece",
+     "summary": "DMK MLAs surrounded the Speaker and even resorted to a sit-in protest after Mr. Vijay departed from his prepared speech, raised his voice and targeted the DMK, case by case, accusing its leaders of nepotism.",
+     "published": "2026-09-07T10:32:19+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/9s5kcw/article71437700.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000044B.jpg",
      "licence": "linkout",
-     "id": "e5acc0fd27af",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "id": "5d3cfd9485a6",
+     "also": [
+      {
+       "source": "India Today",
+       "title": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption",
+       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ktM3JaWWEwSWNvZWQ2aFNWbkdVeFVvVmFUTm1QUGlmYTU3VzdMTEcwMHliZlMwM1dRdU94QjhGdktrZC1mdDFpb2ZEVlRieU0xc2xJa19Fa1dMdmhsOFN3RE9pbmNvaWhiTndRYW1IZjFPWFNoSEVPU0sxQi0ySEJyMDdIMXE0M3NaSVhUVUs2X0JzODRpX3k2RklnOXlzenBwMVlNSV93MXlqV3paN0RYYkpRWTREOUJaNWNpcTAxdTM0ZTFMc1JwV2ZmaHlsRVFhU2NVaVQ3c3lzc0FlUHJXUmFoNG1acEhGdVpLdnZSYWJOTnfSAfsBQVVfeXFMT2h2V09hTXdwbUhuZVB3bThseEtDSmtkQUhBT1cwb18tcUhtajkyNy1KUEZSN1NzZ2pMZGxEcDRTTVd0RjNvcGswa2ZJNWM0WFV3bVJnUzUzLUV2V2YyOEdZcHBuc21lVGpFQ2c3ajBHUGNVZUprQkhCNHpnekhaQ2Z1U0hQNkJSU2ctRmI3SEk0a2NqV0dodzdyR3ZDakNVNERRYWQySVBFTmF6ZXhxOHZKVVM0bEFiM21PTVg5TGpmcWxSNWFCR0ZMc3hua3VNcWZ6Nm9rdTVOZnNXbFZ5RU0wVGVyM2tzSlgwMmhRckNZZWxRelhoZlZtS3M?oc=5",
+       "summary": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption India Today"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Top news of the day: September 6, 2026",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNm83Q0JHemNveGZ5QmhPNVowZk9lUnNiRU1CSGdkV3lqMG51Wk93ZnVWbHlXSkRXYTl1azVMMmY2cDIxdGt4T1dFUjNEa2l4X1NhVWRKZTJ2cFhoR25ORm1nVHdzbWtsVHQ0VWpMY29nOXRHdjdiTGpuRkRNUFlVcF9nN0paYUJhekp1TUwtSTZCTm85c2VLV3FKUk02M0xQMnc0eHR5WDZTbUpLbGkwY0JFUGlZNEpya3lxLXRfOWNRSWFwYlc3Nk9ORG5wZFFzVEhzbjZTTWE4UlQ3Rzd1LWNVUFJsNkZMQWZTOXViWE9IMFQ0b2ctTdIB_wFBVV95cUxNeWVyZ280WjZFVkl6LW03TklhelZUNDdZenotc0pXY2hKT3AwTkRXMkVsX21ZTEMyQ0I0TFVBREthaWpqbk1yaEdtSWt0eHllMElIaUo0T2NfREI3SFpaZC1BQnoyRFdGSDNrMldEeDFWeVRiQV9kYUh2OWp6YmJ2S0xYY2NORXBveG1vWTRma25WMEh4bmoxZ3E0RlNOcmpkb0VHbHlIZTBlM2NSajVMVVk5R1c3QlVPTXJDWU14RTZtaWhfNE9sT3dPRUJzcGxLVXQ0dnpROHVqZV9vTHhZYmFUZ2xocFllQ3Nsd3l5bWU2Nm81bFA5Vno3R3NwdEk?oc=5",
-     "summary": "Top news of the day: September 6, 2026 thehindu.com",
-     "published": "2026-09-06T13:03:48+00:00",
-     "source": "thehindu.com",
+     "title": "Political parties scramble to finalise candidates for low-stakes Ayyappankkavu bypoll in Kochi Corporation",
+     "url": "https://www.thehindu.com/news/national/kerala/political-parties-scramble-to-finalise-candidates-for-low-stakes-ayyappankkavu-bypoll-in-kochi-corporation/article71437497.ece",
+     "summary": "In the 76-member council, now reduced to 75 following the vacancy in Ayyappankkavu, the UDF commands the support of 47 members, including an independent. The main Opposition LDF remains restricted to 22, while the BJP holds six seats",
+     "published": "2026-09-07T10:27:32+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/3wi5mq/article71438239.ece/alternates/LANDSCAPE_1200/Factional-equatG6DG91R61.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "53d587b5faf2",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "75 following the vacancy in Ayyappankkavu",
+      "47 members , including an independent",
+      "22, while the BJP holds six"
+     ]
+    },
+    {
+     "title": "Congress burns effigy of BRS MLC Tata Madhusudhan, demands immediate dismissal from Telangana Council",
+     "url": "https://www.thehindu.com/news/national/telangana/congress-burns-effigy-of-brs-mlc-tata-madhusudhan-demand-immediate-dismissal-from-telangana-council/article71438146.ece",
+     "summary": "",
+     "published": "2026-09-07T10:22:44+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/g254cm/article71438145.ece/alternates/LANDSCAPE_1200/Effigy%20burnt%20.jpeg",
+     "licence": "linkout",
+     "id": "e2d6e4a1d053",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Monsoon Session kept on ‘ventilator’; Home Minister ‘scrambling’ for majority to get delimitation bill passed: Congress",
+     "url": "https://www.thehindu.com/news/national/monsoon-session-kept-on-ventilator-home-minister-scrambling-for-majority-to-get-delimitation-bill-passed-congress/article71438141.ece",
+     "summary": "The Lok Sabha and the Rajya Sabha were adjourned sine die on August 13",
+     "published": "2026-09-07T10:22:20+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/mlzl3u/article71438174.ece/alternates/LANDSCAPE_1200/10_Jairam_Ramesh_PC_25_08_Delhi.jpg",
+     "licence": "linkout",
+     "id": "476994e44d19",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Ernakulam Siva temple advisory panel accuses Devaswom officer of festival accounts irregularities, seeks independent audit",
+     "url": "https://www.thehindu.com/news/national/kerala/ernakulam-siva-temple-advisory-panel-accuses-devaswom-officer-of-festival-accounts-irregularities-seeks-independent-audit/article71437882.ece",
+     "summary": "",
+     "published": "2026-09-07T10:20:00+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "2ca81ce77f79",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "India news: Several dead in Delhi building collapse",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
+     "summary": "India news: Several dead in Delhi building collapse dw.com",
+     "published": "2026-09-07T07:37:44+00:00",
+     "source": "dw.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "e467bdb52621",
+     "id": "19b9477322fe",
      "category": "general",
      "category_label": "General"
     }
@@ -1479,19 +1550,19 @@
    "upsc": false,
    "items": [
     {
-     "title": "Jaguar Land Rover to cut 4,000 jobs",
+     "title": "Jaguar Land Rover to cut 4,000 jobs as it faces tough competition",
      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
      "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-     "published": "2026-09-07T09:39:17+00:00",
+     "published": "2026-09-07T10:03:06+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba1/live/1f725c70-aa9a-11f1-ab09-7f2415c9a652.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
      "id": "e09ebdd818ec",
      "category": "money",
      "category_label": "Money & scams",
      "figures": [
-      "4,000 jobs"
+      "4,000 jobs as it faces tough"
      ]
     },
     {
@@ -1540,17 +1611,23 @@
      ]
     },
     {
-     "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-     "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-     "summary": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
-     "published": "2026-09-07T08:36:25+00:00",
-     "source": "BBC News",
+     "title": "Online wills are cheaper and easier. But can a ₹499 will protect a ₹5 crore estate?",
+     "url": "https://www.livemint.com/money/personal-finance/online-wills-are-cheaper-and-easier-but-can-a-499-will-protect-a-5-crore-estate-11788771989769.html",
+     "summary": "Online platforms can help create a will for as little as ₹499, while assisted services can cost ₹30,000 or more. But the question is not just how much you pay to make a will—it is whether you have disclosed every relevant asset, established ownership correctly and planned for potential disputes.",
+     "published": "2026-09-07T09:43:01+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a295/live/6f3c1770-aa2f-11f1-bdbb-8bb5df16290b.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/MixCollage-07-Sep-2026-02-51-PM-8283_1788772904036_abdf5ac1-b282-42fe-959c-1849f42181cb_1788772915015_c44f9b7a-e46e-473d-ac9c-d79e80c502ee_fc8dd3c3-8b8c-4aca-9ee6-595e5dbd8742_1d700a8b-7bad-4e77-af0f-9c3b86168afb.jpg",
      "licence": "linkout",
-     "id": "cd252d1ead3d",
+     "id": "705244a4d527",
      "category": "money",
-     "category_label": "Money & scams"
+     "category_label": "Money & scams",
+     "figures": [
+      "₹499  will protect a ₹5",
+      "₹5 crore estate?",
+      "₹499,  while assisted services can",
+      "₹30,000  or more"
+     ]
     },
     {
      "title": "Emergency fund vs health insurance: Which should you prioritise first? Expert explains why you need both",
@@ -1580,23 +1657,6 @@
      "figures": [
       "30 years : SC protects employee’s"
      ]
-    },
-    {
-     "title": "Do you really need a credit card advisor? Here’s when the fee may be worth it",
-     "url": "https://www.livemint.com/money/personal-finance/credit-cards-rewards-advisor-portfolio-reward-points-cashback-airline-miles-hotel-points-advisory-fees-11788760364277.html",
-     "summary": "Credit card advisors promise to maximize rewards, but fees can range from ₹399 to ₹1.5 lakh. When does the extra value justify the cost—and when are you better off doing it yourself?",
-     "published": "2026-09-07T09:17:02+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/mohamed_hassan-question-g16b40b924_1280_1788767045_1788767052785_475c1c95-58e7-4a8f-990e-8de820673db6_1788767053101_49a3fcc7-f09a-4835-aef9-c3049c609462_59d8d987-69f7-4d55-9fd5-89c8671c0a39_09b080df-3136-409c-a601-055ae67224cb.png",
-     "licence": "linkout",
-     "id": "21a2b718a1bb",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "₹399  to ₹1",
-      "₹1.5 lakh"
-     ]
     }
    ]
   },
@@ -1622,9 +1682,9 @@
     {
      "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
-     "summary": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI The Guardian",
+     "summary": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI theguardian.com",
      "published": "2026-09-06T11:00:00+00:00",
-     "source": "The Guardian",
+     "source": "theguardian.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1694,19 +1754,6 @@
      "id": "36d0821ae779",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "How Samay Raina's Joke Triggered Anand Mahindra To Start A Chess League",
-     "url": "https://sports.ndtv.com/chess/how-samay-rainas-joke-triggered-anand-mahindra-to-start-a-chess-league-12012210#publisher=newsstand",
-     "summary": "Anand Mahindra credits comedian Samay Raina for inspiring the Global Chess League, a franchise-based chess tournament that began as a joke in 2020 and is now a major international event.",
-     "published": "2026-09-07T07:34:20+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/h5qprsu4_anand-mahindra-and-samay-raina-getty_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4755c813ea87",
-     "category": "sports",
-     "category_label": "Sports"
     },
     {
      "title": "India Set For First-Ever T20 Clash Against Japan Ahead of Asian Games But Broadcast A Problem",
