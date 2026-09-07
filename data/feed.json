@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T05:01:52.402489+00:00",
+ "generated_at": "2026-09-07T05:35:57.388954+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -47,10 +47,9 @@
    "label": "SILVER",
    "unit": "₹/kg",
    "value": 186702.0,
-   "change": 1474.0,
-   "changePct": 0.8,
-   "decimals": 0,
-   "stale": true
+   "change": 5958.0,
+   "changePct": 3.3,
+   "decimals": 0
   },
   {
    "key": "usdinr",
@@ -84,15 +83,15 @@
   }
  ],
  "topics": [
+  "Youth Tamil",
   "Keralam",
-  "Eight Gaza",
   "Jazeera English",
   "News",
-  "Bihar BNSS",
-  "India Bangladesh",
-  "Philippines China",
-  "Iran Strait",
-  "Volcano Indonesia",
+  "Bangladesh World",
+  "Bhotekoshi Himalayan",
+  "Mexico",
+  "Anti",
+  "Indonesia",
   "Australians"
  ],
  "sections": [
@@ -103,10 +102,24 @@
    "upsc": false,
    "items": [
     {
+     "title": "Youth killed in accident involving Tamil Nadu Minister Jagadeshwari’s car near Chennai",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/youth-killed-in-accident-involving-tamil-nadu-minister-jagadeshwaris-car-near-chennai/article71437382.ece",
+     "summary": "She was travelling in a government vehicle, followed by an escort vehicle and her personal car; the Minister’s personal car allegedly hit the two-wheeler, killing the youth on the spot; the police arrested driver Chinna Agni of Madurai",
+     "published": "2026-09-07T05:27:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/o8dhbf/article71437516.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2010.18.26.jpeg",
+     "licence": "linkout",
+     "id": "1284b9a1d2ce",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
      "title": "Keralam gym trainer arrested for allegedly drugging and sexually assaulting minor",
      "url": "https://www.thehindu.com/news/national/kerala/keralam-gym-trainer-arrested-for-allegedly-drugging-and-sexually-assaulting-minor/article71437411.ece",
      "summary": "A special squad took the accused into custody at Atholi on Sunday and recorded his arrest under sections of POCSO Act",
-     "published": "2026-09-07T04:36:02+00:00",
+     "published": "2026-09-07T05:22:33+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/news/national/kerala/grfgnj/article71437418.ece/alternates/LANDSCAPE_1200/arrest%20rep%20image.jpg",
@@ -117,35 +130,18 @@
      "from_section": "National News"
     },
     {
-     "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
-     "summary": "An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
-     "published": "2026-09-07T02:17:17+00:00",
+     "title": "Ten killed and dozens injured in Mexico fireworks blast",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
+     "summary": "Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.",
+     "published": "2026-09-07T04:56:51+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788747698.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788756990.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "bf408210e055",
+     "id": "cb8ee7c17a67",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
-    },
-    {
-     "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-     "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-     "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-     "published": "2026-09-06T08:05:22+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
-     "licence": "linkout",
-     "id": "d31b4f8c9165",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Culture",
-     "figures": [
-      "12 sentenced to death in Egypt"
-     ]
     },
     {
      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
@@ -187,7 +183,7 @@
      "id": "a5cc57db6a2f",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "6, during which they discussed"
      ]
@@ -207,18 +203,51 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
-     "summary": "Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees.",
-     "published": "2026-09-07T02:12:35+00:00",
-     "source": "Al Jazeera",
+     "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+     "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+     "summary": "Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.",
+     "published": "2026-09-06T16:32:59+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-adidas-1788747093.png?resize=1920%2C1080&quality=80",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29df/live/f5cf25f0-984e-11f0-b742-5374a6e86615.jpg",
      "licence": "linkout",
-     "id": "9d868490c82d",
+     "id": "dde4b84dfd6e",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "Business"
+    },
+    {
+     "title": "₹32 lakh cash deposit under tax scrutiny: ITAT ruling highlights why maintaining proof of money source is crucial",
+     "url": "https://www.livemint.com/money/personal-finance/32-lakh-cash-deposit-under-tax-scrutiny-itat-ruling-highlights-why-maintaining-proof-of-money-source-is-crucial-11788758174581.html",
+     "summary": "A taxpayer faced an Income Tax addition after depositing ₹32 lakh in cash during demonetisation, but the ITAT accepted ₹2.84 lakh linked to her mother-in-law’s gold sale. The ruling highlights why taxpayers need clear evidence to establish the source of cash.",
+     "published": "2026-09-07T05:29:07+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/Gemini_Generated_Image_o8kpoc8kpoco8kp_178875851_1788758532196_6a6dbfb2-a4d5-47ed-89a2-e48fa4935273_1788758532367_6f8ac524-0159-4b74-b0ca-6f0101c90f7b_c9a06324-a1c6-4b85-a2d5-c05bc14ed47c_c3d00326-9aab-454e-a73e-db13e9343ade.png",
+     "licence": "linkout",
+     "id": "99e02ec37c23",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹32 lakh cash deposit under tax",
+      "₹32 lakh in cash during demonetisation",
+      "₹2.84 lakh linked to her mother-in-law’s"
+     ]
+    },
+    {
+     "title": "Google, TCS, and the physics of air-cooling a large data centre | Explained",
+     "url": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece",
+     "summary": "Using air-cooling alone to cool a 1-GW data centre is considered impractical; while liquid-cooling imposes higher costs upfront, air-cooling imposes a performance and efficiency tax",
+     "published": "2026-09-07T05:01:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-international/miwpvu/article71409353.ece/alternates/LANDSCAPE_1200/Data-center-bacGQJGFD9O9.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "1066d577fb6b",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National Hotlines"
     },
     {
      "title": "Gold, silver prices today, 7 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
@@ -239,40 +268,18 @@
      ]
     },
     {
-     "title": "Insurance mis-selling: Retired professor gets ₹10.6 lakh; court says signatures alone don’t prove informed consent",
-     "url": "https://www.livemint.com/money/personal-finance/insurance-mis-selling-retired-professor-gets-10-6-lakh-court-says-signatures-alone-don-t-prove-informed-consent-11788747937734.html",
-     "summary": "A Hyderabad consumer commission ordered a ₹10 lakh insurance refund to a 73-year-old retired professor after finding the policy was sold without free and informed consent. The bank and insurer were also ordered to pay ₹60,000 in compensation and costs.",
-     "published": "2026-09-07T02:42:22+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/Geed_Image_l28cjcl28cjcl28c_1788748730_1788748746698_797ec4a8-c25a-4890-89ce-a39c05ed8b86_1788748746944_85e7affb-cce7-4a40-8bd2-056d4b302cd8_bed6f095-5702-4e9d-a137-35a31c90cabd_78605e40-5dad-4bd6-bdd1-e0e3cf419ee6.png",
-     "licence": "linkout",
-     "id": "e490eec7b5c9",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹10.6 lakh ; court says signatures",
-      "₹10 lakh insurance refund",
-      "₹60,000  in compensation and costs"
-     ]
-    },
-    {
-     "title": "China to pump $54bn into state banks and insurers to boost economy",
-     "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-     "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-     "published": "2026-09-07T02:26:12+00:00",
+     "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
+     "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
+     "summary": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
+     "published": "2026-09-07T01:31:41+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec15/live/7c3bfdd0-a798-11f1-b64a-71b1e45ff5c7.jpg",
      "licence": "linkout",
-     "id": "681db6f07567",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "$54bn into state banks"
-     ]
+     "id": "34c6c9d85b93",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Culture"
     },
     {
      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
@@ -289,6 +296,20 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "The Bhotekoshi flood | A Himalayan tragedy",
+     "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
+     "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
+     "published": "2026-09-07T05:27:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
+     "licence": "linkout",
+     "id": "8761981db0b3",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News"
+    },
+    {
      "title": "Jill Lepore observes the risks of artificial intelligence... Will technological development lead to a new crisis?",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSTRUV1hZRE91M0xuVnFpTVVjMG9iNS1lYnUyM2Z0cmtfT3ZvLTdnT3QtRVMxV1ljTHV1Ym0zT1RXeW5aLWdyRUtXOVZfWWt4Qk1ZNllsNDBSWUc0akxqZ1VFVWhENkpuME9jcUxuUGpkNGtPQlVic0hjVE1vc2FCVzdLSGdfbmpsZ0VESXpRZ1JZNjE0amc0ZnpUVENqdVNzdU5UUk9iWEJnN3NTNVVEOTlUVDg5QU5JUWdWajlHaG9seGh3emU1MzNUTUhtTnVMeWdmeGRETUZXeUZtSENYYmY1ZlE3THFYM3M0a3B0dC1fZjBiTjJqRUNn?oc=5",
      "summary": "Jill Lepore observes the risks of artificial intelligence... Will technological development lead to a new crisis? صوت الإمارات",
@@ -301,20 +322,6 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
-    },
-    {
-     "title": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
-     "url": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
-     "summary": "Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.",
-     "published": "2026-09-07T02:35:14+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20251209__87HR3Z4__v1__HighRes__AustraliaInternetBan-1788741598.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "254e5e8cfff9",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Global News"
     },
     {
      "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
@@ -331,24 +338,24 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: Ishan KIshan's Hundred Pivotal As East Zone Eye 500+ Total",
-     "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-day-2-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-east-zone-vs-south-zone-12011290#publisher=newsstand",
-     "summary": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: East Zone will be resuming their innings from 385/4 on Day 2 of the Duleep Trophy final against South Zone at Chepauk, Chennai.",
-     "published": "2026-09-07T02:56:59+00:00",
-     "source": "NDTV Sports",
+     "title": "AI becomes the new arms race: China warns US against technological dominance",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWx3MDJEZW1lbnNzNEZibTYydnR5NVNweXBUWlRaa0pxZi1XazJDRHVMcmZ0WkJsVVJELXR6ekFHWHZuNHFIejdXQmszNi10VGw2XzJoWUFoUlhqZm5oUm9Zc1o4ZWF6S3pDOXZGRWZ4dzFXbGdjVmVFOFZDZUpOSEc0a18zRmxpVHo4aHppRTNOUjQ1SmQ0Wjc5cmV3am1LSmRGdHhoeFhSc0luX3ZCZl9Jc1VsVDk5bm15MkhpdmIxU3prRUFMYzk1RFhtNUZpNnNXY04tVUNxMVRrQnBicklYbTlVdEw2YmwwbWNTLUzSAfYBQVVfeXFMTWQ5R0lGRVZtT2kwY1dUNGxtelR6bDZhRGVHMTNWYUZnOHJxZjBlVVE1eWxEOUhmQW9OYnFuS1p5bkM1TEk5QjU2OVdoUDQ5ZFVpZlpGaW5IN2VtU2FWV1BIc2otdTV3MTdPTDN4SlJjaVBKSXpoWEhHZUlJMWZJN1pxV194cXN4RDRBMjBxY2dkeE11Wk1pVU5VeFgzWHhpMFFPb255N2p0dElIR21xbU1QWW02anJtYlVJTGxRUVp5ZXZHWUhscV85QllGcG5UbnBDWkhBOVY5MFlEaUhYNWlIRlk1UjVpa01XaTI0VGZMM25YWS1n?oc=5",
+     "summary": "AI becomes the new arms race: China warns US against technological dominance The Times of India",
+     "published": "2026-09-06T17:57:00+00:00",
+     "source": "The Times of India",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7nf9pc1g_ishan-kishan_625x300_06_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": null,
      "licence": "linkout",
-     "id": "847fa459eac5",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
+     "id": "7b19d964283f",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
     },
     {
      "title": "‘How can my press conference damage India-Bangladesh relations? I am not so powerful,’ says Sheikh Hasina",
      "url": "https://www.thehindu.com/opinion/interview/how-can-my-press-conference-damage-india-bangladesh-relations-i-am-not-so-powerful-says-sheikh-hasina/article71435253.ece",
      "summary": "In an interview with The Hindu, Bangladesh’s former PM invokes the right to free speech and meeting party colleagues during her exile in India",
-     "published": "2026-09-07T02:34:18+00:00",
+     "published": "2026-09-07T05:21:16+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/8hbvx7/article71435844.ece/alternates/LANDSCAPE_1200/AFP__20140722__DV1828336__v2__HighRes__BritainWomenHealthRights%202.jpg",
@@ -356,41 +363,35 @@
      "id": "fb6546866d46",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "National Hotlines"
+     "from_section": "National News"
     },
     {
-     "title": "India Star Concedes 51 Runs In 4 Overs In Local T20 League, Internet Has Questions",
-     "url": "https://sports.ndtv.com/cricket/india-star-concedes-51-runs-in-4-overs-in-local-t20-league-internet-has-questions-12011194#publisher=newsstand",
-     "summary": "Arshdeep Singh was taken to the cleaners in the Sher-E-Punjab T20 Cup. The India international conceded 51 runs in 4 overs without picking up a single wicket.",
-     "published": "2026-09-07T01:47:20+00:00",
+     "title": "Shoaib Akhtar Reveals PCB's 'Real Plan' Behind Mid-Series Mass Sackings In Squad For England Tests",
+     "url": "https://sports.ndtv.com/cricket/shoaib-akhtar-reveals-pcbs-real-plan-behind-mid-series-mass-sackings-in-squad-for-england-tests-12008908#publisher=newsstand",
+     "summary": "Shoaib Akhtar surprisingly supports PCB's plan to rebuild Pakistan's cricket team with youth, saving only three pace bowlers for the future.",
+     "published": "2026-09-07T04:53:54+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/s1l3vnas_arshdeep-singh-x_625x300_07_September_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-09/22m4v3k4_shoaib-akhtar-afp_625x300_06_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4cd334c07142",
+     "id": "6ef267290639",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "51 Runs In 4 Overs",
-      "4 Overs In Local T20 League",
-      "51 runs in 4 overs without",
-      "4 overs without picking up"
-     ]
+     "from_section": "Sports"
     },
     {
-     "title": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1ld2p3NklDY2x6cVktMTlvNkI1MkFYVDF2VHhKc2lpRXczVHc5WW92cHpselR6OFZZNnZiYVVoNEVvdGVYXy1PalBkY01sS24zZVNmb2JsdGd0RlpjZXN4bnZXX1NqTlQyVzlKendtUVducTc5UVk2QTVzRE50Q19QQzdMeWoxX0ZTckI5RnVDMmo1aFI5SGtDeWN0OXhrdkNKOHFSNkd6YWMtMFZzRjY4bXh6Nl9I0gG-AUFVX3lxTFBIM25pRHNTTlJXSTBXRXEzdVFmTHJLR091ekpYMzNjeXd3TnhqZndkM0R0Wml2OGtuQ25tREpqTWJSSUxjWEdkMkRJckc0MHVhbUZVeGVva0VIdXhzVi1ET0pYcEEwM0xCVmhDMVFNMHlCNHlFamxtVDNRdlZ5RTB6aU1xeFp2b2MwZmZWM2FlWVoxUDh3bXBXUWpfc0hBNE5NQ3JWemtoaGFUMXZjVWw0bXVBNDFRSHY5dkJMS2c?oc=5",
-     "summary": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News Hindustan Times",
-     "published": "2026-09-06T05:34:57+00:00",
-     "source": "Hindustan Times",
+     "title": "Pakistan Super League To Be Moved To January In 2027 Due To IPL Clash? Report Provides Clear Answer",
+     "url": "https://sports.ndtv.com/cricket/pakistan-super-league-could-be-moved-to-january-in-2027-but-ipl-clash-is-not-the-reason-12009798#publisher=newsstand",
+     "summary": "After two seasons of clashing with the Indian Premier League (IPL), the Pakistan Super League (PSL) could be brought forward in 2027. However, the direct reason for a shift in the scheduling doesn't seem to be the clash with the IPL, but further issues on revenue and advertising.",
+     "published": "2026-09-07T04:39:30+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": null,
+     "image": "https://c.ndtvimg.com/2026-03/gh6mp97g_psl-captains_625x300_26_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "70199a50baa9",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
+     "id": "dd9a83ee8d1a",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
     }
    ]
   },
@@ -406,7 +407,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-07T05:01:38.818451+00:00",
+     "published": "2026-09-07T05:35:45.191823+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -417,7 +418,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-07T05:01:38.818463+00:00",
+     "published": "2026-09-07T05:35:45.191837+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -428,7 +429,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-07T05:01:38.818469+00:00",
+     "published": "2026-09-07T05:35:45.191840+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -439,7 +440,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-07T05:01:38.818472+00:00",
+     "published": "2026-09-07T05:35:45.191843+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -450,7 +451,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-07T05:01:38.818474+00:00",
+     "published": "2026-09-07T05:35:45.191847+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -461,21 +462,35 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-07T05:01:38.818477+00:00",
+     "published": "2026-09-07T05:35:45.191850+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "CTET 2026 LIVE Updates: Revised Exam Dates For 22nd Edition; Admit Card, City Slip Details",
-     "url": "https://www.ndtv.com/education/ctet-2026-live-updates-revised-exam-dates-for-22nd-edition-admit-card-city-slip-exam-day-rules-12008041#publisher=newsstand",
-     "summary": "CBSE CTET 2026 Live Updates: According to the prescribed test structure by the Central Board of Secondary Education, all questions in the CTET exam will be multiple choice questions.",
-     "published": "2026-09-07T02:13:04+00:00",
+     "title": "Delhi Building Collapse LIVE Updates: Basement Water, Repair Work Caused Building Collapse: Rekha Gupta",
+     "url": "https://www.ndtv.com/india-news/delhi-building-collapse-live-updates-rescue-teams-race-to-save-people-trapped-under-debris-in-satya-niketan-12008905#publisher=newsstand",
+     "summary": "Delhi Building Collapse News LIVE Updates: Satya Niketan is a densely populated area that houses a large number of students, particularly those studying at colleges in Delhi University's South Campus. The locality has several hostels and student accommodations.",
+     "published": "2026-09-07T04:22:05+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/llclr63k_ctet-2026_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/3anshqs8_rekha_625x300_06_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "69bcddf9bf34",
+     "id": "132d76d5cd97",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: South Zone Bowler Injures Ishan Kishan, His Comeback Stuns Crowd",
+     "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-day-2-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-east-zone-vs-south-zone-12011290#publisher=newsstand",
+     "summary": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: Ishan Kishan and Kumar Kushagra have resumed the proceedings for East Zone on Day 2 of the Duleep Trophy final against South Zone at Chepauk, Chennai.",
+     "published": "2026-09-07T05:04:13+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/7nf9pc1g_ishan-kishan_625x300_06_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "847fa459eac5",
      "kind": "liveblog",
      "category": "general",
      "category_label": "General"
@@ -489,17 +504,17 @@
    "upsc": false,
    "items": [
     {
-     "title": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1ld2p3NklDY2x6cVktMTlvNkI1MkFYVDF2VHhKc2lpRXczVHc5WW92cHpselR6OFZZNnZiYVVoNEVvdGVYXy1PalBkY01sS24zZVNmb2JsdGd0RlpjZXN4bnZXX1NqTlQyVzlKendtUVducTc5UVk2QTVzRE50Q19QQzdMeWoxX0ZTckI5RnVDMmo1aFI5SGtDeWN0OXhrdkNKOHFSNkd6YWMtMFZzRjY4bXh6Nl9I0gG-AUFVX3lxTFBIM25pRHNTTlJXSTBXRXEzdVFmTHJLR091ekpYMzNjeXd3TnhqZndkM0R0Wml2OGtuQ25tREpqTWJSSUxjWEdkMkRJckc0MHVhbUZVeGVva0VIdXhzVi1ET0pYcEEwM0xCVmhDMVFNMHlCNHlFamxtVDNRdlZ5RTB6aU1xeFp2b2MwZmZWM2FlWVoxUDh3bXBXUWpfc0hBNE5NQ3JWemtoaGFUMXZjVWw0bXVBNDFRSHY5dkJMS2c?oc=5",
-     "summary": "Bihar updates CBI probe ambit as per rules of BNS, BNSS | India News Hindustan Times",
-     "published": "2026-09-06T05:34:57+00:00",
-     "source": "Hindustan Times",
+     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
+     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
+     "published": "2026-09-06T09:35:30+00:00",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "70199a50baa9",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
+     "id": "44ac1cfc8520",
+     "category": "sports",
+     "category_label": "Sports"
     }
    ]
   },
@@ -510,39 +525,36 @@
    "upsc": false,
    "items": [
     {
-     "title": "Dry spell pushes temperature around 4.4°C above normal at many places in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/dry-spell-pushes-temperature-around-44c-above-normal-at-many-places-in-keralam/article71437421.ece",
-     "summary": "IMD issues heat alert warning of hot and humid conditions at isolated places in Keralam until September 8",
-     "published": "2026-09-07T04:57:10+00:00",
+     "title": "The Bhotekoshi flood | A Himalayan tragedy",
+     "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
+     "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
+     "published": "2026-09-07T05:27:42+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/xaobjt/article71437460.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2010.25.34.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
      "licence": "linkout",
-     "id": "27cd6e2be1a1",
-     "category": "general",
-     "category_label": "General"
+     "id": "8761981db0b3",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     },
     {
-     "title": "India, Bangladesh discuss cultural cooperation during ‘Nazrul Borsho’",
-     "url": "https://www.thehindu.com/news/national/india-bangladesh-discuss-cultural-cooperation-during-nazrul-borsho/article71437423.ece",
-     "summary": "Indian High Commissioner Dinesh Trivedi met Bangladesh's Cultural Affairs Minister Nitai Roy Chowdhury on September 6, during which they discussed the \"deep-rooted cultural connection\" between the peoples of the two countries",
-     "published": "2026-09-07T04:51:27+00:00",
+     "title": "Youth killed in accident involving Tamil Nadu Minister Jagadeshwari’s car near Chennai",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/youth-killed-in-accident-involving-tamil-nadu-minister-jagadeshwaris-car-near-chennai/article71437382.ece",
+     "summary": "She was travelling in a government vehicle, followed by an escort vehicle and her personal car; the Minister’s personal car allegedly hit the two-wheeler, killing the youth on the spot; the police arrested driver Chinna Agni of Madurai",
+     "published": "2026-09-07T05:27:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/iu7hl4/article71437445.ece/alternates/LANDSCAPE_1200/HRhUtMIa4AA2nLX.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/o8dhbf/article71437516.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2010.18.26.jpeg",
      "licence": "linkout",
-     "id": "a5cc57db6a2f",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "6, during which they discussed"
-     ]
+     "id": "1284b9a1d2ce",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "Keralam gym trainer arrested for allegedly drugging and sexually assaulting minor",
      "url": "https://www.thehindu.com/news/national/kerala/keralam-gym-trainer-arrested-for-allegedly-drugging-and-sexually-assaulting-minor/article71437411.ece",
      "summary": "A special squad took the accused into custody at Atholi on Sunday and recorded his arrest under sections of POCSO Act",
-     "published": "2026-09-07T04:36:02+00:00",
+     "published": "2026-09-07T05:22:33+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/news/national/kerala/grfgnj/article71437418.ece/alternates/LANDSCAPE_1200/arrest%20rep%20image.jpg",
@@ -552,31 +564,57 @@
      "category_label": "Crime"
     },
     {
-     "title": "Kochi Metro’s Pink Line stations to showcase Keralam’s cultural heritage",
-     "url": "https://www.thehindu.com/news/cities/Kochi/kochi-metros-pink-line-stations-to-showcase-keralams-cultural-heritage/article71435051.ece",
-     "summary": "Each of the 11 stations on the Kakkanad extension will feature a distinct theme rooted in the State’s art and traditions. Themes range from cartoons and handloom to Kathakali, Kalaripayattu and Theyyam.",
-     "published": "2026-09-07T04:11:03+00:00",
+     "title": "Veteran Keralam cinematographer T.N. Krishnankutty dies",
+     "url": "https://www.thehindu.com/news/national/kerala/veteran-keralam-cinematographer-tn-krishnankutty-dies/article71437498.ece",
+     "summary": "He worked in more than 70 films during his long career in Malayalam cinema",
+     "published": "2026-09-07T05:20:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/kmd0aa/article71437400.ece/alternates/LANDSCAPE_1200/Kochi-metro-neeG13GG66QE.3.jpg.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "67c050d4ce50",
+     "id": "bd9054d9dfb4",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "11 stations on the Kakkanad extension"
+      "70 films during his long career"
      ]
     },
     {
-     "title": "Women’s Promo run attracts participants in large numbers in Vijayapura",
-     "url": "https://www.thehindu.com/news/national/karnataka/womens-promo-run-attracts-a-large-number-of-girls-women/article71435195.ece",
-     "summary": "It was organised as a run-up to the Vrikshathon Heritage Run scheduled for December 13",
-     "published": "2026-09-07T03:29:23+00:00",
-     "source": "The Hindu",
+     "title": "Management Aptitude Test 2026: Last Day To Apply For Paper Based Mode",
+     "url": "https://www.ndtv.com/education/management-aptitude-test-2026-last-day-to-apply-for-paper-based-mode-12011600#publisher=newsstand",
+     "summary": "The MAT PBT registration process is closing today, September 7, 2026. Candidates must visit the official website - mat.aima.in and fill out the form.",
+     "published": "2026-09-07T04:55:38+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/1a3hdz/article71436254.ece/alternates/LANDSCAPE_1200/9727_6_9_2026_17_47_53_1_07BGMBIJAPURPROMORUN1.JPEG",
+     "image": "https://c.ndtvimg.com/2022-08/efoop2ug_online-exam-generic_625x300_07_August_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "729522297f4a",
+     "id": "474ba6de0d7f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "How Congress's Punjab Assignment For Sachin Pilot Shapes His Rajasthan Plans",
+     "url": "https://www.ndtv.com/india-news/how-congresss-punjab-challenge-for-sachin-pilot-shapes-his-rajasthan-plans-12011589#publisher=newsstand",
+     "summary": "Punjab, where the Bhagwant Mann-led Aam Aadmi Party is in power, goes to polls early next year.",
+     "published": "2026-09-07T04:51:13+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/435q9674_sachin-pilot-_625x300_07_September_26.jpeg",
+     "licence": "linkout",
+     "id": "914379eaa0cf",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Meet IIT Hyderabad Professor Kirti Chandra Sahu Decoding Raindrops, Atmospheric Conditions",
+     "url": "https://www.ndtv.com/education/meet-iit-hyderabad-professor-kirti-chandra-sahu-research-on-raindrops-atmospheric-conditions-12011506#publisher=newsstand",
+     "summary": "Sahu has made significant contributions to curriculum development, student mentoring, and academic leadership.",
+     "published": "2026-09-07T04:18:23+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/i8644bgk_sahu_625x300_07_September_26.jpeg",
+     "licence": "linkout",
+     "id": "b84eb4e4c854",
      "category": "general",
      "category_label": "General"
     },
@@ -592,60 +630,6 @@
      "id": "673cab8299fd",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "India-France Relations Have Reached \"New Heights\": PM Modi",
-     "url": "https://www.ndtv.com/world-news/india-france-relations-have-reached-new-heights-pm-modi-12010727#publisher=newsstand",
-     "summary": "PM Modi says India-France ties have reached new heights with the inauguration of Swaminarayan temple in Paris",
-     "published": "2026-09-07T02:04:23+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2024-11/h54mbnb8_pm-modi-emmanuel-macron_625x300_19_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "2ca17f1de51b",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
-     "url": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
-     "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred.",
-     "published": "2026-09-07T01:46:47+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/nosmj474_building-collapse-delhi_625x300_06_September_26.jpg",
-     "licence": "linkout",
-     "id": "1e3c5ef287f5",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Dozens feared trapped in collapsed building in Delhi",
-       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-       "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
-      }
-     ],
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "6 Dead , Several Feared Trapped",
-      "50 students were believed to be"
-     ]
-    },
-    {
-     "title": "Delhi Building That Collapsed Was 50 Years Old And Dying. Greed Revived It",
-     "url": "https://www.ndtv.com/india-news/delhi-building-that-collapsed-was-50-years-old-and-dying-greed-revived-it-12010232#publisher=newsstand",
-     "summary": "When the building collapsed, construction workers were working in the basement.",
-     "published": "2026-09-07T01:45:59+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5r5267gk_delhi_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "c1c3fe1a7933",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "50 Years Old And Dying"
-     ]
     }
    ]
   },
@@ -655,6 +639,51 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Ten killed and dozens injured in Mexico fireworks blast",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
+     "summary": "Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.",
+     "published": "2026-09-07T04:56:51+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788756990.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "cb8ee7c17a67",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Anti-immigration protesters clash with police in UK after boat arrival",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss",
+     "summary": "Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.",
+     "published": "2026-09-07T04:55:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-uk-protests-0609-1788756881.png?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "7cad3ff9a107",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "140 people arrived in UK aboard"
+     ]
+    },
+    {
+     "title": "Armed assailant attacks Ohio Democratic candidate during campaign stop",
+     "url": "https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop?traffic_source=rss",
+     "summary": "Patrick Havas, 38, arrested with weapons after injuring several at Ohio Democrat Amy Acton’s campaign stop.",
+     "published": "2026-09-07T04:53:41+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9e146d5e184-1788744813.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "797c83f99700",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "38, arrested with weapons after injuring"
+     ]
+    },
     {
      "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
@@ -680,19 +709,6 @@
      "id": "1035649f1862",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
-     "url": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
-     "summary": "Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.",
-     "published": "2026-09-07T02:35:14+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20251209__87HR3Z4__v1__HighRes__AustraliaInternetBan-1788741598.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "254e5e8cfff9",
-     "category": "tech",
-     "category_label": "AI & technology"
     },
     {
      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
@@ -745,20 +761,20 @@
    "upsc": false,
    "items": [
     {
-     "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-     "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-     "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-     "published": "2026-09-06T16:00:21+00:00",
+     "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+     "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+     "summary": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
+     "published": "2026-09-07T05:20:39+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795f/live/1420e5d0-aa72-11f1-8fb5-49eca7c7c503.jpg",
      "licence": "linkout",
-     "id": "de3874786362",
+     "id": "3fd71b033dd2",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "170,000 passengers stranded in Indonesia",
-      "170,000 airline passengers are stranded"
+      "270,000 stranded as airports extend closure",
+      "150km from the capital Jakarta"
      ]
     },
     {
@@ -801,19 +817,33 @@
      "category_label": "General"
     },
     {
-     "title": "Dozens feared trapped in collapsed building in Delhi",
+     "title": "Six dead and more feared trapped in collapsed building in Delhi",
      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-     "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
-     "published": "2026-09-06T16:54:34+00:00",
+     "summary": "Eyewitnesses say two-to-four dozen are thought to have been inside the five-storey hostel when it came down.",
+     "published": "2026-09-07T05:10:18+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg",
      "licence": "linkout",
      "id": "8888dade1bda",
      "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+     "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+     "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+     "published": "2026-09-06T16:00:21+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg",
+     "licence": "linkout",
+     "id": "de3874786362",
+     "category": "general",
      "category_label": "General",
      "figures": [
-      "50 people are thought to have"
+      "170,000 passengers stranded in Indonesia",
+      "170,000 airline passengers are stranded"
      ]
     }
    ]
@@ -825,39 +855,36 @@
    "upsc": false,
    "items": [
     {
-     "title": "Dry spell pushes temperature around 4.4°C above normal at many places in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/dry-spell-pushes-temperature-around-44c-above-normal-at-many-places-in-keralam/article71437421.ece",
-     "summary": "IMD issues heat alert warning of hot and humid conditions at isolated places in Keralam until September 8",
-     "published": "2026-09-07T04:57:10+00:00",
+     "title": "The Bhotekoshi flood | A Himalayan tragedy",
+     "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
+     "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
+     "published": "2026-09-07T05:27:42+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/xaobjt/article71437460.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2010.25.34.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
      "licence": "linkout",
-     "id": "27cd6e2be1a1",
-     "category": "general",
-     "category_label": "General"
+     "id": "8761981db0b3",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     },
     {
-     "title": "India, Bangladesh discuss cultural cooperation during ‘Nazrul Borsho’",
-     "url": "https://www.thehindu.com/news/national/india-bangladesh-discuss-cultural-cooperation-during-nazrul-borsho/article71437423.ece",
-     "summary": "Indian High Commissioner Dinesh Trivedi met Bangladesh's Cultural Affairs Minister Nitai Roy Chowdhury on September 6, during which they discussed the \"deep-rooted cultural connection\" between the peoples of the two countries",
-     "published": "2026-09-07T04:51:27+00:00",
+     "title": "Youth killed in accident involving Tamil Nadu Minister Jagadeshwari’s car near Chennai",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/youth-killed-in-accident-involving-tamil-nadu-minister-jagadeshwaris-car-near-chennai/article71437382.ece",
+     "summary": "She was travelling in a government vehicle, followed by an escort vehicle and her personal car; the Minister’s personal car allegedly hit the two-wheeler, killing the youth on the spot; the police arrested driver Chinna Agni of Madurai",
+     "published": "2026-09-07T05:27:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/iu7hl4/article71437445.ece/alternates/LANDSCAPE_1200/HRhUtMIa4AA2nLX.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/o8dhbf/article71437516.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2010.18.26.jpeg",
      "licence": "linkout",
-     "id": "a5cc57db6a2f",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "6, during which they discussed"
-     ]
+     "id": "1284b9a1d2ce",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "Keralam gym trainer arrested for allegedly drugging and sexually assaulting minor",
      "url": "https://www.thehindu.com/news/national/kerala/keralam-gym-trainer-arrested-for-allegedly-drugging-and-sexually-assaulting-minor/article71437411.ece",
      "summary": "A special squad took the accused into custody at Atholi on Sunday and recorded his arrest under sections of POCSO Act",
-     "published": "2026-09-07T04:36:02+00:00",
+     "published": "2026-09-07T05:22:33+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/news/national/kerala/grfgnj/article71437418.ece/alternates/LANDSCAPE_1200/arrest%20rep%20image.jpg",
@@ -867,37 +894,24 @@
      "category_label": "Crime"
     },
     {
-     "title": "India, China hold first Corps Commander meeting in Arunachal",
-     "url": "https://www.thehindu.com/news/national/india-china-hold-first-corps-commander-meeting-in-arunachal/article71435390.ece",
-     "summary": "Talks take place a few days before the BRICS Summit, which Xi Jinping is expected to attend, and amid reports of tension in the Taksing area of Arunachal Pradesh; the meeting indicates an expansion of the military dialogue mechanism",
-     "published": "2026-09-07T03:07:30+00:00",
+     "title": "Dry spell pushes temperatures above normal at many places in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/dry-spell-pushes-temperature-around-44c-above-normal-at-many-places-in-keralam/article71437421.ece",
+     "summary": "IMD issues heat alert warning of hot and humid conditions at isolated places in Keralam until September 8",
+     "published": "2026-09-07T05:07:55+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n20one/article71436269.ece/alternates/LANDSCAPE_1200/IMG_INDO-CHINA_HINDU_211_2_1_5MDGK8OF.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/xaobjt/article71437460.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2010.25.34.jpeg",
      "licence": "linkout",
-     "id": "713360589cbe",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Tirupati MLA urges public to install eco-friendly Ganesh idols",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirupati-mla-urges-public-to-install-eco-friendly-ganesh-idols/article71435998.ece",
-     "summary": "Mr. Srinivasulu asked the organisers to ensure that the setup and management of the pandals reflect a spirit of devotion",
-     "published": "2026-09-07T03:01:33+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/c1q6s3/article71437338.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%208.21.37%20AM.jpeg",
-     "licence": "linkout",
-     "id": "d1255543a4d0",
+     "id": "27cd6e2be1a1",
      "category": "general",
      "category_label": "General"
     },
     {
      "title": "Top news of the day: September 6, 2026",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNm83Q0JHemNveGZ5QmhPNVowZk9lUnNiRU1CSGdkV3lqMG51Wk93ZnVWbHlXSkRXYTl1azVMMmY2cDIxdGt4T1dFUjNEa2l4X1NhVWRKZTJ2cFhoR25ORm1nVHdzbWtsVHQ0VWpMY29nOXRHdjdiTGpuRkRNUFlVcF9nN0paYUJhekp1TUwtSTZCTm85c2VLV3FKUk02M0xQMnc0eHR5WDZTbUpLbGkwY0JFUGlZNEpya3lxLXRfOWNRSWFwYlc3Nk9ORG5wZFFzVEhzbjZTTWE4UlQ3Rzd1LWNVUFJsNkZMQWZTOXViWE9IMFQ0b2ctTdIB_wFBVV95cUxNeWVyZ280WjZFVkl6LW03TklhelZUNDdZenotc0pXY2hKT3AwTkRXMkVsX21ZTEMyQ0I0TFVBREthaWpqbk1yaEdtSWt0eHllMElIaUo0T2NfREI3SFpaZC1BQnoyRFdGSDNrMldEeDFWeVRiQV9kYUh2OWp6YmJ2S0xYY2NORXBveG1vWTRma25WMEh4bmoxZ3E0RlNOcmpkb0VHbHlIZTBlM2NSajVMVVk5R1c3QlVPTXJDWU14RTZtaWhfNE9sT3dPRUJzcGxLVXQ0dnpROHVqZV9vTHhZYmFUZ2xocFllQ3Nsd3l5bWU2Nm81bFA5Vno3R3NwdEk?oc=5",
-     "summary": "Top news of the day: September 6, 2026 thehindu.com",
+     "summary": "Top news of the day: September 6, 2026 The Hindu",
      "published": "2026-09-06T13:03:48+00:00",
-     "source": "thehindu.com",
+     "source": "The Hindu",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -913,6 +927,29 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 07, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63531",
+     "summary": "",
+     "published": "2026-09-07T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "929b4c3465be",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "RBI",
+       "VRRR",
+       "LAF"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Result of the 30-day Variable Rate Reverse Repo (VRRR) auction held on September 07, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63530",
@@ -993,25 +1030,6 @@
        "RBI"
       ],
       "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Auction of State Government Securities",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63526",
-     "summary": "",
-     "published": "2026-09-07T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "09f24f3c1e8c",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
      },
      "category": "general",
      "category_label": "General"
@@ -1363,6 +1381,35 @@
      ]
     },
     {
+     "title": "China to pump $54bn into state banks and insurers to boost economy",
+     "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+     "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+     "published": "2026-09-07T02:26:12+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg",
+     "licence": "linkout",
+     "id": "681db6f07567",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$54bn into state banks"
+     ]
+    },
+    {
+     "title": "Bought a flat but didn’t get promised amenities? Here's what homebuyers can do to seek justice",
+     "url": "https://www.livemint.com/money/personal-finance/bought-a-flat-but-didn-t-get-promised-amenities-heres-what-homebuyers-can-do-to-seek-justice-11788753559466.html",
+     "summary": "Misleading property advertisements can be reported to RERA by homebuyers. The process is streamlined for filing complaints online, where RERA can penalise builders for false claims. Details here.",
+     "published": "2026-09-07T05:11:50+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/RERA_picc_1788754969666_49b5e647-2ed0-409d-aa14-6de61750e4b6_1788754974243_5ce62628-ee27-4ebf-8b4f-59ee1d3f0cea_2fc5f95a-46e3-481f-9591-e18b40c26904_855f3275-31b6-4a65-a436-ee456c9ec701.jpg",
+     "licence": "linkout",
+     "id": "f0010e09be15",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Moved abroad after retirement? How NRIs can submit their life certificate without making a trip to India",
      "url": "https://www.livemint.com/money/personal-finance/moved-abroad-after-retirement-heres-how-an-nri-can-submit-their-life-certificate-without-making-a-trip-to-india-11788749888388.html",
      "summary": "EPS supports over 85 lakh individuals, many of whom may retire abroad. Pensioners must keep their Life Certificate valid. If you cannot use the digital route or appear in person to submit, here are some other options to consider.",
@@ -1388,19 +1435,6 @@
      "image": "https://www.livemint.com/lm-img/img/2026/09/06/600x338/will2_1759987707406_1759987719725_1788697686409_0170595f-3d1f-427f-b02a-1ae7dafb8275_7b505869-18fd-4a02-bb8c-59df75781655_343caa7a-6134-44c4-a9c7-7a366acc7feb.png",
      "licence": "linkout",
      "id": "02cf1e85323c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "NPS for NRIs: What happens to your account when you move abroad? PFRDA explains",
-     "url": "https://www.livemint.com/money/personal-finance/nps-for-nris-what-happens-to-your-account-when-you-move-abroad-pfrda-explains-11788749878391.html",
-     "summary": "Moving abroad does not automatically mean closing your NPS account. PFRDA allows NRIs to continue NPS Tier I through NRE or NRO accounts, but Tier II cannot be activated.",
-     "published": "2026-09-07T03:09:10+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/Gemini_Generatd_Image_7yqzi27yqzi27yqz_1788750318_1788750330177_0b48360f-8d06-49eb-8db5-2d8c0474642d_1788750330347_ead2c69b-6311-48aa-b9db-b0bbdb853187_4d325ba0-0735-4316-b2cd-43997f4af7ce_387325bb-8bd0-4e0a-a6df-1d515604dc9e.png",
-     "licence": "linkout",
-     "id": "7b468c7f084f",
      "category": "general",
      "category_label": "General"
     }
@@ -1439,6 +1473,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "Jill Lepore observes the risks of artificial intelligence... Will technological development lead to a new crisis?",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSTRUV1hZRE91M0xuVnFpTVVjMG9iNS1lYnUyM2Z0cmtfT3ZvLTdnT3QtRVMxV1ljTHV1Ym0zT1RXeW5aLWdyRUtXOVZfWWt4Qk1ZNllsNDBSWUc0akxqZ1VFVWhENkpuME9jcUxuUGpkNGtPQlVic0hjVE1vc2FCVzdLSGdfbmpsZ0VESXpRZ1JZNjE0amc0ZnpUVENqdVNzdU5UUk9iWEJnN3NTNVVEOTlUVDg5QU5JUWdWajlHaG9seGh3emU1MzNUTUhtTnVMeWdmeGRETUZXeUZtSENYYmY1ZlE3THFYM3M0a3B0dC1fZjBiTjJqRUNn?oc=5",
+     "summary": "Jill Lepore observes the risks of artificial intelligence... Will technological development lead to a new crisis? صوت الإمارات",
+     "published": "2026-09-07T04:49:11+00:00",
+     "source": "صوت الإمارات",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "ca1716ea7728",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Artificial intelligence at IMTS 2026",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnNMdWtlaXZEczRfc0dnb2NRNF9GYkJVN0tVZTZnN1NNQnlBdnRSdTB1TFJXWEpZd2hpSS1GdGs3MW9BQlZ1WEVfeU9MdUNISkktOWZmYndkdVZGajRNTG01VFl6OWpYOHRnU05raEQ4Z0N3TWNqQVd5SkdXejUtZUZINTRxY3VP?oc=5",
      "summary": "Artificial intelligence at IMTS 2026 Today's Medical Developments",
@@ -1473,67 +1520,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: Ishan KIshan's Hundred Pivotal As East Zone Eye 500+ Total",
+     "title": "'Super-Human' Carlos Alcaraz Books US Open Quarter-Final Clash With Ben Shelton",
+     "url": "https://sports.ndtv.com/tennis/super-human-alcaraz-books-us-open-quarter-final-clash-with-shelton-12011319#publisher=newsstand",
+     "summary": "Defending champion Carlos Alcaraz posted his most convincing win in his injury return at the US Open, downing Tommy Paul in straight sets on Sunday to line up a quarter-final clash with Ben Shelton.",
+     "published": "2026-09-07T05:07:46+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/969nfkuc_carlos-alcaraz-getty_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "226948ad1233",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: South Zone Bowler Injures Ishan Kishan, His Comeback Stuns Crowd",
      "url": "https://sports.ndtv.com/cricket/duleep-trophy-final-day-2-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-east-zone-vs-south-zone-12011290#publisher=newsstand",
-     "summary": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: East Zone will be resuming their innings from 385/4 on Day 2 of the Duleep Trophy final against South Zone at Chepauk, Chennai.",
-     "published": "2026-09-07T02:56:59+00:00",
+     "summary": "Duleep Trophy Final LIVE Score, East Zone vs South Zone: Ishan Kishan and Kumar Kushagra have resumed the proceedings for East Zone on Day 2 of the Duleep Trophy final against South Zone at Chepauk, Chennai.",
+     "published": "2026-09-07T05:04:13+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-09/7nf9pc1g_ishan-kishan_625x300_06_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "847fa459eac5",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Australia Name Squad For South Africa Test Tour, Out-Of-Form Batter Retains Spot",
-     "url": "https://sports.ndtv.com/cricket/australia-name-squad-for-south-africa-test-tour-out-of-form-batter-retains-spot-12011275#publisher=newsstand",
-     "summary": "The tour is the first time Australia have travelled to South Africa for a Test series since the infamous series in 2018, with just five players - skipper Pat Cummins, Josh Hazlewood, Mitchell Starc, Smith and Renshaw - having previously been included in a touring party.",
-     "published": "2026-09-07T02:54:18+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/fucjtk14_australia-test-team-afp_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a6a317972568",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Another Asia Cup Trophy Drama Likely, Mohsin Naqvi To Attend Women's Final: Report",
-     "url": "https://sports.ndtv.com/cricket/another-asia-cup-trophy-drama-likely-mohsin-naqvi-to-attend-womens-final-report-12011273#publisher=newsstand",
-     "summary": "Mohsin Naqvi could be at the centre of another trophy drama as he is set to attend the Women's Asia Cup 2026 final.",
-     "published": "2026-09-07T02:37:27+00:00",
+     "title": "Shoaib Akhtar Reveals PCB's 'Real Plan' Behind Mid-Series Mass Sackings In Squad For England Tests",
+     "url": "https://sports.ndtv.com/cricket/shoaib-akhtar-reveals-pcbs-real-plan-behind-mid-series-mass-sackings-in-squad-for-england-tests-12008908#publisher=newsstand",
+     "summary": "Shoaib Akhtar surprisingly supports PCB's plan to rebuild Pakistan's cricket team with youth, saving only three pace bowlers for the future.",
+     "published": "2026-09-07T04:53:54+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/50f18ag8_mohsin-naqvi-afp_625x300_07_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/22m4v3k4_shoaib-akhtar-afp_625x300_06_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "ab7da8863a42",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "'Victory Against India Damaged Us': Ex-Pakistan Captain Gives Bizarre Verdict",
-     "url": "https://sports.ndtv.com/cricket/victory-against-india-damaged-us-ex-pakistan-captain-gives-bizarre-verdict-12010425#publisher=newsstand",
-     "summary": "Former Pakistan cricket team skipper Mohammad Yousuf believes that the national team's current crisis resulted from one of the biggest wins in their history.",
-     "published": "2026-09-07T01:03:24+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/0dm6fng_cs_625x300_06_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e37af2e97a75",
+     "id": "6ef267290639",
      "category": "sports",
      "category_label": "Sports"
     },
     {
-     "title": "\"Don't Need Anyone Else\": Rajat Patidar's Stunning Virat Kohli Revelation After Getting RCB Captaincy",
-     "url": "https://sports.ndtv.com/cricket/dont-need-anyone-else-rajat-patidars-stunning-revelation-on-virat-kohli-after-rcb-handed-him-captaincy-12010152#publisher=newsstand",
-     "summary": "Rajat Patidar opened up on how Virat Kohli supported Royal Challengers Bengaluru's decision to make him the captain.",
-     "published": "2026-09-07T00:58:38+00:00",
+     "title": "Aryna Sabalenka Books US Open Quarter-Final Clash With Linda Noskova",
+     "url": "https://sports.ndtv.com/tennis/sabalenka-books-us-open-quarter-final-clash-with-noskova-12010802#publisher=newsstand",
+     "summary": "Two-time defending champion Aryna Sabalenka subdued American Taylor Townsend in straight sets on Sunday to book a US Open quarter-final clash with Wimbledon winner Linda Noskova.",
+     "published": "2026-09-07T04:50:22+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/j7suonv8_virat-kohli-rajat-patidar_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/m0s7k154_aryna-sabalenka-getty_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4cd8667d9f43",
+     "id": "a916e662ef3c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Frances Tiafoe Tops Daniil Medvedev In Straight Sets At US Open",
+     "url": "https://sports.ndtv.com/tennis/tiafoe-tops-medvedev-in-straight-sets-at-us-open-12011219#publisher=newsstand",
+     "summary": "American Frances Tiafoe swept past former champion Daniil Medvedev in straight sets Sunday to advance to the quarter-finals of the US Open.",
+     "published": "2026-09-07T04:36:22+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/kflf1me8_frances-tiafoe-getty_625x300_07_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3d6b25f0cd4b",
      "category": "general",
      "category_label": "General"
     }
@@ -1545,6 +1592,32 @@
    "title": "Culture",
    "upsc": false,
    "items": [
+    {
+     "title": "BBC News presenter reveals she has blood cancer",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+     "published": "2026-09-06T22:00:36+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1897/live/de970710-aa3e-11f1-88c5-8f28a3313a0e.jpg",
+     "licence": "linkout",
+     "id": "20fa99de9ab0",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
+     "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
+     "summary": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
+     "published": "2026-09-07T01:31:41+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec15/live/7c3bfdd0-a798-11f1-b64a-71b1e45ff5c7.jpg",
+     "licence": "linkout",
+     "id": "34c6c9d85b93",
+     "category": "celebrity",
+     "category_label": "Celebrity"
+    },
     {
      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
@@ -1608,6 +1681,19 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1897/live/de970710-aa3e-11f1-88c5-8f28a3313a0e.jpg",
      "licence": "linkout",
      "id": "20fa99de9ab0",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Powerlifter wins golds despite endometriosis pain",
+     "url": "https://www.bbc.co.uk/news/articles/cjrx7299901o?at_medium=RSS&at_campaign=rss",
+     "summary": "Lhamo Weston says it's important to be open about competing with endometriosis",
+     "published": "2026-09-07T05:11:21+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5459/live/a9e84c70-a7a2-11f1-a291-b542ee92de7c.jpg",
+     "licence": "linkout",
+     "id": "b8efc359b273",
      "category": "general",
      "category_label": "General"
     }
