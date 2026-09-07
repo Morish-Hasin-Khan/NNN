@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T18:04:18.910240+00:00",
+ "generated_at": "2026-09-07T18:38:31.885391+00:00",
  "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Honour Police",
   "West Bengal",
-  "Gaza Genocide",
   "Jazeera English",
   "News",
   "Delhi",
-  "Satya Niketan",
-  "India Ambassador",
-  "Board Peace",
-  "Egyptian",
-  "Indonesia"
+  "Bangladesh World",
+  "IISc FSID",
+  "Assam Bangladesh",
+  "Israel West",
+  "Thousands Ratko"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Top Honour For Goa Police As Amit Shah Presents President's Colour",
+     "url": "https://www.ndtv.com/india-news/top-honour-for-goa-police-as-amit-shah-presents-presidents-colour-12015143#publisher=newsstand",
+     "summary": "Goa Police carries a job most states don't: guard a long, exposed coast and keep millions of tourists safe, year after year, said Amit Shah",
+     "published": "2026-09-07T18:14:37+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/cm4fl72s_amit-shah_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "c2aa2473573c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "West Bengal recorded 60,000 underage institutional deliveries in first six months of 2026: CM",
      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-recorded-60000-underage-institutional-deliveries-in-first-six-months-of-2026-cm/article71439509.ece",
@@ -120,18 +134,57 @@
      ]
     },
     {
-     "title": "Gaza: Genocide in Real Time?",
-     "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-     "summary": "B'Tselem Executive Directo",
-     "published": "2026-09-07T17:23:01+00:00",
+     "title": "Man Kills Wife In Guwahati, Chops Fingers, Stores Severed Head In Fridge",
+     "url": "https://www.ndtv.com/india-news/man-kills-wife-in-guwahati-chops-fingers-stores-severed-head-in-fridge-12011932#publisher=newsstand",
+     "summary": "A woman was found dead with severed body parts in Guwahati, husband arrested after surrender.",
+     "published": "2026-09-07T17:52:58+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/mnck0tr8_guwahati-man-kills-wife_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "802fa5282c0d",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+     "summary": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+     "published": "2026-09-07T17:52:47+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788801768.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Ratko-funeral-horizontal-thumb-thumb-1788803460.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "e40470a75987",
+     "id": "fe14c37d0143",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+       "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+       "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal."
+      }
+     ],
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
+    },
+    {
+     "title": "Tigress Tranquilised After Killing 4, Dies On Way To Rescue Centre",
+     "url": "https://www.ndtv.com/india-news/tigress-tranquilised-after-killing-4-dies-on-way-to-rescue-centre-12015107#publisher=newsstand",
+     "summary": "The tigress had been terrorising parts of Amravati and Wardha districts since the middle of last month.",
+     "published": "2026-09-07T18:03:29+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/a9q6v47_tigress_625x300_07_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "30b8a6d451fe",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News",
+     "figures": [
+      "4, Dies On Way To Rescue"
+     ]
     },
     {
      "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
@@ -148,74 +201,60 @@
      "from_section": "Global News"
     },
     {
-     "title": "Israeli strikes in southern Lebanese village kill 12",
-     "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-     "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
-     "published": "2026-09-07T13:39:23+00:00",
-     "source": "BBC News",
+     "title": "CPI(M) leader P. Shanmugam condemns Vijay for ‘body shaming’ Stalin",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/p-shanmugam-condemns-vijay-for-body-shaming-stalin/article71440190.ece",
+     "summary": "He says it is against the ethics of the Assembly to use the House to eulogise individuals and launch personal attacks",
+     "published": "2026-09-07T18:18:47+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/g7k1as/article71440191.ece/alternates/LANDSCAPE_1200/Shanmugam%202.jpg",
      "licence": "linkout",
-     "id": "115206efe783",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News",
-     "figures": [
-      "12. Lebanon says a recent Israeli"
-     ]
-    },
-    {
-     "title": "\"We Dug Out Friends' Bodies\": Students Recall Delhi Building Collapse Horror",
-     "url": "https://www.ndtv.com/india-news/we-dug-out-friends-bodies-students-recall-delhi-building-collapse-horror-12014925#publisher=newsstand",
-     "summary": "Students also alleged that the incident was highlighted by student leaders only because the Delhi University Students' Union (DUSU) elections are near.",
-     "published": "2026-09-07T17:15:38+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/vs1ikgh_satya-niketan_625x300_07_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "83b36d9a9bee",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
-       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-       "summary": "It's not clear how many people were inside the building - or if there are still people under the debris."
-      }
-     ],
+     "id": "b8fe3ac70cc7",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Arambai Tenggol, village volunteers not banned organisations: Manipur CM",
-     "url": "https://www.thehindu.com/news/national/manipur/arambai-tenggol-village-volunteers-not-banned-organisations-manipur-cm/article71439834.ece",
-     "summary": "CM Yumnam Singh tells Assembly that the State has registered cases against individuals not the groups",
-     "published": "2026-09-07T17:42:48+00:00",
-     "source": "The Hindu",
+     "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+     "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+     "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+     "published": "2026-09-07T14:04:01+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/o4kl05/article71440154.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000544B.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
      "licence": "linkout",
-     "id": "6356f14bafb8",
+     "id": "826be3ecd39b",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "from_section": "Global News"
     },
     {
-     "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
-     "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
-     "summary": "President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.",
-     "published": "2026-09-07T17:31:04+00:00",
-     "source": "Al Jazeera",
+     "title": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ktM3JaWWEwSWNvZWQ2aFNWbkdVeFVvVmFUTm1QUGlmYTU3VzdMTEcwMHliZlMwM1dRdU94QjhGdktrZC1mdDFpb2ZEVlRieU0xc2xJa19Fa1dMdmhsOFN3RE9pbmNvaWhiTndRYW1IZjFPWFNoSEVPU0sxQi0ySEJyMDdIMXE0M3NaSVhUVUs2X0JzODRpX3k2RklnOXlzenBwMVlNSV93MXlqV3paN0RYYkpRWTREOUJaNWNpcTAxdTM0ZTFMc1JwV2ZmaHlsRVFhU2NVaVQ3c3lzc0FlUHJXUmFoNG1acEhGdVpLdnZSYWJOTnfSAfsBQVVfeXFMT2h2V09hTXdwbUhuZVB3bThseEtDSmtkQUhBT1cwb18tcUhtajkyNy1KUEZSN1NzZ2pMZGxEcDRTTVd0RjNvcGswa2ZJNWM0WFV3bVJnUzUzLUV2V2YyOEdZcHBuc21lVGpFQ2c3ajBHUGNVZUprQkhCNHpnekhaQ2Z1U0hQNkJSU2ctRmI3SEk0a2NqV0dodzdyR3ZDakNVNERRYWQySVBFTmF6ZXhxOHZKVVM0bEFiM21PTVg5TGpmcWxSNWFCR0ZMc3hua3VNcWZ6Nm9rdTVOZnNXbFZ5RU0wVGVyM2tzSlgwMmhRckNZZWxRelhoZlZtS3M?oc=5",
+     "summary": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption India Today",
+     "published": "2026-09-07T06:29:50+00:00",
+     "source": "India Today",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9eedda1a4d-1788800474.jpg?resize=1920%2C1440",
+     "image": null,
      "licence": "linkout",
-     "id": "32b7d0335594",
+     "id": "d7083f295a13",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News",
-     "figures": [
-      "7, rescuers search for missing soldiers"
-     ]
+     "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "Israel’s plan to split the West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss",
+     "summary": "Israel's E1 plan risks splitting the West Bank in two.",
+     "published": "2026-09-07T18:11:31+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788804644.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "9dd39fc5d4c1",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News"
     },
     {
      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
@@ -250,35 +289,18 @@
      ]
     },
     {
-     "title": "The £70 refund letter that isn't a scam",
-     "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-     "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-     "published": "2026-09-07T08:50:55+00:00",
-     "source": "BBC News",
+     "title": "Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home",
+     "url": "https://www.ndtv.com/india-news/manipur-singer-beaten-to-death-for-objecting-to-drinking-outside-delhi-home-12014965#publisher=newsstand",
+     "summary": "Vikram Singh, who belonged to the Meitei community, objected to men creating a nuisance outside his house.",
+     "published": "2026-09-07T17:24:45+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff9/live/508ded00-a78a-11f1-9bb7-af8e8fd3d806.jpg",
+     "image": "https://c.ndtvimg.com/2026-09/i2bpls9k_manipur_625x300_07_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "ec3efb343bf6",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "£70  refund letter that isn't"
-     ]
-    },
-    {
-     "title": "Gujarat to host National Film Awards ceremony for the first time",
-     "url": "https://www.thehindu.com/entertainment/national-film-awards-move-out-of-delhi-to-be-held-in-kevadia-in-gujarat/article71438536.ece",
-     "summary": "The Awards have been presented outside Delhi before – the 17th and 18th editions were held in Madras (now Chennai) in 1970 and 1971",
-     "published": "2026-09-07T17:47:18+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nriwxe/article71438551.ece/alternates/LANDSCAPE_1200/NFA_About_2-_vKXkNoL.jpg",
-     "licence": "linkout",
-     "id": "ede75ec1627d",
+     "id": "543279afb7fc",
      "category": "celebrity",
      "category_label": "Celebrity",
-     "from_section": "National Hotlines"
+     "from_section": "National News"
     },
     {
      "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
@@ -318,6 +340,14 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a01/live/36daba00-aa91-11f1-ab09-7f2415c9a652.jpg",
      "licence": "linkout",
      "id": "8888dade1bda",
+     "also": [
+      {
+       "source": "DW.com",
+       "title": "India news: Several dead in Delhi building collapse",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
+       "summary": "India news: Several dead in Delhi building collapse DW.com"
+      }
+     ],
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Global Hotline"
@@ -339,9 +369,9 @@
     {
      "title": "Third Taiwan-Paraguay Technology Forum To Focus On Artificial Intelligence",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1IydTdGNWQ2bkwyV1RsQjd6TVgtMEtzX0Q2ZjBNTTVscHM4cWtjNDhVMTY4NHFuVXd0a1ZYQ1JxYU92cXNYb1pKRHVMVzhueW85ay1QSEluTmRIZzhKb01PN3J4N0xOQUpMakdLWlpFX3dxRkxweDVXcW5wSlpzSGJVanpKSVF2UUZVbjctY0sxdG1DWWpzNDRNemxzN21uM094NUpubFUwNTl5WVZGOVBoMHVDaGczVUJWcGdJd3hSUHM?oc=5",
-     "summary": "Third Taiwan-Paraguay Technology Forum To Focus On Artificial Intelligence asunciontimes.com",
+     "summary": "Third Taiwan-Paraguay Technology Forum To Focus On Artificial Intelligence The Asunción Times",
      "published": "2026-09-07T09:54:00+00:00",
-     "source": "asunciontimes.com",
+     "source": "The Asunción Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -359,6 +389,20 @@
      "from_section": "Technology"
     },
     {
+     "title": "No special treatment for unruly customers claiming political links, says Cyberabad top cop",
+     "url": "https://www.thehindu.com/news/national/telangana/no-special-treatment-for-unruly-customers-claiming-political-links-says-cyberabad-top-cop/article71439806.ece",
+     "summary": "Cyberabad CP warns businesses over licence violations, late-night operations, minors, unruly customers, narcotics and banned hookah activities.",
+     "published": "2026-09-07T18:02:01+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/fjcb2q/article71439799.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2020.32.19.jpeg",
+     "licence": "linkout",
+     "id": "7fa345f1f06e",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News"
+    },
+    {
      "title": "IndiaAI Mission and Sweden Discuss Strategic Cooperation in Artificial Intelligence and Digitalisation under SITAC",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQXNJeU9ibVZfRGphQ25RVjdabnJEVDZXMjRsM0hmNFA5V3otSFFTMjRIYlNpTklYVi1rX1lTdTRBOTVqU19FZVFhaFFZc2RGQ3pDYnpLeEc2ZExfRkxudWU1VGYxOWczYmtiMHVkR21YU2tWODVoM1p1VU1ZdFZPUlg1WmdTVFhJSjhrMFdMSmJDcWg3NC1BTGEtUEVOSlprdno4czBoM0ZYRFdGX0ROV3ZNU2E1ODRfRWJGckJFYWRKWjFyZHd2Y2dIb0k0MW9LWFFmYmZYVE1QLVF0NGFGbGNZam1hZm5ZLWc?oc=5",
      "summary": "IndiaAI Mission and Sweden Discuss Strategic Cooperation in Artificial Intelligence and Digitalisation under SITAC Hindudayashankar",
@@ -368,20 +412,6 @@
      "image": null,
      "licence": "linkout",
      "id": "cb8ac5b9ecf9",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Artificial Intelligence, Technology, Robot, Futuristic, Data Science, Data Analytics, Quantum Computing",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPenNKNlY1WlhYRXVhRXdxbi1MaTR0bUkxU0dpbExWcnZwVUxzaExHb2k1ZDFxSDVXTVVXckh6SmlSQVFHQ1dmYzJuTXlDNlRteC1EM3BGcHhJTW1fc2dONmFYdVdWZm1UZktFTVk4MUVpaVZ5b1RJaUNSNmtsNnRiVHhMNFJneHBTbGdaYXVkTS1lclY1MWNSSDZQZmx1dDNNbE45Q2s2bHJRVGVNYThsSGV2U1hJQlc3OW40WGs4UFVuZnU0cjF1RURUQ2RqVkx0MkF2bEtzVnNyYU9sZUhkNThObEhuYVNkM3pLeQ?oc=5",
-     "summary": "Artificial Intelligence, Technology, Robot, Futuristic, Data Science, Data Analytics, Quantum Computing governmentnews.com.au",
-     "published": "2026-09-07T14:03:16+00:00",
-     "source": "governmentnews.com.au",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "23912be0b0cd",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -427,37 +457,6 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
-    },
-    {
-     "title": "CJP's 7 demands after Satya Niketan tragedy: ‘Probe PG mafia, build government hostels’ | India News",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeGNBRXlINGNnT3BCNkMwS2YyRjVCNmlzNnhGZGtxbUpPN0dpenpqRmhsSFZHa01XTG45SVBnODJpdmpYMi1wUjVHNjhLMGRZVXhoVXJKRHNxbDNiYlVqd1gyZHJqZjN3M0pMcVp2OUlFWld3ZXpZMldnZFRHaGdDQ2FaM2RKRFZ6TFFfWG11WnNQRkJHUVhDMWw1LWV3b19PaFJrOTFmXzhSVXVpTW11RjRieUNBcmp5ZVUwdlgyMkhGWmdUREgxN2QwWXhrVkgtNExmMWdwSWVwcEdsbmRvOGJiSlFCaHhqcExsOXBCQldzTXUxTjlPcW9zbVRVVVlUakRORUtCT0VwSEFEUEHSAZMCQVVfeXFMT3NuY09qV3B1R0lMYVdHNk9iV0JKd2VBakY1aUx3RHRjeGtjeGZSLV8tUGo3MFp6TUVmeEJqSjdlSzdMTmE1am9aVzF0ZTJsZmFPOUNoSW5QVWFiZU9waTBkakFzOThGZ0Z6bklhU0hJd2hxUVZ3UTBDYnBXMUxseUl1NDZuZnlWMFhQRnM4R2U5anBDZmdCTjhaRUZHTHdIa1VlaXBPSmNuUzV1dU5qbUhIelJDVXRVdnRXZXlsUlM3SGo3bEptb2dneTg5NUtaTUpkcUx0M19sQ0pXbXU0RDBmdENlLTJ1M2dYNU9jdHBEZlhhdkI3bkJUam9IZ2MxVmJaZXMxbktoLUFRcFlyazZXams?oc=5",
-     "summary": "CJP's 7 demands after Satya Niketan tragedy: ‘Probe PG mafia, build government hostels’ | India News Hindustan Times",
-     "published": "2026-09-07T14:44:39+00:00",
-     "source": "Hindustan Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9bb73ccd42ff",
-     "also": [
-      {
-       "source": "News On AIR",
-       "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
-      },
-      {
-       "source": "dw.com",
-       "title": "India news: Several dead in Delhi building collapse",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
-       "summary": "India news: Several dead in Delhi building collapse dw.com"
-      }
-     ],
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations",
-     "figures": [
-      "7 demands after Satya Niketan tragedy"
-     ]
     }
    ]
   },
@@ -473,7 +472,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-07T18:04:05.024699+00:00",
+     "published": "2026-09-07T18:38:17.699703+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -484,7 +483,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-07T18:04:05.024711+00:00",
+     "published": "2026-09-07T18:38:17.699726+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -495,7 +494,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-07T18:04:05.024713+00:00",
+     "published": "2026-09-07T18:38:17.699730+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -506,7 +505,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-07T18:04:05.024715+00:00",
+     "published": "2026-09-07T18:38:17.699734+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -517,7 +516,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-07T18:04:05.024717+00:00",
+     "published": "2026-09-07T18:38:17.699738+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -528,7 +527,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-07T18:04:05.024718+00:00",
+     "published": "2026-09-07T18:38:17.699742+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -569,36 +568,6 @@
      "category_label": "General"
     },
     {
-     "title": "CJP's 7 demands after Satya Niketan tragedy: ‘Probe PG mafia, build government hostels’ | India News",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeGNBRXlINGNnT3BCNkMwS2YyRjVCNmlzNnhGZGtxbUpPN0dpenpqRmhsSFZHa01XTG45SVBnODJpdmpYMi1wUjVHNjhLMGRZVXhoVXJKRHNxbDNiYlVqd1gyZHJqZjN3M0pMcVp2OUlFWld3ZXpZMldnZFRHaGdDQ2FaM2RKRFZ6TFFfWG11WnNQRkJHUVhDMWw1LWV3b19PaFJrOTFmXzhSVXVpTW11RjRieUNBcmp5ZVUwdlgyMkhGWmdUREgxN2QwWXhrVkgtNExmMWdwSWVwcEdsbmRvOGJiSlFCaHhqcExsOXBCQldzTXUxTjlPcW9zbVRVVVlUakRORUtCT0VwSEFEUEHSAZMCQVVfeXFMT3NuY09qV3B1R0lMYVdHNk9iV0JKd2VBakY1aUx3RHRjeGtjeGZSLV8tUGo3MFp6TUVmeEJqSjdlSzdMTmE1am9aVzF0ZTJsZmFPOUNoSW5QVWFiZU9waTBkakFzOThGZ0Z6bklhU0hJd2hxUVZ3UTBDYnBXMUxseUl1NDZuZnlWMFhQRnM4R2U5anBDZmdCTjhaRUZHTHdIa1VlaXBPSmNuUzV1dU5qbUhIelJDVXRVdnRXZXlsUlM3SGo3bEptb2dneTg5NUtaTUpkcUx0M19sQ0pXbXU0RDBmdENlLTJ1M2dYNU9jdHBEZlhhdkI3bkJUam9IZ2MxVmJaZXMxbktoLUFRcFlyazZXams?oc=5",
-     "summary": "CJP's 7 demands after Satya Niketan tragedy: ‘Probe PG mafia, build government hostels’ | India News Hindustan Times",
-     "published": "2026-09-07T14:44:39+00:00",
-     "source": "Hindustan Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9bb73ccd42ff",
-     "also": [
-      {
-       "source": "News On AIR",
-       "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-       "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
-      },
-      {
-       "source": "dw.com",
-       "title": "India news: Several dead in Delhi building collapse",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
-       "summary": "India news: Several dead in Delhi building collapse dw.com"
-      }
-     ],
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "figures": [
-      "7 demands after Satya Niketan tragedy"
-     ]
-    },
-    {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
      "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
@@ -633,129 +602,66 @@
    "upsc": false,
    "items": [
     {
-     "title": "West Bengal recorded 60,000 underage institutional deliveries in first six months of 2026: CM",
-     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-recorded-60000-underage-institutional-deliveries-in-first-six-months-of-2026-cm/article71439509.ece",
-     "summary": "Suvendu Adhikari says arrests will made in cases of child marriage, and the benefits of State and Central scheme will be stopped to such families",
-     "published": "2026-09-07T17:53:27+00:00",
+     "title": "IISc-based FSID to undertake 1,000 industry projects, build a portfolio of 300 deep-tech start-ups by 2030",
+     "url": "https://www.thehindu.com/news/national/karnataka/iisc-based-fsid-to-undertake-1000-industry-projects-build-a-portfolio-of-300-deep-tech-start-ups-by-2030/article71440043.ece",
+     "summary": "",
+     "published": "2026-09-07T18:26:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xn8ytq/article71440180.ece/alternates/LANDSCAPE_1200/West-Bengal-forGLLGG50NJ.5.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/r1r4x0/article71440207.ece/alternates/LANDSCAPE_1200/IMG_2069.jpeg",
      "licence": "linkout",
-     "id": "29f9e72d0571",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "60,000 underage institutional deliveries in first"
-     ]
-    },
-    {
-     "title": "U.S-India space ties move from cooperation to co-creation: Ambassador Gor",
-     "url": "https://www.thehindu.com/news/national/karnataka/us-india-space-ties-move-from-cooperation-to-co-creation-ambassador-gor/article71439969.ece",
-     "summary": "The chemistry of partnership between Australia and India is unique: Australian High Commissioner to India Philp Green",
-     "published": "2026-09-07T17:52:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/v1lwy/article71440112.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000317B.jpg",
-     "licence": "linkout",
-     "id": "2078856fa461",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "North Chennai residents seek Metro Rail connectivity via Perambur, better sanitation, and water supply facilities",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/north-chennai-residents-seek-metro-rail-connectivity-via-perambur-better-sanitation-and-water-supply-facilities/article71435532.ece",
-     "summary": "These demands were consolidated into a study report at a public meeting organised by Federation of North Chennai Residents’ Welfare Associations",
-     "published": "2026-09-07T17:52:22+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1vzgas/article71435541.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%2017.02.20.jpeg",
-     "licence": "linkout",
-     "id": "3a386985775b",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Karnataka High Court orders tech-driven overhaul to manage finance and assets of temples",
-     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-tech-driven-overhaul-to-manage-finance-and-assets-of-temples/article71439310.ece",
-     "summary": "The High Court of Karnataka has issued a series of directions aimed at bringing transparency and preventing financial mismanagement in all temples controlled by the Hindu Religious Institutions and Charitable Endowments Department",
-     "published": "2026-09-07T17:52:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rjeaov/article71439687.ece/alternates/LANDSCAPE_1200/9727_13_7_2023_19_47_30_3_14BGMSAUNDATTIHUNDICOUNTING1.JPEG",
-     "licence": "linkout",
-     "id": "232e4b23081e",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "West Bengal CM urges Durga Puja committees to give up State support, announces restrictions",
-     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-urges-durga-puja-committees-to-give-up-state-support-announces-restrictions/article71439839.ece",
-     "summary": "No Durga Puja inauguration will be allowed before Mahalaya, marking the beginning of the auspicious Devi Paksha, and the government will not organise a carnival this year, Suvendu Adhikari says",
-     "published": "2026-09-07T17:51:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ewqm2m/article71440172.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000448B.jpg",
-     "licence": "linkout",
-     "id": "fa79aa9de50c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "After Sanjay Dutt's Marathi Quip, Former Prisons Chief Recalls His Jail Days",
-     "url": "https://www.ndtv.com/india-news/amid-marathi-row-ex-cop-says-sanjay-dutt-learnt-this-language-in-jail-12014780#publisher=newsstand",
-     "summary": "Sanjay Dutt said that despite being in jail for six years in Pune's Yerwada jail, he couldn't learn Marathi.",
-     "published": "2026-09-07T17:16:37+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/om1v27q4_sanjay-dutt_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "831fd46e7977",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Delhi Survey Tagged 27 Houses As 'Dangerous'. One That Collapsed Not On List",
-     "url": "https://www.ndtv.com/india-news/delhi-building-collapse-delhi-survey-tagged-27-houses-as-dangerous-one-that-collapsed-not-on-list-12014848#publisher=newsstand",
-     "summary": "According to the MCD's post-collapse assessment, there was no sanctioned building plan, the basement construction was unauthorised, and the property did not have a Fire NOC.",
-     "published": "2026-09-07T16:52:37+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/969c5t1g_datafy_625x300_07_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e0f3ce5dcfbc",
+     "id": "f3934c10e497",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "27 Houses As 'Dangerous'"
+      "1,000 industry projects, build a portfolio",
+      "300 deep -tech start-ups by 2030"
      ]
     },
     {
-     "title": "Ground Report | High Rent, Congestion: In Delhi's Satya Niketan Where Sunlight Is A Luxury",
-     "url": "https://www.ndtv.com/india-news/high-rent-congestion-in-delhis-satya-niketan-where-sunlight-is-a-luxury-12014355#publisher=newsstand",
-     "summary": "The civic infrastructure in Delhi's Satya Niketan hasn't caught up with the pace of development and appears to be crumbling under the weight of the influx of tenants and the greed of landlords.",
-     "published": "2026-09-07T16:41:05+00:00",
-     "source": "NDTV",
+     "title": "Assam told to pay ₹2 lakh to husband of woman pushed into Bangladesh",
+     "url": "https://www.thehindu.com/news/national/assam/assam-told-to-pay-2-lakh-to-husband-of-woman-pushed-into-bangladesh/article71439149.ece",
+     "summary": "The Gauhati High Court took serious exception to the way a Foreigners’ Tribunal in Nagaon handled Mumtaz Begum’s case; the court impleaded the Ministry of External Affairs in the case and advised it to “make an endeavour to have the woman located in Bangladesh and to expatriate her to India”.",
+     "published": "2026-09-07T18:26:01+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/894vtvkc_rent_625x300_07_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/fgt6kb/article71440187.ece/alternates/LANDSCAPE_1200/IMG_FL_-_INDIA_CITIZENS__2_1_I090D65T.jpg",
      "licence": "linkout",
-     "id": "b5d7a4f3b43b",
+     "id": "ae8714253a44",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "₹2 lakh to husband of woman"
+     ]
     },
     {
-     "title": "Nandigram Bypoll On October 6. Suvendu Adhikari Had Vacated This Seat",
-     "url": "https://www.ndtv.com/india-news/nandigram-bypoll-on-october-6-suvendu-adhikari-had-vacated-this-seat-12014752#publisher=newsstand",
-     "summary": "The by-polls have been necessitated after Chief Minister Suvendu Adhikari and AJUP founder Humayun Kabir vacated the Nandigram and Rejinagar seats, respectively.",
-     "published": "2026-09-07T16:27:27+00:00",
+     "title": "CPI(M) leader P. Shanmugam condemns Vijay for ‘body shaming’ Stalin",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/p-shanmugam-condemns-vijay-for-body-shaming-stalin/article71440190.ece",
+     "summary": "He says it is against the ethics of the Assembly to use the House to eulogise individuals and launch personal attacks",
+     "published": "2026-09-07T18:18:47+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/g7k1as/article71440191.ece/alternates/LANDSCAPE_1200/Shanmugam%202.jpg",
+     "licence": "linkout",
+     "id": "b8fe3ac70cc7",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "3 Killed, 3 Critical After Motorcycles Collide Head-On In Tripura's Sabroom",
+     "url": "https://www.ndtv.com/india-news/3-killed-3-critical-after-motorcycles-collide-head-on-in-tripuras-sabroom-12014954#publisher=newsstand",
+     "summary": "The accident occurred on the Sabroom-Agartala National Highway near the Dasharath Deb Memorial School in the Satchand area.",
+     "published": "2026-09-07T17:20:46+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-05/bomf2ubk_suvendu-adhikari_625x300_26_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2024-11/uqtdb6a_accident-generic_625x300_11_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "aedcfbd0b0f8",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "03ea81d646ce",
+     "category": "crime",
+     "category_label": "Crime",
      "figures": [
-      "6. Suvendu Adhikari Had Vacated This"
+      "3 Killed , 3 Critical",
+      "3 Critical After Motorcycles Collide Head-On"
      ]
     }
    ]
@@ -766,6 +672,40 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Israel’s plan to split the West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss",
+     "summary": "Israel's E1 plan risks splitting the West Bank in two.",
+     "published": "2026-09-07T18:11:31+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788804644.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "9dd39fc5d4c1",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+     "summary": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+     "published": "2026-09-07T17:52:47+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Ratko-funeral-horizontal-thumb-thumb-1788803460.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "fe14c37d0143",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+       "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+       "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
     {
      "title": "Board of Peace touts progress as Palestinians’ situation worsens",
      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
@@ -806,17 +746,20 @@
      "category_label": "General"
     },
     {
-     "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-     "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-     "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-     "published": "2026-09-07T14:04:01+00:00",
+     "title": "Israeli strikes in southern Lebanese village kill 12",
+     "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+     "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+     "published": "2026-09-07T13:39:23+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
      "licence": "linkout",
-     "id": "826be3ecd39b",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "115206efe783",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "12. Lebanon says a recent Israeli"
+     ]
     },
     {
      "title": "Investigators begin work on why cargo plane overran Miami runway",
@@ -920,20 +863,50 @@
    "upsc": false,
    "items": [
     {
-     "title": "West Bengal recorded 60,000 underage institutional deliveries in first six months of 2026: CM",
-     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-recorded-60000-underage-institutional-deliveries-in-first-six-months-of-2026-cm/article71439509.ece",
-     "summary": "Suvendu Adhikari says arrests will made in cases of child marriage, and the benefits of State and Central scheme will be stopped to such families",
-     "published": "2026-09-07T17:53:27+00:00",
+     "title": "IISc-based FSID to undertake 1,000 industry projects, build a portfolio of 300 deep-tech start-ups by 2030",
+     "url": "https://www.thehindu.com/news/national/karnataka/iisc-based-fsid-to-undertake-1000-industry-projects-build-a-portfolio-of-300-deep-tech-start-ups-by-2030/article71440043.ece",
+     "summary": "",
+     "published": "2026-09-07T18:26:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xn8ytq/article71440180.ece/alternates/LANDSCAPE_1200/West-Bengal-forGLLGG50NJ.5.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/r1r4x0/article71440207.ece/alternates/LANDSCAPE_1200/IMG_2069.jpeg",
      "licence": "linkout",
-     "id": "29f9e72d0571",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "f3934c10e497",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "60,000 underage institutional deliveries in first"
+      "1,000 industry projects, build a portfolio",
+      "300 deep -tech start-ups by 2030"
      ]
+    },
+    {
+     "title": "Assam told to pay ₹2 lakh to husband of woman pushed into Bangladesh",
+     "url": "https://www.thehindu.com/news/national/assam/assam-told-to-pay-2-lakh-to-husband-of-woman-pushed-into-bangladesh/article71439149.ece",
+     "summary": "The Gauhati High Court took serious exception to the way a Foreigners’ Tribunal in Nagaon handled Mumtaz Begum’s case; the court impleaded the Ministry of External Affairs in the case and advised it to “make an endeavour to have the woman located in Bangladesh and to expatriate her to India”.",
+     "published": "2026-09-07T18:26:01+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/fgt6kb/article71440187.ece/alternates/LANDSCAPE_1200/IMG_FL_-_INDIA_CITIZENS__2_1_I090D65T.jpg",
+     "licence": "linkout",
+     "id": "ae8714253a44",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "₹2 lakh to husband of woman"
+     ]
+    },
+    {
+     "title": "CPI(M) leader P. Shanmugam condemns Vijay for ‘body shaming’ Stalin",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/p-shanmugam-condemns-vijay-for-body-shaming-stalin/article71440190.ece",
+     "summary": "He says it is against the ethics of the Assembly to use the House to eulogise individuals and launch personal attacks",
+     "published": "2026-09-07T18:18:47+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/g7k1as/article71440191.ece/alternates/LANDSCAPE_1200/Shanmugam%202.jpg",
+     "licence": "linkout",
+     "id": "b8fe3ac70cc7",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "U.S-India space ties move from cooperation to co-creation: Ambassador Gor",
@@ -962,21 +935,17 @@
      "category_label": "General"
     },
     {
-     "title": "LPG booking interval for rural consumers cut to 25 days from 45",
-     "url": "https://www.thehindu.com/news/national/oil-ministry-lpg-booking-interval-rural-urban-areas-suresh-gopi/article71438250.ece",
-     "summary": "This brings the interval between bookings for rural consumers on par with urban consumers, for whom the period remains unchanged at 25 days",
-     "published": "2026-09-07T17:44:52+00:00",
+     "title": "Karnataka High Court orders tech-driven overhaul to manage finance and assets of temples",
+     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-tech-driven-overhaul-to-manage-finance-and-assets-of-temples/article71439310.ece",
+     "summary": "The High Court of Karnataka has issued a series of directions aimed at bringing transparency and preventing financial mismanagement in all temples controlled by the Hindu Religious Institutions and Charitable Endowments Department",
+     "published": "2026-09-07T17:52:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7ie0lu/article71352099.ece/alternates/LANDSCAPE_1200/20260801220L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/rjeaov/article71439687.ece/alternates/LANDSCAPE_1200/9727_13_7_2023_19_47_30_3_14BGMSAUNDATTIHUNDICOUNTING1.JPEG",
      "licence": "linkout",
-     "id": "cf930d3710dc",
+     "id": "232e4b23081e",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "25 days from 45",
-      "45. This brings the interval between"
-     ]
+     "category_label": "General"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -994,9 +963,9 @@
     {
      "title": "India news: Several dead in Delhi building collapse",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
-     "summary": "India news: Several dead in Delhi building collapse dw.com",
+     "summary": "India news: Several dead in Delhi building collapse DW.com",
      "published": "2026-09-07T10:58:38+00:00",
-     "source": "dw.com",
+     "source": "DW.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1171,6 +1140,129 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "When the tap runs dry: Women carry more than water in Kazakhstan",
+     "url": "https://globalvoices.org/2026/09/07/when-the-tap-runs-dry-women-carry-more-than-water-in-kazakhstan/",
+     "summary": "When a woman learns to calculate the value of her time and says, “This is evidence, and they must answer,” a permanent shift takes place for her and the community.",
+     "published": "2026-09-07T18:12:45+00:00",
+     "source": "Global Voices",
+     "byline": "GV Central Asia and Caucasus",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/09/Ajgul-Serikova-800x450.jpg",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "Rural women in Kazakhstan work 10 to 15 hours per day, most of it uncounted and unpaid"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "Ajgul Serikova, a resident of Uzunkol district of Kostanai region in northern Kazakhstan, collects as much water as she can before the taps run dry. Image via Central Asian Bureau for Analytical Reporting (CABAR.asia). Fair use."
+      },
+      {
+       "kind": "p",
+       "text": "This article was produced by Nazgul Aidabossynova from Kazakhstan through the Digital Spark granting scheme, as part of the Regional Support Mechanism EECA project, implemented by the Metamorphosis Foundation and TechSoup, in partnership with CIVICUS and under the Digital Democracy Initiative (DDI) that covers the Global South. It is being published on Global Voices as part of a content-sharing agreement."
+      },
+      {
+       "kind": "p",
+       "text": "In the village of Qyzylsay, southern Kazakhstan, the water disappears every afternoon. This is not a metaphor. By noon, the pipes literally go dry."
+      },
+      {
+       "kind": "p",
+       "text": "Women wake before dawn to fill every container they own. Then they wait for the water to return. And while they wait, they carry buckets to gardens, feed livestock, take children to school, and shoulder an invisible mountain of labor that nobody counts, nobody pays for, and nobody sees. Ten women decided to change that."
+      },
+      {
+       "kind": "h",
+       "text": "The problem nobody counted"
+      },
+      {
+       "kind": "p",
+       "text": "Qyzylsay sits in one of the hottest corners of Kazakhstan. Summers here now break records that old-timers say didn’t exist 20 years ago. According to Kazakhstan’s own data, water losses reach 40–60 percent in rural areas. Many rural areas also lack adequate sanitation infrastructure, according to research from The Borgen Project, so even when there is water, it isn’t always safe to drink. For the women of Qyzylsay, this is not a statistic. It is the silence of an empty tap at midday."
+      },
+      {
+       "kind": "p",
+       "text": "In June 2026, UN Women released its landmark report “Progress of the World’s Women 2026: Gender Equality in the Age of Climate Crisis.” It stated plainly what women in Qyzylsay already knew in their bones. You cannot build sustainable agriculture, or any sustainable future, without integrating the “care economy” into climate and agricultural planning."
+      },
+      {
+       "kind": "p",
+       "text": "Rural women bear the heaviest burden of energy shortages, physical labor, and livestock care. The result is that they have almost no time to learn, to earn, or to organize."
+      },
+      {
+       "kind": "p",
+       "text": "Natalia Solntseva fills a bucket to water her grandmother’s garden in Koksai, Almaty region. Central Asian Bureau for Analytical Reporting. (CABAR.asia). Fair use."
+      },
+      {
+       "kind": "p",
+       "text": "Rural women in Kazakhstan work 10 to 15 hours per day, most of it uncounted and unpaid. In Qyzylsay, that labor includes waking at 4 a.m. on irrigation days to stand in a field for five hours watching water flow through irrigation channels. If you miss your turn to water, your garden dies. Five hours, three times a week: Forty to 60 hours a month, trapped in one of the lowest-value tasks imaginable."
+      },
+      {
+       "kind": "h",
+       "text": "A phone that does more than WhatsApp"
+      },
+      {
+       "kind": "p",
+       "text": "My name is Nazgul, and from May to June 2026, I led four trainings for women in Qyzylsay under a project called “Digital Voice of Qyzylsay Women.” The premise was simple: Most women in this community already had smartphones. What they lacked was the knowledge that those phones could do more than send messages. We started with the basics: Reminders for livestock care, farm diaries with photographs, and training on the eGov app, which lets you request official government documents without traveling to the city."
+      },
+      {
+       "kind": "p",
+       "text": "For women who had stood in queues for hours at government offices just to get a birth certificate, this was not a convenience. It was a revelation. Then we moved to water."
+      },
+      {
+       "kind": "h",
+       "text": "Evidence that cannot be ignored"
+      },
+      {
+       "kind": "p",
+       "text": "A tap in rural Kazakhstan releasing murky, brown water. Image via Central Asian Bureau for Analytical Reporting (CABAR.asia). Fair use."
+      },
+      {
+       "kind": "p",
+       "text": "Training 2 was called “Smart Water: When Your Garden Tells You It’s Thirsty.” We taught participants how to photograph water problems, such as dry canals, broken pipes, and contaminated sources, with automatic timestamps. We called these “Water Problem Cards.” A photo without metadata is an opinion. A photo with GPS coordinates, a date, and a description is evidence. We talked about Kazakhstan’s water rights in plain language, not legal jargon. Most of the women had never heard that access to clean water is not a favor from the local government, but a legal right."
+      },
+      {
+       "kind": "p",
+       "text": "One of the participants said: “I always thought they ignored us because they could. Now I know they ignore us because we don’t have proof. So now we’ll have proof.”"
+      },
+      {
+       "kind": "h",
+       "text": "The number that changed everything"
+      },
+      {
+       "kind": "p",
+       "text": "Training 3 hit hardest. We sat together and calculated the true cost of one liter of milk — including the woman’s own time at a minimum wage rate. The room went quiet when participants realized they were subsidizing their buyers. They were running charities, not businesses. We also calculated what smart irrigation automation could return: 60 hours per month. Sixty hours that could be used for market trips, online courses, rest, or civic participation. At KZT 500 (USD 1.09) per hour, that is KZT 30,000 (USD 65.17) over one growing season — enough to pay back a shared automated pump system."
+      },
+      {
+       "kind": "p",
+       "text": "By Training 4, the conversation had shifted. We were no longer talking about individual phones. We were talking about collective power."
+      },
+      {
+       "kind": "p",
+       "text": "The most important outcome of these four months was not digital literacy. It was trust. The women participants who had worked alongside each other for years decided to form a cooperative. It has multiple founding purposes: to collectively address the village’s water supply crisis through documented work, organized advocacy, shared smart irrigation infrastructure, and to make women’s labor economically and civically visible."
+      },
+      {
+       "kind": "h",
+       "text": "What comes next"
+      },
+      {
+       "kind": "p",
+       "text": "The cascade model from Training 4 is already underway: Three participants have begun teaching neighbors what they learned during our trainings."
+      },
+      {
+       "kind": "p",
+       "text": "The cooperative is going to apply for a joint grant to install a shared smart well system. The project’s more long-lasting change is harder to measure. When a woman learns to calculate the value of her time, holds up a photograph and says, “This is evidence, and they must answer,” a permanent shift takes place for her individually and the community. The water in Qyzylsay still disappears every afternoon. But the women who carry it have found their voice."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "416263bff2a1",
+     "category": "human",
+     "category_label": "Human interest",
+     "figures": [
+      "15 hours per day, most"
+     ]
     },
     {
      "title": "Reforms on Malaysia’s ‘draconian’ Peaceful Assembly Act encounter further delays",
@@ -1483,6 +1575,22 @@
      "category_label": "General"
     },
     {
+     "title": "The £70 refund letter that isn't a scam",
+     "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+     "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+     "published": "2026-09-07T08:50:55+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff9/live/508ded00-a78a-11f1-9bb7-af8e8fd3d806.jpg",
+     "licence": "linkout",
+     "id": "ec3efb343bf6",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "£70  refund letter that isn't"
+     ]
+    },
+    {
      "title": "Only 20 of 320 active fund managers have 10+ years of experience: Why investors should look beyond past returns",
      "url": "https://www.livemint.com/money/personal-finance/only-20-of-320-active-fund-managers-have-10-years-of-experience-why-investors-should-look-beyond-past-returns-11788799689124.html",
      "summary": "Mutual funds often come with 10- or even 20-year performance histories, but the manager currently making investment decisions may have been running the scheme for much less time. A September 2026 analysis found average manager tenure below three years across every equity-fund category.",
@@ -1619,6 +1727,19 @@
      "image": null,
      "licence": "linkout",
      "id": "08455f202f6e",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Artificial Intelligence, Technology, Robot, Futuristic, Data Science, Data Analytics, Quantum Computing",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPenNKNlY1WlhYRXVhRXdxbi1MaTR0bUkxU0dpbExWcnZwVUxzaExHb2k1ZDFxSDVXTVVXckh6SmlSQVFHQ1dmYzJuTXlDNlRteC1EM3BGcHhJTW1fc2dONmFYdVdWZm1UZktFTVk4MUVpaVZ5b1RJaUNSNmtsNnRiVHhMNFJneHBTbGdaYXVkTS1lclY1MWNSSDZQZmx1dDNNbE45Q2s2bHJRVGVNYThsSGV2U1hJQlc3OW40WGs4UFVuZnU0cjF1RURUQ2RqVkx0MkF2bEtzVnNyYU9sZUhkNThObEhuYVNkM3pLeQ?oc=5",
+     "summary": "Artificial Intelligence, Technology, Robot, Futuristic, Data Science, Data Analytics, Quantum Computing governmentnews.com.au",
+     "published": "2026-09-07T14:03:16+00:00",
+     "source": "governmentnews.com.au",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "23912be0b0cd",
      "category": "tech",
      "category_label": "AI & technology"
     }
