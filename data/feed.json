@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-07T22:02:09.031200+00:00",
- "podcasts_fetched_at": "2026-09-05T22:31:38.986844+00:00",
+ "generated_at": "2026-09-07T22:33:46.521347+00:00",
+ "podcasts_fetched_at": "2026-09-07T22:33:33.021373+00:00",
  "markets": [
   {
    "key": "sensex",
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Flight Amazon",
   "Palestinian",
-  "Eknath Shinde",
   "Jazeera English",
   "News",
   "Delhi",
   "Satya Niketan",
+  "Sanjay Kumar",
   "Uttar Pradesh",
   "Iran Strait",
-  "Indian Ganges",
-  "Indonesia"
+  "Indian Ganges"
  ],
  "sections": [
   {
@@ -102,6 +102,23 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+     "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+     "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+     "published": "2026-09-07T22:23:03+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
+     "licence": "linkout",
+     "id": "c0fa9c1f63e8",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "300 overshot the runway at Miami"
+     ]
+    },
     {
      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
@@ -129,20 +146,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
-    },
-    {
-     "title": "Two bike riders killed, one injured in separate accidents in Keralam’s Kochi",
-     "url": "https://www.thehindu.com/news/national/kerala/two-bike-riders-killed-one-injured-in-separate-accidents-in-keralams-kochi/article71438510.ece",
-     "summary": "",
-     "published": "2026-09-07T19:52:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "9d3f741dc1ff",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
     },
     {
      "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
@@ -470,10 +473,10 @@
        "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
       },
       {
-       "source": "dw.com",
+       "source": "DW.com",
        "title": "India news: Several dead in Delhi building collapse",
        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
-       "summary": "India news: Several dead in Delhi building collapse dw.com"
+       "summary": "India news: Several dead in Delhi building collapse DW.com"
       }
      ],
      "category": "mystery",
@@ -497,7 +500,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-07T22:01:55.841056+00:00",
+     "published": "2026-09-07T22:33:33.020786+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -508,7 +511,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-07T22:01:55.841075+00:00",
+     "published": "2026-09-07T22:33:33.020803+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -519,7 +522,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-07T22:01:55.841079+00:00",
+     "published": "2026-09-07T22:33:33.020813+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -530,7 +533,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-07T22:01:55.841082+00:00",
+     "published": "2026-09-07T22:33:33.020818+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -541,7 +544,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-07T22:01:55.841085+00:00",
+     "published": "2026-09-07T22:33:33.020823+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -552,7 +555,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-07T22:01:55.841088+00:00",
+     "published": "2026-09-07T22:33:33.020829+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -618,10 +621,10 @@
        "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR"
       },
       {
-       "source": "dw.com",
+       "source": "DW.com",
        "title": "India news: Several dead in Delhi building collapse",
        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
-       "summary": "India news: Several dead in Delhi building collapse dw.com"
+       "summary": "India news: Several dead in Delhi building collapse DW.com"
       }
      ],
      "category": "mystery",
@@ -651,6 +654,19 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Sanjay Kumar Agrawal sworn in as Rajasthan HC Chief Justice",
+     "url": "https://www.thehindu.com/news/national/rajasthan/sanjay-kumar-agrawal-sworn-in-as-rajasthan-hc-chief-justice/article71439110.ece",
+     "summary": "Justice Agrawal’s appointment in Rajasthan comes amid a controversy surrounding Justice Sanjeev Prakash Sharma, who had been serving as the High Court’s Acting Chief Justice since September 2025.",
+     "published": "2026-09-07T22:03:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/m74hz1/article71440418.ece/alternates/LANDSCAPE_1200/20260907273L.jpg",
+     "licence": "linkout",
+     "id": "afae85b7e011",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Uttar Pradesh Congress president Ajay Rai, others detained as row over Saharanpur mosque demolition escalates",
      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-president-ajay-rai-others-detained-as-row-over-saharanpur-mosque-demolition-escalates/article71439412.ece",
@@ -696,22 +712,6 @@
       "4 contained 8,28,906 electors",
       "32,280 more names were removed",
       "39,243 voters were added, resulting"
-     ]
-    },
-    {
-     "title": "Civil Services foundation course on hold as candidates wait for word from Centre",
-     "url": "https://www.thehindu.com/news/national/civil-services-foundation-course-on-hold-as-candidates-wait-for-word-from-centre/article71438930.ece",
-     "summary": "Centre has moved SC asking permission for the DoPT to allocate services without implementing the court’s March 11 Rohith Nathan judgment",
-     "published": "2026-09-07T20:25:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/latest-news/5w3r7f/article71440280.ece/alternates/LANDSCAPE_1200/Lal%20Bahadur%20Shastri%20National%20Academy%20of%20Administration.jpg",
-     "licence": "linkout",
-     "id": "2ceca9f9f7fb",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "11 Rohith Nathan judgment"
      ]
     },
     {
@@ -831,22 +831,6 @@
      "id": "1997efead42d",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-     "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-     "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-     "published": "2026-09-07T15:27:50+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
-     "licence": "linkout",
-     "id": "615743774397",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "£26 m to settle claims"
-     ]
     }
    ]
   },
@@ -921,6 +905,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Sanjay Kumar Agrawal sworn in as Rajasthan HC Chief Justice",
+     "url": "https://www.thehindu.com/news/national/rajasthan/sanjay-kumar-agrawal-sworn-in-as-rajasthan-hc-chief-justice/article71439110.ece",
+     "summary": "Justice Agrawal’s appointment in Rajasthan comes amid a controversy surrounding Justice Sanjeev Prakash Sharma, who had been serving as the High Court’s Acting Chief Justice since September 2025.",
+     "published": "2026-09-07T22:03:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/m74hz1/article71440418.ece/alternates/LANDSCAPE_1200/20260907273L.jpg",
+     "licence": "linkout",
+     "id": "afae85b7e011",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Uttar Pradesh Congress president Ajay Rai, others detained as row over Saharanpur mosque demolition escalates",
      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-president-ajay-rai-others-detained-as-row-over-saharanpur-mosque-demolition-escalates/article71439412.ece",
      "summary": "The Congress described the police action as dictatorship, adding the administration is working on the directions of the Bharatiya Janata Party (BJP) government to silence the voices of opposition.",
@@ -947,36 +944,31 @@
      "category_label": "Crime"
     },
     {
-     "title": "Mizoram electoral rolls see 78,442 deletions, 39,243 additions after SIR; final count at 8.35 lakh",
-     "url": "https://www.thehindu.com/news/national/mizoram/mizoram-electoral-rolls-see-78442-deletions-39243-additions-after-sir-final-count-at-835-lakh/article71440012.ece",
-     "summary": "\"The draft electoral rolls published on July 4 contained 8,28,906 electors. During the claims and objections period, which ended on 2 September, 32,280 more names were removed while 39,243 voters were added, resulting in a net increase of 6,963 electors or 0.84% from the draft rolls, in the final rolls,\" Chief Electoral Officer Garima Gupta said",
-     "published": "2026-09-07T20:45:14+00:00",
+     "title": "Civil Services foundation course on hold as candidates wait for word from Centre",
+     "url": "https://www.thehindu.com/news/national/civil-services-foundation-course-on-hold-as-candidates-wait-for-word-from-centre/article71438930.ece",
+     "summary": "Centre has moved SC asking permission for the DoPT to allocate services without implementing the court’s March 11 Rohith Nathan judgment",
+     "published": "2026-09-07T20:25:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/latest-news/5w3r7f/article71440280.ece/alternates/LANDSCAPE_1200/Lal%20Bahadur%20Shastri%20National%20Academy%20of%20Administration.jpg",
      "licence": "linkout",
-     "id": "ccb790a37128",
+     "id": "2ceca9f9f7fb",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "78,442 deletions , 39,243 additions",
-      "39,243 additions after SIR; final count",
-      "8.35 lakh",
-      "4 contained 8,28,906 electors",
-      "32,280 more names were removed",
-      "39,243 voters were added, resulting"
+      "11 Rohith Nathan judgment"
      ]
     },
     {
-     "title": "Student from Alappuzha arrested in Ernakulam college morphing case",
-     "url": "https://www.thehindu.com/news/national/kerala/student-from-alappuzha-arrested-in-ernakulam-college-morphing-case/article71439590.ece",
-     "summary": "The youth was part of a Telegram group that included Sreehari V.S., a second-year BBA student of the college in Ernakulam, who was arrested earlier in the case, say police",
-     "published": "2026-09-07T19:48:39+00:00",
+     "title": "Two bike riders killed, one injured in separate accidents in Keralam’s Kochi",
+     "url": "https://www.thehindu.com/news/national/kerala/two-bike-riders-killed-one-injured-in-separate-accidents-in-keralams-kochi/article71438510.ece",
+     "summary": "",
+     "published": "2026-09-07T19:52:17+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "a42063cafc7e",
+     "id": "9d3f741dc1ff",
      "category": "crime",
      "category_label": "Crime"
     },
@@ -996,9 +988,9 @@
     {
      "title": "India news: Several dead in Delhi building collapse",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
-     "summary": "India news: Several dead in Delhi building collapse dw.com",
+     "summary": "India news: Several dead in Delhi building collapse DW.com",
      "published": "2026-09-07T08:17:06+00:00",
-     "source": "dw.com",
+     "source": "DW.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1405,53 +1397,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Clancy trial ends in deadlock",
-     "url": "http://www.bbc.co.uk/programmes/p0p83fvf",
-     "summary": "After a week of deliberation, jurors have failed to reach a unanimous verdict in the trial of Lindsay Clancy, the Massachusetts mother accused of murdering her three young children. The 12-person jury was made up of nine women and three men and was reportedly split 11 to one. Ms Clancy doesn’t deny killing her children but says she was suffering from postpartum psychosis at the time. The court will reconvene at the end of the month to decide what happens next. Also: a Russian drone has struck the headquarters of Ukraine’s security service, the SBU, in central Kyiv; OpenAI hijacks a German website, raising questions around AI safety; the UN General Assembly passes a resolution to replace the traditional world map with one that more accurately reflects the size of Africa; Houthi fighters and pro-government forces in Yemen battle each other in some of the worst clashes in years; Naomi Osaka has urged social media influencers attending the US Open to respect tennis \"etiquette\"; and as Giorgia Meloni celebrates her government becoming the longest-serving in Italy's postwar history, we hear why she has outlasted her predecessors. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert…",
-     "published": "2026-09-05T03:52:00+00:00",
+     "title": "Merz: Germany faces a \"tectonic shift\" after AfD victory",
+     "url": "http://www.bbc.co.uk/programmes/p0p8f710",
+     "summary": "Friedrich Merz says the decisive win in the eastern state of Saxony-Anhalt by the far-right Alternative for Germany, AfD, signals the need for a major reckoning. The AfD's national co-leader, Alice Weidel, says it's aiming to win at least forty per cent in the next general election. Also: the funeral of the Bosnian Serb war criminal, General Ratko Mladić, has gone ahead in the Serbian capital, Belgrade, where some people consider him a national hero. The Lebanese president, Joseph Aoun, has warned of a \"dangerous escalation\" by Israel after women and children were killed in an air strike on a residential building in southern Lebanon. A new film about the most important weather forecast in British history, which gave the go-ahead for D-Day on the sixth June 1944, is released in the UK. And the BBC speaks to the 13-year-old who has written a symphony warning about the challenges posed by artificial intelligence. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get…",
+     "published": "2026-09-07T15:35:00+00:00",
      "source": "BBC Global News Podcast",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p83gf1.jpg",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p8f721.jpg",
      "licence": "linkout",
      "kind": "podcast",
      "show": "BBC Global News Podcast",
      "show_url": "https://www.bbc.co.uk/programmes/p02nq0gn",
-     "id": "abe80d68e1f4"
+     "id": "c85d92f91ee9"
     },
     {
-     "title": "In Our Time",
-     "url": "https://www.bbc.co.uk/programmes/b006qykl",
-     "summary": "BBC — history and ideas",
-     "source": "In Our Time",
-     "published": "2026-09-05T22:31:31.460017+00:00",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0m1q0kc.jpg",
-     "licence": "linkout",
-     "kind": "show",
-     "show": "In Our Time",
-     "show_url": "https://www.bbc.co.uk/programmes/b006qykl",
-     "id": "0f339c61b8bb"
-    },
-    {
-     "title": "The Intelligence",
-     "url": "https://shows.acast.com/theintelligencepodcast",
-     "summary": "The Economist, daily",
+     "title": "All right on the night: AfD’s victory",
+     "url": "https://shows.acast.com/theintelligencepodcast/episodes/all-right-on-the-night-afds-victory",
+     "summary": "Alternative for Germany won an even larger share of the vote than expected in yesterday’s state election. What does the far-right nationalist party’s success mean for Germany and Europe? The climate case for limiting vapour trails from aeroplanes. And why South Korean youths are turning to Buddhism . Guests and host: Tom Nuttall, Berlin bureau chief Oliver Morton, planetary affairs editor Soobin Kim, Korea writer Rosie Blau, co-host of “The Intelligence” Topics covered: AfD, Alternative for Germany, Alternative für Deutschland contrails, aviation, climate science South Korea, Buddhism Listen to what matters most, from global politics and business to science and technology— subscribe to The Economist . Hosted on Acast. See acast.com/privacy for more information.",
+     "published": "2026-09-07T09:35:47+00:00",
      "source": "The Intelligence",
-     "published": "2026-09-05T22:31:31.288399+00:00",
      "byline": "",
-     "image": "https://open-images.acast.com/shows/62e286a934d4d93d6587424a/1784634926736-00c7d25b-3e89-4367-a4e1-f7a47693dbeb.jpeg?height=315",
+     "image": "https://open-images.acast.com/shows/62e286a934d4d93d6587424a/1788773515775-ca884b19-73e2-461d-b596-28155fbcbe36.jpeg?height=315",
      "licence": "linkout",
-     "kind": "show",
+     "kind": "podcast",
      "show": "The Intelligence",
      "show_url": "https://shows.acast.com/theintelligencepodcast",
-     "id": "b88bdce8fa3e"
+     "id": "d8557f11aa1c"
+    },
+    {
+     "title": "In Our Time Returns for a New Series",
+     "url": "http://www.bbc.co.uk/programmes/p0p8cg68",
+     "summary": "In Our Time returns for a new series with host Misha Glenny. A world class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Time archive, originally presented by Melvyn Bragg. Recent episodes have featured topics as wide-ranging as the Roman Arena, Handel's Messiah, John Keats, On Liberty and the Mariana Trench, bringing expert insight to pivotal events, influential thinkers and remarkable discoveries. Throughout the archive, you can hear discussions on historical figures such as Marie Antoinette, Nefertiti, Mary Wollstonecraft, Karl Marx and Albert Einstein; explore great works of literature such as Shakespeare’s Hamlet, Nineteen Eighty-Four, Alice's Adventures in Wonderland and the poetry of John Donne; uncover the stories behind cultural masterpieces including Van Gogh's Sunflowers and Michelangelo's Sistine Chapel; or journey from Jupiter and the death of stars, to the theories of Plato and Aristotle. In Our Time celebrates the pursuit of knowledge and the enduring power of ideas. A BBC Studios Production.",
+     "published": "2026-09-07T09:15:00+00:00",
+     "source": "In Our Time",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p7k696.jpg",
+     "licence": "linkout",
+     "kind": "podcast",
+     "show": "In Our Time",
+     "show_url": "https://www.bbc.co.uk/programmes/b006qykl",
+     "id": "dbb04f5c6584"
+    },
+    {
+     "title": "Historic win for far-right in Germany",
+     "url": "http://www.bbc.co.uk/programmes/p0p8b9hf",
+     "summary": "Germany's Alternative for Germany (AfD) party is heading for a dramatic victory in the eastern state of Saxony-Anhalt, far ahead of its mainstream rivals. Although it is projected to fall short of a majority, the AfD says it has won a mandate to govern. Commentators and political opponents speak of the outcome as a watershed and break with the past. No far-right party has won control of a German state since World War Two. Also: Ukraine's President Volodymyr Zelensky says he expects the war with Russia to continue into the winter, following talks with Donald Trump's top envoys in Kyiv. The BBC investigates the claim that individuals working for the Saudi government may have been involved in the 9/11 attacks. Iran warns of \"a faster, heavier, and more painful response\" to US attacks, as hostilities between the two sides escalate. At least five people have been killed and five others injured after a cargo plane sped off a runway at Miami International Airport. Portugal gives festival-goers wristbands that can instantly detect the date-rape drug GHB. We look at how Nigeria's problems with mass abductions from schools are affecting children's access to education. A volcanic eruption in Indonesia disrupts thousands of flights, and how sleep tracking can actually make your sleep worse. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for…",
+     "published": "2026-09-07T04:18:00+00:00",
+     "source": "BBC Global News Podcast",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p8b9hr.jpg",
+     "licence": "linkout",
+     "kind": "podcast",
+     "show": "BBC Global News Podcast",
+     "show_url": "https://www.bbc.co.uk/programmes/p02nq0gn",
+     "id": "d2c7f8cb61bf"
     },
     {
      "title": "Al Jazeera Podcasts",
      "url": "https://www.aljazeera.com/podcasts/",
      "summary": "The Take and others",
      "source": "Al Jazeera Podcasts",
-     "published": "2026-09-05T22:31:32.882159+00:00",
+     "published": "2026-09-07T22:33:25.991307+00:00",
      "byline": "",
      "image": "https://www.omnycontent.com/d/programs/9c074afa-3313-47e8-b802-a9f900789975/162e23ca-cdc2-49a0-b237-b47700b53a7c/image.jpg?t=1784721640&size=Small",
      "licence": "linkout",
@@ -1465,7 +1471,7 @@
      "url": "https://www.theguardian.com/news/series/todayinfocus",
      "summary": "The Guardian, daily",
      "source": "Today in Focus",
-     "published": "2026-09-05T22:31:31.617174+00:00",
+     "published": "2026-09-07T22:33:24.315349+00:00",
      "byline": "",
      "image": "https://i.guim.co.uk/img/media/4c85abb174c68555842108292cbc66659566b096/1_0_2499_2000/master/2499.jpg?width=465&dpr=1&s=none&crop=5%3A4",
      "licence": "linkout",
@@ -1479,7 +1485,7 @@
      "url": "https://www.youtube.com/@ANIPodcastwithSmitaPrakash",
      "summary": "Long-form interviews — politics, policy, foreign affairs",
      "source": "ANI Podcast with Smita Prakash",
-     "published": "2026-09-05T22:31:30.857462+00:00",
+     "published": "2026-09-07T22:33:23.897212+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1493,7 +1499,7 @@
      "url": "https://www.youtube.com/@CarvakaPodcast",
      "summary": "Kushal Mehra — philosophy, Indic thought, debate",
      "source": "The Cārvāka Podcast",
-     "published": "2026-09-05T22:31:30.857776+00:00",
+     "published": "2026-09-07T22:33:23.897490+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1507,7 +1513,7 @@
      "url": "https://www.youtube.com/results?search_query=The+Bigger+Picture+Podcast",
      "summary": "Set the exact channel URL in PODCAST_SOURCES",
      "source": "The Bigger Picture Podcast",
-     "published": "2026-09-05T22:31:30.857800+00:00",
+     "published": "2026-09-07T22:33:23.897504+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1521,7 +1527,7 @@
      "url": "https://www.youtube.com/@AjeetBharti",
      "summary": "Commentary and long-form discussion",
      "source": "Ajeet Bharti",
-     "published": "2026-09-05T22:31:30.857911+00:00",
+     "published": "2026-09-07T22:33:23.897758+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1529,20 +1535,6 @@
      "show": "Ajeet Bharti",
      "show_url": "https://www.youtube.com/@AjeetBharti",
      "id": "accc0ef3373c"
-    },
-    {
-     "title": "PBD Podcast",
-     "url": "https://www.youtube.com/@PBDPodcast",
-     "summary": "Valuetainment — business and current affairs",
-     "source": "PBD Podcast",
-     "published": "2026-09-05T22:31:30.857923+00:00",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "kind": "show",
-     "show": "PBD Podcast",
-     "show_url": "https://www.youtube.com/@PBDPodcast",
-     "id": "39db7ac74cb5"
     }
    ]
   },
