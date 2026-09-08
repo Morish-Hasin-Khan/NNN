@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T19:34:04.139471+00:00",
+ "generated_at": "2026-09-08T20:02:13.208998+00:00",
  "podcasts_fetched_at": "2026-09-07T22:33:33.021373+00:00",
  "markets": [
   {
@@ -49,7 +49,8 @@
    "value": 186106.0,
    "change": 5068.0,
    "changePct": 2.8,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -84,15 +85,15 @@
  ],
  "topics": [
   "Philippine China",
-  "Tension Shyam",
+  "Death Penalty",
   "Jazeera English",
   "News",
   "Orangutans India",
   "Satya Niketan",
-  "INDIA Odisha",
-  "Windergy India",
-  "Does",
-  "North Korea"
+  "Chlorine Madhya",
+  "Andhra Pradesh",
+  "Spanish",
+  "Sabalenka Noskova"
  ],
  "sections": [
   {
@@ -116,23 +117,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "Tension as police raid Shyam Institute, case against Director Shyam, 20 students in Kakinada",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/tension-as-police-raid-shyam-institute-case-against-director-shyam-20-students-in-kakinada/article71443752.ece",
-     "summary": "",
-     "published": "2026-09-08T19:19:29+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "4fe74808e9c7",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines",
-     "figures": [
-      "20 students in Kakinada"
-     ]
-    },
-    {
      "title": "Death Penalty For 1, Jail For 2 In 2022 Tamil Nadu Minor Gang-Rape Case",
      "url": "https://www.ndtv.com/india-news/death-penalty-for-1-jail-for-2-in-2022-tamil-nadu-minor-gang-rape-case-12020094#publisher=newsstand",
      "summary": "The court has now sentenced Chinnakutty to death, while Muneeswaran has been awarded 13 years' imprisonment and Murugesan 20 years' imprisonment.",
@@ -152,6 +136,23 @@
      ]
     },
     {
+     "title": "Who Was Rakesh Mehta? Sheila Dikshit's Top Official During Commonwealth Games",
+     "url": "https://www.ndtv.com/india-news/who-was-delhi-chief-secretary-rakesh-mehta-sheila-dikshits-top-official-during-commonwealth-games-12020075#publisher=newsstand",
+     "summary": "Noida police recovered an alleged suicide note in which Mehta, a 1975-batch former IAS officer, cited his \"mental and health issues\" as reasons behind the step. His body was found at his Sector 82 residence in Noida on the same day, police said.",
+     "published": "2026-09-08T17:50:00+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/4oss8la4_sheila-dikshit-rakesh-mehta_625x300_08_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "366e7a8dbe90",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "82 residence in Noida"
+     ]
+    },
+    {
      "title": "China and Qatar are strengthening bilateral ties: What that really means",
      "url": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss",
      "summary": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
@@ -161,20 +162,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9fe2127493-1788862994.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "b44c65df6560",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
-     "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
-     "summary": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss 'a proposal to end the war'.",
-     "published": "2026-09-08T18:31:30+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP25227746137658-1770118170.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "63c57b027b47",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -197,20 +184,34 @@
      ]
     },
     {
-     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
-     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
-     "summary": "At Bhubaneswar convention, Opposition alliance says mineral resources belong to the people of the State; demands protection of Odisha’s rights over its mineral resources, land and forests",
-     "published": "2026-09-08T19:31:17+00:00",
+     "title": "Does Artificial Intelligence Change the Nature of War?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1ZudWg1ZHloMDBiWEE5Sl9lV3RWX2ctZDRGT3dhc0tvNm84ZkdyTWh0R1UxTHdCNTRSeWVYVmt2NDNyY2oxSmxXSVBTOEptLWw0U0hGaDhkQm9hUEQ0SXlDS1NYZV9tcTR6Q05jWTc4eFFtejBuTDJZN3RaNWlQTHhhQWhvUzRFUUJ3UlRiQm5jSV9OMnpMTWtYXzlSYW9qSkgtZkY1TmN5c0RhNUJ6SDFBeTRnTzJqVlE0?oc=5",
+     "summary": "Does Artificial Intelligence Change the Nature of War? ifri.org",
+     "published": "2026-09-08T10:00:46+00:00",
+     "source": "ifri.org",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "9c38637c2359",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Technology"
+    },
+    {
+     "title": "Monthly assistance for ex-servicemen, widows to be raised to ₹6,000, says Minister",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/monthly-assistance-for-ex-servicemen-widows-to-be-raised-to-6000-says-minister/article71443037.ece",
+     "summary": "Speaking in the Assembly, he says digital kiosks will be installed at the Secretariat and Collectorates to enable the public to access government services",
+     "published": "2026-09-08T19:32:29+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "4eefb4ed9860",
+     "id": "c26f3600ccf1",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News",
      "figures": [
-      "29 over new mining law"
+      "₹6,000,  says Minister"
      ]
     },
     {
@@ -242,6 +243,23 @@
      "from_section": "National News"
     },
     {
+     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
+     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
+     "summary": "Mineral-rich States like Odisha stand to lose enormous revenues, running into lakhs of crores of rupees with Centre preventing the recovery of previously uncollected taxes, cess and arrears, they allege",
+     "published": "2026-09-08T19:36:47+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ryio47/article71444500.ece/alternates/LANDSCAPE_1200/a44e41a7-182e-455b-803e-320da94a8ed0.jpg",
+     "licence": "linkout",
+     "id": "4eefb4ed9860",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "29 over new mining law"
+     ]
+    },
+    {
      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
@@ -270,23 +288,6 @@
      "from_section": "Business",
      "figures": [
       "5 ways Indian investors can gain"
-     ]
-    },
-    {
-     "title": "Glastonbury confirms ticket sale dates - and highest ever price",
-     "url": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&at_campaign=rss",
-     "summary": "The festival will return in June after taking a fallow year, but tickets have topped £400 for the first time.",
-     "published": "2026-09-08T18:10:14+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ac/live/f6644600-abab-11f1-8e72-a346833ed029.jpg",
-     "licence": "linkout",
-     "id": "9fa7de94a8d8",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Culture",
-     "figures": [
-      "£400  for the first time"
      ]
     },
     {
@@ -329,7 +330,7 @@
      "id": "688b6a95cca0",
      "category": "weather",
      "category_label": "Weather & disaster",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "The U.S. accuses Chinese AI companies of stealing artificial intelligence technology on an industrial scale",
@@ -341,20 +342,6 @@
      "image": null,
      "licence": "linkout",
      "id": "7dbbd062d0f7",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajNfSzNaU3NFemppNUtHZmtYTTdhMHZBVjBOVWIyaXoybjlUV1dBcENJNkZIRmpQQWRSOWJ3eDVRLTNpM2lFVVJvemlTVXd0d0dydVc1ZElGNm0tUHlxSnlDTHY0YU53Qlk4dmFSVGR4Mk9OT0dVTmdiWjJMZldjUHd2VXk0U3JzVXM0VTJFRnc5a2pwZVdNNA?oc=5",
-     "summary": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor Investor's Business Daily",
-     "published": "2026-09-08T12:31:00+00:00",
-     "source": "Investor's Business Daily",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "b69cf82b1c96",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -372,6 +359,20 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
+    },
+    {
+     "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+     "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+     "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+     "published": "2026-09-08T09:17:48+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/503e/live/149a0c90-ab66-11f1-aed2-8d6da8d75094.jpg",
+     "licence": "linkout",
+     "id": "5422e75d3f3d",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Business"
     },
     {
      "title": "Vaibhav Sooryavanshi's Captaincy Instincts Shine With DRS Call As East Zone Bags Crucial Breakthroughs In Duleep Trophy Final",
@@ -405,10 +406,10 @@
        "summary": "Satya Niketan Collapse: 7 DU Students Dead, Delhi Govt Orders Structural Audit of PGs - India Today India Today"
       },
       {
-       "source": "The Tribune",
+       "source": "tribuneindia.com",
        "title": "Delhi Govt orders safety audit of PG hubs within a week",
        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUc5bDdKNmJRS3gxM0ZFcjIySXBEeGFzTTY1N3lDOE1fOS0wX0ZXOUpIdHZWZ09ITkxQczZGSVRkSm54ejNibVRtM3RTQmlqd0pqbVprczc4cEdaenF6LU13MnBycnpuaWE3Z1NFam9IS3ZxaU5qWXY4blBMSjZfeWRIVFh1aElFenhyS25KQU5aYXhIYS1DcnVaQm3SAaABQVVfeXFMTWhTZGI0YVVlRnd4aHYwSUlhUlo2NEcwRE8wazZRYURfSjczMFlsNVRGdDNIaFpuOXVXWHR6NFBIM1RPNjJZTG8ydGFTWFllYjhTQTZBdjVPYkZacGNNdUNsR0pnMXBxOE0tRHN3RlpWQkc1OTM5dTM0WThXSUgzMDlhUnBrOUdGYlhSZVJoOTlGT2h3VWc5SzdNaTJMU1RwNw?oc=5",
-       "summary": "Delhi Govt orders safety audit of PG hubs within a week The Tribune"
+       "summary": "Delhi Govt orders safety audit of PG hubs within a week tribuneindia.com"
       },
       {
        "source": "The Indian Express",
@@ -435,7 +436,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-08T19:33:52.460615+00:00",
+     "published": "2026-09-08T20:01:59.618833+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -446,7 +447,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-08T19:33:52.460633+00:00",
+     "published": "2026-09-08T20:01:59.618846+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -457,7 +458,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-08T19:33:52.460637+00:00",
+     "published": "2026-09-08T20:01:59.618849+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -468,7 +469,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-08T19:33:52.460640+00:00",
+     "published": "2026-09-08T20:01:59.618854+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -479,7 +480,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-08T19:33:52.460643+00:00",
+     "published": "2026-09-08T20:01:59.618857+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -490,7 +491,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-08T19:33:52.460651+00:00",
+     "published": "2026-09-08T20:01:59.618862+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -521,10 +522,10 @@
        "summary": "Satya Niketan Collapse: 7 DU Students Dead, Delhi Govt Orders Structural Audit of PGs - India Today India Today"
       },
       {
-       "source": "The Tribune",
+       "source": "tribuneindia.com",
        "title": "Delhi Govt orders safety audit of PG hubs within a week",
        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUc5bDdKNmJRS3gxM0ZFcjIySXBEeGFzTTY1N3lDOE1fOS0wX0ZXOUpIdHZWZ09ITkxQczZGSVRkSm54ejNibVRtM3RTQmlqd0pqbVprczc4cEdaenF6LU13MnBycnpuaWE3Z1NFam9IS3ZxaU5qWXY4blBMSjZfeWRIVFh1aElFenhyS25KQU5aYXhIYS1DcnVaQm3SAaABQVVfeXFMTWhTZGI0YVVlRnd4aHYwSUlhUlo2NEcwRE8wazZRYURfSjczMFlsNVRGdDNIaFpuOXVXWHR6NFBIM1RPNjJZTG8ydGFTWFllYjhTQTZBdjVPYkZacGNNdUNsR0pnMXBxOE0tRHN3RlpWQkc1OTM5dTM0WThXSUgzMDlhUnBrOUdGYlhSZVJoOTlGT2h3VWc5SzdNaTJMU1RwNw?oc=5",
-       "summary": "Delhi Govt orders safety audit of PG hubs within a week The Tribune"
+       "summary": "Delhi Govt orders safety audit of PG hubs within a week tribuneindia.com"
       },
       {
        "source": "The Indian Express",
@@ -552,9 +553,9 @@
     {
      "title": "Delhi Govt orders safety audit of PG hubs within a week",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUc5bDdKNmJRS3gxM0ZFcjIySXBEeGFzTTY1N3lDOE1fOS0wX0ZXOUpIdHZWZ09ITkxQczZGSVRkSm54ejNibVRtM3RTQmlqd0pqbVprczc4cEdaenF6LU13MnBycnpuaWE3Z1NFam9IS3ZxaU5qWXY4blBMSjZfeWRIVFh1aElFenhyS25KQU5aYXhIYS1DcnVaQm3SAaABQVVfeXFMTWhTZGI0YVVlRnd4aHYwSUlhUlo2NEcwRE8wazZRYURfSjczMFlsNVRGdDNIaFpuOXVXWHR6NFBIM1RPNjJZTG8ydGFTWFllYjhTQTZBdjVPYkZacGNNdUNsR0pnMXBxOE0tRHN3RlpWQkc1OTM5dTM0WThXSUgzMDlhUnBrOUdGYlhSZVJoOTlGT2h3VWc5SzdNaTJMU1RwNw?oc=5",
-     "summary": "Delhi Govt orders safety audit of PG hubs within a week The Tribune",
+     "summary": "Delhi Govt orders safety audit of PG hubs within a week tribuneindia.com",
      "published": "2026-09-07T23:59:55+00:00",
-     "source": "The Tribune",
+     "source": "tribuneindia.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -565,9 +566,9 @@
     {
      "title": "After Delhi PG collapse, govt mulls audit of over 50-yr-old buildings",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmNMM1duWVpwcDVxeGFVaFhGNmZOSTc0cTlYV1EtOGVpeWpEeXhSS3RzQ2lMWWlGeFV5akpRWU91VXVpTTJGcXkxNWxTVm12emN6UWxJX1hhbWxWcXpVeElpaVpHdXE2dUxRWjFudzJMcXA3aDNibjQwNDBfdGpPRnc0cnowSGdfUjZIMldPY21HS0JwbG15VWdWbXR5bVlFaVVlS3lGYzJYX09MU3fSAbIBQVVfeXFMUHhfWTlxTy1VRWVjU3RuT1owLWFyVUsxWlhaZWxIWW5BMFZVdUp1d29za3hkeEdPS2Q0S0luVGc5LTZyMTNLLU8xNzFkbGdJRkNiSUJUWmh5LVd5M0U5Z1FLbERBOTJiNm5tYnVGVlh0WF8zbnNsM3NSLVFYTTEzdW9ONjhKdUc0MzhiQTdCRTJZQk9zZk1qOTdnSEhBOWszM3gyOFNJcTU5T2g1ekVqZDNJdw?oc=5",
-     "summary": "After Delhi PG collapse, govt mulls audit of over 50-yr-old buildings The Tribune",
+     "summary": "After Delhi PG collapse, govt mulls audit of over 50-yr-old buildings tribuneindia.com",
      "published": "2026-09-07T20:23:53+00:00",
-     "source": "The Tribune",
+     "source": "tribuneindia.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -610,17 +611,46 @@
    "upsc": false,
    "items": [
     {
-     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
-     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
-     "summary": "At Bhubaneswar convention, Opposition alliance says mineral resources belong to the people of the State; demands protection of Odisha’s rights over its mineral resources, land and forests",
-     "published": "2026-09-08T19:31:17+00:00",
+     "title": "Chlorine gas leak at water filtration plant in Madhya Pradesh’s Sehore; four people hospitalised",
+     "url": "https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece",
+     "summary": "Chlorine gas was being used to purify water at the plant when a gas leak began from a tank, local sources claimed.",
+     "published": "2026-09-08T19:50:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/t14s69/article71444508.ece/alternates/LANDSCAPE_1200/iStock-1332162577.jpg",
+     "licence": "linkout",
+     "id": "f0b4741a0c43",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece",
+     "summary": "State is 59% short of normal rain this year, every district is in deficit and the water table has sunk three metres in a year; IMD expects a low-pressure system over the Bay of Bengal to bring showers from September 12 to 15",
+     "published": "2026-09-08T19:41:17+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lvmcec/article71444127.ece/alternates/LANDSCAPE_1200/vjkvg-summer%204.JPG",
+     "licence": "linkout",
+     "id": "4db4b0dee425",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "12 after a near 60% deficit"
+     ]
+    },
+    {
+     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
+     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
+     "summary": "Mineral-rich States like Odisha stand to lose enormous revenues, running into lakhs of crores of rupees with Centre preventing the recovery of previously uncollected taxes, cess and arrears, they allege",
+     "published": "2026-09-08T19:36:47+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ryio47/article71444500.ece/alternates/LANDSCAPE_1200/a44e41a7-182e-455b-803e-320da94a8ed0.jpg",
      "licence": "linkout",
      "id": "4eefb4ed9860",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "category": "money",
+     "category_label": "Money & scams",
      "figures": [
       "29 over new mining law"
      ]
@@ -637,51 +667,6 @@
      "id": "4a54c276da0f",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece",
-     "summary": "State is 59% short of normal rain this year, every district is in deficit and the water table has sunk three metres in a year; IMD expects a low-pressure system over the Bay of Bengal to bring showers from September 12 to 15",
-     "published": "2026-09-08T19:26:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lvmcec/article71444127.ece/alternates/LANDSCAPE_1200/vjkvg-summer%204.JPG",
-     "licence": "linkout",
-     "id": "4db4b0dee425",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "12 after a near 60% deficit"
-     ]
-    },
-    {
-     "title": "Akhilesh unveils blue dress code for SP youth wing to push Bahujan plank",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-unveils-blue-dress-code-for-sp-youth-wing-to-push-bahujan-plank/article71444332.ece",
-     "summary": "",
-     "published": "2026-09-08T19:26:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bl7d67/article71444419.ece/alternates/LANDSCAPE_1200/20260908335L.jpg",
-     "licence": "linkout",
-     "id": "6f401eef76fc",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Who Was Rakesh Mehta? Sheila Dikshit's Top Official During Commonwealth Games",
-     "url": "https://www.ndtv.com/india-news/who-was-delhi-chief-secretary-rakesh-mehta-sheila-dikshits-top-official-during-commonwealth-games-12020075#publisher=newsstand",
-     "summary": "Noida police recovered an alleged suicide note in which Mehta, a 1975-batch former IAS officer, cited his \"mental and health issues\" as reasons behind the step. His body was found at his Sector 82 residence in Noida on the same day, police said.",
-     "published": "2026-09-08T17:50:00+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/4oss8la4_sheila-dikshit-rakesh-mehta_625x300_08_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "366e7a8dbe90",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "82 residence in Noida"
-     ]
     },
     {
      "title": "Rights Body Intervenes On Suicide Of Punjab Man Who Flagged Drugs Menace",
@@ -705,6 +690,40 @@
    "upsc": false,
    "items": [
     {
+     "title": "Spanish FA launches fertility support for female players and referees",
+     "url": "https://www.aljazeera.com/sports/2026/9/8/spanish-fa-launches-fertility-support-for-female-players-and-referees?traffic_source=rss",
+     "summary": "Spain FA offers fertility support to female players and referees, including costs for internationals called up twice.",
+     "published": "2026-09-08T19:48:21+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2023-08-24T084051Z_318790456_RC2YR2AZZ1RC_RTRMADP_3_SOCCER-WORLDCUP-ESP-ENG-REPORT-1788894400.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "8c29cdd2bb3d",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Sabalenka holds off Noskova to keep US Open three-peat bid alive",
+     "url": "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss",
+     "summary": "Aryna Sabalenka edges Linda Noskova to keep alive hopes of a third straight US Open title.",
+     "published": "2026-09-08T19:48:19+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T181105Z_1485714722_UP1EM981EIGXE_RTRMADP_3_TENNIS-USOPEN-1788894980.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "16e3e9d045a1",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "Aryna Sabalenka Survives Linda Noskova Scare To Reach US Open Semi-Finals",
+       "url": "https://sports.ndtv.com/tennis/aryna-sabalenka-survives-linda-noskova-scare-to-reach-us-open-semi-finals-12020139#publisher=newsstand",
+       "summary": "Top seed Aryna Sabalenka kept her dreams of a third straight US Open women's singles title alive, surviving a scare against Wimbledon 2026 champion Linda Noskova of Czechia in the quarter-finals."
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Philippine defence chief calls out China over note handed to him mid-panel",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss",
      "summary": "Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.",
@@ -727,32 +746,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788892403.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
      "id": "e97da437c8c0",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "China and Qatar are strengthening bilateral ties: What that really means",
-     "url": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss",
-     "summary": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
-     "published": "2026-09-08T18:44:39+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9fe2127493-1788862994.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "b44c65df6560",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Qatar responds to Netanyahu’s ‘hostile state’ remark",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss",
-     "summary": "Qatar has responded to Benjamin Netanyahu’s claims that it’s a 'hostile state'.",
-     "published": "2026-09-08T18:18:17+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788891481.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "40f6309c7941",
      "category": "general",
      "category_label": "General"
     },
@@ -887,31 +880,15 @@
    "upsc": false,
    "items": [
     {
-     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
-     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
-     "summary": "At Bhubaneswar convention, Opposition alliance says mineral resources belong to the people of the State; demands protection of Odisha’s rights over its mineral resources, land and forests",
-     "published": "2026-09-08T19:31:17+00:00",
+     "title": "Chlorine gas leak at water filtration plant in Madhya Pradesh’s Sehore; four people hospitalised",
+     "url": "https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece",
+     "summary": "Chlorine gas was being used to purify water at the plant when a gas leak began from a tank, local sources claimed.",
+     "published": "2026-09-08T19:50:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/t14s69/article71444508.ece/alternates/LANDSCAPE_1200/iStock-1332162577.jpg",
      "licence": "linkout",
-     "id": "4eefb4ed9860",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "29 over new mining law"
-     ]
-    },
-    {
-     "title": "Windergy India 2026 from October 7 to 9",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece",
-     "summary": "",
-     "published": "2026-09-08T19:29:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "4a54c276da0f",
+     "id": "f0b4741a0c43",
      "category": "general",
      "category_label": "General"
     },
@@ -919,7 +896,7 @@
      "title": "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit",
      "url": "https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece",
      "summary": "State is 59% short of normal rain this year, every district is in deficit and the water table has sunk three metres in a year; IMD expects a low-pressure system over the Bay of Bengal to bring showers from September 12 to 15",
-     "published": "2026-09-08T19:26:38+00:00",
+     "published": "2026-09-08T19:41:17+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/lvmcec/article71444127.ece/alternates/LANDSCAPE_1200/vjkvg-summer%204.JPG",
@@ -932,6 +909,35 @@
      ]
     },
     {
+     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
+     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
+     "summary": "Mineral-rich States like Odisha stand to lose enormous revenues, running into lakhs of crores of rupees with Centre preventing the recovery of previously uncollected taxes, cess and arrears, they allege",
+     "published": "2026-09-08T19:36:47+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ryio47/article71444500.ece/alternates/LANDSCAPE_1200/a44e41a7-182e-455b-803e-320da94a8ed0.jpg",
+     "licence": "linkout",
+     "id": "4eefb4ed9860",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "29 over new mining law"
+     ]
+    },
+    {
+     "title": "Akhilesh unveils blue dress code for SP youth wing to push Bahujan plank",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-unveils-blue-dress-code-for-sp-youth-wing-to-push-bahujan-plank/article71444332.ece",
+     "summary": "",
+     "published": "2026-09-08T19:26:32+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/bl7d67/article71444419.ece/alternates/LANDSCAPE_1200/20260908335L.jpg",
+     "licence": "linkout",
+     "id": "6f401eef76fc",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "My area of joy in Madras was Egmore : Y. Gee Mahendra",
      "url": "https://www.thehindu.com/news/cities/chennai/my-area-of-joy-in-madras-was-egmore-y-gee-mahendra/article71436283.ece",
      "summary": "",
@@ -941,19 +947,6 @@
      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/48xhhy/article71444156.ece/alternates/LANDSCAPE_1200/Y%20Gee.jpg",
      "licence": "linkout",
      "id": "dcb02175a3eb",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "New water pipes destroyed in fire near Sholinghur",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/new-water-pipes-destroyed-in-fire-near-sholinghur/article71442680.ece",
-     "summary": "",
-     "published": "2026-09-08T19:17:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/f4ge5d/article71443056.ece/alternates/LANDSCAPE_1200/fire-24.jpeg",
-     "licence": "linkout",
-     "id": "cbceacc59933",
      "category": "general",
      "category_label": "General"
     },
@@ -1667,7 +1660,7 @@
      "category_label": "General"
     },
     {
-     "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+     "title": "Major UK airports hit by air traffic control problems",
      "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
      "summary": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
      "published": "2026-09-08T17:56:46+00:00",
@@ -1678,19 +1671,6 @@
      "id": "d5547c060aae",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-     "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-     "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-     "published": "2026-09-08T09:17:48+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/503e/live/149a0c90-ab66-11f1-aed2-8d6da8d75094.jpg",
-     "licence": "linkout",
-     "id": "5422e75d3f3d",
-     "category": "tech",
-     "category_label": "AI & technology"
     },
     {
      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
@@ -1808,6 +1788,19 @@
      "image": null,
      "licence": "linkout",
      "id": "efbfd202eed2",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Singapore, Luxembourg Target Deeper Cooperation in Quantum, AI And Space",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlBLUjcxV1ZyQ1Q1TERHazB2cldYMk5NNFozYTVDNXViak41cHN1c0V3c2xoQm9zMV94WFctVm9hbEV0RE1RT1JMeFBlbWZ5Rk1TNjlCaTdMT1lWMm80M3VUaGZqNFZwcVVoTXFqNXdMVzM0T3RxaFhocl91bUpvcGN1LXFBRlpjUC1YekpGY0Rqd2lGcTk1Q0hGTUs4SHhHdVpKOVU5UVhTX2pIN2tNcHJR?oc=5",
+     "summary": "Singapore, Luxembourg Target Deeper Cooperation in Quantum, AI And Space The Quantum Insider",
+     "published": "2026-09-08T08:27:29+00:00",
+     "source": "The Quantum Insider",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "702f98a64376",
      "category": "tech",
      "category_label": "AI & technology"
     }
