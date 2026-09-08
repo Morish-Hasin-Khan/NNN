@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T19:02:21.912498+00:00",
+ "generated_at": "2026-09-08T19:34:04.139471+00:00",
  "podcasts_fetched_at": "2026-09-07T22:33:33.021373+00:00",
  "markets": [
   {
@@ -46,11 +46,10 @@
    "key": "silver",
    "label": "SILVER",
    "unit": "₹/kg",
-   "value": 186702.0,
-   "change": 5958.0,
-   "changePct": 3.3,
-   "decimals": 0,
-   "stale": true
+   "value": 186106.0,
+   "change": 5068.0,
+   "changePct": 2.8,
+   "decimals": 0
   },
   {
    "key": "usdinr",
@@ -69,7 +68,8 @@
    "value": 98.53,
    "change": 2.9,
    "changePct": 3.03,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -83,15 +83,15 @@
   }
  ],
  "topics": [
-  "Nainital Police",
-  "Jantar Mantar",
+  "Philippine China",
+  "Tension Shyam",
   "Jazeera English",
   "News",
   "Orangutans India",
-  "Scandals & Investigations",
-  "Kasaragod",
-  "Trump Putin",
-  "Qatar Netanyahu",
+  "Satya Niketan",
+  "INDIA Odisha",
+  "Windergy India",
+  "Does",
   "North Korea"
  ],
  "sections": [
@@ -102,32 +102,35 @@
    "upsc": false,
    "items": [
     {
-     "title": "Nainital Police register FIR against ‘unknown persons’ for performing ‘purification’ of Mallikarjun Kharge’s rally venue",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/nainital-police-register-fir-against-unknown-persons-for-performing-purification-of-mallikarjun-kharges-rally-venue/article71444299.ece",
-     "summary": "The development comes after the Congress repeatedly demanded police action against those who performed purification of the rally venue of party’s national president",
-     "published": "2026-09-08T18:57:20+00:00",
-     "source": "The Hindu",
+     "title": "Philippine defence chief calls out China over note handed to him mid-panel",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss",
+     "summary": "Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.",
+     "published": "2026-09-08T19:28:55+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r4h6x7/article71444461.ece/alternates/LANDSCAPE_1200/20260907376L.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788895628.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "d5ba95e46492",
+     "id": "6f54e5571f01",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "Global News"
     },
     {
-     "title": "Jantar Mantar protest: Police serve UP student show-cause notice, revoke it the next day",
-     "url": "https://www.thehindu.com/news/cities/Delhi/jantar-mantar-protest-noida-student-gets-notice-later-revoked/article71442087.ece",
-     "summary": "While the Greater Noida police officials confirmed that the notice which had asked the 20-year-old student Akshat Tripathi to furnish a bond of five lakh rupees was revoked the next day, Mr. Tripathi said that he has received no such information in writing",
-     "published": "2026-09-08T18:38:27+00:00",
+     "title": "Tension as police raid Shyam Institute, case against Director Shyam, 20 students in Kakinada",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/tension-as-police-raid-shyam-institute-case-against-director-shyam-20-students-in-kakinada/article71443752.ece",
+     "summary": "",
+     "published": "2026-09-08T19:19:29+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9ydjvd/article71442109.ece/alternates/LANDSCAPE_1200/2026-08-20T130332Z_132401245_RC2WKMA560DQ_RTRMADP_3_INDIA-POLITICS-COURT.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "e9c3c7aadbef",
+     "id": "4fe74808e9c7",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National Hotlines"
+     "from_section": "National Hotlines",
+     "figures": [
+      "20 students in Kakinada"
+     ]
     },
     {
      "title": "Death Penalty For 1, Jail For 2 In 2022 Tamil Nadu Minor Gang-Rape Case",
@@ -149,6 +152,20 @@
      ]
     },
     {
+     "title": "China and Qatar are strengthening bilateral ties: What that really means",
+     "url": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss",
+     "summary": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
+     "published": "2026-09-08T18:44:39+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9fe2127493-1788862994.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "b44c65df6560",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
      "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
      "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
      "summary": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss 'a proposal to end the war'.",
@@ -158,20 +175,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP25227746137658-1770118170.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "63c57b027b47",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
-     "url": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
-     "summary": "This phase of the war could be the start of another protracted conflict rather than a decisive campaign, say analysts.",
-     "published": "2026-09-08T17:37:35+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa02b307c7f-1788881712.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "c7256e547d9a",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -194,32 +197,21 @@
      ]
     },
     {
-     "title": "Adopt a welfare-oriented approach, Fisheries department told",
-     "url": "https://www.thehindu.com/news/national/kerala/adopt-a-welfare-oriented-approach-fisheries-department-told/article71443678.ece",
-     "summary": "Speaking at a district-level review meeting of the Fisheries and Harbour Engineering departments at Ponnani, Fisheries Minister V.E. Abdul Gafoor said steps would be taken to fill vacancies in key posts and improve the department’s functioning in Malappuram.",
-     "published": "2026-09-08T18:45:50+00:00",
+     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
+     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
+     "summary": "At Bhubaneswar convention, Opposition alliance says mineral resources belong to the people of the State; demands protection of Odisha’s rights over its mineral resources, land and forests",
+     "published": "2026-09-08T19:31:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/cy76hz/article71443700.ece/alternates/LANDSCAPE_1200/Fish.jpeg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "a2053f56c9e9",
+     "id": "4eefb4ed9860",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "SP-RLD row over chavanni flips open caste fault lines ahead of U.P. poll",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/sp-rld-row-overchavanniflips-open-caste-fault-lines-ahead-of-up-poll/article71444316.ece",
-     "summary": "Jayant’s political switch and SP’s attacks put pressure on RLD’s bhaichara plank, as both parties court Jats, Gurjars and Muslims in western U.P.",
-     "published": "2026-09-08T18:45:27+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jcseg2/article71444319.ece/alternates/LANDSCAPE_1200/6607_30_5_2022_16_32_40_3_30_05_RAJYASABHANOMINATIONLUCKNOW_H.JPG",
-     "licence": "linkout",
-     "id": "a5c1099ef219",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National News",
+     "figures": [
+      "29 over new mining law"
+     ]
     },
     {
      "title": "Ex-Delhi Chief Secretary Rakesh Mehta Dies By Suicide In Noida Flat",
@@ -234,6 +226,34 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
+    },
+    {
+     "title": "\"Unparliamentary\": Himachal Officers Slam Kangana Ranaut's \"Lazy\" Comment",
+     "url": "https://www.ndtv.com/india-news/unparliamentary-himachal-officers-slam-kangana-ranauts-lazy-comment-12019835#publisher=newsstand",
+     "summary": "The Himachal Pradesh Block Development Officers Association warned that if such language or conduct is repeated, it may be compelled to take \"strong action\".",
+     "published": "2026-09-08T16:49:27+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/06f1cb9k_kangana-mandi_625x300_08_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "9f642bb17d5f",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+     "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+     "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+     "published": "2026-09-08T19:11:39+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
+     "licence": "linkout",
+     "id": "832c384b6768",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News"
     },
     {
      "title": "Copper prices hit a record high: 5 ways Indian investors can gain exposure to the red metal — experts weigh in",
@@ -251,20 +271,6 @@
      "figures": [
       "5 ways Indian investors can gain"
      ]
-    },
-    {
-     "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-     "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-     "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-     "published": "2026-09-08T18:40:49+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
-     "licence": "linkout",
-     "id": "832c384b6768",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News"
     },
     {
      "title": "Glastonbury confirms ticket sale dates - and highest ever price",
@@ -312,6 +318,20 @@
      "from_section": "Culture"
     },
     {
+     "title": "Bihar Floods: water levels recede, but threat persists",
+     "url": "https://www.thehindu.com/news/national/bihar/bihar-floods-water-levels-recede-but-threat-persists/article71443548.ece",
+     "summary": "",
+     "published": "2026-09-08T19:26:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "688b6a95cca0",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News"
+    },
+    {
      "title": "The U.S. accuses Chinese AI companies of stealing artificial intelligence technology on an industrial scale",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZzJnRmNaWlRhWG1XSFlSUkg1WTN5Mm5FLXdBWVViZl9ybjBPcVY4RmJBak4xQVRlalAzN09Na2xUVUNSX01feFEyNHl5djNZR2x3dzZPSDlRLTZ0aUhXOFZ0LTR6V01ZOF9xZUF6R3NyVkszTTNVWVdGT1EybUZaV1d4Skg2b1hwcHdzcG43SE1ZWm9YSzdLTDlKbzZudHBkM1FJektfLU5nRkZkeU1rYmJveUd3WUJzbE1RV1FMMzdwelN0bG9pVXhRQ3ZMMnhWOVBCb2130gHUAUFVX3lxTFBseDBhVFl3M1ZCTnUtLWtraUROQ2lpOW1WZ3NxclFUZ19fNXYwZUl3RE5FQWVxNzg2d2RjQjhvcm9oaGQ1bGx3OWdpYzdYdDVWWWhRT2xkMTllY0FmWjV1bFhzZkU5YVpFM3JrbS1EVXd6X2JneElBSWE1elFiem00YWJCcUZ4SGs0ZmR3ZnU5VEFoaGpHTVhtR1A3dExFMGxlVHVjZlBRTzBkMFY1UlhnV2ZFZkhFU2VkUHo2VUhYS1RuS0RyU0E5UzFud25iYXJPdjAy?oc=5",
      "summary": "The U.S. accuses Chinese AI companies of stealing artificial intelligence technology on an industrial scale Українські Національні Новини (УНН)",
@@ -321,28 +341,20 @@
      "image": null,
      "licence": "linkout",
      "id": "7dbbd062d0f7",
-     "also": [
-      {
-       "source": "Zawya",
-       "title": "Launch of Egypt’s First National Artificial Intelligence (AI) Factory Through Vodafone Business Partnership with Cassava Technologies",
-       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQaGZCSlFjSTlaeUItN2pCejQ2Ti02ZjF2REY1TkdWa0NDVVVEMGdwOEFDWXR2Y1NpUTJXMnZwQ2pCQUFoTWVRZlVPUHd2OWZPSmdIaWVWb09TUWJjVFdac3pSZ3U4RHdyYTVCRGdreVZ5V3diaXE1TEZFMEpCRlBlMjdQYUtUc1FacXdkWHpqRVI0Q2dCRUdvcVVGVzdGNXAwZjhEb1MteGtBWmM5MkhKT3hROFNucDU1UWIzSW85eEE0OTZJQUR6bnowbkoyU2J3SXBHWUl6V0RJYkZFNDZNSEZoNXZ0QWh3U2tvZ0ZkVE5Jb2RaVDdlOFpTdEZDMTdtYTEtYnRpd1hzeUdBR2JHQy1rdEFIcU9naTJvVkphQzh5X0wt?oc=5",
-       "summary": "Launch of Egypt’s First National Artificial Intelligence (AI) Factory Through Vodafone Business Partnership with Cassava Technologies Zawya"
-      }
-     ],
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "Launch of Egypt’s First National Artificial Intelligence (AI) Factory Through Vodafone Business Partnership with Cassava Technologies",
-     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQaGZCSlFjSTlaeUItN2pCejQ2Ti02ZjF2REY1TkdWa0NDVVVEMGdwOEFDWXR2Y1NpUTJXMnZwQ2pCQUFoTWVRZlVPUHd2OWZPSmdIaWVWb09TUWJjVFdac3pSZ3U4RHdyYTVCRGdreVZ5V3diaXE1TEZFMEpCRlBlMjdQYUtUc1FacXdkWHpqRVI0Q2dCRUdvcVVGVzdGNXAwZjhEb1MteGtBWmM5MkhKT3hROFNucDU1UWIzSW85eEE0OTZJQUR6bnowbkoyU2J3SXBHWUl6V0RJYkZFNDZNSEZoNXZ0QWh3U2tvZ0ZkVE5Jb2RaVDdlOFpTdEZDMTdtYTEtYnRpd1hzeUdBR2JHQy1rdEFIcU9naTJvVkphQzh5X0wt?oc=5",
-     "summary": "Launch of Egypt’s First National Artificial Intelligence (AI) Factory Through Vodafone Business Partnership with Cassava Technologies Zawya",
-     "published": "2026-09-08T18:21:00+00:00",
-     "source": "Zawya",
+     "title": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajNfSzNaU3NFemppNUtHZmtYTTdhMHZBVjBOVWIyaXoybjlUV1dBcENJNkZIRmpQQWRSOWJ3eDVRLTNpM2lFVVJvemlTVXd0d0dydVc1ZElGNm0tUHlxSnlDTHY0YU53Qlk4dmFSVGR4Mk9OT0dVTmdiWjJMZldjUHd2VXk0U3JzVXM0VTJFRnc5a2pwZVdNNA?oc=5",
+     "summary": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor Investor's Business Daily",
+     "published": "2026-09-08T12:31:00+00:00",
+     "source": "Investor's Business Daily",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "4a43c4576572",
+     "id": "b69cf82b1c96",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -399,57 +411,15 @@
        "summary": "Delhi Govt orders safety audit of PG hubs within a week The Tribune"
       },
       {
-       "source": "indianexpress.com",
+       "source": "The Indian Express",
        "title": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway",
        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSEtwc3dNQTFuSTAyZS12TWtZYnluR1RudkN4Y0k1Sjc0REZ2YlpLWUpmeU4tdlFQaElYZDJUcUFLVndlZ0RwZ2hZRWcxNEduR0VhcnY0blhUbTQ3akxaOXJmWW5mV2FvcC1aUElva2FtRDRnSGtwMzZyaDJYMUVZd2pvdWxycjBzSU9lU2IySTRlOWthZXplM1NtLUxNcDlJMzRJTGJ6ZzQ0WVFRRkdwNTAyTXptTXB5OEZENnlpb2VoRVFfeDJWRnpwbWNxeFpuYWFWY1hscWp3SmRSdFZUQ05Dbm1PcUZnQjhWejQtM1prSzBKVWfSAfwBQVVfeXFMT1dOUFV6ZjE0bXBQZUExV3NsS0tfY3FxNjltMnVRaU1tTHJ3c2xGZjhmS0s2MkxFU3Ywcms3TkR2eXVsWHMyUk9VMU92WjMyUGFRTmF4Z0RSNm5SbElyZVlyUDZjdE1jbE85RzRLM3ZIVUdMekdsVlZOU21QYlhocTE3RGJXVVJ5YzBwenZlQzNvNUxDLUZucFB4T0VfTnN3eE9jX1JJbE5qUnh5cUp4cTh4eU92Y19hZUM0TVUwMExSYXFqbFBmb2IxMC11NEVHenNicEtpQktuM2l0bkp2VVQ0OHRKWUJKMXRVSjlxZnNPcTZjWkhOQ09iaFdT?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway indianexpress.com"
+       "summary": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway The Indian Express"
       }
      ],
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Renoir paintings worth $10.5 million missing after museum heist",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss",
-     "summary": "A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings",
-     "published": "2026-09-08T17:47:08+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788889619.jpg?resize=1711%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "40c7fb2beb85",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Renoir paintings worth millions stolen in French museum heist",
-       "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-       "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
-      }
-     ],
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Global News",
-     "figures": [
-      "$10.5 million missing after museum heist"
-     ]
-    },
-    {
-     "title": "Pass fresh order on plea for probe into site allotted to Kharge family trust in Bengaluru: Karnataka HC to special court",
-     "url": "https://www.thehindu.com/news/national/karnataka/pass-fresh-order-on-plea-for-probe-into-site-allotted-to-kharge-family-trust-in-bengaluru-hc-to-special-court/article71443384.ece",
-     "summary": "The petitioner had challenged the special court’s August 11 order of taking up the inquiry by itself under Section 223 of BNSS instead of considering his plea for a probe by the Lokayukta police.",
-     "published": "2026-09-08T18:36:13+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cksxvc/article71443660.ece/alternates/LANDSCAPE_1200/ALL_6735.JPG",
-     "licence": "linkout",
-     "id": "1656713576b8",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National Hotlines",
-     "figures": [
-      "11 order of taking up"
-     ]
     }
    ]
   },
@@ -465,7 +435,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-08T19:02:09.073089+00:00",
+     "published": "2026-09-08T19:33:52.460615+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -476,7 +446,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-08T19:02:09.073110+00:00",
+     "published": "2026-09-08T19:33:52.460633+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -487,7 +457,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-08T19:02:09.073116+00:00",
+     "published": "2026-09-08T19:33:52.460637+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -498,7 +468,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-08T19:02:09.073120+00:00",
+     "published": "2026-09-08T19:33:52.460640+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -509,7 +479,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-08T19:02:09.073124+00:00",
+     "published": "2026-09-08T19:33:52.460643+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -520,7 +490,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-08T19:02:09.073128+00:00",
+     "published": "2026-09-08T19:33:52.460651+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -557,27 +527,14 @@
        "summary": "Delhi Govt orders safety audit of PG hubs within a week The Tribune"
       },
       {
-       "source": "indianexpress.com",
+       "source": "The Indian Express",
        "title": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway",
        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSEtwc3dNQTFuSTAyZS12TWtZYnluR1RudkN4Y0k1Sjc0REZ2YlpLWUpmeU4tdlFQaElYZDJUcUFLVndlZ0RwZ2hZRWcxNEduR0VhcnY0blhUbTQ3akxaOXJmWW5mV2FvcC1aUElva2FtRDRnSGtwMzZyaDJYMUVZd2pvdWxycjBzSU9lU2IySTRlOWthZXplM1NtLUxNcDlJMzRJTGJ6ZzQ0WVFRRkdwNTAyTXptTXB5OEZENnlpb2VoRVFfeDJWRnpwbWNxeFpuYWFWY1hscWp3SmRSdFZUQ05Dbm1PcUZnQjhWejQtM1prSzBKVWfSAfwBQVVfeXFMT1dOUFV6ZjE0bXBQZUExV3NsS0tfY3FxNjltMnVRaU1tTHJ3c2xGZjhmS0s2MkxFU3Ywcms3TkR2eXVsWHMyUk9VMU92WjMyUGFRTmF4Z0RSNm5SbElyZVlyUDZjdE1jbE85RzRLM3ZIVUdMekdsVlZOU21QYlhocTE3RGJXVVJ5YzBwenZlQzNvNUxDLUZucFB4T0VfTnN3eE9jX1JJbE5qUnh5cUp4cTh4eU92Y19hZUM0TVUwMExSYXFqbFBmb2IxMC11NEVHenNicEtpQktuM2l0bkp2VVQ0OHRKWUJKMXRVSjlxZnNPcTZjWkhOQ09iaFdT?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway indianexpress.com"
+       "summary": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway The Indian Express"
       }
      ],
      "category": "mystery",
      "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "MP govt orders inquiry into police action against protesting intern doctors",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzA1VFM1NFY1SE5SNGtWTnVzR3FVdWxaQ21nMnpQSk1EWVVwMS1aWGpxLXhsQ0syVDd3S0N5bkV1b2RZNVpoRHJ1SUQ3bEcxOXZibWx1WlZpMXJKY09fdnVQV1VWUHRpYi1HekFYdGpudzRYalFsVm9oVEdRTmFubEtCeWZTQ2hOZGc1Z3A0eG5JYkZuMGp6Y0NOQllWUEZ3cUdwODkxOGpaZjVfQ3c?oc=5",
-     "summary": "MP govt orders inquiry into police action against protesting intern doctors thehawk.in",
-     "published": "2026-09-08T12:18:42+00:00",
-     "source": "thehawk.in",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "0474eeeaaede",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Satya Niketan Collapse: 7 DU Students Dead, Delhi Govt Orders Structural Audit of PGs - India Today",
@@ -619,6 +576,19 @@
      "category_label": "General"
     },
     {
+     "title": "Huawei faces New York racketeering trial over trade secrets and sanctions",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPanEyNlhPSEJBRE9VNG0zWm1CbVd4YllveWR6aGo0ZDJscnpIWUo3VXN4U2lVOVdPZE14cjN5TVdTS3A0TGZ3TGpJUGRjVmdpbDVreGc3LUt4NmgwZ09OcWNLUWUwbEs5ZlY4a1VnX0pIYkRjU3ZSUnp1aWRXMFNiaDdla2VRdnkzUnl0YjUtUUtRRXdfREtBSWUzbTRqMWJ6UWRiR3hYdXYxOEFydVVPVm9WTUdmdHBKMFFPdHo4S2RZblVKQnZrMUtJRdIB0AFBVV95cUxQb016ZW5FUnZ4ajBTU1lpZGZtR1VQUEV1ZWJlUURCWTlqSExVbVM5dHpIaDJIak5ubXBqLXRHV1V5UHB4RnNRZExMSnJGQ24ySi05MjBsb3BwOFlYc2taWkt0MTYwVGFBbzRPWVhmWFZfRDMxRFdNelBYcVBxbGh1U0dYN0hMZUdCNGV3ZDF2V2pPU3hQbXJiUXJTdUtqMjVqWWtVb0NzcVFBem5sTXRpbXh2ZFV6Y0VOM2twTE9PWnBSRldGSGJXejNkYXFSajV1?oc=5",
+     "summary": "Huawei faces New York racketeering trial over trade secrets and sanctions India Today",
+     "published": "2026-09-08T18:28:27+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "acbce86bd2fc",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "DMK MLAs evicted from TN Assembly amid uproar over Vijay's bribe charge against party",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdHJJUVk5cUFaTmpYNERaaHZXOFMySDVkN01HUVVUNTF5UUJxU211MXV2Y0Q0cFB2c3ItSjVsa0k3bER1NjFpck5Db2FjeV9oOGFuVExOUWJzTlNtVUlVai13aER4R1FYSjV5M21kZ2otY2c3R3JPMTA3S1FkalJoV0F0OWdjSmlIUmROLVR0VVZyT29wOTUwZHlJSmNjTDllNjNWUjdBSVBkZkxyaWx4Mkc2dldaOW5HaTNKMEZ1aTZSeFBKNEZ5U0pxUEp6LXBhQm1XX0FSVi1kRTBSWjF1Y1FhcTJObXJkVDFOQ09LemFXUmd6YmUw0gH8AUFVX3lxTFBTM1RWM3JGZFNVMlFGRGljX3VrdWxqNDQ0clhJZFpmc1FPN2REbzRDVzZnMDVDcGFfRTNFcTBLd1EzWWZRSTl2bXV6dXlUbFE2NkJvdGZVSG1QUUZXbmRDUFR5TnFldHJ1N3R0c09SRkdxdlJlRTRucGhVdXlUSzdjQnpzVHpGWGFwY202cUpaZDRNQWQteXFCX3hkekN4WTlTUzZIc052RnhWUHJSRVhQai04bTBVVDNhNDBIX29DdnB0a3o0TzJHX0llRmprRkY2QS11MEZKQm1IUWJoMWYwWkRzS2VlQlBiVDVkNUNlakNCMGZhWjZTdy1IdQ?oc=5",
      "summary": "DMK MLAs evicted from TN Assembly amid uproar over Vijay's bribe charge against party India Today",
@@ -640,46 +610,62 @@
    "upsc": false,
    "items": [
     {
-     "title": "Nainital Police register FIR against ‘unknown persons’ for performing ‘purification’ of Mallikarjun Kharge’s rally venue",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/nainital-police-register-fir-against-unknown-persons-for-performing-purification-of-mallikarjun-kharges-rally-venue/article71444299.ece",
-     "summary": "The development comes after the Congress repeatedly demanded police action against those who performed purification of the rally venue of party’s national president",
-     "published": "2026-09-08T18:57:20+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r4h6x7/article71444461.ece/alternates/LANDSCAPE_1200/20260907376L.jpg",
-     "licence": "linkout",
-     "id": "d5ba95e46492",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Kasaragod to get new harbour projects, stronger coastal protection measures",
-     "url": "https://www.thehindu.com/news/national/kerala/keralams-kasaragod-to-get-new-harbour-projects-stronger-coastal-protection-measures/article71442885.ece",
-     "summary": "Detailed proposal for Ajanur fishing harbour to be submitted this year for funding under NABARD or PMMSY. Stronger coastal protection measures, including the use of tetrapods, to be implemented.",
-     "published": "2026-09-08T18:49:43+00:00",
+     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
+     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
+     "summary": "At Bhubaneswar convention, Opposition alliance says mineral resources belong to the people of the State; demands protection of Odisha’s rights over its mineral resources, land and forests",
+     "published": "2026-09-08T19:31:17+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "b4986aeb4009",
+     "id": "4eefb4ed9860",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "29 over new mining law"
+     ]
+    },
+    {
+     "title": "Windergy India 2026 from October 7 to 9",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece",
+     "summary": "",
+     "published": "2026-09-08T19:29:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "4a54c276da0f",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Tamil Nadu government transfers 27 IAS officers in major bureaucratic reshuffle",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-transfers-27-ias-officers-in-major-bureaucratic-reshuffle/article71443826.ece",
-     "summary": "Dharmendra Pratap Yadav, Chairman and Managing Director, Tamil Nadu Small Industries Corporation (TANSI) is the new Principal Secretary, Rural Development and Panchayat Raj, replacing Prashant M. Wadnere.",
-     "published": "2026-09-08T18:46:12+00:00",
+     "title": "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece",
+     "summary": "State is 59% short of normal rain this year, every district is in deficit and the water table has sunk three metres in a year; IMD expects a low-pressure system over the Bay of Bengal to bring showers from September 12 to 15",
+     "published": "2026-09-08T19:26:38+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/lvmcec/article71444127.ece/alternates/LANDSCAPE_1200/vjkvg-summer%204.JPG",
      "licence": "linkout",
-     "id": "0b931819ffa3",
+     "id": "4db4b0dee425",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "rs 27  IAS officers in major"
+      "12 after a near 60% deficit"
      ]
+    },
+    {
+     "title": "Akhilesh unveils blue dress code for SP youth wing to push Bahujan plank",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-unveils-blue-dress-code-for-sp-youth-wing-to-push-bahujan-plank/article71444332.ece",
+     "summary": "",
+     "published": "2026-09-08T19:26:32+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/bl7d67/article71444419.ece/alternates/LANDSCAPE_1200/20260908335L.jpg",
+     "licence": "linkout",
+     "id": "6f401eef76fc",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Who Was Rakesh Mehta? Sheila Dikshit's Top Official During Commonwealth Games",
@@ -696,19 +682,6 @@
      "figures": [
       "82 residence in Noida"
      ]
-    },
-    {
-     "title": "\"Unparliamentary\": Himachal Officers Slam Kangana Ranaut's \"Lazy\" Comment",
-     "url": "https://www.ndtv.com/india-news/unparliamentary-himachal-officers-slam-kangana-ranauts-lazy-comment-12019835#publisher=newsstand",
-     "summary": "The Himachal Pradesh Block Development Officers Association warned that if such language or conduct is repeated, it may be compelled to take \"strong action\".",
-     "published": "2026-09-08T16:49:27+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/06f1cb9k_kangana-mandi_625x300_08_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "9f642bb17d5f",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Rights Body Intervenes On Suicide Of Punjab Man Who Flagged Drugs Menace",
@@ -732,15 +705,41 @@
    "upsc": false,
    "items": [
     {
-     "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
-     "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
-     "summary": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss 'a proposal to end the war'.",
-     "published": "2026-09-08T18:31:30+00:00",
+     "title": "Philippine defence chief calls out China over note handed to him mid-panel",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss",
+     "summary": "Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.",
+     "published": "2026-09-08T19:28:55+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP25227746137658-1770118170.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788895628.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "63c57b027b47",
+     "id": "6f54e5571f01",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Does the UK have a legal obligation to redress the harms of slavery?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/9/8/does-the-uk-have-a-legal-obligation-to-redress-the-harms-of-slavery?traffic_source=rss",
+     "summary": "Jamaica petitions the British monarch over questions about the legality of the transatlantic slave trade.",
+     "published": "2026-09-08T19:01:13+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788892403.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "e97da437c8c0",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "China and Qatar are strengthening bilateral ties: What that really means",
+     "url": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss",
+     "summary": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
+     "published": "2026-09-08T18:44:39+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9fe2127493-1788862994.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "b44c65df6560",
      "category": "conflict",
      "category_label": "War & conflict"
     },
@@ -754,19 +753,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788891481.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
      "id": "40f6309c7941",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Women and children remain trapped in Syria’s Roj camp",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss",
-     "summary": "Women and children remain trapped in Syria’s Roj camp",
-     "published": "2026-09-08T18:00:24+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ROJ-CAMP-HORIZONTAL-THUMB-1788890237.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "d9adab65d264",
      "category": "general",
      "category_label": "General"
     },
@@ -901,78 +887,81 @@
    "upsc": false,
    "items": [
     {
-     "title": "Nainital Police register FIR against ‘unknown persons’ for performing ‘purification’ of Mallikarjun Kharge’s rally venue",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/nainital-police-register-fir-against-unknown-persons-for-performing-purification-of-mallikarjun-kharges-rally-venue/article71444299.ece",
-     "summary": "The development comes after the Congress repeatedly demanded police action against those who performed purification of the rally venue of party’s national president",
-     "published": "2026-09-08T18:57:20+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r4h6x7/article71444461.ece/alternates/LANDSCAPE_1200/20260907376L.jpg",
-     "licence": "linkout",
-     "id": "d5ba95e46492",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Kasaragod to get new harbour projects, stronger coastal protection measures",
-     "url": "https://www.thehindu.com/news/national/kerala/keralams-kasaragod-to-get-new-harbour-projects-stronger-coastal-protection-measures/article71442885.ece",
-     "summary": "Detailed proposal for Ajanur fishing harbour to be submitted this year for funding under NABARD or PMMSY. Stronger coastal protection measures, including the use of tetrapods, to be implemented.",
-     "published": "2026-09-08T18:49:43+00:00",
+     "title": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law",
+     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
+     "summary": "At Bhubaneswar convention, Opposition alliance says mineral resources belong to the people of the State; demands protection of Odisha’s rights over its mineral resources, land and forests",
+     "published": "2026-09-08T19:31:17+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "b4986aeb4009",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Tamil Nadu government transfers 27 IAS officers in major bureaucratic reshuffle",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-transfers-27-ias-officers-in-major-bureaucratic-reshuffle/article71443826.ece",
-     "summary": "Dharmendra Pratap Yadav, Chairman and Managing Director, Tamil Nadu Small Industries Corporation (TANSI) is the new Principal Secretary, Rural Development and Panchayat Raj, replacing Prashant M. Wadnere.",
-     "published": "2026-09-08T18:46:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "0b931819ffa3",
-     "category": "general",
-     "category_label": "General",
+     "id": "4eefb4ed9860",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "rs 27  IAS officers in major"
+      "29 over new mining law"
      ]
     },
     {
-     "title": "Shamsudheen returns to alma mater, calls for colleges to become cultural centres",
-     "url": "https://www.thehindu.com/news/national/kerala/shamsudheen-returns-to-alma-mater-calls-for-colleges-to-become-cultural-centres/article71443348.ece",
+     "title": "Windergy India 2026 from October 7 to 9",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/windergy-india-2026-from-october-7-to-9/article71443822.ece",
      "summary": "",
-     "published": "2026-09-08T18:37:57+00:00",
+     "published": "2026-09-08T19:29:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/x3tras/article71443369.ece/alternates/LANDSCAPE_1200/Shamsudheen.jpeg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "dfe8541c6f4d",
+     "id": "4a54c276da0f",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSEtwc3dNQTFuSTAyZS12TWtZYnluR1RudkN4Y0k1Sjc0REZ2YlpLWUpmeU4tdlFQaElYZDJUcUFLVndlZ0RwZ2hZRWcxNEduR0VhcnY0blhUbTQ3akxaOXJmWW5mV2FvcC1aUElva2FtRDRnSGtwMzZyaDJYMUVZd2pvdWxycjBzSU9lU2IySTRlOWthZXplM1NtLUxNcDlJMzRJTGJ6ZzQ0WVFRRkdwNTAyTXptTXB5OEZENnlpb2VoRVFfeDJWRnpwbWNxeFpuYWFWY1hscWp3SmRSdFZUQ05Dbm1PcUZnQjhWejQtM1prSzBKVWfSAfwBQVVfeXFMT1dOUFV6ZjE0bXBQZUExV3NsS0tfY3FxNjltMnVRaU1tTHJ3c2xGZjhmS0s2MkxFU3Ywcms3TkR2eXVsWHMyUk9VMU92WjMyUGFRTmF4Z0RSNm5SbElyZVlyUDZjdE1jbE85RzRLM3ZIVUdMekdsVlZOU21QYlhocTE3RGJXVVJ5YzBwenZlQzNvNUxDLUZucFB4T0VfTnN3eE9jX1JJbE5qUnh5cUp4cTh4eU92Y19hZUM0TVUwMExSYXFqbFBmb2IxMC11NEVHenNicEtpQktuM2l0bkp2VVQ0OHRKWUJKMXRVSjlxZnNPcTZjWkhOQ09iaFdT?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway indianexpress.com",
-     "published": "2026-09-08T12:19:54+00:00",
-     "source": "indianexpress.com",
+     "title": "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece",
+     "summary": "State is 59% short of normal rain this year, every district is in deficit and the water table has sunk three metres in a year; IMD expects a low-pressure system over the Bay of Bengal to bring showers from September 12 to 15",
+     "published": "2026-09-08T19:26:38+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://th-i.thgim.com/public/incoming/lvmcec/article71444127.ece/alternates/LANDSCAPE_1200/vjkvg-summer%204.JPG",
      "licence": "linkout",
-     "id": "cdc44c1f7bdb",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "4db4b0dee425",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "12 after a near 60% deficit"
+     ]
+    },
+    {
+     "title": "My area of joy in Madras was Egmore : Y. Gee Mahendra",
+     "url": "https://www.thehindu.com/news/cities/chennai/my-area-of-joy-in-madras-was-egmore-y-gee-mahendra/article71436283.ece",
+     "summary": "",
+     "published": "2026-09-08T19:19:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/48xhhy/article71444156.ece/alternates/LANDSCAPE_1200/Y%20Gee.jpg",
+     "licence": "linkout",
+     "id": "dcb02175a3eb",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "New water pipes destroyed in fire near Sholinghur",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/new-water-pipes-destroyed-in-fire-near-sholinghur/article71442680.ece",
+     "summary": "",
+     "published": "2026-09-08T19:17:17+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/f4ge5d/article71443056.ece/alternates/LANDSCAPE_1200/fire-24.jpeg",
+     "licence": "linkout",
+     "id": "cbceacc59933",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
      "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
-     "published": "2026-09-08T09:49:51+00:00",
+     "published": "2026-09-08T14:08:20+00:00",
      "source": "News On AIR",
      "byline": "",
      "image": null,
@@ -980,6 +969,19 @@
      "id": "723347f12081",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSEtwc3dNQTFuSTAyZS12TWtZYnluR1RudkN4Y0k1Sjc0REZ2YlpLWUpmeU4tdlFQaElYZDJUcUFLVndlZ0RwZ2hZRWcxNEduR0VhcnY0blhUbTQ3akxaOXJmWW5mV2FvcC1aUElva2FtRDRnSGtwMzZyaDJYMUVZd2pvdWxycjBzSU9lU2IySTRlOWthZXplM1NtLUxNcDlJMzRJTGJ6ZzQ0WVFRRkdwNTAyTXptTXB5OEZENnlpb2VoRVFfeDJWRnpwbWNxeFpuYWFWY1hscWp3SmRSdFZUQ05Dbm1PcUZnQjhWejQtM1prSzBKVWfSAfwBQVVfeXFMT1dOUFV6ZjE0bXBQZUExV3NsS0tfY3FxNjltMnVRaU1tTHJ3c2xGZjhmS0s2MkxFU3Ywcms3TkR2eXVsWHMyUk9VMU92WjMyUGFRTmF4Z0RSNm5SbElyZVlyUDZjdE1jbE85RzRLM3ZIVUdMekdsVlZOU21QYlhocTE3RGJXVVJ5YzBwenZlQzNvNUxDLUZucFB4T0VfTnN3eE9jX1JJbE5qUnh5cUp4cTh4eU92Y19hZUM0TVUwMExSYXFqbFBmb2IxMC11NEVHenNicEtpQktuM2l0bkp2VVQ0OHRKWUJKMXRVSjlxZnNPcTZjWkhOQ09iaFdT?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 9, 2026: Five baby orangutans found in Odisha, probe underway The Indian Express",
+     "published": "2026-09-08T12:19:54+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "cdc44c1f7bdb",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -1784,11 +1786,11 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Does Artificial Intelligence Change the Nature of War? - l'Institut français des relations internationales (IFRI)",
+     "title": "Does Artificial Intelligence Change the Nature of War?",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1ZudWg1ZHloMDBiWEE5Sl9lV3RWX2ctZDRGT3dhc0tvNm84ZkdyTWh0R1UxTHdCNTRSeWVYVmt2NDNyY2oxSmxXSVBTOEptLWw0U0hGaDhkQm9hUEQ0SXlDS1NYZV9tcTR6Q05jWTc4eFFtejBuTDJZN3RaNWlQTHhhQWhvUzRFUUJ3UlRiQm5jSV9OMnpMTWtYXzlSYW9qSkgtZkY1TmN5c0RhNUJ6SDFBeTRnTzJqVlE0?oc=5",
-     "summary": "Does Artificial Intelligence Change the Nature of War? l'Institut français des relations internationales (IFRI)",
+     "summary": "Does Artificial Intelligence Change the Nature of War? ifri.org",
      "published": "2026-09-08T10:00:46+00:00",
-     "source": "Google News",
+     "source": "ifri.org",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1798,14 +1800,14 @@
     },
     {
      "title": "Apple expands AI and engineering hiring in India, report reveals focus on advanced tech",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONXo0VE82clR5WkI0NGYtLXJuUWQ4N3lZQ2oxWnV4NVBtRHZFaUpEVjAwYjBMZzV4YUc5d1Y1TmYxNEZjUHhud1hVMjl2YXlYcDcwN0dEcUdXMkxnZEVVakF6YXV3MmpsenFKOG9sVU9uWk1EZjM2RXBQLTk1T2dILTVTY29sVDhFZ09sbl9Xc1dNbWo0QTBHZXdRSUFQRTlVelBTWUFkazdTUU5qaUtvV3Y5WlY2dnl6XzZpenZmT0k0WldEYV8yMlBJUDF4U3hBbF9WTlF4S0dkbjlpWkhHbzJmMmFCRG9VbFVtY2VRZ2xLYVJPd0hjcEJ30gH_AUFVX3lxTE10aXhHcDJERlRBd0tZRjVoM0tSd2N4cXJOLVY5OHVBT3Jjbk1BNHNGajAxQkNTS0VfOFgtYzZEMGxQRHRhSFZiYWYzSzI5ZVhsNmhBOEZHRkstakxYZDQ4NEpDYS1DSDUyNG1abHdVN21oSTBYdXVJNnJlaVdmM0Jyd3BXQjhwUTFEZVZYaWZtbVh3c1hmd3U2MjdGaXNzWGJFSFZGQ3ZoZUNWZWNDT093Nlp1MG5NVVZXRm82MUV4UDU1OXVUbmo2UHRfSEtNUlBsbjZ2ZVB1dkwwb1R1Wl9JLWwyLUVpUEFhWWYwOHZjbTU0bmxFbjNWSVpSNVVscw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNVjZPeE9PZ1k0OU9fWEVlaGlpdy1zazN3LTFzQ2pOcnBhV3lqZ0p5bG9vdUZZQkFham1aVWZPOFJmUnI5VWdNaXFVN1M5VUdzTzhKQ3dpYUpHbUZyNTZwbVBoblhIcno4cEF1LVRGUjkxd0VEay12bzV1Q1I1NlZPVHdRU1NtY18yNWVRUVNaWkJKS3UwME9wZWlXQ0UzakhDdGNkODB1VkJGLW5tdDF0LWxvTXJZWF9URG40WG1jYXlWMXlQdEExZjVXcnpGU01ZQkhzVS11cmZIUVJJeVdWaExRX3o4WHlmc01QVldBcUY5MzNVbTF0V0dXY0ExbnN4Q3dHNlhLaHF3ZmZBeWVrNDc0UW0wcDdNeG1PQmtMZlU1NldYOF8tTzNfOXo1Mk9UNGt5dF9POXloTTlRYWpYN3p30gH_AUFVX3lxTE10aXhHcDJERlRBd0tZRjVoM0tSd2N4cXJOLVY5OHVBT3Jjbk1BNHNGajAxQkNTS0VfOFgtYzZEMGxQRHRhSFZiYWYzSzI5ZVhsNmhBOEZHRkstakxYZDQ4NEpDYS1DSDUyNG1abHdVN21oSTBYdXVJNnJlaVdmM0Jyd3BXQjhwUTFEZVZYaWZtbVh3c1hmd3U2MjdGaXNzWGJFSFZGQ3ZoZUNWZWNDT093Nlp1MG5NVVZXRm82MUV4UDU1OXVUbmo2UHRfSEtNUlBsbjZ2ZVB1dkwwb1R1Wl9JLWwyLUVpUEFhWWYwOHZjbTU0bmxFbjNWSVpSNVVscw?oc=5",
      "summary": "Apple expands AI and engineering hiring in India, report reveals focus on advanced tech ET CIO",
      "published": "2026-09-08T08:30:00+00:00",
      "source": "ET CIO",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "637b9789c8cb",
+     "id": "efbfd202eed2",
      "category": "tech",
      "category_label": "AI & technology"
     }
