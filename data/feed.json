@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T03:02:29.361923+00:00",
+ "generated_at": "2026-09-08T03:36:58.815344+00:00",
  "podcasts_fetched_at": "2026-09-07T22:33:33.021373+00:00",
  "markets": [
   {
@@ -69,7 +69,8 @@
    "value": 97.13,
    "change": 2.48,
    "changePct": 2.62,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Maharashtra Maratha",
+  "Delhi",
   "Trial Australian",
   "Jazeera English",
   "News",
   "Satya Niketan",
   "Delhi High",
-  "National News",
-  "Eiffel Tower",
-  "What Mondlane",
-  "India"
+  "Haryana",
+  "Guntur Municipal",
+  "Russia Kyiv",
+  "Yemeni Houthis"
  ],
  "sections": [
   {
@@ -102,21 +103,18 @@
    "upsc": false,
    "items": [
     {
-     "title": "Maharashtra will shut down within 10 minutes if Maratha protesters are harmed: Manoj Jarange Patil",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-will-shut-down-within-10-minutes-if-maratha-protesters-are-harmed-manoj-jarange-patil/article71439452.ece",
-     "summary": "Manoj Jarange Patil appealed to female members of the community to treat all the sons and daughters of the Maratha community as their own and act accordingly, while asking the entire community not to act aggressively towards police and protest silently.",
-     "published": "2026-09-08T02:40:20+00:00",
+     "title": "Delhi building collapse death toll up to 7; HC orders citywide PG inspection, flags student housing woes",
+     "url": "https://www.thehindu.com/news/cities/Delhi/delhi-building-collapse-death-toll-up-to-7-hc-orders-citywide-pg-inspection-flags-student-housing-woes/article71439955.ece",
+     "summary": "Building owner arrested, along with spouse and son; five MCD officials suspended; Delhi government mulling policy to govern buildings used for different purposes, including PG accommodations",
+     "published": "2026-09-08T03:01:30+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/aom25y/article71441137.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000238B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/3o8tqw/article71440140.ece/alternates/LANDSCAPE_1200/Satya%20Niketan%20NEW%20DELHI%203.jpg",
      "licence": "linkout",
-     "id": "0b9124f01c0d",
+     "id": "7c60b7e71767",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "10 minutes if Maratha protesters are"
-     ]
+     "from_section": "National Hotlines"
     },
     {
      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
@@ -133,18 +131,35 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "Delhi court sends Swatantra Bhardwaj to 14-day judicial custody",
-     "url": "https://www.thehindu.com/news/national/delhi-court-sends-swatantra-bhardwaj-to-14-day-judicial-custody/article71438993.ece",
-     "summary": "Mr. Bhardwaj was produced before a Delhi court following the completion of his one-day police custody",
-     "published": "2026-09-08T01:17:23+00:00",
-     "source": "The Hindu",
+     "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+     "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+     "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+     "published": "2026-09-07T22:23:03+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5gd5se/article71439697.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000323B.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
      "licence": "linkout",
-     "id": "2a8eaa993e26",
+     "id": "c0fa9c1f63e8",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National Hotlines"
+     "from_section": "Global News",
+     "figures": [
+      "300 overshot the runway at Miami"
+     ]
+    },
+    {
+     "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+     "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+     "summary": "Bid to take Sanaa comes as fighting between Yemeni forces and Houthis intensify in provinces of al-Bayda and al-Jawf.",
+     "published": "2026-09-08T03:01:38+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9f79bf-1788836287.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "47db92194a76",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
@@ -161,6 +176,37 @@
      "from_section": "Business"
     },
     {
+     "title": "ECI announces bypolls to five Assembly seats, one Lok Sabha constituency on October 6",
+     "url": "https://www.thehindu.com/news/national/election-commission-announces-schedule-for-byelection-to-five-assembly-constituencies-and-one-parliamentary-constituency/article71438808.ece",
+     "summary": "Nomination process remains open until September 16; counting to be held on October 9",
+     "published": "2026-09-08T03:17:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/whv4u6/article71438833.ece/alternates/LANDSCAPE_1200/IMG_INDEXELECTIONCOMMISS_2_1_B6EB6NQQ.jpg",
+     "licence": "linkout",
+     "id": "54e24a54b553",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "6. Nomination process remains open until"
+     ]
+    },
+    {
+     "title": "BRS MLCs Tata Madhu, Naveen Kumar Reddy arrested over remarks against Speaker",
+     "url": "https://www.thehindu.com/news/national/telangana/brs-mlcs-tata-madhu-naveen-kumar-reddy-arrested-over-remarks-against-speaker/article71441140.ece",
+     "summary": "The arrests come a day after the Assembly witnessed intense protests on the beahaviour of the BRS MLAs.",
+     "published": "2026-09-08T03:04:29+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/jqzx5/article71441162.ece/alternates/LANDSCAPE_1200/10215_22_11_2021_16_47_18_1_DSC_7299.JPG",
+     "licence": "linkout",
+     "id": "82e7527d68e7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
      "title": "Eiffel Tower closed in row over women removed for Hindu group",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group?traffic_source=rss",
      "summary": "The Eiffel Tower was shut on Monday after staff protested over women being ‘sidelined’ during a Hindu group’s visit.",
@@ -175,34 +221,37 @@
      "from_section": "Global News"
     },
     {
-     "title": "What does Mondlane’s trial mean for Mozambique?",
-     "url": "https://www.aljazeera.com/news/2026/9/8/what-does-mondlanes-trial-mean-for-mozambique?traffic_source=rss",
-     "summary": "The opposition politician faces five charges over protests that followed the disputed 2024 election.",
-     "published": "2026-09-08T02:11:40+00:00",
-     "source": "Al Jazeera",
+     "title": "Guntur Municipal Corporation to spend ₹53.75 crores on ‘Nava Guntur’ development plan",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-municipal-corporation-to-spend-5375-crores-on-nava-guntur-development-plan/article71441108.ece",
+     "summary": "Municipal Commissioner K. Mayur Ashok told The Hindu that the projects, spread across six major sectors, aim to improve quality of life, regulate traffic, strengthen sanitation and create better public spaces.",
+     "published": "2026-09-08T03:29:51+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/rally-02-1788601137.jpeg?resize=1200%2C630",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "8d0860a4c66e",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Delhi Buildings Over 50 Years Old To Face Safety Audits: Minister",
-     "url": "https://www.ndtv.com/india-news/delhi-buildings-over-50-years-old-to-face-safety-audits-minister-12015654#publisher=newsstand",
-     "summary": "Manohar Lal Khattar said the Ministry of Housing and Urban Affairs is considering a plan to conduct safety audits of all DDA buildings that are more than 50 years old.",
-     "published": "2026-09-08T01:39:21+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2021-10/7cmp3bng_manohar-lal-khattar_625x300_03_October_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "8dd0f3cf729d",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "55a71bb36717",
+     "category": "money",
+     "category_label": "Money & scams",
      "from_section": "National News",
      "figures": [
-      "50 Years Old To Face Safety"
+      "₹53.75 crore s on ‘Nava Guntur’"
+     ]
+    },
+    {
+     "title": "Income-tax refund not received after filing ITR? Check these 6 things if refund is delayed, failed or not credited",
+     "url": "https://www.livemint.com/money/personal-finance/incometax-refund-not-received-after-filing-itr-check-these-6-things-if-refund-is-delayed-failed-or-not-credited-11788836181455.html",
+     "summary": "Filed your ITR but the income-tax refund has not reached your bank account? Here are six things to check if the refund is delayed, failed or marked as issued. From checking your refund status and bank-account validation to requesting a refund reissue, here’s what taxpayers should do next.",
+     "published": "2026-09-08T03:11:12+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/08/600x338/Gemini_Generated_Image_2npwb52npwb5npw_178883702_1788837033224_413493e1-6189-4885-8439-7a9679da548b_1788837033371_3df91583-ba55-4804-b8fc-9ecb2fcbdbae_1dcdb151-e722-4633-9305-d3dc0efda6fe_1aae953b-ce74-4302-9065-ed880875d019.png",
+     "licence": "linkout",
+     "id": "420c9d5e6391",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "6 things if refund is delayed"
      ]
     },
     {
@@ -225,68 +274,6 @@
      ]
     },
     {
-     "title": "Mutual funds vs direct stocks: The hidden tax advantage on dividends that investors should know about",
-     "url": "https://www.livemint.com/money/personal-finance/mutual-funds-vs-direct-stocks-the-hidden-tax-advantage-on-dividends-that-investors-should-know-about-11788803901216.html",
-     "summary": "Mutual fund investors can benefit from a tax advantage on dividends received by schemes, as these dividends are not taxed at the scheme level. The full amount can remain invested and compound, unlike direct stock dividends, which are taxed at the investor’s slab rate.&nbsp;",
-     "published": "2026-09-07T18:49:05+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/dividend_tax_1788806438661_2e489db2-ca9b-4d60-8d39-b253037b6421_1788806446819_a7e9bc01-7069-47da-bef3-819752727e47_bf293174-1a85-4b71-998c-2af57dbebe21_2de49c4a-8fda-454a-bf4e-adedec687e44.jpg",
-     "licence": "linkout",
-     "id": "9296bb2d9301",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-     "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-     "summary": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-     "published": "2026-09-07T15:41:52+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc41/live/b8f9f260-aaca-11f1-9f87-35997bdaf8f4.jpg",
-     "licence": "linkout",
-     "id": "bbcbdf04b25c",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Vimal Elaichi Makers Approach Delhi High Court Against Food Body Notices To 3 Actors",
-     "url": "https://www.ndtv.com/india-news/vimal-elaichi-makers-approach-delhi-high-court-against-food-body-notices-to-shah-rukh-khan-ajay-devgn-tiger-shroff-12015621#publisher=newsstand",
-     "summary": "PB Agro said it engages services of reputed actors for promotion of the cardamom product under the brand Vimal and its endorsement agreements with them, and the company assures that the ad campaign is in full compliance of the applicable laws.",
-     "published": "2026-09-08T01:17:33+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/q0553l5o_shah-rukh-khan-ajay-devgn-tiger-shroff_625x300_16_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "bd9db3468ccb",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "National News",
-     "figures": [
-      "3 Actors"
-     ]
-    },
-    {
-     "title": "Newborn Dies After Ambulance Gets Stuck For 2 Hours On Damaged Road In UP",
-     "url": "https://www.ndtv.com/india-news/newborn-dies-after-ambulance-gets-stuck-for-2-hours-on-damaged-road-in-up-12015520#publisher=newsstand",
-     "summary": "The ambulance got stuck on a damaged road on the way to the hospital, forcing villagers to tie it to a tractor to pull it out, the complaint said.",
-     "published": "2026-09-07T22:49:15+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/60cnh1ug_ambulance-gets-stuck_625x300_08_September_26.jpeg",
-     "licence": "linkout",
-     "id": "e09e1467e419",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "National News",
-     "figures": [
-      "2 Hours On Damaged Road"
-     ]
-    },
-    {
      "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
      "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
      "summary": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
@@ -301,6 +288,48 @@
      "from_section": "Culture"
     },
     {
+     "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+     "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+     "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+     "published": "2026-09-07T11:30:27+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+     "licence": "linkout",
+     "id": "49fa1c646a86",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Technology"
+    },
+    {
+     "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
+     "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
+     "summary": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
+     "published": "2026-09-07T11:03:33+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de56/live/c2d84b40-aa95-11f1-ab09-7f2415c9a652.jpg",
+     "licence": "linkout",
+     "id": "5038a52d84d7",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Culture"
+    },
+    {
+     "title": "Gift Amid Grief: Delhi Building Collapse Victim's Family Donates His Corneas",
+     "url": "https://www.ndtv.com/india-news/delhi-building-collapse-victim-arpits-family-donates-his-corneas-12015406#publisher=newsstand",
+     "summary": "Overwhelmed by the loss of their young son, Arpit's family took the selfless decision to donate his corneas, ensuring that a part of him could help someone see the world even after his untimely death.",
+     "published": "2026-09-08T02:54:07+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/rgljj2h_delhi-building-collapse_625x300_07_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "265a2c4693c0",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "National News"
+    },
+    {
      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
      "summary": "It's not clear how many people were inside the building - or if there are still people under the debris.",
@@ -313,20 +342,6 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Global Hotline"
-    },
-    {
-     "title": "Panama Canal may cut ship traffic further as El Niño strengthens",
-     "url": "https://www.aljazeera.com/news/2026/9/8/panama-canal-may-cut-ship-traffic-further-as-el-nio-strengthens?traffic_source=rss",
-     "summary": "Canal authorities may further reduce ship traffic if a strengthening El Niño worsens the country's drought.",
-     "published": "2026-09-08T01:16:10+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2207711193-1788821348.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "c37d2b8ad201",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News"
     },
     {
      "title": "Artificial intelligence top draw at upcoming digital trade expo",
@@ -457,7 +472,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-08T03:02:17.466993+00:00",
+     "published": "2026-09-08T03:36:45.468989+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -468,7 +483,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-08T03:02:17.467004+00:00",
+     "published": "2026-09-08T03:36:45.469004+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -479,7 +494,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-08T03:02:17.467006+00:00",
+     "published": "2026-09-08T03:36:45.469009+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -490,7 +505,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-08T03:02:17.467008+00:00",
+     "published": "2026-09-08T03:36:45.469012+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -501,7 +516,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-08T03:02:17.467010+00:00",
+     "published": "2026-09-08T03:36:45.469016+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -512,10 +527,41 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-08T03:02:17.467016+00:00",
+     "published": "2026-09-08T03:36:45.469020+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "CBSE Teacher Eligibility Test 2026 LIVE: CTET 22nd Edition Exam Date Anytime Soon, Correction Window Open Till September 10",
+     "url": "https://www.ndtv.com/education/cbse-ctet-2026-live-22nd-edition-teacher-eligibility-test-exam-date-correction-window-admit-card-city-slip-12015720#publisher=newsstand",
+     "summary": "CBSE CTET 2026 Live Updates: Earlier, the CTET registration portal was active from May 11 to June 10, 2026, and the exam was scheduled for September 6, 2026.",
+     "published": "2026-09-08T02:36:29+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/phjub8vc_ctet-2026_625x300_08_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "5c5ba144b134",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "10. CBSE CTET 2026 Live Updates"
+     ]
+    },
+    {
+     "title": "CTET 2026 Highlights: CBSE Opens Correction Window, Revised Exam Dates For 22nd Edition Soon",
+     "url": "https://www.ndtv.com/education/ctet-2026-live-updates-revised-exam-dates-for-22nd-edition-admit-card-city-slip-exam-day-rules-12008041#publisher=newsstand",
+     "summary": "CBSE CTET: According to the prescribed test structure by the Central Board of Secondary Education, all questions in the CTET exam will be multiple choice questions.",
+     "published": "2026-09-08T02:02:18+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/llclr63k_ctet-2026_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "69bcddf9bf34",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
@@ -665,6 +711,12 @@
        "title": "Delhi Buildings Over 50 Years Old To Face Safety Audits: Minister",
        "url": "https://www.ndtv.com/india-news/delhi-buildings-over-50-years-old-to-face-safety-audits-minister-12015654#publisher=newsstand",
        "summary": "Manohar Lal Khattar said the Ministry of Housing and Urban Affairs is considering a plan to conduct safety audits of all DDA buildings that are more than 50 years old."
+      },
+      {
+       "source": "The Hindu",
+       "title": "Delhi building collapse death toll up to 7; HC orders citywide PG inspection, flags student housing woes",
+       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-building-collapse-death-toll-up-to-7-hc-orders-citywide-pg-inspection-flags-student-housing-woes/article71439955.ece",
+       "summary": "Building owner arrested, along with spouse and son; five MCD officials suspended; Delhi government mulling policy to govern buildings used for different purposes, including PG accommodations"
       }
      ],
      "category": "general",
@@ -692,108 +744,93 @@
    "upsc": false,
    "items": [
     {
-     "title": "Maharashtra will shut down within 10 minutes if Maratha protesters are harmed: Manoj Jarange Patil",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-will-shut-down-within-10-minutes-if-maratha-protesters-are-harmed-manoj-jarange-patil/article71439452.ece",
-     "summary": "Manoj Jarange Patil appealed to female members of the community to treat all the sons and daughters of the Maratha community as their own and act accordingly, while asking the entire community not to act aggressively towards police and protest silently.",
-     "published": "2026-09-08T02:40:20+00:00",
+     "title": "77 days and counting: Haryana guest teachers intensify agitation seeking job regularisation",
+     "url": "https://www.thehindu.com/news/national/haryana/77-days-and-counting-haryana-guest-teachers-intensify-agitation-seeking-job-regularisation/article71440250.ece",
+     "summary": "The teachers are demanding implementation of the State government’s regularisation policies framed in 2014, citing recent judgments of the Supreme Court and the Punjab and Haryana High Court",
+     "published": "2026-09-08T03:30:21+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/aom25y/article71441137.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000238B.jpg",
+     "image": "https://th-i.thgim.com/public/news/cities/Delhi/81nuu3/article71440251.ece/alternates/LANDSCAPE_1200/7_BM_Teachers.jpg",
      "licence": "linkout",
-     "id": "0b9124f01c0d",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "5f47d2b12485",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "10 minutes if Maratha protesters are"
+      "77 days and counting: Haryana guest"
      ]
     },
     {
-     "title": "The incongruity of caste and science",
-     "url": "https://www.thehindu.com/opinion/op-ed/the-incongruity-of-caste-and-science/article71440072.ece",
-     "summary": "A student’s ability to understand thermodynamics or solve a differential equation has nothing to do with the ritual status of their ancestors",
-     "published": "2026-09-08T01:54:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/njyq2k/article71440075.ece/alternates/LANDSCAPE_1200/HRcDaAqbcAAL7Mp.jpg",
-     "licence": "linkout",
-     "id": "11a4e7789cad",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "ISRO won’t be ‘diminished’, says IN-SPACe chairman",
-     "url": "https://www.thehindu.com/sci-tech/science/isro-staff-bodies-seek-clarification-on-the-trajectory-of-privatisation/article71434745.ece",
-     "summary": "The clarification follows concerns raised by nine ISRO employee associations over privatisation",
-     "published": "2026-09-08T01:48:23+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/h59tq6/article71434755.ece/alternates/LANDSCAPE_1200/2025-02-13T115710Z_688319326_RC2PHAA18SVW_RTRMADP_3_INDIA-SPACE.JPG",
-     "licence": "linkout",
-     "id": "e39b0f1a083a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Banned Jamaat factions spar over ‘ideological shift’, ‘property takeover’ in Kashmir",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/bannedjamaat-factions-spar-over-ideological-shift-property-takeover-in-kashmir/article71439643.ece",
-     "summary": "Leaders of the breakaway faction of the JeI, including Ghulam Qadir Wani and Ahmadullah Parray Malik, addressed the press in Srinagar and alleged there were attempts “to sow the seeds of suspicion among their supporters by using the labels like traitors and sellouts”.",
-     "published": "2026-09-08T01:43:06+00:00",
+     "title": "Guntur Municipal Corporation to spend ₹53.75 crores on ‘Nava Guntur’ development plan",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-municipal-corporation-to-spend-5375-crores-on-nava-guntur-development-plan/article71441108.ece",
+     "summary": "Municipal Commissioner K. Mayur Ashok told The Hindu that the projects, spread across six major sectors, aim to improve quality of life, regulate traffic, strengthen sanitation and create better public spaces.",
+     "published": "2026-09-08T03:29:51+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "cc5363402f45",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Uttar Pradesh to set up mental health support cells in all universities and colleges",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-to-set-up-mental-health-support-cells-in-all-universities-and-colleges/article71439718.ece",
-     "summary": "With the objective of providing students with a healthy, safe, and stress-free academic environment, a uniform Student Mental Health and Well-Being Policy will be prepared for all higher education institutions in the State",
-     "published": "2026-09-08T01:34:55+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d65ea63a346e",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "After Delhi PG Collapse, Lt Governor Orders Student Housing Audit In A Week",
-     "url": "https://www.ndtv.com/india-news/after-delhi-pg-collapse-lt-governor-orders-student-housing-audit-in-a-week-12015564#publisher=newsstand",
-     "summary": "The collapse has put the spotlight on the safety of buildings being used to house students, many of whom depend on private PGs because university hostels have limited capacity.",
-     "published": "2026-09-08T00:12:55+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/oddbfh5s_delhi-building-collapse_625x300_08_September_26.jpeg",
-     "licence": "linkout",
-     "id": "fc8544d8b332",
-     "also": [
-      {
-       "source": "The Tribune",
-       "title": "After Delhi PG collapse, govt mulls audit of over 50-yr-old buildings",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmNMM1duWVpwcDVxeGFVaFhGNmZOSTc0cTlYV1EtOGVpeWpEeXhSS3RzQ2lMWWlGeFV5akpRWU91VXVpTTJGcXkxNWxTVm12emN6UWxJX1hhbWxWcXpVeElpaVpHdXE2dUxRWjFudzJMcXA3aDNibjQwNDBfdGpPRnc0cnowSGdfUjZIMldPY21HS0JwbG15VWdWbXR5bVlFaVVlS3lGYzJYX09MU3fSAbIBQVVfeXFMUHhfWTlxTy1VRWVjU3RuT1owLWFyVUsxWlhaZWxIWW5BMFZVdUp1d29za3hkeEdPS2Q0S0luVGc5LTZyMTNLLU8xNzFkbGdJRkNiSUJUWmh5LVd5M0U5Z1FLbERBOTJiNm5tYnVGVlh0WF8zbnNsM3NSLVFYTTEzdW9ONjhKdUc0MzhiQTdCRTJZQk9zZk1qOTdnSEhBOWszM3gyOFNJcTU5T2g1ekVqZDNJdw?oc=5",
-       "summary": "After Delhi PG collapse, govt mulls audit of over 50-yr-old buildings The Tribune"
-      }
-     ],
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Delhi PG Building Collapse: 5 Officials Suspended, Court Orders High-Level Inquiry",
-     "url": "https://www.ndtv.com/india-news/delhi-pg-building-collapse-5-officials-suspended-court-orders-high-level-inquiry-12015545#publisher=newsstand",
-     "summary": "Delhi PG Building Collapse: The building, which housed a boys' PG near Delhi University's South Campus, collapsed while repair work was underway. Seven people were killed in the incident.",
-     "published": "2026-09-07T23:56:38+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/917ua4is_delhi-building-collapse_625x300_08_September_26.jpeg",
-     "licence": "linkout",
-     "id": "630b7e228a76",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "55a71bb36717",
+     "category": "money",
+     "category_label": "Money & scams",
      "figures": [
-      "5 Officials Suspended, Court Orders High-Level"
+      "₹53.75 crore s on ‘Nava Guntur’"
+     ]
+    },
+    {
+     "title": "Head of Zamorin's family of Kozhikode passes away",
+     "url": "https://www.thehindu.com/news/cities/kozhikode/head-of-zamorins-family-of-kozhikode-passes-away/article71441173.ece",
+     "summary": "Mr. Raja was a resident of Chinthavalappu in Kozhikode City. He took charge as the head of the family in June 2025 after the demise of K.C. Ramachandran Raja, a management expert, whose tenure at the helm spanned only a couple of months.",
+     "published": "2026-09-08T03:17:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/ip5pc3/article71441177.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-08%20at%208.42.10%20AM.jpeg",
+     "licence": "linkout",
+     "id": "8c0cbe47aaf7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Are nicotine pouches beyond the law? | Explained",
+     "url": "https://www.thehindu.com/news/national/are-nicotine-pouches-beyond-the-law-explained/article71438519.ece",
+     "summary": "Does COTPA cover nicotine pouches? Why are they not covered by the law banning vapes? Could nicotine pouches be treated as food under Indian law? Can they be legally imported into India? Can nicotine pouches be sold at duty-free shops?",
+     "published": "2026-09-08T03:12:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kv9d13/article71440141.ece/alternates/LANDSCAPE_1200/iStock-2268361721.jpg",
+     "licence": "linkout",
+     "id": "7ba0a8c48aff",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "SSC Invites Applications For Combined Higher Secondary Level Exam 2026 To Fill 2,536 Posts",
+     "url": "https://www.ndtv.com/education/ssc-chsl-2026-notification-ssc-invites-applications-for-combined-higher-secondary-level-exam-2026-to-fill-2-536-posts-12015809#publisher=newsstand",
+     "summary": "SSC CHSL 2026 Notification: The last date for submission of online applications is October 7. The deadline for making the online fee payment is October 8. The application correction window will open on October 14 and close on October 16.",
+     "published": "2026-09-08T03:15:48+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/tdmatfk_ssc-chsl-2026-notification_625x300_08_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "701470e4e2f7",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2,536 Posts"
+     ]
+    },
+    {
+     "title": "Delhi Buildings Over 50 Years Old To Face Safety Audits: Minister",
+     "url": "https://www.ndtv.com/india-news/delhi-buildings-over-50-years-old-to-face-safety-audits-minister-12015654#publisher=newsstand",
+     "summary": "Manohar Lal Khattar said the Ministry of Housing and Urban Affairs is considering a plan to conduct safety audits of all DDA buildings that are more than 50 years old.",
+     "published": "2026-09-08T01:39:21+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2021-10/7cmp3bng_manohar-lal-khattar_625x300_03_October_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8dd0f3cf729d",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "50 Years Old To Face Safety"
      ]
     }
    ]
@@ -804,6 +841,32 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
+     "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+     "summary": "US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks.",
+     "published": "2026-09-08T03:08:28+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9f6f11afda-1788833553.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "a04e18730da0",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+     "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+     "summary": "Bid to take Sanaa comes as fighting between Yemeni forces and Houthis intensify in provinces of al-Bayda and al-Jawf.",
+     "published": "2026-09-08T03:01:38+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9f79bf-1788836287.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "47db92194a76",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
     {
      "title": "Eiffel Tower closed in row over women removed for Hindu group",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group?traffic_source=rss",
@@ -831,7 +894,7 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "EU pledges more than $200m to Greenland amid Trump threats",
+     "title": "EU pledges more than $200m to Greenland amid Trump annexation threats",
      "url": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
      "summary": "Brussels has proposed doubling direct EU aid to Greenland under the bloc's next budget as military exercises kick off.",
      "published": "2026-09-08T01:52:45+00:00",
@@ -844,35 +907,6 @@
      "category_label": "General",
      "figures": [
       "$200 m to Greenland amid"
-     ]
-    },
-    {
-     "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
-     "url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
-     "summary": "UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.",
-     "published": "2026-09-08T01:50:37+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP25174399264874-1757921641.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "74f7fc035f90",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-     "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-     "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-     "published": "2026-09-07T22:23:03+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
-     "licence": "linkout",
-     "id": "c0fa9c1f63e8",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "300 overshot the runway at Miami"
      ]
     },
     {
@@ -962,9 +996,9 @@
      "category_label": "Crime"
     },
     {
-     "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+     "title": "Indonesia airports reopen after volcano eruption leaves 340,000 stranded",
      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-     "summary": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday.",
+     "summary": "Anak Krakatau, which lies about 150km from Jakarta, began spewing lava and volvanic ash late on Friday.",
      "published": "2026-09-07T15:40:47+00:00",
      "source": "BBC News",
      "byline": "",
@@ -974,8 +1008,8 @@
      "category": "general",
      "category_label": "General",
      "figures": [
-      "340,000 stranded as airports extend closure",
-      "150km from capital Jakarta, began"
+      "340,000 stranded",
+      "150km from Jakarta, began spewing"
      ]
     },
     {
@@ -1000,72 +1034,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Maharashtra will shut down within 10 minutes if Maratha protesters are harmed: Manoj Jarange Patil",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-will-shut-down-within-10-minutes-if-maratha-protesters-are-harmed-manoj-jarange-patil/article71439452.ece",
-     "summary": "Manoj Jarange Patil appealed to female members of the community to treat all the sons and daughters of the Maratha community as their own and act accordingly, while asking the entire community not to act aggressively towards police and protest silently.",
-     "published": "2026-09-08T02:40:20+00:00",
+     "title": "77 days and counting: Haryana guest teachers intensify agitation seeking job regularisation",
+     "url": "https://www.thehindu.com/news/national/haryana/77-days-and-counting-haryana-guest-teachers-intensify-agitation-seeking-job-regularisation/article71440250.ece",
+     "summary": "The teachers are demanding implementation of the State government’s regularisation policies framed in 2014, citing recent judgments of the Supreme Court and the Punjab and Haryana High Court",
+     "published": "2026-09-08T03:30:21+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/aom25y/article71441137.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000238B.jpg",
+     "image": "https://th-i.thgim.com/public/news/cities/Delhi/81nuu3/article71440251.ece/alternates/LANDSCAPE_1200/7_BM_Teachers.jpg",
      "licence": "linkout",
-     "id": "0b9124f01c0d",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "5f47d2b12485",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "10 minutes if Maratha protesters are"
+      "77 days and counting: Haryana guest"
      ]
     },
     {
-     "title": "The incongruity of caste and science",
-     "url": "https://www.thehindu.com/opinion/op-ed/the-incongruity-of-caste-and-science/article71440072.ece",
-     "summary": "A student’s ability to understand thermodynamics or solve a differential equation has nothing to do with the ritual status of their ancestors",
-     "published": "2026-09-08T01:54:49+00:00",
+     "title": "Guntur Municipal Corporation to spend ₹53.75 crores on ‘Nava Guntur’ development plan",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-municipal-corporation-to-spend-5375-crores-on-nava-guntur-development-plan/article71441108.ece",
+     "summary": "Municipal Commissioner K. Mayur Ashok told The Hindu that the projects, spread across six major sectors, aim to improve quality of life, regulate traffic, strengthen sanitation and create better public spaces.",
+     "published": "2026-09-08T03:29:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/njyq2k/article71440075.ece/alternates/LANDSCAPE_1200/HRcDaAqbcAAL7Mp.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "11a4e7789cad",
+     "id": "55a71bb36717",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹53.75 crore s on ‘Nava Guntur’"
+     ]
+    },
+    {
+     "title": "Head of Zamorin's family of Kozhikode passes away",
+     "url": "https://www.thehindu.com/news/cities/kozhikode/head-of-zamorins-family-of-kozhikode-passes-away/article71441173.ece",
+     "summary": "Mr. Raja was a resident of Chinthavalappu in Kozhikode City. He took charge as the head of the family in June 2025 after the demise of K.C. Ramachandran Raja, a management expert, whose tenure at the helm spanned only a couple of months.",
+     "published": "2026-09-08T03:17:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/ip5pc3/article71441177.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-08%20at%208.42.10%20AM.jpeg",
+     "licence": "linkout",
+     "id": "8c0cbe47aaf7",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "ISRO won’t be ‘diminished’, says IN-SPACe chairman",
-     "url": "https://www.thehindu.com/sci-tech/science/isro-staff-bodies-seek-clarification-on-the-trajectory-of-privatisation/article71434745.ece",
-     "summary": "The clarification follows concerns raised by nine ISRO employee associations over privatisation",
-     "published": "2026-09-08T01:48:23+00:00",
+     "title": "13 lakh Delhi voters deleted in pre-SIR mapping phase, highest in Phase-3 States",
+     "url": "https://www.thehindu.com/news/cities/Delhi/13-lakh-delhi-voters-deleted-in-pre-sir-mapping-phase-highest-in-phase-3/article71436483.ece",
+     "summary": "January 2026 alone accounted for more deletions than 11 months of 2025; officials say this was part of “continuous updation of rolls”; no separate list was published with reasons for the mass deletions",
+     "published": "2026-09-08T03:03:29+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/h59tq6/article71434755.ece/alternates/LANDSCAPE_1200/2025-02-13T115710Z_688319326_RC2PHAA18SVW_RTRMADP_3_INDIA-SPACE.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/g6pwam/article71440096.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGPBGDKFNJ.3.jpg.jpg",
      "licence": "linkout",
-     "id": "e39b0f1a083a",
+     "id": "99d883e8046d",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Congress SC, ST MPs to petition President over Haldwani ‘purification’ row",
-     "url": "https://www.thehindu.com/news/national/congress-sc-st-mps-to-petition-president-over-haldwani-purification-row/article71439828.ece",
-     "summary": "MP Mallu Ravi said 32 MPs decided in a meeting to finalise a memorandum seeking the President’s intervention; they also decided to constitute a parliamentary forum to take up issues concerning SC and ST communities",
-     "published": "2026-09-08T01:18:27+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ioumiq/article71440122.ece/alternates/LANDSCAPE_1200/_DSC6266.JPG",
-     "licence": "linkout",
-     "id": "d210e6220ba3",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Iran values long-standing, civilisational ties with India: Foreign Ministry",
-     "url": "https://www.thehindu.com/news/international/iran-values-long-standing-civilisational-ties-with-india-foreign-ministry/article71441080.ece",
-     "summary": "Just days before the BRICS summit, Mr. Baghaei said that Chabahar Port is one of the issues of bilateral talks between India and Iran. He said, “Various issues are usually discussed during consultations between Iran and India, including the Chabahar Port, which is important to both countries.”",
-     "published": "2026-09-08T00:41:15+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9ewgb6/article71441081.ece/alternates/LANDSCAPE_1200/GwDbcjCWUAANeIQ%201.jpg",
-     "licence": "linkout",
-     "id": "16c3e189eeba",
-     "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "13 lakh Delhi voters deleted",
+      "3 States",
+      "11 months of 2025; officials"
+     ]
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -1081,17 +1110,17 @@
      "category_label": "General"
     },
     {
-     "title": "School assembly news headlines today- September 8: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYjBYaktneHZrQzg5YzNBdWNGZmJsbEQwVkgyY0V2TlZsRk5ibmV3YTRBaXZCZ2VqYzVfTDdZWjJJcGJJdWtFUXExRTcydDRRZjdlTU12MnNBSXBtLVdUbXlfWG95czFDQjFFS1U1YklkODFueU9qMkVCUThKb0tacURTQnd0UWo3d0pCaWJKcm5NZ2YxMVZRRjNHdG5xLUNHSW8zdWQ5enpkc0JtNnEtdmZuVjBOTzZfbFdTSFhaRHBTWl9WelhoOVZrbXh4Y2pmLW9JWFptYk8zQTc0dW1fdjNDOUptdXc?oc=5",
-     "summary": "School assembly news headlines today- September 8: Top national, sports and world news curated for you India Today",
-     "published": "2026-09-07T11:48:36+00:00",
-     "source": "India Today",
+     "title": "Top news of the day: September 7, 2026",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVXFmVHNteHkwdWhia1ZLLTYyWi01eFNGSXNDVFk4endSRUxrMDRjTnFGeGFTYWhpMG91RHZuWDNFMy13N2lzT19rLWMtQXgxY2UyUURWSUtnZDQxWEFpNFJqbDFTUi15d1hBWUlBcGt2SmFrU1FTZ2x2cUU2VmQ5ZDlqOVYycDR2YUhPRG1NcTIwTVUyX1g2bEVkeWVNOENMbVB6cnl1d0U1R3FNY3J3a29HZ2pnck5oeE13Tk9mdnRlQkVxQ2pINFNYTzA0LU9TZTdUR2trekZHdkhJRGNDaDliUU5KOUZaa3ZVeElCMDM5WWpBNVVONEFn0gGAAkFVX3lxTE43N0hPM2QydzhHTnA5V2xtVldjNHEzbjFTcS1NUW1URkpRMGgwdVN0OGtqclJXNDU3S25PUHBBTFAxYnd1WGhzczFzN2Y4Q2IzOHUxQUVhb1UzYXdVM1g4azNxazdIWHA3bTd0dHZBWVlTajdOWFQwNDBLdDhObkpoX01NV3Fid3FxNmhySnp4VVFmRF9sU0JIVW1QWmV5NHozekVWSzF2cVpZbDhuSTRUVDVVOUNydjFTaWlpRUpLVF9Oa2RwY0RwSDZtaEtfRzkxR2ZlR3JzQnZxdEVTeGJWdUZXSWJFeGxpMTMxWDJPT19jSS14MGVDX1VBSWFNc0g?oc=5",
+     "summary": "Top news of the day: September 7, 2026 The Hindu",
+     "published": "2026-09-07T13:14:28+00:00",
+     "source": "The Hindu",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "5f2755d655c7",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "dd8c7fff9689",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1102,10 +1131,29 @@
    "upsc": true,
    "items": [
     {
+     "title": "Money Market Operations as on September 07, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63541",
+     "summary": "",
+     "published": "2026-09-08T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "d63de2f615d9",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 08, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63540",
      "summary": "",
-     "published": "2026-09-07T00:00:00+00:00",
+     "published": "2026-09-08T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1128,7 +1176,7 @@
      "title": "Auction of Government of India Dated Securities",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63539",
      "summary": "",
-     "published": "2026-09-07T00:00:00+00:00",
+     "published": "2026-09-08T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1147,7 +1195,7 @@
      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series VI due on September 08, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63538",
      "summary": "",
-     "published": "2026-09-07T00:00:00+00:00",
+     "published": "2026-09-08T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1172,7 +1220,7 @@
      "title": "RBI releases data on ECB / FCCB / RDB for July 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63537",
      "summary": "",
-     "published": "2026-09-07T00:00:00+00:00",
+     "published": "2026-09-08T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1191,30 +1239,8 @@
      },
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Sectoral Deployment of Credit by NBFC – July 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63536",
-     "summary": "",
-     "published": "2026-09-07T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "12d22e9cc7b8",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [
-       "NBFC"
-      ],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "id": "editorial",
@@ -1696,6 +1722,19 @@
      ]
     },
     {
+     "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+     "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+     "summary": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+     "published": "2026-09-07T15:41:52+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc41/live/b8f9f260-aaca-11f1-9f87-35997bdaf8f4.jpg",
+     "licence": "linkout",
+     "id": "bbcbdf04b25c",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Can you nominate a minor for insurance or mutual funds? Here's what you need to know",
      "url": "https://www.livemint.com/money/personal-finance/can-you-nominate-a-minor-for-insurance-or-mutual-funds-heres-what-you-need-to-know-11788830436336.html",
      "summary": "Investing in mutual funds or insurance requires nominating a person to receive proceeds upon death. Here's whether minors can be nominated and everything else you need to know.",
@@ -1722,20 +1761,17 @@
      "category_label": "General"
     },
     {
-     "title": "Only 20 of 320 active fund managers have 10+ years of experience: Why investors should look beyond past returns",
-     "url": "https://www.livemint.com/money/personal-finance/only-20-of-320-active-fund-managers-have-10-years-of-experience-why-investors-should-look-beyond-past-returns-11788799689124.html",
-     "summary": "Mutual funds often come with 10- or even 20-year performance histories, but the manager currently making investment decisions may have been running the scheme for much less time. A September 2026 analysis found average manager tenure below three years across every equity-fund category.",
-     "published": "2026-09-07T17:59:08+00:00",
+     "title": "Mutual funds vs direct stocks: The hidden tax advantage on dividends that investors should know about",
+     "url": "https://www.livemint.com/money/personal-finance/mutual-funds-vs-direct-stocks-the-hidden-tax-advantage-on-dividends-that-investors-should-know-about-11788803901216.html",
+     "summary": "Mutual fund investors can benefit from a tax advantage on dividends received by schemes, as these dividends are not taxed at the scheme level. The full amount can remain invested and compound, unlike direct stock dividends, which are taxed at the investor’s slab rate.&nbsp;",
+     "published": "2026-09-07T18:49:05+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/fund_mananer_1788803256265_ea68963d-2ca1-4a75-ae36-2a26aa2abcc5_1788803264590_31aca6bf-c842-4ff0-9d68-f243f69e167f_6cd4b48f-3704-4138-9c38-95218ef162db_e369da19-dabe-48f7-804d-bb44298ea3e7.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/dividend_tax_1788806438661_2e489db2-ca9b-4d60-8d39-b253037b6421_1788806446819_a7e9bc01-7069-47da-bef3-819752727e47_bf293174-1a85-4b71-998c-2af57dbebe21_2de49c4a-8fda-454a-bf4e-adedec687e44.jpg",
      "licence": "linkout",
-     "id": "408cb285677c",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "320 active fund managers have 10+"
-     ]
+     "id": "9296bb2d9301",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -1791,19 +1827,6 @@
      ]
     },
     {
-     "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-     "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-     "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
-     "published": "2026-09-07T11:30:27+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
-     "licence": "linkout",
-     "id": "49fa1c646a86",
-     "category": "celebrity",
-     "category_label": "Celebrity"
-    },
-    {
      "title": "Tough choices ahead as the US pushes a global artificial-intelligence divide",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmlMY1VvZHBEQ3pwaTFMS0MweFhfTmJHUWhLZ2VjSjNfR1JMSHBuTjh2OUxMVlU0a3hlRnpZRUJOcHZIMHk4aXNSODUwdWhYSEkxWDYxU1FqbkJJNGgtdHdTNkhZdVhrN1BtQnBCVzcwYXZpQ0toS25rWGRfcnBxOVRoT0tPTWJxb1cxLWFtSVljZzIyYWdBcGpKMUJSckJrUVY5c1pxVQ?oc=5",
      "summary": "Tough choices ahead as the US pushes a global artificial-intelligence divide Bruegel",
@@ -1817,11 +1840,11 @@
      "category_label": "General"
     },
     {
-     "title": "Artificial Intelligence",
+     "title": "Artificial Intelligence - ABC News",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-     "summary": "Artificial Intelligence abcnews.com",
-     "published": "2026-09-07T13:57:49+00:00",
-     "source": "abcnews.com",
+     "summary": "Artificial Intelligence ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-09-07T13:58:04+00:00",
+     "source": "Breaking News, Latest News and Videos",
      "byline": "",
      "image": null,
      "licence": "linkout",
