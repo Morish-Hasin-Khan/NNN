@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T20:01:50.665832+00:00",
+ "generated_at": "2026-09-09T20:35:45.376865+00:00",
  "podcasts_fetched_at": "2026-09-07T22:33:33.021373+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "China",
   "Guwahati Police",
+  "Assam Official",
   "Jazeera English",
   "News",
   "Serious Fraud",
-  "EXCLUSIVE India",
-  "Gandhinagar",
-  "Class Keralam",
-  "Israeli Gaza",
-  "Black"
+  "Xiaomi India",
+  "Forest Tribal",
+  "Rahul Gandhi",
+  "IAEA Iran",
+  "Russian"
  ],
  "sections": [
   {
@@ -102,20 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "China slams US claims of ‘industrial-scale’ AI theft",
-     "url": "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss",
-     "summary": "The response comes after three US agencies accused Chinese AI companies of exploiting American AI models.",
-     "published": "2026-09-09T19:21:50+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa1957b56-1788974459.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "5f84a4c8bd07",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
     {
      "title": "Guwahati Police Seize Fridge Used To Store Woman's Severed Head",
      "url": "https://www.ndtv.com/india-news/guwahati-police-seize-fridge-used-to-store-womans-severed-head-12025414#publisher=newsstand",
@@ -145,46 +131,60 @@
      "from_section": "National News"
     },
     {
-     "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
-     "summary": "An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.",
-     "published": "2026-09-09T19:37:47+00:00",
+     "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+     "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+     "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+     "published": "2026-09-09T13:29:33+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png",
+     "licence": "linkout",
+     "id": "4b9e58b413d5",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case",
+     "url": "https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece",
+     "summary": "The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash",
+     "published": "2026-09-09T20:31:06+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/vj5932/article71449022.ece/alternates/LANDSCAPE_1200/6607_8_9_2026_17_57_35_3_08_09_RAHULGANDHILUCKNOW_J.JPG",
+     "licence": "linkout",
+     "id": "ea00d45b957c",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News"
+    },
+    {
+     "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
+     "url": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
+     "summary": "In an interview with Al Jazeera, Yemen's ambassador warns Houthi attacks threaten global shipping.",
+     "published": "2026-09-09T20:05:48+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-20.31.15-1788982387.png?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a9fb891bc3a-1788852369.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "7dc0d16e8a74",
+     "id": "c0a6a25de717",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
-     "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
-     "summary": "Houthis are trying to drag Saudi Arabia into conflict by targeting Saudi territory, says Yemen’s Ambassador to Qatar.",
-     "published": "2026-09-09T19:18:19+00:00",
-     "source": "Al Jazeera",
+     "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+     "url": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+     "summary": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
+     "published": "2026-09-09T12:20:40+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788981418.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c7/live/6a7115c0-ac3b-11f1-b483-f5be285e6b7e.jpg",
      "licence": "linkout",
-     "id": "ec8e7f2d5497",
+     "id": "033c708339e6",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Ollie Robinson Creates History, Achieves Remarkable Test Bowling Feat Against Pakistan",
-     "url": "https://sports.ndtv.com/cricket/ollie-robinson-creates-history-achieves-remarkable-test-bowling-feat-against-pakistan-12024117#publisher=newsstand",
-     "summary": "England pacer Ollie Robinson has emerged as the standout figure in Test bowling, boasting the best bowling average among bowlers with 100-plus wickets since the First World War, with an impressive mark of 19.10.",
-     "published": "2026-09-09T14:27:30+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/qhvs228g_ollie-robinson-afp_625x300_19_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "dc4283e7e720",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Sports"
+     "from_section": "Business"
     },
     {
      "title": "School assembly news headlines today- September 10: Top national, sports and world news curated for you",
@@ -209,6 +209,23 @@
      "from_section": "National Hotlines"
     },
     {
+     "title": "Iraqi graduates protest for govt jobs amid unemployment crisis",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-reported-iraq-grad-protests?traffic_source=rss",
+     "summary": "More than 1,000 medical and health graduates have taken to Baghdad’s streets demanding government jobs.",
+     "published": "2026-09-09T20:05:22+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788984254.jpg?resize=1920%2C1071&quality=80",
+     "licence": "linkout",
+     "id": "7e1825663960",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News",
+     "figures": [
+      "1,000 medical and health graduates have"
+     ]
+    },
+    {
      "title": "1,169 candidates set to win unopposed in Tripura village committee elections",
      "url": "https://www.thehindu.com/news/national/tripura/1169-candidates-set-to-win-unopposed-in-tripura-village-committee-elections/article71448973.ece",
      "summary": "Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State Election Commission",
@@ -220,26 +237,12 @@
      "id": "b04ccc0b3732",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "1,169 candidates set to win unopposed",
       "4,597 seats across 587 village committees",
       "587 village committees as only solitary"
      ]
-    },
-    {
-     "title": "Madurantakam and Dharapuram, going to byelections next month, have more than one common feature",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/madurantakam-and-dharapuram-going-to-byelections-next-month-have-more-than-one-common-feature/article71447948.ece",
-     "summary": "",
-     "published": "2026-09-09T19:29:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "bff83f4891bd",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
     },
     {
      "title": "India-Founded Cognizant’s US Green Card Filings Suspended Amid Alleged Fraud Probe",
@@ -328,6 +331,20 @@
      "from_section": "Culture"
     },
     {
+     "title": "UK man charged with assisting Russian military spies in sabotage plot",
+     "url": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss",
+     "summary": "Joshua Cammidge, 31, has been charged after alleged contact with a member of the GRU Volunteer Corps.",
+     "published": "2026-09-09T20:17:49+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa1ba69d3-1788983913.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "2859b88261df",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global News"
+    },
+    {
      "title": "15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar",
      "url": "https://www.thehindu.com/news/national/gujarat/workers-rescued-several-feared-trapped-as-iron-slab-falls-at-building-site-in-gandhinagar/article71448971.ece",
      "summary": "The accident took place around 9 p.m. at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath.",
@@ -346,20 +363,6 @@
      ]
     },
     {
-     "title": "Two rescued after plane makes emergency landing in Black Sea",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss",
-     "summary": "Two Belgian nationals were rescued by Turkish authorities after their private aircraft suffered engine failure.",
-     "published": "2026-09-09T19:27:18+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788982016.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "6d6b625c9015",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
-    },
-    {
      "title": "Two Class 9 students from Keralam to compete at international robotics meet",
      "url": "https://www.thehindu.com/news/national/kerala/two-keralam-girls-to-compete-at-international-robotics-meet/article71447397.ece",
      "summary": "The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques",
@@ -371,7 +374,7 @@
      "id": "cab8ec0a8ad6",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "9 students from Keralam to compete"
      ]
@@ -408,46 +411,46 @@
      "from_section": "Technology"
     },
     {
-     "title": "Rampant Raphinha nets two goals as Barcelona rout Feyenoord",
-     "url": "https://www.aljazeera.com/sports/2026/9/9/rampant-raphinha-nets-two-goals-as-barcelona-rout-feyenoord?traffic_source=rss",
-     "summary": "Spanish giants Barcelona open their Champions League campaign with 5-1 against Dutch side Feyenoord.",
-     "published": "2026-09-09T19:19:01+00:00",
-     "source": "Al Jazeera",
+     "title": "Rampant Raphinha Bags Brace As Barcelona Rout Feyenoord 5-1",
+     "url": "https://sports.ndtv.com/football/rampant-raphinha-bags-brace-as-barcelona-rout-feyenoord-5-1-12025339#publisher=newsstand",
+     "summary": "Raphinha continued his superb goalscoring form with a brace as Barcelona demolished Feyenoord 5-1 to begin their Champions League campaign in perfect fashion on Wednesday.",
+     "published": "2026-09-09T19:19:05+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-09T165853Z_172437034_UP1EM991B63VM_RTRMADP_3_SOCCER-CHAMPIONS-BAR-FEY-1788981415.jpg?resize=1920%2C1440",
+     "image": "https://c.ndtvimg.com/2026-09/vdog5vso_raphinha-getty_625x300_10_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "97ea9646a826",
+     "id": "8cb7471ee3d2",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Global News",
+     "from_section": "Sports",
      "figures": [
-      "1 against Dutch side Feyenoord"
+      "1. Raphinha continued his superb goalscoring"
      ]
     },
     {
-     "title": "Lionel Messi vs Cristiano Ronaldo Rivalry Takes A New Turn In Spanish Football",
-     "url": "https://sports.ndtv.com/football/lionel-messi-vs-cristiano-ronaldo-the-rivalry-takes-a-new-turn-in-spanish-football-12024261#publisher=newsstand",
-     "summary": "Lionel Messi is poised to become the majority shareholder at second-division side Eldense, the Spanish club said on Wednesday.",
-     "published": "2026-09-09T14:52:41+00:00",
+     "title": "Elena Rybakina Ensures Rise To World No.1 By Reaching US Open 2026 Semi-Finals",
+     "url": "https://sports.ndtv.com/tennis/elena-rybakina-ensures-rise-to-world-no-1-by-reaching-us-open-2026-semi-finals-12025288#publisher=newsstand",
+     "summary": "Elena Rybakina ensured a rise to the world number one ranking for the first time in her career by defeating Olympic champion Zheng Qinwen in Wednesday's US Open quarter-finals.",
+     "published": "2026-09-09T18:49:06+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/84r49ce4_cristiano-ronaldo-lionel-messi-afp_625x300_09_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/j57erhq8_elena-rybakina-afp_625x300_10_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "29a422a33e8f",
+     "id": "62a93f077f7f",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
     },
     {
-     "title": "\"Strategically And Financially Worse Off\": Cricket NSW Criticises BBL Sale Model",
-     "url": "https://sports.ndtv.com/cricket/threatens-system-nsw-opposes-cricket-australias-bbl-privatisation-move-12021289#publisher=newsstand",
-     "summary": "New South Wales (NSW) criticised Cricket Australia's (CA) decision to proceed with privatisation of the Big Bash League (BBL), warning that the move could threaten the game's ability to invest and have long-term implications for Australian cricket.",
-     "published": "2026-09-09T14:45:42+00:00",
+     "title": "England vs Pakistan Highlights, 3rd Test Day 1: England Seize Control Against Pakistan",
+     "url": "https://sports.ndtv.com/cricket/england-vs-pakistan-3rd-test-live-score-day-1-live-updates-eng-v-pak-cricket-scorecard-babar-azam-joe-root-12022515#publisher=newsstand",
+     "summary": "England vs Pakistan Highlights, 3rd Test Day 1: England overcame the loss of early wickets to establish a slender first-innings lead on the opening day of the third Test following Pakistan's latest batting collapse.",
+     "published": "2026-09-09T18:31:43+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/f8g4lp3_sydney-sixers-sydney-thunder_625x300_09_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/qhe50bn_england-vs-pakistan_625x300_09_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "9260bd4c9fd1",
+     "id": "9f6591b70e94",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
@@ -464,16 +467,16 @@
      "id": "d77e4feb5280",
      "also": [
       {
+       "source": "indiatoday.in",
+       "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWl1S216MkpRS2s4N3J5UWJmbjltTWJHWVk3c1BadERKZWxSRUlWZ09fb1NLOW9OTmw0cU5MSlpmOFItUXcxckZUMkRxdTZJemdDM1hKUmFGcTdNakE5b2w3ZmNJSE5CN3BHdjFZN2FmcGM3YzdYZ3c5SThwVXRFREItLTlEN1ZfdkhvWU0zWkdVZTBJYUtORXAzUk9HSVc2WHhSZGZVQmtGcURNOG13SXE5MDl3dXlOQ0ZRNGN1MnJ6MVd4bW5OLWxnRdIB0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn?oc=5",
+       "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in"
+      },
+      {
        "source": "Reuters",
        "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5",
        "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country Reuters"
-      },
-      {
-       "source": "indiatoday.in",
-       "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn0gHQAUFVX3lxTE51QUZ6VGVjelZ5V20zXzBvdUFpVy0tQVF5QWJGY0N0NVNJdHdTOW1xZmZHbTNJUC1ZSUVBSXp4ekZZQUNNV1Y4SkNRQlNSUFVkdHFNQ05MZEJ0QmVQVVc2ZFpIX3RjRWZxNTllN0VFTG53YnN1Z3FQVmUyaG12SHJ5dkNuWDVKMHVESHlpMnJBT0VmQlpoakZYV01oVUJ1LWdsSWNRSnR0SUREemZUR2JSSG5xOFJ4a3N5UnE2R0VfRTFDOVBVSERXeGVibVdFNmc?oc=5",
-       "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in"
       },
       {
        "source": "StratNews Global",
@@ -555,7 +558,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-09T20:01:36.879793+00:00",
+     "published": "2026-09-09T20:35:32.462084+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -566,7 +569,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-09T20:01:36.879804+00:00",
+     "published": "2026-09-09T20:35:32.462093+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -577,7 +580,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-09T20:01:36.879807+00:00",
+     "published": "2026-09-09T20:35:32.462097+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -588,7 +591,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-09T20:01:36.879812+00:00",
+     "published": "2026-09-09T20:35:32.462099+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -599,7 +602,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-09T20:01:36.879815+00:00",
+     "published": "2026-09-09T20:35:32.462101+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -610,7 +613,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-09T20:01:36.879818+00:00",
+     "published": "2026-09-09T20:35:32.462103+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -649,16 +652,16 @@
      "id": "d77e4feb5280",
      "also": [
       {
+       "source": "indiatoday.in",
+       "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWl1S216MkpRS2s4N3J5UWJmbjltTWJHWVk3c1BadERKZWxSRUlWZ09fb1NLOW9OTmw0cU5MSlpmOFItUXcxckZUMkRxdTZJemdDM1hKUmFGcTdNakE5b2w3ZmNJSE5CN3BHdjFZN2FmcGM3YzdYZ3c5SThwVXRFREItLTlEN1ZfdkhvWU0zWkdVZTBJYUtORXAzUk9HSVc2WHhSZGZVQmtGcURNOG13SXE5MDl3dXlOQ0ZRNGN1MnJ6MVd4bW5OLWxnRdIB0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn?oc=5",
+       "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in"
+      },
+      {
        "source": "Reuters",
        "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5",
        "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country Reuters"
-      },
-      {
-       "source": "indiatoday.in",
-       "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn0gHQAUFVX3lxTE51QUZ6VGVjelZ5V20zXzBvdUFpVy0tQVF5QWJGY0N0NVNJdHdTOW1xZmZHbTNJUC1ZSUVBSXp4ekZZQUNNV1Y4SkNRQlNSUFVkdHFNQ05MZEJ0QmVQVVc2ZFpIX3RjRWZxNTllN0VFTG53YnN1Z3FQVmUyaG12SHJ5dkNuWDVKMHVESHlpMnJBT0VmQlpoakZYV01oVUJ1LWdsSWNRSnR0SUREemZUR2JSSG5xOFJ4a3N5UnE2R0VfRTFDOVBVSERXeGVibVdFNmc?oc=5",
-       "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in"
       },
       {
        "source": "StratNews Global",
@@ -683,6 +686,19 @@
      "category_label": "Mystery & investigation"
     },
     {
+     "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWl1S216MkpRS2s4N3J5UWJmbjltTWJHWVk3c1BadERKZWxSRUlWZ09fb1NLOW9OTmw0cU5MSlpmOFItUXcxckZUMkRxdTZJemdDM1hKUmFGcTdNakE5b2w3ZmNJSE5CN3BHdjFZN2FmcGM3YzdYZ3c5SThwVXRFREItLTlEN1ZfdkhvWU0zWkdVZTBJYUtORXAzUk9HSVc2WHhSZGZVQmtGcURNOG13SXE5MDl3dXlOQ0ZRNGN1MnJ6MVd4bW5OLWxnRdIB0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn?oc=5",
+     "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in",
+     "published": "2026-09-09T10:40:59+00:00",
+     "source": "indiatoday.in",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "2674c95fd055",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
      "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5",
      "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country Reuters",
@@ -694,19 +710,6 @@
      "id": "0396c7ba12f5",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn0gHQAUFVX3lxTE51QUZ6VGVjelZ5V20zXzBvdUFpVy0tQVF5QWJGY0N0NVNJdHdTOW1xZmZHbTNJUC1ZSUVBSXp4ekZZQUNNV1Y4SkNRQlNSUFVkdHFNQ05MZEJ0QmVQVVc2ZFpIX3RjRWZxNTllN0VFTG53YnN1Z3FQVmUyaG12SHJ5dkNuWDVKMHVESHlpMnJBT0VmQlpoakZYV01oVUJ1LWdsSWNRSnR0SUREemZUR2JSSG5xOFJ4a3N5UnE2R0VfRTFDOVBVSERXeGVibVdFNmc?oc=5",
-     "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in",
-     "published": "2026-09-09T10:40:59+00:00",
-     "source": "indiatoday.in",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "1db745662156",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
     },
     {
      "title": "Xiaomi Investigation Recommended By India Fraud Agency",
@@ -782,66 +785,54 @@
    "upsc": false,
    "items": [
     {
-     "title": "15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar",
-     "url": "https://www.thehindu.com/news/national/gujarat/workers-rescued-several-feared-trapped-as-iron-slab-falls-at-building-site-in-gandhinagar/article71448971.ece",
-     "summary": "The accident took place around 9 p.m. at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath.",
-     "published": "2026-09-09T19:42:04+00:00",
+     "title": "Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent",
+     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece",
+     "summary": "Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up government projects is part of “misinformation campaign”",
+     "published": "2026-09-09T20:31:33+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nv342e/article71448976.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-10%20010604.png",
+     "image": "https://th-i.thgim.com/public/incoming/7u96lo/article71448785.ece/alternates/LANDSCAPE_1200/iStock-1960900117%201.jpg",
      "licence": "linkout",
-     "id": "f09c8a5811df",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "15 workers rescued, 12 hospitalised",
-      "12 hospitalised after iron slab collapses"
-     ]
+     "id": "c9d4f3e3939d",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Two Class 9 students from Keralam to compete at international robotics meet",
-     "url": "https://www.thehindu.com/news/national/kerala/two-keralam-girls-to-compete-at-international-robotics-meet/article71447397.ece",
-     "summary": "The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques",
-     "published": "2026-09-09T19:34:11+00:00",
+     "title": "‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case",
+     "url": "https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece",
+     "summary": "The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash",
+     "published": "2026-09-09T20:31:06+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/vj5932/article71449022.ece/alternates/LANDSCAPE_1200/6607_8_9_2026_17_57_35_3_08_09_RAHULGANDHILUCKNOW_J.JPG",
      "licence": "linkout",
-     "id": "cab8ec0a8ad6",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "9 students from Keralam to compete"
-     ]
+     "id": "ea00d45b957c",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "1,169 candidates set to win unopposed in Tripura village committee elections",
-     "url": "https://www.thehindu.com/news/national/tripura/1169-candidates-set-to-win-unopposed-in-tripura-village-committee-elections/article71448973.ece",
-     "summary": "Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State Election Commission",
-     "published": "2026-09-09T19:33:39+00:00",
+     "title": "Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University",
+     "url": "https://www.thehindu.com/news/national/maharashtra/local-tribals-oppose-appointment-of-dreaded-ex-maoist-as-co-ordinator-at-gondwana-university/article71448578.ece",
+     "summary": "‘The man who deceived tribals has been given the responsibility to spread awareness among them’",
+     "published": "2026-09-09T20:29:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/2nv1fi/article71448794.ece/alternates/LANDSCAPE_1200/PXL_20260815_063452235.jpg",
      "licence": "linkout",
-     "id": "b04ccc0b3732",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "1,169 candidates set to win unopposed",
-      "4,597 seats across 587 village committees",
-      "587 village committees as only solitary"
-     ]
+     "id": "9c43f7d44bba",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/new-secretariat-at-pattinapakkam-will-result-in-severe-traffic-congestion-anbumani/article71447305.ece",
+     "title": "Rural Development department officials want to know rationale behind appointment of IFS, IAS officers as project directors",
+     "url": "https://www.thehindu.com/news/cities/chennai/rural-development-department-officials-want-to-know-rationale-behind-appointment-of-ifs-ias-officers-as-project-directors/article71444173.ece",
      "summary": "",
-     "published": "2026-09-09T19:30:59+00:00",
+     "published": "2026-09-09T20:03:28+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "866ceb35c931",
+     "id": "2687e9865842",
      "category": "general",
      "category_label": "General"
     },
@@ -880,56 +871,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
-     "summary": "An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.",
-     "published": "2026-09-09T19:37:47+00:00",
+     "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
+     "url": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
+     "summary": "The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.",
+     "published": "2026-09-09T20:23:34+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-20.31.15-1788982387.png?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26061384129728-1788976776.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "7dc0d16e8a74",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "25fe3746dc06",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Iran referred to UN Security Council for nuclear non-compliance",
+       "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+       "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections."
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Two rescued after plane makes emergency landing in Black Sea",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss",
-     "summary": "Two Belgian nationals were rescued by Turkish authorities after their private aircraft suffered engine failure.",
-     "published": "2026-09-09T19:27:18+00:00",
+     "title": "UK man charged with assisting Russian military spies in sabotage plot",
+     "url": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss",
+     "summary": "Joshua Cammidge, 31, has been charged after alleged contact with a member of the GRU Volunteer Corps.",
+     "published": "2026-09-09T20:17:49+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788982016.jpg?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa1ba69d3-1788983913.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "6d6b625c9015",
+     "id": "2859b88261df",
      "category": "human",
      "category_label": "Human interest"
     },
     {
-     "title": "China slams US claims of ‘industrial-scale’ AI theft",
-     "url": "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss",
-     "summary": "The response comes after three US agencies accused Chinese AI companies of exploiting American AI models.",
-     "published": "2026-09-09T19:21:50+00:00",
+     "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
+     "url": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
+     "summary": "In an interview with Al Jazeera, Yemen's ambassador warns Houthi attacks threaten global shipping.",
+     "published": "2026-09-09T20:05:48+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa1957b56-1788974459.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a9fb891bc3a-1788852369.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "5f84a4c8bd07",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "c0a6a25de717",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-     "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-     "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-     "published": "2026-09-09T13:29:33+00:00",
-     "source": "BBC News",
+     "title": "Apple debuts $1,999 passport-shaped foldable phone, called Duo",
+     "url": "https://www.aljazeera.com/economy/2026/9/9/apple-debuts-1999-passport-shaped-foldable-phone-called-duo?traffic_source=rss",
+     "summary": "The Duo launch, first with new CEO John Ternus, is the most noticeable overhaul of Apple's flagship product since 2017.",
+     "published": "2026-09-09T20:00:35+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa1b4c74a50-1788982471.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "4b9e58b413d5",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "407c8a428712",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "$1,999  passport-shaped foldable phone, called"
+     ]
     },
     {
      "title": "Google picks Finland for its largest single investment in Europe",
@@ -964,6 +966,19 @@
      ]
     },
     {
+     "title": "Iran referred to UN Security Council for nuclear non-compliance",
+     "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+     "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+     "published": "2026-09-09T20:22:51+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f3/live/c77b2e90-ac86-11f1-b1d1-571ed4d7ff2c.jpg",
+     "licence": "linkout",
+     "id": "016ce06e394c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
      "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
@@ -975,19 +990,6 @@
      "id": "0e9b96493399",
      "category": "conflict",
      "category_label": "War & conflict"
-    },
-    {
-     "title": "Europe's royalty pay respects to King Harald V in Norway",
-     "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
-     "published": "2026-09-09T16:30:28+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6af/live/5c4e4eb0-ac6b-11f1-bc1f-3f186ca4140c.jpg",
-     "licence": "linkout",
-     "id": "bdf4e5874f44",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1087,97 +1089,56 @@
    "upsc": false,
    "items": [
     {
-     "title": "15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar",
-     "url": "https://www.thehindu.com/news/national/gujarat/workers-rescued-several-feared-trapped-as-iron-slab-falls-at-building-site-in-gandhinagar/article71448971.ece",
-     "summary": "The accident took place around 9 p.m. at a building under construction when an iron slab being erected between two buildings suddenly collapsed, trapping workers underneath.",
-     "published": "2026-09-09T19:42:04+00:00",
+     "title": "Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent",
+     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece",
+     "summary": "Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up government projects is part of “misinformation campaign”",
+     "published": "2026-09-09T20:31:33+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nv342e/article71448976.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-10%20010604.png",
+     "image": "https://th-i.thgim.com/public/incoming/7u96lo/article71448785.ece/alternates/LANDSCAPE_1200/iStock-1960900117%201.jpg",
      "licence": "linkout",
-     "id": "f09c8a5811df",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "15 workers rescued, 12 hospitalised",
-      "12 hospitalised after iron slab collapses"
-     ]
-    },
-    {
-     "title": "Two Class 9 students from Keralam to compete at international robotics meet",
-     "url": "https://www.thehindu.com/news/national/kerala/two-keralam-girls-to-compete-at-international-robotics-meet/article71447397.ece",
-     "summary": "The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques",
-     "published": "2026-09-09T19:34:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "cab8ec0a8ad6",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "9 students from Keralam to compete"
-     ]
-    },
-    {
-     "title": "1,169 candidates set to win unopposed in Tripura village committee elections",
-     "url": "https://www.thehindu.com/news/national/tripura/1169-candidates-set-to-win-unopposed-in-tripura-village-committee-elections/article71448973.ece",
-     "summary": "Polling will not be held in one-third of the 4,597 seats across 587 village committees as only solitary nominations have been received, says the State Election Commission",
-     "published": "2026-09-09T19:33:39+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "b04ccc0b3732",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "1,169 candidates set to win unopposed",
-      "4,597 seats across 587 village committees",
-      "587 village committees as only solitary"
-     ]
-    },
-    {
-     "title": "Will uproot forces raising ‘anti-national’ slogans, says West Bengal CM",
-     "url": "https://www.thehindu.com/news/national/west-bengal/will-uproot-forces-raising-anti-national-slogans-says-west-bengal-cm/article71447997.ece",
-     "summary": "Adhikari leads ‘Gerua Samman Yatra’ from Golpark to Jadavpur attended by hundreds of saints and seers dressed in saffron",
-     "published": "2026-09-09T19:29:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Delhi/vj9n21/article71448967.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-     "licence": "linkout",
-     "id": "bf85baae18c2",
+     "id": "c9d4f3e3939d",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Minister launches The Hindu’s coffee table book on Meenakshi-Sundareswarar Temple in Madurai",
-     "url": "https://www.thehindu.com/news/cities/chennai/ministerlaunchesthe-hindus-coffee-table-book-on-meenakshi-sundareswarar-temple-in-madurai/article71448105.ece",
-     "summary": "",
-     "published": "2026-09-09T19:29:00+00:00",
+     "title": "‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case",
+     "url": "https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece",
+     "summary": "The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash",
+     "published": "2026-09-09T20:31:06+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/a419hi/article71448970.ece/alternates/LANDSCAPE_1200/Srinath_BOOK_3.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/vj5932/article71449022.ece/alternates/LANDSCAPE_1200/6607_8_9_2026_17_57_35_3_08_09_RAHULGANDHILUCKNOW_J.JPG",
      "licence": "linkout",
-     "id": "a54d733f05a2",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "ea00d45b957c",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "VMC cracks down on unhygienic conditions in Vijayawada eateries",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/vmc-cracks-down-on-unhygienic-conditions-in-vijayawada-eateries/article71448048.ece",
-     "summary": "Inspections in K.T. Road and B.R.P. Road areas find kitchen, toilet and drinking water violations; fine of ₹2,000 each is imposed on three hotels, notices issued to two others",
-     "published": "2026-09-09T19:28:22+00:00",
+     "title": "Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University",
+     "url": "https://www.thehindu.com/news/national/maharashtra/local-tribals-oppose-appointment-of-dreaded-ex-maoist-as-co-ordinator-at-gondwana-university/article71448578.ece",
+     "summary": "‘The man who deceived tribals has been given the responsibility to spread awareness among them’",
+     "published": "2026-09-09T20:29:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/f47w6s/article71448565.ece/alternates/LANDSCAPE_1200/10745_9_9_2026_20_25_2_1_IMG_20260909_WA00503.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/2nv1fi/article71448794.ece/alternates/LANDSCAPE_1200/PXL_20260815_063452235.jpg",
      "licence": "linkout",
-     "id": "311dda5aaa6a",
+     "id": "9c43f7d44bba",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "₹2,000  each is imposed"
-     ]
+     "category_label": "General"
+    },
+    {
+     "title": "New secretariat at Pattinapakkam will result in severe traffic congestion: Anbumani",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/new-secretariat-at-pattinapakkam-will-result-in-severe-traffic-congestion-anbumani/article71447305.ece",
+     "summary": "",
+     "published": "2026-09-09T19:30:59+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "866ceb35c931",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato",
@@ -1562,19 +1523,6 @@
      "category_label": "General"
     },
     {
-     "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-     "url": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-     "summary": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
-     "published": "2026-09-09T12:20:40+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c7/live/6a7115c0-ac3b-11f1-b483-f5be285e6b7e.jpg",
-     "licence": "linkout",
-     "id": "033c708339e6",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
      "title": "Pharma mutual funds: Kotak Healthcare leads 1-year returns at over 28% — here’s how others performed",
      "url": "https://www.livemint.com/money/personal-finance/pharma-mutual-funds-kotak-healthcare-leads-1-year-returns-at-over-28-per-cent-here-s-how-icici-pru-others-performed-11788974215484.html",
      "summary": "Pharma and healthcare mutual funds have delivered positive returns over the last 1 year, but performance has varied sharply across schemes. While some active funds have gained more than 25%, several others have posted much lower returns.&nbsp;",
@@ -1614,22 +1562,6 @@
    "title": "Technology",
    "upsc": false,
    "items": [
-    {
-     "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-     "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-     "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-     "published": "2026-09-09T20:00:33+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png",
-     "licence": "linkout",
-     "id": "b8e16cf0715f",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "20 years"
-     ]
-    },
     {
      "title": "Google picks Finland for its largest single investment in Europe",
      "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
@@ -1673,6 +1605,19 @@
      "category_label": "General"
     },
     {
+     "title": "Should promotion depend on how workers use AI?",
+     "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+     "summary": "More companies are tying career progression to AI use: is that fair?",
+     "published": "2026-09-08T23:05:23+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb6c/live/d0ef5870-900c-11f1-aabc-c3c7aa714117.jpg",
+     "licence": "linkout",
+     "id": "75538fdf90a2",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Ethiopia creates globally competitive opportunities in artificial intelligence",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1k1M3pHak96Y19OV0xOamQ4U1A5X1ZKTmNYMzlzNHp4OTZmRHRLeWhqeFp2dTVtem95WS1pYm93UnFtOEc4VnBDaDF4X2N1TGFvLWVEdjVPTzdONkg3cm5IanVmeHM4eDQzTlFMdFlkc1V5Y3pqOXczR0ZOMGthSl9JcDBrSmhnbUZxZUJXQmxnYzJzT1dPbzZROF9iLW5SdGtPT2s1b0dlRGs?oc=5",
      "summary": "Ethiopia creates globally competitive opportunities in artificial intelligence TV BRICS",
@@ -1712,15 +1657,15 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Can Artificial Intelligence Be Paused?",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fUlI3TWd5MTBhV1dPTmp2cHY0TnVxWDBhTDRXcktQVG1hREtINkxYUGNjd083TkVpTlFvRnJLRW9sRG11WHlKWF9yQ2c4VU9xbnNYY1pjVmxwZWhYZ0tHd3lBbnAtNG1jNGY0RFNDR2J6aUQyX2ZiaA?oc=5",
-     "summary": "Can Artificial Intelligence Be Paused? www.lvivherald.com",
-     "published": "2026-09-09T15:35:18+00:00",
-     "source": "www.lvivherald.com",
+     "title": "BlackSky Named Exclusive Provider of Very High-Resolution Electro-Optical Constellation for New International Initiative to Build the World’s Largest Artificial Intelligence Infrastructure in Space",
+     "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPSjNUYmNQLXE4XzktdG83c3BwLVVXdWp2WFRoeFExWXVneFNSUUVuazBXUm1qV1o4UmctZ2FmWl80eFJfYURENUdCcTJhQkFDZnBxNlhTTkhkWjQwY2dndWJSSU5ZLU5kal91SGRWa2lIMEdiSDdUeDctVjdOSG1TN1ZqR3BTN1B1UWQ0NEhYUk1uekc2R1NxNjIyV285LU1BZmlWY2NtSEJQVGN6Yy1iU0x1b3pmNHpRa1BWbWRETXlYNWhjQXJtQ3l4QjlNdjJmVlRESG1FbUFwbEh0NXRYQzBmZnJqR0V3YnNGNzFRUTZyUDI2RmNuYi1nQ2g2Z3JMeDlJZHVvWHpXMWwzLU9hdk1iejA3aGktRnVqdy02VVJQeDNHWjNCQkp1SENxMnNDT3VpemgzMmZOMms5YlJhMm1TRmN4WVYzSmdxWUtveTZ4ZW93OXRfcjh5bUZ1al9UOWoySjJzS3l5UG1IdlE?oc=5",
+     "summary": "BlackSky Named Exclusive Provider of Very High-Resolution Electro-Optical Constellation for New International Initiative to Build the World’s Largest Artificial Intelligence Infrastructure in Space Business Wire",
+     "published": "2026-09-09T13:49:00+00:00",
+     "source": "Business Wire",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "095d35ce43d0",
+     "id": "7f8ae938ebac",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1733,74 +1678,62 @@
    "upsc": false,
    "items": [
     {
-     "title": "Lionel Messi vs Cristiano Ronaldo Rivalry Takes A New Turn In Spanish Football",
-     "url": "https://sports.ndtv.com/football/lionel-messi-vs-cristiano-ronaldo-the-rivalry-takes-a-new-turn-in-spanish-football-12024261#publisher=newsstand",
-     "summary": "Lionel Messi is poised to become the majority shareholder at second-division side Eldense, the Spanish club said on Wednesday.",
-     "published": "2026-09-09T14:52:41+00:00",
+     "title": "Vinicius Junior To Play In India? Brazil Finally Confirm Squad For Kolkata Friendly",
+     "url": "https://sports.ndtv.com/football/vinicius-junior-to-headline-brazil-squad-for-historic-india-clash-in-kolkata-12025398#publisher=newsstand",
+     "summary": "The list includes Real Madrid winger Vinicius Junior, who remains the star attraction, and Barcelona forward Raphinha, among a host of other stars.",
+     "published": "2026-09-09T19:21:48+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/84r49ce4_cristiano-ronaldo-lionel-messi-afp_625x300_09_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-06/tvi2gefk_vinicius-junior-afp_625x300_29_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "29a422a33e8f",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "829939c96071",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "\"Strategically And Financially Worse Off\": Cricket NSW Criticises BBL Sale Model",
-     "url": "https://sports.ndtv.com/cricket/threatens-system-nsw-opposes-cricket-australias-bbl-privatisation-move-12021289#publisher=newsstand",
-     "summary": "New South Wales (NSW) criticised Cricket Australia's (CA) decision to proceed with privatisation of the Big Bash League (BBL), warning that the move could threaten the game's ability to invest and have long-term implications for Australian cricket.",
-     "published": "2026-09-09T14:45:42+00:00",
+     "title": "Rampant Raphinha Bags Brace As Barcelona Rout Feyenoord 5-1",
+     "url": "https://sports.ndtv.com/football/rampant-raphinha-bags-brace-as-barcelona-rout-feyenoord-5-1-12025339#publisher=newsstand",
+     "summary": "Raphinha continued his superb goalscoring form with a brace as Barcelona demolished Feyenoord 5-1 to begin their Champions League campaign in perfect fashion on Wednesday.",
+     "published": "2026-09-09T19:19:05+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/f8g4lp3_sydney-sixers-sydney-thunder_625x300_09_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/vdog5vso_raphinha-getty_625x300_10_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "9260bd4c9fd1",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Sri Lanka Cricket Faces Estimated Revenue Loss Of USD 20 Million",
-     "url": "https://sports.ndtv.com/cricket/sri-lanka-cricket-faces-estimated-revenue-loss-of-usd-20-million-12023070#publisher=newsstand",
-     "summary": "Sri Lanka Cricket (SLC) is facing an estimated revenue loss of USD 20 million (Rs 188 crore) after being stripped of the hosting rights for next year's inaugural ICC Women's Champions Trophy tournament.",
-     "published": "2026-09-09T14:43:54+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2023-11/hvaoqi9o_sri-lanka-cricket-x_625x300_04_November_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "977f17ce0f35",
+     "id": "8cb7471ee3d2",
      "category": "sports",
      "category_label": "Sports",
      "figures": [
-      "20 Million",
-      "20 million (Rs 188 crore)",
-      "Rs 188 crore ) after being stripped"
+      "1. Raphinha continued his superb goalscoring"
      ]
     },
     {
-     "title": "Sheetal Devi Clinches Dramatic Shoot-Off Gold As India Shine At Para Archery Series",
-     "url": "https://sports.ndtv.com/archery/sheetal-devi-clinches-dramatic-shoot-off-gold-as-india-shine-at-para-archery-series-12023781#publisher=newsstand",
-     "summary": "Reigning world champion Sheetal Devi held her nerve in a dramatic shoot-off to clinch gold in the para compound women's individual event at the World Archery Para Series Stage III.",
-     "published": "2026-09-09T14:31:35+00:00",
+     "title": "Chris Kreider and The Ducks Part Ways, But Does This Clear The Way For Cutter Gauthier?",
+     "url": "https://sports.ndtv.com/us-nhl/chris-kreider-and-the-ducks-part-ways-but-does-this-clear-the-way-for-cutter-gauthier-12025350#publisher=newsstand",
+     "summary": "Chris Kreider and the Anaheim Ducks have agreed to part ways, giving Anaheim additional cap space as the team continues contract talks with Cutter Gauthier.",
+     "published": "2026-09-09T18:50:44+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2025-09/8p9dmu44_sheetal-devi-_625x300_28_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/rcasgrj8_chris-kreider-_625x300_10_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f554ea21c868",
+     "id": "f488a64d82ea",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Roman Reigns Vs Cody Rhodes Net Worth Comparion 2026: Salaries, Cars, Business Moves And Wealth Compared",
-     "url": "https://sports.ndtv.com/us-wwe/roman-reigns-vs-cody-rhodes-net-worth-comparion-2026-salaries-cars-business-moves-and-wealth-compared-12024116#publisher=newsstand",
-     "summary": "Roman Reigns and Cody Rhodes reached WWE's top tier through very different careers. In 2026, their net worth has a huge gap, with Roman holding the bigger net worth compared to Cody's career in WWE, AEW, business roles, merchandise and brand deals.",
-     "published": "2026-09-09T14:09:01+00:00",
+     "title": "Indian Swimmer To Miss Asian Games After 18-Month Doping Ban",
+     "url": "https://sports.ndtv.com/swimming/indian-swimmer-to-miss-asian-games-after-18-month-doping-ban-12025148#publisher=newsstand",
+     "summary": "An Indian swimmer, who had qualified for the Asian Games, was on Wednesday suspended for 18 months after failing a dope test and will miss the continental event in Aichi-Nagoya this month.",
+     "published": "2026-09-09T18:15:25+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7cq1nq8s_roman-reigns-and-cody-rhodes_625x300_09_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://i.ndtvimg.com/i/2017-01/swimming-generic-afp_806x605_41485226843.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4f0afc90622c",
-     "category": "general",
-     "category_label": "General"
+     "id": "a12cfd131147",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "18 months after failing a dope"
+     ]
     }
    ]
   },
@@ -1814,7 +1747,7 @@
      "title": "BBC drops Drag Race UK after eight series",
      "url": "https://www.bbc.co.uk/news/articles/cq63816e60lo?at_medium=RSS&at_campaign=rss",
      "summary": "Future series will no longer be broadcast on BBC Three as the show moves to a streaming platform owned by its production company.",
-     "published": "2026-09-09T19:56:49+00:00",
+     "published": "2026-09-09T20:16:38+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/716f/live/1b5de710-ac86-11f1-ab14-5b9069dc795d.jpg",
