@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T17:04:08.794633+00:00",
+ "generated_at": "2026-09-09T17:39:13.885028+00:00",
  "podcasts_fetched_at": "2026-09-07T22:33:33.021373+00:00",
  "markets": [
   {
@@ -69,7 +69,8 @@
    "value": 100.66,
    "change": 5.14,
    "changePct": 5.38,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "KPSC Gangwar",
   "Attackers Cameroon",
+  "Marital Rape",
   "Jazeera English",
   "News",
   "Serious Fraud",
   "EXCLUSIVE India",
-  "Tirumala",
-  "Congress",
-  "Mediterranean",
-  "LIVE Napoli"
+  "Government Lalbagh",
+  "Severe Kharif",
+  "Inside Israel",
+  "Mediterranean"
  ],
  "sections": [
   {
@@ -101,20 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "KPSC veterinary officers recruitment scam: Gangwar, Kannale remanded in 14-day judicial custody",
-     "url": "https://www.thehindu.com/news/national/karnataka/kpsc-veterinary-officers-recruitment-scam-gangwar-kannale-remanded-in-14-day-judicial-custody/article71447992.ece",
-     "summary": "The investigating agency told the court that it did not require their custody at present, but reserved the option of seeking their custody again if necessary during the investigation.",
-     "published": "2026-09-09T16:27:42+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bnu1e/article71448639.ece/alternates/LANDSCAPE_1200/28BG-KPSCPAGE1_GD2GALCHD.4.jpg.jpg",
-     "licence": "linkout",
-     "id": "688733456e71",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
     {
      "title": "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
      "url": "https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss",
@@ -144,18 +131,22 @@
      "from_section": "National News"
     },
     {
-     "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-     "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-     "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-     "published": "2026-09-09T16:01:54+00:00",
-     "source": "BBC News",
+     "title": "Class 3 Student Dies After Falling From Moving School Van In Madhya Pradesh",
+     "url": "https://www.ndtv.com/india-news/class-3-student-dies-after-falling-from-moving-school-van-in-madhya-pradeshs-katni-12024169#publisher=newsstand",
+     "summary": "The accident occurred within the jurisdiction of the Vijayraghavgarh police station when the Class 3 student was returning home from school.",
+     "published": "2026-09-09T14:01:01+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg",
+     "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "54e80567fdca",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
+     "id": "ae91efeff173",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "3 Student Dies After Falling",
+      "3 student was returning home"
+     ]
     },
     {
      "title": "Ollie Robinson Creates History, Achieves Remarkable Test Bowling Feat Against Pakistan",
@@ -186,6 +177,20 @@
      "from_section": "Business"
     },
     {
+     "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+     "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+     "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+     "published": "2026-09-09T10:20:40+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcae/live/5358e090-ac2f-11f1-b483-f5be285e6b7e.jpg",
+     "licence": "linkout",
+     "id": "0e9b96493399",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
      "title": "School assembly news headlines today- September 10: Top national, sports and world news curated for you",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQamUzeURHc252Q2ZDcS02VGJyWXhkSHhjbTJpYko4a0FQWFlpdTFTWmN0dFI3a0xXNWk5dlZLSU9nUk42MV9pYWxFY0hydVhKblBubFlfV21NYXRwaXhGX214U2RWTlljU013ZHVKYnp5OHl2U2JPTUhHMmdZcmNZUV9JSTRQTVBjeEhlaFZrSkV5a29LZ0ZXaUdzNzNOMDBUdHV2M0FGQW1pbmRrWDc1NTdxMlFSLTN2OEJpNnBFUjN0aXEydS02TU9uUG9hdVM0UFFYbS1yNlNhU01hRXZvMHZfMkJyd0RT?oc=5",
      "summary": "School assembly news headlines today- September 10: Top national, sports and world news curated for you India Today",
@@ -208,37 +213,35 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "TTD to provide ₹2 lakh life insurance cover for pilgrims who die of natural causes in Tirumala",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-to-provide-2-lakh-life-insurance-cover-for-pilgrims-who-die-of-natural-causes-in-tirumala/article71447238.ece",
-     "summary": "The board also increases the accidental insurance to ₹10 lakh for devotees and extends Employee Health Facility benefits to retired CPS/NPS pensioners and their families; Chief Minister Chandrababu Naidu to offer silk garments to Lord Venkateswara on September 15 making commencement of nine-day Brahmotsavams",
-     "published": "2026-09-09T16:48:08+00:00",
+     "title": "Government is looking at feasibility of tunnel road alignment change to bypass Lalbagh: Karnataka Chief Minister D.K. Shivakumar",
+     "url": "https://www.thehindu.com/news/national/karnataka/government-is-looking-at-feasibility-of-tunnel-road-alignment-change-to-bypass-lalbagh-karnataka-chief-minister-dk-shivakumar/article71448619.ece",
+     "summary": "Greater Bengaluru Development Minister Krishna Byre Gowda confirmed that the Chief Minister had asked them to look at alternate options and they were being explored.",
+     "published": "2026-09-09T17:27:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3yzk6l/article71447429.ece/alternates/LANDSCAPE_1200/03Temple.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/hceae/article71448774.ece/alternates/LANDSCAPE_1200/_KMK1655.JPG",
      "licence": "linkout",
-     "id": "70954dfeb5b3",
+     "id": "f346c11f82d3",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Tamil Nadu’s new Assembly-Secretariat complex to come up at Pattinapakkam",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-new-assembly-secretariat-complex-to-come-up-at-pattinapakkam/article71447243.ece",
+     "summary": "The State government issued an order giving in-principle approval for constructing the complex at Foreshore Estate in Chennai on an aggregate 25.55 acres of land",
+     "published": "2026-09-09T17:24:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i88cof/article71447296.ece/alternates/LANDSCAPE_1200/DJI_20260828102658_0974_D.JPG",
+     "licence": "linkout",
+     "id": "f017f178c0aa",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News",
      "figures": [
-      "₹2 lakh life insurance cover",
-      "₹10 lakh for devotees and extends",
-      "15 making commencement of nine-day Brahmotsavams"
+      "25.55 acres of land"
      ]
-    },
-    {
-     "title": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato",
-     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQb3RCX2FKU1ZJcXZBUWNJc3BJU1M0dzc1SUtFR3pkZmw1Z21JTUh5clFCSFZwQjctbW9lNUdiV01SeXpmbXZMSU5ueHpsSGhmdEJISnZHU19wQmJOaTRHeFExTXBMMEUteUp6Z3ktTy0zeExYOS1WMC14c2FMY2VpZUZoeFZlck1DYlF4eXYyRDczcEk5Z1ZZS3JwQmxyeVFYeDdqNWZ2a0JSZGhGNzFwM0J1dDNpMlBmUnBnQWtiWEtTYzR2aXNsMmlJakI4NU92UzN2bmo5VlZPVnRBY2luYlBEQndoMnZLN201anQ2My04OGZuLVZxMlFvaVd0czFkVnVvNzFFbk93N0tsWDhMMzhKOTNjNE1oREdqd1VVVUh6SVh0V2NYdzVMa2w4aVlJOXR5T1EyeTdmd9IBwAJBVV95cUxNVm9va01uVnJSNEJBOGMxRDhCYktLQUZucGpaUWZ3Y3ZWT2ZFVktuN2pVa1VXY01QOVoyTkwyVFNHeUhhbEhGMndGNUQtYkhiaG5lekV0SnVRN0w3a0llX2Nucnp2NlgwN2Z4UTlTckNJUXNyV3E3M0M2X2JQcWFmdm9BREZ4eFc0dDEtZ05pSnRaVldqX3BVSWN5MTZLVDgyQUtOcTZHQjdfRUZ1b0twNnFMVXhVMkw2bnFoU2MwR2JYZGNvUWNMQkZ2RmoxaW5ERVhQNVVrcHZwOVFlaHFiLWxGYXdreU1UYTQyMGl1UTM3Mld3bUR5WWRWLXlONzIwZ2JYTWg1RHAzZC00Q3JCbUl4QXdLRFB5SldOYk9oMlNuVERlcjNsV09HUTgtUmdqSXhtbVhsbnJyd0xjTHY2Tw?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato The Indian Express",
-     "published": "2026-09-09T12:03:25+00:00",
-     "source": "The Indian Express",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "0dab652c6e74",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
     },
     {
      "title": "India-Founded Cognizant’s US Green Card Filings Suspended Amid Alleged Fraud Probe",
@@ -280,22 +283,18 @@
      ]
     },
     {
-     "title": "Congress alleges ₹10,000 crore tax evasion through unregistered political parties, seeks JPC",
-     "url": "https://www.thehindu.com/news/national/congress-alleges-10000-crore-tax-evasion-through-unregistered-political-parties-seeks-jpc/article71448034.ece",
-     "summary": "Congress leader Jairam Ramesh alleges that 3,260 such parties are operating under ‘BJP patronage’; Gohil seeks probe into the parties and donors",
-     "published": "2026-09-09T16:42:36+00:00",
-     "source": "The Hindu",
+     "title": "Returning to India with a US IRA: When does the tax liability kick in?",
+     "url": "https://www.livemint.com/money/personal-finance/returning-to-india-with-a-us-ira-when-does-the-tax-liability-kick-in-11788759015088.html",
+     "summary": "An Indian citizen returning from the US may face different tax treatment for a 401(k)-to-IRA rollover depending on residential status. But what happens once the taxpayer becomes an Indian ROR?",
+     "published": "2026-09-09T16:40:46+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/f9b5t9/article71448181.ece/alternates/LANDSCAPE_1200/PTI09_09_2026_000156B.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/2-0-1138170138-693227436-0_1679695376564_1788761477752_8b44d8ad-36bf-4768-91c8-e94ce63e210d_86fb23e3-9843-4f0f-8e54-d0ef48c24ec4_e8ab44d6-2bbd-48a4-b6f8-1b2c6bc146f7.jpg",
      "licence": "linkout",
-     "id": "dbab5ced46b9",
+     "id": "7c7c04009448",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National News",
-     "figures": [
-      "₹10,000 crore tax evasion through unregistered",
-      "3,260 such parties are operating under"
-     ]
+     "from_section": "Business"
     },
     {
      "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
@@ -344,6 +343,23 @@
      ]
     },
     {
+     "title": "Google picks Finland for its largest single investment in Europe",
+     "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+     "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+     "published": "2026-09-09T17:06:48+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
+     "licence": "linkout",
+     "id": "cd9b6cc47ed0",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Global News",
+     "figures": [
+      "€13bn data centre project will"
+     ]
+    },
+    {
      "title": "Can Artificial Intelligence Be Paused?",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fUlI3TWd5MTBhV1dPTmp2cHY0TnVxWDBhTDRXcktQVG1hREtINkxYUGNjd083TkVpTlFvRnJLRW9sRG11WHlKWF9yQ2c4VU9xbnNYY1pjVmxwZWhYZ0tHd3lBbnAtNG1jNGY0RFNDR2J6aUQyX2ZiaA?oc=5",
      "summary": "Can Artificial Intelligence Be Paused? www.lvivherald.com",
@@ -370,20 +386,6 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Business"
-    },
-    {
-     "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
-     "summary": "AI could kill all humans in next decade, warn experts: but how seriously should we take them? The Guardian",
-     "published": "2026-09-09T15:25:00+00:00",
-     "source": "The Guardian",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "ffa595acb992",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
     },
     {
      "title": "LIVE: Napoli vs Arsenal – UEFA Champions League",
@@ -445,10 +447,10 @@
        "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country Reuters"
       },
       {
-       "source": "indiatoday.in",
+       "source": "India Today",
        "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn0gHQAUFVX3lxTE51QUZ6VGVjelZ5V20zXzBvdUFpVy0tQVF5QWJGY0N0NVNJdHdTOW1xZmZHbTNJUC1ZSUVBSXp4ekZZQUNNV1Y4SkNRQlNSUFVkdHFNQ05MZEJ0QmVQVVc2ZFpIX3RjRWZxNTllN0VFTG53YnN1Z3FQVmUyaG12SHJ5dkNuWDVKMHVESHlpMnJBT0VmQlpoakZYV01oVUJ1LWdsSWNRSnR0SUREemZUR2JSSG5xOFJ4a3N5UnE2R0VfRTFDOVBVSERXeGVibVdFNmc?oc=5",
-       "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in"
+       "summary": "Xiaomi's India business faces probe over investment, e-commerce practices India Today"
       },
       {
        "source": "StratNews Global",
@@ -457,10 +459,10 @@
        "summary": "Xiaomi Investigation Recommended By India Fraud Agency StratNews Global"
       },
       {
-       "source": "mezha.net",
+       "source": "Межа. Новини України.",
        "title": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices",
        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMmJZY0k4akMyVW0zRHhkODJ1R1drd1ZfOUdDQlR2OXl4ZTNsRGhLUHhLNFBQZ2xEMlktZlNjTmNvWkRsdDVfdmpZa0hRRk4tZEtuTWhHSV9NRjhPWmdYZHVGVlhfeU8zcmJn?oc=5",
-       "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices mezha.net"
+       "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices Межа. Новини України."
       },
       {
        "source": "News18",
@@ -530,7 +532,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-09T17:03:57.292582+00:00",
+     "published": "2026-09-09T17:39:00.282321+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -541,7 +543,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-09T17:03:57.292592+00:00",
+     "published": "2026-09-09T17:39:00.282334+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -552,7 +554,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-09T17:03:57.292595+00:00",
+     "published": "2026-09-09T17:39:00.282338+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -563,7 +565,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-09T17:03:57.292598+00:00",
+     "published": "2026-09-09T17:39:00.282342+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -574,7 +576,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-09T17:03:57.292600+00:00",
+     "published": "2026-09-09T17:39:00.282345+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -585,7 +587,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-09T17:03:57.292602+00:00",
+     "published": "2026-09-09T17:39:00.282348+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -616,10 +618,10 @@
        "summary": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country Reuters"
       },
       {
-       "source": "indiatoday.in",
+       "source": "India Today",
        "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn0gHQAUFVX3lxTE51QUZ6VGVjelZ5V20zXzBvdUFpVy0tQVF5QWJGY0N0NVNJdHdTOW1xZmZHbTNJUC1ZSUVBSXp4ekZZQUNNV1Y4SkNRQlNSUFVkdHFNQ05MZEJ0QmVQVVc2ZFpIX3RjRWZxNTllN0VFTG53YnN1Z3FQVmUyaG12SHJ5dkNuWDVKMHVESHlpMnJBT0VmQlpoakZYV01oVUJ1LWdsSWNRSnR0SUREemZUR2JSSG5xOFJ4a3N5UnE2R0VfRTFDOVBVSERXeGVibVdFNmc?oc=5",
-       "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in"
+       "summary": "Xiaomi's India business faces probe over investment, e-commerce practices India Today"
       },
       {
        "source": "StratNews Global",
@@ -628,10 +630,10 @@
        "summary": "Xiaomi Investigation Recommended By India Fraud Agency StratNews Global"
       },
       {
-       "source": "mezha.net",
+       "source": "Межа. Новини України.",
        "title": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices",
        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMmJZY0k4akMyVW0zRHhkODJ1R1drd1ZfOUdDQlR2OXl4ZTNsRGhLUHhLNFBQZ2xEMlktZlNjTmNvWkRsdDVfdmpZa0hRRk4tZEtuTWhHSV9NRjhPWmdYZHVGVlhfeU8zcmJn?oc=5",
-       "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices mezha.net"
+       "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices Межа. Новини України."
       },
       {
        "source": "News18",
@@ -659,9 +661,9 @@
     {
      "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn0gHQAUFVX3lxTE51QUZ6VGVjelZ5V20zXzBvdUFpVy0tQVF5QWJGY0N0NVNJdHdTOW1xZmZHbTNJUC1ZSUVBSXp4ekZZQUNNV1Y4SkNRQlNSUFVkdHFNQ05MZEJ0QmVQVVc2ZFpIX3RjRWZxNTllN0VFTG53YnN1Z3FQVmUyaG12SHJ5dkNuWDVKMHVESHlpMnJBT0VmQlpoakZYV01oVUJ1LWdsSWNRSnR0SUREemZUR2JSSG5xOFJ4a3N5UnE2R0VfRTFDOVBVSERXeGVibVdFNmc?oc=5",
-     "summary": "Xiaomi's India business faces probe over investment, e-commerce practices indiatoday.in",
+     "summary": "Xiaomi's India business faces probe over investment, e-commerce practices India Today",
      "published": "2026-09-09T10:40:59+00:00",
-     "source": "indiatoday.in",
+     "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -685,9 +687,9 @@
     {
      "title": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMmJZY0k4akMyVW0zRHhkODJ1R1drd1ZfOUdDQlR2OXl4ZTNsRGhLUHhLNFBQZ2xEMlktZlNjTmNvWkRsdDVfdmpZa0hRRk4tZEtuTWhHSV9NRjhPWmdYZHVGVlhfeU8zcmJn?oc=5",
-     "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices mezha.net",
+     "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices Межа. Новини України.",
      "published": "2026-09-09T14:15:40+00:00",
-     "source": "mezha.net",
+     "source": "Межа. Новини України.",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -730,82 +732,75 @@
    "upsc": false,
    "items": [
     {
-     "title": "TTD to provide ₹2 lakh life insurance cover for pilgrims who die of natural causes in Tirumala",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-to-provide-2-lakh-life-insurance-cover-for-pilgrims-who-die-of-natural-causes-in-tirumala/article71447238.ece",
-     "summary": "The board also increases the accidental insurance to ₹10 lakh for devotees and extends Employee Health Facility benefits to retired CPS/NPS pensioners and their families; Chief Minister Chandrababu Naidu to offer silk garments to Lord Venkateswara on September 15 making commencement of nine-day Brahmotsavams",
-     "published": "2026-09-09T16:48:08+00:00",
+     "title": "Government is looking at feasibility of tunnel road alignment change to bypass Lalbagh: Karnataka Chief Minister D.K. Shivakumar",
+     "url": "https://www.thehindu.com/news/national/karnataka/government-is-looking-at-feasibility-of-tunnel-road-alignment-change-to-bypass-lalbagh-karnataka-chief-minister-dk-shivakumar/article71448619.ece",
+     "summary": "Greater Bengaluru Development Minister Krishna Byre Gowda confirmed that the Chief Minister had asked them to look at alternate options and they were being explored.",
+     "published": "2026-09-09T17:27:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3yzk6l/article71447429.ece/alternates/LANDSCAPE_1200/03Temple.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/hceae/article71448774.ece/alternates/LANDSCAPE_1200/_KMK1655.JPG",
      "licence": "linkout",
-     "id": "70954dfeb5b3",
+     "id": "f346c11f82d3",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Severe rainfall deficit impacts Kharif farming in Markapuram",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/severe-rainfall-deficit-impacts-kharif-farming-in-markapuram/article71447724.ece",
+     "summary": "The district has received only 108.6 mm rainfall against the normal 228.4 mm from June 1, representing a 52.5% deficit; kharif coverage falls to 21.09%, compared with 79% last year",
+     "published": "2026-09-09T17:26:24+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/qcz180/article71448011.ece/alternates/LANDSCAPE_1200/10745_9_9_2026_19_35_29_1_IMG_20260909_WA0034.JPG",
+     "licence": "linkout",
+     "id": "1bb246bdb9f0",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "1, representing a 52"
+     ]
+    },
+    {
+     "title": "Tamil Nadu’s new Assembly-Secretariat complex to come up at Pattinapakkam",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-new-assembly-secretariat-complex-to-come-up-at-pattinapakkam/article71447243.ece",
+     "summary": "The State government issued an order giving in-principle approval for constructing the complex at Foreshore Estate in Chennai on an aggregate 25.55 acres of land",
+     "published": "2026-09-09T17:24:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i88cof/article71447296.ece/alternates/LANDSCAPE_1200/DJI_20260828102658_0974_D.JPG",
+     "licence": "linkout",
+     "id": "f017f178c0aa",
      "category": "politics",
      "category_label": "Political controversy",
      "figures": [
-      "₹2 lakh life insurance cover",
-      "₹10 lakh for devotees and extends",
-      "15 making commencement of nine-day Brahmotsavams"
+      "25.55 acres of land"
      ]
     },
     {
-     "title": "Congress alleges ₹10,000 crore tax evasion through unregistered political parties, seeks JPC",
-     "url": "https://www.thehindu.com/news/national/congress-alleges-10000-crore-tax-evasion-through-unregistered-political-parties-seeks-jpc/article71448034.ece",
-     "summary": "Congress leader Jairam Ramesh alleges that 3,260 such parties are operating under ‘BJP patronage’; Gohil seeks probe into the parties and donors",
-     "published": "2026-09-09T16:42:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/f9b5t9/article71448181.ece/alternates/LANDSCAPE_1200/PTI09_09_2026_000156B.jpg",
-     "licence": "linkout",
-     "id": "dbab5ced46b9",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹10,000 crore tax evasion through unregistered",
-      "3,260 such parties are operating under"
-     ]
-    },
-    {
-     "title": "HC sets aside potency test order for trainee IPS",
-     "url": "https://www.thehindu.com/news/national/telangana/hc-sets-aside-potency-test-order-for-trainee-ips/article71448573.ece",
+     "title": "Year-long overhaul boosts Haryana Congress, but challenges persist",
+     "url": "https://www.thehindu.com/news/national/haryana/year-long-overhaul-boosts-haryana-congress-but-challenges-persist/article71448412.ece",
      "summary": "",
-     "published": "2026-09-09T16:41:21+00:00",
+     "published": "2026-09-09T17:13:31+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/lrg0cm/article71448598.ece/alternates/LANDSCAPE_1200/de10%20haryana%20congress.jpg",
      "licence": "linkout",
-     "id": "9c85ef83237c",
+     "id": "e1dd9034e9cd",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "St. Francis College hosts conference on emerging technologies, sustainability",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/st-francis-college-hosts-conference-on-emerging-technologies-sustainability/article71448384.ece",
-     "summary": "",
-     "published": "2026-09-09T16:37:25+00:00",
+     "title": "Supreme Court allows Himachal to withdraw COVID-era cases against sitting and former MLAs",
+     "url": "https://www.thehindu.com/news/national/supreme-court-allows-himachal-to-withdraw-covid-era-cases-against-sitting-and-former-mlas/article71448576.ece",
+     "summary": "The cases related to petty offences and transgressions, including burning of effigies and dharnas on highways, committed during the pandemic",
+     "published": "2026-09-09T17:12:54+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/geec7u/article71448739.ece/alternates/LANDSCAPE_1200/Supreme%20Court.jpg",
      "licence": "linkout",
-     "id": "c2d76ce0140b",
+     "id": "00aa9fabf453",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "NRI Commission warns against visa, job recruitment scams",
-     "url": "https://www.thehindu.com/news/national/kerala/nri-commission-warns-against-visa-job-recruitment-scams/article71448399.ece",
-     "summary": "Commission received 268 complaints so far this year; nearly 75 considered at adalat; Chairperson urges job-seekers to choose recruitment agencies recognised by NORKA; Commission warns against fake agencies and unauthorised legal advisory institutions",
-     "published": "2026-09-09T16:36:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "c6ff7aae5e6b",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "268 complaints so far this year",
-      "75 considered at adalat; Chairperson urges"
-     ]
     },
     {
      "title": "Stopped From Entering Pub With 'Gutkha' Pouch, Man Sets It Ablaze",
@@ -848,23 +843,6 @@
      "id": "62c4567fecac",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Class 3 Student Dies After Falling From Moving School Van In Madhya Pradesh",
-     "url": "https://www.ndtv.com/india-news/class-3-student-dies-after-falling-from-moving-school-van-in-madhya-pradeshs-katni-12024169#publisher=newsstand",
-     "summary": "The accident occurred within the jurisdiction of the Vijayraghavgarh police station when the Class 3 student was returning home from school.",
-     "published": "2026-09-09T14:01:01+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "ae91efeff173",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "3 Student Dies After Falling",
-      "3 student was returning home"
-     ]
     }
    ]
   },
@@ -874,6 +852,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
+     "url": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss",
+     "summary": "Palestinian prisoners are being kept in inhumane conditions in Israeli detention facilities, overseen by Ben-Gvir.",
+     "published": "2026-09-09T17:04:24+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Muath-Amarneh-and-family-1788943665.jpg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "9fbeef3520a9",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "78 people including newborn rescued in Mediterranean",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss",
@@ -905,32 +896,6 @@
      "category_label": "Sports"
     },
     {
-     "title": "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
-     "url": "https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss",
-     "summary": "An armed group attacks a teacher training centre in the town of Wum, according to the Northwest Region's governor.",
-     "published": "2026-09-09T16:00:01+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/WEB-1000x562-CAMEROON-NORTH-SOUTH-WEST-1788968506.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "0b0763eb823f",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "As the UK sanctions Israeli settlements, is the two-state solution dead?",
-     "url": "https://www.aljazeera.com/news/2026/9/9/as-the-uk-sanctions-israeli-settlements-is-the-two-state-solution-dead?traffic_source=rss",
-     "summary": "Analysts say UK move far from enough to drive momentum for Palestinian statehood.",
-     "published": "2026-09-09T15:43:29+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa15d64-1788960100.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "6652029d7f84",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
      "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
@@ -942,19 +907,6 @@
      "id": "4b9e58b413d5",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-     "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-     "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-     "published": "2026-09-09T10:20:40+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcae/live/5358e090-ac2f-11f1-b483-f5be285e6b7e.jpg",
-     "licence": "linkout",
-     "id": "0e9b96493399",
-     "category": "conflict",
-     "category_label": "War & conflict"
     },
     {
      "title": "Europe's royalty pay respects to King Harald V in Norway",
@@ -1067,78 +1019,101 @@
    "upsc": false,
    "items": [
     {
-     "title": "TTD to provide ₹2 lakh life insurance cover for pilgrims who die of natural causes in Tirumala",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-to-provide-2-lakh-life-insurance-cover-for-pilgrims-who-die-of-natural-causes-in-tirumala/article71447238.ece",
-     "summary": "The board also increases the accidental insurance to ₹10 lakh for devotees and extends Employee Health Facility benefits to retired CPS/NPS pensioners and their families; Chief Minister Chandrababu Naidu to offer silk garments to Lord Venkateswara on September 15 making commencement of nine-day Brahmotsavams",
-     "published": "2026-09-09T16:48:08+00:00",
+     "title": "Government is looking at feasibility of tunnel road alignment change to bypass Lalbagh: Karnataka Chief Minister D.K. Shivakumar",
+     "url": "https://www.thehindu.com/news/national/karnataka/government-is-looking-at-feasibility-of-tunnel-road-alignment-change-to-bypass-lalbagh-karnataka-chief-minister-dk-shivakumar/article71448619.ece",
+     "summary": "Greater Bengaluru Development Minister Krishna Byre Gowda confirmed that the Chief Minister had asked them to look at alternate options and they were being explored.",
+     "published": "2026-09-09T17:27:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3yzk6l/article71447429.ece/alternates/LANDSCAPE_1200/03Temple.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/hceae/article71448774.ece/alternates/LANDSCAPE_1200/_KMK1655.JPG",
      "licence": "linkout",
-     "id": "70954dfeb5b3",
+     "id": "f346c11f82d3",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Severe rainfall deficit impacts Kharif farming in Markapuram",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/severe-rainfall-deficit-impacts-kharif-farming-in-markapuram/article71447724.ece",
+     "summary": "The district has received only 108.6 mm rainfall against the normal 228.4 mm from June 1, representing a 52.5% deficit; kharif coverage falls to 21.09%, compared with 79% last year",
+     "published": "2026-09-09T17:26:24+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/qcz180/article71448011.ece/alternates/LANDSCAPE_1200/10745_9_9_2026_19_35_29_1_IMG_20260909_WA0034.JPG",
+     "licence": "linkout",
+     "id": "1bb246bdb9f0",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "1, representing a 52"
+     ]
+    },
+    {
+     "title": "Tamil Nadu’s new Assembly-Secretariat complex to come up at Pattinapakkam",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-new-assembly-secretariat-complex-to-come-up-at-pattinapakkam/article71447243.ece",
+     "summary": "The State government issued an order giving in-principle approval for constructing the complex at Foreshore Estate in Chennai on an aggregate 25.55 acres of land",
+     "published": "2026-09-09T17:24:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i88cof/article71447296.ece/alternates/LANDSCAPE_1200/DJI_20260828102658_0974_D.JPG",
+     "licence": "linkout",
+     "id": "f017f178c0aa",
      "category": "politics",
      "category_label": "Political controversy",
      "figures": [
-      "₹2 lakh life insurance cover",
-      "₹10 lakh for devotees and extends",
-      "15 making commencement of nine-day Brahmotsavams"
+      "25.55 acres of land"
      ]
     },
     {
-     "title": "Congress alleges ₹10,000 crore tax evasion through unregistered political parties, seeks JPC",
-     "url": "https://www.thehindu.com/news/national/congress-alleges-10000-crore-tax-evasion-through-unregistered-political-parties-seeks-jpc/article71448034.ece",
-     "summary": "Congress leader Jairam Ramesh alleges that 3,260 such parties are operating under ‘BJP patronage’; Gohil seeks probe into the parties and donors",
-     "published": "2026-09-09T16:42:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/f9b5t9/article71448181.ece/alternates/LANDSCAPE_1200/PTI09_09_2026_000156B.jpg",
-     "licence": "linkout",
-     "id": "dbab5ced46b9",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹10,000 crore tax evasion through unregistered",
-      "3,260 such parties are operating under"
-     ]
-    },
-    {
-     "title": "HC sets aside potency test order for trainee IPS",
-     "url": "https://www.thehindu.com/news/national/telangana/hc-sets-aside-potency-test-order-for-trainee-ips/article71448573.ece",
+     "title": "Two-day ICSSR seminar concludes at MBU",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/two-day-icssr-seminar-concludes-at-mbu/article71448042.ece",
      "summary": "",
-     "published": "2026-09-09T16:41:21+00:00",
+     "published": "2026-09-09T17:12:45+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/etu5k2/article71448747.ece/alternates/LANDSCAPE_1200/10745_9_9_2026_20_12_27_1_IMG_20260909_WA0047.JPG",
      "licence": "linkout",
-     "id": "9c85ef83237c",
+     "id": "592b8a654b0d",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Amid criticism over power cuts, Keralam CM says govt expects to ease electricity crisis by mid-September",
-     "url": "https://www.thehindu.com/news/national/kerala/amid-criticism-over-power-cuts-cm-says-keralam-govt-expects-to-ease-electricity-crisis-by-mid-september/article71446470.ece",
-     "summary": "Satheesan says instructions will be issued to Kerala State Electricity Board to streamline power cut announcements",
-     "published": "2026-09-09T16:30:25+00:00",
+     "title": "NEET-UG protests: Supreme Court questions U.P. Magistrate’s notice to student despite bar",
+     "url": "https://www.thehindu.com/news/national/neet-ug-protests-supreme-court-questions-up-magistrates-notice-to-student-despite-sc-bar/article71445911.ece",
+     "summary": "Chief Justice of India Surya Kant says court will seek explanation from the Magistrate; notice withdrawn a day after it was issued",
+     "published": "2026-09-09T16:59:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8n6jxy/article71446482.ece/alternates/LANDSCAPE_1200/Samastha-mouthpGUMGGEB4C.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/4t327q/article70621377.ece/alternates/LANDSCAPE_1200/INDEX_SUPREME_COURT_02_08_7.jpg",
      "licence": "linkout",
-     "id": "6aa9af654554",
-     "category": "general",
-     "category_label": "General"
+     "id": "1b12f9eb5b68",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Travel operators seek clarity on Karnataka’s fare-meter directive",
-     "url": "https://www.thehindu.com/news/national/karnataka/travel-operators-seek-clarity-on-karnatakas-fare-meter-directive/article71447568.ece",
-     "summary": "KSTOA says circular does not clearly differentiate between various categories of taxis on advance bookings or contractual arrangements",
-     "published": "2026-09-09T16:30:01+00:00",
+     "title": "Rahul Gandhi, Bhagwant spar over the alleged suicide of a Dalit man in Punjab",
+     "url": "https://www.thehindu.com/news/national/punjab/rahul-gandhi-urges-cm-mann-to-sack-harpal-cheema-ensure-impartial-probe-into-punjab-villagers-death/article71445997.ece",
+     "summary": "Congress claims Gulzar Singh died by suicide after being humiliated for questioning the Punjab Finance Minister about the drug menace; “Don’t do politics over dead bodies,” Punjab CM tells Mr. Gandhi",
+     "published": "2026-09-09T16:51:34+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/k7g2t0/article71448653.ece/alternates/LANDSCAPE_1200/_JAI8111.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/vpfigd/article71446029.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000185B.jpg",
      "licence": "linkout",
-     "id": "e846376a369d",
-     "category": "general",
-     "category_label": "General"
+     "id": "ae58683220c7",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQb3RCX2FKU1ZJcXZBUWNJc3BJU1M0dzc1SUtFR3pkZmw1Z21JTUh5clFCSFZwQjctbW9lNUdiV01SeXpmbXZMSU5ueHpsSGhmdEJISnZHU19wQmJOaTRHeFExTXBMMEUteUp6Z3ktTy0zeExYOS1WMC14c2FMY2VpZUZoeFZlck1DYlF4eXYyRDczcEk5Z1ZZS3JwQmxyeVFYeDdqNWZ2a0JSZGhGNzFwM0J1dDNpMlBmUnBnQWtiWEtTYzR2aXNsMmlJakI4NU92UzN2bmo5VlZPVnRBY2luYlBEQndoMnZLN201anQ2My04OGZuLVZxMlFvaVd0czFkVnVvNzFFbk93N0tsWDhMMzhKOTNjNE1oREdqd1VVVUh6SVh0V2NYdzVMa2w4aVlJOXR5T1EyeTdmd9IBwAJBVV95cUxNVm9va01uVnJSNEJBOGMxRDhCYktLQUZucGpaUWZ3Y3ZWT2ZFVktuN2pVa1VXY01QOVoyTkwyVFNHeUhhbEhGMndGNUQtYkhiaG5lekV0SnVRN0w3a0llX2Nucnp2NlgwN2Z4UTlTckNJUXNyV3E3M0M2X2JQcWFmdm9BREZ4eFc0dDEtZ05pSnRaVldqX3BVSWN5MTZLVDgyQUtOcTZHQjdfRUZ1b0twNnFMVXhVMkw2bnFoU2MwR2JYZGNvUWNMQkZ2RmoxaW5ERVhQNVVrcHZwOVFlaHFiLWxGYXdreU1UYTQyMGl1UTM3Mld3bUR5WWRWLXlONzIwZ2JYTWg1RHAzZC00Q3JCbUl4QXdLRFB5SldOYk9oMlNuVERlcjNsV09HUTgtUmdqSXhtbVhsbnJyd0xjTHY2Tw?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato The Indian Express",
+     "published": "2026-09-09T12:03:25+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "0dab652c6e74",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -1633,17 +1608,20 @@
      "category_label": "General"
     },
     {
-     "title": "Returning to India with a US IRA: When does the tax liability kick in?",
-     "url": "https://www.livemint.com/money/personal-finance/returning-to-india-with-a-us-ira-when-does-the-tax-liability-kick-in-11788759015088.html",
-     "summary": "An Indian citizen returning from the US may face different tax treatment for a 401(k)-to-IRA rollover depending on residential status. But what happens once the taxpayer becomes an Indian ROR?",
-     "published": "2026-09-09T16:40:46+00:00",
+     "title": "DA news: Railway union demands Dussehra bonus calculation on higher PLB ceiling, wants ₹18,000 plus dearness allowance",
+     "url": "https://www.livemint.com/money/personal-finance/da-news-railway-union-demands-dussehra-bonus-calculation-on-higher-plb-ceiling-wants-18-000-plus-dearness-allowance-11788969906755.html",
+     "summary": "For employees at Level 2 and above, the association has demanded that the ceiling be increased in proportion to their higher pay levels.",
+     "published": "2026-09-09T17:24:52+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/07/600x338/2-0-1138170138-693227436-0_1679695376564_1788761477752_8b44d8ad-36bf-4768-91c8-e94ce63e210d_86fb23e3-9843-4f0f-8e54-d0ef48c24ec4_e8ab44d6-2bbd-48a4-b6f8-1b2c6bc146f7.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/09/600x338/PTI02-01-2026-000470A-0_1771056492997_1771056516059_1788971313529_1c196234-df97-49c7-baf3-aafbd4dd39f4_e790b781-9fa7-4938-919d-5a20bd37df92_21feccd6-2ec6-4c28-87da-89e52ec7c582.jpg",
      "licence": "linkout",
-     "id": "7c7c04009448",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "8cbf0ae25c1e",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "₹18,000  plus dearness allowance"
+     ]
     },
     {
      "title": "What’s a Freedom Fund? 5 reasons it offers much more than emergency savings, helps you worry less about what-ifs of life",
@@ -1695,19 +1673,6 @@
       "$234  on September 9, 2025",
       "$320,  representing a gain"
      ]
-    },
-    {
-     "title": "Future-ready stocks: These businesses don't trade on Indian exchanges—here's what investors are missing",
-     "url": "https://www.livemint.com/money/personal-finance/futureready-stocks-these-businesses-dont-trade-on-indian-exchanges-heres-what-investors-are-missing-11788958414379.html",
-     "summary": "Indian investors may be overlooking a vast global opportunity by sticking only to domestic equities. A new report highlights what lies beyond India, from global technology leaders to foreign-currency goals, and explains how investors can access these markets.",
-     "published": "2026-09-09T15:18:32+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/09/600x338/dsp_report_f_1788962980043_9d07b211-0099-4fb9-820a-cf0fcf4de4df_1788962983819_6911e5f6-eb23-4a17-9396-1c2dba0e021a_e28b859d-ea76-4ee8-9d91-3698845f8645_e3e2721f-68de-4ab2-ab90-d41af775ee57.png",
-     "licence": "linkout",
-     "id": "3768a131ec80",
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -1717,6 +1682,22 @@
    "title": "Technology",
    "upsc": false,
    "items": [
+    {
+     "title": "Google picks Finland for its largest single investment in Europe",
+     "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+     "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+     "published": "2026-09-09T17:06:48+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
+     "licence": "linkout",
+     "id": "cd9b6cc47ed0",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "figures": [
+      "€13bn data centre project will"
+     ]
+    },
     {
      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
@@ -1744,19 +1725,6 @@
      "category_label": "General"
     },
     {
-     "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-     "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-     "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-     "published": "2026-09-08T23:27:23+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg",
-     "licence": "linkout",
-     "id": "d6d4aa7a20e1",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
      "title": "Should promotion depend on how workers use AI?",
      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
      "summary": "More companies are tying career progression to AI use: is that fair?",
@@ -1768,22 +1736,6 @@
      "id": "75538fdf90a2",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-     "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-     "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-     "published": "2026-09-08T20:57:09+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
-     "licence": "linkout",
-     "id": "d71ed4603eae",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "88 hours"
-     ]
     },
     {
      "title": "New statistical reporting on the use of Artificial Intelligence",
@@ -1808,6 +1760,19 @@
      "image": null,
      "licence": "linkout",
      "id": "029c7aa798e1",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
+     "summary": "AI could kill all humans in next decade, warn experts: but how seriously should we take them? The Guardian",
+     "published": "2026-09-09T15:25:00+00:00",
+     "source": "The Guardian",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "ffa595acb992",
      "category": "tech",
      "category_label": "AI & technology"
     },
