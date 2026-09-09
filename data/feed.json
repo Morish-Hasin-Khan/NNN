@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-09T22:01:54.648483+00:00",
- "podcasts_fetched_at": "2026-09-07T22:33:33.021373+00:00",
+ "generated_at": "2026-09-09T22:34:21.728658+00:00",
+ "podcasts_fetched_at": "2026-09-09T22:34:07.951012+00:00",
  "markets": [
   {
    "key": "sensex",
@@ -49,7 +49,8 @@
    "value": 189994.0,
    "change": 2663.0,
    "changePct": 1.42,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -89,10 +90,10 @@
   "News",
   "Serious Fraud",
   "EXCLUSIVE India",
-  "Madhya Pradesh",
-  "Tate Miami",
-  "Korea",
-  "Baby Indian"
+  "Punjab",
+  "Gauff Andreeva",
+  "Everyone",
+  "Korea"
  ],
  "sections": [
   {
@@ -144,20 +145,6 @@
      "from_section": "National News"
     },
     {
-     "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-     "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
-     "summary": "The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.",
-     "published": "2026-09-09T21:09:45+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa1b7170184-1788983063.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "5ef92d6b0f22",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
      "title": "‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case",
      "url": "https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece",
      "summary": "The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash",
@@ -197,15 +184,33 @@
      "id": "d09b0c58c1b3",
      "also": [
       {
-       "source": "indianexpress.com",
+       "source": "The Indian Express",
        "title": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato",
        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQb3RCX2FKU1ZJcXZBUWNJc3BJU1M0dzc1SUtFR3pkZmw1Z21JTUh5clFCSFZwQjctbW9lNUdiV01SeXpmbXZMSU5ueHpsSGhmdEJISnZHU19wQmJOaTRHeFExTXBMMEUteUp6Z3ktTy0zeExYOS1WMC14c2FMY2VpZUZoeFZlck1DYlF4eXYyRDczcEk5Z1ZZS3JwQmxyeVFYeDdqNWZ2a0JSZGhGNzFwM0J1dDNpMlBmUnBnQWtiWEtTYzR2aXNsMmlJakI4NU92UzN2bmo5VlZPVnRBY2luYlBEQndoMnZLN201anQ2My04OGZuLVZxMlFvaVd0czFkVnVvNzFFbk93N0tsWDhMMzhKOTNjNE1oREdqd1VVVUh6SVh0V2NYdzVMa2w4aVlJOXR5T1EyeTdmd9IBwAJBVV95cUxNVm9va01uVnJSNEJBOGMxRDhCYktLQUZucGpaUWZ3Y3ZWT2ZFVktuN2pVa1VXY01QOVoyTkwyVFNHeUhhbEhGMndGNUQtYkhiaG5lekV0SnVRN0w3a0llX2Nucnp2NlgwN2Z4UTlTckNJUXNyV3E3M0M2X2JQcWFmdm9BREZ4eFc0dDEtZ05pSnRaVldqX3BVSWN5MTZLVDgyQUtOcTZHQjdfRUZ1b0twNnFMVXhVMkw2bnFoU2MwR2JYZGNvUWNMQkZ2RmoxaW5ERVhQNVVrcHZwOVFlaHFiLWxGYXdreU1UYTQyMGl1UTM3Mld3bUR5WWRWLXlONzIwZ2JYTWg1RHAzZC00Q3JCbUl4QXdLRFB5SldOYk9oMlNuVERlcjNsV09HUTgtUmdqSXhtbVhsbnJyd0xjTHY2Tw?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato indianexpress.com"
+       "summary": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato The Indian Express"
       }
      ],
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
+    },
+    {
+     "title": "Punjab govt. employees call off their strike after assurance",
+     "url": "https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece",
+     "summary": "The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”.",
+     "published": "2026-09-09T21:58:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/y1ueav/article71449201.ece/alternates/LANDSCAPE_1200/20260827202L.jpg",
+     "licence": "linkout",
+     "id": "1a1226ca032a",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "8, observed a day-long strike, were",
+      "27 mass casual leave taken"
+     ]
     },
     {
      "title": "Madhya Pradesh govt. hikes MBBS intern stipend by 50% amid protests, hindered medical services",
@@ -220,20 +225,6 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
-    },
-    {
-     "title": "EXCLUSIVE: Hasina's daughter resigns as WHO regional head after fraud allegations",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0Rncm1NVndoWF9WYkJadmRoNHFhUkE1N0RfRldQWnJXVUoySWFJN2FCSXNseS1hVXhMRE1HSFd2YmJkMk1wLWlrR3FNeDRRamwyYlpjRGdWYmVuVTdIdlZwR0xkLVA1cWo0MWVpeUFfUzJzYkxJYTl0anFNLWdNYVhISmdrbkRaQlRueFJiLXJyemZiUDNORWxpVk1MaGotN0hlblgzVWYzbGU0RW05R0FaSlhxRzJJdzFWbDl3?oc=5",
-     "summary": "EXCLUSIVE: Hasina's daughter resigns as WHO regional head after fraud allegations Reuters",
-     "published": "2026-09-09T18:59:08+00:00",
-     "source": "Reuters",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "b03aeec812de",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Scandals & Investigations"
     },
     {
      "title": "India-Founded Cognizant’s US Green Card Filings Suspended Amid Alleged Fraud Probe",
@@ -340,23 +331,6 @@
      ]
     },
     {
-     "title": "Two Class 9 students from Keralam to compete at international robotics meet",
-     "url": "https://www.thehindu.com/news/national/kerala/two-keralam-girls-to-compete-at-international-robotics-meet/article71447397.ece",
-     "summary": "The team showcased a prototype they developed to preserve and digitise palm leaf manuscripts using robotic techniques",
-     "published": "2026-09-09T19:34:11+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "cab8ec0a8ad6",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "National Hotlines",
-     "figures": [
-      "9 students from Keralam to compete"
-     ]
-    },
-    {
      "title": "Global Fintech Fest 2026: Agentic AI, tokenisation and quantum—how these 3 technologies could change how you invest",
      "url": "https://www.livemint.com/money/personal-finance/global-fintech-fest-2026-agentic-ai-tokenisation-and-quantum-how-these-3-technologies-could-change-how-you-invest-11788976610672.html",
      "summary": "At the Global Fintech Fest 2026, agentic AI, tokenisation and quantum are the key themes of the event. These technologies could change how investors manage portfolios, access assets and assess risk over the next decade. Here’s what it means for investors.&nbsp;",
@@ -388,6 +362,23 @@
      "from_section": "Technology"
     },
     {
+     "title": "Google picks Finland for its largest single investment in Europe",
+     "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+     "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+     "published": "2026-09-09T17:06:48+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
+     "licence": "linkout",
+     "id": "cd9b6cc47ed0",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Global News",
+     "figures": [
+      "€13bn data centre project will"
+     ]
+    },
+    {
      "title": "Manchester United vs Sabah: UEFA Champions League – preview, team news",
      "url": "https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss",
      "summary": "Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.",
@@ -397,20 +388,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-30T173403Z_1822946194_UP1EM8U1CSQQI_RTRMADP_3_SOCCER-ENGLAND-MUN-IPS-1788985828.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "478896f07a76",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
-     "url": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
-     "summary": "Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.",
-     "published": "2026-09-09T21:14:20+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa1c060-1788985440.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "d98df01b6af5",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Global News"
@@ -431,6 +408,20 @@
      "figures": [
       "1. Raphinha continued his superb goalscoring"
      ]
+    },
+    {
+     "title": "Elena Rybakina Ensures Rise To World No.1 By Reaching US Open 2026 Semi-Finals",
+     "url": "https://sports.ndtv.com/tennis/elena-rybakina-ensures-rise-to-world-no-1-by-reaching-us-open-2026-semi-finals-12025288#publisher=newsstand",
+     "summary": "Elena Rybakina ensured a rise to the world number one ranking for the first time in her career by defeating Olympic champion Zheng Qinwen in Wednesday's US Open quarter-finals.",
+     "published": "2026-09-09T18:49:06+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/j57erhq8_elena-rybakina-afp_625x300_10_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "62a93f077f7f",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
     },
     {
      "title": "Serious Fraud Investigation Office recommends 'detailed' probe into Xiaomi's India business",
@@ -456,16 +447,16 @@
        "summary": "Xiaomi's India business faces probe over investment, e-commerce practices India Today"
       },
       {
-       "source": "stratnewsglobal.com",
+       "source": "StratNews Global",
        "title": "Xiaomi Investigation Recommended By India Fraud Agency",
        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVVkbzBsNU5aWVhBUF9FaE16MFNsOGhaM2stVUZvVVFEWTVvYUZ6OXJPczdnM000QnBYRXNFTkhtcVhXQWxEVGwtMW40Slo5aElBOHpZM1lHMjF2eTRBdmxDZEFTS0c2eDBpRHAydTdETFhQMFQtU3JLM2ZpVHhRcmFJcUlzdw?oc=5",
-       "summary": "Xiaomi Investigation Recommended By India Fraud Agency stratnewsglobal.com"
+       "summary": "Xiaomi Investigation Recommended By India Fraud Agency StratNews Global"
       },
       {
-       "source": "mezha.net",
+       "source": "Межа. Новини України.",
        "title": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices",
        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMmJZY0k4akMyVW0zRHhkODJ1R1drd1ZfOUdDQlR2OXl4ZTNsRGhLUHhLNFBQZ2xEMlktZlNjTmNvWkRsdDVfdmpZa0hRRk4tZEtuTWhHSV9NRjhPWmdYZHVGVlhfeU8zcmJn?oc=5",
-       "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices mezha.net"
+       "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices Межа. Новини України."
       },
       {
        "source": "News18",
@@ -535,7 +526,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-09T22:01:43.358044+00:00",
+     "published": "2026-09-09T22:34:07.950602+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -546,7 +537,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-09T22:01:43.358056+00:00",
+     "published": "2026-09-09T22:34:07.950615+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -557,7 +548,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-09T22:01:43.358059+00:00",
+     "published": "2026-09-09T22:34:07.950618+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -568,7 +559,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-09T22:01:43.358062+00:00",
+     "published": "2026-09-09T22:34:07.950630+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -579,7 +570,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-09T22:01:43.358064+00:00",
+     "published": "2026-09-09T22:34:07.950633+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -590,7 +581,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-09T22:01:43.358067+00:00",
+     "published": "2026-09-09T22:34:07.950636+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -641,16 +632,16 @@
        "summary": "Xiaomi's India business faces probe over investment, e-commerce practices India Today"
       },
       {
-       "source": "stratnewsglobal.com",
+       "source": "StratNews Global",
        "title": "Xiaomi Investigation Recommended By India Fraud Agency",
        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVVkbzBsNU5aWVhBUF9FaE16MFNsOGhaM2stVUZvVVFEWTVvYUZ6OXJPczdnM000QnBYRXNFTkhtcVhXQWxEVGwtMW40Slo5aElBOHpZM1lHMjF2eTRBdmxDZEFTS0c2eDBpRHAydTdETFhQMFQtU3JLM2ZpVHhRcmFJcUlzdw?oc=5",
-       "summary": "Xiaomi Investigation Recommended By India Fraud Agency stratnewsglobal.com"
+       "summary": "Xiaomi Investigation Recommended By India Fraud Agency StratNews Global"
       },
       {
-       "source": "mezha.net",
+       "source": "Межа. Новини України.",
        "title": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices",
        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMmJZY0k4akMyVW0zRHhkODJ1R1drd1ZfOUdDQlR2OXl4ZTNsRGhLUHhLNFBQZ2xEMlktZlNjTmNvWkRsdDVfdmpZa0hRRk4tZEtuTWhHSV9NRjhPWmdYZHVGVlhfeU8zcmJn?oc=5",
-       "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices mezha.net"
+       "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices Межа. Новини України."
       },
       {
        "source": "News18",
@@ -691,9 +682,9 @@
     {
      "title": "Xiaomi Investigation Recommended By India Fraud Agency",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVVkbzBsNU5aWVhBUF9FaE16MFNsOGhaM2stVUZvVVFEWTVvYUZ6OXJPczdnM000QnBYRXNFTkhtcVhXQWxEVGwtMW40Slo5aElBOHpZM1lHMjF2eTRBdmxDZEFTS0c2eDBpRHAydTdETFhQMFQtU3JLM2ZpVHhRcmFJcUlzdw?oc=5",
-     "summary": "Xiaomi Investigation Recommended By India Fraud Agency stratnewsglobal.com",
+     "summary": "Xiaomi Investigation Recommended By India Fraud Agency StratNews Global",
      "published": "2026-09-09T12:33:39+00:00",
-     "source": "stratnewsglobal.com",
+     "source": "StratNews Global",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -704,9 +695,9 @@
     {
      "title": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMmJZY0k4akMyVW0zRHhkODJ1R1drd1ZfOUdDQlR2OXl4ZTNsRGhLUHhLNFBQZ2xEMlktZlNjTmNvWkRsdDVfdmpZa0hRRk4tZEtuTWhHSV9NRjhPWmdYZHVGVlhfeU8zcmJn?oc=5",
-     "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices mezha.net",
+     "summary": "India Recommends Probe Into Xiaomi’s Ownership and Investment Practices Межа. Новини України.",
      "published": "2026-09-09T14:15:40+00:00",
-     "source": "mezha.net",
+     "source": "Межа. Новини України.",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -739,6 +730,19 @@
      "id": "cc5b404b85a3",
      "category": "mystery",
      "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "EXCLUSIVE: Hasina's daughter resigns as WHO regional head after fraud allegations",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0Rncm1NVndoWF9WYkJadmRoNHFhUkE1N0RfRldQWnJXVUoySWFJN2FCSXNseS1hVXhMRE1HSFd2YmJkMk1wLWlrR3FNeDRRamwyYlpjRGdWYmVuVTdIdlZwR0xkLVA1cWo0MWVpeUFfUzJzYkxJYTl0anFNLWdNYVhISmdrbkRaQlRueFJiLXJyemZiUDNORWxpVk1MaGotN0hlblgzVWYzbGU0RW05R0FaSlhxRzJJdzFWbDl3?oc=5",
+     "summary": "EXCLUSIVE: Hasina's daughter resigns as WHO regional head after fraud allegations Reuters",
+     "published": "2026-09-09T18:59:08+00:00",
+     "source": "Reuters",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "b03aeec812de",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -748,6 +752,23 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Punjab govt. employees call off their strike after assurance",
+     "url": "https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece",
+     "summary": "The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”.",
+     "published": "2026-09-09T21:58:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/y1ueav/article71449201.ece/alternates/LANDSCAPE_1200/20260827202L.jpg",
+     "licence": "linkout",
+     "id": "1a1226ca032a",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "8, observed a day-long strike, were",
+      "27 mass casual leave taken"
+     ]
+    },
     {
      "title": "‘Why nine accused in Palghar doctor assault case are absconding?’: Bombay HC raps police",
      "url": "https://www.thehindu.com/news/national/maharashtra/why-nine-accused-in-palghar-doctor-assault-case-are-absconding-bombay-hc-raps-police/article71448061.ece",
@@ -784,19 +805,6 @@
      "image": "https://th-i.thgim.com/public/incoming/7u96lo/article71448785.ece/alternates/LANDSCAPE_1200/iStock-1960900117%201.jpg",
      "licence": "linkout",
      "id": "c9d4f3e3939d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University",
-     "url": "https://www.thehindu.com/news/national/maharashtra/local-tribals-oppose-appointment-of-dreaded-ex-maoist-as-co-ordinator-at-gondwana-university/article71448578.ece",
-     "summary": "‘The man who deceived tribals has been given the responsibility to spread awareness among them’",
-     "published": "2026-09-09T20:29:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2nv1fi/article71448794.ece/alternates/LANDSCAPE_1200/PXL_20260815_063452235.jpg",
-     "licence": "linkout",
-     "id": "9c43f7d44bba",
      "category": "general",
      "category_label": "General"
     },
@@ -848,6 +856,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Gauff beats Andreeva to reach US Open semifinals in comeback win",
+     "url": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss",
+     "summary": "Coco Gauff sets up US Open semifinal with Elena Rybakina after saving two match points against Mirra Andreeva.",
+     "published": "2026-09-09T22:08:01+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-09T205122Z_35564383_UP1EM991LQLH2_RTRMADP_3_TENNIS-USOPEN-1788991640.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "cdc411fdf388",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "‘Everyone’s had their holidays ruined’: outrage after UK airport chaos",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/everyones-had-their-holidays-ruined-outrage-after-uk-airport-chaos?traffic_source=rss",
+     "summary": "The UK's independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.",
+     "published": "2026-09-09T22:06:25+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788991574.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "5012d169c554",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "US court denies Tate brothers’ bid to be released from Miami jail",
      "url": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
      "summary": "A judge rules the brothers are a 'quintessential flight risk' due to their wealth and frequent international travel.",
@@ -861,32 +895,6 @@
      "category_label": "General"
     },
     {
-     "title": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
-     "url": "https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss",
-     "summary": "Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.",
-     "published": "2026-09-09T21:20:20+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-09T204050Z_602733913_UP1EM991LBZFI_RTRMADP_3_SOCCER-CHAMPIONS-NAP-ARS-1788987282.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "3b5344a9a97d",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Manchester United vs Sabah: UEFA Champions League – preview, team news",
-     "url": "https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss",
-     "summary": "Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.",
-     "published": "2026-09-09T21:15:04+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-30T173403Z_1822946194_UP1EM8U1CSQQI_RTRMADP_3_SOCCER-ENGLAND-MUN-IPS-1788985828.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "478896f07a76",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
@@ -898,22 +906,6 @@
      "id": "710026623b8e",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Google picks Finland for its largest single investment in Europe",
-     "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-     "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-     "published": "2026-09-09T17:06:48+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
-     "licence": "linkout",
-     "id": "cd9b6cc47ed0",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "€13bn data centre project will"
-     ]
     },
     {
      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -1055,6 +1047,23 @@
    "upsc": false,
    "items": [
     {
+     "title": "Punjab govt. employees call off their strike after assurance",
+     "url": "https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece",
+     "summary": "The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as “unauthorised leave”.",
+     "published": "2026-09-09T21:58:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/y1ueav/article71449201.ece/alternates/LANDSCAPE_1200/20260827202L.jpg",
+     "licence": "linkout",
+     "id": "1a1226ca032a",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "8, observed a day-long strike, were",
+      "27 mass casual leave taken"
+     ]
+    },
+    {
      "title": "‘Why nine accused in Palghar doctor assault case are absconding?’: Bombay HC raps police",
      "url": "https://www.thehindu.com/news/national/maharashtra/why-nine-accused-in-palghar-doctor-assault-case-are-absconding-bombay-hc-raps-police/article71448061.ece",
      "summary": "Calling the police action “unacceptable”, Court observed that police has failed to learn from previous incident in July where a doctor was assaulted in Thane District’s Dombivli region’s public hospital",
@@ -1081,15 +1090,15 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Forest rights group asks Tribal Affairs Ministry to withdraw stand on Gram Sabha consent",
-     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/forest-rights-group-asks-tribal-affairs-ministry-to-withdraw-stand-on-gram-sabha-consent/article71448173.ece",
-     "summary": "Campaign for Survival and Dignity further claims argument that Gram Sabha consent is holding up government projects is part of “misinformation campaign”",
-     "published": "2026-09-09T20:31:33+00:00",
+     "title": "Local tribals oppose appointment of dreaded ex-Maoist as co-ordinator at Gondwana University",
+     "url": "https://www.thehindu.com/news/national/maharashtra/local-tribals-oppose-appointment-of-dreaded-ex-maoist-as-co-ordinator-at-gondwana-university/article71448578.ece",
+     "summary": "‘The man who deceived tribals has been given the responsibility to spread awareness among them’",
+     "published": "2026-09-09T20:29:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7u96lo/article71448785.ece/alternates/LANDSCAPE_1200/iStock-1960900117%201.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/2nv1fi/article71448794.ece/alternates/LANDSCAPE_1200/PXL_20260815_063452235.jpg",
      "licence": "linkout",
-     "id": "c9d4f3e3939d",
+     "id": "9c43f7d44bba",
      "category": "general",
      "category_label": "General"
     },
@@ -1109,9 +1118,9 @@
     {
      "title": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato",
      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQb3RCX2FKU1ZJcXZBUWNJc3BJU1M0dzc1SUtFR3pkZmw1Z21JTUh5clFCSFZwQjctbW9lNUdiV01SeXpmbXZMSU5ueHpsSGhmdEJISnZHU19wQmJOaTRHeFExTXBMMEUteUp6Z3ktTy0zeExYOS1WMC14c2FMY2VpZUZoeFZlck1DYlF4eXYyRDczcEk5Z1ZZS3JwQmxyeVFYeDdqNWZ2a0JSZGhGNzFwM0J1dDNpMlBmUnBnQWtiWEtTYzR2aXNsMmlJakI4NU92UzN2bmo5VlZPVnRBY2luYlBEQndoMnZLN201anQ2My04OGZuLVZxMlFvaVd0czFkVnVvNzFFbk93N0tsWDhMMzhKOTNjNE1oREdqd1VVVUh6SVh0V2NYdzVMa2w4aVlJOXR5T1EyeTdmd9IBwAJBVV95cUxNVm9va01uVnJSNEJBOGMxRDhCYktLQUZucGpaUWZ3Y3ZWT2ZFVktuN2pVa1VXY01QOVoyTkwyVFNHeUhhbEhGMndGNUQtYkhiaG5lekV0SnVRN0w3a0llX2Nucnp2NlgwN2Z4UTlTckNJUXNyV3E3M0M2X2JQcWFmdm9BREZ4eFc0dDEtZ05pSnRaVldqX3BVSWN5MTZLVDgyQUtOcTZHQjdfRUZ1b0twNnFMVXhVMkw2bnFoU2MwR2JYZGNvUWNMQkZ2RmoxaW5ERVhQNVVrcHZwOVFlaHFiLWxGYXdreU1UYTQyMGl1UTM3Mld3bUR5WWRWLXlONzIwZ2JYTWg1RHAzZC00Q3JCbUl4QXdLRFB5SldOYk9oMlNuVERlcjNsV09HUTgtUmdqSXhtbVhsbnJyd0xjTHY2Tw?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato indianexpress.com",
+     "summary": "Today News Headlines for School Assembly, September 10, 2026: FDA suspends licenses of ISKCON eateries, local sweet shops boycott Zomato The Indian Express",
      "published": "2026-09-09T12:03:25+00:00",
-     "source": "indianexpress.com",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1283,67 +1292,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Merz: Germany faces a \"tectonic shift\" after AfD victory",
-     "url": "http://www.bbc.co.uk/programmes/p0p8f710",
-     "summary": "Friedrich Merz says the decisive win in the eastern state of Saxony-Anhalt by the far-right Alternative for Germany, AfD, signals the need for a major reckoning. The AfD's national co-leader, Alice Weidel, says it's aiming to win at least forty per cent in the next general election. Also: the funeral of the Bosnian Serb war criminal, General Ratko Mladić, has gone ahead in the Serbian capital, Belgrade, where some people consider him a national hero. The Lebanese president, Joseph Aoun, has warned of a \"dangerous escalation\" by Israel after women and children were killed in an air strike on a residential building in southern Lebanon. A new film about the most important weather forecast in British history, which gave the go-ahead for D-Day on the sixth June 1944, is released in the UK. And the BBC speaks to the 13-year-old who has written a symphony warning about the challenges posed by artificial intelligence. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get…",
-     "published": "2026-09-07T15:35:00+00:00",
+     "title": "AI scientist quits Anthropic over risk to humanity",
+     "url": "http://www.bbc.co.uk/programmes/p0p8rpdt",
+     "summary": "A top safety researcher at Anthropic has warned that AI might be able to improve itself to the point where it poses an existential threat to humanity. Another former employee says that no other human activity poses this level of danger after quiting the company. There has been a growing number of voices within the industry calling for international coordination to slow AI development. Also: The British Prime Minister, Andy Burnham, defends his government's decision to impose sanctions on goods from Israeli settlements in the occupied West Bank. The killing of eight women in Cameroon over the course of a week renews calls for legislation targeting gender-based violence. Funeral ceremonies for King Harald V take place in Norway. We hear from the first Afghan woman who has climbed Mount Everest. The US Secretary of State, Marco Rubio, begins his three nation trip across Latin America. A new study by Oxford University says people who regularly have hot cups of tea or coffee are at a greater risk of developing cancer in their oesophagus. And the American television show, South Park, gets a new name. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news…",
+     "published": "2026-09-09T15:27:00+00:00",
      "source": "BBC Global News Podcast",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p8f721.jpg",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p8rptv.jpg",
      "licence": "linkout",
      "kind": "podcast",
      "show": "BBC Global News Podcast",
      "show_url": "https://www.bbc.co.uk/programmes/p02nq0gn",
-     "id": "c85d92f91ee9"
+     "id": "f69c9b8d9d9e"
     },
     {
-     "title": "All right on the night: AfD’s victory",
-     "url": "https://shows.acast.com/theintelligencepodcast/episodes/all-right-on-the-night-afds-victory",
-     "summary": "Alternative for Germany won an even larger share of the vote than expected in yesterday’s state election. What does the far-right nationalist party’s success mean for Germany and Europe? The climate case for limiting vapour trails from aeroplanes. And why South Korean youths are turning to Buddhism . Guests and host: Tom Nuttall, Berlin bureau chief Oliver Morton, planetary affairs editor Soobin Kim, Korea writer Rosie Blau, co-host of “The Intelligence” Topics covered: AfD, Alternative for Germany, Alternative für Deutschland contrails, aviation, climate science South Korea, Buddhism Listen to what matters most, from global politics and business to science and technology— subscribe to The Economist . Hosted on Acast. See acast.com/privacy for more information.",
-     "published": "2026-09-07T09:35:47+00:00",
+     "title": "Chainsaw sputtering: Milei’s experiment falters",
+     "url": "https://shows.acast.com/theintelligencepodcast/episodes/chainsaw-sputtering-mileis-experiment-falters",
+     "summary": "President Javier Milei has tamed inflation and improved the lot of many Argentines. But an election season approaches, and the promised economic and wage growth are not materialising . As LIV Golf files for bankruptcy, we ask where it went wrong in trying to disrupt the sport. And the growth that is good for India’s people is bad for its elephants . Guests and host: Kinley Salmon, Latin America correspondent Henry Tricks, US technology editor Abhishek Kumar, India writer Rosie Blau, co-host of “The Intelligence” Topics covered: Argentina, Javier Milei golf, LIV Golf, Saudi Arabia India, elephants Listen to what matters most, from global politics and business to science and technology— subscribe to The Economist . Hosted on Acast. See acast.com/privacy for more information.",
+     "published": "2026-09-09T09:40:41+00:00",
      "source": "The Intelligence",
      "byline": "",
-     "image": "https://open-images.acast.com/shows/62e286a934d4d93d6587424a/1788773515775-ca884b19-73e2-461d-b596-28155fbcbe36.jpeg?height=315",
+     "image": "https://open-images.acast.com/shows/62e286a934d4d93d6587424a/1788946406409-dc0e9757-65a5-4ec4-a46a-d2252f5e0e03.jpeg?height=315",
      "licence": "linkout",
      "kind": "podcast",
      "show": "The Intelligence",
      "show_url": "https://shows.acast.com/theintelligencepodcast",
-     "id": "d8557f11aa1c"
+     "id": "40c48f799d2d"
     },
     {
-     "title": "In Our Time Returns for a New Series",
-     "url": "http://www.bbc.co.uk/programmes/p0p8cg68",
-     "summary": "In Our Time returns for a new series with host Misha Glenny. A world class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Time archive, originally presented by Melvyn Bragg. Recent episodes have featured topics as wide-ranging as the Roman Arena, Handel's Messiah, John Keats, On Liberty and the Mariana Trench, bringing expert insight to pivotal events, influential thinkers and remarkable discoveries. Throughout the archive, you can hear discussions on historical figures such as Marie Antoinette, Nefertiti, Mary Wollstonecraft, Karl Marx and Albert Einstein; explore great works of literature such as Shakespeare’s Hamlet, Nineteen Eighty-Four, Alice's Adventures in Wonderland and the poetry of John Donne; uncover the stories behind cultural masterpieces including Van Gogh's Sunflowers and Michelangelo's Sistine Chapel; or journey from Jupiter and the death of stars, to the theories of Plato and Aristotle. In Our Time celebrates the pursuit of knowledge and the enduring power of ideas. A BBC Studios Production.",
-     "published": "2026-09-07T09:15:00+00:00",
-     "source": "In Our Time",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p7k696.jpg",
-     "licence": "linkout",
-     "kind": "podcast",
-     "show": "In Our Time",
-     "show_url": "https://www.bbc.co.uk/programmes/b006qykl",
-     "id": "dbb04f5c6584"
-    },
-    {
-     "title": "Historic win for far-right in Germany",
-     "url": "http://www.bbc.co.uk/programmes/p0p8b9hf",
-     "summary": "Germany's Alternative for Germany (AfD) party is heading for a dramatic victory in the eastern state of Saxony-Anhalt, far ahead of its mainstream rivals. Although it is projected to fall short of a majority, the AfD says it has won a mandate to govern. Commentators and political opponents speak of the outcome as a watershed and break with the past. No far-right party has won control of a German state since World War Two. Also: Ukraine's President Volodymyr Zelensky says he expects the war with Russia to continue into the winter, following talks with Donald Trump's top envoys in Kyiv. The BBC investigates the claim that individuals working for the Saudi government may have been involved in the 9/11 attacks. Iran warns of \"a faster, heavier, and more painful response\" to US attacks, as hostilities between the two sides escalate. At least five people have been killed and five others injured after a cargo plane sped off a runway at Miami International Airport. Portugal gives festival-goers wristbands that can instantly detect the date-rape drug GHB. We look at how Nigeria's problems with mass abductions from schools are affecting children's access to education. A volcanic eruption in Indonesia disrupts thousands of flights, and how sleep tracking can actually make your sleep worse. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for…",
-     "published": "2026-09-07T04:18:00+00:00",
+     "title": "Israel hits back at sanctions on settlers",
+     "url": "http://www.bbc.co.uk/programmes/p0p8n6sy",
+     "summary": "The Israeli government takes retaliatory action after Britain, France and Canada impose sanctions on illegal settlements in the occupied West Bank. Israel's Foreign Minister Gideon Saar has announced countermeasures including shutting the UK's consulate in East Jerusalem. Also: fighting between US and Iranian forces flares again with the Americans striking Iranian oil tankers and Tehran targeting a US military base. Newly released files show that toxic air quality was being recorded in Manhattan soon after the 9/11 attacks even as officials played down health risks to the public. A global survey finds a dramatic decline in teenagers' performance at school in the digital era. British scientists are developing a screening test that can show whether a patient has a brain tumour by analysing their tears. And fans celebrate as the legendary TV show, Star Trek, turns sixty. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk Photo…",
+     "published": "2026-09-09T04:12:00+00:00",
      "source": "BBC Global News Podcast",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p8b9hr.jpg",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p8n6tb.jpg",
      "licence": "linkout",
      "kind": "podcast",
      "show": "BBC Global News Podcast",
      "show_url": "https://www.bbc.co.uk/programmes/p02nq0gn",
-     "id": "d2c7f8cb61bf"
+     "id": "acd5a21a93b8"
+    },
+    {
+     "title": "In Our Time",
+     "url": "https://www.bbc.co.uk/programmes/b006qykl",
+     "summary": "BBC — history and ideas",
+     "source": "In Our Time",
+     "published": "2026-09-09T22:33:58.991464+00:00",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p7k696.jpg",
+     "licence": "linkout",
+     "kind": "show",
+     "show": "In Our Time",
+     "show_url": "https://www.bbc.co.uk/programmes/b006qykl",
+     "id": "0f339c61b8bb"
     },
     {
      "title": "Al Jazeera Podcasts",
      "url": "https://www.aljazeera.com/podcasts/",
      "summary": "The Take and others",
      "source": "Al Jazeera Podcasts",
-     "published": "2026-09-07T22:33:25.991307+00:00",
+     "published": "2026-09-09T22:34:00.910118+00:00",
      "byline": "",
      "image": "https://www.omnycontent.com/d/programs/9c074afa-3313-47e8-b802-a9f900789975/162e23ca-cdc2-49a0-b237-b47700b53a7c/image.jpg?t=1784721640&size=Small",
      "licence": "linkout",
@@ -1353,25 +1362,11 @@
      "id": "b0053dbfdcdc"
     },
     {
-     "title": "Today in Focus",
-     "url": "https://www.theguardian.com/news/series/todayinfocus",
-     "summary": "The Guardian, daily",
-     "source": "Today in Focus",
-     "published": "2026-09-07T22:33:24.315349+00:00",
-     "byline": "",
-     "image": "https://i.guim.co.uk/img/media/4c85abb174c68555842108292cbc66659566b096/1_0_2499_2000/master/2499.jpg?width=465&dpr=1&s=none&crop=5%3A4",
-     "licence": "linkout",
-     "kind": "show",
-     "show": "Today in Focus",
-     "show_url": "https://www.theguardian.com/news/series/todayinfocus",
-     "id": "c74f33068397"
-    },
-    {
      "title": "ANI Podcast with Smita Prakash",
      "url": "https://www.youtube.com/@ANIPodcastwithSmitaPrakash",
      "summary": "Long-form interviews — politics, policy, foreign affairs",
      "source": "ANI Podcast with Smita Prakash",
-     "published": "2026-09-07T22:33:23.897212+00:00",
+     "published": "2026-09-09T22:33:58.650167+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1385,7 +1380,7 @@
      "url": "https://www.youtube.com/@CarvakaPodcast",
      "summary": "Kushal Mehra — philosophy, Indic thought, debate",
      "source": "The Cārvāka Podcast",
-     "published": "2026-09-07T22:33:23.897490+00:00",
+     "published": "2026-09-09T22:33:58.650413+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1399,7 +1394,7 @@
      "url": "https://www.youtube.com/results?search_query=The+Bigger+Picture+Podcast",
      "summary": "Set the exact channel URL in PODCAST_SOURCES",
      "source": "The Bigger Picture Podcast",
-     "published": "2026-09-07T22:33:23.897504+00:00",
+     "published": "2026-09-09T22:33:58.650428+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1413,7 +1408,7 @@
      "url": "https://www.youtube.com/@AjeetBharti",
      "summary": "Commentary and long-form discussion",
      "source": "Ajeet Bharti",
-     "published": "2026-09-07T22:33:23.897758+00:00",
+     "published": "2026-09-09T22:33:58.650647+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1421,6 +1416,20 @@
      "show": "Ajeet Bharti",
      "show_url": "https://www.youtube.com/@AjeetBharti",
      "id": "accc0ef3373c"
+    },
+    {
+     "title": "PBD Podcast",
+     "url": "https://www.youtube.com/@PBDPodcast",
+     "summary": "Valuetainment — business and current affairs",
+     "source": "PBD Podcast",
+     "published": "2026-09-09T22:33:58.650657+00:00",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "kind": "show",
+     "show": "PBD Podcast",
+     "show_url": "https://www.youtube.com/@PBDPodcast",
+     "id": "39db7ac74cb5"
     }
    ]
   },
@@ -1612,9 +1621,9 @@
     {
      "title": "Reflections on artificial intelligence and the moral burdens of What We Owe the Dead",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWlEtc1E5ZFZYc0pDZE9fQ2E3MFpTblFKc3BlekVYc0JBZEJBMVpLRUNyRGFiVXJCRnFpSTdZQUg2YllOWm96SFdjbUVKdHR5RWtfazRXSE5oZFdXS3ZOaVFXZFdWQkQ0MjA4QmpfdzhvV0hMTDVhRFF1bzRScWZzMFFDMERtNWVvMVp3bWpudEhNamVPT3FUUUFQWjRlcFVMMGdmZDlqRGE4NWR5SjJPSGFVdzZtaHh4eWNGc2Fmd2p2Z1FWaTh2d2Y1c2NQUQ?oc=5",
-     "summary": "Reflections on artificial intelligence and the moral burdens of What We Owe the Dead stirworld.com",
+     "summary": "Reflections on artificial intelligence and the moral burdens of What We Owe the Dead STIRworld",
      "published": "2026-09-09T12:18:46+00:00",
-     "source": "stirworld.com",
+     "source": "STIRworld",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1684,19 +1693,6 @@
      "id": "f488a64d82ea",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Elena Rybakina Ensures Rise To World No.1 By Reaching US Open 2026 Semi-Finals",
-     "url": "https://sports.ndtv.com/tennis/elena-rybakina-ensures-rise-to-world-no-1-by-reaching-us-open-2026-semi-finals-12025288#publisher=newsstand",
-     "summary": "Elena Rybakina ensured a rise to the world number one ranking for the first time in her career by defeating Olympic champion Zheng Qinwen in Wednesday's US Open quarter-finals.",
-     "published": "2026-09-09T18:49:06+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/j57erhq8_elena-rybakina-afp_625x300_10_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "62a93f077f7f",
-     "category": "sports",
-     "category_label": "Sports"
     },
     {
      "title": "England vs Pakistan Highlights, 3rd Test Day 1: England Seize Control Against Pakistan",
