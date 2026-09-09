@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T13:04:32.501038+00:00",
+ "generated_at": "2026-09-09T13:39:29.500920+00:00",
  "podcasts_fetched_at": "2026-09-07T22:33:33.021373+00:00",
  "markets": [
   {
@@ -84,15 +84,15 @@
   }
  ],
  "topics": [
-  "Bengaluru Auto",
-  "Actor Noel",
+  "Germany Merz",
+  "Syria Idlib",
   "Jazeera English",
   "News",
   "EXCLUSIVE India",
   "Xiaomi India",
-  "Rahul Gandhi",
-  "Brent Iran",
-  "Israel",
+  "Andhra Pradesh",
+  "KPSC",
+  "Journalists Indonesian",
   "Korea"
  ],
  "sections": [
@@ -103,23 +103,40 @@
    "upsc": false,
    "items": [
     {
-     "title": "Bengaluru: Auto driver stabs wife to death, ends life",
-     "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-auto-driver-stabs-wife-to-death-ends-life/article71446833.ece",
-     "summary": "According to the police, the couple were living alone at their Vibhutipura residence, while their two children were staying with their maternal grandparents in Davangere.",
-     "published": "2026-09-09T12:55:24+00:00",
-     "source": "The Hindu",
+     "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+     "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+     "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+     "published": "2026-09-09T13:29:33+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png",
      "licence": "linkout",
-     "id": "dc6f88479d00",
+     "id": "4b9e58b413d5",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "Global News"
+    },
+    {
+     "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
+     "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
+     "summary": "This is a breaking news story.",
+     "published": "2026-09-09T13:02:38+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2022/06/WEB-1000x562-SYRIA-IDLIB-DAMASCUS.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "cafc5f43f8a2",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "14 killed in weapons depot blast"
+     ]
     },
     {
      "title": "Actor Noel Clarke charged with sexual offences",
      "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-     "summary": "He has been charged with sexual offences including sexual assault, voyeurism and exposure.",
+     "summary": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
      "published": "2026-09-09T12:51:24+00:00",
      "source": "BBC News",
      "byline": "",
@@ -129,20 +146,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Culture"
-    },
-    {
-     "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-     "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-     "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-     "published": "2026-09-09T11:24:10+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png",
-     "licence": "linkout",
-     "id": "4b9e58b413d5",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
     },
     {
      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
@@ -159,23 +162,6 @@
      "from_section": "Business"
     },
     {
-     "title": "Video: Dozens protest potential Strait of Hormuz deployment",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
-     "summary": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
-     "published": "2026-09-09T11:52:48+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788954759.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "99c7a38d42b0",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News",
-     "figures": [
-      "100 anti -war activists protested"
-     ]
-    },
-    {
      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
      "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
@@ -190,58 +176,46 @@
      "from_section": "Global News"
     },
     {
-     "title": "Tamil Nadu’s new Assembly-Secretariat complex to come up at Pattinapakkam",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-new-assembly-secretariat-complex-to-come-up-at-pattinapakkam/article71447243.ece",
-     "summary": "The State government issued an order giving in-principle approval for constructing the complex at Foreshore Estate in Chennai on an aggregate 25.55 acres of land",
-     "published": "2026-09-09T12:53:46+00:00",
+     "title": "Andhra Pradesh steps up EV push with new incentives, says Transport Minister Ramprasad Reddy",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-steps-upev-push-withnew-incentives-says-transport-minister-ramprasad-reddy/article71447037.ece",
+     "summary": "Government providing incentives not only to electric vehicle manufacturers but also to buyers, he says",
+     "published": "2026-09-09T13:32:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i88cof/article71447296.ece/alternates/LANDSCAPE_1200/DJI_20260828102658_0974_D.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/w9i0l9/article71447650.ece/alternates/LANDSCAPE_1200/10745_22_6_2026_22_5_1_1_IMG_20260622_WA0053.JPG",
      "licence": "linkout",
-     "id": "f017f178c0aa",
+     "id": "b96bab38e20e",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "25.55 acres of land"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "Telangana Assembly monsoon session Sept 9 highlights: House adjourned for the day; to meet on September 10",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-9-september-2026/article71445902.ece",
-     "summary": "Over 20 members of BRS were suspended from the Telangana Assembly for the rest of the monsoon session",
-     "published": "2026-09-09T12:51:44+00:00",
+     "title": "When Karunanidhi attempted to revamp DMK in 1999",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/when-karunanidhi-attempted-a-revamp-of-the-dmk-in-in-tamil-nadu-in-1999/article71444144.ece",
+     "summary": "Former Tamil Nadu Chief Minister and incumbent DMK president M.K. Stalin has now announced a massive revamp exercise in the party’s structure following the defeat in the Assembly elections in 2026",
+     "published": "2026-09-09T13:32:02+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jumt8/article71445965.ece/alternates/LANDSCAPE_1200/Telangana%20Assembly%20proceedings%20resume.png",
+     "image": "https://th-i.thgim.com/public/incoming/4c7fth/article71444218.ece/alternates/LANDSCAPE_1200/PTI08_09_2026_000429A.jpg",
      "licence": "linkout",
-     "id": "4fae781e2d10",
+     "id": "f4034733b210",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "9 highlights : House adjourned",
-      "10. Over 20 members of BRS",
-      "20 members of BRS were suspended"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "BJD seeks President’s intervention for reversal of 2026 amendment to Mines and Minerals Act",
-     "url": "https://www.thehindu.com/news/national/odisha/bjd-seeks-presidents-intervention-for-reversal-of-2026-amendment-to-mines-and-minerals-act/article71447001.ece",
-     "summary": "BJD says Odisha could lose over ₹1 lakh crore towards arrears, apart from additional annual revenue of approximately ₹12,000 crore under the Mines and Minerals Amendment Act, 2026",
-     "published": "2026-09-09T12:40:14+00:00",
-     "source": "The Hindu",
+     "title": "Opinion: Opinion | The Insider's Warning: Why Anthropic Researcher's Resignation Is Big",
+     "url": "https://www.ndtv.com/opinion/the-insiders-warning-why-anthropic-researchers-resignation-should-worry-us-12023478#publisher=newsstand",
+     "summary": "AI's builders have a problem: everyone fears what happens if they stop, and everyone fears what happens if they don't",
+     "published": "2026-09-09T12:05:13+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7kg3bw/article71447273.ece/alternates/LANDSCAPE_1200/PTI09_09_2026_000222B.jpg",
+     "image": "https://c.ndtvimg.com/2026-09/qndj2je8_anthropic-resignation_625x300_09_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "fb1e8c5dbda8",
+     "id": "18854f719537",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines",
-     "figures": [
-      "₹1 lakh crore towards arrears, apart",
-      "₹12,000 crore under the Mines"
-     ]
+     "from_section": "National News"
     },
     {
      "title": "EXCLUSIVE: India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
@@ -267,10 +241,10 @@
        "summary": "Xiaomi Investigation Recommended By India Fraud Agency StratNews Global"
       },
       {
-       "source": "news18.com",
+       "source": "News18",
        "title": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive",
        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0Z3TU0zMUtOcS0xNTRWa0NNRFR3R24xeHpoZHNlOHhKM0R3SXRJVHRMb1pmTXlMSFNzelM4SXkwNkNoaFltTnBJdlI3Ylp5ME0xVkhDY3VxQzdnRmhmUDRnYm9nM2VtdmRMVjZNQlZDcXQ5SkNMQVZlVWEzbDQ3a1ExU1Q0bmlfeWM3LWtSX3ZfZmFSa0hRS190WUw2VTFWeWRLVlozLVU5RUNkUzdVckVYaVdhT01iLTBZWXpzV2JOMG40cUNhaTZhVmhrODItXzdZYUdoM203UdIB2gFBVV95cUxPU0Z3TU0zMUtOcS0xNTRWa0NNRFR3R24xeHpoZHNlOHhKM0R3SXRJVHRMb1pmTXlMSFNzelM4SXkwNkNoaFltTnBJdlI3Ylp5ME0xVkhDY3VxQzdnRmhmUDRnYm9nM2VtdmRMVjZNQlZDcXQ5SkNMQVZlVWEzbDQ3a1ExU1Q0bmlfeWM3LWtSX3ZfZmFSa0hRS190WUw2VTFWeWRLVlozLVU5RUNkUzdVckVYaVdhT01iLTBZWXpzV2JOMG40cUNhaTZhVmhrODItXzdZYUdoM203UQ?oc=5",
-       "summary": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive news18.com"
+       "summary": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive News18"
       },
       {
        "source": "CNBC TV18",
@@ -290,26 +264,21 @@
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "\"iPhone and artificial intelligence\"... financial markets are awaiting a new wave that may redraw the map of technology companies",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRG9hZWhqT05aYWhjTDcxd3V4Sm1IU3A5YmY5dlJGaDZMLW1HZTliT1ZKcnhLOEV1Skl5ZTdSS0p2S2ZCVzBHRG95RzJCWEdjRVlTMUQ2Z0hzVXFsYkM2dDl1VHExc0IxU253eEhfR0FJTFEzaldBYkFNczVENXlCOUNGU3ZxRVF0dzdDbVlHRlpGMDJKX0tUaldaWGZnSV9iT1AzMlJPZlg1R0RCSjd6R2hmckpvNEppYWtMUXJKblBqcUM5QnBwTV8wQWdUcm53MXA0aUE2ZEZoa1FJdklQWHVTbkFtMEVRZ3Y4TGt3Wll5V3ZVTHBNUy1UX2JjdTVOOGZ3aDE4ZnVWN01tSGo2V0FTNU00X2c?oc=5",
-     "summary": "\"iPhone and artificial intelligence\"... financial markets are awaiting a new wave that may redraw the map of technology companies صوت الإمارات",
-     "published": "2026-09-09T05:53:34+00:00",
-     "source": "صوت الإمارات",
+     "title": "Drugs worth ₹24.22 crore seized in Bengaluru; seven held",
+     "url": "https://www.thehindu.com/news/national/karnataka/drugs-worth-2422crore-seized-in-bengaluru-seven-held/article71446699.ece",
+     "summary": "",
+     "published": "2026-09-09T13:30:33+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "c0ec674ef113",
-     "also": [
-      {
-       "source": "FinanzNachrichten.de",
-       "title": "Artificial Intelligence Technology Solutions, Inc.: AITX's RAD Opens Q3 With Expanding Orders Across RIO, ROSA and SARA",
-       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWVZ4cWxUNTVIVnpfVW9TOG5YOEhDWVRjQWs4Mnl2UkdtS1F5OS1vaEhoOFpmcEZHSF9hY3RkWUJLY25rNkFzYVhBRktOT2JHZG5tdlNpN1FjRVA5dmZTdWZTSGZWZ2stVVR5Y1kxSEFTZ19TbDZBa3dKellLYS13V0R0RENKdXZnNF9fVDRVZVBTWF90Vjl6Q3RVSTNid2g4Rm5vbnpmb3QwQ0VRTnBxY0dMTjRsSWUtaEpfaXBDZVJtcHdVTVY3aVZ2WVZWb3ktWWVycVc1QVl5a3B5ZERvNnkweXU0WmdISGRmOVA2RDRuMVBZZFQ0ZUQ1NkdXZlN6YkR6ZjM4MTdzcDBXYV9IMDB0cw?oc=5",
-       "summary": "Artificial Intelligence Technology Solutions, Inc.: AITX's RAD Opens Q3 With Expanding Orders Across RIO, ROSA and SARA FinanzNachrichten.de"
-      }
-     ],
+     "id": "af8c9f3c00ef",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Technology"
+     "from_section": "National Hotlines",
+     "figures": [
+      "₹24.22 crore seized in Bengaluru; seven"
+     ]
     },
     {
      "title": "Cyber fraud stopped at source: How India’s FRI system saved ₹5,000 crore—and 6 steps to protect your money",
@@ -329,20 +298,6 @@
       "6 steps to protect your money",
       "₹5,000 crore since its launch"
      ]
-    },
-    {
-     "title": "Suriya’s next is ‘Scene’, directed by Jithu Madhavan; title teaser out",
-     "url": "https://www.thehindu.com/entertainment/movies/suriya-scene-title-teaser-jithu-madhavan-deepavali-release-naslen-nazriya/article71446535.ece",
-     "summary": "Also starring Nazriya Nazim, Naslen, John Vijay and Anandraj in pivotal roles, the film is set to release in theatres on November 6",
-     "published": "2026-09-09T12:51:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/entertainment/movies/8wl69p/article71447280.ece/alternates/LANDSCAPE_1200/Scene%20Suriya.png",
-     "licence": "linkout",
-     "id": "27541fb59c3b",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "National News"
     },
     {
      "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
@@ -373,25 +328,47 @@
      "from_section": "Culture"
     },
     {
-     "title": "Artificial Intelligence Technology Solutions, Inc.: AITX's RAD Opens Q3 With Expanding Orders Across RIO, ROSA and SARA",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWVZ4cWxUNTVIVnpfVW9TOG5YOEhDWVRjQWs4Mnl2UkdtS1F5OS1vaEhoOFpmcEZHSF9hY3RkWUJLY25rNkFzYVhBRktOT2JHZG5tdlNpN1FjRVA5dmZTdWZTSGZWZ2stVVR5Y1kxSEFTZ19TbDZBa3dKellLYS13V0R0RENKdXZnNF9fVDRVZVBTWF90Vjl6Q3RVSTNid2g4Rm5vbnpmb3QwQ0VRTnBxY0dMTjRsSWUtaEpfaXBDZVJtcHdVTVY3aVZ2WVZWb3ktWWVycVc1QVl5a3B5ZERvNnkweXU0WmdISGRmOVA2RDRuMVBZZFQ0ZUQ1NkdXZlN6YkR6ZjM4MTdzcDBXYV9IMDB0cw?oc=5",
-     "summary": "Artificial Intelligence Technology Solutions, Inc.: AITX's RAD Opens Q3 With Expanding Orders Across RIO, ROSA and SARA FinanzNachrichten.de",
-     "published": "2026-09-09T12:50:00+00:00",
-     "source": "FinanzNachrichten.de",
+     "title": "AI researcher quits Anthropic saying AI race ‘could kill us all’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
+     "summary": "AI researcher warns the industry is racing towards superintelligent AI that could improve itself beyond human control.",
+     "published": "2026-09-09T12:45:36+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788957928.jpg?resize=1918%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "d4f39e6403ba",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+       "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+       "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence."
+      }
+     ],
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Ethiopia creates globally competitive opportunities in artificial intelligence",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1k1M3pHak96Y19OV0xOamQ4U1A5X1ZKTmNYMzlzNHp4OTZmRHRLeWhqeFp2dTVtem95WS1pYm93UnFtOEc4VnBDaDF4X2N1TGFvLWVEdjVPTzdONkg3cm5IanVmeHM4eDQzTlFMdFlkc1V5Y3pqOXczR0ZOMGthSl9JcDBrSmhnbUZxZUJXQmxnYzJzT1dPbzZROF9iLW5SdGtPT2s1b0dlRGs?oc=5",
+     "summary": "Ethiopia creates globally competitive opportunities in artificial intelligence TV BRICS",
+     "published": "2026-09-09T13:04:19+00:00",
+     "source": "TV BRICS",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "77b60dac9678",
+     "id": "029c7aa798e1",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "New statistical reporting on the use of Artificial Intelligence - kazakhstan.moore-global.com",
+     "title": "New statistical reporting on the use of Artificial Intelligence",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHBaZEV3bGpTRHRlSlZ4MVA5UmVQaU84VnZ4VzBPbk5hZ0FET3VhZkoza2QxcnJZSjJkLXhOeDQ4SWtOY2Q1R1hGcjlqRnJYbjJIY0pseGJ2X0hnMmhLLS1sMHpwVjJsOUhVVWlqd3h6N1JTVzJ6N3RHNXA3WWFLNGxyMks4YXlabVR3c0pucENuem9WRjZIM3B3cWoydGJRSkE?oc=5",
-     "summary": "New statistical reporting on the use of Artificial Intelligence kazakhstan.moore-global.com",
+     "summary": "New statistical reporting on the use of Artificial Intelligence Moore Kazakhstan",
      "published": "2026-09-09T12:44:38+00:00",
-     "source": "Google News",
+     "source": "Moore Kazakhstan",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -399,20 +376,6 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
-    },
-    {
-     "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-     "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-     "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-     "published": "2026-09-09T12:36:59+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
-     "licence": "linkout",
-     "id": "36024485ea71",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Business"
     },
     {
      "title": "Supreme Court's Big Question To BCCI, State Bodies Over New Sports Governance Law",
@@ -430,14 +393,14 @@
     },
     {
      "title": "'UAPA probe still on': Govt clarifies NIA chargesheet against Van Dyke, 6 Ukrainians",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmVTV2dFenNrWHl0YS1xWFY5SDBkWmxrV1ZOSVNXMldQZFdNS2lGd05SZWdwa2NfSXFaNlluLS1VYUNFenotZUZ1UTU3SndhczZiOENtV2RjeWJPclRDS2VuUXJxUF84S0YySTRPVlJkaVdxenhpUHkwd0RobHEybkZCTE9XaTFVSzhZS0RvM3ZtZ3RjaHNNZ1NMMHd2OVBnMUJBQnRiU1pqOG9MYm9GbzhTV01WM05TTHdUcWM4RjVQUnFB?oc=5",
-     "summary": "'UAPA probe still on': Govt clarifies NIA chargesheet against Van Dyke, 6 Ukrainians firstpost.com",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmVTV2dFenNrWHl0YS1xWFY5SDBkWmxrV1ZOSVNXMldQZFdNS2lGd05SZWdwa2NfSXFaNlluLS1VYUNFenotZUZ1UTU3SndhczZiOENtV2RjeWJPclRDS2VuUXJxUF84S0YySTRPVlJkaVdxenhpUHkwd0RobHEybkZCTE9XaTFVSzhZS0RvM3ZtZ3RjaHNNZ1NMMHd2OVBnMUJBQnRiU1pqOG9MYm9GbzhTV01WM05TTHdUcWM4RjVQUnFB0gHKAUFVX3lxTFBNX1Z0aTFtcHNMeTUyVE1VYlpNbG9JWVNvZ2s3UUhVNEFoYzNIVjdBYkM4dmpkZ3VCU1J1Q1NYYS1oYzFvTE96TUJwUWJtRUFWcUp0T0ZnUDNRbEd2WWlzUVpiTnMyckQ4cjluRmtESFNzWkc0cWtCdlo4dnBXVXdSRjlJMHBQWHVKT0JweDVSUDVVdmpTSFR1d0JOdk1Na1o3aEpDc0xXMS03WWlzejVPMmQ3VU5DLUhycnBjbkNMT0JSa0J2ZDlNeGc?oc=5",
+     "summary": "'UAPA probe still on': Govt clarifies NIA chargesheet against Van Dyke, 6 Ukrainians Firstpost",
      "published": "2026-09-09T12:48:16+00:00",
-     "source": "firstpost.com",
+     "source": "Firstpost",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "9c6ad77af621",
+     "id": "ae978606a906",
      "also": [
       {
        "source": "Moneycontrol.com",
@@ -451,36 +414,36 @@
      "from_section": "Scandals & Investigations",
      "figures": [
       "6 Ukrainians",
-      "6 Ukrainians firstpost"
+      "6 Ukrainians Firstpost"
      ]
     },
     {
-     "title": "Keralam MVD to digitise vehicle inspections after autorickshaw driver’s death inquiry",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-mvd-to-digitise-vehicle-inspections-after-autorickshaw-drivers-death-inquiry/article71447034.ece",
-     "summary": "The proposed digital system aims to streamline inspections. Report recommends introducing a unique digital inspection ID for each vehicle inspection, preparing a digital checklist of defects, introducing a system to upload photos/videos of each defect identified during the test.",
-     "published": "2026-09-09T12:36:53+00:00",
+     "title": "Satish Jarkiholi will cooperate with ED probe, says younger brother",
+     "url": "https://www.thehindu.com/news/national/karnataka/satish-jarkiholi-will-cooperate-with-ed-probe-says-younger-brother/article71447314.ece",
+     "summary": "",
+     "published": "2026-09-09T13:32:24+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/90z92m/article71447136.ece/alternates/LANDSCAPE_1200/6742_28-9-2018_19-11-48_2_29TVKZMVD.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/m6ih8r/article71447606.ece/alternates/LANDSCAPE_1200/20260909052L.jpg",
      "licence": "linkout",
-     "id": "f76c5a8f513b",
+     "id": "b1cc951dc65f",
      "category": "mystery",
      "category_label": "Mystery & investigation",
-     "from_section": "National Hotlines"
+     "from_section": "National News"
     },
     {
-     "title": "Xiaomi's India business faces probe over investment, e-commerce practices",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUFGelRlY3pWeVdtM18wb3VBaVctLUFReUFiRmNDdDVTSXR3UzltcWZmR20zSVAtWUlFQUl6eHpGWUFDTVdWOEpDUUJTUlBVZHRxTUNOTGRCdEJlUFVXNmRaSF90Y0VmcTU5ZTdFRUxud2JzdWdxUFZlMmhtdkhyeXZDblg1SjB1REh5aTJyQU9FZkJaaGpGWFdNaFVCdS1nbEljUUp0dElERHpmVEdiUkhucThSeGtzeVJxNkdFX0UxQzlQVUhEV3hlYm1XRTZn0gHQAUFVX3lxTE51QUZ6VGVjelZ5V20zXzBvdUFpVy0tQVF5QWJGY0N0NVNJdHdTOW1xZmZHbTNJUC1ZSUVBSXp4ekZZQUNNV1Y4SkNRQlNSUFVkdHFNQ05MZEJ0QmVQVVc2ZFpIX3RjRWZxNTllN0VFTG53YnN1Z3FQVmUyaG12SHJ5dkNuWDVKMHVESHlpMnJBT0VmQlpoakZYV01oVUJ1LWdsSWNRSnR0SUREemZUR2JSSG5xOFJ4a3N5UnE2R0VfRTFDOVBVSERXeGVibVdFNmc?oc=5",
-     "summary": "Xiaomi's India business faces probe over investment, e-commerce practices India Today",
-     "published": "2026-09-09T10:40:59+00:00",
-     "source": "India Today",
+     "title": "Journalists missing after Indonesian volcanic eruption",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss",
+     "summary": "Journalists missing after Indonesian volcanic eruption",
+     "published": "2026-09-09T12:51:12+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788958232.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "1db745662156",
+     "id": "a93fdd82fa21",
      "category": "mystery",
      "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
+     "from_section": "Global News"
     }
    ]
   },
@@ -496,7 +459,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-09T13:04:18.674836+00:00",
+     "published": "2026-09-09T13:39:15.651746+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -507,7 +470,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-09T13:04:18.674851+00:00",
+     "published": "2026-09-09T13:39:15.651763+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -518,7 +481,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-09T13:04:18.674857+00:00",
+     "published": "2026-09-09T13:39:15.651772+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -529,7 +492,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-09T13:04:18.674861+00:00",
+     "published": "2026-09-09T13:39:15.651777+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -540,7 +503,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-09T13:04:18.674865+00:00",
+     "published": "2026-09-09T13:39:15.651782+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -551,7 +514,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-09T13:04:18.674869+00:00",
+     "published": "2026-09-09T13:39:15.651787+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -588,10 +551,10 @@
        "summary": "Xiaomi Investigation Recommended By India Fraud Agency StratNews Global"
       },
       {
-       "source": "news18.com",
+       "source": "News18",
        "title": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive",
        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0Z3TU0zMUtOcS0xNTRWa0NNRFR3R24xeHpoZHNlOHhKM0R3SXRJVHRMb1pmTXlMSFNzelM4SXkwNkNoaFltTnBJdlI3Ylp5ME0xVkhDY3VxQzdnRmhmUDRnYm9nM2VtdmRMVjZNQlZDcXQ5SkNMQVZlVWEzbDQ3a1ExU1Q0bmlfeWM3LWtSX3ZfZmFSa0hRS190WUw2VTFWeWRLVlozLVU5RUNkUzdVckVYaVdhT01iLTBZWXpzV2JOMG40cUNhaTZhVmhrODItXzdZYUdoM203UdIB2gFBVV95cUxPU0Z3TU0zMUtOcS0xNTRWa0NNRFR3R24xeHpoZHNlOHhKM0R3SXRJVHRMb1pmTXlMSFNzelM4SXkwNkNoaFltTnBJdlI3Ylp5ME0xVkhDY3VxQzdnRmhmUDRnYm9nM2VtdmRMVjZNQlZDcXQ5SkNMQVZlVWEzbDQ3a1ExU1Q0bmlfeWM3LWtSX3ZfZmFSa0hRS190WUw2VTFWeWRLVlozLVU5RUNkUzdVckVYaVdhT01iLTBZWXpzV2JOMG40cUNhaTZhVmhrODItXzdZYUdoM203UQ?oc=5",
-       "summary": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive news18.com"
+       "summary": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive News18"
       },
       {
        "source": "CNBC TV18",
@@ -651,9 +614,9 @@
     {
      "title": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0Z3TU0zMUtOcS0xNTRWa0NNRFR3R24xeHpoZHNlOHhKM0R3SXRJVHRMb1pmTXlMSFNzelM4SXkwNkNoaFltTnBJdlI3Ylp5ME0xVkhDY3VxQzdnRmhmUDRnYm9nM2VtdmRMVjZNQlZDcXQ5SkNMQVZlVWEzbDQ3a1ExU1Q0bmlfeWM3LWtSX3ZfZmFSa0hRS190WUw2VTFWeWRLVlozLVU5RUNkUzdVckVYaVdhT01iLTBZWXpzV2JOMG40cUNhaTZhVmhrODItXzdZYUdoM203UdIB2gFBVV95cUxPU0Z3TU0zMUtOcS0xNTRWa0NNRFR3R24xeHpoZHNlOHhKM0R3SXRJVHRMb1pmTXlMSFNzelM4SXkwNkNoaFltTnBJdlI3Ylp5ME0xVkhDY3VxQzdnRmhmUDRnYm9nM2VtdmRMVjZNQlZDcXQ5SkNMQVZlVWEzbDQ3a1ExU1Q0bmlfeWM3LWtSX3ZfZmFSa0hRS190WUw2VTFWeWRLVlozLVU5RUNkUzdVckVYaVdhT01iLTBZWXpzV2JOMG40cUNhaTZhVmhrODItXzdZYUdoM203UQ?oc=5",
-     "summary": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive news18.com",
+     "summary": "VanDyke Case: No Conclusive India Link Found So Far, Says Govt; NIA Probe Continues | Exclusive News18",
      "published": "2026-09-09T10:27:12+00:00",
-     "source": "news18.com",
+     "source": "News18",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -677,9 +640,9 @@
     {
      "title": "US Government Halts Cognizant's Green Card Filings in Visa Probe",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUtHamtBdlZJWGx3Q0VCYkJmLUhPeHBHOWJrbnZkcGVIbWlha0UzRjZtSWhWcEdfZXVodDh5bWYzWHBTWGZIeWFYaE9qMV90QnRqOWJjamtVYTljS29DNDhJOGI5Rjd6UW14REczdmZBM0FuZHZ0RWRwUW13UVVWLUlQWXdXb2Nhcjh6Q1V3WGdvUmxRenFwaVBRVmJIMlpoUy1LWW96dw?oc=5",
-     "summary": "US Government Halts Cognizant's Green Card Filings in Visa Probe indianewsnetwork.com",
+     "summary": "US Government Halts Cognizant's Green Card Filings in Visa Probe India News Network",
      "published": "2026-09-09T05:27:34+00:00",
-     "source": "indianewsnetwork.com",
+     "source": "India News Network",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -709,46 +672,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Bengaluru: Auto driver stabs wife to death, ends life",
-     "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-auto-driver-stabs-wife-to-death-ends-life/article71446833.ece",
-     "summary": "According to the police, the couple were living alone at their Vibhutipura residence, while their two children were staying with their maternal grandparents in Davangere.",
-     "published": "2026-09-09T12:55:24+00:00",
+     "title": "Andhra Pradesh steps up EV push with new incentives, says Transport Minister Ramprasad Reddy",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-steps-upev-push-withnew-incentives-says-transport-minister-ramprasad-reddy/article71447037.ece",
+     "summary": "Government providing incentives not only to electric vehicle manufacturers but also to buyers, he says",
+     "published": "2026-09-09T13:32:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/w9i0l9/article71447650.ece/alternates/LANDSCAPE_1200/10745_22_6_2026_22_5_1_1_IMG_20260622_WA0053.JPG",
      "licence": "linkout",
-     "id": "dc6f88479d00",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "b96bab38e20e",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Rahul Gandhi flags poor condition of PMGSY roads in his constituency",
-     "url": "https://www.thehindu.com/news/national/rahul-gandhi-flags-poor-condition-of-pmgsy-roads-in-his-constituency/article71446910.ece",
-     "summary": "Rahul Gandhi attended the DISHA meeting at the Collectorate along with the Congress' Amethi MP Kishori Lal Sharma to review implementation of Central government schemes",
-     "published": "2026-09-09T12:53:59+00:00",
+     "title": "CID searches candidate’s residence in KPSC veterinary recruitment case",
+     "url": "https://www.thehindu.com/news/national/karnataka/cid-searches-candidates-residence-in-kpsc-veterinary-recruitment-case/article71447543.ece",
+     "summary": "",
+     "published": "2026-09-09T13:32:38+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n4zvd0/article71447013.ece/alternates/LANDSCAPE_1200/PTI09_09_2026_000117B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/u1cawd/article71447666.ece/alternates/LANDSCAPE_1200/10258_9_9_2026_18_42_32_1_KLB_CID_RAID_1.JPG",
      "licence": "linkout",
-     "id": "cef6aaa3da0d",
+     "id": "2335769d4b92",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Tamil Nadu’s new Assembly-Secretariat complex to come up at Pattinapakkam",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-new-assembly-secretariat-complex-to-come-up-at-pattinapakkam/article71447243.ece",
-     "summary": "The State government issued an order giving in-principle approval for constructing the complex at Foreshore Estate in Chennai on an aggregate 25.55 acres of land",
-     "published": "2026-09-09T12:53:46+00:00",
+     "title": "Ganesha celebrations: Shivamogga DC issues orders prohibiting use of DJ",
+     "url": "https://www.thehindu.com/news/national/karnataka/ganesha-celebrations-shivamogga-dc-issues-orders-prohibiting-use-of-dj/article71446828.ece",
+     "summary": "",
+     "published": "2026-09-09T13:32:35+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i88cof/article71447296.ece/alternates/LANDSCAPE_1200/DJI_20260828102658_0974_D.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/vu3ywh/article71447646.ece/alternates/LANDSCAPE_1200/Shivamogga-DepuGD6G9I5SD.3.jpg.jpg",
      "licence": "linkout",
-     "id": "f017f178c0aa",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "25.55 acres of land"
-     ]
+     "id": "8bd6847949da",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "IIT Delhi Launches 7-Month Executive Programme In Advanced Project Management",
@@ -762,19 +722,6 @@
      "id": "e43b317e0607",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Opinion: Opinion | The Insider's Warning: Why Anthropic Researcher's Resignation Is Big",
-     "url": "https://www.ndtv.com/opinion/the-insiders-warning-why-anthropic-researchers-resignation-should-worry-us-12023478#publisher=newsstand",
-     "summary": "AI's builders have a problem: everyone fears what happens if they stop, and everyone fears what happens if they don't",
-     "published": "2026-09-09T12:05:13+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/qndj2je8_anthropic-resignation_625x300_09_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "18854f719537",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Names Of 3 Afghans Found On Jharkhand Voter List During SIR",
@@ -830,6 +777,69 @@
    "upsc": false,
    "items": [
     {
+     "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
+     "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
+     "summary": "This is a breaking news story.",
+     "published": "2026-09-09T13:02:38+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2022/06/WEB-1000x562-SYRIA-IDLIB-DAMASCUS.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "cafc5f43f8a2",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "14 killed in weapons depot blast"
+     ]
+    },
+    {
+     "title": "Journalists missing after Indonesian volcanic eruption",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss",
+     "summary": "Journalists missing after Indonesian volcanic eruption",
+     "published": "2026-09-09T12:51:12+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788958232.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "a93fdd82fa21",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "AI researcher quits Anthropic saying AI race ‘could kill us all’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
+     "summary": "AI researcher warns the industry is racing towards superintelligent AI that could improve itself beyond human control.",
+     "published": "2026-09-09T12:45:36+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788957928.jpg?resize=1918%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "d4f39e6403ba",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+       "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+       "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence."
+      }
+     ],
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Video: Why are Republicans hosting a midterm convention?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-why-are-republicans-hosting-a-midterm-convention?traffic_source=rss",
+     "summary": "US Republicans are hosting their first ever midterm convention, but why?",
+     "published": "2026-09-09T12:41:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788957653.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "2e10e503e271",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
      "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
      "summary": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
@@ -845,45 +855,6 @@
       "$100  a barrel as Iran",
       "$100,  shaking markets and fuelling"
      ]
-    },
-    {
-     "title": "How has Israel hit back against sanctions by the UK, others?",
-     "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
-     "summary": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
-     "published": "2026-09-09T12:17:50+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa134723de6-1788949618_882ed5-1788956246.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "92dfa9056aa1",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Lionel Messi agrees deal to buy second-tier Spanish club Eldense",
-     "url": "https://www.aljazeera.com/sports/2026/9/9/lionel-messi-agrees-deal-to-buy-second-tier-spanish-club-eldense?traffic_source=rss",
-     "summary": "Messi poised to become majority owner of a second club in Spain after the purchase of fifth-tier UE Cornella in April.",
-     "published": "2026-09-09T12:07:46+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-07T145653Z_1934347551_UP1EM7715IS9D_RTRMADP_3_SOCCER-WORLDCUP-ARG-EGY-1785392430.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "00d001ab4a3e",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V",
-     "url": "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss",
-     "summary": "Thousands line streets of Norway's capital as King Harald V is laid to rest during service attended by world leaders.",
-     "published": "2026-09-09T11:59:09+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26252265375502-1788946903.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "95524cd5f98d",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -1025,66 +996,76 @@
    "upsc": false,
    "items": [
     {
-     "title": "Bengaluru: Auto driver stabs wife to death, ends life",
-     "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-auto-driver-stabs-wife-to-death-ends-life/article71446833.ece",
-     "summary": "According to the police, the couple were living alone at their Vibhutipura residence, while their two children were staying with their maternal grandparents in Davangere.",
-     "published": "2026-09-09T12:55:24+00:00",
+     "title": "Andhra Pradesh steps up EV push with new incentives, says Transport Minister Ramprasad Reddy",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-steps-upev-push-withnew-incentives-says-transport-minister-ramprasad-reddy/article71447037.ece",
+     "summary": "Government providing incentives not only to electric vehicle manufacturers but also to buyers, he says",
+     "published": "2026-09-09T13:32:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/w9i0l9/article71447650.ece/alternates/LANDSCAPE_1200/10745_22_6_2026_22_5_1_1_IMG_20260622_WA0053.JPG",
      "licence": "linkout",
-     "id": "dc6f88479d00",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "b96bab38e20e",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Rahul Gandhi flags poor condition of PMGSY roads in his constituency",
-     "url": "https://www.thehindu.com/news/national/rahul-gandhi-flags-poor-condition-of-pmgsy-roads-in-his-constituency/article71446910.ece",
-     "summary": "Rahul Gandhi attended the DISHA meeting at the Collectorate along with the Congress' Amethi MP Kishori Lal Sharma to review implementation of Central government schemes",
-     "published": "2026-09-09T12:53:59+00:00",
+     "title": "CID searches candidate’s residence in KPSC veterinary recruitment case",
+     "url": "https://www.thehindu.com/news/national/karnataka/cid-searches-candidates-residence-in-kpsc-veterinary-recruitment-case/article71447543.ece",
+     "summary": "",
+     "published": "2026-09-09T13:32:38+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n4zvd0/article71447013.ece/alternates/LANDSCAPE_1200/PTI09_09_2026_000117B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/u1cawd/article71447666.ece/alternates/LANDSCAPE_1200/10258_9_9_2026_18_42_32_1_KLB_CID_RAID_1.JPG",
      "licence": "linkout",
-     "id": "cef6aaa3da0d",
+     "id": "2335769d4b92",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Tamil Nadu’s new Assembly-Secretariat complex to come up at Pattinapakkam",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-new-assembly-secretariat-complex-to-come-up-at-pattinapakkam/article71447243.ece",
-     "summary": "The State government issued an order giving in-principle approval for constructing the complex at Foreshore Estate in Chennai on an aggregate 25.55 acres of land",
-     "published": "2026-09-09T12:53:46+00:00",
+     "title": "Ganesha celebrations: Shivamogga DC issues orders prohibiting use of DJ",
+     "url": "https://www.thehindu.com/news/national/karnataka/ganesha-celebrations-shivamogga-dc-issues-orders-prohibiting-use-of-dj/article71446828.ece",
+     "summary": "",
+     "published": "2026-09-09T13:32:35+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i88cof/article71447296.ece/alternates/LANDSCAPE_1200/DJI_20260828102658_0974_D.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/vu3ywh/article71447646.ece/alternates/LANDSCAPE_1200/Shivamogga-DepuGD6G9I5SD.3.jpg.jpg",
      "licence": "linkout",
-     "id": "f017f178c0aa",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "25.55 acres of land"
-     ]
+     "id": "8bd6847949da",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "FSDA officials shut down hotel in Bengaluru citing hygiene issues",
-     "url": "https://www.thehindu.com/news/national/karnataka/fsda-officials-shut-down-hotel-in-bengaluru-citing-hygiene-issues/article71447077.ece",
+     "title": "CM’s focus on N. Andhra made me join TDP: YSRCP leader",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/cms-focus-on-n-andhra-made-me-join-tdp-ysrcp-leader/article71446974.ece",
      "summary": "",
-     "published": "2026-09-09T12:45:42+00:00",
+     "published": "2026-09-09T13:31:14+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/sqncfn/article71447331.ece/alternates/LANDSCAPE_1200/33475564-9b6a-460e-b8f5-03edd36198ee.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/wc7eb9/article71447595.ece/alternates/LANDSCAPE_1200/10745_9_9_2026_17_10_56_1_IMG_20260909_WA0014.JPG",
      "licence": "linkout",
-     "id": "0aa5a3b32862",
+     "id": "bc232a77c1e7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Multiplex Association of India moves Karnataka High Court challenging 2% welfare cess on movie tickets",
+     "url": "https://www.thehindu.com/news/national/karnataka/multiplex-association-of-india-moves-karnataka-high-court-challenging-2-welfare-cess-on-movie-tickets/article71447163.ece",
+     "summary": "",
+     "published": "2026-09-09T13:29:29+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/kztpte/article71447644.ece/alternates/LANDSCAPE_1200/2026-08-19T054716Z_736925283_RC2J76AF64XS_RTRMADP_3_BOOKMYSHOW-INVESTMENT.JPG",
+     "licence": "linkout",
+     "id": "c8ce16dfdf2b",
      "category": "general",
      "category_label": "General"
     },
     {
      "title": "School assembly news headlines today- September 10: Top national, sports and world news curated for you",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQamUzeURHc252Q2ZDcS02VGJyWXhkSHhjbTJpYko4a0FQWFlpdTFTWmN0dFI3a0xXNWk5dlZLSU9nUk42MV9pYWxFY0hydVhKblBubFlfV21NYXRwaXhGX214U2RWTlljU013ZHVKYnp5OHl2U2JPTUhHMmdZcmNZUV9JSTRQTVBjeEhlaFZrSkV5a29LZ0ZXaUdzNzNOMDBUdHV2M0FGQW1pbmRrWDc1NTdxMlFSLTN2OEJpNnBFUjN0aXEydS02TU9uUG9hdVM0UFFYbS1yNlNhU01hRXZvMHZfMkJyd0RT?oc=5",
-     "summary": "School assembly news headlines today- September 10: Top national, sports and world news curated for you India Today",
+     "summary": "School assembly news headlines today- September 10: Top national, sports and world news curated for you bestcolleges.indiatoday.in",
      "published": "2026-09-09T11:08:19+00:00",
-     "source": "India Today",
+     "source": "bestcolleges.indiatoday.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1095,9 +1076,9 @@
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
-     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News newsonair.gov.in",
+     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
      "published": "2026-09-08T14:08:20+00:00",
-     "source": "newsonair.gov.in",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1113,6 +1094,29 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 10, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63561",
+     "summary": "",
+     "published": "2026-09-09T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "4f6063e088f8",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "RBI",
+       "VRRR",
+       "LAF"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Foreign Exchange Turnover Data: August 24, 2026 – August 28, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63560",
@@ -1179,25 +1183,6 @@
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
      "id": "19d634c66c99",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Reserve Money for the fortnight ended on August 31, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63556",
-     "summary": "",
-     "published": "2026-09-09T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "31351e8849aa",
      "upsc": {
       "papers": [
        "GS-II — Governance"
@@ -1591,6 +1576,19 @@
      "category_label": "General"
     },
     {
+     "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+     "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+     "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+     "published": "2026-09-09T12:36:59+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
+     "licence": "linkout",
+     "id": "36024485ea71",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Should promotion depend on how workers use AI?",
      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
      "summary": "More companies are tying career progression to AI use: is that fair?",
@@ -1602,6 +1600,19 @@
      "id": "75538fdf90a2",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Credit card surcharge: Why do shops charge 2% extra and should you pay?",
+     "url": "https://www.livemint.com/money/personal-finance/credit-card-surcharge-why-do-shops-charge-2-extra-and-should-you-pay-11788956140371.html",
+     "summary": "When a customer pays by credit card, the merchant generally incurs a fee for accepting the payment. This cost is commonly known as the Merchant Discount Rate.",
+     "published": "2026-09-09T13:13:30+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/09/600x338/credit_card_1710594305033_1788957884672_a20aa6d5-0bff-4d95-84a7-9fea55e1b3b3_058928d4-4690-4c6b-813c-90d22272aea5_4a95f68f-9526-4281-9a18-cfdf7a96b660.jpg",
+     "licence": "linkout",
+     "id": "7eaa5c210ca7",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Health insurance playbook: 5 IRDAI rules every policyholder should know for hassle-free claim settlements",
@@ -1644,19 +1655,6 @@
      "id": "79075395b6c1",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "EPF advance rules: Withdrawals for education, illness and housing are now easier, says EPFO",
-     "url": "https://www.livemint.com/money/personal-finance/epf-advance-rules-withdrawals-for-education-illness-and-housing-are-now-easier-says-epfo-11788947567242.html",
-     "summary": "EPF advance rules have been highlighted by EPFO, covering withdrawals for education, illness and housing. Here is what EPF members should know about eligibility, withdrawal limits, applicable conditions and the impact on retirement savings.",
-     "published": "2026-09-09T10:42:39+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/09/600x338/EPFO_advance_rules_1788948064755_a57909b2-aa04-4d8b-bbe9-5f80e934af1c_1788948069076_a7491f55-e25d-4911-bbbc-8adf005c7417_2c98693f-1de0-4099-b910-8b31c11ea594_e871230b-f634-4a53-a9ba-0cab73c06fef.png",
-     "licence": "linkout",
-     "id": "b788cc0d4f1b",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1676,6 +1674,14 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
      "licence": "linkout",
      "id": "36024485ea71",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "AI researcher quits Anthropic saying AI race ‘could kill us all’",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
+       "summary": "AI researcher warns the industry is racing towards superintelligent AI that could improve itself beyond human control."
+      }
+     ],
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1746,6 +1752,19 @@
      "id": "6d45115b08c2",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "\"iPhone and artificial intelligence\"... financial markets are awaiting a new wave that may redraw the map of technology companies",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRG9hZWhqT05aYWhjTDcxd3V4Sm1IU3A5YmY5dlJGaDZMLW1HZTliT1ZKcnhLOEV1Skl5ZTdSS0p2S2ZCVzBHRG95RzJCWEdjRVlTMUQ2Z0hzVXFsYkM2dDl1VHExc0IxU253eEhfR0FJTFEzaldBYkFNczVENXlCOUNGU3ZxRVF0dzdDbVlHRlpGMDJKX0tUaldaWGZnSV9iT1AzMlJPZlg1R0RCSjd6R2hmckpvNEppYWtMUXJKblBqcUM5QnBwTV8wQWdUcm53MXA0aUE2ZEZoa1FJdklQWHVTbkFtMEVRZ3Y4TGt3Wll5V3ZVTHBNUy1UX2JjdTVOOGZ3aDE4ZnVWN01tSGo2V0FTNU00X2c?oc=5",
+     "summary": "\"iPhone and artificial intelligence\"... financial markets are awaiting a new wave that may redraw the map of technology companies صوت الإمارات",
+     "published": "2026-09-09T05:53:34+00:00",
+     "source": "صوت الإمارات",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "c0ec674ef113",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -1841,7 +1860,7 @@
     {
      "title": "Actor Noel Clarke charged with sexual offences",
      "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-     "summary": "He has been charged with sexual offences including sexual assault, voyeurism and exposure.",
+     "summary": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
      "published": "2026-09-09T12:51:24+00:00",
      "source": "BBC News",
      "byline": "",
