@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T18:04:01.391803+00:00",
+ "generated_at": "2026-09-11T18:37:36.393028+00:00",
  "podcasts_fetched_at": "2026-09-09T22:34:07.951012+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Killed Speeding",
-  "Pakistan Questioned",
+  "Police Penukonda",
+  "Front Page",
   "Jazeera English",
   "News",
   "CREST IDFC",
   "Bangladesh Chattogram",
-  "Complete Sabarimala",
-  "Seeking",
-  "Global News",
-  "Trump Brics"
+  "Guterres Modi",
+  "National News",
+  "Yemen",
+  "Global News"
  ],
  "sections": [
   {
@@ -102,6 +102,38 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Police arrest one, seize six ganja packets in Penukonda",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-arrest-one-seize-six-ganja-packets-in-penukonda/article71455672.ece",
+     "summary": "",
+     "published": "2026-09-11T18:18:52+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/k2864a/article71457763.ece/alternates/LANDSCAPE_1200/10745_11_9_2026_19_18_2_1_IMG_20260911_WA0028.JPG",
+     "licence": "linkout",
+     "id": "72cfdf8b3dbd",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "US holds memorials for the 9/11 attacks, 25 years later",
+     "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
+     "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
+     "published": "2026-09-11T18:00:41+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa4342b4258-1789146155.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "6ac431f5e387",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "11 attacks , 25 years later",
+      "3,000 people killed during the hijackings"
+     ]
+    },
     {
      "title": "3 Killed As Speeding Tanker Rams Bike In Maharashtra's Beed",
      "url": "https://www.ndtv.com/india-news/3-killed-as-speeding-tanker-rams-bike-in-maharashtras-beed-12033690#publisher=newsstand",
@@ -121,91 +153,36 @@
      ]
     },
     {
-     "title": "Pakistan Duo Questioned For Hours By Cyber Crime Unit, Sought More Time To Respond",
-     "url": "https://sports.ndtv.com/cricket/mohammad-rizwan-imam-ul-haq-interrogated-for-2-hours-by-pakistan-cyber-crime-agency-details-here-12033124#publisher=newsstand",
-     "summary": "This comes after reports circulated that the PCB took the players' mobile phones into its custody before handing them over to the relevant authorities.",
-     "published": "2026-09-11T12:33:59+00:00",
-     "source": "NDTV Sports",
+     "title": "UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts",
+     "url": "https://www.thehindu.com/news/national/un-chief-guterres-meets-pm-modi-discusses-west-asia-ukraine-conflicts/article71457757.ece",
+     "summary": "The Secretary-General appreciated India’s close cooperation with the United Nations.",
+     "published": "2026-09-11T18:26:06+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/tc1kgbpc_rizwan-imam_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/yynn8h/article71457771.ece/alternates/LANDSCAPE_1200/20260911462L.jpg",
      "licence": "linkout",
-     "id": "92d556357d8f",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Sports"
+     "id": "d866991d28e0",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News"
     },
     {
-     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-     "published": "2026-09-11T10:50:04+00:00",
-     "source": "BBC News",
+     "title": "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
+     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-civic-polls-evm-glitches-disrupt-voting-at-some-booths-in-final-phase/article71455076.ece",
+     "summary": "Polling began at 7 a.m. for 147 urban local bodies, with more than 87 lakh eligible voters",
+     "published": "2026-09-11T18:20:19+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/cnxs6b/article71455168.ece/alternates/LANDSCAPE_1200/PTI09_10_2026_000284A.jpg",
      "licence": "linkout",
-     "id": "4c03e94a08d1",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
+     "id": "62a9117e2ea6",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
      "figures": [
-      "$3 m embezzlement scandal"
+      "147 urban local bodies, with more",
+      "87 lakh eligible voters"
      ]
-    },
-    {
-     "title": "Kerala High Court affirms tender process for demolition of Chander Kunj Army Towers",
-     "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-affirms-tender-process-for-demolition-of-chanderkunj-army-towers/article71455719.ece",
-     "summary": "High Court dismisses two petitions filed by competitors in the tender process — P.K. Unique Projects Pvt. Ltd. and P. Ponulingam representing Sree Kumaran Demolishers — challenging the award of the bid to Edifice Engineering.",
-     "published": "2026-09-11T17:36:42+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "76defe3fce6c",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "National News"
-    },
-    {
-     "title": "BRICS negotiators work late into evening to find consensus for ‘Delhi Declaration’",
-     "url": "https://www.thehindu.com/news/national/brics-negotiators-work-late-into-evening-to-find-consensus-for-delhi-declaration/article71457543.ece",
-     "summary": "References to the war in Iran started by the U.S. and Israel, and Iran’s attacks on installations in the UAE and other West Asian countries, had still not been resolved, officials say",
-     "published": "2026-09-11T17:28:25+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/o0c3c9/article71457679.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-11%20at%2018.26.21.jpeg",
-     "licence": "linkout",
-     "id": "86908e09914b",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "National News"
-    },
-    {
-     "title": "Complete works on priority ahead of Sabarimala pilgrimage season, says Keralam Chief Minister",
-     "url": "https://www.thehindu.com/news/national/kerala/complete-works-on-priority-ahead-of-sabarimala-pilgrimage-season-says-keralam-chief-minister/article71456802.ece",
-     "summary": "Chief Minister V.D. Satheesan attends review meeting",
-     "published": "2026-09-11T17:56:54+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xq7yay/article71456886.ece/alternates/LANDSCAPE_1200/NH11SabarimalaMeeting02.JPG",
-     "licence": "linkout",
-     "id": "46c7404187af",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Seeking five-day banking week, employees take out protest march, stage demonstration",
-     "url": "https://www.thehindu.com/news/national/karnataka/seeking-five-day-banking-week-employees-take-out-protest-march-stage-demonstration/article71456650.ece",
-     "summary": "Bank employees affiliated to the United Forum of Bank Unions took out a protest march and staged a demonstration in Hubballi on Friday, demanding introduction of a five-day banking week and urging the Centre to resolve their long-pending demands",
-     "published": "2026-09-11T17:56:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uaqfgw/article71457715.ece/alternates/LANDSCAPE_1200/2699_11_9_2026_19_27_8_3_12HUBLIBANKPROTEST_2.JPG",
-     "licence": "linkout",
-     "id": "7ec7584e32df",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
     },
     {
      "title": "UK lawmakers vote against bill to legalise assisted dying",
@@ -223,6 +200,20 @@
      "figures": [
       "286 votes to 270"
      ]
+    },
+    {
+     "title": "UK government rejects 'kill switch' idea for dangerous AI",
+     "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+     "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+     "published": "2026-09-11T15:07:07+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
+     "licence": "linkout",
+     "id": "68f64883254d",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Technology"
     },
     {
      "title": "CBI files 20th charge sheet in homebuyers fraud cases; Ajnara India, bank officials named",
@@ -247,6 +238,20 @@
      "from_section": "Scandals & Investigations"
     },
     {
+     "title": "E-commerce platforms should settle complaints in a month, say new govt. rules",
+     "url": "https://www.thehindu.com/news/national/e-commerce-platforms-should-settle-complaints-in-a-month-say-new-govt-rules/article71457185.ece",
+     "summary": "While announcing discounts, e-sellers should display the old price of goods also, as per the amended rules to be operational from January 1, 2027",
+     "published": "2026-09-11T18:25:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/zao2l5/article71457772.ece/alternates/LANDSCAPE_1200/box-market-electronic-ordering-shop-basket.jpg",
+     "licence": "linkout",
+     "id": "4597f83edf7d",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
+    },
+    {
      "title": "US declares end of largest recorded cyclosporiasis outbreak",
      "url": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
      "summary": "The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.",
@@ -261,24 +266,6 @@
      "from_section": "Global News",
      "figures": [
       "13,000 linked cases"
-     ]
-    },
-    {
-     "title": "PPF: Here's how much investment of ₹2,000 per month earns you — Even 5 years’ delay can impact your total corpus",
-     "url": "https://www.livemint.com/money/personal-finance/ppf-how-much-rs-2000-per-month-investment-earns-you-5-years-delay-impact-total-corpus-crorepati-parents-children-savings-11789142461410.html",
-     "summary": "Today, we calculate the minimum amount you would need to invest in your / your child's PPF per month in order to successfully become a “crorepati” over the long run. Below is how the calculation works out for every 5-year delay:",
-     "published": "2026-09-11T17:34:16+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/PPF_investment_1789147916124_285340a6-b396-4529-adce-0c72662a3969_1789147926282_447b0dbc-ef8d-4aec-84d1-03c87778cf50_6728d0a7-e68a-4de7-a8e9-040fec9101e8_d6bb08bd-0527-4fc6-aa3e-60201a8c72a0.png",
-     "licence": "linkout",
-     "id": "8a2945ebf126",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹2,000  per month earns you",
-      "5 years ’ delay can impact"
      ]
     },
     {
@@ -359,14 +346,14 @@
     },
     {
      "title": "For Finavia’s HR professional, artificial intelligence is part of the job description",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qY281VEhRQy1qNmFCUm9IUTV3elRxU0VvejZpS0JJUjFsUm1Ma2s5XzJLSGVHdkJtWkIwZ2JtVHJUOUMtaVQ5S0ZqcVhGa1BIS0NNd2JSclFKbl9JSmx6RVRjeFU2WDVlNThXOTJJOA?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaG0xSUxLMG9VLW8tblVxYk1kMnZvWlFVc1k5Qlhuc19rdVRfaU9lQWNVOUNBTzVJXy0zM0x6Tk1FcEd1WnBlRDlIaDM0OVVhUDZIQW9Ub0FUbXluZEhLOQ?oc=5",
      "summary": "For Finavia’s HR professional, artificial intelligence is part of the job description WebWire",
-     "published": "2026-09-11T17:54:27+00:00",
+     "published": "2026-09-11T18:14:21+00:00",
      "source": "WebWire",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "7a1d9e143c94",
+     "id": "4e86102eb467",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -402,20 +389,6 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
-    },
-    {
-     "title": "Morocco PM takes aim at federation chief over 2030 World Cup final boast",
-     "url": "https://www.aljazeera.com/sports/2026/9/11/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast?traffic_source=rss",
-     "summary": "Prime Minister Aziz Akhannouch slams his country's football chief after claim Morocco will host 2030 World Cup final.",
-     "published": "2026-09-11T17:16:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/13859965-1789135390.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "1954c2eb5c9b",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
     },
     {
      "title": "Ex-India Star Prefers Sanju Samson Over Vaibhav Sooryavanshi As India's T20I Opener, Gives Reason",
@@ -480,7 +453,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-11T18:03:47.980468+00:00",
+     "published": "2026-09-11T18:37:23.136220+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -491,7 +464,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-11T18:03:47.980481+00:00",
+     "published": "2026-09-11T18:37:23.136231+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -502,7 +475,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-11T18:03:47.980487+00:00",
+     "published": "2026-09-11T18:37:23.136238+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -513,7 +486,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-11T18:03:47.980490+00:00",
+     "published": "2026-09-11T18:37:23.136242+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -524,7 +497,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-11T18:03:47.980494+00:00",
+     "published": "2026-09-11T18:37:23.136246+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -535,7 +508,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-11T18:03:47.980498+00:00",
+     "published": "2026-09-11T18:37:23.136250+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -647,43 +620,63 @@
    "upsc": false,
    "items": [
     {
-     "title": "Complete works on priority ahead of Sabarimala pilgrimage season, says Keralam Chief Minister",
-     "url": "https://www.thehindu.com/news/national/kerala/complete-works-on-priority-ahead-of-sabarimala-pilgrimage-season-says-keralam-chief-minister/article71456802.ece",
-     "summary": "Chief Minister V.D. Satheesan attends review meeting",
-     "published": "2026-09-11T17:56:54+00:00",
+     "title": "UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts",
+     "url": "https://www.thehindu.com/news/national/un-chief-guterres-meets-pm-modi-discusses-west-asia-ukraine-conflicts/article71457757.ece",
+     "summary": "The Secretary-General appreciated India’s close cooperation with the United Nations.",
+     "published": "2026-09-11T18:26:06+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xq7yay/article71456886.ece/alternates/LANDSCAPE_1200/NH11SabarimalaMeeting02.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/yynn8h/article71457771.ece/alternates/LANDSCAPE_1200/20260911462L.jpg",
      "licence": "linkout",
-     "id": "46c7404187af",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "d866991d28e0",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "Seeking five-day banking week, employees take out protest march, stage demonstration",
-     "url": "https://www.thehindu.com/news/national/karnataka/seeking-five-day-banking-week-employees-take-out-protest-march-stage-demonstration/article71456650.ece",
-     "summary": "Bank employees affiliated to the United Forum of Bank Unions took out a protest march and staged a demonstration in Hubballi on Friday, demanding introduction of a five-day banking week and urging the Centre to resolve their long-pending demands",
-     "published": "2026-09-11T17:56:49+00:00",
+     "title": "E-commerce platforms should settle complaints in a month, say new govt. rules",
+     "url": "https://www.thehindu.com/news/national/e-commerce-platforms-should-settle-complaints-in-a-month-say-new-govt-rules/article71457185.ece",
+     "summary": "While announcing discounts, e-sellers should display the old price of goods also, as per the amended rules to be operational from January 1, 2027",
+     "published": "2026-09-11T18:25:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uaqfgw/article71457715.ece/alternates/LANDSCAPE_1200/2699_11_9_2026_19_27_8_3_12HUBLIBANKPROTEST_2.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/zao2l5/article71457772.ece/alternates/LANDSCAPE_1200/box-market-electronic-ordering-shop-basket.jpg",
      "licence": "linkout",
-     "id": "7ec7584e32df",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "4597f83edf7d",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "Arlekar, Vijay pay homage to Subramania Bharathi, Immanuel Sekaran on their death anniversary",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/arlekar-vijay-pay-homage-to-subramania-bharathi-immanuel-sekaran-on-their-death-anniversary/article71455211.ece",
-     "summary": "",
-     "published": "2026-09-11T17:48:49+00:00",
+     "title": "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
+     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-civic-polls-evm-glitches-disrupt-voting-at-some-booths-in-final-phase/article71455076.ece",
+     "summary": "Polling began at 7 a.m. for 147 urban local bodies, with more than 87 lakh eligible voters",
+     "published": "2026-09-11T18:20:19+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/cnxs6b/article71455168.ece/alternates/LANDSCAPE_1200/PTI09_10_2026_000284A.jpg",
      "licence": "linkout",
-     "id": "b1e45af97f77",
+     "id": "62a9117e2ea6",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "147 urban local bodies, with more",
+      "87 lakh eligible voters"
+     ]
+    },
+    {
+     "title": "Andhra Pradesh notifies Excise Shops Policy 2026-27, retains 3,736 liquor outlets",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-notifies-excise-shops-policy-2026-27-retains-3736-liquor-outlets/article71457488.ece",
+     "summary": "The new policy introduces stringent digital monitoring, including an end-to-end Track and Trace system from production to retail sale, digital stock and sales records",
+     "published": "2026-09-11T18:18:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/3s24f8/article71457758.ece/alternates/LANDSCAPE_1200/Visakhapatnam-gGNAFCHU95.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "7cd58c3bff30",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "27, retains 3,736 liquor outlets"
+     ]
     },
     {
      "title": "ISRO Satellite Detects Clearest Sign Yet Of \"Mother of All\" El Nio Events",
@@ -710,6 +703,39 @@
    "upsc": false,
    "items": [
     {
+     "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
+     "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
+     "summary": "The International Organisation for Migration (IOM) warns that the figure is rising 'by the hour'.",
+     "published": "2026-09-11T18:14:29+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa432f06003-1789145840.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "0678a5bbbc12",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "46,000 displaced by escalating Yemen fighting"
+     ]
+    },
+    {
+     "title": "US holds memorials for the 9/11 attacks, 25 years later",
+     "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
+     "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
+     "published": "2026-09-11T18:00:41+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa4342b4258-1789146155.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "6ac431f5e387",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "11 attacks , 25 years later",
+      "3,000 people killed during the hijackings"
+     ]
+    },
+    {
      "title": "US declares end of largest recorded cyclosporiasis outbreak",
      "url": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
      "summary": "The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.",
@@ -723,22 +749,6 @@
      "category_label": "Money & scams",
      "figures": [
       "13,000 linked cases"
-     ]
-    },
-    {
-     "title": "UK lawmakers vote against bill to legalise assisted dying",
-     "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
-     "summary": "Parliament's lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270.",
-     "published": "2026-09-11T17:31:22+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa41c793c5ca-1789140089.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "b315c1d7d01a",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "286 votes to 270"
      ]
     },
     {
@@ -756,19 +766,6 @@
      "figures": [
       "3.9 percent month-to-month, accounting for one-third"
      ]
-    },
-    {
-     "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-     "url": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss",
-     "summary": "A growing number of fishermen say their boats have been struck by US forces as Trump expands his anti-drug campaign.",
-     "published": "2026-09-11T17:18:17+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/jose_hernan_flores-copy-1789057630.jpg?resize=1200%2C630",
-     "licence": "linkout",
-     "id": "b5545f36922c",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
@@ -797,6 +794,22 @@
      "category_label": "General",
      "figures": [
       "$300,000  (£220,000) when it goes"
+     ]
+    },
+    {
+     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+     "published": "2026-09-11T10:50:04+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
+     "licence": "linkout",
+     "id": "4c03e94a08d1",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "$3 m embezzlement scandal"
      ]
     }
    ]
@@ -887,85 +900,89 @@
    "upsc": false,
    "items": [
     {
-     "title": "Complete works on priority ahead of Sabarimala pilgrimage season, says Keralam Chief Minister",
-     "url": "https://www.thehindu.com/news/national/kerala/complete-works-on-priority-ahead-of-sabarimala-pilgrimage-season-says-keralam-chief-minister/article71456802.ece",
-     "summary": "Chief Minister V.D. Satheesan attends review meeting",
-     "published": "2026-09-11T17:56:54+00:00",
+     "title": "UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts",
+     "url": "https://www.thehindu.com/news/national/un-chief-guterres-meets-pm-modi-discusses-west-asia-ukraine-conflicts/article71457757.ece",
+     "summary": "The Secretary-General appreciated India’s close cooperation with the United Nations.",
+     "published": "2026-09-11T18:26:06+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xq7yay/article71456886.ece/alternates/LANDSCAPE_1200/NH11SabarimalaMeeting02.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/yynn8h/article71457771.ece/alternates/LANDSCAPE_1200/20260911462L.jpg",
      "licence": "linkout",
-     "id": "46c7404187af",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "d866991d28e0",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "Seeking five-day banking week, employees take out protest march, stage demonstration",
-     "url": "https://www.thehindu.com/news/national/karnataka/seeking-five-day-banking-week-employees-take-out-protest-march-stage-demonstration/article71456650.ece",
-     "summary": "Bank employees affiliated to the United Forum of Bank Unions took out a protest march and staged a demonstration in Hubballi on Friday, demanding introduction of a five-day banking week and urging the Centre to resolve their long-pending demands",
-     "published": "2026-09-11T17:56:49+00:00",
+     "title": "E-commerce platforms should settle complaints in a month, say new govt. rules",
+     "url": "https://www.thehindu.com/news/national/e-commerce-platforms-should-settle-complaints-in-a-month-say-new-govt-rules/article71457185.ece",
+     "summary": "While announcing discounts, e-sellers should display the old price of goods also, as per the amended rules to be operational from January 1, 2027",
+     "published": "2026-09-11T18:25:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uaqfgw/article71457715.ece/alternates/LANDSCAPE_1200/2699_11_9_2026_19_27_8_3_12HUBLIBANKPROTEST_2.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/zao2l5/article71457772.ece/alternates/LANDSCAPE_1200/box-market-electronic-ordering-shop-basket.jpg",
      "licence": "linkout",
-     "id": "7ec7584e32df",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "4597f83edf7d",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "Arlekar, Vijay pay homage to Subramania Bharathi, Immanuel Sekaran on their death anniversary",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/arlekar-vijay-pay-homage-to-subramania-bharathi-immanuel-sekaran-on-their-death-anniversary/article71455211.ece",
-     "summary": "",
-     "published": "2026-09-11T17:48:49+00:00",
+     "title": "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
+     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-civic-polls-evm-glitches-disrupt-voting-at-some-booths-in-final-phase/article71455076.ece",
+     "summary": "Polling began at 7 a.m. for 147 urban local bodies, with more than 87 lakh eligible voters",
+     "published": "2026-09-11T18:20:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/cnxs6b/article71455168.ece/alternates/LANDSCAPE_1200/PTI09_10_2026_000284A.jpg",
+     "licence": "linkout",
+     "id": "62a9117e2ea6",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "147 urban local bodies, with more",
+      "87 lakh eligible voters"
+     ]
+    },
+    {
+     "title": "College student attacked in Keralam’s Thonnakkal",
+     "url": "https://www.thehindu.com/news/national/kerala/college-student-attacked-in-keralams-thonnakkal/article71457385.ece",
+     "summary": "Incident occurs outside college, where the student was reportedly waiting for a bus after classes",
+     "published": "2026-09-11T18:14:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "b1e45af97f77",
+     "id": "b70aac6809ef",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Farmers protest demanding uninterrupted power supply in Karimnagar district",
-     "url": "https://www.thehindu.com/news/national/telangana/farmers-protest-demanding-uninterrupted-power-supply-in-karimnagar-district/article71457151.ece",
-     "summary": "",
-     "published": "2026-09-11T17:16:58+00:00",
+     "title": "37 deep-tech innovations on display at Bharat Innovates Exposition on Sep 11-12",
+     "url": "https://www.thehindu.com/sci-tech/technology/37-deep-tech-innovations-on-display-at-bharat-innovates-exposition-on-sep-11-12/article71456815.ece",
+     "summary": "The BRICS Bharat Innovates Exposition at Bharat Mandapam marks the second major exposition of India’s deep-tech start-ups in 2026, providing participating innovators an opportunity to network with investors, business leaders and industry representatives from BRICS nations",
+     "published": "2026-09-11T18:13:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/n9t4zw/article71457742.ece/alternates/LANDSCAPE_1200/PTI09_11_2026_000200B.jpg",
      "licence": "linkout",
-     "id": "9fcc276986a3",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "IRCTC deactivates over three crore user IDs, suspends 6.33 crore IDs",
-     "url": "https://www.thehindu.com/news/national/irctc-deactivates-over-three-crore-user-ids-suspends-633-crore-ids/article71456066.ece",
-     "summary": "Agents misuse the system by making bulk bookings through fake user IDs and then later sell tickets at inflated rates to desperate passengers",
-     "published": "2026-09-11T17:16:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hpxfpo/article69683825.ece/alternates/LANDSCAPE_1200/5968_11-5-2020_15-39-23_1_11BG_BL02_CORONAVIRUS_MAY2020.JPG",
-     "licence": "linkout",
-     "id": "6d73cad6d6a7",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "a20fd1e79d23",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "6.33 crore IDs"
+      "37 deep -tech innovations on display"
      ]
     },
     {
-     "title": "Genuine colleges alone will get fee reimbursement, says Revanth",
-     "url": "https://www.thehindu.com/news/national/telangana/genuine-colleges-alone-will-get-fee-reimbursement-says-revanth/article71457640.ece",
-     "summary": "Fee reimbursement, the Chief Minister stressed, was meant for the benefit of students and not for the college managements",
-     "published": "2026-09-11T17:15:57+00:00",
+     "title": "Awareness trek highlights need for early detection of Alzheimer’s",
+     "url": "https://www.thehindu.com/news/national/karnataka/awareness-trek-highlights-need-for-early-detection-of-alzheimers/article71456949.ece",
+     "summary": "",
+     "published": "2026-09-11T18:10:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/x9w80i/article71457657.ece/alternates/LANDSCAPE_1200/Nurse-murder_-CGC5GGDGHG.4.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/t5jb9s/article71457748.ece/alternates/LANDSCAPE_1200/2303_11_9_2026_20_37_22_1_AWARENESSWALK.JPG",
      "licence": "linkout",
-     "id": "3dfcc76b3899",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "3ad7d2e7f8c0",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "School assembly news headlines today- September 12: Top national, sports and world news curated for you",
@@ -1575,6 +1592,23 @@
      "id": "62f3eca215ae",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "PPF: Here's how much investment of ₹2,000 per month earns you — Even 5 years’ delay can impact your total corpus",
+     "url": "https://www.livemint.com/money/personal-finance/ppf-how-much-rs-2000-per-month-investment-earns-you-5-years-delay-impact-total-corpus-crorepati-parents-children-savings-11789142461410.html",
+     "summary": "Today, we calculate the minimum amount you would need to invest in your / your child's PPF per month in order to successfully become a “crorepati” over the long run. Below is how the calculation works out for every 5-year delay:",
+     "published": "2026-09-11T17:34:16+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/PPF_investment_1789147916124_285340a6-b396-4529-adce-0c72662a3969_1789147926282_447b0dbc-ef8d-4aec-84d1-03c87778cf50_6728d0a7-e68a-4de7-a8e9-040fec9101e8_d6bb08bd-0527-4fc6-aa3e-60201a8c72a0.png",
+     "licence": "linkout",
+     "id": "8a2945ebf126",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹2,000  per month earns you",
+      "5 years ’ delay can impact"
+     ]
     },
     {
      "title": "Global yields surge: How they affect the Indian bond market and why domestic factors matter",
