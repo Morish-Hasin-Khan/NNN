@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T18:37:36.393028+00:00",
+ "generated_at": "2026-09-11T19:01:41.217912+00:00",
  "podcasts_fetched_at": "2026-09-09T22:34:07.951012+00:00",
  "markets": [
   {
@@ -90,10 +90,10 @@
   "News",
   "CREST IDFC",
   "Bangladesh Chattogram",
-  "Guterres Modi",
-  "National News",
-  "Yemen",
-  "Global News"
+  "IEIC",
+  "Keralam Satheesan",
+  "Real Madrid",
+  "Iran Strait"
  ],
  "sections": [
   {
@@ -114,7 +114,7 @@
      "id": "72cfdf8b3dbd",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "US holds memorials for the 9/11 attacks, 25 years later",
@@ -135,21 +135,20 @@
      ]
     },
     {
-     "title": "3 Killed As Speeding Tanker Rams Bike In Maharashtra's Beed",
-     "url": "https://www.ndtv.com/india-news/3-killed-as-speeding-tanker-rams-bike-in-maharashtras-beed-12033690#publisher=newsstand",
-     "summary": "The accident occurred around 11.30 pm near Ukanda village in Patoda tehsil, about 20 km away from the district headquarters, an official said.",
-     "published": "2026-09-11T12:44:11+00:00",
-     "source": "NDTV",
+     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+     "published": "2026-09-11T10:50:04+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2025-12/udjnl814_accident-generic_625x300_18_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
      "licence": "linkout",
-     "id": "c57992c5ba00",
+     "id": "4c03e94a08d1",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
+     "from_section": "Global News",
      "figures": [
-      "3 Killed As Speeding Tanker Rams",
-      "20 km away from the district"
+      "$3 m embezzlement scandal"
      ]
     },
     {
@@ -167,53 +166,66 @@
      "from_section": "National News"
     },
     {
-     "title": "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
-     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-civic-polls-evm-glitches-disrupt-voting-at-some-booths-in-final-phase/article71455076.ece",
-     "summary": "Polling began at 7 a.m. for 147 urban local bodies, with more than 87 lakh eligible voters",
-     "published": "2026-09-11T18:20:19+00:00",
+     "title": "‘India stands ready to assist in peace efforts’: PM Modi tells Russia’s Putin during bilateral ahead of BRICS summit",
+     "url": "https://www.thehindu.com/news/national/pm-modi-russia-putin-hold-high-stakes-talks-ahead-of-brics-summit/article71456100.ece",
+     "summary": "PM Modi accepts President Putin invite for the 24th India-Russia Annual Summit in Moscow later this year",
+     "published": "2026-09-11T18:33:23+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cnxs6b/article71455168.ece/alternates/LANDSCAPE_1200/PTI09_10_2026_000284A.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/98yril/article71456099.ece/alternates/LANDSCAPE_1200/20260911293L.jpg",
      "licence": "linkout",
-     "id": "62a9117e2ea6",
+     "id": "f343399a9297",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum",
+       "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
+       "summary": "BRICS Summit 2026 LIVE Updates: As BRICS Chair for 2026, India will host the summit in New Delhi on September 12 and 13."
+      },
+      {
+       "source": "BBC News",
+       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+       "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+       "summary": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely."
+      },
+      {
+       "source": "newsonair.gov.in",
+       "title": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2puT0hjRGRhZUowYlpjN3NwY0RVamFCbWNONURvckFQT2Q2VlZheWcteHFwTzU4Ulh3c0Y1cWtuVTZuaE5CR1J2LTNPNnNoaExVZFQzbkw0VWt2aElSZWtiS2VjS1hEclhqcHFmWm4yckFENVhBUDM2S3AtcG15T1hYVQ?oc=5",
+       "summary": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order newsonair.gov.in"
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "147 urban local bodies, with more",
-      "87 lakh eligible voters"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "UK lawmakers vote against bill to legalise assisted dying",
-     "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
-     "summary": "Parliament's lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270.",
-     "published": "2026-09-11T17:31:22+00:00",
-     "source": "Al Jazeera",
+     "title": "Keralam CM Satheesan says he stands by his claim on number of personal staff during previous LDF government",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-says-he-stands-by-his-claim-on-number-of-personal-staff-during-previous-ldf-government/article71456899.ece",
+     "summary": "Satheesan says that he is willing to publish the entire list of personal staff of Chief Minister and Ministers during the 2021-2026 period, including their addresses and other details",
+     "published": "2026-09-11T18:42:45+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa41c793c5ca-1789140089.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/gmmie/article71457801.ece/alternates/LANDSCAPE_1200/vd.jpg",
      "licence": "linkout",
-     "id": "b315c1d7d01a",
+     "id": "ea79e33a4826",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News",
-     "figures": [
-      "286 votes to 270"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "UK government rejects 'kill switch' idea for dangerous AI",
-     "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
-     "published": "2026-09-11T15:07:07+00:00",
-     "source": "BBC News",
+     "title": "PM Modi meets Pezeshkian, calls for dialogue and diplomacy to end West Asia conflict",
+     "url": "https://www.thehindu.com/news/national/pm-modi-holds-talks-with-iranian-president-pezeshkian/article71457281.ece",
+     "summary": "PM Modi draws Iran’s attention to the disruption in energy supply and emphasises the need to ensure freedom of navigation through Strait of Hormuz; President Pezeshkian refers to Israel and the U.S. as “bullies”",
+     "published": "2026-09-11T18:29:34+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/otqmgb/article71457292.ece/alternates/LANDSCAPE_1200/PTI09_11_2026_000411B.jpg",
      "licence": "linkout",
-     "id": "68f64883254d",
+     "id": "e1340f500a19",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Technology"
+     "from_section": "National News"
     },
     {
      "title": "CBI files 20th charge sheet in homebuyers fraud cases; Ajnara India, bank officials named",
@@ -249,7 +261,7 @@
      "id": "4597f83edf7d",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "US declares end of largest recorded cyclosporiasis outbreak",
@@ -297,20 +309,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "\"Very Rare In The World\": BCCI Struggles To Find Ideal Candidate For High-Profile Role",
-     "url": "https://sports.ndtv.com/cricket/very-rare-in-the-world-bcci-struggles-to-find-ideal-candidate-for-high-profile-role-12033407#publisher=newsstand",
-     "summary": "The Board of Control for Cricket in India (BCCI) on Friday said it is once again inviting applications for the position of Head - Sports Science and Medicine at its state-of-the-art Centre of Excellence (CoE) facility in Bengaluru.",
-     "published": "2026-09-11T12:12:34+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e8e4bada4bea",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Sports"
-    },
-    {
      "title": "Philippine rescuers board ferry 40 hours after blaze began",
      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
      "summary": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
@@ -345,6 +343,20 @@
      ]
     },
     {
+     "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+     "url": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+     "summary": "France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.",
+     "published": "2026-09-11T18:44:57+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T191004Z_1929128573_UP1EM981H8R06_RTRMADP_3_SOCCER-CHAMPIONS-RMA-INT-1789149958.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "10a9d48c7e05",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Global News"
+    },
+    {
      "title": "For Finavia’s HR professional, artificial intelligence is part of the job description",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaG0xSUxLMG9VLW8tblVxYk1kMnZvWlFVc1k5Qlhuc19rdVRfaU9lQWNVOUNBTzVJXy0zM0x6Tk1FcEd1WnBlRDlIaDM0OVVhUDZIQW9Ub0FUbXluZEhLOQ?oc=5",
      "summary": "For Finavia’s HR professional, artificial intelligence is part of the job description WebWire",
@@ -377,67 +389,32 @@
      ]
     },
     {
-     "title": "Does this AI comic make you laugh?",
-     "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-     "summary": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
-     "published": "2026-09-11T12:49:30+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a77/live/af54b2d0-addc-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "ea25f97dc3d3",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Ex-India Star Prefers Sanju Samson Over Vaibhav Sooryavanshi As India's T20I Opener, Gives Reason",
-     "url": "https://sports.ndtv.com/cricket/ex-india-star-prefers-sanju-samson-over-vaibhav-sooryavanshi-as-indias-t20i-opener-gives-reason-12033811#publisher=newsstand",
-     "summary": "The Indian cricket team has been playing musical chairs with its opening combination in the T20I format for quite a long time now.",
-     "published": "2026-09-11T13:19:05+00:00",
+     "title": "Sri Lanka Beat Pakistan To Set Up Women's Asia Cup Final Against India",
+     "url": "https://sports.ndtv.com/cricket/sri-lanka-beat-pakistan-to-set-up-womens-asia-cup-final-against-india-12035145#publisher=newsstand",
+     "summary": "India will face defending champions Sri Lanka in a repeat of last edition's final in the Women's Asia Cup summit clash in Dubai on Sunday after the holders notched a four-wicket win over Pakistan on Friday.",
+     "published": "2026-09-11T18:20:35+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/um7fa7ts_vaibhav-sooryavanshi-sanju-samson-afp_625x300_05_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/amvukp0g_sri-lanka-x-officialslc_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f8e2f71063ab",
+     "id": "c0ef32551ade",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
     },
     {
-     "title": "Adani International School Hosts National Games Chess Competition 2026",
-     "url": "https://www.ndtv.com/india-news/adani-international-school-hosts-national-games-chess-competition-2026-in-ahmedabad-12033668#publisher=newsstand",
-     "summary": "More than 800 students, parents, coaches and school representatives are attending the two-day championship in Ahmedabad, according to a release.",
-     "published": "2026-09-11T12:34:04+00:00",
-     "source": "NDTV",
+     "title": "Pakistan Cricket Makes U-Turn On Dukes Balls After Disastrous Experiment: Report",
+     "url": "https://sports.ndtv.com/cricket/pakistan-cricket-makes-u-turn-on-dukes-balls-after-disastrous-experiment-report-12034778#publisher=newsstand",
+     "summary": "The PCB believes the switch back to Kookaburra will help bridge the gap between domestic first-class and Test cricket.",
+     "published": "2026-09-11T18:12:30+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/492dmdg4_adani-school_625x300_11_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/dippnh2o_dukes-balls_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "eeb8fcdd1e43",
+     "id": "4f8f741948fa",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "National News",
-     "figures": [
-      "800 students , parents, coaches"
-     ]
-    },
-    {
-     "title": "Probe Ordered After 12 Class 7 Students Get Injured At Assam School",
-     "url": "https://www.ndtv.com/india-news/probe-ordered-after-12-class-7-students-injured-at-assam-school-12033692#publisher=newsstand",
-     "summary": "The incident was reported on Thursday after the students sustained minor injuries on the school premises.",
-     "published": "2026-09-11T12:39:31+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://i.ndtvimg.com/i/2016-12/classroom-generic_650x400_51482605821.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "f6347ec4d3e8",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News",
-     "figures": [
-      "12 Class 7 Students Get Injured",
-      "7 Students Get Injured At Assam"
-     ]
+     "from_section": "Sports"
     }
    ]
   },
@@ -453,7 +430,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-11T18:37:23.136220+00:00",
+     "published": "2026-09-11T19:01:24.314263+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -464,7 +441,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-11T18:37:23.136231+00:00",
+     "published": "2026-09-11T19:01:24.314272+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -475,7 +452,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-11T18:37:23.136238+00:00",
+     "published": "2026-09-11T19:01:24.314275+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -486,7 +463,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-11T18:37:23.136242+00:00",
+     "published": "2026-09-11T19:01:24.314278+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -497,7 +474,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-11T18:37:23.136246+00:00",
+     "published": "2026-09-11T19:01:24.314286+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -508,21 +485,21 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-11T18:37:23.136250+00:00",
+     "published": "2026-09-11T19:01:24.314290+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "NEET PG Answer Key 2026 Live: Response Sheet Expected Today, Check Latest Updates Here",
-     "url": "https://www.ndtv.com/education/neet-pg-answer-key-2026-live-response-sheet-expected-today-check-latest-updates-here-12026840#publisher=newsstand",
-     "summary": "NEET PG Answer Key 2026 LIVE: NBEMS may release the provisional key and response sheet today. Check download steps, marking scheme, result date and latest updates here.",
-     "published": "2026-09-11T12:51:53+00:00",
+     "title": "BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum",
+     "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
+     "summary": "BRICS Summit 2026 LIVE Updates: As BRICS Chair for 2026, India will host the summit in New Delhi on September 12 and 13.",
+     "published": "2026-09-11T18:32:25+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/nsgnvsjk_neet_625x300_10_September_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-09/du867cok_modi-pezeshkian_625x300_11_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c303e019903c",
+     "id": "73b8524bbb0d",
      "kind": "liveblog",
      "category": "general",
      "category_label": "General"
@@ -620,79 +597,118 @@
    "upsc": false,
    "items": [
     {
-     "title": "UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts",
-     "url": "https://www.thehindu.com/news/national/un-chief-guterres-meets-pm-modi-discusses-west-asia-ukraine-conflicts/article71457757.ece",
-     "summary": "The Secretary-General appreciated India’s close cooperation with the United Nations.",
-     "published": "2026-09-11T18:26:06+00:00",
+     "title": "IEIC team assesses VB-G RAM G implementation in villages",
+     "url": "https://www.thehindu.com/news/national/karnataka/ieic-team-assessesvb-g-ram-g-implementation-in-villages/article71456672.ece",
+     "summary": "",
+     "published": "2026-09-11T18:56:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yynn8h/article71457771.ece/alternates/LANDSCAPE_1200/20260911462L.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "d866991d28e0",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "a413ed66f37a",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "E-commerce platforms should settle complaints in a month, say new govt. rules",
-     "url": "https://www.thehindu.com/news/national/e-commerce-platforms-should-settle-complaints-in-a-month-say-new-govt-rules/article71457185.ece",
-     "summary": "While announcing discounts, e-sellers should display the old price of goods also, as per the amended rules to be operational from January 1, 2027",
-     "published": "2026-09-11T18:25:07+00:00",
+     "title": "Keralam CM Satheesan says he stands by his claim on number of personal staff during previous LDF government",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-says-he-stands-by-his-claim-on-number-of-personal-staff-during-previous-ldf-government/article71456899.ece",
+     "summary": "Satheesan says that he is willing to publish the entire list of personal staff of Chief Minister and Ministers during the 2021-2026 period, including their addresses and other details",
+     "published": "2026-09-11T18:42:45+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zao2l5/article71457772.ece/alternates/LANDSCAPE_1200/box-market-electronic-ordering-shop-basket.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/gmmie/article71457801.ece/alternates/LANDSCAPE_1200/vd.jpg",
      "licence": "linkout",
-     "id": "4597f83edf7d",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
-     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-civic-polls-evm-glitches-disrupt-voting-at-some-booths-in-final-phase/article71455076.ece",
-     "summary": "Polling began at 7 a.m. for 147 urban local bodies, with more than 87 lakh eligible voters",
-     "published": "2026-09-11T18:20:19+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cnxs6b/article71455168.ece/alternates/LANDSCAPE_1200/PTI09_10_2026_000284A.jpg",
-     "licence": "linkout",
-     "id": "62a9117e2ea6",
+     "id": "ea79e33a4826",
      "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "147 urban local bodies, with more",
-      "87 lakh eligible voters"
-     ]
+     "category_label": "Political controversy"
     },
     {
-     "title": "Andhra Pradesh notifies Excise Shops Policy 2026-27, retains 3,736 liquor outlets",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-notifies-excise-shops-policy-2026-27-retains-3736-liquor-outlets/article71457488.ece",
-     "summary": "The new policy introduces stringent digital monitoring, including an end-to-end Track and Trace system from production to retail sale, digital stock and sales records",
-     "published": "2026-09-11T18:18:42+00:00",
+     "title": "‘India stands ready to assist in peace efforts’: PM Modi tells Russia’s Putin during bilateral ahead of BRICS summit",
+     "url": "https://www.thehindu.com/news/national/pm-modi-russia-putin-hold-high-stakes-talks-ahead-of-brics-summit/article71456100.ece",
+     "summary": "PM Modi accepts President Putin invite for the 24th India-Russia Annual Summit in Moscow later this year",
+     "published": "2026-09-11T18:33:23+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3s24f8/article71457758.ece/alternates/LANDSCAPE_1200/Visakhapatnam-gGNAFCHU95.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/98yril/article71456099.ece/alternates/LANDSCAPE_1200/20260911293L.jpg",
      "licence": "linkout",
-     "id": "7cd58c3bff30",
+     "id": "f343399a9297",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum",
+       "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
+       "summary": "BRICS Summit 2026 LIVE Updates: As BRICS Chair for 2026, India will host the summit in New Delhi on September 12 and 13."
+      },
+      {
+       "source": "BBC News",
+       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+       "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+       "summary": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely."
+      },
+      {
+       "source": "newsonair.gov.in",
+       "title": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2puT0hjRGRhZUowYlpjN3NwY0RVamFCbWNONURvckFQT2Q2VlZheWcteHFwTzU4Ulh3c0Y1cWtuVTZuaE5CR1J2LTNPNnNoaExVZFQzbkw0VWt2aElSZWtiS2VjS1hEclhqcHFmWm4yckFENVhBUDM2S3AtcG15T1hYVQ?oc=5",
+       "summary": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order newsonair.gov.in"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Putin Takes \"40%\" Dig At G7, Compares It With BRICS' Contribution To World GDP",
+     "url": "https://www.ndtv.com/world-news/putin-takes-40-per-cent-dig-at-g7-compares-it-with-brics-contribution-to-world-gdp-12033570#publisher=newsstand",
+     "summary": "\"The world is always changing, and this is attested to by the objective facts of the last five years,\" Valdimir Putin said at the BRICS Business Forum.",
+     "published": "2026-09-11T18:31:10+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/lkqobhps_putin-at-brics_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d160355fdc8e",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Delhi Lt Governor Proposes Mandatory Tuberculosis Test For All Hospital Patients",
+     "url": "https://www.ndtv.com/india-news/delhi-lt-governor-proposes-mandatory-tb-screening-of-all-hospital-patients-12035203#publisher=newsstand",
+     "summary": "The proposal comes as Delhi is behind key targets under its TB Mukt Bharat Abhiyaan, with the September 30 deadline approaching.",
+     "published": "2026-09-11T18:29:37+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/08nv3bu8_delhi_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "e41e504b3de8",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "27, retains 3,736 liquor outlets"
+      "30 deadline approaching"
      ]
     },
     {
-     "title": "ISRO Satellite Detects Clearest Sign Yet Of \"Mother of All\" El Nio Events",
-     "url": "https://www.ndtv.com/india-news/isro-satellite-detects-clearest-sign-yet-of-mother-of-all-el-nio-events-12033353#publisher=newsstand",
-     "summary": "According to ISRO the observations from EOS-06/Oceansat-3 also complement the World Meteorological Organization (WMO) outlook.",
-     "published": "2026-09-11T12:34:28+00:00",
+     "title": "US Envoy Sergio Gor Visits Manipur, Meets Governor, Chief Minister",
+     "url": "https://www.ndtv.com/india-news/us-envoy-sergio-gor-visits-manipur-meets-governor-chief-minister-12033819#publisher=newsstand",
+     "summary": "Sergio Gor visited the historic Kangla Fort, which served as the ancient political and cultural centre of the erstwhile Manipur kingdom.",
+     "published": "2026-09-11T18:20:58+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/9mlvo06g_isro-_625x300_11_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/rp4tr00c_gor_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b7218e875ea2",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "3 also complement the World Meteorological"
-     ]
+     "id": "d4b4b5f119e7",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "After Congress Comments On Punjab's Schools, AAP's Himachal Counter",
+     "url": "https://www.ndtv.com/india-news/after-congress-comments-on-punjabs-schools-aaps-himachal-counter-12035173#publisher=newsstand",
+     "summary": "The verbal exchange began after a school audit in Punjab was questioned by Congress leader Sachin Pilot.",
+     "published": "2026-09-11T18:16:58+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/0b5j884g_pilot_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "5c19b9d53680",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -702,6 +718,32 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+     "url": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+     "summary": "France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.",
+     "published": "2026-09-11T18:44:57+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T191004Z_1929128573_UP1EM981H8R06_RTRMADP_3_SOCCER-CHAMPIONS-RMA-INT-1789149958.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "10a9d48c7e05",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+     "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
+     "summary": "Iran's Foreign Ministry says the meeting in Oman is to 'promote better understanding among the countries of the region'.",
+     "published": "2026-09-11T18:33:36+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa4351338-1789146387.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "96916534e5d0",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
      "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
@@ -716,55 +758,6 @@
      "category_label": "General",
      "figures": [
       "46,000 displaced by escalating Yemen fighting"
-     ]
-    },
-    {
-     "title": "US holds memorials for the 9/11 attacks, 25 years later",
-     "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
-     "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
-     "published": "2026-09-11T18:00:41+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa4342b4258-1789146155.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "6ac431f5e387",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "11 attacks , 25 years later",
-      "3,000 people killed during the hijackings"
-     ]
-    },
-    {
-     "title": "US declares end of largest recorded cyclosporiasis outbreak",
-     "url": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
-     "summary": "The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.",
-     "published": "2026-09-11T17:35:36+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T144421Z_1421601386_RC2MKMAYHG3W_RTRMADP_3_HEALTH-USA-CYCLOSPORIASIS-1789145454.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "e677fa9734f1",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "13,000 linked cases"
-     ]
-    },
-    {
-     "title": "Rising petrol costs drive sharp inflation increase in US in August",
-     "url": "https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss",
-     "summary": "Petrol prices jumped 3.9 percent month-to-month, accounting for one-third of the overall inflation increase in August.",
-     "published": "2026-09-11T17:28:11+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa42c90e09a6-1789144208.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9c99aed07983",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "3.9 percent month-to-month, accounting for one-third"
      ]
     },
     {
@@ -794,22 +787,6 @@
      "category_label": "General",
      "figures": [
       "$300,000  (£220,000) when it goes"
-     ]
-    },
-    {
-     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-     "published": "2026-09-11T10:50:04+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
-     "licence": "linkout",
-     "id": "4c03e94a08d1",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "$3 m embezzlement scandal"
      ]
     }
    ]
@@ -900,30 +877,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts",
-     "url": "https://www.thehindu.com/news/national/un-chief-guterres-meets-pm-modi-discusses-west-asia-ukraine-conflicts/article71457757.ece",
-     "summary": "The Secretary-General appreciated India’s close cooperation with the United Nations.",
-     "published": "2026-09-11T18:26:06+00:00",
+     "title": "IEIC team assesses VB-G RAM G implementation in villages",
+     "url": "https://www.thehindu.com/news/national/karnataka/ieic-team-assessesvb-g-ram-g-implementation-in-villages/article71456672.ece",
+     "summary": "",
+     "published": "2026-09-11T18:56:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yynn8h/article71457771.ece/alternates/LANDSCAPE_1200/20260911462L.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "d866991d28e0",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "a413ed66f37a",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "E-commerce platforms should settle complaints in a month, say new govt. rules",
-     "url": "https://www.thehindu.com/news/national/e-commerce-platforms-should-settle-complaints-in-a-month-say-new-govt-rules/article71457185.ece",
-     "summary": "While announcing discounts, e-sellers should display the old price of goods also, as per the amended rules to be operational from January 1, 2027",
-     "published": "2026-09-11T18:25:07+00:00",
+     "title": "Keralam CM Satheesan says he stands by his claim on number of personal staff during previous LDF government",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-says-he-stands-by-his-claim-on-number-of-personal-staff-during-previous-ldf-government/article71456899.ece",
+     "summary": "Satheesan says that he is willing to publish the entire list of personal staff of Chief Minister and Ministers during the 2021-2026 period, including their addresses and other details",
+     "published": "2026-09-11T18:42:45+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/zao2l5/article71457772.ece/alternates/LANDSCAPE_1200/box-market-electronic-ordering-shop-basket.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/gmmie/article71457801.ece/alternates/LANDSCAPE_1200/vd.jpg",
      "licence": "linkout",
-     "id": "4597f83edf7d",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "ea79e33a4826",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "‘India stands ready to assist in peace efforts’: PM Modi tells Russia’s Putin during bilateral ahead of BRICS summit",
+     "url": "https://www.thehindu.com/news/national/pm-modi-russia-putin-hold-high-stakes-talks-ahead-of-brics-summit/article71456100.ece",
+     "summary": "PM Modi accepts President Putin invite for the 24th India-Russia Annual Summit in Moscow later this year",
+     "published": "2026-09-11T18:33:23+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/98yril/article71456099.ece/alternates/LANDSCAPE_1200/20260911293L.jpg",
+     "licence": "linkout",
+     "id": "f343399a9297",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
@@ -943,48 +933,6 @@
      ]
     },
     {
-     "title": "College student attacked in Keralam’s Thonnakkal",
-     "url": "https://www.thehindu.com/news/national/kerala/college-student-attacked-in-keralams-thonnakkal/article71457385.ece",
-     "summary": "Incident occurs outside college, where the student was reportedly waiting for a bus after classes",
-     "published": "2026-09-11T18:14:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "b70aac6809ef",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "37 deep-tech innovations on display at Bharat Innovates Exposition on Sep 11-12",
-     "url": "https://www.thehindu.com/sci-tech/technology/37-deep-tech-innovations-on-display-at-bharat-innovates-exposition-on-sep-11-12/article71456815.ece",
-     "summary": "The BRICS Bharat Innovates Exposition at Bharat Mandapam marks the second major exposition of India’s deep-tech start-ups in 2026, providing participating innovators an opportunity to network with investors, business leaders and industry representatives from BRICS nations",
-     "published": "2026-09-11T18:13:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n9t4zw/article71457742.ece/alternates/LANDSCAPE_1200/PTI09_11_2026_000200B.jpg",
-     "licence": "linkout",
-     "id": "a20fd1e79d23",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "37 deep -tech innovations on display"
-     ]
-    },
-    {
-     "title": "Awareness trek highlights need for early detection of Alzheimer’s",
-     "url": "https://www.thehindu.com/news/national/karnataka/awareness-trek-highlights-need-for-early-detection-of-alzheimers/article71456949.ece",
-     "summary": "",
-     "published": "2026-09-11T18:10:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t5jb9s/article71457748.ece/alternates/LANDSCAPE_1200/2303_11_9_2026_20_37_22_1_AWARENESSWALK.JPG",
-     "licence": "linkout",
-     "id": "3ad7d2e7f8c0",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "School assembly news headlines today- September 12: Top national, sports and world news curated for you",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdS1KRDhEcWhaakJTMmJ4Y2h3dGw0cUJOQmFuV3pWXzZhMVhnRzMtWTlER2xjam5YNjcycWo2YzJSRHRvYkttaHVnbENsVDFHTGNNenBXRmVaYmZJdlE5WXM2aXEydWpUbzM2aEhwbGpqQWNucXFnQk1SVnU1bHAxaW1MNy1yVEJ5TGJnd1VEdU1iZXVPaHJzZkxKSlpRZkZhTFZXbU9jUXBOVVFKM1JyUnIwbnV1WFVvSWxYQkcwd3Y2T1hWbmlzc29tN3pZcUlmNE13V3JGb3pEYVJDSmJBb1FyYU04MFJL?oc=5",
      "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you India Today",
@@ -1000,9 +948,9 @@
     {
      "title": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2puT0hjRGRhZUowYlpjN3NwY0RVamFCbWNONURvckFQT2Q2VlZheWcteHFwTzU4Ulh3c0Y1cWtuVTZuaE5CR1J2LTNPNnNoaExVZFQzbkw0VWt2aElSZWtiS2VjS1hEclhqcHFmWm4yckFENVhBUDM2S3AtcG15T1hYVQ?oc=5",
-     "summary": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order News On AIR",
+     "summary": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order newsonair.gov.in",
      "published": "2026-09-10T22:30:20+00:00",
-     "source": "News On AIR",
+     "source": "newsonair.gov.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1581,6 +1529,24 @@
      "category_label": "General"
     },
     {
+     "title": "Digital Credit and Inclusion Index: Borrowers from Tier II cities are driving India’s digital credit story, finds report",
+     "url": "https://www.livemint.com/money/personal-finance/borrowers-tier-ii-cities-drive-india-digital-credit-and-inclusion-index-payments-story-loans-amazon-pay-dcii-2026-report-11789148410703.html",
+     "summary": "Tier-2 cities in India are leading digital credit and inclusion, with an average score of 58.64, ahead of Tier-1 and Tier-3 cities, the Digital Credit &amp; Inclusion Index (DCII) 2026 by Pahlé India Foundation and Amazon Pay found.",
+     "published": "2026-09-11T18:40:10+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/digital_credit_image_1789151951662_10dbbe16-ccef-486d-b747-c2d37e2b12ad_1789151959840_66d569c4-164a-4618-b1eb-bc07f69b89f9_05a304e5-e9eb-4660-9d08-52bdfb7a8d31_e0bf7668-d9bc-40e8-90c6-4223b85baba7.png",
+     "licence": "linkout",
+     "id": "55e0d0928073",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2 cities in India are leading",
+      "58.64, ahead of Tier-1 and Tier-3",
+      "3 cities , the Digital Credit"
+     ]
+    },
+    {
      "title": "Education loans: Parent or student — who should sign on the dotted line?",
      "url": "https://www.livemint.com/money/personal-finance/education-loans-parent-or-student-who-should-sign-on-the-dotted-line-11789144916606.html",
      "summary": "Unlike traditional consumer debt, education loans evaluate a candidate's future earning capacity rather than just existing income.",
@@ -1622,22 +1588,6 @@
      "id": "a8489a9f6b18",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "SWP: Here's how to generate ₹50,000 per month as steady income while keeping your corpus invested",
-     "url": "https://www.livemint.com/money/personal-finance/swp-systematic-withdrawal-plan-how-much-investment-gives-rs-50000-per-month-steady-income-mutual-funds-retirement-corpus-11789136620335.html",
-     "summary": "Today, we explain how much you would have to invest in a systematic withdrawal plan (SWP) in order to receive ₹50,000 per month as steady income after retirement, while keeping your corpus invested.",
-     "published": "2026-09-11T15:55:15+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/SWP_income_1789141909312_117e44d2-5f34-43ce-901a-2f3f00a6f707_1789141917507_3cfd27cb-180c-4854-a440-b798c3d93361_2be69aec-eb38-46e3-ae48-abfeff62adf0_38002d3d-6ce2-4d06-a0f0-d8f4948208aa.png",
-     "licence": "linkout",
-     "id": "fc2a68eef169",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "₹50,000  per month as steady"
-     ]
     }
    ]
   },
@@ -1728,9 +1678,9 @@
     {
      "title": "Casino Capitalism: Inside the financial architecture powering the AI boom",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWNGaFp5aUQyUDRpRXVJX1BybWJZVlJTT1dhYk5jMlY1Q1pJSllWSmxzSFVvNDVCM1p0NXJFbE9NMVRCN2JQS2FPQ1RDQmhPTEt5SnJYZ2szNnpOc0NYSDJGT2ZhLWpVMU1pdXlYSnhiZm5YN0xBc0ZiY21VSmJ3SFRVdFE3ZWtlU1RVVmVHSnRvdkJJc1JJWENqU1lXaFcyZWJYRVg0ZVFaUXNOdGNfOFh3?oc=5",
-     "summary": "Casino Capitalism: Inside the financial architecture powering the AI boom The South First",
+     "summary": "Casino Capitalism: Inside the financial architecture powering the AI boom thesouthfirst.com",
      "published": "2026-09-11T08:42:48+00:00",
-     "source": "The South First",
+     "source": "thesouthfirst.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1760,77 +1710,80 @@
    "upsc": false,
    "items": [
     {
-     "title": "Ex-India Star Prefers Sanju Samson Over Vaibhav Sooryavanshi As India's T20I Opener, Gives Reason",
-     "url": "https://sports.ndtv.com/cricket/ex-india-star-prefers-sanju-samson-over-vaibhav-sooryavanshi-as-indias-t20i-opener-gives-reason-12033811#publisher=newsstand",
-     "summary": "The Indian cricket team has been playing musical chairs with its opening combination in the T20I format for quite a long time now.",
-     "published": "2026-09-11T13:19:05+00:00",
+     "title": "Jalen Duren And Detroit Pistons Contract Talks Reach Critical Point As $9.6 Million Option Looms",
+     "url": "https://sports.ndtv.com/us-nba/jalen-duren-and-detroit-pistons-contract-talks-reach-critical-point-as-9-6-million-option-looms-12035184#publisher=newsstand",
+     "summary": "Jalen Duren and the Pistons remain apart on a new contract, with the $9.6 million qualifying offer now becoming a real option.",
+     "published": "2026-09-11T18:28:40+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/um7fa7ts_vaibhav-sooryavanshi-sanju-samson-afp_625x300_05_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/udujkndk_jalen-duren_625x300_11_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f8e2f71063ab",
+     "id": "822a3bc49dcb",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "$9.6 Million Option Looms",
+      "$9.6 million qualifying offer now becoming"
+     ]
+    },
+    {
+     "title": "England vs Pakistan Highlights, 3rd Test Day 3: Razaullah's Historic 81 Sets England 130 To Win In Edgbaston Test",
+     "url": "https://sports.ndtv.com/cricket/england-vs-pakistan-3rd-test-live-score-day-3-live-updates-eng-v-pak-cricket-scorecard-babar-azam-joe-root-12032466#publisher=newsstand",
+     "summary": "England vs Pakistan Highlights, 3rd Test Day 3: Debutant pacer Razaullah's counter-attacking knock allowed Pakistan to set England a target of 130 in the third and final Test at Edgbaston.",
+     "published": "2026-09-11T18:26:32+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/njir90mc_razaullah-afp_625x300_11_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d22b41e7d637",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "81 Sets England 130 To Win"
+     ]
+    },
+    {
+     "title": "Sri Lanka Beat Pakistan To Set Up Women's Asia Cup Final Against India",
+     "url": "https://sports.ndtv.com/cricket/sri-lanka-beat-pakistan-to-set-up-womens-asia-cup-final-against-india-12035145#publisher=newsstand",
+     "summary": "India will face defending champions Sri Lanka in a repeat of last edition's final in the Women's Asia Cup summit clash in Dubai on Sunday after the holders notched a four-wicket win over Pakistan on Friday.",
+     "published": "2026-09-11T18:20:35+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/amvukp0g_sri-lanka-x-officialslc_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "c0ef32551ade",
      "category": "sports",
      "category_label": "Sports"
     },
     {
-     "title": "Pakistan Duo's Bank Accounts Under Scrutiny, 'Fixing' Probe Rocks Cricket World: Report",
-     "url": "https://sports.ndtv.com/cricket/pakistan-duos-bank-accounts-under-scrutiny-fixing-probe-rocks-cricket-world-12033186#publisher=newsstand",
-     "summary": "Mohammad Rizwan and Imam-ul-Haq were among the seven players released from the squad following the disastrous two Test matches against England.",
-     "published": "2026-09-11T13:10:06+00:00",
+     "title": "Connor Esterhuizen Hits Maiden ODI Century As South Africa Seal Namibia Series",
+     "url": "https://sports.ndtv.com/cricket/connor-esterhuizen-hits-maiden-odi-century-as-south-africa-seal-namibia-series-12034520#publisher=newsstand",
+     "summary": "Connor Esterhuizen chalked up his maiden international century with struck 119 as South Africa beat Namibia by 157 runs on Friday to take a winning 2-0 lead in a three-match one-day international series.",
+     "published": "2026-09-11T18:06:35+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/8t35ujj8_pakistan-afp_625x300_28_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/ugkvlcrk_connor-esterhuizen_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4c8e1bcd73e7",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Pakistan Duo Questioned For Hours By Cyber Crime Unit, Sought More Time To Respond",
-     "url": "https://sports.ndtv.com/cricket/mohammad-rizwan-imam-ul-haq-interrogated-for-2-hours-by-pakistan-cyber-crime-agency-details-here-12033124#publisher=newsstand",
-     "summary": "This comes after reports circulated that the PCB took the players' mobile phones into its custody before handing them over to the relevant authorities.",
-     "published": "2026-09-11T12:33:59+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/tc1kgbpc_rizwan-imam_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "92d556357d8f",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "WWE’s Triple H And Rob Fee Join Marvel’s Amazing Spider-Man #1000 In A Major Creative Crossover",
-     "url": "https://sports.ndtv.com/us-wwe/wwe-s-triple-h-and-rob-fee-join-marvel-s-amazing-spider-man-1000-in-a-major-creative-crossover-12033360#publisher=newsstand",
-     "summary": "Triple H and Rob Fee are stepping outside WWE for Marvel’s Amazing Spider-Man #1000. Both WWE figures are credited as writers, with Triple H contributing “The Big Night” alongside a huge lineup of Marvel creators for the September 30 anniversary.",
-     "published": "2026-09-11T11:51:42+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/5qsfksdc_triple-h_625x300_29_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "6143223d680e",
+     "id": "31a1df46471a",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "1000. Both WWE figures are credited",
-      "30 anniversary"
+      "157 runs on Friday to take",
+      "0 lead in a three-match one-day"
      ]
     },
     {
-     "title": "From Village Akhada To 6 Asian Titles: Sunil Kumar Wants One More Gold At Asian Games",
-     "url": "https://sports.ndtv.com/wrestling/from-village-akhada-to-6-asian-titles-sunil-kumar-wants-one-more-gold-at-asian-games-12033352#publisher=newsstand",
-     "summary": "Ahead of the Asian Games, Sunil Kumar, six-time Asian champion and Indian Greco-Roman wrestler in the 87kg category, reflects on his journey from starting wrestling in his village to becoming one of the country's most experienced wrestlers.",
-     "published": "2026-09-11T11:46:47+00:00",
+     "title": "Nikola Jokic Gets Brutally Honest About His Frustration With Fame",
+     "url": "https://sports.ndtv.com/us-nba/nikola-jokic-gets-brutally-honest-about-his-frustration-with-fame-12035150#publisher=newsstand",
+     "summary": "Nikola Jokic admits growing tired of fame, saying constant fan requests have made him more direct about personal time while also rejecting the idea that he should be a role model.",
+     "published": "2026-09-11T18:03:59+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/dpn6hddg_sunil-kumar_625x300_11_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/tignhdjs_nikola-jokic_625x300_11_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "7e0d9e3caeb1",
+     "id": "68ec65ac2afa",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "6 Asian Titles: Sunil Kumar Wants",
-      "87kg category, reflects on his"
-     ]
+     "category_label": "General"
     }
    ]
   },
