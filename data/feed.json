@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T23:01:48.613522+00:00",
+ "generated_at": "2026-09-11T23:32:53.919645+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Reading Noida",
-  "Buddhist",
+  "Arrest",
+  "Tragic",
   "Jazeera English",
   "News",
   "CREST IDFC",
   "Bangladesh Chattogram",
   "Gauhati High",
   "Tejashwi Bihar",
-  "Israeli Masafer",
-  "Saudi Arabia"
+  "Sudan",
+  "Flavio Bolsonaro"
  ],
  "sections": [
   {
@@ -102,6 +102,34 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Arrest made over the death of black woman found hanged from tree",
+     "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+     "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+     "published": "2026-09-11T22:57:42+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
+     "licence": "linkout",
+     "id": "7f7f15fe7777",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+     "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+     "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+     "published": "2026-09-11T20:34:29+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f302/live/684bd3c0-ae07-11f1-b561-83a33482e04f.png",
+     "licence": "linkout",
+     "id": "2a02efd44975",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "‘Reading kept me going’: Noida stir accused who cracked NET",
      "url": "https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece",
@@ -115,23 +143,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National Hotlines"
-    },
-    {
-     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-     "published": "2026-09-11T10:50:04+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
-     "licence": "linkout",
-     "id": "4c03e94a08d1",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "$3 m embezzlement scandal"
-     ]
     },
     {
      "title": "Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays",
@@ -148,18 +159,22 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
-     "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
-     "summary": "Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.",
-     "published": "2026-09-11T21:30:47+00:00",
-     "source": "Al Jazeera",
+     "title": "Passenger train derails in France leaving at least 44 injured",
+     "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+     "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+     "published": "2026-09-11T21:25:32+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa466375933-1789158967.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
      "licence": "linkout",
-     "id": "3a3107682ad8",
+     "id": "a95a11f55bd8",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "Global News",
+     "figures": [
+      "44 injured",
+      "180 passengers were on board"
+     ]
     },
     {
      "title": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
@@ -188,28 +203,6 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
-    },
-    {
-     "title": "CBI files 20th charge sheet in homebuyers fraud cases; Ajnara India, bank officials named",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmJVYS1ndHNKYVVLSndFRUM4cmI1SU5ibTkzTEhKUHZCR2dEWGh2MU9WbUZnTl9kVFViOUY2ZmdQWEl4dnlOX3N5d3RwY0E4cEJ5WjB5YmZDS1FMUFVGQ0dBekV0Mm85WTdSMlliTHBXSFgtOVk1bU9TRmtrLWZObi1qNWh2U0V4c21tRndsbGxtNkltaVJKaTVHWkxQellqVjVvMXh5UjlqckVzNEVqT3pSc2VEZ2FVLTh4cVpnWm5rR3Q2ZjdzM0JWbnJtcXlBaEE?oc=5",
-     "summary": "CBI files 20th charge sheet in homebuyers fraud cases; Ajnara India, bank officials named thehawk.in",
-     "published": "2026-09-11T00:38:59+00:00",
-     "source": "thehawk.in",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "6b299156e201",
-     "also": [
-      {
-       "source": "inventiva.co.in",
-       "title": "CBI Files 20th Chargesheet In Homebuyer Fraud Cases: How Many More Required To Punish The Indian Real Estate Mafia?",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWRaSlk3YkpXR05SY1ZKa2ZxQXlHS3A1Wl9oX29LdzgyekRlckFTOGV2NFpBX3FUajVYWW5ZMFVjTTRUM09jcjZiWEFlYTNkQm0xakp4WGhnaFZrZ1dJeDREZEY4dFp3NzM4dHRieTMwWTRsYW93bW9uTDJzTkFZT1ZCcVZrNjhxS0pVSHRB?oc=5",
-       "summary": "CBI Files 20th Chargesheet In Homebuyer Fraud Cases: How Many More Required To Punish The Indian Real Estate Mafia? inventiva.co.in"
-      }
-     ],
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Scandals & Investigations"
     },
     {
      "title": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
@@ -247,6 +240,20 @@
      ]
     },
     {
+     "title": "Global yields surge: How they affect the Indian bond market and why domestic factors matter",
+     "url": "https://www.livemint.com/money/personal-finance/global-yields-surge-how-they-affect-the-indian-bond-market-and-why-domestic-factors-matter-11789137971337.html",
+     "summary": "Analysts believe domestic economic conditions remain the key factor determining the direction of Indian bond yields, rather than movements in global yields alone.",
+     "published": "2026-09-11T16:58:35+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/bond_1789143822210_47d110b3-b385-4077-8f99-4dd773bb7fc5_1789143960914_2beac7e7-e728-4dd1-bf3c-4bdbeaed91e7_04c5ef34-6d4c-412d-96e6-0755899a77b8_055ac6a7-b962-4a4c-8bc3-5784f8bb335d.jpg",
+     "licence": "linkout",
+     "id": "a8489a9f6b18",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business"
+    },
+    {
      "title": "People long for simpler times, say Practical Magic reboot stars",
      "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
      "summary": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
@@ -259,23 +266,6 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
-    },
-    {
-     "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
-     "summary": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
-     "published": "2026-09-11T21:23:51+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789161819.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "dfa3e312b607",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News",
-     "figures": [
-      "11 attacks"
-     ]
     },
     {
      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
@@ -309,37 +299,6 @@
      ]
     },
     {
-     "title": "Israel says it has destroyed major underground Hezbollah base",
-     "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-     "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-     "published": "2026-09-11T15:50:23+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg",
-     "licence": "linkout",
-     "id": "b240f0515ee8",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News",
-     "figures": [
-      "4.1 earthquake , according"
-     ]
-    },
-    {
-     "title": "For Finavia’s HR professional, artificial intelligence is part of the job description",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaG0xSUxLMG9VLW8tblVxYk1kMnZvWlFVc1k5Qlhuc19rdVRfaU9lQWNVOUNBTzVJXy0zM0x6Tk1FcEd1WnBlRDlIaDM0OVVhUDZIQW9Ub0FUbXluZEhLOQ?oc=5",
-     "summary": "For Finavia’s HR professional, artificial intelligence is part of the job description webwire.com",
-     "published": "2026-09-11T18:14:21+00:00",
-     "source": "webwire.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4e86102eb467",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
      "title": "He had ₹15 lakh in savings but still lost money. Here’s how a 32-year-old fixed his portfolio",
      "url": "https://www.livemint.com/money/personal-finance/he-had-15-lakh-in-savings-but-still-lost-money-here-s-how-a-32-year-old-fixed-his-portfolio-11789146406836.html",
      "summary": "A software engineer saved ₹15 lakh but lost purchasing power due to low savings interest. Advised by a financial planner, he allocated funds effectively, setting goals for emergencies, a house, and retirement. His experience highlights how inaction can be a financial decision.",
@@ -370,6 +329,34 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
+    },
+    {
+     "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+     "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+     "published": "2026-09-11T08:15:25+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
+     "licence": "linkout",
+     "id": "68c3fe310973",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+     "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+     "summary": "The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal.",
+     "published": "2026-09-11T22:57:51+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-30T151916Z_123526389_RC219NAJERA5_RTRMADP_3_BRAZIL-POLITICS-BOLSONARO-1789158541.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "c3a066ea8021",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Global News"
     }
    ]
   },
@@ -385,7 +372,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-11T23:01:35.539022+00:00",
+     "published": "2026-09-11T23:32:40.217473+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -396,7 +383,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-11T23:01:35.539051+00:00",
+     "published": "2026-09-11T23:32:40.217486+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -407,7 +394,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-11T23:01:35.539057+00:00",
+     "published": "2026-09-11T23:32:40.217488+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -418,7 +405,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-11T23:01:35.539063+00:00",
+     "published": "2026-09-11T23:32:40.217490+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -429,7 +416,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-11T23:01:35.539068+00:00",
+     "published": "2026-09-11T23:32:40.217491+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -440,7 +427,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-11T23:01:35.539073+00:00",
+     "published": "2026-09-11T23:32:40.217493+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -543,7 +530,8 @@
      "category": "money",
      "category_label": "Money & scams"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "national-news",
@@ -654,6 +642,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "UN extends partial Sudan arms embargo for a month",
+     "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+     "summary": "Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.",
+     "published": "2026-09-11T23:08:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260819__C4ZL2G4__v3__HighRes__TopshotSudanConflictRsf-1787215024.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "fb4db84fd1c0",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+     "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+     "summary": "The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal.",
+     "published": "2026-09-11T22:57:51+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-30T151916Z_123526389_RC219NAJERA5_RTRMADP_3_BRAZIL-POLITICS-BOLSONARO-1789158541.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "c3a066ea8021",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
      "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
      "url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
      "summary": "Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.",
@@ -669,15 +683,15 @@
     {
      "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
      "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
-     "summary": "Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.",
+     "summary": "Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.",
      "published": "2026-09-11T21:30:47+00:00",
      "source": "Al Jazeera",
      "byline": "",
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa466375933-1789158967.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "3a3107682ad8",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
@@ -693,23 +707,6 @@
      "category_label": "General"
     },
     {
-     "title": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
-     "summary": "NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city's history.",
-     "published": "2026-09-11T21:01:23+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789160336.jpg?resize=1619%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "4d08dac1cc9a",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "11 amid widespread criticism",
-      "11, calling it the “darkest day”"
-     ]
-    },
-    {
      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
@@ -719,32 +716,8 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
      "licence": "linkout",
      "id": "fefac175055d",
-     "also": [
-      {
-       "source": "BBC Global News Podcast",
-       "title": "Houthis tighten squeeze on crucial shipping route",
-       "url": "http://www.bbc.co.uk/programmes/p0p9632w",
-       "summary": "Reports from Yemen say fighters from the Iranian-backed Houthi group have taken over the island of Perim, in the Bab el-Mandab Strait - a crucial shipping route. Hundreds of people have reportedly been killed and…"
-      }
-     ],
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Princess Diana's 'revenge dress' goes up for auction",
-     "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-     "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-     "published": "2026-09-11T12:04:46+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/712b/live/9583d4a0-ad80-11f1-b787-81bf75d2ae07.jpg",
-     "licence": "linkout",
-     "id": "e4de6ed93979",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "$300,000  (£220,000) when it goes"
-     ]
     }
    ]
   },
@@ -887,19 +860,6 @@
      "id": "ac9b17db9f34",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "School assembly news headlines today- September 12: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdS1KRDhEcWhaakJTMmJ4Y2h3dGw0cUJOQmFuV3pWXzZhMVhnRzMtWTlER2xjam5YNjcycWo2YzJSRHRvYkttaHVnbENsVDFHTGNNenBXRmVaYmZJdlE5WXM2aXEydWpUbzM2aEhwbGpqQWNucXFnQk1SVnU1bHAxaW1MNy1yVEJ5TGJnd1VEdU1iZXVPaHJzZkxKSlpRZkZhTFZXbU9jUXBOVVFKM1JyUnIwbnV1WFVvSWxYQkcwd3Y2T1hWbmlzc29tN3pZcUlmNE13V3JGb3pEYVJDSmJBb1FyYU04MFJL?oc=5",
-     "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you India Today",
-     "published": "2026-09-11T13:31:27+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "c128196ad51e",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -1459,15 +1419,15 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "I asked my husband to pay into my pension when we had a child - here's why",
-     "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
-     "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-     "published": "2026-09-10T23:04:30+00:00",
+     "title": "Alstom to build new battery-electric train fleet",
+     "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+     "summary": "The government says the work will support thousands of jobs across the UK.",
+     "published": "2026-09-11T14:43:33+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a593/live/bd412620-a7a2-11f1-a7ad-37a1f7dc081c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9bb/live/3cc415a0-adb7-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
-     "id": "09558a3a1254",
+     "id": "0ac37e969c0f",
      "category": "general",
      "category_label": "General"
     },
@@ -1501,19 +1461,6 @@
      "id": "62f3eca215ae",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Global yields surge: How they affect the Indian bond market and why domestic factors matter",
-     "url": "https://www.livemint.com/money/personal-finance/global-yields-surge-how-they-affect-the-indian-bond-market-and-why-domestic-factors-matter-11789137971337.html",
-     "summary": "Analysts believe domestic economic conditions remain the key factor determining the direction of Indian bond yields, rather than movements in global yields alone.",
-     "published": "2026-09-11T16:58:35+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/bond_1789143822210_47d110b3-b385-4077-8f99-4dd773bb7fc5_1789143960914_2beac7e7-e728-4dd1-bf3c-4bdbeaed91e7_04c5ef34-6d4c-412d-96e6-0755899a77b8_055ac6a7-b962-4a4c-8bc3-5784f8bb335d.jpg",
-     "licence": "linkout",
-     "id": "a8489a9f6b18",
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -1559,71 +1506,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
      "licence": "linkout",
      "id": "68c3fe310973",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Can Europe recharge its battery industry?",
-     "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-     "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-     "published": "2026-09-10T23:05:47+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
-     "licence": "linkout",
-     "id": "31029957a260",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "India's Gen Z shares personal issues with AI despite privacy risks: Report - business-standard.com",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQakhEYkUxelN4cmN4c1NuR3htYjVjV2VWZmNEQmRMMUxqTHNsVF92S1RjM2J0V1Q5Vy1MeGc0bVAtSWE1Z09UajNreklEa2NSQnRHTS1jSzUyM1JqSGpuOVdxd2R1Zl9wXzFIbUZlTFdTOTdoUTY5WU5NYzNmMG91eXhYNW5ySnF5V1JUX3o3eVVnbVhJZXJhQXdDU1Zoa0RMWXQ4LXpZT3pnanlwTnBQd1ZBOERmNHNNUzF2SXZfaHlMNl93NWR0aWstdnRvcGZJa3hPRUdnV2RMS29DZFowdzFkV2JiakNoYV9UVC0yTXZhM1BH0gH6AUFVX3lxTE1obGVQZVNJaHpubWl1ZnpoTVQ4dFA5UVFDLW1xcmZMQ01ZcGJ5VVp4bEtBV29OdHpwMGx1dXBCMWNqZE9OT2VQSjMwc2U1aG9xZnJzYkVKMUdJeGg4X3ZRYjdPeEhXVC03eFFOVXV1ZGNZbkhqZnpkWmQ5QUdkZ0JwX3pFUzYyM3JQWFBwVDl1QVpRdmh5VUM3ZmNvYlRKXzByQkQtWkhpREtGdHJTOVlUMmRhUmtxcVlHVzRiTmdjaFFsc25EMElGZVlHbnpXQl90WmRQM1R0bVhNRXFGX08xTGpldXlmWHhJMUNIeUdyRU0tLW9CWmhxOEE?oc=5",
-     "summary": "India's Gen Z shares personal issues with AI despite privacy risks: Report business-standard.com",
-     "published": "2026-09-11T09:45:12+00:00",
-     "source": "Google News",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "c5ee5a2a3ac3",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Casino Capitalism: Inside the financial architecture powering the AI boom",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWNGaFp5aUQyUDRpRXVJX1BybWJZVlJTT1dhYk5jMlY1Q1pJSllWSmxzSFVvNDVCM1p0NXJFbE9NMVRCN2JQS2FPQ1RDQmhPTEt5SnJYZ2szNnpOc0NYSDJGT2ZhLWpVMU1pdXlYSnhiZm5YN0xBc0ZiY21VSmJ3SFRVdFE3ZWtlU1RVVmVHSnRvdkJJc1JJWENqU1lXaFcyZWJYRVg0ZVFaUXNOdGNfOFh3?oc=5",
-     "summary": "Casino Capitalism: Inside the financial architecture powering the AI boom The South First",
-     "published": "2026-09-11T08:42:48+00:00",
-     "source": "The South First",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "dc63109411f3",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
-     "summary": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That? The New York Times",
-     "published": "2026-09-11T12:17:00+00:00",
-     "source": "The New York Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "8f869cc6b2b4",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Artificial Intelligence Speakers Guide by Keynote Scott Steinberg",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1hqWnM0c25weDV2b2RFRWpVdFdpMU1lNXN4Y3FTb0Z3NkdtN0o3REl5MjNwbXlOVzB6NnRzS211YmhwNlFsdU5ERUNjLWhJdkh1UEg5RHF5NDVjQnA5eWhXMk8yVUZNeVgxc2JpLXl6Y1lhS3U4cWk1ank2aXBRYVRxbVgzMm5p?oc=5",
-     "summary": "Artificial Intelligence Speakers Guide by Keynote Scott Steinberg futuristsspeakers.com",
-     "published": "2026-09-11T10:34:16+00:00",
-     "source": "futuristsspeakers.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "cc52cef0619c",
      "category": "tech",
      "category_label": "AI & technology"
     }
