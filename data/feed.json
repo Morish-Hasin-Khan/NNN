@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T23:32:19.143135+00:00",
+ "generated_at": "2026-09-11T00:02:48.356346+00:00",
  "podcasts_fetched_at": "2026-09-09T22:34:07.951012+00:00",
  "markets": [
   {
@@ -69,7 +69,8 @@
    "value": 108.78,
    "change": 12.5,
    "changePct": 12.98,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -423,15 +424,15 @@
      "from_section": "Technology"
     },
     {
-     "title": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXZEb2tEc1RJTk1Odl9iOUhaZDQ1U1lRX3Bvd1hDVVRqZnppdHY5SVRDVDdhX1NRODlfcjdVVTA3QVJfam1JNkpoYmtNbHVucmgtWDZCbEVVZlktbjU4dnFyQW8wdFc0dno1R3Z4OFNkNVRzemxpaURrNHpSNHg3aXh3Zk5NWmI5UldHUXhrQkhHN2pBLXlzeHVqanpsUXM5SkJJR2FySXRjTW1zaDMtSzdpYXBKajYwd3pNcmNMUUI4NnVKZVJveFNFbk4xVTY2VkRMN2ZHeWFKZDFEX2dSSDJtTHZVS2tiQnc4WDU5Umw?oc=5",
-     "summary": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say Live Science",
-     "published": "2026-09-10T12:00:00+00:00",
-     "source": "Live Science",
+     "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFBpUHBCdGgzUnVsT29ueldXNVZsRGdTeUtYM3JjSVl5ZktPOF9zT1hrT0NVamFsSlVlQ0ZGYkljNUFWRkVmVGlRaWdOb3VXSERwRktObmV4U0Y1ZnNVLV9nS2FCVUltV01ubW5peVV5cGZWMGpRSEFVTXEyLUdxSHZlQzNaYWZiMTh2NDlhZ3Q3Nk1MSDBKblhROXhjWWNSZWdZNzNjTTFfazNCQkVRNnV5aGoxSVpw?oc=5",
+     "summary": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member The Guardian",
+     "published": "2026-09-10T18:47:00+00:00",
+     "source": "The Guardian",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "1175ea9b6a44",
+     "id": "05fa02e156bf",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -495,7 +496,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-10T23:32:06.553941+00:00",
+     "published": "2026-09-11T00:02:35.277434+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -506,7 +507,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-10T23:32:06.553949+00:00",
+     "published": "2026-09-11T00:02:35.277451+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -517,7 +518,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-10T23:32:06.553953+00:00",
+     "published": "2026-09-11T00:02:35.277456+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -528,7 +529,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-10T23:32:06.553955+00:00",
+     "published": "2026-09-11T00:02:35.277460+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -539,7 +540,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-10T23:32:06.553957+00:00",
+     "published": "2026-09-11T00:02:35.277464+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -550,7 +551,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-10T23:32:06.553959+00:00",
+     "published": "2026-09-11T00:02:35.277468+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -1170,7 +1171,8 @@
      "category": "general",
      "category_label": "General"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1676,15 +1678,15 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
-     "summary": "AI could kill all humans in next decade, warn experts: but how seriously should we take them? The Guardian",
-     "published": "2026-09-10T01:31:00+00:00",
-     "source": "The Guardian",
+     "title": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXZEb2tEc1RJTk1Odl9iOUhaZDQ1U1lRX3Bvd1hDVVRqZnppdHY5SVRDVDdhX1NRODlfcjdVVTA3QVJfam1JNkpoYmtNbHVucmgtWDZCbEVVZlktbjU4dnFyQW8wdFc0dno1R3Z4OFNkNVRzemxpaURrNHpSNHg3aXh3Zk5NWmI5UldHUXhrQkhHN2pBLXlzeHVqanpsUXM5SkJJR2FySXRjTW1zaDMtSzdpYXBKajYwd3pNcmNMUUI4NnVKZVJveFNFbk4xVTY2VkRMN2ZHeWFKZDFEX2dSSDJtTHZVS2tiQnc4WDU5Umw?oc=5",
+     "summary": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say Live Science",
+     "published": "2026-09-10T12:00:00+00:00",
+     "source": "Live Science",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "ffa595acb992",
+     "id": "1175ea9b6a44",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1875,20 +1877,17 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Migraines and acne among five more conditions pharmacists can treat",
-     "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
-     "summary": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
-     "published": "2026-09-10T00:01:35+00:00",
+     "title": "Does your partner's snoring keep you up? It could be impacting your health",
+     "url": "https://www.bbc.co.uk/news/articles/c62jnyn2n2do?at_medium=RSS&at_campaign=rss",
+     "summary": "Sleeping next to a snorer could be having a negative effect on your health, experts tell the BBC.",
+     "published": "2026-09-10T23:56:18+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37da/live/cda17b80-ace0-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37a4/live/1a65b1f0-a9f5-11f1-921b-6365210e1c9d.jpg",
      "licence": "linkout",
-     "id": "a3a74654b432",
+     "id": "26870b962ad7",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "12 common conditions which save people"
-     ]
+     "category_label": "General"
     },
     {
      "title": "William and Catherine praise role of sports in suicide prevention",
