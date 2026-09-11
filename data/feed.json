@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T16:37:49.341784+00:00",
+ "generated_at": "2026-09-11T17:04:04.343697+00:00",
  "podcasts_fetched_at": "2026-09-09T22:34:07.951012+00:00",
  "markets": [
   {
@@ -59,7 +59,8 @@
    "value": 95.54,
    "change": 1.11,
    "changePct": 1.18,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "brent",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Front Page",
-  "Mumbai Beats",
+  "Central Delhi",
+  "Police",
   "Jazeera English",
   "News",
   "Ludhiana",
   "CREST IDFC",
-  "BRICS Summit",
-  "Bengaluru Nepal",
-  "Erdogan Making",
-  "Trump Pentagon"
+  "Govt Alpha",
+  "Houthis Saudi",
+  "Russia Ukrainian",
+  "Trump Brics"
  ],
  "sections": [
   {
@@ -101,6 +102,34 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Central Delhi decked up, security tightened ahead of BRICS Summit",
+     "url": "https://www.thehindu.com/news/national/central-delhi-decked-up-security-tightened-ahead-of-brics-summit/article71457255.ece",
+     "summary": "The Delhi Police have stepped up monitoring of social media platforms ahead of the event, with public posts being tracked for possible security threats and misinformation",
+     "published": "2026-09-11T16:44:18+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/jp6m0r/article71457578.ece/alternates/LANDSCAPE_1200/BRICS%20SUMMIT%20DELHI%2015.JPG",
+     "licence": "linkout",
+     "id": "6cc5698191ec",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "KEA: Police constable recruitment results announced in record time",
+     "url": "https://www.thehindu.com/news/national/karnataka/kea-police-constable-recruitment-results-announced-in-record-time/article71456828.ece",
+     "summary": "",
+     "published": "2026-09-11T16:42:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "aaafa6f51c31",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "SFI alleges police vendetta after leaders handcuffed in court",
      "url": "https://www.thehindu.com/news/national/kerala/sfi-alleges-police-vendetta-after-leaders-handcuffed-in-court/article71457458.ece",
@@ -113,38 +142,21 @@
      "id": "b118602e4b4d",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
-     "title": "Mumbai Man Beats Friend To Death After Fight Over Clothes: Police",
-     "url": "https://www.ndtv.com/india-news/mumbai-man-beats-friend-to-death-after-fight-over-clothes-police-12034462#publisher=newsstand",
-     "summary": "The FIR states that during the argument, Suraj Dole abused Subodh Waghmare, following which Waghmare attacked him with his hands.",
-     "published": "2026-09-11T15:01:42+00:00",
-     "source": "NDTV",
+     "title": "Govt education policy is for Gen Alpha, Gen Beta and skills for Gen Z, Revanth tells Assembly",
+     "url": "https://www.thehindu.com/news/national/telangana/govt-education-policy-is-for-gen-alpha-gen-beta-and-skills-for-gen-z-revanth-tells-assembly/article71457576.ece",
+     "summary": "",
+     "published": "2026-09-11T16:44:24+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2022-09/73tco624_mumbai-police-generic-650_625x300_06_September_22.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "6daa47e85743",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "bc728b8b9b33",
+     "category": "politics",
+     "category_label": "Political controversy",
      "from_section": "National News"
-    },
-    {
-     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-     "published": "2026-09-11T10:50:04+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
-     "licence": "linkout",
-     "id": "4c03e94a08d1",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "$3 m embezzlement scandal"
-     ]
     },
     {
      "title": "BRICS Summit 2026 LIVE updates: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
@@ -158,7 +170,7 @@
      "id": "21aa53106804",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Modi meets Iran’s President Pezeshkian, calls for 'dialogue and diplomacy' to address West Asia conflict",
@@ -170,20 +182,6 @@
      "image": "https://th-i.thgim.com/public/incoming/otqmgb/article71457292.ece/alternates/LANDSCAPE_1200/PTI09_11_2026_000411B.jpg",
      "licence": "linkout",
      "id": "e1340f500a19",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Modi, Trump share a special bond, says U.S. Ambassador Sergio Gor",
-     "url": "https://www.thehindu.com/news/national/manipur/modi-trump-share-a-special-bond-says-us-ambassador-sergio-gor/article71457239.ece",
-     "summary": "Chief Minister Yumnam Khemchand Singh invites the U.S. Ambassador to the upcoming Manipur Sangai Festival",
-     "published": "2026-09-11T16:12:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/59tkpe/article71457477.ece/alternates/LANDSCAPE_1200/PTI09_11_2026_000406A.jpg",
-     "licence": "linkout",
-     "id": "61003b2e04fe",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
@@ -294,7 +292,7 @@
      "title": "Bengaluru techie’s website helps families track those missing in Nepal floods",
      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-techies-website-helps-families-track-those-missing-in-nepal-floods/article71443409.ece",
      "summary": "",
-     "published": "2026-09-11T16:29:32+00:00",
+     "published": "2026-09-11T16:34:11+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/7g94op/article71457460.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-11%20at%2021.11.39.JPEG",
@@ -353,15 +351,15 @@
      "from_section": "Technology"
     },
     {
-     "title": "US lawmakers seek new AI rules after Anthropic researchers warn of extinction risk",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdDZNZ3Y1cDFPMm5yU19JcWMwQWdyN2dfaE9yaHUwZDZnR0RHUGc0aWdITW5KMC1ac2pLUUMzRFFRcktHcDl3OGJvZ0RVelhzZDNDRGRpcmhIVmRDZFFfWUgwOV85U3p4QUVyUUZkYV9WRW00U0VOb0xZeEUyQzNkbjNYZklLRVM2N2ZWam1HTFRRSXJ2VXhGRjFfb0VfdnlEYzItQWloR3JwWGpNbEFaa3ByM0sybVRocU1ISjRSblhSMURrSlVQd0ZQTkhIRk4yeGt0bXZxbTVzbXpsZm1RSDdHU2JHT29PdTNJX0F2VUt2bnPSAfoBQVVfeXFMUE1RVUI0RVVmLUIzZjcxZUhtcldzTHMwOUxBa29PQXV6MVBYeVpiR3lxYUkwM3ZZWXJPYVF6NUo2bFZDSFIxY25oaUFCY3RJZFBiQUNyTkQ3dHV6NTRURGp2MW5JWTJrTHBtYzlNdFhQWlZGdFE0UURyNFJqakotMmg4N2ZLN2pweWQ4cVBvbzlGSVRLbzVsWWpaeGptYndhUHk5Y3NNZVRMU2Y4OHpvam8xZVFPa0VkRWo2OWoyUjJJOF9JUlQ5MHQ1ZFM0QUprLUdmeE5wRmxVckplVmczd0dBMzdOOXZVd2prWWZUTWs1T3ozWVdxMW9yZw?oc=5",
-     "summary": "US lawmakers seek new AI rules after Anthropic researchers warn of extinction risk indianexpress.com",
-     "published": "2026-09-11T08:57:11+00:00",
-     "source": "indianexpress.com",
+     "title": "ARTIFICIAL INTELLIGENCE SPEAKERS: THE ULTIMATE GUIDE TO AI KEYNOTE EXPERTS FOR CORPORATE MEETINGS & VIRTUAL EVENTS",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1hqWnM0c25weDV2b2RFRWpVdFdpMU1lNXN4Y3FTb0Z3NkdtN0o3REl5MjNwbXlOVzB6NnRzS211YmhwNlFsdU5ERUNjLWhJdkh1UEg5RHF5NDVjQnA5eWhXMk8yVUZNeVgxc2JpLXl6Y1lhS3U4cWk1ank2aXBRYVRxbVgzMm5p?oc=5",
+     "summary": "ARTIFICIAL INTELLIGENCE SPEAKERS: THE ULTIMATE GUIDE TO AI KEYNOTE EXPERTS FOR CORPORATE MEETINGS & VIRTUAL EVENTS futuristsspeakers.com",
+     "published": "2026-09-11T10:34:16+00:00",
+     "source": "futuristsspeakers.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "e0a69302c498",
+     "id": "cc52cef0619c",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -407,20 +405,6 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
-    },
-    {
-     "title": "DSEL orders inquiry into quality of shoes, socks given to govt. schools",
-     "url": "https://www.thehindu.com/news/national/karnataka/dsel-orders-inquiry-into-quality-of-shoes-socks-given-to-govt-schools/article71456714.ece",
-     "summary": "",
-     "published": "2026-09-11T16:08:56+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gwtuni/article71457448.ece/alternates/LANDSCAPE_1200/School_Uniform_03.jpg",
-     "licence": "linkout",
-     "id": "c21001de7297",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National Hotlines"
     }
    ]
   },
@@ -436,7 +420,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-11T16:37:35.140209+00:00",
+     "published": "2026-09-11T17:03:09.203808+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -447,7 +431,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-11T16:37:35.140218+00:00",
+     "published": "2026-09-11T17:03:09.203816+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -458,7 +442,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-11T16:37:35.140223+00:00",
+     "published": "2026-09-11T17:03:09.203820+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +453,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-11T16:37:35.140232+00:00",
+     "published": "2026-09-11T17:03:09.203822+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -480,7 +464,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-11T16:37:35.140237+00:00",
+     "published": "2026-09-11T17:03:09.203824+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -491,7 +475,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-11T16:37:35.140241+00:00",
+     "published": "2026-09-11T17:03:09.203826+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -521,9 +505,9 @@
     {
      "title": "CJP school audit highlights sharp contrast in infrastructure at 3 Ludhiana govt schools",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRjd1dk81clF6S3pBNk9NU1FkcDVzYWNwOUQyV1BuV3djVzNUZ21aRTV3aExyUzFxNWdfZlhMZnJ2NmdEVUJCUmdjbUZkeWwtNlA2SWpNUmc0MFp6RnFrYjdkTEVkYVcwNTIyUldwc1FrOEhudXUwSnl4a2w4aWdnT0lNX3A2b3ZyWGZvRDlmSjdJWmRQdEdkSWpfTVNJSnRyNjlmU05UT3hhQXllbXJQekl1UDB5aE9xZkpEVGtEOUJtUHVMazNhTm9wSdIBzwFBVV95cUxOTjZMNm43T19nclFIWU9majdQeEVHczNUbTJWRTZlUEJfWk5yX3k5UUlaMWI3VlRIbUdfMDgwN3FQdFVmdUdndzRUT2ttYlVLXzNqalBER1NJY0V6UU9TcFRSeEpydEttSUtMeWFzdzFMa3F1SkxTTWtlZjFpNWdTTFFkNndTUFpnTHlIOTlJTFJRTUpab3ZpT2ktdW9hekx6UHlWdWcyTHQ4SVZxbFZYVnFSUUp1Z3JxVGVGVjRfeHhkZ0tqSzVYU1Rpb2hFSkE?oc=5",
-     "summary": "CJP school audit highlights sharp contrast in infrastructure at 3 Ludhiana govt schools The Tribune",
+     "summary": "CJP school audit highlights sharp contrast in infrastructure at 3 Ludhiana govt schools tribuneindia.com",
      "published": "2026-09-10T17:24:12+00:00",
-     "source": "The Tribune",
+     "source": "tribuneindia.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -532,7 +516,7 @@
      "category_label": "General",
      "figures": [
       "3 Ludhiana govt schools",
-      "3 Ludhiana govt schools The Tribune"
+      "3 Ludhiana govt schools tribuneindia"
      ]
     },
     {
@@ -551,9 +535,9 @@
     {
      "title": "Bangladesh detains 63 foreigners in Chattogram online fraud raid",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDd4cFlGWTRweXRzMFYwbnlKdmZBOHFseUZ4WGVfRm1yTWNnSVQ3bm1obkxObm8zRUNjUTRWUFJwZDI1UDZrYW9NamZWaDNDMUQ4SHVEbEJfMVE3bjlTOWhrTlRuZlcxUUZ0VGtCcm1iZjRCX0ZnRWJXeVNzUjFqYmNCemhrZHZIaEljMXVpTUVyMWE0SFVIWmFhUlNWdWo1bTFTeG9NOXpRcVRwSk1BNnViVXhXakkzalg0Y2FhYkluSUFO0gHKAUFVX3lxTFA2VXFtM1B6ZlRWeGVXY3hicnBXQ19mWHZreEJxNnVPWjVtVGtRR204ajdLcE5RVmVUNG1aZFRxVl9ZdUVZNHRPVTZBOV82d09aY3pwRHZoTGhQTjkyMjRYS19oSGphUEd4Z2xqY3huMTkxNm5PUUtVUVhZYldzTVdwRzVJd01ndFN0THo5dTl3TFdrOXFreG81OVRRNDBuWE9kY1hQemhrbUw1U0Z5elR3T2hWTHFpck5pV3doN2hEYmhCWXVnQks1RlE?oc=5",
-     "summary": "Bangladesh detains 63 foreigners in Chattogram online fraud raid India Today",
+     "summary": "Bangladesh detains 63 foreigners in Chattogram online fraud raid indiatoday.in",
      "published": "2026-09-11T10:30:29+00:00",
-     "source": "India Today",
+     "source": "indiatoday.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -620,36 +604,49 @@
    "upsc": false,
    "items": [
     {
-     "title": "BRICS Summit 2026 LIVE updates: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
-     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
-     "summary": "Prime Minister Narendra Modi earlier met Russian President Vladimir Putin in New Delhi for wide-ranging talks on boosting bilateral trade, defence, energy and critical minerals",
-     "published": "2026-09-11T16:29:50+00:00",
+     "title": "Govt education policy is for Gen Alpha, Gen Beta and skills for Gen Z, Revanth tells Assembly",
+     "url": "https://www.thehindu.com/news/national/telangana/govt-education-policy-is-for-gen-alpha-gen-beta-and-skills-for-gen-z-revanth-tells-assembly/article71457576.ece",
+     "summary": "",
+     "published": "2026-09-11T16:44:24+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nw30xq/article71454535.ece/alternates/LANDSCAPE_1200/India_BRICS_8_555.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "21aa53106804",
+     "id": "bc728b8b9b33",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Bengaluru techie’s website helps families track those missing in Nepal floods",
-     "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-techies-website-helps-families-track-those-missing-in-nepal-floods/article71443409.ece",
-     "summary": "",
-     "published": "2026-09-11T16:29:32+00:00",
+     "title": "Central Delhi decked up, security tightened ahead of BRICS Summit",
+     "url": "https://www.thehindu.com/news/national/central-delhi-decked-up-security-tightened-ahead-of-brics-summit/article71457255.ece",
+     "summary": "The Delhi Police have stepped up monitoring of social media platforms ahead of the event, with public posts being tracked for possible security threats and misinformation",
+     "published": "2026-09-11T16:44:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7g94op/article71457460.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-11%20at%2021.11.39.JPEG",
+     "image": "https://th-i.thgim.com/public/incoming/jp6m0r/article71457578.ece/alternates/LANDSCAPE_1200/BRICS%20SUMMIT%20DELHI%2015.JPG",
      "licence": "linkout",
-     "id": "7b50b2e11014",
-     "category": "weather",
-     "category_label": "Weather & disaster"
+     "id": "6cc5698191ec",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "KEA: Police constable recruitment results announced in record time",
+     "url": "https://www.thehindu.com/news/national/karnataka/kea-police-constable-recruitment-results-announced-in-record-time/article71456828.ece",
+     "summary": "",
+     "published": "2026-09-11T16:42:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "aaafa6f51c31",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "ED grills IAS officer, alleged middleman in KPSC case",
      "url": "https://www.thehindu.com/news/national/karnataka/ed-grills-ias-officer-alleged-middleman-in-kpsc-case/article71457249.ece",
      "summary": "",
-     "published": "2026-09-11T16:28:46+00:00",
+     "published": "2026-09-11T16:32:23+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/9m55y8/article71457550.ece/alternates/LANDSCAPE_1200/DSC_5679.JPG",
@@ -657,6 +654,19 @@
      "id": "0943cbf8aa6e",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Mumbai Man Beats Friend To Death After Fight Over Clothes: Police",
+     "url": "https://www.ndtv.com/india-news/mumbai-man-beats-friend-to-death-after-fight-over-clothes-police-12034462#publisher=newsstand",
+     "summary": "The FIR states that during the argument, Suraj Dole abused Subodh Waghmare, following which Waghmare attacked him with his hands.",
+     "published": "2026-09-11T15:01:42+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2022-09/73tco624_mumbai-police-generic-650_625x300_06_September_22.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6daa47e85743",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "Analysis: In BJP's 'Go It Alone' Strategy In Bengal, A Test Of Strength, Identity",
@@ -709,6 +719,48 @@
    "upsc": false,
    "items": [
     {
+     "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
+     "summary": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.",
+     "published": "2026-09-11T16:32:14+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789144326.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "3164ccbb032e",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
+     "url": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
+     "summary": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
+     "published": "2026-09-11T16:30:48+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-10T131223Z_2009795097_RC28GNAPC7RR_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KRAMATORSK-1789138098.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "60fd824f55ef",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Passenger plane aborts landing after wing clips Dublin runway",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/passenger-plane-aborts-landing-after-wing-clips-dublin-runway?traffic_source=rss",
+     "summary": "A passenger aboard a Ryanair Boeing 737 recorded the moment the aircraft’s wingtip struck the runway at Dublin airport.",
+     "published": "2026-09-11T16:27:24+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789144029.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "452e9a7fa051",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "737 recorded the moment the aircraft’s"
+     ]
+    },
+    {
      "title": "Erdogan: The Making of Modern Turkiye",
      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye?traffic_source=rss",
      "summary": "An interview with Turkish President Erdogan on foreign policy, regional conflicts and 25 years of AK Party rule.",
@@ -741,49 +793,6 @@
      ]
     },
     {
-     "title": "Philippines ferry fire death toll rises to 35 after bodies recovered",
-     "url": "https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss",
-     "summary": "Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday's disaster.",
-     "published": "2026-09-11T15:41:54+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa40b8c4d2e-1789135756.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "59b02151e868",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "35 after bodies recovered",
-      "30 more bodies recovered after five"
-     ]
-    },
-    {
-     "title": "Houthis take control of Yemen’s entire Red Sea coast, reports say",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-take-control-of-yemens-entire-red-sea-coast-reports-say?traffic_source=rss",
-     "summary": "The Iran-backed Houthi forces have taken control over most of the western Red Sea coastal line",
-     "published": "2026-09-11T15:34:30+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789140859.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "36d4b0d9b6c6",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Four former US presidents mark 25th anniversary of 9/11 in New York City",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/four-former-us-presidents-mark-25th-anniversary-of-9-11-in-new-york?traffic_source=rss",
-     "summary": "Former US Presidents Joe Biden, Barack Obama, George W. Bush, and Bill Clinton are remembering the victims of the 9/11.",
-     "published": "2026-09-11T15:33:07+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789140774.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "c8e1e707ae23",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
@@ -795,6 +804,22 @@
      "id": "68c3fe310973",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+     "published": "2026-09-11T10:50:04+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
+     "licence": "linkout",
+     "id": "4c03e94a08d1",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "$3 m embezzlement scandal"
+     ]
     },
     {
      "title": "Princess Diana's 'revenge dress' goes up for auction",
@@ -900,66 +925,50 @@
    "upsc": false,
    "items": [
     {
-     "title": "BRICS Summit 2026 LIVE updates: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
-     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
-     "summary": "Prime Minister Narendra Modi earlier met Russian President Vladimir Putin in New Delhi for wide-ranging talks on boosting bilateral trade, defence, energy and critical minerals",
-     "published": "2026-09-11T16:29:50+00:00",
+     "title": "Govt education policy is for Gen Alpha, Gen Beta and skills for Gen Z, Revanth tells Assembly",
+     "url": "https://www.thehindu.com/news/national/telangana/govt-education-policy-is-for-gen-alpha-gen-beta-and-skills-for-gen-z-revanth-tells-assembly/article71457576.ece",
+     "summary": "",
+     "published": "2026-09-11T16:44:24+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nw30xq/article71454535.ece/alternates/LANDSCAPE_1200/India_BRICS_8_555.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "21aa53106804",
+     "id": "bc728b8b9b33",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Bengaluru techie’s website helps families track those missing in Nepal floods",
-     "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-techies-website-helps-families-track-those-missing-in-nepal-floods/article71443409.ece",
-     "summary": "",
-     "published": "2026-09-11T16:29:32+00:00",
+     "title": "Central Delhi decked up, security tightened ahead of BRICS Summit",
+     "url": "https://www.thehindu.com/news/national/central-delhi-decked-up-security-tightened-ahead-of-brics-summit/article71457255.ece",
+     "summary": "The Delhi Police have stepped up monitoring of social media platforms ahead of the event, with public posts being tracked for possible security threats and misinformation",
+     "published": "2026-09-11T16:44:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7g94op/article71457460.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-11%20at%2021.11.39.JPEG",
+     "image": "https://th-i.thgim.com/public/incoming/jp6m0r/article71457578.ece/alternates/LANDSCAPE_1200/BRICS%20SUMMIT%20DELHI%2015.JPG",
      "licence": "linkout",
-     "id": "7b50b2e11014",
-     "category": "weather",
-     "category_label": "Weather & disaster"
+     "id": "6cc5698191ec",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "ED grills IAS officer, alleged middleman in KPSC case",
-     "url": "https://www.thehindu.com/news/national/karnataka/ed-grills-ias-officer-alleged-middleman-in-kpsc-case/article71457249.ece",
+     "title": "KEA: Police constable recruitment results announced in record time",
+     "url": "https://www.thehindu.com/news/national/karnataka/kea-police-constable-recruitment-results-announced-in-record-time/article71456828.ece",
      "summary": "",
-     "published": "2026-09-11T16:28:46+00:00",
+     "published": "2026-09-11T16:42:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9m55y8/article71457550.ece/alternates/LANDSCAPE_1200/DSC_5679.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "0943cbf8aa6e",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "UG NEET: 384 medical seats remain vacant",
-     "url": "https://www.thehindu.com/news/national/karnataka/ug-neet-384-medical-seats-remain-vacant/article71456770.ece",
-     "summary": "",
-     "published": "2026-09-11T16:13:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/sbjprq/article71457490.ece/alternates/LANDSCAPE_1200/KEA-to-conduct-G9IGB8MJD.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "13d9d80f1a83",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "384 medical seats remain vacant"
-     ]
+     "id": "aaafa6f51c31",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "School assembly news headlines today- September 12: Top national, sports and world news curated for you",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdS1KRDhEcWhaakJTMmJ4Y2h3dGw0cUJOQmFuV3pWXzZhMVhnRzMtWTlER2xjam5YNjcycWo2YzJSRHRvYkttaHVnbENsVDFHTGNNenBXRmVaYmZJdlE5WXM2aXEydWpUbzM2aEhwbGpqQWNucXFnQk1SVnU1bHAxaW1MNy1yVEJ5TGJnd1VEdU1iZXVPaHJzZkxKSlpRZkZhTFZXbU9jUXBOVVFKM1JyUnIwbnV1WFVvSWxYQkcwd3Y2T1hWbmlzc29tN3pZcUlmNE13V3JGb3pEYVJDSmJBb1FyYU04MFJL?oc=5",
-     "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you bestcolleges.indiatoday.in",
+     "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you India Today",
      "published": "2026-09-11T13:31:27+00:00",
-     "source": "bestcolleges.indiatoday.in",
+     "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1659,6 +1668,19 @@
      "category_label": "Money & scams"
     },
     {
+     "title": "US lawmakers seek new AI rules after Anthropic researchers warn of extinction risk",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdDZNZ3Y1cDFPMm5yU19JcWMwQWdyN2dfaE9yaHUwZDZnR0RHUGc0aWdITW5KMC1ac2pLUUMzRFFRcktHcDl3OGJvZ0RVelhzZDNDRGRpcmhIVmRDZFFfWUgwOV85U3p4QUVyUUZkYV9WRW00U0VOb0xZeEUyQzNkbjNYZklLRVM2N2ZWam1HTFRRSXJ2VXhGRjFfb0VfdnlEYzItQWloR3JwWGpNbEFaa3ByM0sybVRocU1ISjRSblhSMURrSlVQd0ZQTkhIRk4yeGt0bXZxbTVzbXpsZm1RSDdHU2JHT29PdTNJX0F2VUt2bnPSAfoBQVVfeXFMUE1RVUI0RVVmLUIzZjcxZUhtcldzTHMwOUxBa29PQXV6MVBYeVpiR3lxYUkwM3ZZWXJPYVF6NUo2bFZDSFIxY25oaUFCY3RJZFBiQUNyTkQ3dHV6NTRURGp2MW5JWTJrTHBtYzlNdFhQWlZGdFE0UURyNFJqakotMmg4N2ZLN2pweWQ4cVBvbzlGSVRLbzVsWWpaeGptYndhUHk5Y3NNZVRMU2Y4OHpvam8xZVFPa0VkRWo2OWoyUjJJOF9JUlQ5MHQ1ZFM0QUprLUdmeE5wRmxVckplVmczd0dBMzdOOXZVd2prWWZUTWs1T3ozWVdxMW9yZw?oc=5",
+     "summary": "US lawmakers seek new AI rules after Anthropic researchers warn of extinction risk indianexpress.com",
+     "published": "2026-09-11T08:57:11+00:00",
+     "source": "indianexpress.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "e0a69302c498",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Casino Capitalism: Inside the financial architecture powering the AI boom",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWNGaFp5aUQyUDRpRXVJX1BybWJZVlJTT1dhYk5jMlY1Q1pJSllWSmxzSFVvNDVCM1p0NXJFbE9NMVRCN2JQS2FPQ1RDQmhPTEt5SnJYZ2szNnpOc0NYSDJGT2ZhLWpVMU1pdXlYSnhiZm5YN0xBc0ZiY21VSmJ3SFRVdFE3ZWtlU1RVVmVHSnRvdkJJc1JJWENqU1lXaFcyZWJYRVg0ZVFaUXNOdGNfOFh3?oc=5",
      "summary": "Casino Capitalism: Inside the financial architecture powering the AI boom The South First",
@@ -1683,19 +1705,6 @@
      "id": "8f869cc6b2b4",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Marvell Technology vs. Broadcom: Comparing Revenue Trends Between These Artificial Intelligence Companies",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS05ydUlTaElFRENJX0tsdHVKUExnOU05WmwwVU9pN21TdElyLTJNZWNJNThaWXliMzQ2Vk5rM2NLLTRzaWhHd3dhNDl6Q1lFcGV0WTZZVTIwdEZTN2dkbTdxankxbENRYzZicjF0ako0Q2ZXS3JGemc0SHo4SlZOX0lUOW1MMDV2d0JaX2REQWZ3dzZoeVlNT1RwSHdHNHluZ1Y3bXR4YlVrZWswWXpxWGVycEg0bUphczN4VC0wYlJQZjBwYmkyRFVDbF9uMWtybE5ERHFDRnVIWlppWm9JRDE3SnJObms?oc=5",
-     "summary": "Marvell Technology vs. Broadcom: Comparing Revenue Trends Between These Artificial Intelligence Companies The Motley Fool",
-     "published": "2026-09-10T18:57:00+00:00",
-     "source": "The Motley Fool",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "7b7b57d4c9a1",
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
@@ -1766,19 +1775,6 @@
      "category_label": "General"
     },
     {
-     "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-     "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
-     "summary": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
-     "published": "2026-09-10T16:37:18+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/205b/live/e8ff1fc0-ad32-11f1-9bc8-3509bd1a4ead.jpg",
-     "licence": "linkout",
-     "id": "783d78f3b8b4",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Museum agrees to return remains to ancestral homeland",
      "url": "https://www.bbc.co.uk/news/articles/cx2z38jqe3eo?at_medium=RSS&at_campaign=rss",
      "summary": "Oxford's Pitt Rivers Museum will return more than three dozen sets of human remains to the Naga people.",
@@ -1790,6 +1786,19 @@
      "id": "19bbe4811401",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "People long for simpler times, say Practical Magic reboot stars",
+     "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
+     "summary": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+     "published": "2026-09-11T00:51:17+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905e/live/454e9fb0-adc1-11f1-a540-61c3f7fc4e6c.jpg",
+     "licence": "linkout",
+     "id": "24568c364324",
+     "category": "celebrity",
+     "category_label": "Celebrity"
     },
     {
      "title": "James Bay performs with broken ankle at Bon Jovi gig",
@@ -1805,20 +1814,30 @@
      "category_label": "General"
     },
     {
-     "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-     "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-     "published": "2026-09-10T18:27:22+00:00",
+     "title": "Bids encouraged to keep famed artwork in the UK",
+     "url": "https://www.bbc.co.uk/news/articles/cr50q0l9r1do?at_medium=RSS&at_campaign=rss",
+     "summary": "Sir Stanley Spencer is synonymous with Cookham, where he was born, lived and set some of his work.",
+     "published": "2026-09-11T16:37:17+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d74/live/b1199af0-ad45-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e2/live/6d176030-adf4-11f1-ad53-0d91a06f3150.jpg",
      "licence": "linkout",
-     "id": "a52f248c939c",
+     "id": "c4316de7ba18",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1,000 years ago"
-     ]
+     "category_label": "General"
+    },
+    {
+     "title": "Oasis tease tour announcement with drone display",
+     "url": "https://www.bbc.co.uk/news/articles/cwyz8k6d600o?at_medium=RSS&at_campaign=rss",
+     "summary": "The band illuminated the sky over the Etihad's Joie Stadium, home to Manchester City Woman.",
+     "published": "2026-09-11T07:31:32+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fe7/live/782df350-adb1-11f1-8ac2-99a6f36b284a.jpg",
+     "licence": "linkout",
+     "id": "a5e524443816",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
