@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T20:35:01.991999+00:00",
+ "generated_at": "2026-09-11T21:01:41.189660+00:00",
  "podcasts_fetched_at": "2026-09-09T22:34:07.951012+00:00",
  "markets": [
   {
@@ -84,8 +84,8 @@
   }
  ],
  "topics": [
+  "ChatGPT",
   "Indian",
-  "Declassified Israeli",
   "Jazeera English",
   "News",
   "CREST IDFC",
@@ -93,7 +93,7 @@
   "Kolkata College",
   "Reading Noida",
   "Razaullah Pakistan",
-  "BRICS"
+  "Trump Brics"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+     "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
+     "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
+     "published": "2026-09-11T20:42:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/2024-11-20T100129Z_435853067_RC2R3Z9BXYCO_RTRMADP_3_OPENAI-TEACHERS-1734127670.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "9a6f23d31e5a",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss",
@@ -132,20 +146,6 @@
      "figures": [
       "24 years"
      ]
-    },
-    {
-     "title": "‘Reading kept me going’: Noida stir accused who cracked NET",
-     "url": "https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece",
-     "summary": "“Most of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida",
-     "published": "2026-09-11T19:59:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
-     "licence": "linkout",
-     "id": "61270dd56065",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
     },
     {
      "title": "Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays",
@@ -411,20 +411,6 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Global News"
-    },
-    {
-     "title": "City boss Enzo Maresca says spotlight not on him ahead of Manchester derby",
-     "url": "https://www.aljazeera.com/sports/2026/9/11/enzo-maresca-manchester-city-man-united-derby-football?traffic_source=rss",
-     "summary": "Maresca's Man City lead the Premier League standings, with three wins out of three, ahead of Sunday's derby.",
-     "published": "2026-09-11T19:37:17+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26248575813519-1789126534_5506ea-1789127460.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "a7c154732452",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
     }
    ]
   },
@@ -440,7 +426,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-11T20:34:48.012710+00:00",
+     "published": "2026-09-11T21:01:28.294301+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -451,7 +437,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-11T20:34:48.012719+00:00",
+     "published": "2026-09-11T21:01:28.294314+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -462,7 +448,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-11T20:34:48.012722+00:00",
+     "published": "2026-09-11T21:01:28.294320+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -473,7 +459,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-11T20:34:48.012725+00:00",
+     "published": "2026-09-11T21:01:28.294324+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -484,7 +470,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-11T20:34:48.012727+00:00",
+     "published": "2026-09-11T21:01:28.294328+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -495,7 +481,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-11T20:34:48.012729+00:00",
+     "published": "2026-09-11T21:01:28.294331+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -587,27 +573,6 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "‘Became impossible to cope’: Sheikh Hasina’s daughter on why she quit WHO",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHlVNzdacnZtaUJDR3ItSVRzb05Cck5iVE82TnNPVEIydnJuU0UtZ1o4RjRBYmtOOEF3Nlh0WnV6MnNUYWoxQUhWaDFZUkwxUGltZThCbXdCSS05VTd1OGswZU1lc1V6cmdKRGZDTWEyb24xLVdocXpEVzdINkJFN3FLS0VWUlF0aWhrZTFpdW43Rm9LSnNJenZtbkR1TmhRMDRESHYzTEczNGhzeXJ5VFpUTVNvTDlaUDduaktQMjNMOG1CbjVuUdIBzwFBVV95cUxPMUtyeDN1cXFuS1c4VTZEalBjaHNTRUNNeXByM3lZajhESllVc2IwSnREMEhyczV2QjlLVXBVVktBWUFYSTlKdWJKbS1uS2ZCWTkzTVdFa3ktSnl1YUt6cWYzUXpPb1AzbGJTazl6M2U3allhbWVKLTN6Y2FuWVBnU3JIZllIeERaVldwMWQ1WkFVZWJfM09DNFFXSkFZWmNIdndNUzM2SXA0ZDI1b25Ud0E0eWJ4U0dQWEVNMnZmeVU5V0hPTm8tNlo2Uy1pVUU?oc=5",
-     "summary": "‘Became impossible to cope’: Sheikh Hasina’s daughter on why she quit WHO The Indian Express",
-     "published": "2026-09-10T20:53:00+00:00",
-     "source": "The Indian Express",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "70ad4bcc8a5a",
-     "also": [
-      {
-       "source": "The Times of India",
-       "title": "Sheikh Hasina's daughter quits as WHO regional head after fraud allegations",
-       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEhMS3N5UjdLbWhIRXZuZGpDZVBSS2dYanR4MDZ2LTRqSk1meU9GNy11cEhQRi1ScVF1bjhnYTNZR2xydDBkWWZkUm1uY2NFNlB2RnA5LV9DTjYtTVRVYVRyenRsVUVCT3BsNk9KMks0YW9CZ1p1NVVZYVFnaGVLd0d1eUJfM2ItYm1ING53V19PN280MzR1elRVTE1LYURfTk0xVEdpTkxYNWJJX3RNUmdzTmhlTlAwM3gwcnAzVkE1XzBJd0Q0WFB6MHRPS2xvdVMzUmZodlNCQVpmTmQ1djlIS3lLdVNP0gHuAUFVX3lxTE9hQ3NNMnJIVHowczdfSEhHc3BsdGp6WHZYQWh0XzhKUHhVNlZUSWNIMTZkem51dmFkUU5kaDhZb2k3MWtleXdVQnBDUG43SDRNWXBDNXA3b2h2a0FySndRR1VtZzF4ck1kUkV3TTFkNGxCU3p5OG1XS25qMW9neG43V0JoUmIzTW5pdHM4VHZrbnZkQ043TXF0OE0yNEpZLWFVSWVBZFpNcFVISHFxYlJEMUxyWTJZQTlkMF9wd3UyNkV2b3M4ZHFUeGVpYWxxXy1uaDZMMlF1U1NqcWQwWDItNEJqZW1VQzViMUNrRVE?oc=5",
-       "summary": "Sheikh Hasina's daughter quits as WHO regional head after fraud allegations The Times of India"
-      }
-     ],
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "CBI Files 20th Chargesheet In Homebuyer Fraud Cases: How Many More Required To Punish The Indian Real Estate Mafia?",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWRaSlk3YkpXR05SY1ZKa2ZxQXlHS3A1Wl9oX29LdzgyekRlckFTOGV2NFpBX3FUajVYWW5ZMFVjTTRUM09jcjZiWEFlYTNkQm0xakp4WGhnaFZrZ1dJeDREZEY4dFp3NzM4dHRieTMwWTRsYW93bW9uTDJzTkFZT1ZCcVZrNjhxS0pVSHRB?oc=5",
      "summary": "CBI Files 20th Chargesheet In Homebuyer Fraud Cases: How Many More Required To Punish The Indian Real Estate Mafia? inventiva.co.in",
@@ -632,6 +597,19 @@
      "id": "eb26894cff13",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "IRCTC scam: Delhi court orders framing of money laundering charges against Lalu, Rabri, Tejashwi - Mid-Day",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUjBfU3oyUkE5N2lzRnJUaG83ZHRhcWtOeHZvZUVtODQ0MF8zWnhIRDZkekZkZlhXaS1TajRXRU9tV21kbjUwZ0p1VkhxbUVZZlBfakU5WG53TFZXbHkzSkVOS3Yxd0IwQ3YyZzRTaHUtcTdzMnVldk1YbHdtRWVnU2VHeTJGSVo1N1pHeHdBRS1rNEIxeXhBRGN6bUZMNEV6S2RUZ1lLMXhDQTh5NE1jbUYwYVBReHJzNktvV1A2TlYxN0xVdGQ1Q0JUR05UY1BLbHE0TnNMZGZEUTcwcy14QTZzUF_SAeoBQVVfeXFMT3p6ZDdaOXVMY1ZDSXBPMGZqbVF4UU54UUJfODdZUUJGMU55Z0dLazllcHJ0NkhMU0ZneWFuTTVNakF0WXdYQlFiTV82MXBSdUlBZUxBQ0tOVHBBLU8zZVI0MENjMWtFM0RNQjZ1d2pxLVlyWVh5d1d0aUNPREFQVWdOLWFmdWNINkFoX094MXh0QUgzaWd5MW5TVkctbDEyM3g2U1UwZUdMMWlPcDkwalEtUmZlTGloUC1ZWnJ4NjFDakl3Slh5VEJXNFZ6RGlOLW0zUktGOWVvZzYtQnp6bVBrUWpid01pMjN3?oc=5",
+     "summary": "IRCTC scam: Delhi court orders framing of money laundering charges against Lalu, Rabri, Tejashwi Mid-Day",
+     "published": "2026-09-11T02:58:00+00:00",
+     "source": "Google News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "9a8347591df1",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -741,6 +719,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+     "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
+     "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
+     "published": "2026-09-11T20:42:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/2024-11-20T100129Z_435853067_RC2R3Z9BXYCO_RTRMADP_3_OPENAI-TEACHERS-1734127670.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "9a6f23d31e5a",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
      "url": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
      "summary": "Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.",
@@ -773,19 +764,6 @@
      "id": "3e4616da3448",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss",
-     "summary": "A man posing as a customer threw chilli powder into the eyes of employees at a bank in Nagpur city, western India.",
-     "published": "2026-09-11T20:00:55+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789156826.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "b7e11dc131a2",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
@@ -1688,17 +1666,17 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "ARTIFICIAL INTELLIGENCE SPEAKERS: THE ULTIMATE GUIDE TO AI KEYNOTE EXPERTS FOR CORPORATE MEETINGS & VIRTUAL EVENTS",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1hqWnM0c25weDV2b2RFRWpVdFdpMU1lNXN4Y3FTb0Z3NkdtN0o3REl5MjNwbXlOVzB6NnRzS211YmhwNlFsdU5ERUNjLWhJdkh1UEg5RHF5NDVjQnA5eWhXMk8yVUZNeVgxc2JpLXl6Y1lhS3U4cWk1ank2aXBRYVRxbVgzMm5p?oc=5",
-     "summary": "ARTIFICIAL INTELLIGENCE SPEAKERS: THE ULTIMATE GUIDE TO AI KEYNOTE EXPERTS FOR CORPORATE MEETINGS & VIRTUAL EVENTS futuristsspeakers.com",
-     "published": "2026-09-11T10:34:16+00:00",
-     "source": "futuristsspeakers.com",
+     "title": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
+     "summary": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That? The New York Times",
+     "published": "2026-09-11T12:17:00+00:00",
+     "source": "The New York Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "cc52cef0619c",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "id": "8f869cc6b2b4",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
