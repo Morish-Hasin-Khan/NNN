@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T21:32:11.724569+00:00",
+ "generated_at": "2026-09-11T22:01:51.988149+00:00",
  "podcasts_fetched_at": "2026-09-09T22:34:07.951012+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 122793.0,
    "change": -109.0,
    "changePct": -0.09,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "ChatGPT",
   "Reading Noida",
+  "Four MDMA",
   "Jazeera English",
   "News",
   "CREST IDFC",
   "Bangladesh Chattogram",
+  "Allahabad Uttar",
   "With Punjab",
-  "Vice Kolkata",
-  "Zohran Mamdani",
-  "Global News"
+  "Saudi Arabia",
+  "Sabalenka Rybakina"
  ],
  "sections": [
   {
@@ -101,20 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
-     "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
-     "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
-     "published": "2026-09-11T20:42:05+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/2024-11-20T100129Z_435853067_RC2R3Z9BXYCO_RTRMADP_3_OPENAI-TEACHERS-1734127670.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9a6f23d31e5a",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
     {
      "title": "‘Reading kept me going’: Noida stir accused who cracked NET",
      "url": "https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece",
@@ -147,6 +134,23 @@
      ]
     },
     {
+     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+     "published": "2026-09-11T10:50:04+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
+     "licence": "linkout",
+     "id": "4c03e94a08d1",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "$3 m embezzlement scandal"
+     ]
+    },
+    {
      "title": "Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays",
      "url": "https://www.thehindu.com/news/national/kerala/chander-kunj-army-towers-apartment-owners-call-for-appointment-of-project-officer-amid-demolition-delays/article71455941.ece",
      "summary": "CATAOA seeks the immediate appointment of a dedicated project officer and the setting up of a project office. It also demands that the District Collector’s committee and the subcommittee chaired by the Fort Kochi Revenue Divisional Officer be convened at the earliest to oversee the demolition and reconstruction of the apartments.",
@@ -158,7 +162,7 @@
      "id": "a2b0f6583e3d",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "At BRICS Summit, PM Modi, UN Chief Discuss Need To Reform Global Bodies",
@@ -183,6 +187,20 @@
      "from_section": "National News"
     },
     {
+     "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+     "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+     "summary": "Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.",
+     "published": "2026-09-11T21:30:47+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa466375933-1789158967.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "3a3107682ad8",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
      "title": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
      "url": "https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece",
      "summary": "The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.",
@@ -192,20 +210,6 @@
      "image": "https://th-i.thgim.com/public/incoming/i6bisq/article71457907.ece/alternates/LANDSCAPE_1200/20260902240L.jpg",
      "licence": "linkout",
      "id": "75435a35c646",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office",
-     "url": "https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece",
-     "summary": "Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule",
-     "published": "2026-09-11T20:55:42+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7m40vc/article71457905.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-12%20022341.png",
-     "licence": "linkout",
-     "id": "92836c3cce22",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
@@ -233,6 +237,23 @@
      "from_section": "Scandals & Investigations"
     },
     {
+     "title": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece",
+     "summary": "The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
+     "published": "2026-09-11T21:39:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/957ghq/article71458028.ece/alternates/LANDSCAPE_1200/20260907184L.jpg",
+     "licence": "linkout",
+     "id": "0ab414357225",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "₹6.41 crore damage recovery"
+     ]
+    },
+    {
      "title": "PPF: Here's how much investment of ₹2,000 per month earns you — Even 5 years’ delay can impact your total corpus",
      "url": "https://www.livemint.com/money/personal-finance/ppf-how-much-rs-2000-per-month-investment-earns-you-5-years-delay-impact-total-corpus-crorepati-parents-children-savings-11789142461410.html",
      "summary": "Today, we calculate the minimum amount you would need to invest in your / your child's PPF per month in order to successfully become a “crorepati” over the long run. Below is how the calculation works out for every 5-year delay:",
@@ -251,20 +272,6 @@
      ]
     },
     {
-     "title": "Global yields surge: How they affect the Indian bond market and why domestic factors matter",
-     "url": "https://www.livemint.com/money/personal-finance/global-yields-surge-how-they-affect-the-indian-bond-market-and-why-domestic-factors-matter-11789137971337.html",
-     "summary": "Analysts believe domestic economic conditions remain the key factor determining the direction of Indian bond yields, rather than movements in global yields alone.",
-     "published": "2026-09-11T16:58:35+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/bond_1789143822210_47d110b3-b385-4077-8f99-4dd773bb7fc5_1789143960914_2beac7e7-e728-4dd1-bf3c-4bdbeaed91e7_04c5ef34-6d4c-412d-96e6-0755899a77b8_055ac6a7-b962-4a4c-8bc3-5784f8bb335d.jpg",
-     "licence": "linkout",
-     "id": "a8489a9f6b18",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
      "title": "People long for simpler times, say Practical Magic reboot stars",
      "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
      "summary": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
@@ -277,6 +284,23 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
+    },
+    {
+     "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
+     "summary": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
+     "published": "2026-09-11T21:23:51+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789161819.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "dfa3e312b607",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global News",
+     "figures": [
+      "11 attacks"
+     ]
     },
     {
      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
@@ -371,28 +395,6 @@
       "₹15 lakh in savings but still",
       "₹15 lakh but lost purchasing power"
      ]
-    },
-    {
-     "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
-     "url": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
-     "summary": "Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.",
-     "published": "2026-09-11T20:07:15+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260911__C82Z4RZ__v1__MidRes__776465669-1789155013.jpg?resize=1200%2C630",
-     "licence": "linkout",
-     "id": "a7d4663e46dd",
-     "also": [
-      {
-       "source": "NDTV Sports",
-       "title": "Razaullah Heroics Deny England Quickfire Win In 3rd Test Against Pakistan",
-       "url": "https://sports.ndtv.com/cricket/razaullah-heroics-deny-england-quickfire-win-in-3rd-test-against-pakistan-12035216#publisher=newsstand",
-       "summary": "Debutant Razaullah launched a remarkable late salvo as Pakistan finally showed some fight on Friday to keep England waiting for a clean sweep in their three-Test series."
-      }
-     ],
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
     }
    ]
   },
@@ -408,7 +410,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-11T21:31:59.543456+00:00",
+     "published": "2026-09-11T22:01:38.970094+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -419,7 +421,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-11T21:31:59.543467+00:00",
+     "published": "2026-09-11T22:01:38.970107+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -430,7 +432,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-11T21:31:59.543471+00:00",
+     "published": "2026-09-11T22:01:38.970110+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -441,7 +443,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-11T21:31:59.543479+00:00",
+     "published": "2026-09-11T22:01:38.970111+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -452,7 +454,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-11T21:31:59.543484+00:00",
+     "published": "2026-09-11T22:01:38.970113+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -463,7 +465,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-11T21:31:59.543489+00:00",
+     "published": "2026-09-11T22:01:38.970115+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -493,9 +495,9 @@
     {
      "title": "CREST-IDFC First Bank fraud: CBI charges top government officer and his wife",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQldsbU1FUUYtODFHdU04ckUtLUNjZUF3TlN4clRGNGpqUTBiNXRTNXpYUFY0WUp3V19zcjBXakUwNnBIdzNYeWgzQzM4WUlFR2ltai1RdGtoSHlNVVd6Znh2YnFtZGxqSDFVRXdYSS1oMGNLYTNOdFh1VDFENlNlWmF5VnNVRkVrSVZ4TWJHeWE0ZDZ6UW93UmFwUmR1aWRWcHVkeXRGa3Aybjh3ZFZlZFp4Z0FTbXU2OWE1a2xodlhwbXFR?oc=5",
-     "summary": "CREST-IDFC First Bank fraud: CBI charges top government officer and his wife The New Indian Express",
+     "summary": "CREST-IDFC First Bank fraud: CBI charges top government officer and his wife newindianexpress.com",
      "published": "2026-09-11T14:22:35+00:00",
-     "source": "The New Indian Express",
+     "source": "newindianexpress.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -556,9 +558,9 @@
     {
      "title": "Sheikh Hasina's daughter quits as WHO regional head after fraud allegations",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEhMS3N5UjdLbWhIRXZuZGpDZVBSS2dYanR4MDZ2LTRqSk1meU9GNy11cEhQRi1ScVF1bjhnYTNZR2xydDBkWWZkUm1uY2NFNlB2RnA5LV9DTjYtTVRVYVRyenRsVUVCT3BsNk9KMks0YW9CZ1p1NVVZYVFnaGVLd0d1eUJfM2ItYm1ING53V19PN280MzR1elRVTE1LYURfTk0xVEdpTkxYNWJJX3RNUmdzTmhlTlAwM3gwcnAzVkE1XzBJd0Q0WFB6MHRPS2xvdVMzUmZodlNCQVpmTmQ1djlIS3lLdVNP0gHuAUFVX3lxTE9hQ3NNMnJIVHowczdfSEhHc3BsdGp6WHZYQWh0XzhKUHhVNlZUSWNIMTZkem51dmFkUU5kaDhZb2k3MWtleXdVQnBDUG43SDRNWXBDNXA3b2h2a0FySndRR1VtZzF4ck1kUkV3TTFkNGxCU3p5OG1XS25qMW9neG43V0JoUmIzTW5pdHM4VHZrbnZkQ043TXF0OE0yNEpZLWFVSWVBZFpNcFVISHFxYlJEMUxyWTJZQTlkMF9wd3UyNkV2b3M4ZHFUeGVpYWxxXy1uaDZMMlF1U1NqcWQwWDItNEJqZW1VQzViMUNrRVE?oc=5",
-     "summary": "Sheikh Hasina's daughter quits as WHO regional head after fraud allegations The Times of India",
+     "summary": "Sheikh Hasina's daughter quits as WHO regional head after fraud allegations timesofindia.indiatimes.com",
      "published": "2026-09-10T22:45:00+00:00",
-     "source": "The Times of India",
+     "source": "timesofindia.indiatimes.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -567,9 +569,9 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "IRCTC scam: Delhi court orders framing of money laundering charges against Lalu, Rabri, Tejashwi - Mid-Day",
+     "title": "IRCTC scam: Delhi court orders framing of money laundering charges against Lalu, Rabri, Tejashwi - mid-day.com",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUjBfU3oyUkE5N2lzRnJUaG83ZHRhcWtOeHZvZUVtODQ0MF8zWnhIRDZkekZkZlhXaS1TajRXRU9tV21kbjUwZ0p1VkhxbUVZZlBfakU5WG53TFZXbHkzSkVOS3Yxd0IwQ3YyZzRTaHUtcTdzMnVldk1YbHdtRWVnU2VHeTJGSVo1N1pHeHdBRS1rNEIxeXhBRGN6bUZMNEV6S2RUZ1lLMXhDQTh5NE1jbUYwYVBReHJzNktvV1A2TlYxN0xVdGQ1Q0JUR05UY1BLbHE0TnNMZGZEUTcwcy14QTZzUF_SAeoBQVVfeXFMT3p6ZDdaOXVMY1ZDSXBPMGZqbVF4UU54UUJfODdZUUJGMU55Z0dLazllcHJ0NkhMU0ZneWFuTTVNakF0WXdYQlFiTV82MXBSdUlBZUxBQ0tOVHBBLU8zZVI0MENjMWtFM0RNQjZ1d2pxLVlyWVh5d1d0aUNPREFQVWdOLWFmdWNINkFoX094MXh0QUgzaWd5MW5TVkctbDEyM3g2U1UwZUdMMWlPcDkwalEtUmZlTGloUC1ZWnJ4NjFDakl3Slh5VEJXNFZ6RGlOLW0zUktGOWVvZzYtQnp6bVBrUWpid01pMjN3?oc=5",
-     "summary": "IRCTC scam: Delhi court orders framing of money laundering charges against Lalu, Rabri, Tejashwi Mid-Day",
+     "summary": "IRCTC scam: Delhi court orders framing of money laundering charges against Lalu, Rabri, Tejashwi mid-day.com",
      "published": "2026-09-11T02:58:00+00:00",
      "source": "Google News",
      "byline": "",
@@ -587,6 +589,22 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece",
+     "summary": "The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
+     "published": "2026-09-11T21:39:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/957ghq/article71458028.ece/alternates/LANDSCAPE_1200/20260907184L.jpg",
+     "licence": "linkout",
+     "id": "0ab414357225",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹6.41 crore damage recovery"
+     ]
+    },
     {
      "title": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
      "url": "https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece",
@@ -612,19 +630,6 @@
      "id": "92836c3cce22",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "‘Reading kept me going’: Noida stir accused who cracked NET",
-     "url": "https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece",
-     "summary": "“Most of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida",
-     "published": "2026-09-11T19:59:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
-     "licence": "linkout",
-     "id": "61270dd56065",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "SHRC orders NHAI to ready underpass near Edappally in two months",
@@ -687,6 +692,48 @@
    "upsc": false,
    "items": [
     {
+     "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+     "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+     "summary": "Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.",
+     "published": "2026-09-11T21:30:47+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa466375933-1789158967.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "3a3107682ad8",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
+     "url": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss",
+     "summary": "Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.",
+     "published": "2026-09-11T21:28:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Untitled-design-1789106640_443bc2-1789109550.png?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "2b8a8a4355a1",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
+     "summary": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
+     "published": "2026-09-11T21:23:51+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789161819.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "dfa3e312b607",
+     "category": "human",
+     "category_label": "Human interest",
+     "figures": [
+      "11 attacks"
+     ]
+    },
+    {
      "title": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
      "summary": "NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city's history.",
@@ -704,49 +751,10 @@
      ]
     },
     {
-     "title": "US legislators push AI safety laws amid human extinction warnings",
-     "url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
-     "summary": "Concerns over AI's dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.",
-     "published": "2026-09-11T20:59:51+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa2d13a6eeb2-1789055290.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "3152e6241955",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
-     "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
-     "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
-     "published": "2026-09-11T20:42:05+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/2024-11-20T100129Z_435853067_RC2R3Z9BXYCO_RTRMADP_3_OPENAI-TEACHERS-1734127670.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9a6f23d31e5a",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Can BRICS help reshape global order by strengthening emerging economies?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
-     "summary": "Leaders of BRICS member states are meeting at a summit in New Delhi, India.",
-     "published": "2026-09-11T20:04:02+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789149056.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "3e4616da3448",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-     "published": "2026-09-11T20:11:47+00:00",
+     "published": "2026-09-11T21:54:56+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
@@ -769,22 +777,6 @@
      "category_label": "General",
      "figures": [
       "$300,000  (£220,000) when it goes"
-     ]
-    },
-    {
-     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-     "published": "2026-09-11T10:50:04+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
-     "licence": "linkout",
-     "id": "4c03e94a08d1",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "$3 m embezzlement scandal"
      ]
     }
    ]
@@ -875,6 +867,22 @@
    "upsc": false,
    "items": [
     {
+     "title": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece",
+     "summary": "The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
+     "published": "2026-09-11T21:39:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/957ghq/article71458028.ece/alternates/LANDSCAPE_1200/20260907184L.jpg",
+     "licence": "linkout",
+     "id": "0ab414357225",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹6.41 crore damage recovery"
+     ]
+    },
+    {
      "title": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death",
      "url": "https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece",
      "summary": "The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of ‘chitta (synthetic drugs)’ in the State.",
@@ -901,19 +909,6 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "‘Reading kept me going’: Noida stir accused who cracked NET",
-     "url": "https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece",
-     "summary": "“Most of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,” he told The Hindu at the prison in Greater Noida",
-     "published": "2026-09-11T19:59:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
-     "licence": "linkout",
-     "id": "61270dd56065",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
      "title": "BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
      "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
      "summary": "Prime Minister Narendra Modi earlier met Russian President Vladimir Putin in New Delhi for wide-ranging talks on boosting bilateral trade, defence, energy and critical minerals",
@@ -923,19 +918,6 @@
      "image": "https://th-i.thgim.com/public/incoming/nw30xq/article71454535.ece/alternates/LANDSCAPE_1200/India_BRICS_8_555.jpg",
      "licence": "linkout",
      "id": "21aa53106804",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Three Kashmir religious leaders, including Mirwaiz, attend Iran embassy exhibition in Delhi",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/three-kashmir-religious-leaders-including-mirwaiz-attend-iran-embassy-exhibition-in-delhi/article71457506.ece",
-     "summary": "A spokesperson of Shia cleric Al Safavi said the religious leader will also “participate in an interaction with the Iranian President”.",
-     "published": "2026-09-11T19:34:26+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wh9bt6/article71457868.ece/alternates/LANDSCAPE_1200/HR8VOWMbwAArVFG.jpg",
-     "licence": "linkout",
-     "id": "3b960f61e520",
      "category": "politics",
      "category_label": "Political controversy"
     },
@@ -1552,6 +1534,19 @@
      "id": "62f3eca215ae",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Global yields surge: How they affect the Indian bond market and why domestic factors matter",
+     "url": "https://www.livemint.com/money/personal-finance/global-yields-surge-how-they-affect-the-indian-bond-market-and-why-domestic-factors-matter-11789137971337.html",
+     "summary": "Analysts believe domestic economic conditions remain the key factor determining the direction of Indian bond yields, rather than movements in global yields alone.",
+     "published": "2026-09-11T16:58:35+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/bond_1789143822210_47d110b3-b385-4077-8f99-4dd773bb7fc5_1789143960914_2beac7e7-e728-4dd1-bf3c-4bdbeaed91e7_04c5ef34-6d4c-412d-96e6-0755899a77b8_055ac6a7-b962-4a4c-8bc3-5784f8bb335d.jpg",
+     "licence": "linkout",
+     "id": "a8489a9f6b18",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -1674,6 +1669,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Solheim Cup Music Backfires As Fans Slam Bernardus Golf Setup",
+     "url": "https://sports.ndtv.com/us-golf/solheim-cup-music-backfires-as-fans-slam-bernardus-golf-setup-12035394#publisher=newsstand",
+     "summary": "The Solheim Cup’s loud music at Bernardus Golf has divided fans, with Gabby Herzig and others questioning whether the party atmosphere distracts players.",
+     "published": "2026-09-11T20:17:08+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/5pqbb8ig_golf_625x300_09_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "756f0173d375",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Mark Williams Surgery News Makes Los Angeles Lakers' Call Look Smarter",
      "url": "https://sports.ndtv.com/us-nba/los-angeles-lakers-mark-williams-decision-looks-more-important-after-mark-williams-suns-surgery-news-12035314#publisher=newsstand",
      "summary": "Mark Williams’ latest shoulder surgery has revived questions about the Lakers’ 2025 decision to cancel his trade, especially after Los Angeles later used preserved assets to acquire Walker Kessler.",
@@ -1742,23 +1750,6 @@
      "category_label": "General",
      "figures": [
       "27 season during the NHL Media"
-     ]
-    },
-    {
-     "title": "Jalen Duren And Detroit Pistons Contract Talks Reach Critical Point As $9.6 Million Option Looms",
-     "url": "https://sports.ndtv.com/us-nba/jalen-duren-and-detroit-pistons-contract-talks-reach-critical-point-as-9-6-million-option-looms-12035184#publisher=newsstand",
-     "summary": "Jalen Duren and the Pistons remain apart on a new contract, with the $9.6 million qualifying offer now becoming a real option.",
-     "published": "2026-09-11T18:28:40+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/udujkndk_jalen-duren_625x300_11_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "822a3bc49dcb",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "$9.6 Million Option Looms",
-      "$9.6 million qualifying offer now becoming"
      ]
     }
    ]
