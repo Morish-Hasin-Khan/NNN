@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T11:02:56.878391+00:00",
+ "generated_at": "2026-09-11T11:35:24.838185+00:00",
  "podcasts_fetched_at": "2026-09-09T22:34:07.951012+00:00",
  "markets": [
   {
@@ -84,15 +84,15 @@
   }
  ],
  "topics": [
-  "Excise MDMA",
-  "Eight Keralam",
+  "Swiss Dutch",
+  "Long UAPA",
   "Jazeera English",
   "News",
   "Ludhiana",
   "Bangladesh Chattogram",
-  "Solomon Pappaiah",
-  "Family Philippines",
-  "Houthis Yemen",
+  "Devotees Lakshminarasimhar",
+  "BRICS Finance",
+  "Republican Democrats",
   "Trump Brics"
  ],
  "sections": [
@@ -103,33 +103,40 @@
    "upsc": false,
    "items": [
     {
-     "title": "Excise arrest youth with 305.396 grams of suspected MDMA in Kochi",
-     "url": "https://www.thehindu.com/news/national/kerala/excise-arrest-youth-with-305396-grams-of-suspected-mdma-in-kochi/article71455138.ece",
-     "summary": "The Excise also seized ₹2,90,000, allegedly gained through drug sales, and a mobile phone from the accused",
-     "published": "2026-09-11T10:54:22+00:00",
-     "source": "The Hindu",
+     "title": "Swiss police report five killed in Dutch tour bus crash",
+     "url": "https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss",
+     "summary": "Bus carrying 45 Dutch tourists overturned and landed in a construction zone near an Alpine village.",
+     "published": "2026-09-11T11:18:08+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa3bacf-1789115087.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "fc0ae2e3a75e",
+     "id": "f50a3997b051",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+       "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+       "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps."
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
+     "from_section": "Global News",
      "figures": [
-      "305.396 grams of suspected MDMA",
-      "₹2,90,000,  allegedly gained through drug"
+      "45 Dutch tourists overturned and landed"
      ]
     },
     {
-     "title": "Eight transformer fuses stolen amid power cuts in Keralam's Palakkad",
-     "url": "https://www.thehindu.com/news/national/kerala/eight-transformer-fuses-stolen-amid-power-cuts-in-keralams-palakkad/article71455716.ece",
-     "summary": "The police and residents suspect the involvement of anti-social elements behind the incident",
-     "published": "2026-09-11T10:50:05+00:00",
+     "title": "Long incarceration, ailing mother prompt SC to grant interim bail to UAPA accused",
+     "url": "https://www.thehindu.com/news/national/long-incarceration-ailing-mother-prompt-sc-to-grant-interim-bail-to-uapa-accused/article71455448.ece",
+     "summary": "Court takes into account prolonged incarceration, pending trial and need to care for ailing mother and hearing-impaired child",
+     "published": "2026-09-11T11:20:38+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/nfx77d/article71455739.ece/alternates/LANDSCAPE_1200/AVN3_TRANSFORMER.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/5680m0/article71455513.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_15_17_2_18_08_2025_SUPREME_COURT04.jpg",
      "licence": "linkout",
-     "id": "ff4ff1d8f9e0",
+     "id": "d22d2ae27785",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
@@ -146,47 +153,87 @@
      "id": "4c03e94a08d1",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global Hotline",
+     "from_section": "Global News",
      "figures": [
       "$3 m embezzlement scandal"
      ]
     },
     {
-     "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
-     "url": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
-     "summary": "The countries are not opposed to a new map per se; they're testy about the colour shades.",
-     "published": "2026-09-11T09:11:42+00:00",
+     "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
+     "url": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
+     "summary": "US official admits the naval base near Manama sustained heavy damage in the war with Iran.",
+     "published": "2026-09-11T10:41:35+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP875187547197-1748359022.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-02-10T173355Z_1296871511_RC2DGJARCSC7_RTRMADP_3_IRAN-CRISIS-MILITARY-1-1-1788155807.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "0e4de63e01ae",
+     "id": "31d268caf5bc",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
-     "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-     "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
-     "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-     "published": "2026-09-10T22:36:02+00:00",
-     "source": "BBC News",
+     "title": "BRICS Summit 2026 LIVE updates: PM Modi holds bilateral talks with Russian President Putin",
+     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
+     "summary": "Prime Minister Narendra Modi met Russian President Vladimir Putin in New Delhi for wide-ranging talks on boosting bilateral trade, defence, energy and critical minerals. The meeting comes as Iranian President Masoud Pezeshkian also arrives for the BRICS Summit, with the grouping focusing on deeper economic cooperation, including cross-border payments and trade in local currencies.",
+     "published": "2026-09-11T11:26:41+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf5/live/0371abe0-ad31-11f1-9bc8-3509bd1a4ead.png",
+     "image": "https://th-i.thgim.com/public/incoming/nw30xq/article71454535.ece/alternates/LANDSCAPE_1200/India_BRICS_8_555.jpg",
      "licence": "linkout",
-     "id": "6bda194990ba",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News",
+     "id": "21aa53106804",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "BRICS Summit 2026 LIVE Updates: Bilateral Begins, PM Modi Gives Translation Of Ancient Tamil Text To Putin",
+       "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
+       "summary": "BRICS Summit 2026 LIVE Updates: As BRICS Chair for 2026, India will host the summit in New Delhi on September 12 and 13."
+      },
+      {
+       "source": "BBC News",
+       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+       "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+       "summary": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely."
+      },
+      {
+       "source": "The Indian Express",
+       "title": "Today News Headlines for School Assembly, September 11, 2026: BRICS Summit begins on September 12",
+       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPeF8xWVBpWTRRd19qek1lcldtSDk0VjE5V0Y0QnZrVHpKZWhCMU1Cbmg4ckdjdTNkUThYRlYwMktjRmlYYmpNV3djSFpWT0xDVy1tVjd2enFvbXZsV29kS1J6OTdQdlA1UTdKOXktODBldEVZUEtnU1dadEE5dVZhQW5Jd0pKeVpnRXg5RjJGM3JGLWtaMUFWZkxWcXJMYkY2LXhMZHE3STJsQnBkNDI2VHI0dllZMlRMWU4zSWFabE0tUFJyQnF0SU1VaGxxdG5KdEZRU3dDaUVwMUItcklxN2wxQ29GZ0p6OW1MMnNzUm40R080ZDVETGdUUjAwYWhpM3M1SHdwcVcteFV3RFJUSXJEVkNNSG1ZVHRnMV93ZGJtUlEzUHZoZmMwTEFaanZn0gG3AkFVX3lxTE5tdG1NY3pvckJaTWxvaDdXWG9TNUllNVVpSGhuaXA4Y1FRcTJ0MU5temZ4dTlkTTRHVGQwbkhNc05tMFZJWm9tYU43bEt3alFkeklzQjZ1NThaeVJCSlFnRzJud2lMMlJZUUpjLWF4WTRIOTQ5UmZxYjhqUGpFRl9oeDFZeDZ1UXJOa0FXN2E4aW9mcVFWMkJWZE5vTDhoVUREMFhRMUZZMHFmckZxQUVFNE9qbGxOekM4MUcyNUNfOGJSNjVDdGtNRndnRDUwdHQ0T0ZpenJKRkFZMUNTd2tOcE1ka1JWNjJCVFNkanNmWnlDdmtmMGFzdmR1aElUbjVBU2tLV2wwYzdSenVpTG9DVU9ja21UU1pxeEhnOTJxTVZja0QwYVhBVWhpRXU1Q3RMWmNjeXdz?oc=5",
+       "summary": "Today News Headlines for School Assembly, September 11, 2026: BRICS Summit begins on September 12 The Indian Express"
+      },
+      {
+       "source": "India Today",
+       "title": "School assembly news headlines today- September 11: Top national, sports and world news curated for you",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU0t3Q25nYlBFU3Nrd3hRcUZYNHllQWthOExoejRvNlM0WnlVSGpNNUJZVDlPbmpadFhQU1NOckIwS3REYlQ1TEstaWNvZW4zazduTC1wOEpxWk5nTkU1UW45TEdGcVg2V3p6LUs2MUo4bHhrQTJTbF9BbGVKYl90VHFWVXFaNzNBOGFrU0tMajlqb0lWQkVsT3U4Q3FZSHhuT3lFVFItT083UC1qSnQ1MjdpVXNYaUxxYkRkMkM0LU1fcERFODdkaV96WjB5aU4wYm8tOTF6ZEtIS1drd1FKTlVDb2JkZW5o?oc=5",
+       "summary": "School assembly news headlines today- September 11: Top national, sports and world news curated for you India Today"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "DMK president Stalin urges PM Modi to intervene over 1,857 vacant super-speciality medical seats",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-president-stalin-urges-pm-modi-to-intervene-over-1857-vacant-super-speciality-medical-seats/article71455290.ece",
+     "summary": "“Not a single medical seat, a precious national asset, should be allowed to go waste when our people need more specialist doctors,” he says",
+     "published": "2026-09-11T11:09:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xdxjh2/article71455570.ece/alternates/LANDSCAPE_1200/20260516080L.jpg",
+     "licence": "linkout",
+     "id": "1b8c3da491d8",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines",
      "figures": [
-      "67 injured in Russian strike"
+      "1,857 vacant super-speciality medical seats"
      ]
     },
     {
      "title": "Telangana Assembly Monsoon Session LIVE Sept 11: IT Minister responds to concerns over electricity requirement at data centres",
      "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-day-five-congress-brs-key-issues-discussion-live-updates-september-11-2026/article71454701.ece",
      "summary": "Sridhar Babu says they have initiated a special action plan to address the challenges that may arise from the expansion of data centres in the coming years",
-     "published": "2026-09-11T10:50:58+00:00",
+     "published": "2026-09-11T11:04:27+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/3nk9g3/article70461355.ece/alternates/LANDSCAPE_1200/_DSC0061.JPG",
@@ -194,38 +241,7 @@
      "id": "dbb9559bace1",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Palaniswami calls TVK government’s move to build new Assembly-Secretariat complex ‘unnecessary’",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-callstvk-governments-move-to-build-new-assembly-secretariat-complex-unnecessary/article71455541.ece",
-     "summary": "EPS said that when the government was in the midst of severe debt and struggling with an acute shortage of funds, constructing a Secretariat complex, at a cost of ₹1,200 crore, was “not essential”",
-     "published": "2026-09-11T10:48:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jle656/article71455777.ece/alternates/LANDSCAPE_1200/9868_31_7_2026_15_30_0_2_EPS_AIRPORT_2.JPEG",
-     "licence": "linkout",
-     "id": "008313e4acee",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines",
-     "figures": [
-      "₹1,200 crore , was “not essential”"
-     ]
-    },
-    {
-     "title": "Fact File: What Is BRICS? When And Why Was It Formed, Members, Objectives",
-     "url": "https://www.ndtv.com/education/fact-file-what-is-brics-when-and-why-was-it-formed-members-objectives-12033040#publisher=newsstand",
-     "summary": "18th BRICS Summit: BRIC was formalised at the first meeting of BRIC Foreign Ministers on the sidelines of the United Nations General Assembly (UNGA) in New York in 2006. The inaugural BRIC Summit was held in Yekaterinburg, Russia, in 2009.",
-     "published": "2026-09-11T10:48:05+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/q1oq236s_18th-brics-summit_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "382bc47c7c69",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "CBI files 20th charge sheet in homebuyers fraud cases; Ajnara India, bank officials named",
@@ -239,15 +255,29 @@
      "id": "6b299156e201",
      "also": [
       {
-       "source": "India CSR",
+       "source": "indiacsr.in",
        "title": "Breaking: CBI Files 20th Chargesheet in Homebuyer Fraud Cases Against Ajnara India, Bank Officials",
        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSG44ZDduaGZvbGFhbVZOLWlrbzhocmtXUjhNZE56ckdpMjQ5RG9KZl96LS1PVS1BSkJqZlJmUHhEaUlaT0ZBTkxTYzFVZFZnQjR1bXFGc19aZEY3S1l1MEVoRHdKRllvb2ptSmx5bUIyMVNMeWxKd1VXaEJkSkZybTJJNkEtbE9Ob2dsdkgwbjZuSG1CSVNjaG5XRTNWS2NzT1E?oc=5",
-       "summary": "Breaking: CBI Files 20th Chargesheet in Homebuyer Fraud Cases Against Ajnara India, Bank Officials India CSR"
+       "summary": "Breaking: CBI Files 20th Chargesheet in Homebuyer Fraud Cases Against Ajnara India, Bank Officials indiacsr.in"
       }
      ],
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "BRICS Finance Ministers & central bank chiefs voice concern about 'unilateral imposition' of tariffs",
+     "url": "https://www.thehindu.com/news/national/brics-finance-ministers-central-bank-chiefs-voice-concern-about-unilateral-imposition-of-tariffs/article71455815.ece",
+     "summary": "The first Finance Ministers and central bank governors meeting under India’s chairship of BRICS was held on August 12, and the second was held on September 9-10 in Mumbai, following which a joint statement was issued",
+     "published": "2026-09-11T11:31:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ky1e94/article71455953.ece/alternates/LANDSCAPE_1200/20260902031L_1dKNn27.jpg",
+     "licence": "linkout",
+     "id": "ffdcaf68fdd3",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
     },
     {
      "title": "Bangladesh detains 63 foreigners in Chattogram online fraud raid",
@@ -267,20 +297,23 @@
      ]
     },
     {
-     "title": "Two months of red: Large-cap outflows deepen after 6-month inflow streak — what should investors do?",
-     "url": "https://www.livemint.com/money/personal-finance/two-months-of-red-large-cap-outflows-deepen-after-6-month-inflow-streak-what-should-investors-do-11789116067701.html",
-     "summary": "Large-cap mutual funds saw ₹1,147 crore in outflows in August 2026, despite previous &nbsp;inflows. Rising mid- and small-cap investments suggest a shift in investor preference. Here's what investors should make of the divergence.",
-     "published": "2026-09-11T10:30:08+00:00",
+     "title": "8th Pay Commission: Can ₹69,000 basic pay become reality? Expert weighs in on pensioners' demand for 3.83 fitment factor",
+     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-can-69-000-basic-pay-become-reality-expert-weighs-in-on-pensioners-demand-for-3-83-fitment-factor-11789123074756.html",
+     "summary": "8th Pay Commission: A pensioners’ body has sought a 3.83 fitment factor and a minimum basic pay of ₹69,000. Here is how the demand compares with the 7th Pay Commission and what employees and pensioners should know about the proposed salary revision.",
+     "published": "2026-09-11T11:22:29+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/large_cap-50a3-436c-be67-c1_1789118932303_f34a5496-c6fe-439a-bfdb-58dc23e6b126_1789118932500_a9cd14a6-1835-4237-be7d-9326ea0e5b40_a84e3a5e-bbaa-43a5-9ca4-175a15a9cd71_23c4e3eb-e8d4-422a-a485-440f1bba2133.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/b872c65e-2402-4fa0-88a8-31991b8685d7_1789123670481_7bb10fcc-d17f-489f-a981-cdc9d2c6fd20_1789123677229_9fb709e7-fcc6-4da6-9042-849262ba30fc_1dccf6f4-894d-4252-9543-cc91cf9ebab6_45412864-7713-4be2-b3ec-0a3fd29cd4c7.png",
      "licence": "linkout",
-     "id": "ed419c1e431a",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "a2fabffea2b9",
+     "category": "celebrity",
+     "category_label": "Celebrity",
      "from_section": "Business",
      "figures": [
-      "₹1,147 crore in outflows in August"
+      "₹69,000  basic pay become reality?",
+      "3.83 fitment factor",
+      "3.83 fitment factor and a minimum",
+      "₹69,000.  Here is how"
      ]
     },
     {
@@ -314,6 +347,20 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
+    },
+    {
+     "title": "Community dialogue highlights women’s leadership in public education",
+     "url": "https://www.thehindu.com/news/national/karnataka/community-dialogue-highlights-womens-leadership-in-public-education/article71452138.ece",
+     "summary": "",
+     "published": "2026-09-11T11:05:29+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/exj1qi/article71452541.ece/alternates/LANDSCAPE_1200/5964_10_9_2026_19_17_55_1_SHIKSHANASAMVAADA.JPEG",
+     "licence": "linkout",
+     "id": "7af489952d5b",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "National Hotlines"
     },
     {
      "title": "Philippine rescuers board ferry 40 hours after blaze began",
@@ -375,6 +422,20 @@
      "from_section": "Global News"
     },
     {
+     "title": "Muneer’s MLA pension delayed for three months over official error",
+     "url": "https://www.thehindu.com/news/national/kerala/muneers-mla-pension-delayed-for-three-months-over-official-error/article71455658.ece",
+     "summary": "IUML leader’s absence from Youth League event raises eyebrows",
+     "published": "2026-09-11T11:14:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6pt7un/article71455877.ece/alternates/LANDSCAPE_1200/IMG_08KI_MUNEER_2_1_VJ81VO8M.jpg",
+     "licence": "linkout",
+     "id": "ec86c738858e",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "National Hotlines"
+    },
+    {
      "title": "Tim David Explains How R Ashwin, Ajinkya Rahane Boost European T20 Premier League's Global Appeal",
      "url": "https://sports.ndtv.com/cricket/tim-david-explains-how-r-ashwin-ajinkya-rahane-boost-european-t20-premier-leagues-global-appeal-12033031#publisher=newsstand",
      "summary": "Unlike many other overseas T20 leagues around the world, the European T20 Premier League has a fair bit of Indian representation",
@@ -398,20 +459,6 @@
      "image": "https://c.ndtvimg.com/2026-09/bcdri8cg_virender-sehwag_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "af7a69f55504",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
-     "title": "\"Should Not Be A Discussion\": Virat Kohli's Childhood Coach Makes Blunt '2027 World Cup' Verdict",
-     "url": "https://sports.ndtv.com/cricket/should-not-be-a-discussion-virat-kohlis-childhood-coach-makes-blunt-2027-world-cup-verdict-12031875#publisher=newsstand",
-     "summary": "Rajkumar Sharma, Virat Kohli's childhood coach, provided his perspective on whether Kohli and Rohit Sharma should make India's 2027 World Cup squad.",
-     "published": "2026-09-11T10:09:04+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-11/q1ck124k_virat-kohli-rohit-sharma_625x300_29_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a069fec753c5",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
@@ -447,7 +494,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-11T11:02:42.758846+00:00",
+     "published": "2026-09-11T11:35:11.292111+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -458,7 +505,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-11T11:02:42.758861+00:00",
+     "published": "2026-09-11T11:35:11.292120+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +516,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-11T11:02:42.758864+00:00",
+     "published": "2026-09-11T11:35:11.292123+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -480,7 +527,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-11T11:02:42.758867+00:00",
+     "published": "2026-09-11T11:35:11.292125+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -491,7 +538,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-11T11:02:42.758869+00:00",
+     "published": "2026-09-11T11:35:11.292127+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -502,7 +549,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-11T11:02:42.758872+00:00",
+     "published": "2026-09-11T11:35:11.292135+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -517,54 +564,6 @@
      "image": "https://c.ndtvimg.com/2026-09/fatnbab4_modi-putin_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "73b8524bbb0d",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-       "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
-       "summary": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely."
-      },
-      {
-       "source": "The Hindu",
-       "title": "BRICS Summit 2026 LIVE updates: PM Modi holds bilateral talks with Russian President Putin",
-       "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
-       "summary": "Prime Minister Narendra Modi met Russian President Vladimir Putin in New Delhi for wide-ranging talks on boosting bilateral trade, defence, energy and critical minerals. The meeting comes as Iranian President Masoud…"
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, September 11, 2026: BRICS Summit begins on September 12",
-       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPeF8xWVBpWTRRd19qek1lcldtSDk0VjE5V0Y0QnZrVHpKZWhCMU1Cbmg4ckdjdTNkUThYRlYwMktjRmlYYmpNV3djSFpWT0xDVy1tVjd2enFvbXZsV29kS1J6OTdQdlA1UTdKOXktODBldEVZUEtnU1dadEE5dVZhQW5Jd0pKeVpnRXg5RjJGM3JGLWtaMUFWZkxWcXJMYkY2LXhMZHE3STJsQnBkNDI2VHI0dllZMlRMWU4zSWFabE0tUFJyQnF0SU1VaGxxdG5KdEZRU3dDaUVwMUItcklxN2wxQ29GZ0p6OW1MMnNzUm40R080ZDVETGdUUjAwYWhpM3M1SHdwcVcteFV3RFJUSXJEVkNNSG1ZVHRnMV93ZGJtUlEzUHZoZmMwTEFaanZn0gG3AkFVX3lxTE5tdG1NY3pvckJaTWxvaDdXWG9TNUllNVVpSGhuaXA4Y1FRcTJ0MU5temZ4dTlkTTRHVGQwbkhNc05tMFZJWm9tYU43bEt3alFkeklzQjZ1NThaeVJCSlFnRzJud2lMMlJZUUpjLWF4WTRIOTQ5UmZxYjhqUGpFRl9oeDFZeDZ1UXJOa0FXN2E4aW9mcVFWMkJWZE5vTDhoVUREMFhRMUZZMHFmckZxQUVFNE9qbGxOekM4MUcyNUNfOGJSNjVDdGtNRndnRDUwdHQ0T0ZpenJKRkFZMUNTd2tOcE1ka1JWNjJCVFNkanNmWnlDdmtmMGFzdmR1aElUbjVBU2tLV2wwYzdSenVpTG9DVU9ja21UU1pxeEhnOTJxTVZja0QwYVhBVWhpRXU1Q3RMWmNjeXdz?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 11, 2026: BRICS Summit begins on September 12 The Indian Express"
-      }
-     ],
-     "kind": "liveblog",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "BRICS Summit 2026 LIVE updates: PM Modi holds bilateral talks with Russian President Putin",
-     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
-     "summary": "Prime Minister Narendra Modi met Russian President Vladimir Putin in New Delhi for wide-ranging talks on boosting bilateral trade, defence, energy and critical minerals. The meeting comes as Iranian President Masoud Pezeshkian also arrives for the BRICS Summit, with the grouping focusing on deeper economic cooperation, including cross-border payments and trade in local currencies.",
-     "published": "2026-09-11T10:46:50+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nw30xq/article71454535.ece/alternates/LANDSCAPE_1200/India_BRICS_8_555.jpg",
-     "licence": "linkout",
-     "id": "21aa53106804",
-     "kind": "liveblog",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMFg1cl9HcGJBVWJMdFVkc3VWN1VzVkFqTzVtMTg4TjhudHF2V1NnN2NaVVJ5VWl2WU1NWkJLeUdQQUw1TlBYdWJ4R3M?oc=5",
-     "summary": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News ndtv.com",
-     "published": "2026-09-11T05:32:50+00:00",
-     "source": "ndtv.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "94b7155dc077",
      "kind": "liveblog",
      "category": "general",
      "category_label": "General"
@@ -634,9 +633,9 @@
     {
      "title": "Court Orders Charges Against Lalu Yadav, Wife And Son In Railway Hotel Scam",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYlNYcmwtMzJwbklaeXJaOW9CdmFKQVJUaVVVcFhSdFdpZnRsM2NhcF9SZVdTWFdJY1Bmc3NzdzBib3h5aFp5YUVvanYtWDU2N3JSLUI5Tk9yOW90dXFaTHBwcWZJdHczTC1qMHBJUFdPYnNUQlBMX0hXTmxuOTRKLUdmcWV2dXJEanJkQWQ1c3c1V0VLZmY5eGJ0aThKeUVfNVhvWEM1UnVvT0N0SlNuclJNRlFTOFJPMW9RbUhOUDFpODVUNEdTVFpjY2JEZHBDY0tfZdIB3AFBVV95cUxNU1BFVWdINVpuUzBET3NMWXItaDdJdFEzZm9sQ2tOa25QR3drUTlwM29WR2ZJckYta2M3UkxOS2V5TnBLRmU4cjF6VFA1bzJleHp5clA3bGJlckVrOXZBMWZ6TlhQN2xyV0VBT3JzWkpFSXRCRDF0VVprakd6a0phaGwtOXpRT2hKMWZneDVUTVpFcnZmeEtoOE9RQ3hUU2c2VVpMTXFhQnUzMGJJdy1CbUxUWm4zWEZKWGpDWWJJVTVGbXpaZTl2SW0xR0pvcFZUVFMwQmdXRFFHeF9o?oc=5",
-     "summary": "Court Orders Charges Against Lalu Yadav, Wife And Son In Railway Hotel Scam ndtv.com",
+     "summary": "Court Orders Charges Against Lalu Yadav, Wife And Son In Railway Hotel Scam NDTV",
      "published": "2026-09-10T12:13:12+00:00",
-     "source": "ndtv.com",
+     "source": "NDTV",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -660,9 +659,9 @@
     {
      "title": "Breaking: CBI Files 20th Chargesheet in Homebuyer Fraud Cases Against Ajnara India, Bank Officials",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSG44ZDduaGZvbGFhbVZOLWlrbzhocmtXUjhNZE56ckdpMjQ5RG9KZl96LS1PVS1BSkJqZlJmUHhEaUlaT0ZBTkxTYzFVZFZnQjR1bXFGc19aZEY3S1l1MEVoRHdKRllvb2ptSmx5bUIyMVNMeWxKd1VXaEJkSkZybTJJNkEtbE9Ob2dsdkgwbjZuSG1CSVNjaG5XRTNWS2NzT1E?oc=5",
-     "summary": "Breaking: CBI Files 20th Chargesheet in Homebuyer Fraud Cases Against Ajnara India, Bank Officials India CSR",
+     "summary": "Breaking: CBI Files 20th Chargesheet in Homebuyer Fraud Cases Against Ajnara India, Bank Officials indiacsr.in",
      "published": "2026-09-10T17:57:16+00:00",
-     "source": "India CSR",
+     "source": "indiacsr.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -679,60 +678,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Excise arrest youth with 305.396 grams of suspected MDMA in Kochi",
-     "url": "https://www.thehindu.com/news/national/kerala/excise-arrest-youth-with-305396-grams-of-suspected-mdma-in-kochi/article71455138.ece",
-     "summary": "The Excise also seized ₹2,90,000, allegedly gained through drug sales, and a mobile phone from the accused",
-     "published": "2026-09-11T10:54:22+00:00",
+     "title": "Devotees welcome resumption of rope car services at Sri Lakshminarasimhar temple in Sholinghur",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/devotees-welcome-resumption-of-rope-car-services-at-sri-lakshminarasimhar-temple-in-sholinghur/article71451366.ece",
+     "summary": "",
+     "published": "2026-09-11T11:32:05+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/zf8c6e/article71452406.ece/alternates/LANDSCAPE_1200/rope-2.jpeg",
      "licence": "linkout",
-     "id": "fc0ae2e3a75e",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "305.396 grams of suspected MDMA",
-      "₹2,90,000,  allegedly gained through drug"
-     ]
-    },
-    {
-     "title": "Solomon Pappaiah, veteran Tamil scholar and orator, passes away at 90 in Madurai",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/solomon-pappaiah-veteran-tamil-scholar-and-orator-passes-away-at-90-in-madurai/article71455573.ece",
-     "summary": "Prof. Pappaiah possessed a rare gift: the ability to explain complex literary, philosophical, and social ideas in simple, engaging language that ordinary people could easily understand and enjoy",
-     "published": "2026-09-11T10:53:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3oi50f/article71455675.ece/alternates/LANDSCAPE_1200/9871_11_9_2026_15_29_45_4_SOLOMONPAPPIAH__03.JPG",
-     "licence": "linkout",
-     "id": "e4bd2e43d6d6",
+     "id": "912135e7d58c",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Telangana Assembly Monsoon Session LIVE Sept 11: IT Minister responds to concerns over electricity requirement at data centres",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-day-five-congress-brs-key-issues-discussion-live-updates-september-11-2026/article71454701.ece",
-     "summary": "Sridhar Babu says they have initiated a special action plan to address the challenges that may arise from the expansion of data centres in the coming years",
-     "published": "2026-09-11T10:50:58+00:00",
+     "title": "BRICS Finance Ministers & central bank chiefs voice concern about 'unilateral imposition' of tariffs",
+     "url": "https://www.thehindu.com/news/national/brics-finance-ministers-central-bank-chiefs-voice-concern-about-unilateral-imposition-of-tariffs/article71455815.ece",
+     "summary": "The first Finance Ministers and central bank governors meeting under India’s chairship of BRICS was held on August 12, and the second was held on September 9-10 in Mumbai, following which a joint statement was issued",
+     "published": "2026-09-11T11:31:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3nk9g3/article70461355.ece/alternates/LANDSCAPE_1200/_DSC0061.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/ky1e94/article71455953.ece/alternates/LANDSCAPE_1200/20260902031L_1dKNn27.jpg",
      "licence": "linkout",
-     "id": "dbb9559bace1",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "ffdcaf68fdd3",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "Congress leader arrested for protesting against Baba Bageshwar’s remarks in Kolkata",
-     "url": "https://www.thehindu.com/news/national/congress-leader-arrested-for-protesting-against-baba-bageshwars-remarks-in-kolkata/article71455578.ece",
-     "summary": "Kolkata Police said the acts by the protesters “amounted to an insult to the religious sentiments of a particular community and posed a threat to public order with the potential to incite social disharmony.”",
-     "published": "2026-09-11T10:49:47+00:00",
+     "title": "Showers in Delhi: IMD issues red alert; wet spell to continue till September 13",
+     "url": "https://www.thehindu.com/news/cities/Delhi/showers-in-delhi-imd-issues-red-alert-wet-spell-to-continue-till-september-13/article71455539.ece",
+     "summary": "The rain comes after the national capital recorded above-normal maximum temperatures in recent days.",
+     "published": "2026-09-11T11:27:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/csfyxh/article71455780.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryG36GGLREE.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/64nlle/article71455606.ece/alternates/LANDSCAPE_1200/20260906092L.jpg",
      "licence": "linkout",
-     "id": "57e487b712c5",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "1c98b0948dfc",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "'Why Only Pune?' Court Slams Ganeshotsav Liquor Ban, Says No Law-And-Order Link",
@@ -746,6 +728,19 @@
      "id": "e535e9f3c942",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Fact File: What Is BRICS? When And Why Was It Formed, Members, Objectives",
+     "url": "https://www.ndtv.com/education/fact-file-what-is-brics-when-and-why-was-it-formed-members-objectives-12033040#publisher=newsstand",
+     "summary": "18th BRICS Summit: BRIC was formalised at the first meeting of BRIC Foreign Ministers on the sidelines of the United Nations General Assembly (UNGA) in New York in 2006. The inaugural BRIC Summit was held in Yekaterinburg, Russia, in 2009.",
+     "published": "2026-09-11T10:48:05+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/q1oq236s_18th-brics-summit_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "382bc47c7c69",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "BRICS Now Projects Itself As Alternative To G7: Economist Who Coined 'BRIC'",
@@ -782,75 +777,57 @@
    "upsc": false,
    "items": [
     {
-     "title": "Family members wait after deadly Philippines ferry fire",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss",
-     "summary": "Dozens of passengers are missing after a fire tore through a ferry in the Philippines, killing at least 5 people.",
-     "published": "2026-09-11T10:29:53+00:00",
+     "title": "Swiss police report five killed in Dutch tour bus crash",
+     "url": "https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss",
+     "summary": "Bus carrying 45 Dutch tourists overturned and landed in a construction zone near an Alpine village.",
+     "published": "2026-09-11T11:18:08+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789122516.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa3bacf-1789115087.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "56a78acc36a4",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
+     "id": "f50a3997b051",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+       "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+       "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime",
      "figures": [
-      "5 people"
+      "45 Dutch tourists overturned and landed"
      ]
     },
     {
-     "title": "Houthis take control of Yemen’s Red Sea coast, key shipping route",
-     "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
-     "summary": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
-     "published": "2026-09-11T10:11:17+00:00",
+     "title": "Republican midterm message: Democrats are the threat",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss",
+     "summary": "Republican speakers portrayed Democrats as a threat to America on night two of their midterm convention in Dallas.",
+     "published": "2026-09-11T10:50:33+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-15T145635Z_188060635_RC2EEMAOW6BY_RTRMADP_3_IRAN-CRISIS-YEMEN-RED-SEA-SATELLITE-1789117807.jpg?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789123812.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "52b56278181e",
+     "id": "ff194e2b0306",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
-     "url": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
-     "summary": "The countries are not opposed to a new map per se; they're testy about the colour shades.",
-     "published": "2026-09-11T09:11:42+00:00",
+     "title": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss",
+     "summary": "Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon",
+     "published": "2026-09-11T10:48:30+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP875187547197-1748359022.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789123592.jpg?resize=1629%2C1080&quality=80",
      "licence": "linkout",
-     "id": "0e4de63e01ae",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "World Athletics Ultimate Championship opens with record $10m prize pot",
-     "url": "https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss",
-     "summary": "The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.",
-     "published": "2026-09-11T08:50:40+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa306e7dc-1789069031.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "27beb931c7c2",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "$10 m prize pot"
-     ]
-    },
-    {
-     "title": "Pro-Palestine student suspended by King’s College London returns to campus",
-     "url": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
-     "summary": "College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.",
-     "published": "2026-09-11T08:22:02+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/File-1789114692.jpg?resize=1600%2C1080",
-     "licence": "linkout",
-     "id": "fb76e18bd95a",
+     "id": "80e45b8e1d23",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "1,100 tonnes of explosives to demolish"
+     ]
     },
     {
      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
@@ -954,7 +931,7 @@
      "published": "2026-09-11T00:27:20+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12b0/live/35802020-ad0f-11f1-a035-c91dffce51bf.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e47/live/834ed320-add0-11f1-82c1-5ff19bf7a2f2.jpg",
      "licence": "linkout",
      "id": "d17da5877652",
      "category": "politics",
@@ -969,58 +946,83 @@
    "upsc": false,
    "items": [
     {
-     "title": "Excise arrest youth with 305.396 grams of suspected MDMA in Kochi",
-     "url": "https://www.thehindu.com/news/national/kerala/excise-arrest-youth-with-305396-grams-of-suspected-mdma-in-kochi/article71455138.ece",
-     "summary": "The Excise also seized ₹2,90,000, allegedly gained through drug sales, and a mobile phone from the accused",
-     "published": "2026-09-11T10:54:22+00:00",
+     "title": "Muneer’s MLA pension delayed for three months over official error",
+     "url": "https://www.thehindu.com/news/national/kerala/muneers-mla-pension-delayed-for-three-months-over-official-error/article71455658.ece",
+     "summary": "IUML leader’s absence from Youth League event raises eyebrows",
+     "published": "2026-09-11T11:14:21+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/6pt7un/article71455877.ece/alternates/LANDSCAPE_1200/IMG_08KI_MUNEER_2_1_VJ81VO8M.jpg",
      "licence": "linkout",
-     "id": "fc0ae2e3a75e",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "ec86c738858e",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "DMK president Stalin urges PM Modi to intervene over 1,857 vacant super-speciality medical seats",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-president-stalin-urges-pm-modi-to-intervene-over-1857-vacant-super-speciality-medical-seats/article71455290.ece",
+     "summary": "“Not a single medical seat, a precious national asset, should be allowed to go waste when our people need more specialist doctors,” he says",
+     "published": "2026-09-11T11:09:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xdxjh2/article71455570.ece/alternates/LANDSCAPE_1200/20260516080L.jpg",
+     "licence": "linkout",
+     "id": "1b8c3da491d8",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "305.396 grams of suspected MDMA",
-      "₹2,90,000,  allegedly gained through drug"
+      "1,857 vacant super-speciality medical seats"
      ]
     },
     {
-     "title": "Solomon Pappaiah, veteran Tamil scholar and orator, passes away at 90 in Madurai",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/solomon-pappaiah-veteran-tamil-scholar-and-orator-passes-away-at-90-in-madurai/article71455573.ece",
-     "summary": "Prof. Pappaiah possessed a rare gift: the ability to explain complex literary, philosophical, and social ideas in simple, engaging language that ordinary people could easily understand and enjoy",
-     "published": "2026-09-11T10:53:31+00:00",
+     "title": "Community dialogue highlights women’s leadership in public education",
+     "url": "https://www.thehindu.com/news/national/karnataka/community-dialogue-highlights-womens-leadership-in-public-education/article71452138.ece",
+     "summary": "",
+     "published": "2026-09-11T11:05:29+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3oi50f/article71455675.ece/alternates/LANDSCAPE_1200/9871_11_9_2026_15_29_45_4_SOLOMONPAPPIAH__03.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/exj1qi/article71452541.ece/alternates/LANDSCAPE_1200/5964_10_9_2026_19_17_55_1_SHIKSHANASAMVAADA.JPEG",
      "licence": "linkout",
-     "id": "e4bd2e43d6d6",
-     "category": "general",
-     "category_label": "General"
+     "id": "7af489952d5b",
+     "category": "human",
+     "category_label": "Human interest"
     },
     {
-     "title": "Telangana Assembly Monsoon Session LIVE Sept 11: IT Minister responds to concerns over electricity requirement at data centres",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-day-five-congress-brs-key-issues-discussion-live-updates-september-11-2026/article71454701.ece",
-     "summary": "Sridhar Babu says they have initiated a special action plan to address the challenges that may arise from the expansion of data centres in the coming years",
-     "published": "2026-09-11T10:50:58+00:00",
+     "title": "Akbaruddin Owaisi raises concern over irregularities in fee reimbursement scheme",
+     "url": "https://www.thehindu.com/news/national/telangana/akbaruddin-owaisi-raises-concern-over-irregularities-in-fee-reimbursement-scheme/article71455734.ece",
+     "summary": "Telangana Minister Sridhar Babu says the government would soon call for an all party meeting to elicit views of the parties on the implementation of the scheme",
+     "published": "2026-09-11T11:02:41+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3nk9g3/article70461355.ece/alternates/LANDSCAPE_1200/_DSC0061.JPG",
+     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/cn90he/article71455827.ece/alternates/LANDSCAPE_1200/Akbaruddin.png",
      "licence": "linkout",
-     "id": "dbb9559bace1",
+     "id": "1552bf528cfd",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Telangana Municipalities Act amendments make way for co-option of transgender persons as ULB members",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-municipalities-act-amendments-make-way-for-co-option-of-transgender-persons-as-ulb-members/article71454747.ece",
-     "summary": "The Telangana Municipalities Act was amended. It would ensure meaningful representation and enable informed, empathetic and equitable decision making at the urban local governance level",
-     "published": "2026-09-11T10:35:09+00:00",
+     "title": "SC seeks clear timeline for FSSAI’s food warning label rollout, calls for nutritional literacy in schools",
+     "url": "https://www.thehindu.com/news/national/sc-seeks-clear-timeline-for-fssais-food-warning-label-rollout-calls-for-nutritional-literacy-in-schools/article71455653.ece",
+     "summary": "Acknowledging that children are particularly ‘vulnerable’ to ‘impulse or uninformed dietary decision-making’, the top court asked the Union government to incorporate nutritional literacy into school curricula",
+     "published": "2026-09-11T11:01:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9awjml/article71455677.ece/alternates/LANDSCAPE_1200/IMG_TH19_Corrected_Telan_2_1_M3GDMONU.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/jvjvl0/article71455805.ece/alternates/LANDSCAPE_1200/GROCERY_INA_DELHI_2022_20_07_3.jpg",
      "licence": "linkout",
-     "id": "3e340059fa34",
+     "id": "3e68bbd517f2",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "70% of yearly change in winter pollution in north India explained by western disturbances: Study",
+     "url": "https://www.thehindu.com/news/national/70-of-yearly-change-in-winter-pollution-in-north-india-explained-by-western-disturbances-study/article71455674.ece",
+     "summary": "Winters with more frequent western disturbances tend to experience lower air pollution levels",
+     "published": "2026-09-11T10:59:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/iycmxw/article71455752.ece/alternates/LANDSCAPE_1200/08_Standalone_Air_Pollution_27_11_Delhi.jpg",
+     "licence": "linkout",
+     "id": "e5b784cbd7cb",
      "category": "general",
      "category_label": "General"
     },
@@ -1039,6 +1041,19 @@
      "figures": [
       "12. Today News Headlines for School"
      ]
+    },
+    {
+     "title": "School assembly news headlines today- September 11: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU0t3Q25nYlBFU3Nrd3hRcUZYNHllQWthOExoejRvNlM0WnlVSGpNNUJZVDlPbmpadFhQU1NOckIwS3REYlQ1TEstaWNvZW4zazduTC1wOEpxWk5nTkU1UW45TEdGcVg2V3p6LUs2MUo4bHhrQTJTbF9BbGVKYl90VHFWVXFaNzNBOGFrU0tMajlqb0lWQkVsT3U4Q3FZSHhuT3lFVFItT083UC1qSnQ1MjdpVXNYaUxxYkRkMkM0LU1fcERFODdkaV96WjB5aU4wYm8tOTF6ZEtIS1drd1FKTlVDb2JkZW5o?oc=5",
+     "summary": "School assembly news headlines today- September 11: Top national, sports and world news curated for you India Today",
+     "published": "2026-09-10T12:10:16+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "bdd1fc7b302c",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -1048,6 +1063,45 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Money Supply for the fortnight ended on August 31, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63582",
+     "summary": "",
+     "published": "2026-09-11T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "5c6ead421fb3",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63581",
+     "summary": "",
+     "published": "2026-09-11T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "b5eaf2bc8136",
+     "upsc": {
+      "papers": [
+       "GS-II — Polity & Governance",
+       "GS-III — Economy"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
     {
      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Loknete R.D. (Appa) Kshirsagar Sahakari Bank Ltd., Niphad, Tal. Niphad, Dist. Nashik – Extension of Period",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63580",
@@ -1104,27 +1158,6 @@
       ],
       "terms": [],
       "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Result of the 4-day Variable Rate Reverse Repo (VRRR) auction held on September 11, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63577",
-     "summary": "",
-     "published": "2026-09-11T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "737bea7594c6",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [
-       "VRRR"
-      ],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
      },
      "category": "general",
      "category_label": "General"
@@ -1582,6 +1615,22 @@
      "category_label": "General"
     },
     {
+     "title": "Two months of red: Large-cap outflows deepen after 6-month inflow streak — what should investors do?",
+     "url": "https://www.livemint.com/money/personal-finance/two-months-of-red-large-cap-outflows-deepen-after-6-month-inflow-streak-what-should-investors-do-11789116067701.html",
+     "summary": "Large-cap mutual funds saw ₹1,147 crore in outflows in August 2026, despite previous &nbsp;inflows. Rising mid- and small-cap investments suggest a shift in investor preference. Here's what investors should make of the divergence.",
+     "published": "2026-09-11T10:30:08+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/large_cap-50a3-436c-be67-c1_1789118932303_f34a5496-c6fe-439a-bfdb-58dc23e6b126_1789118932500_a9cd14a6-1835-4237-be7d-9326ea0e5b40_a84e3a5e-bbaa-43a5-9ca4-175a15a9cd71_23c4e3eb-e8d4-422a-a485-440f1bba2133.png",
+     "licence": "linkout",
+     "id": "ed419c1e431a",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹1,147 crore in outflows in August"
+     ]
+    },
+    {
      "title": "Need ₹2 lakh urgently? Here's what experts say is cheaper: Personal loan, savings or credit card",
      "url": "https://www.livemint.com/money/personal-finance/need-2-lakh-urgently-heres-what-experts-say-is-cheaper-personal-loan-savings-or-credit-card-11789119004706.html",
      "summary": "Facing an urgent ₹2 lakh need? Experts say using savings is usually cheapest, personal loans suit structured repayment, while credit card balances can cost 24%+ annually, turning a ₹1 lakh outstanding into nearly ₹40,000 in interest.",
@@ -1612,24 +1661,6 @@
      "id": "e48f4ccc032b",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Section 87A rebate on STCG: ITAT ruling offers relief to taxpayers under new tax regime for AY 2025-26",
-     "url": "https://www.livemint.com/money/personal-finance/section-87a-rebate-on-stcg-itat-ruling-offers-relief-to-taxpayers-under-new-tax-regime-for-ay-202526-11789102445343.html",
-     "summary": "ITAT Delhi has ruled taxpayers can claim the full ₹25,000 Section 87A rebate against STCG tax under Section 111A for AY 2025-26, as the Finance Act 2025 restriction on special-rate income applies only from AY 2026-27 onwards.",
-     "published": "2026-09-11T05:53:42+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/ITAT_order_1789102849183_e11ef2fa-bd99-40df-92d2-d276f1551952_1789102862615_c2e9d801-0f15-470a-9902-82c1a5bbbb99_97c8c87f-e96c-48ac-ba9e-82b8ec81c07a_1eb8e6b9-4754-4660-9623-cf80d9242f4c.png",
-     "licence": "linkout",
-     "id": "5ccdc462d81f",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "26. ITAT Delhi has ruled taxpayers",
-      "₹25,000  Section 87A rebate against",
-      "27 onwards"
-     ]
     }
    ]
   },
@@ -1679,11 +1710,11 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "India's Gen Z shares personal issues with AI despite privacy risks: Report",
+     "title": "India's Gen Z shares personal issues with AI despite privacy risks: Report - business-standard.com",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQakhEYkUxelN4cmN4c1NuR3htYjVjV2VWZmNEQmRMMUxqTHNsVF92S1RjM2J0V1Q5Vy1MeGc0bVAtSWE1Z09UajNreklEa2NSQnRHTS1jSzUyM1JqSGpuOVdxd2R1Zl9wXzFIbUZlTFdTOTdoUTY5WU5NYzNmMG91eXhYNW5ySnF5V1JUX3o3eVVnbVhJZXJhQXdDU1Zoa0RMWXQ4LXpZT3pnanlwTnBQd1ZBOERmNHNNUzF2SXZfaHlMNl93NWR0aWstdnRvcGZJa3hPRUdnV2RMS29DZFowdzFkV2JiakNoYV9UVC0yTXZhM1BH0gH6AUFVX3lxTE1obGVQZVNJaHpubWl1ZnpoTVQ4dFA5UVFDLW1xcmZMQ01ZcGJ5VVp4bEtBV29OdHpwMGx1dXBCMWNqZE9OT2VQSjMwc2U1aG9xZnJzYkVKMUdJeGg4X3ZRYjdPeEhXVC03eFFOVXV1ZGNZbkhqZnpkWmQ5QUdkZ0JwX3pFUzYyM3JQWFBwVDl1QVpRdmh5VUM3ZmNvYlRKXzByQkQtWkhpREtGdHJTOVlUMmRhUmtxcVlHVzRiTmdjaFFsc25EMElGZVlHbnpXQl90WmRQM1R0bVhNRXFGX08xTGpldXlmWHhJMUNIeUdyRU0tLW9CWmhxOEE?oc=5",
-     "summary": "India's Gen Z shares personal issues with AI despite privacy risks: Report Business Standard",
+     "summary": "India's Gen Z shares personal issues with AI despite privacy risks: Report business-standard.com",
      "published": "2026-09-11T09:45:12+00:00",
-     "source": "Business Standard",
+     "source": "Google News",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1707,9 +1738,9 @@
     {
      "title": "China's AI chip IPO boom rolls on as another Nvidia challenger soars 200% in market debut",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3dCMWNEWjgySFlVNnJmeHFXSzhpQ1RmdXR6NmlHS3FOVzdBSW1GVV9yYkxiY1NSMnZzTEZrOXNFbVQ1aXJyY2tIQ09NT2xlR2gtYXRWZ0V5NklxSTN3bnVENUVQNHVFZ21FRUFIZFg0SmoxM0F5d3g0S0lUWmFrYXhROXdzVjdEWW1hZHBJaGxJZmtmVGN3VHhkWjhhR1ZXa01Rbzhn?oc=5",
-     "summary": "China's AI chip IPO boom rolls on as another Nvidia challenger soars 200% in market debut Business Insider",
+     "summary": "China's AI chip IPO boom rolls on as another Nvidia challenger soars 200% in market debut businessinsider.com",
      "published": "2026-09-11T07:50:41+00:00",
-     "source": "Business Insider",
+     "source": "businessinsider.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1785,6 +1816,19 @@
      "figures": [
       "10.09 seconds at the Federation Cup"
      ]
+    },
+    {
+     "title": "\"Should Not Be A Discussion\": Virat Kohli's Childhood Coach Makes Blunt '2027 World Cup' Verdict",
+     "url": "https://sports.ndtv.com/cricket/should-not-be-a-discussion-virat-kohlis-childhood-coach-makes-blunt-2027-world-cup-verdict-12031875#publisher=newsstand",
+     "summary": "Rajkumar Sharma, Virat Kohli's childhood coach, provided his perspective on whether Kohli and Rohit Sharma should make India's 2027 World Cup squad.",
+     "published": "2026-09-11T10:09:04+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-11/q1ck124k_virat-kohli-rohit-sharma_625x300_29_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a069fec753c5",
+     "category": "sports",
+     "category_label": "Sports"
     }
    ]
   },
@@ -1919,19 +1963,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ace5/live/c5725870-ad45-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "b29db9de6439",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Campaigners hold vigil as stroke unit closes",
-     "url": "https://www.bbc.co.uk/news/videos/cge4rpn35n5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Patients needing urgent care will be taken to Taunton or Dorchester instead.",
-     "published": "2026-09-10T11:19:46+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cd/live/32ed0120-ac6a-11f1-bc1f-3f186ca4140c.jpg",
-     "licence": "linkout",
-     "id": "4d647f93e43f",
      "category": "general",
      "category_label": "General"
     },
