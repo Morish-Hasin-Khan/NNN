@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T21:33:13.243175+00:00",
+ "generated_at": "2026-09-12T22:01:51.477805+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -79,7 +79,8 @@
    "value": 77211.0,
    "change": -1227.0,
    "changePct": -1.56,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
@@ -90,8 +91,8 @@
   "Bangladesh World",
   "Congress NSUI",
   "Millet BRICS",
+  "First Black",
   "Ebola",
-  "Second Reform",
   "Death Philippines"
  ],
  "sections": [
@@ -142,20 +143,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Culture"
-    },
-    {
-     "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
-     "summary": "‘NAZA’, a documentary about Israel’s genocide in Gaza, has won the Special Jury Prize at the Venice Film Festival.",
-     "published": "2026-09-12T19:50:08+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789242495.jpg?resize=1827%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "e821e8a0c7d2",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
     },
     {
      "title": "Congress claims NSUI's victory in Garhwal university student union polls",
@@ -296,9 +283,9 @@
     {
      "title": "Symposium on Artificial Intelligence held in Vellore",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5VWGZ6RGdUZlI2amFaM2Q4bVdSMDdNeVduZ3FmUThxdFdBN0dkS3JXa3EtNXIyaGc4Sl9SUWZxNWFQRTltcW1QOFhmSkE1eGNZNFVlYlNtYXJQOTNsUUNjZTFvVG1SRUtRblZzTGk1allfM3B5Z3I1dVBCeGpMVUlTM3JuUE85NTR2aHA2bEZSTWp3em43ekF0Y2I2Unhnalg4bFVGS3hEMHppTGJqNldya0NJV0lPS3FmMHVIMNIBxgFBVV95cUxOY1VtTnBMaXhBRFJBYWlUNFBuX0ZHUFpfQ2xxR3FwNzNtRVdTSFlLUEY4RUVHd0FZc3ZkTFhaWEVGbG1EZVkyUnUwUXJ0WEpCMmNIVVpMX3J1aXJISWc3N0N1YWYtYmxuWGdOS0NGUWtvTTNwYXZaeFZfSHN6Y28xbkhKd2JUTFE1Y3NpMGV2RVFuTkdnMWdwUndtaWRHb09vSkN0YVBKSzY4UVZ2VkU3cW1HU0tGR2JqQnQ5a1oxbjc3NXhzLUE?oc=5",
-     "summary": "Symposium on Artificial Intelligence held in Vellore thehindu.com",
+     "summary": "Symposium on Artificial Intelligence held in Vellore The Hindu",
      "published": "2026-09-12T17:44:48+00:00",
-     "source": "thehindu.com",
+     "source": "The Hindu",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -310,9 +297,9 @@
     {
      "title": "Teachers’ Role in the Age of Artificial Intelligence",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUVOVkhuSDRwekFoZmdIVWN2NVRDTDltalFyWjkxSzBuT0pkVW81aC0wUmZ6aWZSdVhtTlhWZEtld3hLQ1I2STVhR1dxUWdyVGluazBPNXZYZjdHc2YySElrVlY1NlZwd05hWTJHdWNtWFR3TGhHTnlfOUY5T2dQU3gxVHRtdGM?oc=5",
-     "summary": "Teachers’ Role in the Age of Artificial Intelligence Kashmir Convener",
+     "summary": "Teachers’ Role in the Age of Artificial Intelligence kashmirconvener.com",
      "published": "2026-09-12T17:35:16+00:00",
-     "source": "Kashmir Convener",
+     "source": "kashmirconvener.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -380,7 +367,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-12T21:33:01.342299+00:00",
+     "published": "2026-09-12T22:01:38.783569+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -391,7 +378,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-12T21:33:01.342308+00:00",
+     "published": "2026-09-12T22:01:38.783578+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -402,7 +389,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-12T21:33:01.342314+00:00",
+     "published": "2026-09-12T22:01:38.783581+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -413,7 +400,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-12T21:33:01.342317+00:00",
+     "published": "2026-09-12T22:01:38.783583+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -424,7 +411,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-12T21:33:01.342320+00:00",
+     "published": "2026-09-12T22:01:38.783586+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -435,7 +422,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-12T21:33:01.342322+00:00",
+     "published": "2026-09-12T22:01:38.783588+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -623,6 +610,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "First naval battle between drones takes place in the Black Sea",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
+     "summary": "The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.",
+     "published": "2026-09-12T21:38:24+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789249087.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "bd1e9a9c2db7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
      "summary": "Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.",
@@ -690,15 +690,15 @@
      "category_label": "General"
     },
     {
-     "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-     "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-     "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-     "published": "2026-09-12T13:56:20+00:00",
+     "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+     "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+     "published": "2026-09-12T21:25:28+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a39c/live/b6611ef0-aec3-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
      "licence": "linkout",
-     "id": "fd3d6f2dfd38",
+     "id": "cd21a5daca06",
      "category": "general",
      "category_label": "General"
     },
@@ -1326,11 +1326,11 @@
      "category_label": "General"
     },
     {
-     "title": "Brics calls for safe, ethical AI use in education, backs academic mobility",
+     "title": "Brics calls for safe, ethical AI use in education, backs academic mobility - business-standard.com",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeUo0eXh3M0JZMDdPMHhGeUg5UDE0MXQzb3owdHZ4NXdETmRzUVRaY0hsMTU4bmh1NUJpUzRJb2tfZmdZQjJmcUY1OTZmX2lhWUw1blJPMlQ1TWF5VWUyaGlibGZKMUQtbGIwUzFTNUNmaDZic3NKelJEbmdNeThYVkFwdWZrVmpnUU13ZmRxNVYxS3JqbWxNZ0RWVTh5d3lOSjFWZmdQMndxZVRZTmpHdlp1RHFlTFZiUHZNc3BpcVdBdHoxQkdIby1FaDFzTkhjd2RydEwyRlgwY0VKa2ZNX1hMQTNjYW5yVFVsNXRrQ09IMDBH0gH6AUFVX3lxTE8ybG9CQjNmNHNoeEdhN3U1bW1nOEhlUmx5ZVN4eTlzb1ZydEdGemFoWjJyMDBPWVlocWo5dGl1QzRvcC1yYWhJaTltb1RMZzg2eHhoakI1YzRqeUUwazl6ZWhERUpKSG53S19ZZUdkUEhVQ3RBamdqSzM0RFRGZHlxOEdFOWdNcS0yWEEzclk3aVZwNllzeFhROVR6S0JXVm9PNVdkUUVzNDBqTjlrTjd5dnV4SEprZ3M2eHM3QWp0d2pLZXVSOFNqTWhpOVBCWmNFYlpMeVVibGRlRG9vdjJZRjY5Rkt2ZDh3MmQ4Q2QwZV9PV1RYeHpiamc?oc=5",
-     "summary": "Brics calls for safe, ethical AI use in education, backs academic mobility Business Standard",
+     "summary": "Brics calls for safe, ethical AI use in education, backs academic mobility business-standard.com",
      "published": "2026-09-12T13:18:52+00:00",
-     "source": "Business Standard",
+     "source": "Google News",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1352,15 +1352,15 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9MTER0WjJwa1VDM0F3RlU2aGNDTUdwUEd0LVAtci1teHlHcGhaa0dSTmJrUXlxa2h1RVpXUDJndHNkMTBZTmxVTmdBMzJGU2dhX3RzMW82TXFjTUpqY1M4NkVHbzdMX3VzMklsNlFoNENMTVpsNWpGSUNnYTJvSXNOZjVqdmhpWFZCdmpvNlFUaXVBcXNmbkdfTmc2YkE3TmpBNlNnZWR5ZlJzX1E?oc=5",
-     "summary": "Why It’s Difficult for Tech Companies to Rein In A.I. The New York Times",
-     "published": "2026-09-12T16:18:06+00:00",
-     "source": "The New York Times",
+     "title": "Anthropic's Misuse Dossier And 2030 Economic Model, Published Days Apart, Show Black Mirror Is Here",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcG1PR2JJeXItMXZxREU5M3ppZ0I5M1RDcHVVZjItU09rUXFvRTNUaHNQcHQ0OF9CWC1sUDRpeFZQQ1I2N3BsSDB1WDBrbUl4dzk5WW1wc2V6a2FVdVA1alNPVU5HcDhFaDdXbGE1WV91REZ0d3JMX3BXR3NNazZXQzBZakZmekkxWUtWQVd4Ty1TcDZTM25ROTdudjFLSy1iQlVtQWV0ZElNd3JndUlUaHZlWkt1TFhjbTI1alJydkRVQTVCZmlOSkljZlEwUdIB1gFBVV95cUxPUU9qR2xKOGI5SWF5Q3hDTXFEWm96UnpaSVh0cGFkcHE4UnFvY1BHMjVfcV9XX0NOOWxCWElvVFlhXzd6eWY1bWRxYkRPak9jVmNXLThxcTU5Qm5mT3A0a01PaUU5SVB2U1lnQThJRHREM3YwTHBfOFV6bW1JejZIZjIxdnUtZ1VaNnFMZ1p3em5YdnB4dGtobjFRR21vRFE3ZHpvZTdZVUlEMWVQelBWRmRLS1BnNC0xczA0cFRWLWFtWkxraU50c0hEZXpsQjcyTXdMRjdn?oc=5",
+     "summary": "Anthropic's Misuse Dossier And 2030 Economic Model, Published Days Apart, Show Black Mirror Is Here NDTV Profit",
+     "published": "2026-09-12T03:41:05+00:00",
+     "source": "NDTV Profit",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "1cd27862b293",
+     "id": "0fe2ea6b70fd",
      "category": "general",
      "category_label": "General"
     }
