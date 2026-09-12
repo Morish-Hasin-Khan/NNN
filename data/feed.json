@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T09:34:00.567260+00:00",
+ "generated_at": "2026-09-12T10:02:22.812480+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Sweden What",
-  "Five Renoir",
+  "Jamia AISA",
+  "Fighting Yemen",
   "Jazeera English",
   "News",
   "Bangladesh World",
   "CREST IDFC",
-  "National News",
-  "Stadium Congress",
-  "Terror Europe",
-  "Guatemalan"
+  "BRICS",
+  "Social",
+  "What",
+  "Death Philippines"
  ],
  "sections": [
   {
@@ -103,60 +103,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
-     "url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
-     "summary": "Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government.",
-     "published": "2026-09-12T08:42:28+00:00",
+     "title": "Jamia hostel protest: AISA claims students assaulted, university refutes charge",
+     "url": "https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece",
+     "summary": "University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team",
+     "published": "2026-09-12T09:46:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/2trokk/article71459603.ece/alternates/LANDSCAPE_1200/PTI02_19_2025_000184B.jpg",
+     "licence": "linkout",
+     "id": "4bdd510ccb3b",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Fighting re-erupts in Yemen and civilians are paying the price",
+     "url": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
+     "summary": "More than 900 people have been killed or injured and at least 5,000 families have fled their homes in less than a week.",
+     "published": "2026-09-12T09:30:46+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa2a52ee846-1789044014_0046bc-1789121238.jpg?resize=1200%2C630&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/5-1-1789199523.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "c5d1d5b52844",
+     "id": "dc8e1c4b2c63",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News"
+     "from_section": "Global News",
+     "figures": [
+      "900 people have been killed",
+      "5,000 families have fled their homes"
+     ]
     },
     {
-     "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-     "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
-     "summary": "Art crime investigators and security experts say museum thefts across Europe are becoming more brazen.",
-     "published": "2026-09-12T00:24:08+00:00",
-     "source": "BBC News",
+     "title": "Palghar hospital violence: MLA’s son, 13 others arrested; HC slams lax, ‘ridiculous’ probe",
+     "url": "https://www.thehindu.com/news/cities/mumbai/palghar-hospital-violence-mlas-son-13-others-arrested-hc-slams-lax-ridiculous-probe/article71459167.ece",
+     "summary": "The action taken by the Palghar police appeared to be merely superficial and seemed to have been carried out in a manner that would ultimately benefit the accused, the High Court said",
+     "published": "2026-09-12T09:21:49+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d48/live/a7c0a8c0-ac48-11f1-96a2-2f464854ded4.png",
+     "image": "https://th-i.thgim.com/public/incoming/j2skjx/article71459221.ece/alternates/LANDSCAPE_1200/TH26-Chinmay-BoGQUGETFCC.3.jpg.jpg",
      "licence": "linkout",
-     "id": "bd647c5d5431",
+     "id": "f4884a7ee4ef",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Culture"
-    },
-    {
-     "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-     "url": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
-     "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
-     "published": "2026-09-11T23:39:01+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37fa/live/48f4dc90-ac1a-11f1-a291-b542ee92de7c.jpg",
-     "licence": "linkout",
-     "id": "5da24aef8385",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline"
+     "from_section": "National Hotlines",
+     "figures": [
+      "13 others arrested; HC slams lax"
+     ]
     },
     {
      "title": "NIA court issues non-bailable warrant against LeT founder Hafiz Saeed",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/nia-court-issues-non-bailable-warrant-against-let-founder-hafiz-saeed/article71459508.ece",
-     "summary": "According to the NIA, the amir/chief/founder of the proscribed terrorist organisation LeT was operating from Pakistan and providing weapons, money and directions to terrorists operating in Kashmir valle",
-     "published": "2026-09-12T09:01:11+00:00",
+     "url": "https://www.thehindu.com/news/national/indias-most-wanted-terrorist-hafiz-saeed-in-pakistan-nia-tells-jammu-court-secures-warrant/article71459225.ece",
+     "summary": "According to the NIA, the amir/chief/founder of the proscribed terrorist organisation LeT was operating from Pakistan and providing weapons, money and directions to terrorists operating in Kashmir valley",
+     "published": "2026-09-12T09:42:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8locz4/article71459576.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U3O6SJ0PN_R1576854631_3_59ff8610-e71e-455c-9afe-0899913c25b5.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/mufey7/article71459226.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U3O6SJ0PN_R1576854631_3_59ff8610-e71e-455c-9afe-0899913c25b5.jpg",
      "licence": "linkout",
-     "id": "fbde2d1161fc",
+     "id": "40dc49b64b56",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
@@ -173,60 +180,52 @@
      "from_section": "Global News"
     },
     {
-     "title": "Russia strikes cargo vessels, steel plants across Ukraine",
-     "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
-     "summary": "Russia's Defence Ministry says its forces have struck several industrial facilities across Ukraine",
-     "published": "2026-09-12T08:38:48+00:00",
-     "source": "Al Jazeera",
+     "title": "24-Hour Visit, 15,000 Personnel: How Xi Jinping's India Trip Is Being Guarded",
+     "url": "https://www.ndtv.com/india-news/24-hour-visit-15-000-personnel-how-xi-jinpings-india-trip-is-being-guarded-12036439#publisher=newsstand",
+     "summary": "Chinese President Xi Jinping arrived in the national capital on Saturday for a one-day visit to attend the BRICS Summit, marking his first visit to India in seven years.",
+     "published": "2026-09-12T09:53:50+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260912__C83P4T7__v4__HighRes__UkraineRussiaConflictWar-1789199871.jpg?resize=1920%2C1440",
+     "image": "https://c.ndtvimg.com/2026-09/7b9ecrpo_xi_625x300_12_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "60970e3885a0",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
-     "url": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
-     "summary": "Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.",
-     "published": "2026-09-12T08:47:19+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260910__C7Y86G8__v1__HighRes__GuatemalaIndigenousJusticeTrial-1789200396.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "cf17918cc0de",
+     "id": "cc2829560139",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National News",
+     "figures": [
+      "15,000 Personnel : How Xi Jinping's"
+     ]
     },
     {
-     "title": "Trump may be BRICS’s best recruitment agent",
-     "url": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
-     "summary": "The US president wants to weaken BRICS, but he may end up doing the opposite.",
-     "published": "2026-09-12T07:44:06+00:00",
+     "title": "Social media opening doors to child marriages?",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/social-media-opening-doors-to-child-marriages/article71459183.ece",
+     "summary": "On September 4, 2026, the United Nations General Assembly declared November 27 as the International Day for the Elimination of Child, Early and Forced Marriage. Child rights activists weigh in on what it takes, particularly in the online space, to counter the evil of child marriage",
+     "published": "2026-09-12T09:49:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/jt6eck/article71459188.ece/alternates/LANDSCAPE_1200/Del6330432.jpg",
+     "licence": "linkout",
+     "id": "465bfef8c8d9",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "What did US intelligence know before the 9/11 attacks?",
+     "url": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+     "summary": "The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.",
+     "published": "2026-09-12T09:30:51+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T165159Z_158180079_RC2ZGNAP0Z4I_RTRMADP_3_BRICS-SUMMIT-1789198919.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa43243-1789145667.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "0c6aa7965c44",
+     "id": "17cb7db7f4c6",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Assam Chief Minister Himanta Biswa Sarma Stops Convoy To Meet Para Athlete, Accepts Gamusa",
-     "url": "https://sports.ndtv.com/othersports/assam-chief-minister-himanta-biswa-sarma-stops-convoy-to-meet-para-athlete-accepts-gamusa-12036584#publisher=newsstand",
-     "summary": "Assam Chief Minister Himanta Biswa Sarma on Friday stopped his convoy after spotting a young para athlete standing by the roadside and greeting him with an Assamese phulam gamusa.",
-     "published": "2026-09-12T07:40:59+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/62duq808_himanta-biswa-sarma_625x300_12_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e5f56caf5e17",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Sports"
+     "from_section": "Global News",
+     "figures": [
+      "11 attacks ?"
+     ]
     },
     {
      "title": "₹1.09 crore sent from Kuwait to India: ITAT Ahmedabad grants partial relief in income tax notice case",
@@ -283,48 +282,6 @@
      ]
     },
     {
-     "title": "Hyderabad techie’s website helps families track those missing in Nepal floods",
-     "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-techies-website-helps-families-track-those-missing-in-nepal-floods/article71443409.ece",
-     "summary": "He noted that having all the information on a single platform ReuniteIndia.com helps families who are right now stuck piecing together information scattered across dozens of PDFs, helplines, and social media posts",
-     "published": "2026-09-12T09:00:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7g94op/article71457460.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-11%20at%2021.11.39.JPEG",
-     "licence": "linkout",
-     "id": "7b50b2e11014",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National News"
-    },
-    {
-     "title": "Mohammed Siraj Breaks Silence On Test Struggles: \"Purely A Rhythm Bowler\"",
-     "url": "https://sports.ndtv.com/cricket/mohammed-siraj-breaks-silence-on-test-struggles-that-was-the-struggle-in-sri-lanka-12032994#publisher=newsstand",
-     "summary": "India's star pacer Mohammed Siraj has opened up on the dip in his performance in Test cricket of late.",
-     "published": "2026-09-12T08:06:01+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5tmooa98_mohammed-siraj_625x300_11_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "62c2bc0ac876",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Sports"
-    },
-    {
-     "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
-     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
-     "published": "2026-09-12T08:10:05+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e5acc0fd27af",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "National Hotlines"
-    },
-    {
      "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajlicGVNdlR4N1MxdHJNa0lrTnRsYjRXZEhNdDl6U1NHSlBVUXk0SFgtemM0LXdid1AzQ0htekgwdGVyNk54NFZHUjN1Z3ZNaXNMVWkzZ05nNHhHdjhEOGdOSHRpZWZyYkZWQ2pzb0VJVHJVRm5wT19HQ2NDaEpwZVI3TkdWYkpBZGVXcUxscGlqcmVPSXZLeWEtZmQwSjR2NzVXU2hTSzlMQk1heXVETDJacVZIYzUyOHlMRtIBvAFBVV95cUxQcENvQlJpLURCZ1FNdDEwcFZLQUI4OWJfSWdfN2dhVUZZWUpINXdUUlNmbHFEckc0T0RJMUdFMFVRVmluVHNiSUhaT1BuUGZNVzdyT1lBbDROdzlWcHpFSk5pRDNIWXlVSDlDbm5seENNZm5tNDc3SkY3V1NZcUJzVktiNUNDV0JpV05ic0UtLUw5eDRyUk5XMFJmRzFUa0Q5WmpxbWMtZjBJbE1wbzRRRWRubjM0X25LeUhyMw?oc=5",
      "summary": "Chinese AI firms shunned US delegation over sanctions fears, commission says South China Morning Post",
@@ -341,13 +298,27 @@
     {
      "title": "Could artificial intelligence actually lead to more office sector demand?",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGIwU3Y4N29nMXBNZzU2TWdfSmx1aGd2N1BNRnVpX0l3ZHNvMDQ2U3NDTnNFUU0xQktGVVBmMkluVGI4U1gyR2RaWUF6ZHVMdXk4R1d2dkdORGwtekxXR0hTa2xUWHp0bUFGM09nd2o3eVNJa1c0MVBhN0c3XzR2alZSQlh0WElOTmJCa18wM1d6Z0tTRUs2TW1zMk1ZalkxZ0d4SHgzOUNGVFlI?oc=5",
-     "summary": "Could artificial intelligence actually lead to more office sector demand? scotsmanguide.com",
+     "summary": "Could artificial intelligence actually lead to more office sector demand? Scotsman Guide",
      "published": "2026-09-11T22:12:51+00:00",
-     "source": "scotsmanguide.com",
+     "source": "Scotsman Guide",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "0f550494c26a",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "For Finavia’s HR professional, artificial intelligence is part of the job description",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaG0xSUxLMG9VLW8tblVxYk1kMnZvWlFVc1k5Qlhuc19rdVRfaU9lQWNVOUNBTzVJXy0zM0x6Tk1FcEd1WnBlRDlIaDM0OVVhUDZIQW9Ub0FUbXluZEhLOQ?oc=5",
+     "summary": "For Finavia’s HR professional, artificial intelligence is part of the job description WebWire",
+     "published": "2026-09-11T18:14:21+00:00",
+     "source": "WebWire",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "4e86102eb467",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -364,10 +335,10 @@
      "id": "44ac1cfc8520",
      "also": [
       {
-       "source": "bestcolleges.indiatoday.in",
+       "source": "India Today",
        "title": "School assembly news headlines today- September 12: Top national, sports and world news curated for you",
        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdS1KRDhEcWhaakJTMmJ4Y2h3dGw0cUJOQmFuV3pWXzZhMVhnRzMtWTlER2xjam5YNjcycWo2YzJSRHRvYkttaHVnbENsVDFHTGNNenBXRmVaYmZJdlE5WXM2aXEydWpUbzM2aEhwbGpqQWNucXFnQk1SVnU1bHAxaW1MNy1yVEJ5TGJnd1VEdU1iZXVPaHJzZkxKSlpRZkZhTFZXbU9jUXBOVVFKM1JyUnIwbnV1WFVvSWxYQkcwd3Y2T1hWbmlzc29tN3pZcUlmNE13V3JGb3pEYVJDSmJBb1FyYU04MFJL?oc=5",
-       "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you bestcolleges.indiatoday.in"
+       "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you India Today"
       }
      ],
      "category": "sports",
@@ -378,7 +349,7 @@
      "title": "Trump meeting Irish leader Micheál Martin during visit",
      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
      "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
-     "published": "2026-09-12T09:22:34+00:00",
+     "published": "2026-09-12T09:52:19+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381d/live/31f31f20-ae8b-11f1-b92e-1f49080ec3cb.jpg",
@@ -389,18 +360,35 @@
      "from_section": "Global News"
     },
     {
-     "title": "A Single Back Pass Led To One of Football's Most Embarrassing Goals. Watch",
-     "url": "https://sports.ndtv.com/football/a-single-back-pass-led-to-one-of-footballs-most-embarrassing-goals-watch-12036613#publisher=newsstand",
-     "summary": "Bizarre things happen in sports. But what happened in a football match in Brazil might well top the list",
-     "published": "2026-09-12T07:53:04+00:00",
+     "title": "Rahul Dravid Places This International Captain Over Virat Kohli, Ricky Ponting, Imran Khan, Pat Cummins",
+     "url": "https://sports.ndtv.com/cricket/rahul-dravid-places-this-international-captain-over-virat-kohli-ricky-ponting-imran-khan-pat-cummins-12036920#publisher=newsstand",
+     "summary": "Former India head coach Rahul Dravid recently faced a tough challenge when he was asked to pick the greatest international captain in cricket history.",
+     "published": "2026-09-12T09:50:38+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/r91fnelk_brazil-football_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/o1v5bglc_rahul-dravid-getty_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "a8dfba55bb86",
+     "id": "3f3a51252c71",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
+    },
+    {
+     "title": "SIA raids 5 locations in Poonch, Udhampur over cross-border terror links",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/sia-raids-5-locations-in-poonch-udhampur-over-cross-border-terror-links/article71459595.ece",
+     "summary": "During the course of the investigation, a source certain individuals were found to be allegedly communicating with suspicious persons located across the Line of Control (LoC)",
+     "published": "2026-09-12T09:44:23+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/yobcec/article71459631.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000178B.jpg",
+     "licence": "linkout",
+     "id": "5b361d6c6eb6",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News",
+     "figures": [
+      "5 locations in Poonch, Udhampur over"
+     ]
     },
     {
      "title": "Pool, park and gym missing: Karnataka homebuyers get relief from RERA after builder fails to provide promised amenities",
@@ -432,23 +420,6 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Global News"
-    },
-    {
-     "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-     "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-     "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-     "published": "2026-09-12T03:02:28+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
-     "licence": "linkout",
-     "id": "a2ba9af87a7d",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Global News",
-     "figures": [
-      "35, with dozens still missing"
-     ]
     }
    ]
   },
@@ -464,7 +435,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-12T09:33:47.282051+00:00",
+     "published": "2026-09-12T10:02:10.075863+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -475,7 +446,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-12T09:33:47.282061+00:00",
+     "published": "2026-09-12T10:02:10.075878+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -486,7 +457,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-12T09:33:47.282064+00:00",
+     "published": "2026-09-12T10:02:10.075883+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -497,7 +468,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-12T09:33:47.282067+00:00",
+     "published": "2026-09-12T10:02:10.075888+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -508,7 +479,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-12T09:33:47.282070+00:00",
+     "published": "2026-09-12T10:02:10.075892+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -519,16 +490,16 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-12T09:33:47.282072+00:00",
+     "published": "2026-09-12T10:02:10.075896+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "BRICS Summit 2026 LIVE updates: The summit commences; BRICS agrees on joint declaration before summit",
+     "title": "BRICS Summit 2026 LIVE updates: PM Modi proposes 10-point proposal for global governance",
      "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
-     "summary": "The Congress urges government to help restore diplomatic space and stature by rebuilding confidence among partners in the Global South",
-     "published": "2026-09-12T09:06:10+00:00",
+     "summary": "The Congress urges the government to help restore diplomatic space and stature by rebuilding confidence among partners in the Global South",
+     "published": "2026-09-12T09:47:35+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
@@ -537,7 +508,7 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "BRICS Summit 2026 LIVE Updates: BRICS Agrees On New Delhi Declaration Amid Middle East Crisis",
+       "title": "BRICS Summit 2026 LIVE Updates: \"BRICS Has Reached A Moment Of Coming Of Age\": PM Modi",
        "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
        "summary": "BRICS Summit 2026 LIVE Updates: BRICS comprises Brazil, China, Egypt, Ethiopia, India, Indonesia, Iran, Russia, Saudi Arabia, South Africa, and the United Arab Emirates. BRICS partner countries are: Belarus, Cuba…"
       }
@@ -547,13 +518,13 @@
      "category_label": "General"
     },
     {
-     "title": "BRICS Summit 2026 LIVE Updates: BRICS Agrees On New Delhi Declaration Amid Middle East Crisis",
+     "title": "BRICS Summit 2026 LIVE Updates: \"BRICS Has Reached A Moment Of Coming Of Age\": PM Modi",
      "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
      "summary": "BRICS Summit 2026 LIVE Updates: BRICS comprises Brazil, China, Egypt, Ethiopia, India, Indonesia, Iran, Russia, Saudi Arabia, South Africa, and the United Arab Emirates. BRICS partner countries are: Belarus, Cuba, Bolivia, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan and Vietnam.",
-     "published": "2026-09-12T07:51:43+00:00",
+     "published": "2026-09-12T09:45:43+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/lkoo52vs_brics_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/2iovp1p_modi_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "73b8524bbb0d",
      "kind": "liveblog",
@@ -561,21 +532,32 @@
      "category_label": "General"
     },
     {
-     "title": "NEET PG Answer Key 2026 LIVE: Check NBEMS Response Sheet Release Date, Latest Updates Here",
-     "url": "https://www.ndtv.com/education/neet-pg-answer-key-2026-live-response-sheet-expected-today-check-latest-updates-here-12036479#publisher=newsstand",
-     "summary": "NEET PG Answer Key 2026 Release Date LIVE Updates: The exam was held on August 30. Check the latest updates on the NBEMS provisional key, response sheet, and result.",
-     "published": "2026-09-12T07:06:08+00:00",
+     "title": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMFg1cl9HcGJBVWJMdFVkc3VWN1VzVkFqTzVtMTg4TjhudHF2V1NnN2NaVVJ5VWl2WU1NWkJLeUdQQUw1TlBYdWJ4R3M?oc=5",
+     "summary": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News NDTV",
+     "published": "2026-09-12T05:07:43+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/s3f5po4_neet-pg-2026_625x300_23_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": null,
      "licence": "linkout",
-     "id": "41c1a947aef2",
+     "id": "94b7155dc077",
      "kind": "liveblog",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "30. Check the latest updates"
-     ]
+     "category_label": "General"
+    },
+    {
+     "title": "England vs Pakistan Live Updates, 3rd Test Day 4: Pakistan Eye Quick Wickets To Avoid Clean Sweep vs England",
+     "url": "https://sports.ndtv.com/cricket/england-vs-pakistan-live-updates-3rd-test-day-4-12036950#publisher=newsstand",
+     "summary": "England vs Pakistan Live Updates, 3rd Test Day 4: England will be opening their second innings on Day 4 of the third Test against Pakistan at Edgbaston in Birmingham.",
+     "published": "2026-09-12T09:37:19+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/9ms1eiss_team-pakistan-getty_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "36e6ea6472a0",
+     "kind": "liveblog",
+     "category": "sports",
+     "category_label": "Sports"
     }
    ]
   },
@@ -597,10 +579,10 @@
      "id": "44ac1cfc8520",
      "also": [
       {
-       "source": "bestcolleges.indiatoday.in",
+       "source": "India Today",
        "title": "School assembly news headlines today- September 12: Top national, sports and world news curated for you",
        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdS1KRDhEcWhaakJTMmJ4Y2h3dGw0cUJOQmFuV3pWXzZhMVhnRzMtWTlER2xjam5YNjcycWo2YzJSRHRvYkttaHVnbENsVDFHTGNNenBXRmVaYmZJdlE5WXM2aXEydWpUbzM2aEhwbGpqQWNucXFnQk1SVnU1bHAxaW1MNy1yVEJ5TGJnd1VEdU1iZXVPaHJzZkxKSlpRZkZhTFZXbU9jUXBOVVFKM1JyUnIwbnV1WFVvSWxYQkcwd3Y2T1hWbmlzc29tN3pZcUlmNE13V3JGb3pEYVJDSmJBb1FyYU04MFJL?oc=5",
-       "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you bestcolleges.indiatoday.in"
+       "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you India Today"
       }
      ],
      "category": "sports",
@@ -657,52 +639,90 @@
    "upsc": false,
    "items": [
     {
-     "title": "Low pressure brings good rainfall to coastal A.P.",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-brings-good-rainfall-to-coastal-ap/article71459218.ece",
-     "summary": "",
-     "published": "2026-09-12T09:03:56+00:00",
+     "title": "BRICS joint statement agreed upon, to be issued shortly",
+     "url": "https://www.thehindu.com/news/national/brics-summit-2026-joint-statement/article71459643.ece",
+     "summary": "Indian negotiators makes a breakthrough after opposing positions from Iran and UAE",
+     "published": "2026-09-12T09:54:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/58jbqx/article71459593.ece/alternates/LANDSCAPE_1200/01RainCloudss.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/a54jx4/article71459652.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000179A.jpg",
      "licence": "linkout",
-     "id": "0a4c35fe5edc",
+     "id": "7d7f1a7940ad",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Stadium denied, Congress gets alternative venue for Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/stadium-denied-congress-gets-alternative-venue-for-rahul-gandhis-chhatron-ki-goonj-event-in-indore/article71459006.ece",
-     "summary": "The Indore Mayor stated that an old Madhya Pradesh High Court order restricts its use to sports or state-level government events",
-     "published": "2026-09-12T09:02:57+00:00",
+     "title": "Social media opening doors to child marriages?",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/social-media-opening-doors-to-child-marriages/article71459183.ece",
+     "summary": "On September 4, 2026, the United Nations General Assembly declared November 27 as the International Day for the Elimination of Child, Early and Forced Marriage. Child rights activists weigh in on what it takes, particularly in the online space, to counter the evil of child marriage",
+     "published": "2026-09-12T09:49:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/w8mdig/article71421023.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000119A.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/jt6eck/article71459188.ece/alternates/LANDSCAPE_1200/Del6330432.jpg",
      "licence": "linkout",
-     "id": "f6be947734f6",
+     "id": "465bfef8c8d9",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "BRICS Summit 2026 LIVE updates: PM Modi proposes 10-point proposal for global governance",
+     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
+     "summary": "The Congress urges the government to help restore diplomatic space and stature by rebuilding confidence among partners in the Global South",
+     "published": "2026-09-12T09:47:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "licence": "linkout",
+     "id": "0dd93ea2d5d0",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "BRICS Summit 2026 LIVE Updates: \"BRICS Has Reached A Moment Of Coming Of Age\": PM Modi",
+       "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
+       "summary": "BRICS Summit 2026 LIVE Updates: BRICS comprises Brazil, China, Egypt, Ethiopia, India, Indonesia, Iran, Russia, Saudi Arabia, South Africa, and the United Arab Emirates. BRICS partner countries are: Belarus, Cuba…"
+      }
+     ],
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "NIA court issues non-bailable warrant against LeT founder Hafiz Saeed",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/nia-court-issues-non-bailable-warrant-against-let-founder-hafiz-saeed/article71459508.ece",
-     "summary": "According to the NIA, the amir/chief/founder of the proscribed terrorist organisation LeT was operating from Pakistan and providing weapons, money and directions to terrorists operating in Kashmir valle",
-     "published": "2026-09-12T09:01:11+00:00",
-     "source": "The Hindu",
+     "title": "Border To Trade To Visas: A Lot Will Be On Table At Big Modi-Xi Bilateral Today",
+     "url": "https://www.ndtv.com/india-news/brics-summit-delhi-border-to-trade-a-lot-will-be-on-table-at-big-modi-xi-bilateral-today-narendra-modi-xi-jinping-12037001#publisher=newsstand",
+     "summary": "While the meeting is expected to focus on consolidating the recent stabilisation in India-China ties, the border issue is likely to remain central to the discussions",
+     "published": "2026-09-12T09:47:40+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8locz4/article71459576.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U3O6SJ0PN_R1576854631_3_59ff8610-e71e-455c-9afe-0899913c25b5.jpg",
+     "image": "https://c.ndtvimg.com/2026-09/6vnfls8c_modi-xi_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "fbde2d1161fc",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "2acaf6160d6f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Uttarakhand Raises MBBS Intern Stipend At Government Colleges To Rs 25,000",
+     "url": "https://www.ndtv.com/education/uttarakhand-raises-mbbs-intern-stipend-at-government-colleges-to-rs-25-000-12036949#publisher=newsstand",
+     "summary": "Uttarakhand MBBS Intern Stipend Hike: There are a total of 625 MBBS seats across the five government medical colleges.",
+     "published": "2026-09-12T09:44:36+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/s0ihme8c_government-medical-college-haridwar_625x300_12_September_26.jpeg",
+     "licence": "linkout",
+     "id": "f5dd00ceadf2",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "Rs 25,000.  Uttarakhand MBBS Intern Stipend",
+      "625 MBBS seats across the five"
+     ]
     },
     {
      "title": "IGNOU To Host Mega Placement Drive On September 17-18, Check Details",
      "url": "https://www.ndtv.com/education/ignou-to-host-mega-placement-drive-in-delhi-ncr-on-september-17-18-check-details-12036615#publisher=newsstand",
      "summary": "IGNOU Placement Drive 2026: The recruitment drive will be held at the BR Ambedkar Convention Centre, IGNOU Campus, Maidan Garhi, New Delhi. Candidate reporting time is 10am.",
-     "published": "2026-09-12T07:49:39+00:00",
+     "published": "2026-09-12T09:25:08+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/8jgtmu08_ignou-placement-drive-2026_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-05/7h763jcc_ignou-july-admission-2026_625x300_26_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "31cec5048ae3",
      "category": "general",
@@ -710,35 +730,6 @@
      "figures": [
       "18, Check Details"
      ]
-    },
-    {
-     "title": "24-Hour Visit, 15,000 Personnel: How Xi Jinping's India Trip Is Being Guarded",
-     "url": "https://www.ndtv.com/india-news/24-hour-visit-15-000-personnel-how-xi-jinpings-india-trip-is-being-guarded-12036439#publisher=newsstand",
-     "summary": "Chinese President Xi Jinping arrived in the national capital on Saturday for a one-day visit to attend the BRICS Summit, marking his first visit to India in seven years.",
-     "published": "2026-09-12T07:35:36+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7b9ecrpo_xi_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "cc2829560139",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "15,000 Personnel : How Xi Jinping's"
-     ]
-    },
-    {
-     "title": "A Virtual Tour Of Bharat Mandapam: The Magnificent Venue For BRICS Summit",
-     "url": "https://www.ndtv.com/india-news/brics-summit-2026-a-virtual-tour-of-bharat-mandapam-the-magnificent-brics-venue-12036394#publisher=newsstand",
-     "summary": "The state-of-the-art Bharat Mandapam in the heart of Delhi has lit up to welcome some of the world's most powerful figures.",
-     "published": "2026-09-12T07:05:00+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ah01a0r8_bharat-mandapam-brics-2026-pti_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "3b4159023c10",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -748,6 +739,39 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "What did US intelligence know before the 9/11 attacks?",
+     "url": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+     "summary": "The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.",
+     "published": "2026-09-12T09:30:51+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa43243-1789145667.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "17cb7db7f4c6",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "11 attacks ?"
+     ]
+    },
+    {
+     "title": "Fighting re-erupts in Yemen and civilians are paying the price",
+     "url": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
+     "summary": "More than 900 people have been killed or injured and at least 5,000 families have fled their homes in less than a week.",
+     "published": "2026-09-12T09:30:46+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/5-1-1789199523.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "dc8e1c4b2c63",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "900 people have been killed",
+      "5,000 families have fled their homes"
+     ]
+    },
     {
      "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
      "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
@@ -815,6 +839,22 @@
      "figures": [
       "11 attacks"
      ]
+    },
+    {
+     "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+     "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+     "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+     "published": "2026-09-12T03:02:28+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
+     "licence": "linkout",
+     "id": "a2ba9af87a7d",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "figures": [
+      "35, with dozens still missing"
+     ]
     }
    ]
   },
@@ -854,19 +894,6 @@
      "category_label": "Crime"
     },
     {
-     "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-     "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
-     "summary": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
-     "published": "2026-09-11T09:38:23+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0f3/live/80be8820-adcc-11f1-82c1-5ff19bf7a2f2.jpg",
-     "licence": "linkout",
-     "id": "0314dd692504",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
      "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
@@ -904,92 +931,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Low pressure brings good rainfall to coastal A.P.",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-brings-good-rainfall-to-coastal-ap/article71459218.ece",
-     "summary": "",
-     "published": "2026-09-12T09:03:56+00:00",
+     "title": "BRICS joint statement agreed upon, to be issued shortly",
+     "url": "https://www.thehindu.com/news/national/brics-summit-2026-joint-statement/article71459643.ece",
+     "summary": "Indian negotiators makes a breakthrough after opposing positions from Iran and UAE",
+     "published": "2026-09-12T09:54:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/58jbqx/article71459593.ece/alternates/LANDSCAPE_1200/01RainCloudss.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/a54jx4/article71459652.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000179A.jpg",
      "licence": "linkout",
-     "id": "0a4c35fe5edc",
+     "id": "7d7f1a7940ad",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Stadium denied, Congress gets alternative venue for Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/stadium-denied-congress-gets-alternative-venue-for-rahul-gandhis-chhatron-ki-goonj-event-in-indore/article71459006.ece",
-     "summary": "The Indore Mayor stated that an old Madhya Pradesh High Court order restricts its use to sports or state-level government events",
-     "published": "2026-09-12T09:02:57+00:00",
+     "title": "Social media opening doors to child marriages?",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/social-media-opening-doors-to-child-marriages/article71459183.ece",
+     "summary": "On September 4, 2026, the United Nations General Assembly declared November 27 as the International Day for the Elimination of Child, Early and Forced Marriage. Child rights activists weigh in on what it takes, particularly in the online space, to counter the evil of child marriage",
+     "published": "2026-09-12T09:49:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/w8mdig/article71421023.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000119A.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/jt6eck/article71459188.ece/alternates/LANDSCAPE_1200/Del6330432.jpg",
      "licence": "linkout",
-     "id": "f6be947734f6",
+     "id": "465bfef8c8d9",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "BRICS Summit 2026 LIVE updates: PM Modi proposes 10-point proposal for global governance",
+     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
+     "summary": "The Congress urges the government to help restore diplomatic space and stature by rebuilding confidence among partners in the Global South",
+     "published": "2026-09-12T09:47:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "licence": "linkout",
+     "id": "0dd93ea2d5d0",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "NIA court issues non-bailable warrant against LeT founder Hafiz Saeed",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/nia-court-issues-non-bailable-warrant-against-let-founder-hafiz-saeed/article71459508.ece",
-     "summary": "According to the NIA, the amir/chief/founder of the proscribed terrorist organisation LeT was operating from Pakistan and providing weapons, money and directions to terrorists operating in Kashmir valle",
-     "published": "2026-09-12T09:01:11+00:00",
+     "title": "Paediatric heart surgeries costing up to ₹20 lakh each at private hospitals performed free at NIMS Hyderabad",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/paediatric-heart-surgeries-costing-up-to-20-lakh-each-at-private-hospitals-performed-free-at-nims-hyderabad/article71459503.ece",
+     "summary": "NIMS performed 19 complex heart surgeries in collaboration with Healing Little Hearts as part of fifth paediatric cardiac surgery camp",
+     "published": "2026-09-12T09:36:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8locz4/article71459576.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U3O6SJ0PN_R1576854631_3_59ff8610-e71e-455c-9afe-0899913c25b5.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/qc7ih3/article71459615.ece/alternates/LANDSCAPE_1200/_DSC9650.JPG",
      "licence": "linkout",
-     "id": "fbde2d1161fc",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Left, TMC govts in Bengal tried to destroy cultural traditions of Bengali Hindus: CM",
-     "url": "https://www.thehindu.com/news/national/west-bengal/left-tmc-govts-in-bengal-tried-to-destroy-cultural-traditions-of-bengali-hindus-cm/article71459504.ece",
-     "summary": "Suvendu Adhikari also emphasised the plight of incarcerated Bangladeshi Hindu monk Chinmoy Krishna Das Prabhu, after photographs of him grieving beside his mother’s mortal remains surfaced in the media.",
-     "published": "2026-09-12T08:58:48+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/260edv/article71459537.ece/alternates/LANDSCAPE_1200/20260901138L.jpg",
-     "licence": "linkout",
-     "id": "d35793736729",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "How Delhi is managing 35 special aircraft, air traffic during the BRICS Summit",
-     "url": "https://www.thehindu.com/news/cities/Delhi/how-delhi-is-managing-35-special-aircraft-during-brics-summit/article71459091.ece",
-     "summary": "VVIPs use separate arrival facilities, while commercial flights are being timed around special movements and multiple airports are being used to park visiting aircraft",
-     "published": "2026-09-12T08:56:00+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/26ssbt/article71459095.ece/alternates/LANDSCAPE_1200/20260910115L.jpg",
-     "licence": "linkout",
-     "id": "5ca26b4caa0a",
+     "id": "e05fdfb5dc38",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "35 special aircraft, air traffic during"
+      "₹20 lakh each at private hospitals",
+      "19 complex heart surgeries in collaboration"
      ]
-    },
-    {
-     "title": "Border tensions in Arunachal, economic issues set to dominate Modi-Xi bilateral",
-     "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-china-border-tensions-in-arunachal-economic-issues-set-to-dominate-modi-xi-bilateral/article71456070.ece",
-     "summary": "Indian and Chinese leaders to meet for third time in three years since standoff, but no reset in ties yet",
-     "published": "2026-09-12T08:55:19+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jdxu7x/article71456201.ece/alternates/LANDSCAPE_1200/India-China-traGCJGFRTK3.4.jpg.jpg",
-     "licence": "linkout",
-     "id": "c74b304445c6",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "School assembly news headlines today- September 12: Top national, sports and world news curated for you",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdS1KRDhEcWhaakJTMmJ4Y2h3dGw0cUJOQmFuV3pWXzZhMVhnRzMtWTlER2xjam5YNjcycWo2YzJSRHRvYkttaHVnbENsVDFHTGNNenBXRmVaYmZJdlE5WXM2aXEydWpUbzM2aEhwbGpqQWNucXFnQk1SVnU1bHAxaW1MNy1yVEJ5TGJnd1VEdU1iZXVPaHJzZkxKSlpRZkZhTFZXbU9jUXBOVVFKM1JyUnIwbnV1WFVvSWxYQkcwd3Y2T1hWbmlzc29tN3pZcUlmNE13V3JGb3pEYVJDSmJBb1FyYU04MFJL?oc=5",
-     "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you bestcolleges.indiatoday.in",
+     "summary": "School assembly news headlines today- September 12: Top national, sports and world news curated for you India Today",
      "published": "2026-09-11T13:31:27+00:00",
-     "source": "bestcolleges.indiatoday.in",
+     "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1385,6 +1387,19 @@
      "category_label": "General"
     },
     {
+     "title": "Informal workers may soon open pension accounts via mobile, make contributions using UPI: PFRDA plan explained",
+     "url": "https://www.livemint.com/money/personal-finance/informal-workers-may-soon-open-pension-accounts-via-mobile-make-contributions-using-upi-pfrda-plan-explained-11789203727197.html",
+     "summary": "The PFRDA plans to introduce mobile-based pension accounts for informal workers, enabling contributions via UPI through an easy digital process utilising the e-Shram database for account setup. Details of the proposal here.",
+     "published": "2026-09-12T09:55:10+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/Pension_payments_1789206884416_84dad35c-c644-4e82-bfc9-bbfc471f9b3c_1789206891417_38f16b62-5261-4677-afc9-116d3d536827_b298bd0c-9569-4846-aaba-37b3ca0459f7_3ed5f17e-c29d-4897-adb0-ff72a5efebf7.png",
+     "licence": "linkout",
+     "id": "6baede60d564",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Hawkins Cookers FD opens on September 16; Know interest rates, minimum deposit required and other details",
      "url": "https://www.livemint.com/money/personal-finance/hawkins-cookers-fd-opens-on-september-16-know-interest-rates-minimum-deposit-required-and-other-details-11789187679745.html",
      "summary": "Hawkins Cookers will launch a fixed deposit scheme on September 16, with interest rates up to 8% for a 36-month tenure. Check full details of the offering here.",
@@ -1398,22 +1413,6 @@
      "category_label": "General",
      "figures": [
       "16, with interest rates up"
-     ]
-    },
-    {
-     "title": "8th Pay Commission: Central government employees seek 5 MACP upgrades and promotional pay scales",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-central-government-employees-seek-5-macp-upgrades-and-promotional-pay-scales-11789182571300.html",
-     "summary": "8th Pay Commission: Central government employees’ unions seek five Modified Assured Career Progression (MACP) upgrades, shorter waiting periods and promotional pay scales. Here is what MSA, FNPO, NC-JCM and RSCWS have demanded and what the proposals could mean for employee salaries.",
-     "published": "2026-09-12T05:28:13+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/13ec9e88-735f-4f50-9e4f-81530c6b3fa2_1789183639262_5ce3743c-5c7b-4ba2-a682-a8edfcaca3a9_1789183644350_37535d7d-4fba-4357-a650-272fb5792df4_7893a8e2-09da-4cd5-97ba-50a4c534da2e_a9c8f135-3771-482a-bb32-c4c130f8563a.png",
-     "licence": "linkout",
-     "id": "5e15340a62e7",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "5 MACP upgrades and promotional pay"
      ]
     }
    ]
@@ -1490,19 +1489,6 @@
      "category_label": "General"
     },
     {
-     "title": "For Finavia’s HR professional, artificial intelligence is part of the job description",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaG0xSUxLMG9VLW8tblVxYk1kMnZvWlFVc1k5Qlhuc19rdVRfaU9lQWNVOUNBTzVJXy0zM0x6Tk1FcEd1WnBlRDlIaDM0OVVhUDZIQW9Ub0FUbXluZEhLOQ?oc=5",
-     "summary": "For Finavia’s HR professional, artificial intelligence is part of the job description WebWire",
-     "published": "2026-09-11T18:14:21+00:00",
-     "source": "WebWire",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4e86102eb467",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjNXalFPZlJkUWNCSnBPdVh3bmJ5aDN0WjdvQzRsMzh2bzBWYmgxM2VjblZGRkJzWXFFN19Hd2lyb0NrdU00RmJLQk5QSVVsZHVTRTF3ZU15czQyU2dfWFRUQlNEakhweGQ4a0xBZGJTV21MZ0NIa1pOX0FNOV9TWGp6N3VrSVFXNk1aaEZLOXN3V3NEbzh2cTQwX0c?oc=5",
      "summary": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award MIT News",
@@ -1524,6 +1510,74 @@
    "upsc": false,
    "items": [
     {
+     "title": "Rahul Dravid Places This International Captain Over Virat Kohli, Ricky Ponting, Imran Khan, Pat Cummins",
+     "url": "https://sports.ndtv.com/cricket/rahul-dravid-places-this-international-captain-over-virat-kohli-ricky-ponting-imran-khan-pat-cummins-12036920#publisher=newsstand",
+     "summary": "Former India head coach Rahul Dravid recently faced a tough challenge when he was asked to pick the greatest international captain in cricket history.",
+     "published": "2026-09-12T09:50:38+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/o1v5bglc_rahul-dravid-getty_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3f3a51252c71",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "England vs Pakistan Live Updates, 3rd Test Day 4: Pakistan Eye Quick Wickets To Avoid Clean Sweep vs England",
+     "url": "https://sports.ndtv.com/cricket/england-vs-pakistan-live-updates-3rd-test-day-4-12036950#publisher=newsstand",
+     "summary": "England vs Pakistan Live Updates, 3rd Test Day 4: England will be opening their second innings on Day 4 of the third Test against Pakistan at Edgbaston in Birmingham.",
+     "published": "2026-09-12T09:37:19+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/9ms1eiss_team-pakistan-getty_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "36e6ea6472a0",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "'I Got Him Out 16 Times': Dale Steyn Reveals The Batter He Enjoyed Facing Most",
+     "url": "https://sports.ndtv.com/cricket/i-got-him-out-16-times-dale-steyn-reveals-the-batter-he-enjoyed-facing-most-12036910#publisher=newsstand",
+     "summary": "A simple prompt in ChatGPT ranks Dale Steyn among the top five fast bowlers since 1990.",
+     "published": "2026-09-12T09:23:20+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-02/tfogl1ig_dale-steyn_625x300_08_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3f50a5e8da33",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "16 Times ': Dale Steyn Reveals"
+     ]
+    },
+    {
+     "title": "New Eras And Bragging Rights: Reasons Why You Can't Miss The Manchester Derby",
+     "url": "https://sports.ndtv.com/football/new-eras-and-bragging-rights-reasons-why-you-cant-miss-the-manchester-derby-12036734#publisher=newsstand",
+     "summary": "As Manchester United and Manchester City prepare to renew one of English football's fiercest rivalries this Sunday",
+     "published": "2026-09-12T08:45:41+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/ckjusp2c_erling-haaland_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "88f5c49cd938",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "Edinburgh Castle Rockers Extend Unbeaten Run With Win Over Dublin Guardians",
+     "url": "https://sports.ndtv.com/cricket/edinburgh-castle-rockers-extend-unbeaten-run-with-win-over-dublin-guardians-12036787#publisher=newsstand",
+     "summary": "Edinburgh Castle Rockers continued their unbeaten run in the ETPL with a hard-fought 12-run victory over Dublin Guardians",
+     "published": "2026-09-12T08:44:07+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/l6l239r_etpl_625x300_12_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d451c2d9e261",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "\"Try To Stay On Top Of Rallies\": Elena Rybakina Reveals Game-Plan To Stop Aryna Sabalenka In US Open Final",
      "url": "https://sports.ndtv.com/tennis/try-to-stay-on-top-of-rallies-elena-rybakina-reveals-game-plan-to-stop-aryna-sabalenka-in-us-open-final-12036670#publisher=newsstand",
      "summary": "The World No. 2 Elena Rybakina knows exactly what she needs to do if she is to deny World No. 1 Aryna Sabalenka a historic third consecutive US Open title",
@@ -1539,58 +1593,6 @@
       "2 Elena Rybakina knows exactly what",
       "1 Aryna Sabalenka a historic third"
      ]
-    },
-    {
-     "title": "Mohammed Siraj Breaks Silence On Test Struggles: \"Purely A Rhythm Bowler\"",
-     "url": "https://sports.ndtv.com/cricket/mohammed-siraj-breaks-silence-on-test-struggles-that-was-the-struggle-in-sri-lanka-12032994#publisher=newsstand",
-     "summary": "India's star pacer Mohammed Siraj has opened up on the dip in his performance in Test cricket of late.",
-     "published": "2026-09-12T08:06:01+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5tmooa98_mohammed-siraj_625x300_11_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "62c2bc0ac876",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "A Single Back Pass Led To One of Football's Most Embarrassing Goals. Watch",
-     "url": "https://sports.ndtv.com/football/a-single-back-pass-led-to-one-of-footballs-most-embarrassing-goals-watch-12036613#publisher=newsstand",
-     "summary": "Bizarre things happen in sports. But what happened in a football match in Brazil might well top the list",
-     "published": "2026-09-12T07:53:04+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/r91fnelk_brazil-football_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a8dfba55bb86",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Sanju Samson To Make Way For Vaibhav Sooryavanshi? Tough Call For India Ahead Of 1st T20I vs Afghanistan",
-     "url": "https://sports.ndtv.com/cricket/sanju-samson-to-make-way-for-vaibhav-sooryavanshi-tough-call-for-india-ahead-of-1st-t20i-vs-afghanistan-12036380#publisher=newsstand",
-     "summary": "While Vaibhav Sooryavanshi was drafted in the playing eleven in England at the expense of Sanju Samson, it is only fair to mention that by the last match of the series, the 15-year-old had to make way for his senior partner's return.",
-     "published": "2026-09-12T06:58:10+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/el8gfma4_vaibhav-sooryavanshi-and-sanju-samson_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "09be9a6651d2",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "India Eye Record-Extending Eighth Title Win In Women's T20 Asia Cup Final Against Sri Lanka",
-     "url": "https://sports.ndtv.com/cricket/india-eye-record-extending-eighth-title-win-in-women-s-t20-asia-cup-final-against-gritty-sri-lanka-12036310#publisher=newsstand",
-     "summary": "Seven-time champions India will look to Shafali Verma and Deepti Sharma to deliver once again when they take on a resilient Sri Lanka in the Women's T20 Asia Cup final in Dubai on Sunday.",
-     "published": "2026-09-12T06:40:20+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/uceetelk_india-women_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "37e736acd2b7",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
