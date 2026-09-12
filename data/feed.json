@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T21:01:42.924258+00:00",
+ "generated_at": "2026-09-12T21:33:13.243175+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -76,11 +76,10 @@
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 77092.0,
-   "change": -3258.0,
-   "changePct": -4.05,
-   "decimals": 0,
-   "stale": true
+   "value": 77211.0,
+   "change": -1227.0,
+   "changePct": -1.56,
+   "decimals": 0
   }
  ],
  "topics": [
@@ -89,11 +88,11 @@
   "Jazeera English",
   "News",
   "Bangladesh World",
-  "Chhattisgarh Minister",
-  "Israel Lebanon",
-  "Gaza NAZA",
-  "Death Philippines",
-  "When Nirmal"
+  "Congress NSUI",
+  "Millet BRICS",
+  "Ebola",
+  "Second Reform",
+  "Death Philippines"
  ],
  "sections": [
   {
@@ -159,18 +158,32 @@
      "from_section": "Global News"
     },
     {
-     "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
-     "summary": "The Iranian ally seizes Yemen's Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
-     "published": "2026-09-12T19:17:37+00:00",
-     "source": "Al Jazeera",
+     "title": "Congress claims NSUI's victory in Garhwal university student union polls",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece",
+     "summary": "K.C. Venugopal claimed that the BJP will face a similar fate in the upcoming Delhi University Students' Union elections, where the NSUI panel will emerge victorious with massive margins",
+     "published": "2026-09-12T21:28:19+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789230665.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://th-i.thgim.com/public/incoming/8vfexz/article71461376.ece/alternates/LANDSCAPE_1200/nsui.jpg",
      "licence": "linkout",
-     "id": "dd0929b84402",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
+     "id": "373b434c29c6",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "'Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu",
+     "url": "https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece",
+     "summary": "The dinner was hosted by Prime Minister Narendra Modi at the Bharat Mandapam on September 12, 2026",
+     "published": "2026-09-12T20:59:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hz6iym/article71461314.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000577B.jpg",
+     "licence": "linkout",
+     "id": "3c27e7543a96",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
     },
     {
      "title": "Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress",
@@ -187,32 +200,22 @@
      "from_section": "National News"
     },
     {
-     "title": "US court blocks Trump administration plan to cut disaster agency workforce",
-     "url": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
-     "summary": "US President Donald Trump has said he would like to abolish the agency.",
-     "published": "2026-09-12T19:49:29+00:00",
+     "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
+     "url": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
+     "summary": "The two donations increase the total sum of money pledged to Reform since Friday to $97m.",
+     "published": "2026-09-12T20:43:57+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a6263131b4c1-1784832787.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa5ae12056c-1789242898.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "d0f6ad2b04a6",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "'Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu",
-     "url": "https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece",
-     "summary": "The dinner was hosted by Prime Minister Narendra Modi at the Bharat Mandapam on Saturday",
-     "published": "2026-09-12T19:41:43+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hz6iym/article71461314.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000577B.jpg",
-     "licence": "linkout",
-     "id": "3c27e7543a96",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "id": "108719b61c64",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News",
+     "figures": [
+      "$49 m to far-right Reform",
+      "$97 m"
+     ]
     },
     {
      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
@@ -260,20 +263,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Namma Chennai app opens volunteer registration ahead of Northeast monsoon",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/namma-chennai-app-opens-volunteer-registration-ahead-of-northeast-monsoon/article71459922.ece",
-     "summary": "New users have to create an account using their name, mobile number, e-mail address, address and PIN code and log in using an OTP",
-     "published": "2026-09-12T19:23:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d3c0e8add651",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National Hotlines"
-    },
-    {
      "title": "Fire at nursing home in Chile kills 16 residents",
      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
@@ -291,24 +280,10 @@
      ]
     },
     {
-     "title": "Symposium on Artificial Intelligence held in Vellore",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5VWGZ6RGdUZlI2amFaM2Q4bVdSMDdNeVduZ3FmUThxdFdBN0dkS3JXa3EtNXIyaGc4Sl9SUWZxNWFQRTltcW1QOFhmSkE1eGNZNFVlYlNtYXJQOTNsUUNjZTFvVG1SRUtRblZzTGk1allfM3B5Z3I1dVBCeGpMVUlTM3JuUE85NTR2aHA2bEZSTWp3em43ekF0Y2I2Unhnalg4bFVGS3hEMHppTGJqNldya0NJV0lPS3FmMHVIMNIBxgFBVV95cUxOY1VtTnBMaXhBRFJBYWlUNFBuX0ZHUFpfQ2xxR3FwNzNtRVdTSFlLUEY4RUVHd0FZc3ZkTFhaWEVGbG1EZVkyUnUwUXJ0WEpCMmNIVVpMX3J1aXJISWc3N0N1YWYtYmxuWGdOS0NGUWtvTTNwYXZaeFZfSHN6Y28xbkhKd2JUTFE1Y3NpMGV2RVFuTkdnMWdwUndtaWRHb09vSkN0YVBKSzY4UVZ2VkU3cW1HU0tGR2JqQnQ5a1oxbjc3NXhzLUE?oc=5",
-     "summary": "Symposium on Artificial Intelligence held in Vellore The Hindu",
-     "published": "2026-09-12T17:44:48+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e9052e391e1f",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-     "published": "2026-09-12T17:42:38+00:00",
+     "published": "2026-09-12T21:16:47+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -317,6 +292,20 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Global News"
+    },
+    {
+     "title": "Symposium on Artificial Intelligence held in Vellore",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5VWGZ6RGdUZlI2amFaM2Q4bVdSMDdNeVduZ3FmUThxdFdBN0dkS3JXa3EtNXIyaGc4Sl9SUWZxNWFQRTltcW1QOFhmSkE1eGNZNFVlYlNtYXJQOTNsUUNjZTFvVG1SRUtRblZzTGk1allfM3B5Z3I1dVBCeGpMVUlTM3JuUE85NTR2aHA2bEZSTWp3em43ekF0Y2I2Unhnalg4bFVGS3hEMHppTGJqNldya0NJV0lPS3FmMHVIMNIBxgFBVV95cUxOY1VtTnBMaXhBRFJBYWlUNFBuX0ZHUFpfQ2xxR3FwNzNtRVdTSFlLUEY4RUVHd0FZc3ZkTFhaWEVGbG1EZVkyUnUwUXJ0WEpCMmNIVVpMX3J1aXJISWc3N0N1YWYtYmxuWGdOS0NGUWtvTTNwYXZaeFZfSHN6Y28xbkhKd2JUTFE1Y3NpMGV2RVFuTkdnMWdwUndtaWRHb09vSkN0YVBKSzY4UVZ2VkU3cW1HU0tGR2JqQnQ5a1oxbjc3NXhzLUE?oc=5",
+     "summary": "Symposium on Artificial Intelligence held in Vellore thehindu.com",
+     "published": "2026-09-12T17:44:48+00:00",
+     "source": "thehindu.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "e9052e391e1f",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
     },
     {
      "title": "Teachers’ Role in the Age of Artificial Intelligence",
@@ -391,7 +380,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-12T21:01:29.906955+00:00",
+     "published": "2026-09-12T21:33:01.342299+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -402,7 +391,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-12T21:01:29.906969+00:00",
+     "published": "2026-09-12T21:33:01.342308+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -413,7 +402,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-12T21:01:29.906972+00:00",
+     "published": "2026-09-12T21:33:01.342314+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -424,7 +413,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-12T21:01:29.906974+00:00",
+     "published": "2026-09-12T21:33:01.342317+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -435,7 +424,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-12T21:01:29.906976+00:00",
+     "published": "2026-09-12T21:33:01.342320+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -446,7 +435,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-12T21:01:29.906979+00:00",
+     "published": "2026-09-12T21:33:01.342322+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -532,6 +521,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Congress claims NSUI's victory in Garhwal university student union polls",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece",
+     "summary": "K.C. Venugopal claimed that the BJP will face a similar fate in the upcoming Delhi University Students' Union elections, where the NSUI panel will emerge victorious with massive margins",
+     "published": "2026-09-12T21:28:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/8vfexz/article71461376.ece/alternates/LANDSCAPE_1200/nsui.jpg",
+     "licence": "linkout",
+     "id": "373b434c29c6",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "'Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu",
+     "url": "https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece",
+     "summary": "The dinner was hosted by Prime Minister Narendra Modi at the Bharat Mandapam on September 12, 2026",
+     "published": "2026-09-12T20:59:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hz6iym/article71461314.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000577B.jpg",
+     "licence": "linkout",
+     "id": "3c27e7543a96",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress",
      "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-bjp-ministers-brother-guru-dhaldas-saheb-joins-congress/article71460770.ece",
      "summary": "On his reasons to switch over, Guru Dhaldas Saheb said the BJP was not acting according to the principles of Guru Baba Ghasidas; expressed interest in contesting the 2028 Assembly polls",
@@ -543,19 +558,6 @@
      "id": "e94a85175ac3",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Jamia hostel protest over mess food escalates; varsity denies assault charges",
-     "url": "https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece",
-     "summary": "University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team",
-     "published": "2026-09-12T20:18:13+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2trokk/article71459603.ece/alternates/LANDSCAPE_1200/PTI02_19_2025_000184B.jpg",
-     "licence": "linkout",
-     "id": "4bdd510ccb3b",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
@@ -572,19 +574,6 @@
      "figures": [
       "30 children , allegedly due"
      ]
-    },
-    {
-     "title": "Kerala Assistant Public Prosecutors Association gets new office-bearers",
-     "url": "https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece",
-     "summary": "",
-     "published": "2026-09-12T19:34:54+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Kochi/6zssio/article71459791.ece/alternates/LANDSCAPE_1200/ZINA.jpeg",
-     "licence": "linkout",
-     "id": "226a403cb509",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Opinion: Opinion | Building BRICS In New Delhi",
@@ -634,6 +623,60 @@
    "upsc": false,
    "items": [
     {
+     "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
+     "summary": "Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.",
+     "published": "2026-09-12T20:44:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789245727.jpg?resize=1728%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "af85a4bd0545",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
+     "url": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
+     "summary": "The two donations increase the total sum of money pledged to Reform since Friday to $97m.",
+     "published": "2026-09-12T20:43:57+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa5ae12056c-1789242898.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "108719b61c64",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$49 m to far-right Reform",
+      "$97 m"
+     ]
+    },
+    {
+     "title": "Fire at nursing home in Chile kills 16 elderly residents",
+     "url": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
+     "summary": "The facility had faced fines and enforcement proceedings over regulatory violations since 2019.",
+     "published": "2026-09-12T20:42:23+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260912__C84X3L4__v2__HighRes__ChileAccidentFire-1789242416.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "bfd24ce428a1",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Fire at nursing home in Chile kills 16 residents",
+       "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+       "summary": "Ten people were evacuated from the home in Araucanía region in central Chile."
+      }
+     ],
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "16 elderly residents"
+     ]
+    },
+    {
      "title": "Israel bombs southern Lebanon as talks postponed",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
      "summary": "The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.",
@@ -643,45 +686,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789242957.jpg?resize=1916%2C1080&quality=80",
      "licence": "linkout",
      "id": "45e9fe78ea66",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
-     "summary": "‘NAZA’, a documentary about Israel’s genocide in Gaza, has won the Special Jury Prize at the Venice Film Festival.",
-     "published": "2026-09-12T19:50:08+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789242495.jpg?resize=1827%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "e821e8a0c7d2",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "US court blocks Trump administration plan to cut disaster agency workforce",
-     "url": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
-     "summary": "US President Donald Trump has said he would like to abolish the agency.",
-     "published": "2026-09-12T19:49:29+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a6263131b4c1-1784832787.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "d0f6ad2b04a6",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-     "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
-     "summary": "Iran tells Al Jazeera that Monday's meeting is a sign of 'good intentions' towards neighbouring countries.",
-     "published": "2026-09-12T19:34:04+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2226239770-1788782169.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "ece11f157c56",
      "category": "general",
      "category_label": "General"
     },
@@ -760,6 +764,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Congress claims NSUI's victory in Garhwal university student union polls",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece",
+     "summary": "K.C. Venugopal claimed that the BJP will face a similar fate in the upcoming Delhi University Students' Union elections, where the NSUI panel will emerge victorious with massive margins",
+     "published": "2026-09-12T21:28:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/8vfexz/article71461376.ece/alternates/LANDSCAPE_1200/nsui.jpg",
+     "licence": "linkout",
+     "id": "373b434c29c6",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "'Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu",
+     "url": "https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece",
+     "summary": "The dinner was hosted by Prime Minister Narendra Modi at the Bharat Mandapam on September 12, 2026",
+     "published": "2026-09-12T20:59:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hz6iym/article71461314.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000577B.jpg",
+     "licence": "linkout",
+     "id": "3c27e7543a96",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress",
      "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-bjp-ministers-brother-guru-dhaldas-saheb-joins-congress/article71460770.ece",
      "summary": "On his reasons to switch over, Guru Dhaldas Saheb said the BJP was not acting according to the principles of Guru Baba Ghasidas; expressed interest in contesting the 2028 Assembly polls",
@@ -773,33 +803,17 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Jamia hostel protest over mess food escalates; varsity denies assault charges",
-     "url": "https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece",
-     "summary": "University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team",
-     "published": "2026-09-12T20:18:13+00:00",
+     "title": "Kerala Assistant Public Prosecutors Association gets new office-bearers",
+     "url": "https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece",
+     "summary": "",
+     "published": "2026-09-12T19:34:54+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2trokk/article71459603.ece/alternates/LANDSCAPE_1200/PTI02_19_2025_000184B.jpg",
+     "image": "https://th-i.thgim.com/public/news/cities/Kochi/6zssio/article71459791.ece/alternates/LANDSCAPE_1200/ZINA.jpeg",
      "licence": "linkout",
-     "id": "4bdd510ccb3b",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/balaghat-child-deaths-cjp-convernor-dipke-visits-tribal-villages-demands-accountability/article71459426.ece",
-     "summary": "Mr. Dipke’s visit comes days after the Madhya Pradesh High Court issued notices to the State government over the deaths of more than 30 children, allegedly due to infectious diseases",
-     "published": "2026-09-12T19:58:00+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qpl92w/article71459438.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000077B.jpg",
-     "licence": "linkout",
-     "id": "c83cefd936c5",
+     "id": "226a403cb509",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "30 children , allegedly due"
-     ]
+     "category_label": "General"
     },
     {
      "title": "Large stock of counterfeit medicines seized from private facility in Bengaluru",
@@ -1192,6 +1206,77 @@
      "id": "23d5dd42aa06",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Nagaland govt examining delays in pension, other retirement benefits — Here's what could change",
+     "url": "https://www.livemint.com/money/personal-finance/nagaland-govt-examining-delays-pension-other-retirement-benefits-what-could-change-digitising-process-gfp-nps-documents-11789233201371.html",
+     "summary": "The Nagaland government has formed a committee to address pension delays and digitise the process, Chief Minister Neiphiu Rio informed the state Assembly. He noted issues stem from procedural non-compliance and inadequate guidance for retirees.",
+     "published": "2026-09-12T18:24:39+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/Gemini_Generated_Image_Banks_1787917766102_1787917_1789237216501_0db67a18-f4ce-43be-b451-4bfb9330be37_1789237216646_e2df37c1-255e-4fe5-b163-6596b5b74d67_ff80bb34-0ed5-4796-8702-43d1176b9bfd_6847a9ab-7d6a-42a2-a388-1729e824f14c.png",
+     "licence": "linkout",
+     "id": "52b0600df50e",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "PFRDA looking to allow workers registered on e-Shram portal to open pension accounts via mobile phone, says Chairman",
+     "url": "https://www.livemint.com/money/personal-finance/pfrda-look-allow-workers-informal-sector-registered-e-shram-portal-open-pension-accounts-mobile-phone-chairman-s-ramann-11789233127100.html",
+     "summary": "The PFRDA is working on tech to allow workers from the informal sector, registered on its e-Shram portal, to open pension accounts via mobile phone, according to Chairman S Ramann.&nbsp;",
+     "published": "2026-09-12T18:01:08+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/8th_pay_commission_news_1788401458454_ea405b11-bfb_1789235607278_aa71d198-0c55-4026-903d-f1cb129b72f9_1789235607425_1ca67b45-05df-4aa5-8b05-d972404c20ef_586e47cf-bdf2-4c98-b165-130bc69affeb_66a03820-8aae-4057-b864-d69ff22c459d.jpg",
+     "licence": "linkout",
+     "id": "e9ba8e08c1f7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Small-cap funds can fall harder than large-caps. How should investors size their bets?",
+     "url": "https://www.livemint.com/money/personal-finance/smallcap-funds-can-fall-harder-than-large-caps-how-should-investors-size-their-bets-11789209897549.html",
+     "summary": "Small-cap funds offer high growth potential but come with significant volatility.&nbsp;",
+     "published": "2026-09-12T17:29:45+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/invest__1708584735810_1789234011627_2e10ec6a-be70-4141-b05a-e90ada56fca9_4504b2b6-dd86-43fc-b7f1-347fcfa62fff_30513d30-5a7b-4831-b582-5bc7a5f09fe7.jpg",
+     "licence": "linkout",
+     "id": "5a6e196b6839",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Atal Pension Yojana: Premature withdrawal rules and how to claim maturity payout amount, explained",
+     "url": "https://www.livemint.com/money/personal-finance/atal-pension-yojana-apy-premature-withdrawal-rules-steps-how-claim-maturity-payout-amount-explained-how-to-apply-guide-11789229504909.html",
+     "summary": "Administered by the Pension Fund Regulatory and Development Authority, the Atal Pension Yojana (APY) aims to create a universal social security system in India. Today, we check the rules for premature withdrawal and how to claim maturity payouts.",
+     "published": "2026-09-12T17:10:03+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/APY_1789232813732_18100854-fc6f-4cf4-a9f1-3012c26092ed_1789232827223_69d07c45-efb7-48d7-8729-2639cc9e08f9_14bc193c-61aa-497f-9df7-fb1373e092cd_8b913b60-e0c8-4f00-93de-ae5a3ac9cc93.png",
+     "licence": "linkout",
+     "id": "cddaf3b02bfb",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "PPF: Investing ₹1.5 lakh/year will accumulate this much corpus till your child turns 18 — Check calculations",
+     "url": "https://www.livemint.com/money/personal-finance/ppf-invest-rs-1-5-lakh-year-accumulate-55-lakh-corpus-till-your-child-turns-18-check-calculations-3-crore-retirement-age-11789224208907.html",
+     "summary": "Today, we take a look at how much annual contributions of ₹50,000, ₹1 lakh and ₹1.5 lakh, made either as lumpsum or monthly credits, can generate for your child over 18 years. We also check how much they can accumulate by continuing the account till retirement…",
+     "published": "2026-09-12T16:12:14+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/PPF_contributions_1789229396170_cd8aa039-eca2-4a92-be7c-dd3ed21db315_1789229420401_8d9d956f-2721-42fa-9ff7-47e7bfe8ff2f_350642a6-b908-4f40-b954-8a6769949b62_c8486eda-3b7d-4887-bba5-35506118674e.png",
+     "licence": "linkout",
+     "id": "7f36ffb392d8",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "₹1.5 lakh /year will accumulate this",
+      "₹50,000,  ₹1 lakh and ₹1",
+      "₹1.5 lakh , made either",
+      "18 years"
+     ]
     }
    ]
   },
@@ -1205,7 +1290,7 @@
      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-     "published": "2026-09-12T17:42:38+00:00",
+     "published": "2026-09-12T21:16:47+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -1468,6 +1553,14 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg",
      "licence": "linkout",
      "id": "5b827161ba95",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "Fire at nursing home in Chile kills 16 elderly residents",
+       "url": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
+       "summary": "The facility had faced fines and enforcement proceedings over regulatory violations since 2019."
+      }
+     ],
      "category": "weather",
      "category_label": "Weather & disaster",
      "figures": [
