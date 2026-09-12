@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T22:32:39.393288+00:00",
+ "generated_at": "2026-09-12T23:01:40.857639+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Police Bihar",
   "Jamia",
-  "Former India",
   "Jazeera English",
   "News",
   "Bangladesh World",
   "Govt Rajasthan",
-  "Power Punjab",
   "Spain Women",
   "First Black",
-  "Death Philippines"
+  "Death Philippines",
+  "When Nirmal"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals",
+     "url": "https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece",
+     "summary": "Villagers claimed that the liquor mafia was behind the shooting; the SP office claimed that after an earlier firing incident on Baidyanath Mahto, one accused had surrendered before the Court, and proceedings were under way to obtain warrants against the other accused",
+     "published": "2026-09-12T22:35:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xh0vyl/article71461500.ece/alternates/LANDSCAPE_1200/20260912423L.jpg",
+     "licence": "linkout",
+     "id": "63a9c2e5dc12",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Jamia hostel protest over mess food escalates; varsity denies assault charges",
      "url": "https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece",
@@ -129,20 +143,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
-    },
-    {
-     "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-     "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
-     "published": "2026-09-12T08:04:16+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bf/live/4e811660-ae77-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "de79ba485746",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Culture"
     },
     {
      "title": "Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’",
@@ -332,14 +332,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260912__C8649CX__v1__HighRes__BasketWc2026WomenEspUsa-1789249892.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "405a2d8aed43",
-     "also": [
-      {
-       "source": "NDTV Sports",
-       "title": "Aryna Sabalenka vs Elena Rybakina LIVE, US Open Women's Singles Final: World No. 1 Sabalenka Faces World No. 2 Rybakina In Battle For History",
-       "url": "https://sports.ndtv.com/tennis/aryna-sabalenka-vs-elena-rybakina-us-open-2026-live-score-womens-singles-final-tennis-live-updates-live-streaming-12039022#publisher=newsstand",
-       "summary": "Aryna Sabalenka vs Elena Rybakina, US Open 2026 Women's Singles Final LIVE: World No. 1 Sabalenka faces off against World No. 2 Rybakina in the battle for the final Grand Slam crown of the year."
-      }
-     ],
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Global News",
@@ -360,6 +352,20 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "Camera Captures Charlie Woods Throwing A Tantrum After Missing Short Putt",
+     "url": "https://sports.ndtv.com/us-golf/camera-captures-charlie-woods-throwing-a-tantrum-after-missing-short-putt-12039067#publisher=newsstand",
+     "summary": "Charlie Woods’ frustrated reaction to a missed putt has drawn criticism, but his recent results show a young golfer making steady progress while learning to handle golf’s pressure.",
+     "published": "2026-09-12T20:34:47+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-06/7p4ghuus_charlie-woods-_625x300_13_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "4744bcaf9dd6",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Sports"
     },
     {
      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
@@ -406,7 +412,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-12T22:32:26.235060+00:00",
+     "published": "2026-09-12T23:01:27.667364+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -417,7 +423,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-12T22:32:26.235077+00:00",
+     "published": "2026-09-12T23:01:27.667375+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -428,7 +434,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-12T22:32:26.235084+00:00",
+     "published": "2026-09-12T23:01:27.667379+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -439,7 +445,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-12T22:32:26.235088+00:00",
+     "published": "2026-09-12T23:01:27.667382+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -450,7 +456,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-12T22:32:26.235093+00:00",
+     "published": "2026-09-12T23:01:27.667385+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -461,7 +467,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-12T22:32:26.235098+00:00",
+     "published": "2026-09-12T23:01:27.667388+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -484,38 +490,22 @@
      ]
     },
     {
-     "title": "Aryna Sabalenka vs Elena Rybakina LIVE, US Open Women's Singles Final: World No. 1 Sabalenka Faces World No. 2 Rybakina In Battle For History",
+     "title": "Aryna Sabalenka vs Elena Rybakina, US Open Women's Singles Final LIVE: Rybakina Breaks Sabalenka Again In Deciding Set, On Verge Of Glory",
      "url": "https://sports.ndtv.com/tennis/aryna-sabalenka-vs-elena-rybakina-us-open-2026-live-score-womens-singles-final-tennis-live-updates-live-streaming-12039022#publisher=newsstand",
-     "summary": "Aryna Sabalenka vs Elena Rybakina, US Open 2026 Women's Singles Final LIVE: World No. 1 Sabalenka faces off against World No. 2 Rybakina in the battle for the final Grand Slam crown of the year.",
-     "published": "2026-09-12T20:01:38+00:00",
+     "summary": "Aryna Sabalenka vs Elena Rybakina, US Open 2026 Women's Singles Final LIVE: World No. 2 Elena Rybakina has taken a decisive lead in the final set against World No. 1 Aryna Sabalenka.",
+     "published": "2026-09-12T22:32:33+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/3v7i30jc_aryna-sabalenka-elena-rybakina_625x300_13_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/mo2sp6bs_elena-rybakina_625x300_13_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "34c3d119d0b2",
      "kind": "liveblog",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "1 Sabalenka Faces World No",
-      "2 Rybakina In Battle For History",
-      "1 Sabalenka faces off against World",
-      "2 Rybakina in the battle"
+      "2 Elena Rybakina has taken",
+      "1 Aryna Sabalenka"
      ]
-    },
-    {
-     "title": "Aryna Sabalenka vs Elena Rybakina LIVE Streaming, US Open 2026 Women's Singles Final LIVE Telecast: When And Where To Watch",
-     "url": "https://sports.ndtv.com/tennis/aryna-sabalenka-vs-elena-rybakina-live-streaming-us-open-2026-womens-singles-final-live-telecast-when-and-where-to-watch-12038909#publisher=newsstand",
-     "summary": "Aryna Sabalenka vs Elena Rybakina, US Open women's singles final live streaming and live telecast details here -",
-     "published": "2026-09-12T18:39:00+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/h7ddktms_aryna-sabalenka-elena-rybakina-afp_625x300_13_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "71767c0d5463",
-     "kind": "liveblog",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -547,6 +537,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals",
+     "url": "https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece",
+     "summary": "Villagers claimed that the liquor mafia was behind the shooting; the SP office claimed that after an earlier firing incident on Baidyanath Mahto, one accused had surrendered before the Court, and proceedings were under way to obtain warrants against the other accused",
+     "published": "2026-09-12T22:35:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xh0vyl/article71461500.ece/alternates/LANDSCAPE_1200/20260912423L.jpg",
+     "licence": "linkout",
+     "id": "63a9c2e5dc12",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court",
      "url": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece",
      "summary": "The Court also upheld the finding of the Central Administrative Tribunal that contesting the election as a political party’s candidate violated the requirement of maintaining political neutrality",
@@ -569,32 +572,6 @@
      "image": "https://th-i.thgim.com/public/incoming/ivochx/article71461497.ece/alternates/LANDSCAPE_1200/KSEB_04.jpg",
      "licence": "linkout",
      "id": "e54c3547c00f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece",
-     "summary": "The former J&K chief said the suffering of civilians in Pahalgam, Gaza or Iran cannot be viewed through different moral or political lenses; “civilian blood has no nationality, and international justice cannot have double standards,” she added",
-     "published": "2026-09-12T22:05:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/u1vow9/article71461491.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000228B.jpg",
-     "licence": "linkout",
-     "id": "fc2d1bb69a30",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "'Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu",
-     "url": "https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece",
-     "summary": "The dinner was hosted by Prime Minister Narendra Modi at the Bharat Mandapam on September 12, 2026",
-     "published": "2026-09-12T20:59:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hz6iym/article71461314.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000577B.jpg",
-     "licence": "linkout",
-     "id": "3c27e7543a96",
      "category": "politics",
      "category_label": "Political controversy"
     },
@@ -655,14 +632,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260912__C8649CX__v1__HighRes__BasketWc2026WomenEspUsa-1789249892.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "405a2d8aed43",
-     "also": [
-      {
-       "source": "NDTV Sports",
-       "title": "Aryna Sabalenka vs Elena Rybakina LIVE, US Open Women's Singles Final: World No. 1 Sabalenka Faces World No. 2 Rybakina In Battle For History",
-       "url": "https://sports.ndtv.com/tennis/aryna-sabalenka-vs-elena-rybakina-us-open-2026-live-score-womens-singles-final-tennis-live-updates-live-streaming-12039022#publisher=newsstand",
-       "summary": "Aryna Sabalenka vs Elena Rybakina, US Open 2026 Women's Singles Final LIVE: World No. 1 Sabalenka faces off against World No. 2 Rybakina in the battle for the final Grand Slam crown of the year."
-      }
-     ],
      "category": "sports",
      "category_label": "Sports",
      "figures": [
@@ -794,6 +763,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals",
+     "url": "https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece",
+     "summary": "Villagers claimed that the liquor mafia was behind the shooting; the SP office claimed that after an earlier firing incident on Baidyanath Mahto, one accused had surrendered before the Court, and proceedings were under way to obtain warrants against the other accused",
+     "published": "2026-09-12T22:35:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xh0vyl/article71461500.ece/alternates/LANDSCAPE_1200/20260912423L.jpg",
+     "licence": "linkout",
+     "id": "63a9c2e5dc12",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court",
      "url": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece",
      "summary": "The Court also upheld the finding of the Central Administrative Tribunal that contesting the election as a political party’s candidate violated the requirement of maintaining political neutrality",
@@ -820,17 +802,17 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece",
-     "summary": "The former J&K chief said the suffering of civilians in Pahalgam, Gaza or Iran cannot be viewed through different moral or political lenses; “civilian blood has no nationality, and international justice cannot have double standards,” she added",
-     "published": "2026-09-12T22:05:17+00:00",
+     "title": "'Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu",
+     "url": "https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece",
+     "summary": "The dinner was hosted by Prime Minister Narendra Modi at the Bharat Mandapam on September 12, 2026",
+     "published": "2026-09-12T20:59:07+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/u1vow9/article71461491.ece/alternates/LANDSCAPE_1200/PTI08_20_2026_000228B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/hz6iym/article71461314.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000577B.jpg",
      "licence": "linkout",
-     "id": "fc2d1bb69a30",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "3c27e7543a96",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress",
@@ -844,22 +826,6 @@
      "id": "e94a85175ac3",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/balaghat-child-deaths-cjp-convernor-dipke-visits-tribal-villages-demands-accountability/article71459426.ece",
-     "summary": "Mr. Dipke’s visit comes days after the Madhya Pradesh High Court issued notices to the State government over the deaths of more than 30 children, allegedly due to infectious diseases",
-     "published": "2026-09-12T19:58:00+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qpl92w/article71459438.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000077B.jpg",
-     "licence": "linkout",
-     "id": "c83cefd936c5",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "30 children , allegedly due"
-     ]
     },
     {
      "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
@@ -1385,36 +1351,47 @@
    "upsc": false,
    "items": [
     {
-     "title": "Aryna Sabalenka vs Elena Rybakina LIVE, US Open Women's Singles Final: World No. 1 Sabalenka Faces World No. 2 Rybakina In Battle For History",
+     "title": "Aryna Sabalenka vs Elena Rybakina, US Open Women's Singles Final LIVE: Rybakina Breaks Sabalenka Again In Deciding Set, On Verge Of Glory",
      "url": "https://sports.ndtv.com/tennis/aryna-sabalenka-vs-elena-rybakina-us-open-2026-live-score-womens-singles-final-tennis-live-updates-live-streaming-12039022#publisher=newsstand",
-     "summary": "Aryna Sabalenka vs Elena Rybakina, US Open 2026 Women's Singles Final LIVE: World No. 1 Sabalenka faces off against World No. 2 Rybakina in the battle for the final Grand Slam crown of the year.",
-     "published": "2026-09-12T20:01:38+00:00",
+     "summary": "Aryna Sabalenka vs Elena Rybakina, US Open 2026 Women's Singles Final LIVE: World No. 2 Elena Rybakina has taken a decisive lead in the final set against World No. 1 Aryna Sabalenka.",
+     "published": "2026-09-12T22:32:33+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/3v7i30jc_aryna-sabalenka-elena-rybakina_625x300_13_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/mo2sp6bs_elena-rybakina_625x300_13_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "34c3d119d0b2",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "1 Sabalenka Faces World No",
-      "2 Rybakina In Battle For History",
-      "1 Sabalenka faces off against World",
-      "2 Rybakina in the battle"
+      "2 Elena Rybakina has taken",
+      "1 Aryna Sabalenka"
      ]
     },
     {
-     "title": "\"It’s Very Hard\": Charley Hull’s Candid Admission Explains Her Solheim Cup Struggle",
-     "url": "https://sports.ndtv.com/us-golf/it-s-very-hard-charley-hull-s-candid-admission-explains-her-solheim-cup-struggle-12039030#publisher=newsstand",
-     "summary": "Charley Hull’s honest admission that she is “not a team player” has resurfaced during a difficult Solheim Cup, where the European star has earned only half a point so far.",
-     "published": "2026-09-12T19:49:26+00:00",
+     "title": "Camera Captures Charlie Woods Throwing A Tantrum After Missing Short Putt",
+     "url": "https://sports.ndtv.com/us-golf/camera-captures-charlie-woods-throwing-a-tantrum-after-missing-short-putt-12039067#publisher=newsstand",
+     "summary": "Charlie Woods’ frustrated reaction to a missed putt has drawn criticism, but his recent results show a young golfer making steady progress while learning to handle golf’s pressure.",
+     "published": "2026-09-12T20:34:47+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/c29lmq68_charley-hull_625x300_13_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-06/7p4ghuus_charlie-woods-_625x300_13_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6c46b1d067d8",
-     "category": "human",
-     "category_label": "Human interest"
+     "id": "4744bcaf9dd6",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "Why Caitlin Clark Is A Dangerous Player? Her Passing May Be Her Biggest Weapon",
+     "url": "https://sports.ndtv.com/us-nba/why-caitlin-clark-is-a-dangerous-player-her-passing-may-be-her-biggest-weapon-12039063#publisher=newsstand",
+     "summary": "Caitlin Clark is dangerous because defenses cannot take away everything. Her deep shooting, passing, pace and movement force opponents to make difficult choices, often opening chances for teammates.",
+     "published": "2026-09-12T20:34:15+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-07/j51ae1rg_caitlin-clark-afp_625x300_17_July_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f938cf3fd74d",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Are Auston Matthews And Vanessa Piunno Really Engaged, Or Is It Just A Rumor?",
@@ -1439,19 +1416,6 @@
      "image": "https://c.ndtvimg.com/2026-09/n67tmg8_adam-sykora_625x300_13_September_26.jpg?im=FaceCrop,algorithm=cascade,width=1280,height=720",
      "licence": "linkout",
      "id": "da87bd2bb58a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Linda Cohn Sends Kara Lawson a Caitlin Clark Warning Ahead of Spain Semifinal",
-     "url": "https://sports.ndtv.com/us-nba/she-better-linda-cohn-sends-kara-lawson-direct-caitlin-clark-message-ahead-of-spain-semifinal-12038959#publisher=newsstand",
-     "summary": "Linda Cohn wants Kara Lawson to trust Caitlin Clark late against Spain, pointing to the Fever star’s seven assists per game and strong impact off Team USA’s bench.",
-     "published": "2026-09-12T19:01:25+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-09/p3e5knn4_caitlin-clark_625x300_05_September_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "f7117a03bdff",
      "category": "general",
      "category_label": "General"
     }
