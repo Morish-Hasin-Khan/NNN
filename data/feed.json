@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T02:35:10.775544+00:00",
+ "generated_at": "2026-09-12T03:02:22.915178+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Srinagar Ganga",
   "Arrest Mississippi",
-  "Tragic",
   "Jazeera English",
   "News",
   "CREST IDFC",
   "Bangladesh Chattogram",
-  "Gurugram",
-  "Devotees Vijay",
-  "Laden Qaeda",
-  "Canadians Trump"
+  "BRICS Summit",
+  "North Korea",
+  "Putin Pezeshkian",
+  "Trump Brics"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Srinagar court issues arrest order against son of Ganga hijacker Hashim Qureshi, hospitalised with ‘critical injury’",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/srinagar-court-issues-arrest-order-against-son-of-ganga-hijacker-hashim-qureshi-hospitalised-with-critical-injury/article71457434.ece",
+     "summary": "The court directed that Junaid Qureshi, son of Hashim Qureshi, be “taken into custody forthwith and handed over to the Nishat police”",
+     "published": "2026-09-12T02:54:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "9ac67bc55c9e",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
      "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
@@ -117,35 +131,53 @@
      "from_section": "Global News"
     },
     {
-     "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-     "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-     "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-     "published": "2026-09-11T20:34:29+00:00",
-     "source": "BBC News",
+     "title": "Bengaluru Girl, 18, Missing For Over 7 Months Traced Using Aadhaar OTP",
+     "url": "https://www.ndtv.com/india-news/bengaluru-girl-18-missing-for-over-7-months-traced-using-aadhaar-otp-12035800#publisher=newsstand",
+     "summary": "A second-year PUC student who went missing from Bengaluru in January was traced earlier this week after more than seven months through an Aadhaar-linked OTP, police said.",
+     "published": "2026-09-12T02:26:00+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f302/live/684bd3c0-ae07-11f1-b561-83a33482e04f.png",
+     "image": "https://c.ndtvimg.com/2024-06/olj5u4a8_police-generic-image_625x300_18_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "2a02efd44975",
+     "id": "3c73975864cc",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News"
+     "from_section": "National News",
+     "figures": [
+      "18, Missing For Over 7 Months",
+      "7 Months Traced Using Aadhaar OTP"
+     ]
     },
     {
-     "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-     "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-     "published": "2026-09-11T10:50:04+00:00",
-     "source": "BBC News",
+     "title": "India and Canada are well beyond reset now, says Canadian High Commissioner to India",
+     "url": "https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece",
+     "summary": "Christopher Cooter says this period in which ties are being rebuilt is the one that works best for the two countries and in 80 years of diplomatic relations, there has never been an environment that has drawn them together in the same way; he adds the security dialogue on the Nijjar killing case has made progress and that steps such as declaring the Lawrence Bishnoi gang a terrorist organisation have improved the atmosphere",
+     "published": "2026-09-12T02:49:24+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg",
+     "image": "https://th-i.thgim.com/public/news/cities/Delhi/uk4ypp/article71456253.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
      "licence": "linkout",
-     "id": "4c03e94a08d1",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline",
+     "id": "80350baf8c6a",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News",
      "figures": [
-      "$3 m embezzlement scandal"
+      "80 years of diplomatic relations, there"
      ]
+    },
+    {
+     "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+     "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+     "summary": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
+     "published": "2026-09-12T02:25:59+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp-newsml.afp_.com_.20260912T000624Z.doc-c83k7t3-1789172986.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "8e542f62de2b",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts",
@@ -162,78 +194,46 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "How Canadians are bracing for the impact of Trump’s trade war",
-     "url": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
-     "summary": "Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.",
-     "published": "2026-09-12T00:52:00+00:00",
+     "title": "Putin and Pezeshkian call out US dominance ahead of BRICS",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
+     "summary": "The presidents of Iran and Russia have criticised US dollar dominance ahead of the BRICS summit in India.",
+     "published": "2026-09-12T02:22:29+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-03-10T223725Z_352019098_RC2LADAFNDDY_RTRMADP_3_USA-TRUMP-TARIFFS-1789157563.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-CMS-PRE-BRICS-1789179665.png?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "025aef797e7f",
-     "category": "conflict",
-     "category_label": "War & conflict",
+     "id": "943bfa76dea0",
+     "category": "politics",
+     "category_label": "Political controversy",
      "from_section": "Global News"
     },
     {
-     "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
-     "summary": "Houthi forces seize Yemen's Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
-     "published": "2026-09-12T00:00:00+00:00",
-     "source": "Al Jazeera",
+     "title": "Virat Kohli Meets Maharashtra Deputy Chief Minister Eknath Shinde In London",
+     "url": "https://sports.ndtv.com/cricket/virat-kohli-meets-maharashtra-deputy-cm-eknath-shinde-in-london-12033357#publisher=newsstand",
+     "summary": "Virat Kohli discussed sports, infrastructure and various government schemes initiated by the state government during the courtesy meeting.",
+     "published": "2026-09-12T01:17:51+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T095921Z_322715747_RC2XGNA2B7KZ_RTRMADP_3_IRAN-CRISIS-SAUDI-PIPELINE-SATELLITE-1789164941.jpg?resize=1920%2C1440",
+     "image": "https://c.ndtvimg.com/2026-09/ftccgiec_virat-kohli-eknath-shinde-x-mieknathshinde_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "502432e027b4",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Passenger train derails in France leaving at least 44 injured",
-     "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-     "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-     "published": "2026-09-11T21:25:32+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
-     "licence": "linkout",
-     "id": "a95a11f55bd8",
+     "id": "80eb9e46bf8b",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News",
-     "figures": [
-      "44 injured",
-      "180 passengers were on board"
-     ]
+     "from_section": "Sports"
     },
     {
-     "title": "'US, Israel Want To Bully Us, But We Won't Kneel': Iran President In Delhi",
-     "url": "https://www.ndtv.com/india-news/us-israel-want-to-bully-us-but-we-wont-kneel-iran-president-masoud-pezeshkian-in-delhi-12035281#publisher=newsstand",
-     "summary": "PM Modi thanked Iran for its regular, high-level participation in BRICS-related meetings despite the challenging circumstances.",
-     "published": "2026-09-11T18:55:41+00:00",
-     "source": "NDTV",
+     "title": "AB de Villiers Flags Selection Conundrum Over India Star Ahead Of Afghanistan T20Is: \"Where Will He Play?\"",
+     "url": "https://sports.ndtv.com/cricket/ab-de-villiers-flags-selection-conundrum-over-india-star-ahead-of-afghanistan-t20is-where-will-he-play-12033647#publisher=newsstand",
+     "summary": "AB de Villiers also shared his views on Team India's overall squad, saying that defining key roles would be for them against a dangerous Afghanistan side.",
+     "published": "2026-09-12T01:03:47+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/565um26g_pm-modi_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/mp97vtas_team-india-afp_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "24d100cc10fe",
+     "id": "3c40c69b4e2f",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "At BRICS Summit, PM Modi, UN Chief Discuss Need To Reform Global Bodies",
-     "url": "https://www.ndtv.com/india-news/at-brics-summit-pm-modi-un-chief-antonio-guterres-discuss-need-to-reform-global-bodies-12035256#publisher=newsstand",
-     "summary": "According to a statement issued by the Ministry of External Affairs, Guterres congratulated Prime Minister Modi for India's chairship of BRICS for the fourth time.",
-     "published": "2026-09-11T18:43:04+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/dreoeo2_pm-modi_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "20150a84f2a4",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "Sports"
     },
     {
      "title": "Bank holiday today: Are HDFC, ICICI and SBI branches closed on Saturday, September 12?",
@@ -250,20 +250,6 @@
      "from_section": "Business"
     },
     {
-     "title": "BRICS Finance Ministers & central bank chiefs voice concern about 'unilateral imposition' of tariffs",
-     "url": "https://www.thehindu.com/news/national/brics-finance-ministers-central-bank-chiefs-voice-concern-about-unilateral-imposition-of-tariffs/article71455815.ece",
-     "summary": "The first Finance Ministers and central bank governors meeting under India’s chairship of BRICS was held on August 12, and the second was held on September 9-10 in Mumbai, following which a joint statement was issued",
-     "published": "2026-09-12T01:37:22+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ky1e94/article71455953.ece/alternates/LANDSCAPE_1200/20260902031L_1dKNn27.jpg",
-     "licence": "linkout",
-     "id": "ffdcaf68fdd3",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National Hotlines"
-    },
-    {
      "title": "Credit score 780, but home loan application rejected? Expert explains what lenders look for",
      "url": "https://www.livemint.com/money/personal-finance/credit-score-780-but-home-loan-application-rejected-expert-explains-what-lenders-look-for-11789138844605.html",
      "summary": "Credit score 780 but home loan rejected? Experts explain why a high CIBIL score may not guarantee approval, covering income stability, existing EMIs, repayment capacity, property value and documentation that lenders assess before sanctioning a home loan.",
@@ -276,6 +262,23 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
+    },
+    {
+     "title": "US prices remain high as fuel costs squeeze household budgets",
+     "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+     "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
+     "published": "2026-09-11T14:22:42+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg",
+     "licence": "linkout",
+     "id": "70901ef1d14c",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "12 months to August, according"
+     ]
     },
     {
      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
@@ -309,18 +312,18 @@
      ]
     },
     {
-     "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajlicGVNdlR4N1MxdHJNa0lrTnRsYjRXZEhNdDl6U1NHSlBVUXk0SFgtemM0LXdid1AzQ0htekgwdGVyNk54NFZHUjN1Z3ZNaXNMVWkzZ05nNHhHdjhEOGdOSHRpZWZyYkZWQ2pzb0VJVHJVRm5wT19HQ2NDaEpwZVI3TkdWYkpBZGVXcUxscGlqcmVPSXZLeWEtZmQwSjR2NzVXU2hTSzlMQk1heXVETDJacVZIYzUyOHlMRtIBvAFBVV95cUxQcENvQlJpLURCZ1FNdDEwcFZLQUI4OWJfSWdfN2dhVUZZWUpINXdUUlNmbHFEckc0T0RJMUdFMFVRVmluVHNiSUhaT1BuUGZNVzdyT1lBbDROdzlWcHpFSk5pRDNIWXlVSDlDbm5seENNZm5tNDc3SkY3V1NZcUJzVktiNUNDV0JpV05ic0UtLUw5eDRyUk5XMFJmRzFUa0Q5WmpxbWMtZjBJbE1wbzRRRWRubjM0X25LeUhyMw?oc=5",
-     "summary": "Chinese AI firms shunned US delegation over sanctions fears, commission says South China Morning Post",
-     "published": "2026-09-11T22:36:20+00:00",
-     "source": "South China Morning Post",
+     "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
+     "summary": "Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.",
+     "published": "2026-09-12T02:18:52+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789179449.jpg?resize=1621%2C1080&quality=80",
      "licence": "linkout",
-     "id": "95e3135da8c6",
+     "id": "20a52b49a185",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology"
+     "from_section": "Global News"
     },
     {
      "title": "For Finavia’s HR professional, artificial intelligence is part of the job description",
@@ -353,6 +356,23 @@
       "₹15 lakh in savings but still",
       "₹15 lakh but lost purchasing power"
      ]
+    },
+    {
+     "title": "Pakistan Star Razaullah Scripts Huge Record With 43-Ball Fifty On Debut In 3rd Test vs England",
+     "url": "https://sports.ndtv.com/cricket/pakistan-star-razaullah-scripts-huge-record-with-43-ball-fifty-on-debut-in-3rd-test-vs-england-12035307#publisher=newsstand",
+     "summary": "Sensational six-hitting by No. 9 batter Razaullah on debut capped an extraordinary Pakistan fightback against England in the Edgbaston cricket test on Friday.",
+     "published": "2026-09-12T01:09:14+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/84uhhtno_razaullah_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f356dc0d577a",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "9 batter Razaullah on debut capped"
+     ]
     }
    ]
   },
@@ -368,7 +388,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-12T02:34:57.385564+00:00",
+     "published": "2026-09-12T03:02:09.861613+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -379,7 +399,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-12T02:34:57.385573+00:00",
+     "published": "2026-09-12T03:02:09.861622+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -390,7 +410,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-12T02:34:57.385582+00:00",
+     "published": "2026-09-12T03:02:09.861627+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -401,7 +421,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-12T02:34:57.385587+00:00",
+     "published": "2026-09-12T03:02:09.861632+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -412,7 +432,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-12T02:34:57.385592+00:00",
+     "published": "2026-09-12T03:02:09.861637+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -423,7 +443,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-12T02:34:57.385597+00:00",
+     "published": "2026-09-12T03:02:09.861642+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -432,7 +452,7 @@
      "title": "BRICS Summit 2026 LIVE updates: Delhi decked up, security tightened",
      "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
      "summary": "All eyes will be on Mr. Modi’s meeting with the UAE Crown Prince on Saturday (September 12, 2026) morning",
-     "published": "2026-09-12T01:44:23+00:00",
+     "published": "2026-09-12T02:55:33+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
@@ -441,15 +461,9 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum",
+       "title": "BRICS Summit 2026 LIVE Updates: BRICS Leaders Gather In Delhi Today For Two-Day Summit",
        "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
-       "summary": "BRICS Summit 2026 LIVE Updates: As BRICS Chair for 2026, India will host the summit in New Delhi on September 12 and 13."
-      },
-      {
-       "source": "BBC News",
-       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-       "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
-       "summary": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely."
+       "summary": "BRICS Summit 2026 LIVE Updates: BRICS comprises Brazil, China, Egypt, Ethiopia, India, Indonesia, Iran, Russia, Saudi Arabia, South Africa, and the United Arab Emirates. BRICS partner countries are: Belarus, Cuba…"
       }
      ],
      "kind": "liveblog",
@@ -457,13 +471,13 @@
      "category_label": "General"
     },
     {
-     "title": "BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum",
+     "title": "BRICS Summit 2026 LIVE Updates: BRICS Leaders Gather In Delhi Today For Two-Day Summit",
      "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
-     "summary": "BRICS Summit 2026 LIVE Updates: As BRICS Chair for 2026, India will host the summit in New Delhi on September 12 and 13.",
-     "published": "2026-09-11T18:32:25+00:00",
+     "summary": "BRICS Summit 2026 LIVE Updates: BRICS comprises Brazil, China, Egypt, Ethiopia, India, Indonesia, Iran, Russia, Saudi Arabia, South Africa, and the United Arab Emirates. BRICS partner countries are: Belarus, Cuba, Bolivia, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan and Vietnam.",
+     "published": "2026-09-12T01:21:06+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/du867cok_modi-pezeshkian_625x300_11_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/onl255qg_brics_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "73b8524bbb0d",
      "kind": "liveblog",
@@ -519,19 +533,6 @@
      "id": "cbf236d437a9",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "IRCTC scam: Delhi court orders framing of money laundering charges against Lalu, Rabri, Tejashwi - Mid-Day",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUjBfU3oyUkE5N2lzRnJUaG83ZHRhcWtOeHZvZUVtODQ0MF8zWnhIRDZkekZkZlhXaS1TajRXRU9tV21kbjUwZ0p1VkhxbUVZZlBfakU5WG53TFZXbHkzSkVOS3Yxd0IwQ3YyZzRTaHUtcTdzMnVldk1YbHdtRWVnU2VHeTJGSVo1N1pHeHdBRS1rNEIxeXhBRGN6bUZMNEV6S2RUZ1lLMXhDQTh5NE1jbUYwYVBReHJzNktvV1A2TlYxN0xVdGQ1Q0JUR05UY1BLbHE0TnNMZGZEUTcwcy14QTZzUF_SAeoBQVVfeXFMT3p6ZDdaOXVMY1ZDSXBPMGZqbVF4UU54UUJfODdZUUJGMU55Z0dLazllcHJ0NkhMU0ZneWFuTTVNakF0WXdYQlFiTV82MXBSdUlBZUxBQ0tOVHBBLU8zZVI0MENjMWtFM0RNQjZ1d2pxLVlyWVh5d1d0aUNPREFQVWdOLWFmdWNINkFoX094MXh0QUgzaWd5MW5TVkctbDEyM3g2U1UwZUdMMWlPcDkwalEtUmZlTGloUC1ZWnJ4NjFDakl3Slh5VEJXNFZ6RGlOLW0zUktGOWVvZzYtQnp6bVBrUWpid01pMjN3?oc=5",
-     "summary": "IRCTC scam: Delhi court orders framing of money laundering charges against Lalu, Rabri, Tejashwi Mid-Day",
-     "published": "2026-09-11T02:58:00+00:00",
-     "source": "Google News",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9a8347591df1",
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -541,6 +542,56 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "BRICS Summit 2026 LIVE updates: Delhi decked up, security tightened",
+     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
+     "summary": "All eyes will be on Mr. Modi’s meeting with the UAE Crown Prince on Saturday (September 12, 2026) morning",
+     "published": "2026-09-12T02:55:33+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "licence": "linkout",
+     "id": "0dd93ea2d5d0",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "BRICS Summit 2026 LIVE Updates: BRICS Leaders Gather In Delhi Today For Two-Day Summit",
+       "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
+       "summary": "BRICS Summit 2026 LIVE Updates: BRICS comprises Brazil, China, Egypt, Ethiopia, India, Indonesia, Iran, Russia, Saudi Arabia, South Africa, and the United Arab Emirates. BRICS partner countries are: Belarus, Cuba…"
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Srinagar court issues arrest order against son of Ganga hijacker Hashim Qureshi, hospitalised with ‘critical injury’",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/srinagar-court-issues-arrest-order-against-son-of-ganga-hijacker-hashim-qureshi-hospitalised-with-critical-injury/article71457434.ece",
+     "summary": "The court directed that Junaid Qureshi, son of Hashim Qureshi, be “taken into custody forthwith and handed over to the Nishat police”",
+     "published": "2026-09-12T02:54:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "9ac67bc55c9e",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "India and Canada are well beyond reset now, says Canadian High Commissioner to India",
+     "url": "https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece",
+     "summary": "Christopher Cooter says this period in which ties are being rebuilt is the one that works best for the two countries and in 80 years of diplomatic relations, there has never been an environment that has drawn them together in the same way; he adds the security dialogue on the Nijjar killing case has made progress and that steps such as declaring the Lawrence Bishnoi gang a terrorist organisation have improved the atmosphere",
+     "published": "2026-09-12T02:49:24+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/cities/Delhi/uk4ypp/article71456253.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+     "licence": "linkout",
+     "id": "80350baf8c6a",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "80 years of diplomatic relations, there"
+     ]
+    },
     {
      "title": "Gurugram’s civic infrastructure must match scale of city, says human rights panel",
      "url": "https://www.thehindu.com/news/national/haryana/gurugrams-civic-infrastructure-must-match-scale-of-city-says-human-rights-panel/article71455966.ece",
@@ -571,59 +622,36 @@
      ]
     },
     {
-     "title": "BRICS Summit 2026 LIVE updates: Delhi decked up, security tightened",
-     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
-     "summary": "All eyes will be on Mr. Modi’s meeting with the UAE Crown Prince on Saturday (September 12, 2026) morning",
-     "published": "2026-09-12T01:44:23+00:00",
-     "source": "The Hindu",
+     "title": "\"Main Umeed Karta Hoon...\": Russian Envoy's Hindi Message At BRICS Summit",
+     "url": "https://www.ndtv.com/india-news/main-umeed-karta-hoon-russian-envoys-hindi-message-at-brics-summit-12035820#publisher=newsstand",
+     "summary": "Petr Sizov, Press Secretary of Russian Embassy in India, said on Friday as he expressed optimism about the deliberations at the 18th BRICS Summit, which formally begins tomorrow in New Delhi.",
+     "published": "2026-09-12T02:36:16+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "image": "https://c.ndtvimg.com/2026-09/bgi39p3o_sdsd_625x300_12_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "0dd93ea2d5d0",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum",
-       "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
-       "summary": "BRICS Summit 2026 LIVE Updates: As BRICS Chair for 2026, India will host the summit in New Delhi on September 12 and 13."
-      },
-      {
-       "source": "BBC News",
-       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-       "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
-       "summary": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely."
-      }
-     ],
+     "id": "437895509480",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Stadium denied, Congress gets alternative venue for Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/stadium-denied-congress-gets-alternative-venue-for-rahul-gandhis-chhatron-ki-goonj-event-in-indore/article71459006.ece",
-     "summary": "The Indore Mayor stated that an old Madhya Pradesh High Court order restricts its use to sports or state-level government events",
-     "published": "2026-09-12T01:44:19+00:00",
-     "source": "The Hindu",
+     "title": "Harish Rawat Quits Congress Posts After Cash, Gold Seized From Aide",
+     "url": "https://www.ndtv.com/india-news/former-uttarakhand-chief-minister-harish-rawat-quits-congress-posts-after-cash-gold-seized-from-aide-chandan-singh-jeena-12035805#publisher=newsstand",
+     "summary": "The ED said searches led to the seizure of Rs 32 lakh in unaccounted cash, gold coins and chains weighing about 200.5 grams (13 gold coins and 7 gold chains) and 12 luxury watches",
+     "published": "2026-09-12T02:27:21+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/w8mdig/article71421023.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000119A.jpg",
+     "image": "https://c.ndtvimg.com/2022-03/8iitni5_harish-rawat-twitter_625x300_15_March_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f6be947734f6",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Congress unable to digest India's progress, spreading negativity over BRICS: BJP",
-     "url": "https://www.thehindu.com/news/national/congress-unable-to-digest-indias-progress-spreading-negativity-over-brics-bjp/article71456028.ece",
-     "summary": "BJP MP and national spokesperson Sambit Patra said that while the \"I\" in BRIC was \"turning shaky\" in 2011-12, India is now one of the strongest partners of BRICS",
-     "published": "2026-09-12T01:38:23+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9b6p60/article71304151.ece/alternates/LANDSCAPE_1200/PTI12_02_2025_000357A.jpg",
-     "licence": "linkout",
-     "id": "c6e8f333e4b6",
+     "id": "32b400e5527c",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "12, India is now one"
+      "Rs 32 lakh in unaccounted cash, gold",
+      "200.5 grams (13 gold coins",
+      "13 gold coins and 7 gold",
+      "7 gold chains) and 12 luxury",
+      "12 luxury watches"
      ]
     },
     {
@@ -638,19 +666,6 @@
      "id": "6ec998625423",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "On Vande Mataram Row, Congress' 'Stand Upright' Retort To Omar Abdullah",
-     "url": "https://www.ndtv.com/india-news/on-vande-mataram-row-congress-stand-upright-retort-to-omar-abdullah-12035103#publisher=newsstand",
-     "summary": "The full version of the national song was recently played at an event in Jammu and Kashmir, prompting objections from the Congress.",
-     "published": "2026-09-11T18:38:28+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-05/f3mjvi_omar-abdullah_625x300_22_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "512c431c6a37",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -660,6 +675,45 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+     "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+     "summary": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
+     "published": "2026-09-12T02:25:59+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp-newsml.afp_.com_.20260912T000624Z.doc-c83k7t3-1789172986.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "8e542f62de2b",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Putin and Pezeshkian call out US dominance ahead of BRICS",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
+     "summary": "The presidents of Iran and Russia have criticised US dollar dominance ahead of the BRICS summit in India.",
+     "published": "2026-09-12T02:22:29+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-CMS-PRE-BRICS-1789179665.png?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "943bfa76dea0",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
+     "summary": "Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.",
+     "published": "2026-09-12T02:18:52+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789179449.jpg?resize=1621%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "20a52b49a185",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
     {
      "title": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
      "url": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
@@ -687,47 +741,6 @@
      "category_label": "War & conflict"
     },
     {
-     "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
-     "url": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss",
-     "summary": "French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.",
-     "published": "2026-09-12T00:36:44+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa494933598-1789170835.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "ca0b7d5699c8",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Passenger train derails in France leaving at least 44 injured",
-       "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-       "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
-      }
-     ],
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "44 injured , 1 critical",
-      "130 firefighters and five medical teams"
-     ]
-    },
-    {
-     "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
-     "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
-     "summary": "Ambassador Zalmay Khalilzad describes misgivings about the US handling of the Afghanistan and Iraq wars.",
-     "published": "2026-09-12T00:04:23+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa46c82847a1-1789160578.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "82baa9470a26",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "11 attacks"
-     ]
-    },
-    {
      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
@@ -739,6 +752,36 @@
      "id": "fefac175055d",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+     "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+     "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+     "published": "2026-09-11T20:34:29+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f302/live/684bd3c0-ae07-11f1-b561-83a33482e04f.png",
+     "licence": "linkout",
+     "id": "2a02efd44975",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Passenger train derails in France leaving at least 44 injured",
+     "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+     "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+     "published": "2026-09-11T21:25:32+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
+     "licence": "linkout",
+     "id": "a95a11f55bd8",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "44 injured",
+      "180 passengers were on board"
+     ]
     }
    ]
   },
@@ -815,39 +858,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "Gurugram’s civic infrastructure must match scale of city, says human rights panel",
-     "url": "https://www.thehindu.com/news/national/haryana/gurugrams-civic-infrastructure-must-match-scale-of-city-says-human-rights-panel/article71455966.ece",
-     "summary": "Repeated disruption of roads, schools, emergency services, water supply and ordinary mobility during heavy rainfall could not be treated as an unavoidable feature of urban life, the Commission said",
-     "published": "2026-09-12T02:08:22+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/c05au4/article71459015.ece/alternates/LANDSCAPE_1200/PTI09_06_2026_000167A.jpg",
-     "licence": "linkout",
-     "id": "76ccdfecae03",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Devotees urge Vijay to take steps to retrieve properties of Nungambakkam temple",
-     "url": "https://www.thehindu.com/news/cities/chennai/devotees-urge-vijay-to-take-steps-to-retrieve-properties-of-nungambakkam-temple/article71369809.ece",
-     "summary": "They allege that more than 415 grounds belonging to Arulmigu Akilandeswari Sametha Agatheeswarar temple was illegally alienated by former temple trustees, along with certain officials of HR&CE Dept",
-     "published": "2026-09-12T01:48:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ec1w4a/article71457835.ece/alternates/LANDSCAPE_1200/IMG_d9ffe1c7-c0af-4ae3-9_2_1_C6DUQ9K8.jpg",
-     "licence": "linkout",
-     "id": "2f344eb65773",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "415 grounds belonging to Arulmigu Akilandeswari"
-     ]
-    },
-    {
      "title": "BRICS Summit 2026 LIVE updates: Delhi decked up, security tightened",
      "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
      "summary": "All eyes will be on Mr. Modi’s meeting with the UAE Crown Prince on Saturday (September 12, 2026) morning",
-     "published": "2026-09-12T01:44:23+00:00",
+     "published": "2026-09-12T02:55:33+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
@@ -857,17 +871,62 @@
      "category_label": "General"
     },
     {
-     "title": "Gauhati High Court says ‘talaq-e-hassan’ is a valid form of divorce",
-     "url": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece",
-     "summary": "The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024",
-     "published": "2026-09-11T22:28:31+00:00",
+     "title": "Srinagar court issues arrest order against son of Ganga hijacker Hashim Qureshi, hospitalised with ‘critical injury’",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/srinagar-court-issues-arrest-order-against-son-of-ganga-hijacker-hashim-qureshi-hospitalised-with-critical-injury/article71457434.ece",
+     "summary": "The court directed that Junaid Qureshi, son of Hashim Qureshi, be “taken into custody forthwith and handed over to the Nishat police”",
+     "published": "2026-09-12T02:54:11+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cbia5r/article71458033.ece/alternates/LANDSCAPE_1200/IMG_BL16_States_Gauhati__2_1_M7ASNFQA.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "1cd6bca2ef85",
+     "id": "9ac67bc55c9e",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "India and Canada are well beyond reset now, says Canadian High Commissioner to India",
+     "url": "https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece",
+     "summary": "Christopher Cooter says this period in which ties are being rebuilt is the one that works best for the two countries and in 80 years of diplomatic relations, there has never been an environment that has drawn them together in the same way; he adds the security dialogue on the Nijjar killing case has made progress and that steps such as declaring the Lawrence Bishnoi gang a terrorist organisation have improved the atmosphere",
+     "published": "2026-09-12T02:49:24+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/cities/Delhi/uk4ypp/article71456253.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+     "licence": "linkout",
+     "id": "80350baf8c6a",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "80 years of diplomatic relations, there"
+     ]
+    },
+    {
+     "title": "Stadium denied, Congress gets alternative venue for Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore",
+     "url": "https://www.thehindu.com/news/national/madhya-pradesh/stadium-denied-congress-gets-alternative-venue-for-rahul-gandhis-chhatron-ki-goonj-event-in-indore/article71459006.ece",
+     "summary": "The Indore Mayor stated that an old Madhya Pradesh High Court order restricts its use to sports or state-level government events",
+     "published": "2026-09-12T01:44:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/w8mdig/article71421023.ece/alternates/LANDSCAPE_1200/PTI08_29_2026_000119A.jpg",
+     "licence": "linkout",
+     "id": "f6be947734f6",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Congress unable to digest India's progress, spreading negativity over BRICS: BJP",
+     "url": "https://www.thehindu.com/news/national/congress-unable-to-digest-indias-progress-spreading-negativity-over-brics-bjp/article71456028.ece",
+     "summary": "BJP MP and national spokesperson Sambit Patra said that while the \"I\" in BRIC was \"turning shaky\" in 2011-12, India is now one of the strongest partners of BRICS",
+     "published": "2026-09-12T01:38:23+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/9b6p60/article71304151.ece/alternates/LANDSCAPE_1200/PTI12_02_2025_000357A.jpg",
+     "licence": "linkout",
+     "id": "c6e8f333e4b6",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "12, India is now one"
+     ]
     },
     {
      "title": "School assembly news headlines today- September 12: Top national, sports and world news curated for you",
@@ -885,9 +944,9 @@
     {
      "title": "Video | PM Modi-Xi Talks Today; BRICS 2027 Declaration Talks Intensify | Top Headlines",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFJzNlUwQl9HdC14dWFzU2V2cFUyTHR0a2ZNSXY5STU2dExvWHQ1Q0VvdVRZOXpnXzVnSmgwQ0JFZ25IRGwxbXAyWTBGYVNTQms2YUNyaGxmelhheC1ZcEZxOWczdlBEQTM4aDFfWTl1dnBVWEl3R0xCNXQ0S052LUhvd3pOZWdmUS1mREYyaWVNNHh2MUtLNHNmcHREN3pHRXpEVk5xaUQtM3Zrclc0?oc=5",
-     "summary": "Video | PM Modi-Xi Talks Today; BRICS 2027 Declaration Talks Intensify | Top Headlines NDTV",
+     "summary": "Video | PM Modi-Xi Talks Today; BRICS 2027 Declaration Talks Intensify | Top Headlines ndtv.com",
      "published": "2026-09-12T01:22:28+00:00",
-     "source": "NDTV",
+     "source": "ndtv.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1058,189 +1117,6 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "‘Pay-by-the-day’ living in Pereira: The forgotten survivors of Colombia’s earthquake",
-     "url": "https://globalvoices.org/2026/09/11/pay-by-the-day-living-in-pereira-the-forgotten-survivors-of-colombias-earthquake/",
-     "summary": "In Pereira, Colombia, earthquake survivors living in pay-by-the-day rooms now face homelessness, overcrowded shelters, illness, and a struggle to be counted.",
-     "published": "2026-09-11T03:00:02+00:00",
-     "source": "Global Voices",
-     "byline": "Lauren Franco",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/09/1-800x450.webp",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "They may have survived the earthquake, but many were left without shelter, support, or recognition"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "Without an official figure, volunteers estimate that nearly 400 people affected by the earthquake are sheltering in La Libertad Park. Photos by Jeimi Villamizar. Colombia, 2026. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "A crack divides the residencia on 14th Street in Pereira in two. Bricks from the boarding house’s façade and pieces of its collapsed roof lie on the ground. Windows without glass and yellow caution tape across the front warn of the risk of collapse."
-      },
-      {
-       "kind": "p",
-       "text": "From the outside, it is hard to understand why it is still standing — perhaps much like the way it remained standing for the past decade, thanks to people looking for a roof over their heads for less than COP 17,000 (USD 5) a day. Before the earth moved and turned it into a memory, one of the rooms on its three floors was home to Laura*, her two daughters* [*these three names have been changed to protect their privacy] and her husband."
-      },
-      {
-       "kind": "p",
-       "text": "On the morning of the earthquake, Laura woke up earlier than usual, restless and counting the minutes until she could meet her daughters, Mariana (10) and Luciana (8), who had spent the night at Laura’s older son’s home."
-      },
-      {
-       "kind": "p",
-       "text": "She picked up her phone, checked the time — 7:32 a.m. — and stepped into the shower. Two minutes later, a powerful jolt threw her against the wall. She tried to stay on her feet, but the movement grew stronger. She heard her husband screaming and, as the ground shook beneath her, ran out of the bathroom."
-      },
-      {
-       "kind": "p",
-       "text": "The earthquake in Colombia has been the biggest one in the last decade, and has impacted more than 400,000 people across the country. Photo by Jeimi Villavizar, Colombia, 2026. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "Laura did not look back. With the earth still moving, she grabbed a towel to cover her naked body and ran to find her daughters. Around her, buildings in downtown Pereira, one of the most impacted cities, were collapsing. People were screaming. She could only imagine finding her daughters beneath the rubble. The walk from her home to where her daughters were staying takes approximately 40 minutes; Laura says she made it in 15."
-      },
-      {
-       "kind": "p",
-       "text": "Carolina has a similar story. The night before, as she had every night since arriving in Pereira three months earlier, she paid COP 18,000 (USD 6) for a room without a kitchen for herself, her one-and-a-half-year-old daughter and her husband. She paid for both the room and food by selling garbage bags on the street with her daughter, while her husband works on construction sites around the city."
-      },
-      {
-       "kind": "p",
-       "text": "She emerged alive from the earthquake, only to realize that her family had lost the little they had managed to build over the previous months."
-      },
-      {
-       "kind": "p",
-       "text": "Photo by Jeimi Villamizar. Colombia, 2026. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "Meanwhile, 56-year-old Félix was picking coffee on a farm about 40 minutes from Pereira when the 7.4-magnitude, 90-second earthquake struck. Afterwards, Félix returned to the boarding house in Pereira, although he had no family in the city to search for."
-      },
-      {
-       "kind": "p",
-       "text": "When he arrived, he found it was destroyed. A small suitcase — his most valuable possession — which he had carried with him for the past decade as he moved from farm to farm looking for work, was buried beneath the rubble."
-      },
-      {
-       "kind": "p",
-       "text": "“I paid 15,000 pesos a day for a room,” he says. “Now I have nowhere to go. I had to sleep on the street; on the ground in the park. I had never slept like that in my life.”"
-      },
-      {
-       "kind": "h",
-       "text": "The victims no one counted"
-      },
-      {
-       "kind": "p",
-       "text": "To date, the Pereira Mayor’s Office has no estimate of how many people were living in the “pay-by-the-day” residences and were affected by the earthquake. Photo by Jeimi Villamizar. Colombia, 2026. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "Without knowing one another, Félix, Laura and Carolina became three of the 400 people sheltering in La Libertad Park, between 12th and 14th Streets in downtown Pereira, just a few blocks from their former homes."
-      },
-      {
-       "kind": "p",
-       "text": "The figure is unofficial. The shelter is not one of the locations authorized by the Pereira Mayor’s Office, and volunteers have been responsible for counting the people staying there."
-      },
-      {
-       "kind": "p",
-       "text": "On the night of the earthquake, just meters from the park, neighborhood residents removed rubble from a boarding house that had completely collapsed, along with a drugstore and a bakery on the ground floor. Volunteers searched for signs of life among the ruins of a building where people paid by the day for a place to sleep."
-      },
-      {
-       "kind": "p",
-       "text": "Two days later, together with official rescuers, they recovered the bodies of 17 people. They were among the 111 people killed by the earthquake in Pereira."
-      },
-      {
-       "kind": "p",
-       "text": "According to the Pereira Mayor’s Office, approximately 600 buildings were preliminarily identified as being at risk of collapse. Photo by Jeimi Villavizar. Colombia, 2026. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "Laura says three of her coworkers slept there. Although she does not know their names, she has not seen them since the earthquake. She fears they were among the bodies recovered."
-      },
-      {
-       "kind": "p",
-       "text": "“Nobody came to find out how many people were sleeping in the affected residences, how many people now have nowhere to live, or how many were trapped beneath the rubble,” says Edward Molina, a local volunteer. “They are invisible to the government and society. People judge them because they are sex workers, homeless, or recyclers.”"
-      },
-      {
-       "kind": "p",
-       "text": "Edward and other volunteers say that while they tried to cope with the disaster on their own, attention was focused on the situation two blocks away, at the Hotel Dibenni, one of the area’s most luxurious hotels and one of 66 buildings that collapsed in the capital of Risaralda."
-      },
-      {
-       "kind": "p",
-       "text": "Without an official figure, volunteers estimate that around 400 people affected by the earthquake are sheltering in La Libertad Park. Photo by Jeimi Villavizar. Colombia, 2026. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "The ground beneath a tree in the park was where Félix slept during the first week after the earthquake. Fortunately, he says, food was available thanks to volunteers who arrived from across the country, but every night frightened him."
-      },
-      {
-       "kind": "p",
-       "text": "Félix, 1.70 meters (5.5 feet) tall and stocky from years of physical labor, breaks down when remembering those first days. Tears run down his face, and he does not try to stop them."
-      },
-      {
-       "kind": "p",
-       "text": "“People came here giving away tents, blankets and mattresses, but they never looked at me,” he recalls. “I was sleeping on the ground, wearing the same clothes I had worn for a week, and people looked at me with disgust. Everyone thought I was a drug addict. I had never felt so despised.”"
-      },
-      {
-       "kind": "p",
-       "text": "Only Edward noticed him. He had spent three days clearing rubble alongside his 15-year-old son when he saw hundreds of people arriving at the park, many with nothing.“I realized that the lives that needed saving were not under the rubble. They were here,” Edward says. “No one sees them as human beings or as people who deserve help.”"
-      },
-      {
-       "kind": "h",
-       "text": "How do you rebuild your future when your shelter isn’t safe?"
-      },
-      {
-       "kind": "p",
-       "text": "111 people died in Pereira following the August 10 earthquake. That figure is part of a total of 314 fatalities across the country. Photo by Jeimi Villavizar. Colombia, 2026. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "Three months earlier, Carolina had been living on a farm an hour from Pereira. Five years ago, she arrived in Colombia from Caracas, Venezuela. Although she is willing to work “at anything,” she feels the earthquake changed her plans, not only in Colombia, but also in Venezuela."
-      },
-      {
-       "kind": "p",
-       "text": "“I was going to return because my oldest daughter is going to give birth to her first child, but after that, there is no city I can return to,” Carolina says as she tries to find a new mattress for her tent. “My sister managed to get out, but several of my cousins are missing […] I don’t believe they are alive.”"
-      },
-      {
-       "kind": "p",
-       "text": "As children play in the park, the volunteer medical team advises teachers to use face masks. They say they have already recorded cases of tuberculosis, influenza and other respiratory illnesses. The crowded tents, lack of bathrooms and drinking water, and food cooked outdoors in Pereira’s rain and sun have created conditions in which diseases can spread."
-      },
-      {
-       "kind": "p",
-       "text": "“This is one of Pereira’s most vulnerable populations. The shelter’s conditions have led us to find withdrawal syndromes and respiratory illnesses such as tuberculosis,” says Alejandra Gutierrez, one of three volunteer doctors at the shelter. “Conditions are especially difficult for children. The rain during the first few days made things worse, and many of them have digestive illnesses, gastroenteritis and diarrhea.”"
-      },
-      {
-       "kind": "p",
-       "text": "She says that although the Health Secretariat has made progress with vaccinations, volunteers are handling treatment on their own. They see up to 30 patients a day, not only from the shelter but also from the surrounding areas."
-      },
-      {
-       "kind": "p",
-       "text": "Hernán Giraldo, father of Juan Felipe Giraldo, the young man from Bogotá who died following the collapse of the Dibenni Hotel in Pereira. Photo by Jeimi Villavizar. Colombia, 2026. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "Two weeks after the earthquake, the first government institutions arrived at La Libertad Park: the Ombudsman’s Office, the Directorate for Risk Management (DIGER) and the Colombian Family Welfare Institute (ICBF). Although officials from these institutions said they had been present since the first day, volunteers and survivors said they had received no official assistance until then."
-      },
-      {
-       "kind": "p",
-       "text": "After the Pereira Mayor’s Office announced that not everyone staying in the park had been affected by the earthquake, The institutions’ goal was to identify the population and transfer people to official shelters. Some people, however, said they had had negative experiences when authorities tried to take them to one of the seven official shelters."
-      },
-      {
-       "kind": "p",
-       "text": "Others, including Laura and Carolina, said that even without having had a bad experience during this emergency, they would not return to a shelter. Laura spent the COVID-19 pandemic in a shelter after arriving from Ecuador. She says it felt “like being in prison.” Carolina had a similar experience during her migration: “They take everything you have. You go in with nothing and you come out with nothing.”"
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "b9d4296a9503",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "400 people affected by the earthquake"
-     ]
     }
    ]
   },
@@ -1608,6 +1484,19 @@
      "id": "15ba6f1762ec",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
+     "summary": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That? The New York Times",
+     "published": "2026-09-11T12:17:00+00:00",
+     "source": "The New York Times",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "8f869cc6b2b4",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1618,6 +1507,45 @@
    "upsc": false,
    "items": [
     {
+     "title": "Virat Kohli Meets Maharashtra Deputy Chief Minister Eknath Shinde In London",
+     "url": "https://sports.ndtv.com/cricket/virat-kohli-meets-maharashtra-deputy-cm-eknath-shinde-in-london-12033357#publisher=newsstand",
+     "summary": "Virat Kohli discussed sports, infrastructure and various government schemes initiated by the state government during the courtesy meeting.",
+     "published": "2026-09-12T01:17:51+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/ftccgiec_virat-kohli-eknath-shinde-x-mieknathshinde_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "80eb9e46bf8b",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Why Aaron Rodgers’ Final Season With Pittsburgh Steelers Has Tom Brady Back In The Picture",
+     "url": "https://sports.ndtv.com/us-nfl/why-aaron-rodgers-final-season-with-pittsburgh-steelers-has-tom-brady-back-in-the-picture-12035667#publisher=newsstand",
+     "summary": "Aaron Rodgers is entering his final NFL season at an age rarely reached by quarterbacks. With Tom Brady’s longevity milestone and a reunion with Mike McCarthy in Pittsburgh, his farewell could carry more history than expected.",
+     "published": "2026-09-12T01:17:40+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-05/eumj38ho_aaron-rodgers_625x300_22_May_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "535fcc08cc58",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Batter Leaves Kuldeep Yadav's Delivery, What Happens Next Shocks Everyone. Watch",
+     "url": "https://sports.ndtv.com/cricket/batter-leaves-kuldeep-yadavs-delivery-what-happens-next-shocks-everyone-watch-12032726#publisher=newsstand",
+     "summary": "India spinner Kuldeep Yadav has been weaving his magic while playing for top English county side Yorkshire this season.",
+     "published": "2026-09-12T01:11:34+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/haaki6bs_kuldeep-yadav-x_625x300_11_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6e4950ea59d9",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Jason Kelce’s Wife Kylie Supports Madden Orlovsky’s Eagles Design For Autism Awareness",
      "url": "https://sports.ndtv.com/us-nfl/jason-kelce-s-wife-kylie-supports-madden-orlovsky-s-eagles-design-for-autism-awareness-12035656#publisher=newsstand",
      "summary": "Kylie Kelce showed her support for Dan Orlovsky’s son Madden by wearing his Eagles shirt, helping spotlight his artwork and the Philadelphia Eagles’ ongoing autism awareness efforts.",
@@ -1627,75 +1555,6 @@
      "image": "https://c.ndtvimg.com/2026-09/7qga83o8_jason-kylie-kelce_625x300_12_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "517a547f5356",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Top Seed Alexander Zverev Holds Off Karen Khachanov To Reach US Open Final",
-     "url": "https://sports.ndtv.com/tennis/top-seed-alexander-zverev-holds-off-karen-khachanov-to-reach-us-open-final-12035600#publisher=newsstand",
-     "summary": "Top seed Alexander Zverev out-gunned Karen Khachanov to reach his third straight Grand Slam final on Friday, rolling into the US Open title match with a straight sets win.",
-     "published": "2026-09-12T00:53:53+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/p915bccs_alexander-zverev-getty_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "45a11cb91fe8",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "\"What Is Her Side?\": NFL Reporter Fires Back At Dianna Russini Amid Mike Vrabel Scandal",
-     "url": "https://sports.ndtv.com/us-nfl/what-is-her-side-nfl-reporter-fires-back-at-dianna-russini-amid-mike-vrabel-scandal-12035654#publisher=newsstand",
-     "summary": "Jared Stillman has a blunt question for Dianna Russini as she prepares to return to sports media and share “her side” of the controversy involving Mike Vrabel.",
-     "published": "2026-09-12T00:51:55+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-06/e3rq7djk_dianna-russini-and-mike-vrabel-controversy_625x300_07_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "513c5139da11",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Brittany Mahomes Furious As Unwelcome Eagles Return To Patrick Mahomes’ Backyard",
-     "url": "https://sports.ndtv.com/us-nfl/brittany-mahomes-furious-as-unwelcome-eagles-return-to-patrick-mahomes-backyard-12035647#publisher=newsstand",
-     "summary": "Brittany Mahomes is frustrated after eagles return to Patrick Mahomes’ backyard, leaving marks on the grass and damaging inflatables after previously disappearing for weeks.",
-     "published": "2026-09-12T00:33:58+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/am6p5d4o_patrick-brittany-mahomes_625x300_12_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "6045803c3bd9",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Kansas City Chiefs $25.6 Billion Owner Clark Hunt Shows A New Side At McDonald’s Leaving Fans Curious",
-     "url": "https://sports.ndtv.com/us-nfl/kansas-city-chiefs-25-6-billion-owner-clark-hunt-shows-a-new-side-at-mcdonald-s-leaving-fans-curious-12035646#publisher=newsstand",
-     "summary": "Chiefs owner Clark Hunt is worth $25.6 billion but chose to stand with fans at a Kansas City McDonald’s for a special community fundraiser.",
-     "published": "2026-09-12T00:32:30+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/a912bhd8_clark-hunt_625x300_12_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "969693f48f5b",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$25.6 Billion Owner Clark Hunt Shows",
-      "$25.6 billion but chose to stand"
-     ]
-    },
-    {
-     "title": "Chiefs Owner Clark Hunt Confirms Arrowhead Name Will Be Dropped For New Stadium",
-     "url": "https://sports.ndtv.com/us-nfl/chiefs-owner-clark-hunt-confirms-arrowhead-name-will-be-dropped-for-new-stadium-12035637#publisher=newsstand",
-     "summary": "Chiefs owner Clark Hunt confirms the iconic Arrowhead name will not continue at the team’s planned new stadium, though the franchise aims to preserve the venue’s legacy and traditions.",
-     "published": "2026-09-12T00:19:49+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/bdc4hkjs_chiefs-owner-clark-hunt-_625x300_12_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "5bb8baa83453",
      "category": "general",
      "category_label": "General"
     }
