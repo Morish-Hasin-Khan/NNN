@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T12:39:49.219752+00:00",
+ "generated_at": "2026-09-13T13:03:41.448722+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Yadgir Seven",
-  "Army Rides",
+  "Kakinada",
+  "Indonesian Java",
   "Jazeera English",
   "News",
   "Maharashtra",
-  "BRICS Summit",
-  "AMMK Dhinakaran",
-  "India Lanka",
-  "BRICS What",
-  "Death Philippines"
+  "Assam",
+  "Iran BRICS",
+  "Houthis Yemen",
+  "Death Philippines",
+  "Review Stories"
  ],
  "sections": [
   {
@@ -103,20 +103,35 @@
    "upsc": false,
    "items": [
     {
-     "title": "Yadgir: Seven arrested for illegally poaching wild animals",
-     "url": "https://www.thehindu.com/news/national/karnataka/yadgir-seven-arrested-for-illegally-poaching-wild-animals/article71463141.ece",
-     "summary": "Burnt remains of two hunted peacocks, two live turtles, and 12 live crabs seized; authorities confiscate six country-made guns and ammunition from the accused.",
-     "published": "2026-09-13T12:31:43+00:00",
+     "title": "Two youths hack friend to death in Kakinada over intimate photos, videos",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/two-youths-hack-friend-to-death-in-kakinada-over-intimate-photos-videos/article71463218.ece",
+     "summary": "Accused allegedly planned to use data stored on victim’s cellphone to extort money from families of women featured in them, say police",
+     "published": "2026-09-13T12:59:33+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nn2znf/article71463325.ece/alternates/LANDSCAPE_1200/YDRKN_13_9_2026_13_12_1_1_IMG_20260913_WA0009.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "8e8494f0d6d3",
+     "id": "f3dec80cc9da",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
+     "from_section": "National News"
+    },
+    {
+     "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+     "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+     "published": "2026-09-13T12:56:39+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60cb/live/50a3bc50-af48-11f1-a126-479114b35332.jpg",
+     "licence": "linkout",
+     "id": "f1c6b50dde0f",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
      "figures": [
-      "12 live crabs seized; authorities confiscate"
+      "130 missing after Indonesian ferry capsizes",
+      "8 ship , which had encountered"
      ]
     },
     {
@@ -138,23 +153,32 @@
      ]
     },
     {
-     "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-     "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
-     "published": "2026-09-13T09:42:08+00:00",
-     "source": "BBC News",
+     "title": "Iranian Foreign Minister holds separate meeting with Kashmiri leaders; Mirwaiz bats for dialogue over war",
+     "url": "https://www.thehindu.com/news/national/iranian-foreign-minister-holds-separate-meeting-with-kashmiri-leaders-mirwaiz-bats-for-dialogue-over-war/article71463253.ece",
+     "summary": "At meeting on sidelines of BRICS Summit, Kashmir leaders express solidarity with Iran and call for diplomacy and peaceful resolution of disputes",
+     "published": "2026-09-13T12:47:19+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60cb/live/50a3bc50-af48-11f1-a126-479114b35332.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/mi3akb/article71463358.ece/alternates/LANDSCAPE_1200/PTI09_13_2026_000209B.jpg",
      "licence": "linkout",
-     "id": "f1c6b50dde0f",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "107 rescued from Indonesian ferry",
-      "130 missing people from the Virgo",
-      "8 ship , which had encountered"
-     ]
+     "id": "8b8455d93da9",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "The Iran war reveals the limits of BRICS",
+     "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
+     "summary": "The bloc struggles to translate its economic weight into geopolitical sway. But there may be a silver lining to it.",
+     "published": "2026-09-13T12:46:58+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-13T012744Z_1095030876_RC2NHNAI3RN3_RTRMADP_3_BRICS-SUMMIT-1789264800.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "85112c0289a7",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "BRICS summit 2026: What are the key takeaways?",
@@ -171,66 +195,38 @@
      "from_section": "Global News"
     },
     {
-     "title": "\"It's Going To Be a War\": Ben Shelton On Facing Alexander Zverev In US Open 2026 Final",
-     "url": "https://sports.ndtv.com/tennis/its-going-to-be-a-war-ben-shelton-on-facing-alexander-zverev-in-us-open-2026-final-12041071#publisher=newsstand",
-     "summary": "Ben Shelton is one win away from ending a 23-year wait for an American men's singles champion at the US Open",
-     "published": "2026-09-13T12:00:00+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ugin8e3k_bem-shelton_625x300_13_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "eff62ae67463",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Sports"
-    },
-    {
-     "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
-     "url": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
-     "summary": "With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.",
-     "published": "2026-09-13T11:45:24+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa680c3a2a1-1789296835.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "cb61f64955ad",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "BRICS Summit 2026 LIVE updates: India focused on four pillars: resilience, innovation, cooperation, sustainability, says PM Modi",
-     "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece",
-     "summary": "Prime Minister Narendra Modi warns against weaponisation of technology, critical minerals",
-     "published": "2026-09-13T12:34:49+00:00",
+     "title": "Tamil Nadu faces lesser power shortage than other States: Minister Sengottaiyan",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-faces-lesser-power-shortage-than-other-states-minister-sengottaiyan/article71463155.ece",
+     "summary": "Speaking on the Parandur airport project, Mr. Sengottaiyan said the waterbodies and wetland in the region had to be viewed separately from the land required for the airport and for SIPCOT projects. The runway could not be constructed on a lake, he said.",
+     "published": "2026-09-13T12:58:12+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/o38slf/article71462452.ece/alternates/LANDSCAPE_1200/13TH_PTI_BRICS-GDGGHCTLM.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/hp49to/article71463419.ece/alternates/LANDSCAPE_1200/9870_1_4_2026_16_23_42_2__DSC1842.JPG",
      "licence": "linkout",
-     "id": "7a1ebd0ef3d9",
+     "id": "5ff3c03e304a",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Maratha reservation protest: Conspiracy to kill me during Mumbai march, alleges Jarange",
-     "url": "https://www.thehindu.com/news/national/maharashtra/maratha-reservation-protest-conspiracy-to-kill-me-during-mumbai-march-alleges-jarange/article71463158.ece",
-     "summary": "“I will accept death, but I will not surrender,” Manoj Jarange Patil said, adding that the government still had eight days to resolve the issue before the proposed Mumbai agitation",
-     "published": "2026-09-13T12:33:15+00:00",
+     "title": "Pawan Kalyan thanks Kerala for hospitality during treatment",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-kalyan-thanks-kerala-for-hospitality-during-treatment/article71463068.ece",
+     "summary": "Andhra Pradesh Deputy Chief Minister says his stay was marked by healing, peace and memorable experiences; Kerala Chief Minister V.D. Satheesan wishes him a complete recovery and good health",
+     "published": "2026-09-13T12:49:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xmkgym/article71463178.ece/alternates/LANDSCAPE_1200/MH-QUOTA-JARANGGDLGGAIEF.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/m5e9qv/article71463391.ece/alternates/LANDSCAPE_1200/Works-worth-8G1PGFDBHJ.3.jpg.jpg",
      "licence": "linkout",
-     "id": "97fcd11d050c",
+     "id": "05b0521cfd43",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Udhayanidhi Stalin accuses TVK-led Tamil Nadu government of failing to address power cuts, price rise",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-accuses-tvk-led-tamil-nadu-government-of-failing-to-address-power-cuts-price-rise/article71463023.ece",
      "summary": "“In the history of Tamil Nadu, we have never seen such an uncivilised and a dummy Chief Minister [C. Joseph Vijay],” charged the DMK leader and former Deputy Chief Minister.",
-     "published": "2026-09-13T12:26:15+00:00",
+     "published": "2026-09-13T12:48:38+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/f34cje/article71463301.ece/alternates/LANDSCAPE_1200/Udhayanidhi%20Stalin%203.jpg",
@@ -239,6 +235,25 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
+    },
+    {
+     "title": "CPI(M) urges Centre to announce ₹1 lakh crore package for drought-hit farmers in Andhra Pradesh",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-urges-centre-to-announce-1-lakh-crore-package-for-drought-hit-farmers-in-andhra-pradesh/article71463087.ece",
+     "summary": "The State has suffered crop losses of ₹5.40 lakh crore, says party State secretary Srinivasa Rao, demanding that drought-affected mandals be declared immediately and ₹50,000 each be given to the affected families",
+     "published": "2026-09-13T12:51:31+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lwmu0c/article71463381.ece/alternates/LANDSCAPE_1200/Intellectual-NG4FGDEA44.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "f7161c7a706a",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National Hotlines",
+     "figures": [
+      "₹1 lakh crore package for drought-hit",
+      "₹5.40 lakh crore, says party State",
+      "₹50,000  each be given"
+     ]
     },
     {
      "title": "Mid and small-caps look expensive: Should you rebalance your portfolio as earnings could lift equities from October?",
@@ -270,23 +285,6 @@
      "figures": [
       "₹12.75 lakh ? Know whether you",
       "₹12 lakh can enjoy zero income"
-     ]
-    },
-    {
-     "title": "Tatkal NPS goes live on BHIM app: How to open an account in 3 steps, minimum contribution and eligible banks",
-     "url": "https://www.livemint.com/money/personal-finance/tatkal-nps-goes-live-on-bhim-app-how-to-open-an-account-in-3-steps-minimum-contribution-and-eligible-banks-11789293952384.html",
-     "summary": "Tatkal NPS is now available on the BHIM Payments App, offering eligible bank customers a digital route to open an NPS account. The new facility aims to simplify onboarding, KYC, and contributions through a faster process. Here's what users need to know about the new facility.",
-     "published": "2026-09-13T11:08:50+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/13/600x338/nps_pen_1789297235424_ebd875bb-f5d6-4705-9d84-2decaacf7ee8_1789297239282_2e78892f-cfb0-4dba-840c-2bda7935a9a5_95f1ef19-de26-433f-ae15-60bb53c43962_748524bb-1b5f-48cf-919e-75ba063b72e8.png",
-     "licence": "linkout",
-     "id": "85e97ef86ca4",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "3 steps , minimum contribution"
      ]
     },
     {
@@ -399,6 +397,28 @@
      "from_section": "Technology"
     },
     {
+     "title": "LIVE: Manchester United vs Manchester City – Premier League",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss",
+     "summary": "Follow updates from our live text commentary stream coverage as Bruno Fernandes and Erling Haaland star in the derby.",
+     "published": "2026-09-13T12:31:30+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-30T165241Z_1293047082_UP1EM8U1AVRMN_RTRMADP_3_SOCCER-ENGLAND-MUN-IPS-1-1789295011.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "06911db6e0b2",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "Manchester United vs Manchester City Live Streaming, Premier League Live Telecast: When And Where To Watch",
+       "url": "https://sports.ndtv.com/football/manchester-united-vs-manchester-city-live-streaming-premier-league-live-telecast-when-and-where-to-watch-12041110#publisher=newsstand",
+       "summary": "Manchester United vs Manchester City Live Streaming, Premier League Live Telecast: When And Where To Watch"
+      }
+     ],
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News"
+    },
+    {
      "title": "Manchester United vs Manchester City Live Streaming, Premier League Live Telecast: When And Where To Watch",
      "url": "https://sports.ndtv.com/football/manchester-united-vs-manchester-city-live-streaming-premier-league-live-telecast-when-and-where-to-watch-12041110#publisher=newsstand",
      "summary": "Manchester United vs Manchester City Live Streaming, Premier League Live Telecast: When And Where To Watch",
@@ -474,7 +494,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-13T12:39:35.721262+00:00",
+     "published": "2026-09-13T13:03:28.460716+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -485,7 +505,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-13T12:39:35.721279+00:00",
+     "published": "2026-09-13T13:03:28.460728+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -496,7 +516,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-13T12:39:35.721284+00:00",
+     "published": "2026-09-13T13:03:28.460731+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -507,7 +527,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-13T12:39:35.721289+00:00",
+     "published": "2026-09-13T13:03:28.460734+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -518,7 +538,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-13T12:39:35.721293+00:00",
+     "published": "2026-09-13T13:03:28.460736+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -529,7 +549,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-13T12:39:35.721297+00:00",
+     "published": "2026-09-13T13:03:28.460738+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -555,6 +575,20 @@
      "kind": "liveblog",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "BRICS Summit 2026 LIVE updates: India focused on four pillars: resilience, innovation, cooperation, sustainability, says PM Modi",
+     "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece",
+     "summary": "Prime Minister Narendra Modi warns against weaponisation of technology, critical minerals",
+     "published": "2026-09-13T12:45:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/o38slf/article71462452.ece/alternates/LANDSCAPE_1200/13TH_PTI_BRICS-GDGGHCTLM.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "7a1ebd0ef3d9",
+     "kind": "liveblog",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -589,43 +623,78 @@
    "upsc": false,
    "items": [
     {
-     "title": "BRICS Summit 2026 LIVE updates: India focused on four pillars: resilience, innovation, cooperation, sustainability, says PM Modi",
-     "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece",
-     "summary": "Prime Minister Narendra Modi warns against weaponisation of technology, critical minerals",
-     "published": "2026-09-13T12:34:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/o38slf/article71462452.ece/alternates/LANDSCAPE_1200/13TH_PTI_BRICS-GDGGHCTLM.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "7a1ebd0ef3d9",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "AMMK leader Dhinakaran criticises ‘undeclared load shedding’ in Tamil Nadu",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/ammk-leader-dhinakaran-criticises-undeclared-load-shedding-in-tamil-nadu/article71459669.ece",
-     "summary": "On reports that headmasters of government and government-aided schools having been asked to bear the expenses of the launch of expansion of the Perunthalaivar Kamarajar Breakfast Scheme on September 17, the AMMK leader urged the government to drop the move.",
-     "published": "2026-09-13T12:34:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qk3653/article71460608.ece/alternates/LANDSCAPE_1200/9871_5_1_2025_18_47_15_1_DSC_3545.JPG",
-     "licence": "linkout",
-     "id": "f44d42370009",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Dasara queue-line works begin at Kanaka Durga temple in Vijayawada",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/dasara-queue-line-works-begin-at-kanaka-durga-temple-in-vijayawada/article71463091.ece",
-     "summary": "Works launched after Vighneswara puja; EO directs officials to complete queue lines, barricades and other arrangements on time",
-     "published": "2026-09-13T12:33:34+00:00",
+     "title": "Two youths hack friend to death in Kakinada over intimate photos, videos",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/two-youths-hack-friend-to-death-in-kakinada-over-intimate-photos-videos/article71463218.ece",
+     "summary": "Accused allegedly planned to use data stored on victim’s cellphone to extort money from families of women featured in them, say police",
+     "published": "2026-09-13T12:59:33+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "f532fbf6e772",
+     "id": "f3dec80cc9da",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Assam CM highlights ‘big comeback’ of ‘small hog’",
+     "url": "https://www.thehindu.com/news/national/assam/assam-cm-highlights-big-comeback-of-small-hog/article71462548.ece",
+     "summary": "The population of the endangered pygmy hog, once thought to be extinct, has increased from six in 1996 to 194 today through a captive breeding programme",
+     "published": "2026-09-13T12:58:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/8vrh4m/article71463431.ece/alternates/LANDSCAPE_1200/pygmy.jpg",
+     "licence": "linkout",
+     "id": "0618ef1f30a1",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "194 today through a captive breeding"
+     ]
+    },
+    {
+     "title": "Tamil Nadu faces lesser power shortage than other States: Minister Sengottaiyan",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-faces-lesser-power-shortage-than-other-states-minister-sengottaiyan/article71463155.ece",
+     "summary": "Speaking on the Parandur airport project, Mr. Sengottaiyan said the waterbodies and wetland in the region had to be viewed separately from the land required for the airport and for SIPCOT projects. The runway could not be constructed on a lake, he said.",
+     "published": "2026-09-13T12:58:12+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hp49to/article71463419.ece/alternates/LANDSCAPE_1200/9870_1_4_2026_16_23_42_2__DSC1842.JPG",
+     "licence": "linkout",
+     "id": "5ff3c03e304a",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Kanipakam temple gears up for 21-day annual Brahmotsavams",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/kanipakam-temple-gears-up-for-21-day-annual-brahmotsavams/article71463128.ece",
+     "summary": "The annual Brahmotsavams, which will be held from September 14 to October 4, will feature a series of traditional rituals, ‘Vahana Sevas’ and processions, culminating in the ‘Teppotsavam’ on the final day",
+     "published": "2026-09-13T12:55:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "f5c226a0fdc6",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "4, will feature a series"
+     ]
+    },
+    {
+     "title": "Review | 5 Stories, Konkani and Kannada anthologies raise the bar for Indian translations",
+     "url": "https://www.thehindu.com/books/books-reviews/5-stories-konkani-vidya-pai-kannada-susheela-punitha-translation/article71327762.ece",
+     "summary": "The translators bend English to the rhythms of Indian languages in these short story collections",
+     "published": "2026-09-13T12:52:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6lkiq4/article71455322.ece/alternates/LANDSCAPE_1200/collage%20-%202026-09-11T133028.989.jpg",
+     "licence": "linkout",
+     "id": "db541c40c8e2",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5 Stories , Konkani and Kannada"
+     ]
     },
     {
      "title": "Bihar NEET UG Counselling 2026: Round 2 Choice Filling Opens, Check Key Dates, Steps To Apply",
@@ -697,77 +766,51 @@
    "upsc": false,
    "items": [
     {
-     "title": "India vs Sri Lanka live: Asia Cup final",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
-     "summary": "Follow our live build-up, team news, predictions, scores, photos and text commentary stream from the final in Dubai.",
-     "published": "2026-09-13T12:06:09+00:00",
+     "title": "The Iran war reveals the limits of BRICS",
+     "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
+     "summary": "The bloc struggles to translate its economic weight into geopolitical sway. But there may be a silver lining to it.",
+     "published": "2026-09-13T12:46:58+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-14T131849Z_1691119216_UP1EM6E10ZB6L_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-PAK-1789299461.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-13T012744Z_1095030876_RC2NHNAI3RN3_RTRMADP_3_BRICS-SUMMIT-1789264800.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "6975ae4517ff",
+     "id": "85112c0289a7",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "The Houthis’ escalation in Yemen could flop",
+     "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
+     "summary": "The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.",
+     "published": "2026-09-13T12:39:50+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa567ace3627-1789224876.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "dab48a7c501f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "LIVE: Manchester United vs Manchester City – Premier League",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss",
+     "summary": "Follow updates from our live text commentary stream coverage as Bruno Fernandes and Erling Haaland star in the derby.",
+     "published": "2026-09-13T12:31:30+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-30T165241Z_1293047082_UP1EM8U1AVRMN_RTRMADP_3_SOCCER-ENGLAND-MUN-IPS-1-1789295011.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "06911db6e0b2",
      "also": [
       {
-       "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, September 14, 2026: India to compete with Sri Lanka for eighth Asia Cup title tonight",
-       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNXI1Tm9kUTlHWTQ5UDBaZDNmejU4QkxvdGFQOHNwX3B6V1N4dVVxQmJvQVFsVHdmZHplR3JWeDk2aEdIZ2hOSWFjYVlNMEdONlVpLVZaUlhzYW5VVnlxTDZINFlTRVllSVpZc2hKNFp6emlLM1dtbmpELW1QRFJVbEU5VFpKN2lyM3ZVWFYzLVJHR1hYX1lKTWhRQmxZTmxMMFp2M1lrTENOMUxVNFp1dmlXZ0d3MWdGNUZtaVotcE04SlBucFl3LXNLNEJEZjMzcmU5NkVaN1Y0dUlXNmpMNDl1LXZzd3FweFU2OHpTbXg0QUpIc1pCQU1BeWFlekxVb3BYZVdPTENMZ9IBkAJBVV95cUxQZVBVMThoNXFWWngyMElmbEtzV1c0cHVvb2Z6a1pFOGhMQ0NWZ3pLYU4zSFJXOFFaRXdoMjVyNmY3R0JFZW9lZngxMHpxcktqTzFXYkR5blhiaFRSWmFQQ1A4c2h6d2JFbnJYYkFhbW82TVZqa0JhMnlYX3dkSUhOVWNnaWdGUkJFb1BiQ0FhR0JoSTh1Nk0zZ1pKdGtjVjQ4RENrVEZWOGV6QjYzNWh3WV9TRkoybzRCRXJFeHRMOC1IOWFzNGtwNTlEdUdLUU9naWFXRzFTUVpHMUpUTDZPNDh1RGRWZzIwVGk1enNHdnAwYWxsMVhzZ0czTkhlVWNpOW1sQmZnRDY0LWxTZ0NDMg?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 14, 2026: India to compete with Sri Lanka for eighth Asia Cup title tonight The Indian Express"
+       "source": "NDTV Sports",
+       "title": "Manchester United vs Manchester City Live Streaming, Premier League Live Telecast: When And Where To Watch",
+       "url": "https://sports.ndtv.com/football/manchester-united-vs-manchester-city-live-streaming-premier-league-live-telecast-when-and-where-to-watch-12041110#publisher=newsstand",
+       "summary": "Manchester United vs Manchester City Live Streaming, Premier League Live Telecast: When And Where To Watch"
       }
      ],
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "BRICS summit 2026: What are the key takeaways?",
-     "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
-     "summary": "The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.",
-     "published": "2026-09-13T12:04:39+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa691abd113-1789301163.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "96a9fac36464",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
-     "url": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
-     "summary": "With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.",
-     "published": "2026-09-13T11:45:24+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa680c3a2a1-1789296835.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "cb61f64955ad",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
-     "summary": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-     "published": "2026-09-13T11:35:04+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/JO-1789299296.jpg?resize=1800%2C1063",
-     "licence": "linkout",
-     "id": "0d7e4947b842",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-     "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-     "summary": "Government forces and Saudi Arabia carry out air attacks to stop Houthis' advance as thousands displaced by conflict.",
-     "published": "2026-09-13T10:47:19+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T084749Z_2026613709_RC2ZFNAZ7IKI_RTRMADP_3_IRAN-CRISIS-PAKISTAN-HOUTHIS-1789150790.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "289fc0b03902",
-     "category": "general",
-     "category_label": "General"
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
@@ -857,70 +900,75 @@
    "upsc": false,
    "items": [
     {
-     "title": "BRICS Summit 2026 LIVE updates: India focused on four pillars: resilience, innovation, cooperation, sustainability, says PM Modi",
-     "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece",
-     "summary": "Prime Minister Narendra Modi warns against weaponisation of technology, critical minerals",
-     "published": "2026-09-13T12:34:49+00:00",
+     "title": "Review | 5 Stories, Konkani and Kannada anthologies raise the bar for Indian translations",
+     "url": "https://www.thehindu.com/books/books-reviews/5-stories-konkani-vidya-pai-kannada-susheela-punitha-translation/article71327762.ece",
+     "summary": "The translators bend English to the rhythms of Indian languages in these short story collections",
+     "published": "2026-09-13T12:52:14+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/o38slf/article71462452.ece/alternates/LANDSCAPE_1200/13TH_PTI_BRICS-GDGGHCTLM.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/6lkiq4/article71455322.ece/alternates/LANDSCAPE_1200/collage%20-%202026-09-11T133028.989.jpg",
      "licence": "linkout",
-     "id": "7a1ebd0ef3d9",
+     "id": "db541c40c8e2",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5 Stories , Konkani and Kannada"
+     ]
+    },
+    {
+     "title": "CPI(M) urges Centre to announce ₹1 lakh crore package for drought-hit farmers in Andhra Pradesh",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-urges-centre-to-announce-1-lakh-crore-package-for-drought-hit-farmers-in-andhra-pradesh/article71463087.ece",
+     "summary": "The State has suffered crop losses of ₹5.40 lakh crore, says party State secretary Srinivasa Rao, demanding that drought-affected mandals be declared immediately and ₹50,000 each be given to the affected families",
+     "published": "2026-09-13T12:51:31+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lwmu0c/article71463381.ece/alternates/LANDSCAPE_1200/Intellectual-NG4FGDEA44.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "f7161c7a706a",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹1 lakh crore package for drought-hit",
+      "₹5.40 lakh crore, says party State",
+      "₹50,000  each be given"
+     ]
+    },
+    {
+     "title": "Pawan Kalyan thanks Kerala for hospitality during treatment",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-kalyan-thanks-kerala-for-hospitality-during-treatment/article71463068.ece",
+     "summary": "Andhra Pradesh Deputy Chief Minister says his stay was marked by healing, peace and memorable experiences; Kerala Chief Minister V.D. Satheesan wishes him a complete recovery and good health",
+     "published": "2026-09-13T12:49:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/m5e9qv/article71463391.ece/alternates/LANDSCAPE_1200/Works-worth-8G1PGFDBHJ.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "05b0521cfd43",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "AMMK leader Dhinakaran criticises ‘undeclared load shedding’ in Tamil Nadu",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/ammk-leader-dhinakaran-criticises-undeclared-load-shedding-in-tamil-nadu/article71459669.ece",
-     "summary": "On reports that headmasters of government and government-aided schools having been asked to bear the expenses of the launch of expansion of the Perunthalaivar Kamarajar Breakfast Scheme on September 17, the AMMK leader urged the government to drop the move.",
-     "published": "2026-09-13T12:34:07+00:00",
+     "title": "Belagavi airport to get four-lane road",
+     "url": "https://www.thehindu.com/news/national/karnataka/belagavi-airport-to-get-four-lane-road/article71463000.ece",
+     "summary": "The existing road will be widened into a four-lane road and there is minimal need for land acquisition. We will expedite the land acquisition process: Belagavi Deputy Commissioner",
+     "published": "2026-09-13T12:43:23+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qk3653/article71460608.ece/alternates/LANDSCAPE_1200/9871_5_1_2025_18_47_15_1_DSC_3545.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/70ilkz/article71463368.ece/alternates/LANDSCAPE_1200/05bg_belagavi_aG8HFM3NEU.3.jpg.jpg",
      "licence": "linkout",
-     "id": "f44d42370009",
+     "id": "bea0b51b1310",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Dasara queue-line works begin at Kanaka Durga temple in Vijayawada",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/dasara-queue-line-works-begin-at-kanaka-durga-temple-in-vijayawada/article71463091.ece",
-     "summary": "Works launched after Vighneswara puja; EO directs officials to complete queue lines, barricades and other arrangements on time",
-     "published": "2026-09-13T12:33:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "f532fbf6e772",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Over 1,300 candidates get appointment letters at Cuddalore job fair",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/over-1300-candidates-get-appointment-letters-at-cuddalore-job-fair/article71462867.ece",
+     "title": "Red sanders smugglers ram forest patrol vehicle during high-speed chase, four injured",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/red-sanders-smugglers-ram-forest-patrol-vehicle-during-high-speed-chase-four-injured/article71463207.ece",
      "summary": "",
-     "published": "2026-09-13T12:19:45+00:00",
+     "published": "2026-09-13T12:42:06+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/23ib7n/article71463247.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-13%20at%205.21.00%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/vz1qgr/article71463348.ece/alternates/LANDSCAPE_1200/10215_13_9_2026_17_29_28_1_IMG_20260913_WA0046.JPG",
      "licence": "linkout",
-     "id": "a8751a069588",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1,300 candidates get appointment letters"
-     ]
-    },
-    {
-     "title": "TVK government struggling to meet high power demand due to lackadaisical attitude: AIADMK leader R.B. Udhayakumar",
-     "url": "https://www.thehindu.com/news/cities/Madurai/tvk-government-struggling-to-meet-high-power-demand-due-to-lackadaisical-attitude-aiadmk-leader-rb-udhayakumar/article71462537.ece",
-     "summary": "Ever since the TVK government assumed charge, the State has been facing power cuts for several hours. The present power cuts have adversely impacted the students who have been preparing for the ensuing quarterly examinations, Mr. Udhyakumar charged.",
-     "published": "2026-09-13T12:13:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/soum3v/article71462689.ece/alternates/LANDSCAPE_1200/Indexpo__1_.jpg",
-     "licence": "linkout",
-     "id": "d55abe721a7f",
+     "id": "508289dc9e93",
      "category": "general",
      "category_label": "General"
     },
@@ -1532,6 +1580,39 @@
      "category_label": "General"
     },
     {
+     "title": "₹5 lakh health claim rejected over waiting period: Why Mumbai consumer forum backed policyholder",
+     "url": "https://www.livemint.com/money/personal-finance/5-lakh-health-claim-rejected-over-waiting-period-why-mumbai-consumer-forum-backed-policyholder-11789300930183.html",
+     "summary": "Mumbai consumer forum passed the order in a case involving a ₹5 lakh health insurance claim for pancreatitis. The commission directed Max Bupa Health Insurance to pay the policyholder's claim after the insurer rejected it by citing a 24-month specific waiting period applicable to pancreatitis",
+     "published": "2026-09-13T12:54:02+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/healthinsurance_1789301037179_29db0693-122c-4005-84ad-9b743ac097ca_1789301069835_88990dde-504d-43cc-ab2f-fee18a2d0ea4_c9dc7d33-319e-4b95-a6d5-5d3cd7a52445_946c458e-cfaa-49b4-a9f7-e8e5ef53cc5a.jpg",
+     "licence": "linkout",
+     "id": "9f0a3d5021be",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "₹5 lakh health claim rejected over",
+      "₹5 lakh health insurance claim"
+     ]
+    },
+    {
+     "title": "5 lessons from Morgan Housel's The Psychology of Money: Why your financial intelligence doesn’t matter",
+     "url": "https://www.livemint.com/money/personal-finance/5-lessons-from-morgan-housels-the-psychology-of-money-why-your-financial-intelligence-doesn-t-matter-11789302332834.html",
+     "summary": "Morgan Housel's The Psychology of Money emphasises the role of behaviour in financial decisions. It also highlights that intelligence alone doesn't ensure financial success.",
+     "published": "2026-09-13T12:50:04+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/13/600x338/5_Lessons_PoM_1789302710234_a29fa18d-c426-4d10-a1cb-0914ca4a92f3_1789302718504_51cf028d-d9bf-4cdb-833a-59463a6b1fc6_5e57099a-e0f0-4ad0-8e87-0cc4c131c5c6_8a27d035-e5f6-4788-ba3b-c4bd731ec24b.jpg",
+     "licence": "linkout",
+     "id": "869485c07398",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5 lessons from Morgan Housel's"
+     ]
+    },
+    {
      "title": "DA news: Full list of states that have announced dearness allowance hikes, payment of arrears for employees so far",
      "url": "https://www.livemint.com/money/personal-finance/da-news-full-list-states-announce-dearness-allowance-hikes-payment-arrears-employees-up-bihar-bengal-maharashtra-11789298323034.html",
      "summary": "Assam, Arunachal Pradesh, Bihar, Tamil Nadu, Sikkim, West Bengal and more — Check full list of states that have announced DA hikes so far, besides payment of DA arrears for employees and pensioners.",
@@ -1541,19 +1622,6 @@
      "image": "https://www.livemint.com/lm-img/img/2026/09/13/600x338/DA_hike_announcements_states_India_1789301283125_8712dc78-c55e-4e05-84b6-4ead4da7d80b_1789301306732_456ac6df-eded-47f1-abba-4861f9bceafc_8fae7c12-0290-49e2-88dc-da4e4e3928de_50424e82-66b3-419d-b920-064168a2a1e8.png",
      "licence": "linkout",
      "id": "d0c278266ef7",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "8th pay commission: Demand for minimum pension on progressive age-based enhancement up to 100% of LPD, explained",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-minimum-pension-demand-progressive-age-based-enhancement-up-to-100-pc-of-last-drawn-pay-ldp-explained-11789295359222.html",
-     "summary": "8th Pay Commission: Pensioner groups demanded pension revisions from the 8th CPC. Today we explain the proposal for progressive age-based enhancement up to 100% of last drawn pay and how this could be implemented.",
-     "published": "2026-09-13T11:16:02+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/13/600x338/age_pension_LDP_1789298089082_db585f2f-78e6-4729-8df1-0a9f270e7cb7_1789298101620_f62a6e57-b8b8-4ce5-8dfd-ff9d2e32fc4a_2bd77cb3-0309-4a8c-a4dd-7d08cf2d82d2_11de6b3f-4bfc-4b4d-9048-b74199fae7eb.png",
-     "licence": "linkout",
-     "id": "1adb11b41d62",
      "category": "general",
      "category_label": "General"
     }
@@ -1705,6 +1773,19 @@
      "figures": [
       "9 Tinne Gilis"
      ]
+    },
+    {
+     "title": "\"It's Going To Be a War\": Ben Shelton On Facing Alexander Zverev In US Open 2026 Final",
+     "url": "https://sports.ndtv.com/tennis/its-going-to-be-a-war-ben-shelton-on-facing-alexander-zverev-in-us-open-2026-final-12041071#publisher=newsstand",
+     "summary": "Ben Shelton is one win away from ending a 23-year wait for an American men's singles champion at the US Open",
+     "published": "2026-09-13T12:00:00+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/ugin8e3k_bem-shelton_625x300_13_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "eff62ae67463",
+     "category": "conflict",
+     "category_label": "War & conflict"
     }
    ]
   },
