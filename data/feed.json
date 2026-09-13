@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T01:35:11.340123+00:00",
+ "generated_at": "2026-09-13T02:02:39.326264+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Bengaluru Karnataka",
   "Police Bihar",
-  "Former India",
   "Jazeera English",
   "News",
   "Bangladesh World",
-  "West Benagal",
-  "West Bengal",
-  "Trump Ireland",
-  "Houthi Jazan",
-  "Death Philippines"
+  "Modi India",
+  "Spain Sahrawi",
+  "Iran Pezeshkian",
+  "Death Philippines",
+  "Draft Reserve"
  ],
  "sections": [
   {
@@ -102,6 +102,26 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka",
+     "url": "https://www.thehindu.com/news/cities/bangalore/800-child-labourers-503-from-bengaluru-alone-rescued-in-two-hour-crackdown-across-karnataka/article71460926.ece",
+     "summary": "In a Statewide crackdown on child labour on Saturday, police teams and Labour Department officials inspected 16,951 premises across Karnataka and rescued 800 children, all in a matter of two hours, with Bengaluru city alone accounting for 63% of the rescues, at 503",
+     "published": "2026-09-13T01:38:04+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/bxowb9/article71462448.ece/alternates/LANDSCAPE_1200/19-child-labourGL0GGNU5S.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "e32e595f666c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "800 child labourers, 503 from Bengaluru",
+      "503 from Bengaluru alone, rescued",
+      "16,951 premises across Karnataka and rescued",
+      "800 children , all"
+     ]
+    },
     {
      "title": "Police team attacked by angry villagers in Bihar’s Sitamarhi after husband of ward councillor shot dead by criminals",
      "url": "https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece",
@@ -114,7 +134,7 @@
      "id": "63a9c2e5dc12",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj",
@@ -131,18 +151,18 @@
      "from_section": "National News"
     },
     {
-     "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-     "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
-     "published": "2026-09-12T08:04:16+00:00",
-     "source": "BBC News",
+     "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
+     "summary": "Iranian President Masoud Pezeshkian said Tehran is not at war with Saudi Arabia.",
+     "published": "2026-09-13T01:32:56+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bf/live/4e811660-ae77-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789263044.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "de79ba485746",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Culture"
+     "id": "337cc38ee36a",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
@@ -199,6 +219,20 @@
      "from_section": "Global News"
     },
     {
+     "title": "Why Spain’s new Sahrawi citizenship law matters to Morocco",
+     "url": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss",
+     "summary": "The new citizenship bill for Sahrawis touches a sensitive fault line in Madrid’s ties with Rabat.",
+     "published": "2026-09-13T01:41:10+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2015/05/8d1149e7cdf94ed8a61cd5e6a5b15659_18.jpeg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "9779cb1e263b",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
      "title": "West Bengal professors oppose Govt.’s inter-university transfer Bill, call it an attack on education",
      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-teachers-association-opposes-inter-university-transfer-bill-calls-it-an-attack-on-education/article71460337.ece",
      "summary": "WBCUTA says arbitrary transfers will weaken universities already facing severe faculty shortages, vows to first write to the Governor, who is also the Cancellor of Universities, and make an appeal",
@@ -213,32 +247,18 @@
      "from_section": "National News"
     },
     {
-     "title": "Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise",
-     "url": "https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece",
-     "summary": "In a statement, Punjab Power Minister Tarunpreet Singh Sond said Punjab is currently receiving 1,051 MW less power against its share from the Central Power pool. The Centre should immediately provide Punjab its due share, he added",
-     "published": "2026-09-12T23:00:32+00:00",
-     "source": "The Hindu",
+     "title": "BRICS Summit 2026 LIVE Updates: New Delhi Declaration Backs Return Of Antiquities To Countries Of Origin",
+     "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-today-pm-narendra-modi-putin-xi-jinping-meet-bharat-mandapam-traffic-new-delhi-declaration-backs-return-of-antiquities-12039405#publisher=newsstand",
+     "summary": "BRICS Summit 2026 LIVE Updates: Discussions at the two-day summit were centred on the theme \"Strengthening Cooperation to Promote Fair Competition, including in Renewable Energy Markets\", with a primary focus on advancing sustainable energy transitions.",
+     "published": "2026-09-13T01:37:26+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ivochx/article71461497.ece/alternates/LANDSCAPE_1200/KSEB_04.jpg",
+     "image": "https://c.ndtvimg.com/2026-09/o4lkv7ko_brics_625x300_13_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "e54c3547c00f",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Indian investors are overpaying for foreign ETFs. Beware the risks.u",
-     "url": "https://www.livemint.com/money/personal-finance/nasdaq-etf-motilal-oswal-nasdaq-etf-11789130881776.html",
-     "summary": "Foreign investment limits and a new Sebi price-band rule have sent international ETF market prices soaring above their intrinsic NAVs, leaving buyers exposed if artificial premiums collapse.",
-     "published": "2026-09-13T01:30:23+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/US-STOCKS-2_1767939388346_1767939403937_1789143455973_ffbd954c-3fdb-4565-8ce1-ef3bf4a49eb9_f323c9c2-c13f-4be7-b710-085afa916cb3_d9b63d37-0824-4294-aafb-7ca21db16f8b.jpg",
-     "licence": "linkout",
-     "id": "89e698c87dc3",
+     "id": "be60e118b14f",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
+     "from_section": "National News"
     },
     {
      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
@@ -286,20 +306,6 @@
      ]
     },
     {
-     "title": "Teen rescued after clinging to boat for two days off Alaska",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
-     "summary": "A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.",
-     "published": "2026-09-12T23:56:58+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-cms-alaska-boy-1789257370.png?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "b9d7d1d4c8ad",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
-    },
-    {
      "title": "Fire at nursing home in Chile kills 16 residents",
      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
@@ -317,29 +323,29 @@
      ]
     },
     {
+     "title": "'India A Great Leader To Organise BRICS': Egyptian AI Expert Praises Summit",
+     "url": "https://www.ndtv.com/india-news/india-a-great-leader-to-organise-brics-egyptian-ai-expert-praises-summit-12039398#publisher=newsstand",
+     "summary": "As the 18th BRICS Summit continues to draw global acclaim for its meticulous execution and visionary agenda, an international expert has commended India's leadership in steering the multilateral bloc towards cutting-edge technological cooperation.",
+     "published": "2026-09-13T01:20:25+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/qpssbu94_brics_625x300_13_September_26.jpeg",
+     "licence": "linkout",
+     "id": "cdafaa7bb5cb",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News"
+    },
+    {
      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
      "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
      "published": "2026-09-13T01:15:04+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f569/live/74e6aa80-af04-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b3/live/461a8aa0-af13-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "9e45ff75931a",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
-     "summary": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday The New York Times",
-     "published": "2026-09-12T22:57:38+00:00",
-     "source": "The New York Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "d8f1fdde80da",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -373,46 +379,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
-     "published": "2026-09-12T08:06:26+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "44ac1cfc8520",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Death toll from Philippine ferry fire rises to 76",
-     "url": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
-     "summary": "The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing",
-     "published": "2026-09-12T23:50:03+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa5cb843674-1789250436.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "da53c5bb4fa0",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-       "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-       "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
-      }
-     ],
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Global News",
-     "figures": [
-      "41 more bodies have been recovered",
-      "13 people still missing"
-     ]
-    },
-    {
      "title": "\"It’s Clickbait\": Tom Brady’s Response Raises A Bigger Question About His NFL Future",
      "url": "https://sports.ndtv.com/us-nfl/it-s-clickbait-tom-brady-s-response-raises-a-bigger-question-about-his-nfl-future-12039362#publisher=newsstand",
      "summary": "Tom Brady dismisses criticism of his dual roles with the Las Vegas Raiders and FOX Sports, but Mike Florio questions whether he can truly give both jobs his full attention.",
@@ -442,6 +408,20 @@
      "figures": [
       "76, with more still missing"
      ]
+    },
+    {
+     "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+     "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+     "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+     "published": "2026-09-12T12:15:50+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg",
+     "licence": "linkout",
+     "id": "dbb34488a1b8",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Global News"
     }
    ]
   },
@@ -457,7 +437,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-13T01:34:58.521465+00:00",
+     "published": "2026-09-13T02:02:26.371680+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -468,7 +448,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-13T01:34:58.521480+00:00",
+     "published": "2026-09-13T02:02:26.371703+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -479,7 +459,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-13T01:34:58.521488+00:00",
+     "published": "2026-09-13T02:02:26.371709+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -490,7 +470,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-13T01:34:58.521494+00:00",
+     "published": "2026-09-13T02:02:26.371715+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -501,7 +481,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-13T01:34:58.521499+00:00",
+     "published": "2026-09-13T02:02:26.371719+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -512,27 +492,10 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-13T01:34:58.521504+00:00",
+     "published": "2026-09-13T02:02:26.371724+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
-    },
-    {
-     "title": "BRICS Summit 2026 Highlights: PM Modi, Xi Hold Bilateral Meet For 50 Minutes, Discuss Trade, Border",
-     "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-pm-narendra-modi-putin-xi-jinping-meeting-bharat-mandapam-new-delhi-traffic-advisory-updates-12031073#publisher=newsstand",
-     "summary": "BRICS Summit 2026 Highlights: BRICS comprises Brazil, China, Egypt, Ethiopia, India, Indonesia, Iran, Russia, Saudi Arabia, South Africa, and the United Arab Emirates. BRICS partner countries are: Belarus, Cuba, Bolivia, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan and Vietnam.",
-     "published": "2026-09-12T18:44:10+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ntigrlac_brics-family-photo_625x300_12_September_26.jpeg",
-     "licence": "linkout",
-     "id": "73b8524bbb0d",
-     "kind": "liveblog",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "50 Minutes , Discuss Trade, Border"
-     ]
     }
    ]
   },
@@ -555,7 +518,8 @@
      "category": "sports",
      "category_label": "Sports"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "national-news",
@@ -563,6 +527,38 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka",
+     "url": "https://www.thehindu.com/news/cities/bangalore/800-child-labourers-503-from-bengaluru-alone-rescued-in-two-hour-crackdown-across-karnataka/article71460926.ece",
+     "summary": "In a Statewide crackdown on child labour on Saturday, police teams and Labour Department officials inspected 16,951 premises across Karnataka and rescued 800 children, all in a matter of two hours, with Bengaluru city alone accounting for 63% of the rescues, at 503",
+     "published": "2026-09-13T01:38:04+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/bxowb9/article71462448.ece/alternates/LANDSCAPE_1200/19-child-labourGL0GGNU5S.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "e32e595f666c",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "800 child labourers, 503 from Bengaluru",
+      "503 from Bengaluru alone, rescued",
+      "16,951 premises across Karnataka and rescued",
+      "800 children , all"
+     ]
+    },
+    {
+     "title": "Xi, Modi welcome ‘steady progress’ in India-China ties",
+     "url": "https://www.thehindu.com/news/national/xi-modi-welcome-steady-progress-in-india-china-ties/article71460892.ece",
+     "summary": "‘Peace and tranquillity’ in border areas essential for development of bilateral relations, says Mr. Modi; Mr. Xi describes India, China as key Global South countries with “significant responsibilities”",
+     "published": "2026-09-13T01:33:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/urtwhq/article71461259.ece/alternates/LANDSCAPE_1200/2026-09-12T140945Z_19151810_RC2QHNA3WEUY_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "licence": "linkout",
+     "id": "a2706e200935",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "West Benagal govt. to revive Chandannagar’s French legacy",
      "url": "https://www.thehindu.com/news/national/west-bengal/west-benagal-govt-to-revive-chandannagars-french-legacy/article71460433.ece",
@@ -577,19 +573,6 @@
      "category_label": "General"
     },
     {
-     "title": "West Bengal professors oppose Govt.’s inter-university transfer Bill, call it an attack on education",
-     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-teachers-association-opposes-inter-university-transfer-bill-calls-it-an-attack-on-education/article71460337.ece",
-     "summary": "WBCUTA says arbitrary transfers will weaken universities already facing severe faculty shortages, vows to first write to the Governor, who is also the Cancellor of Universities, and make an appeal",
-     "published": "2026-09-13T00:25:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lk25o7/article71462435.ece/alternates/LANDSCAPE_1200/c23c822d-b65d-4f82-b43d-31c5dbce27ef.jpg",
-     "licence": "linkout",
-     "id": "5d4e7c2e72ab",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise",
      "url": "https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece",
      "summary": "In a statement, Punjab Power Minister Tarunpreet Singh Sond said Punjab is currently receiving 1,051 MW less power against its share from the Central Power pool. The Centre should immediately provide Punjab its due share, he added",
@@ -599,19 +582,6 @@
      "image": "https://th-i.thgim.com/public/incoming/ivochx/article71461497.ece/alternates/LANDSCAPE_1200/KSEB_04.jpg",
      "licence": "linkout",
      "id": "e54c3547c00f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court",
-     "url": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece",
-     "summary": "The Court also upheld the finding of the Central Administrative Tribunal that contesting the election as a political party’s candidate violated the requirement of maintaining political neutrality",
-     "published": "2026-09-12T22:22:42+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pwiz0z/article71461498.ece/alternates/LANDSCAPE_1200/01_Congress_government_20_JPR%201.jpg",
-     "licence": "linkout",
-     "id": "3697526f02e8",
      "category": "politics",
      "category_label": "Political controversy"
     },
@@ -640,19 +610,6 @@
      "id": "b39cca2a4c19",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "'Optics Of Xi Visiting India Very Important': Ex-Envoy On BRICS Bilateral",
-     "url": "https://www.ndtv.com/india-news/ex-envoy-on-india-china-meet-xi-jinping-visiting-india-important-optics-12038910#publisher=newsstand",
-     "summary": "The former ambassador to China said the meeting could pave the way for a strong outcome in the future.",
-     "published": "2026-09-12T18:45:16+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/c2qpjtkc_aroor_625x300_13_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "0a8336b821a8",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -662,6 +619,32 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Why Spain’s new Sahrawi citizenship law matters to Morocco",
+     "url": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss",
+     "summary": "The new citizenship bill for Sahrawis touches a sensitive fault line in Madrid’s ties with Rabat.",
+     "published": "2026-09-13T01:41:10+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2015/05/8d1149e7cdf94ed8a61cd5e6a5b15659_18.jpeg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "9779cb1e263b",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
+     "summary": "Iranian President Masoud Pezeshkian said Tehran is not at war with Saudi Arabia.",
+     "published": "2026-09-13T01:32:56+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789263044.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "337cc38ee36a",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
     {
      "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
@@ -695,36 +678,6 @@
      "id": "5ce1f54107c7",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-     "summary": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
-     "published": "2026-09-13T00:00:40+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa5d61ccf6f-1789253148.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "de4f38671ee6",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "figures": [
-      "129 strikes in 48 hours",
-      "48 hours as fears grow over"
-     ]
-    },
-    {
-     "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-     "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-     "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-     "published": "2026-09-12T12:15:50+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg",
-     "licence": "linkout",
-     "id": "dbb34488a1b8",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
     },
     {
      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
@@ -785,6 +738,38 @@
    "upsc": false,
    "items": [
     {
+     "title": "800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka",
+     "url": "https://www.thehindu.com/news/cities/bangalore/800-child-labourers-503-from-bengaluru-alone-rescued-in-two-hour-crackdown-across-karnataka/article71460926.ece",
+     "summary": "In a Statewide crackdown on child labour on Saturday, police teams and Labour Department officials inspected 16,951 premises across Karnataka and rescued 800 children, all in a matter of two hours, with Bengaluru city alone accounting for 63% of the rescues, at 503",
+     "published": "2026-09-13T01:38:04+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/bxowb9/article71462448.ece/alternates/LANDSCAPE_1200/19-child-labourGL0GGNU5S.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "e32e595f666c",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "800 child labourers, 503 from Bengaluru",
+      "503 from Bengaluru alone, rescued",
+      "16,951 premises across Karnataka and rescued",
+      "800 children , all"
+     ]
+    },
+    {
+     "title": "Xi, Modi welcome ‘steady progress’ in India-China ties",
+     "url": "https://www.thehindu.com/news/national/xi-modi-welcome-steady-progress-in-india-china-ties/article71460892.ece",
+     "summary": "‘Peace and tranquillity’ in border areas essential for development of bilateral relations, says Mr. Modi; Mr. Xi describes India, China as key Global South countries with “significant responsibilities”",
+     "published": "2026-09-13T01:33:19+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/urtwhq/article71461259.ece/alternates/LANDSCAPE_1200/2026-09-12T140945Z_19151810_RC2QHNA3WEUY_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "licence": "linkout",
+     "id": "a2706e200935",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "West Benagal govt. to revive Chandannagar’s French legacy",
      "url": "https://www.thehindu.com/news/national/west-bengal/west-benagal-govt-to-revive-chandannagars-french-legacy/article71460433.ece",
      "summary": "",
@@ -798,82 +783,17 @@
      "category_label": "General"
     },
     {
-     "title": "West Bengal professors oppose Govt.’s inter-university transfer Bill, call it an attack on education",
-     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-teachers-association-opposes-inter-university-transfer-bill-calls-it-an-attack-on-education/article71460337.ece",
-     "summary": "WBCUTA says arbitrary transfers will weaken universities already facing severe faculty shortages, vows to first write to the Governor, who is also the Cancellor of Universities, and make an appeal",
-     "published": "2026-09-13T00:25:41+00:00",
+     "title": "Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court",
+     "url": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece",
+     "summary": "The Court also upheld the finding of the Central Administrative Tribunal that contesting the election as a political party’s candidate violated the requirement of maintaining political neutrality",
+     "published": "2026-09-12T22:22:42+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lk25o7/article71462435.ece/alternates/LANDSCAPE_1200/c23c822d-b65d-4f82-b43d-31c5dbce27ef.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/pwiz0z/article71461498.ece/alternates/LANDSCAPE_1200/01_Congress_government_20_JPR%201.jpg",
      "licence": "linkout",
-     "id": "5d4e7c2e72ab",
+     "id": "3697526f02e8",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise",
-     "url": "https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece",
-     "summary": "In a statement, Punjab Power Minister Tarunpreet Singh Sond said Punjab is currently receiving 1,051 MW less power against its share from the Central Power pool. The Centre should immediately provide Punjab its due share, he added",
-     "published": "2026-09-12T23:00:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ivochx/article71461497.ece/alternates/LANDSCAPE_1200/KSEB_04.jpg",
-     "licence": "linkout",
-     "id": "e54c3547c00f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Congress claims NSUI's victory in Garhwal university student union polls",
-     "url": "https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece",
-     "summary": "K.C. Venugopal claimed that the BJP will face a similar fate in the upcoming Delhi University Students' Union elections, where the NSUI panel will emerge victorious with massive margins",
-     "published": "2026-09-12T21:28:19+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8vfexz/article71461376.ece/alternates/LANDSCAPE_1200/nsui.jpg",
-     "licence": "linkout",
-     "id": "373b434c29c6",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "'Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu",
-     "url": "https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece",
-     "summary": "The dinner was hosted by Prime Minister Narendra Modi at the Bharat Mandapam on September 12, 2026",
-     "published": "2026-09-12T20:59:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hz6iym/article71461314.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000577B.jpg",
-     "licence": "linkout",
-     "id": "3c27e7543a96",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "PM Modi highlights India advancing swiftly amid fast | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOM0lYd3J3TXRmVWdKak1HMUVNNXJQY0JydzN0VWFfbUFCVjVTbDlaZUw2aXg5Y0lUMHcwdGF5REFHSU1yQkgzYlRPbWoxQkdJTkV3VG55NEhvWjNpVkFqUVhydFl4S1VzRVp3WEhCTHVUWm9OQ3VRVkRIWHN5a3k3TWNzZktwRW1NUlZfV2VBYzBQYUhxX0oyNC1KcWlTc3pzZ29fYzZPbG1DbGZrU3BldUR4VnRGSTNsSmQwVU5nVWh4WGxvWW82OVk5d2xBank4QTd1X0QwbHkzbXdpV2RUdTQxNWJJS2w0Z2RudVBtWG84OV9QZU1aUXNPeFJ2VXY4eG1Z?oc=5",
-     "summary": "PM Modi highlights India advancing swiftly amid fast | Akashvani News News On AIR",
-     "published": "2026-09-12T13:06:41+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "723347f12081",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
-     "summary": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit AP News",
-     "published": "2026-09-13T00:46:00+00:00",
-     "source": "AP News",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "c9181b9e8f24",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1207,71 +1127,6 @@
      "id": "23d5dd42aa06",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Hybrid home loans offer rate certainty, but read the fine print",
-     "url": "https://www.livemint.com/money/personal-finance/hybrid-home-loans-floating-rate-emi-fcnr-deposits-rbi-11789110981164.html",
-     "summary": "With the repo rate at 5.25%, hybrid home loans offer borrowers a way to lock in EMI certainty, but the premium can make floating rates the better bet.",
-     "published": "2026-09-13T01:30:23+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/pexels-photo-7579132_1777211037271_1777211047874_1789194382764_bd8e760b-16da-4bd2-adb9-2fcaafad4ac6_84d620b2-f391-46ae-85c6-79e101af0f3c_ce20d2d4-962a-4ba4-95fd-935acb7f777f.jpeg",
-     "licence": "linkout",
-     "id": "44f316b86e56",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Indian investors are overpaying for foreign ETFs. Beware the risks.u",
-     "url": "https://www.livemint.com/money/personal-finance/nasdaq-etf-motilal-oswal-nasdaq-etf-11789130881776.html",
-     "summary": "Foreign investment limits and a new Sebi price-band rule have sent international ETF market prices soaring above their intrinsic NAVs, leaving buyers exposed if artificial premiums collapse.",
-     "published": "2026-09-13T01:30:23+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/11/600x338/US-STOCKS-2_1767939388346_1767939403937_1789143455973_ffbd954c-3fdb-4565-8ce1-ef3bf4a49eb9_f323c9c2-c13f-4be7-b710-085afa916cb3_d9b63d37-0824-4294-aafb-7ca21db16f8b.jpg",
-     "licence": "linkout",
-     "id": "89e698c87dc3",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Nagaland govt examining delays in pension, other retirement benefits — Here's what could change",
-     "url": "https://www.livemint.com/money/personal-finance/nagaland-govt-examining-delays-pension-other-retirement-benefits-what-could-change-digitising-process-gfp-nps-documents-11789233201371.html",
-     "summary": "The Nagaland government has formed a committee to address pension delays and digitise the process, Chief Minister Neiphiu Rio informed the state Assembly. He noted issues stem from procedural non-compliance and inadequate guidance for retirees.",
-     "published": "2026-09-12T18:24:39+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/Gemini_Generated_Image_Banks_1787917766102_1787917_1789237216501_0db67a18-f4ce-43be-b451-4bfb9330be37_1789237216646_e2df37c1-255e-4fe5-b163-6596b5b74d67_ff80bb34-0ed5-4796-8702-43d1176b9bfd_6847a9ab-7d6a-42a2-a388-1729e824f14c.png",
-     "licence": "linkout",
-     "id": "52b0600df50e",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "PFRDA looking to allow workers registered on e-Shram portal to open pension accounts via mobile phone, says Chairman",
-     "url": "https://www.livemint.com/money/personal-finance/pfrda-look-allow-workers-informal-sector-registered-e-shram-portal-open-pension-accounts-mobile-phone-chairman-s-ramann-11789233127100.html",
-     "summary": "The PFRDA is working on tech to allow workers from the informal sector, registered on its e-Shram portal, to open pension accounts via mobile phone, according to Chairman S Ramann.&nbsp;",
-     "published": "2026-09-12T18:01:08+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/8th_pay_commission_news_1788401458454_ea405b11-bfb_1789235607278_aa71d198-0c55-4026-903d-f1cb129b72f9_1789235607425_1ca67b45-05df-4aa5-8b05-d972404c20ef_586e47cf-bdf2-4c98-b165-130bc69affeb_66a03820-8aae-4057-b864-d69ff22c459d.jpg",
-     "licence": "linkout",
-     "id": "e9ba8e08c1f7",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Small-cap funds can fall harder than large-caps. How should investors size their bets?",
-     "url": "https://www.livemint.com/money/personal-finance/smallcap-funds-can-fall-harder-than-large-caps-how-should-investors-size-their-bets-11789209897549.html",
-     "summary": "Small-cap funds offer high growth potential but come with significant volatility.&nbsp;",
-     "published": "2026-09-12T17:29:45+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/12/600x338/invest__1708584735810_1789234011627_2e10ec6a-be70-4141-b05a-e90ada56fca9_4504b2b6-dd86-43fc-b7f1-347fcfa62fff_30513d30-5a7b-4831-b582-5bc7a5f09fe7.jpg",
-     "licence": "linkout",
-     "id": "5a6e196b6839",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1288,7 +1143,7 @@
      "published": "2026-09-13T01:15:04+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f569/live/74e6aa80-af04-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b3/live/461a8aa0-af13-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "9e45ff75931a",
      "category": "tech",
@@ -1304,45 +1159,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "4a1f65fbb798",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Symposium on Artificial Intelligence held in Vellore",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5VWGZ6RGdUZlI2amFaM2Q4bVdSMDdNeVduZ3FmUThxdFdBN0dkS3JXa3EtNXIyaGc4Sl9SUWZxNWFQRTltcW1QOFhmSkE1eGNZNFVlYlNtYXJQOTNsUUNjZTFvVG1SRUtRblZzTGk1allfM3B5Z3I1dVBCeGpMVUlTM3JuUE85NTR2aHA2bEZSTWp3em43ekF0Y2I2Unhnalg4bFVGS3hEMHppTGJqNldya0NJV0lPS3FmMHVIMNIBxgFBVV95cUxOY1VtTnBMaXhBRFJBYWlUNFBuX0ZHUFpfQ2xxR3FwNzNtRVdTSFlLUEY4RUVHd0FZc3ZkTFhaWEVGbG1EZVkyUnUwUXJ0WEpCMmNIVVpMX3J1aXJISWc3N0N1YWYtYmxuWGdOS0NGUWtvTTNwYXZaeFZfSHN6Y28xbkhKd2JUTFE1Y3NpMGV2RVFuTkdnMWdwUndtaWRHb09vSkN0YVBKSzY4UVZ2VkU3cW1HU0tGR2JqQnQ5a1oxbjc3NXhzLUE?oc=5",
-     "summary": "Symposium on Artificial Intelligence held in Vellore The Hindu",
-     "published": "2026-09-12T17:44:48+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e9052e391e1f",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Teachers’ Role in the Age of Artificial Intelligence",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUVOVkhuSDRwekFoZmdIVWN2NVRDTDltalFyWjkxSzBuT0pkVW81aC0wUmZ6aWZSdVhtTlhWZEtld3hLQ1I2STVhR1dxUWdyVGluazBPNXZYZjdHc2YySElrVlY1NlZwd05hWTJHdWNtWFR3TGhHTnlfOUY5T2dQU3gxVHRtdGM?oc=5",
-     "summary": "Teachers’ Role in the Age of Artificial Intelligence Kashmir Convener",
-     "published": "2026-09-12T17:35:16+00:00",
-     "source": "Kashmir Convener",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4a1e8d2eadde",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Brics calls for safe, ethical AI use in education, backs academic mobility",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeUo0eXh3M0JZMDdPMHhGeUg5UDE0MXQzb3owdHZ4NXdETmRzUVRaY0hsMTU4bmh1NUJpUzRJb2tfZmdZQjJmcUY1OTZmX2lhWUw1blJPMlQ1TWF5VWUyaGlibGZKMUQtbGIwUzFTNUNmaDZic3NKelJEbmdNeThYVkFwdWZrVmpnUU13ZmRxNVYxS3JqbWxNZ0RWVTh5d3lOSjFWZmdQMndxZVRZTmpHdlp1RHFlTFZiUHZNc3BpcVdBdHoxQkdIby1FaDFzTkhjd2RydEwyRlgwY0VKa2ZNX1hMQTNjYW5yVFVsNXRrQ09IMDBH0gH6AUFVX3lxTE8ybG9CQjNmNHNoeEdhN3U1bW1nOEhlUmx5ZVN4eTlzb1ZydEdGemFoWjJyMDBPWVlocWo5dGl1QzRvcC1yYWhJaTltb1RMZzg2eHhoakI1YzRqeUUwazl6ZWhERUpKSG53S19ZZUdkUEhVQ3RBamdqSzM0RFRGZHlxOEdFOWdNcS0yWEEzclk3aVZwNllzeFhROVR6S0JXVm9PNVdkUUVzNDBqTjlrTjd5dnV4SEprZ3M2eHM3QWp0d2pLZXVSOFNqTWhpOVBCWmNFYlpMeVVibGRlRG9vdjJZRjY5Rkt2ZDh3MmQ4Q2QwZV9PV1RYeHpiamc?oc=5",
-     "summary": "Brics calls for safe, ethical AI use in education, backs academic mobility Business Standard",
-     "published": "2026-09-12T13:18:52+00:00",
-     "source": "Business Standard",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5cffc60c2abf",
      "category": "tech",
      "category_label": "AI & technology"
     }
