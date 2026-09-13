@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T20:02:21.831422+00:00",
+ "generated_at": "2026-09-13T20:35:08.614526+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -36,11 +36,10 @@
    "key": "gold",
    "label": "GOLD",
    "unit": "₹/10g",
-   "value": 122793.0,
-   "change": -109.0,
-   "changePct": -0.09,
-   "decimals": 0,
-   "stale": true
+   "value": 123322.0,
+   "change": 420.0,
+   "changePct": 0.34,
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -85,14 +84,14 @@
  ],
  "topics": [
   "Police Deny",
-  "Syrian Damascus",
+  "Turkish LGBTQ",
   "Jazeera English",
   "News",
   "Maharashtra",
+  "BRICS Summit",
   "Asia Indian",
-  "Keralam Satheesan",
-  "Israeli Palestinian",
-  "Centre Swedish",
+  "Swedes",
+  "Ronaldo Saudi",
   "Indonesian Java"
  ],
  "sections": [
@@ -117,20 +116,6 @@
      "from_section": "National News"
     },
     {
-     "title": "Syrian child killed after roadside object explodes near Damascus",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
-     "summary": "A child has been killed after an explosive object detonated when he touched it near Damascus.",
-     "published": "2026-09-13T18:30:29+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789324167.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "43eabc56e856",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
@@ -143,6 +128,24 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
+    },
+    {
+     "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+     "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+     "published": "2026-09-13T13:30:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg",
+     "licence": "linkout",
+     "id": "f1c6b50dde0f",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "130 missing after Indonesian ferry capsizes",
+      "8 ship , which had encountered"
+     ]
     },
     {
      "title": "Iran war reshapes Brics ties but also exposes divisions",
@@ -174,6 +177,12 @@
        "title": "Trump downplays growing alarm over risks from artificial intelligence",
        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnZCam9ZTjc4QVl2dVJNbkFTNGM4R08xOVFRNlpjcXExam0tb3UyQmdLZVltdUFzQjdfSlpldkhtamNFY25CYlp4ZS01cTJxNUx6WDJlNEZmYVFwMjZxYnFDMmd0NG9CekV0QUNLd3R0TW9ObmIyMHJWdE5GS0lNeFNNdm5xTF9jdUVOQkRZUGVHY2tYSmJZV3U0WWZZTkdLWkh6dHVJUnc3bHBDNXc3RmtPanpvZXNVejA4WW4tVHRxcXhBX2NuelRn0gHQAUFVX3lxTE5EUE5mZ0N2NDJWdTV0THZOaUJvaUxfNkVBZ1BaM0lTT2hNQ2cxNXEzUVYxSXlzb1FZYUpwRFg1V3Ffc0NTczZLY28weW5tbjNJaDRIbms1RmFpdHVrNXdQX1dGRVNudFFHeWp0cjluS2tjOHhyblBlbmhYV2wxQWFvNUFhMmZqVXJveTkwQ2pTbGFXZlNkSnZRTEhGWmpKa1dXN0dyVWlPTEhDQkh1R01QNF9ZV0JOQmZaYWVGY3czemV2Nm8ya2w4bDZEamk1X08?oc=5",
        "summary": "Trump downplays growing alarm over risks from artificial intelligence BusinessLine"
+      },
+      {
+       "source": "Deccan Chronicle",
+       "title": "Trump Slams Artificial Intelligence Critics As 'Negative Forces'",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXhkWlIzc0dKVnhVOUpYbmJtSUN5eWx5WkRwNzVpandTSDc0Z1JWNlVFSzlkcWNsN3BMWXVkdExHUDdrR3R5cHF1TXRNOUl4Sm1fUU5qUXlvdEwtZ0NEQWRkSEhTWUQ0WGlhRGNvS3g4ZElRazlYUEF4bjhGSzlmRGxrZ1RuNkwzTEtpaWg1Qnl3a2w5ZDA0N19qbjdxN0IyYlVSS3hjdUoxdVFybmdJd3NZNGVYTkt6M1B4eXJjLWhzNUU50gHKAUFVX3lxTE1rQlRfOUc1Vi11NEtVT1c1UlB3YXJZZm4xWlNNZFNUdndOUTc0bk5KRUdRTmdHVkhrVlh4SVRQdUdhemFxeHZvWk9Ed1IzUmdEQXhkUnZ6Y0hsTmFnTDNSTUJ0WVZBbmhoS05fQkdrMld4bXBWUXJ3MnZiaUFlUl9ValV2RHotSUVPc2M1dDdnZGhjemY2cGtqMEs0QzBuajFGUWI4eGJiM0d6TU9sbWZYU3FDSi1sMFRyWGNIZW9sdi1RXzFMMENYRXc?oc=5",
+       "summary": "Trump Slams Artificial Intelligence Critics As 'Negative Forces' Deccan Chronicle"
       }
      ],
      "category": "politics",
@@ -181,35 +190,32 @@
      "from_section": "Global News"
     },
     {
-     "title": "Centre-left opposition bloc leads in Swedish vote, poll shows",
-     "url": "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows?traffic_source=rss",
-     "summary": "Exit polls show Sweden's centre-left parties with an early ⁠lead of 51.3 percent in general election.",
-     "published": "2026-09-13T19:25:59+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa2a52ee846-1789044014_0046bc-1789121238.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "c4a45fd8c67b",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News",
-     "figures": [
-      "51.3 percent in general election"
-     ]
-    },
-    {
-     "title": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
-     "url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece",
-     "summary": "State Minister for Foreign Affairs Humaiun Kobir said Bangladesh needs to move beyond what he described as an “excessive preoccupation” with India and approach its relationship with New Delhi in a balanced manner",
-     "published": "2026-09-13T19:14:18+00:00",
+     "title": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas",
+     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
+     "summary": "Prime Minister Narendra Modi highlighted that both sides must be guided by three mutuals: mutual respect, mutual sensitivity and mutual interest",
+     "published": "2026-09-13T19:58:32+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qcpcft/article71464483.ece/alternates/LANDSCAPE_1200/Ruling-BNP-authGJ9GBDBIN.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
      "licence": "linkout",
-     "id": "01f9bd8ff23d",
+     "id": "0dd93ea2d5d0",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
+    },
+    {
+     "title": "Swedes vote in election that could see far-right in government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
+     "summary": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
+     "published": "2026-09-13T19:58:11+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-20.53.34-1789329369.png?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "946153995f96",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
     },
     {
      "title": "BRICS Summit 2026 Highlights: PM Modi Thanks Leaders For Making BRICS Summit In Delhi \"Productive\"",
@@ -232,25 +238,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "National News"
-    },
-    {
-     "title": "Rick Shiels’ $1.4M LIV Golf Claim Takes Center Stage After Bankruptcy",
-     "url": "https://sports.ndtv.com/us-golf/rick-shiels-1-4m-liv-golf-claim-takes-center-stage-after-bankruptcy-12042401#publisher=newsstand",
-     "summary": "Rick Shiels’ LIV Golf partnership has taken an unexpected turn, with his company listed as a $1.4 million creditor after the league filed for Chapter 11 bankruptcy protection.",
-     "published": "2026-09-13T18:56:10+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/t20bdsuc_rick-shiels_625x300_14_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e134ca0c1363",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Sports",
-     "figures": [
-      "$1.4 M LIV Golf Claim",
-      "$1.4 million creditor after the league",
-      "11 bankruptcy protection"
-     ]
     },
     {
      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
@@ -377,9 +364,9 @@
      "also": [
       {
        "source": "NDTV Sports",
-       "title": "India vs Sri Lanka LIVE Score, Women's Asia Cup Final: India Refuse Trophy From PCB Chief Mohsin Naqvi After Winning 8th Title",
+       "title": "India vs Sri Lanka Highlights, Women's Asia Cup Final: India Win Record-Extending 8th Title, Refuse To Accept Trophy From Mohsin Naqvi",
        "url": "https://sports.ndtv.com/cricket/india-vs-sri-lanka-live-score-womens-asia-cup-2026-final-live-updates-dubai-ind-vs-sl-smriti-mandhana-harmanpreet-kaur-shafali-verma-12041365#publisher=newsstand",
-       "summary": "India Women vs Sri Lanka Women LIVE Score Updates, Women's Asia Cup Final: India have been crowned Women's Asia Cup champions with a 72-run win in the final over Sri Lanka."
+       "summary": "India Women vs Sri Lanka Women, Women's Asia Cup Final: India have been crowned Women's Asia Cup champions with a 72-run win in the final over Sri Lanka."
       }
      ],
      "category": "sports",
@@ -390,32 +377,40 @@
      ]
     },
     {
-     "title": "Dhiraj Bommadevara Scripts History, Becomes 1st Indian Male Recurve Archer To Win World Cup Final Gold",
-     "url": "https://sports.ndtv.com/archery/dhiraj-bommadevara-scripts-history-becomes-1st-indian-male-recurve-archer-to-win-world-cup-final-gold-12042381#publisher=newsstand",
-     "summary": "Top-ranked Indian recurve archer Dhiraj Bommadevara scripted history on Sunday by becoming the first Indian male recurve archer to win gold at the World Cup Final, edging Japan's Nakanishi Junya in a thrilling shoot-off.",
-     "published": "2026-09-13T19:03:38+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/1qgmrdi4_dhiraj-bommadevara_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "9d0ffa9123fc",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
      "title": "No Trophy For Victorious India In Women's Asia Cup 2026, Mohsin Naqvi Row Reignites",
      "url": "https://sports.ndtv.com/cricket/no-trophy-for-victorious-india-in-womens-asia-cup-2026-mohsin-naqvi-row-reignites-12042411#publisher=newsstand",
-     "summary": "The Indian cricket team did not get any trophy after the Women's Asia Cup 2026",
-     "published": "2026-09-13T18:58:53+00:00",
+     "summary": "The Indian cricket team did not get any trophy after the Women's Asia Cup 2026 final win in Dubai",
+     "published": "2026-09-13T19:36:50+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-09/5r2vdnlk_mohsin-naqvi_625x300_14_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "96ec979cbac4",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi",
+       "url": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece",
+       "summary": "Harmanpreet Kaur-led India defeated Sri Lanka by 72 runs here to lift their record-extending eighth Asia Cup title, but the players did not come out on the field for post-tournament presentation ceremonies"
+      }
+     ],
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
+    },
+    {
+     "title": "Ronaldo calls for life bans of Saudi Pro League fans after Jota chants",
+     "url": "https://www.aljazeera.com/sports/2026/9/13/ronaldo-calls-of-life-bans-of-saudi-pro-league-fans-after-jota-chants?traffic_source=rss",
+     "summary": "Fans at Al-Taawoun and Al-Hilal game seem to taunt Ruben Neves by chanting name of deceased teammate, Diogo Jota.",
+     "published": "2026-09-13T19:55:49+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-05T184248Z_1325689096_UP1EM951FZB9K_RTRMADP_3_SOCCER-SAUDI-ITH-NSR-1789328359.jpg?resize=1707%2C1080",
+     "licence": "linkout",
+     "id": "0991de147fbf",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News"
     },
     {
      "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
@@ -434,9 +429,9 @@
     {
      "title": "60 years after 174-acre govt land transfer, Maharashtra forms SIT to probe deals",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVdFbzRndmFCcTdscWZyWjd1eGRITWt6cmtUVHc5bTYxOVFPRlotRlZheGVXYWx5LUZsVldHSmNfcHVVak8zbTVsbjdQdmhUak54S2pnLWZsdUFyRWxzemJkaGsxSmxBMllabm1IRHJYZG1CZ1lsc2tpS0t4Qzg4UHN2OExlTjNBNG1JdGtaaVRSbWdvN2w4UEd6dUxIcElzRkU4bnlpWGNBS1hPbmJxTlBiWkZTVzlwaEJwYWFHQVBYN29VZmc40gHMAUFVX3lxTE1PNk5kaGE5VDh0N29FS01mYXFBelBHX3c0Tk1OUnBnYTRZU2xHOXYzQk9tMTczcEEzZm05c2d6UVdzbGlOX01VSzRjbVF4d2ktMHNkMjY2ZVlSclljOE1aMHhpR1F2MmxpR1lhei1nWkZnTzZhVTktMFo1bFpydTJ1dEFJenk0bzZwUXdmWm5MUzRybzFkdGx3MTNaQVdsbFhLTC1MUm84aF80d1RYd0lmVVAyTkxERnZHOGgzU3hOcDVNcWVJTjVibXFHbQ?oc=5",
-     "summary": "60 years after 174-acre govt land transfer, Maharashtra forms SIT to probe deals India Today",
+     "summary": "60 years after 174-acre govt land transfer, Maharashtra forms SIT to probe deals indiatoday.in",
      "published": "2026-09-13T11:21:55+00:00",
-     "source": "India Today",
+     "source": "indiatoday.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -462,7 +457,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-13T20:02:08.875546+00:00",
+     "published": "2026-09-13T20:34:57.371383+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -473,7 +468,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-13T20:02:08.875562+00:00",
+     "published": "2026-09-13T20:34:57.371397+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -484,7 +479,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-13T20:02:08.875566+00:00",
+     "published": "2026-09-13T20:34:57.371402+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -495,7 +490,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-13T20:02:08.875569+00:00",
+     "published": "2026-09-13T20:34:57.371406+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -506,7 +501,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-13T20:02:08.875603+00:00",
+     "published": "2026-09-13T20:34:57.371410+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -517,41 +512,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-13T20:02:08.875608+00:00",
+     "published": "2026-09-13T20:34:57.371413+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "India vs Sri Lanka LIVE Score, Women's Asia Cup Final: India Refuse Trophy From PCB Chief Mohsin Naqvi After Winning 8th Title",
-     "url": "https://sports.ndtv.com/cricket/india-vs-sri-lanka-live-score-womens-asia-cup-2026-final-live-updates-dubai-ind-vs-sl-smriti-mandhana-harmanpreet-kaur-shafali-verma-12041365#publisher=newsstand",
-     "summary": "India Women vs Sri Lanka Women LIVE Score Updates, Women's Asia Cup Final: India have been crowned Women's Asia Cup champions with a 72-run win in the final over Sri Lanka.",
-     "published": "2026-09-13T19:14:40+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/pg3qeucg_team-india_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "28a1d7c2b78d",
-     "kind": "liveblog",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Alexander Zverev vs Ben Shelton LIVE, US Open Men's Singles Final: Zverev Breaks Again, Takes 1st Set 6-3 vs Shelton",
+     "title": "Alexander Zverev vs Ben Shelton LIVE, US Open Men's Singles Final: Zverev 1 Set Away From 2nd Career Grand Slam Title",
      "url": "https://sports.ndtv.com/tennis/alexander-zverev-vs-ben-shelton-live-score-us-open-2026-mens-singles-final-tennis-live-updates-live-streaming-12042052#publisher=newsstand",
-     "summary": "Alexander Zverev vs Ben Shelton LIVE, US Open Final: Top seed Alexander Zverev has taken early control of the 2026 US Open men's singles final, taking the first set 6-3 against home favourite Ben Shelton at Arthur Ashe Stadium.",
-     "published": "2026-09-13T19:06:54+00:00",
+     "summary": "Alexander Zverev vs Ben Shelton LIVE, US Open Final: Top seed Alexander Zverev is up by a set against home hope Ben Shelton in the 2026 US Open men's singles final at Arthur Ashe Stadium in New York.",
+     "published": "2026-09-13T20:18:20+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/94h7oo2o_alexander-zverev-afp_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/7bl4dun8_alexander-zverev-afp_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "5d27310b569b",
      "kind": "liveblog",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "3 against home favourite Ben Shelton"
-     ]
+     "category_label": "General"
     }
    ]
   },
@@ -564,9 +542,9 @@
     {
      "title": "60 years after 174-acre govt land transfer, Maharashtra forms SIT to probe deals",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVdFbzRndmFCcTdscWZyWjd1eGRITWt6cmtUVHc5bTYxOVFPRlotRlZheGVXYWx5LUZsVldHSmNfcHVVak8zbTVsbjdQdmhUak54S2pnLWZsdUFyRWxzemJkaGsxSmxBMllabm1IRHJYZG1CZ1lsc2tpS0t4Qzg4UHN2OExlTjNBNG1JdGtaaVRSbWdvN2w4UEd6dUxIcElzRkU4bnlpWGNBS1hPbmJxTlBiWkZTVzlwaEJwYWFHQVBYN29VZmc40gHMAUFVX3lxTE1PNk5kaGE5VDh0N29FS01mYXFBelBHX3c0Tk1OUnBnYTRZU2xHOXYzQk9tMTczcEEzZm05c2d6UVdzbGlOX01VSzRjbVF4d2ktMHNkMjY2ZVlSclljOE1aMHhpR1F2MmxpR1lhei1nWkZnTzZhVTktMFo1bFpydTJ1dEFJenk0bzZwUXdmWm5MUzRybzFkdGx3MTNaQVdsbFhLTC1MUm84aF80d1RYd0lmVVAyTkxERnZHOGgzU3hOcDVNcWVJTjVibXFHbQ?oc=5",
-     "summary": "60 years after 174-acre govt land transfer, Maharashtra forms SIT to probe deals India Today",
+     "summary": "60 years after 174-acre govt land transfer, Maharashtra forms SIT to probe deals indiatoday.in",
      "published": "2026-09-13T11:21:55+00:00",
-     "source": "India Today",
+     "source": "indiatoday.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -586,6 +564,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas",
+     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
+     "summary": "Prime Minister Narendra Modi highlighted that both sides must be guided by three mutuals: mutual respect, mutual sensitivity and mutual interest",
+     "published": "2026-09-13T19:58:32+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "licence": "linkout",
+     "id": "0dd93ea2d5d0",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi",
      "url": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece",
      "summary": "Harmanpreet Kaur-led India defeated Sri Lanka by 72 runs here to lift their record-extending eighth Asia Cup title, but the players did not come out on the field for post-tournament presentation ceremonies",
@@ -598,9 +589,9 @@
      "also": [
       {
        "source": "NDTV Sports",
-       "title": "India vs Sri Lanka LIVE Score, Women's Asia Cup Final: India Refuse Trophy From PCB Chief Mohsin Naqvi After Winning 8th Title",
+       "title": "India vs Sri Lanka Highlights, Women's Asia Cup Final: India Win Record-Extending 8th Title, Refuse To Accept Trophy From Mohsin Naqvi",
        "url": "https://sports.ndtv.com/cricket/india-vs-sri-lanka-live-score-womens-asia-cup-2026-final-live-updates-dubai-ind-vs-sl-smriti-mandhana-harmanpreet-kaur-shafali-verma-12041365#publisher=newsstand",
-       "summary": "India Women vs Sri Lanka Women LIVE Score Updates, Women's Asia Cup Final: India have been crowned Women's Asia Cup champions with a 72-run win in the final over Sri Lanka."
+       "summary": "India Women vs Sri Lanka Women, Women's Asia Cup Final: India have been crowned Women's Asia Cup champions with a 72-run win in the final over Sri Lanka."
       }
      ],
      "category": "sports",
@@ -647,22 +638,6 @@
      "id": "2c05ad463af2",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-candidate-in-dharapuram-cpim-in-madurantakam/article71462935.ece",
-     "summary": "Candidates to be announced on September 15. According to Mr. Veerapandian, the upcoming bypolls in the Madurantakam and Dharapuram constituencies are not normal byelections, but what he termed as byelections imposed on people.",
-     "published": "2026-09-13T18:57:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uykrvh/article71462985.ece/alternates/LANDSCAPE_1200/CPI%20-%20VEERA%20PANDIYAN%2025072026%20%20final%20.00_02_31_47.Still004.jpg",
-     "licence": "linkout",
-     "id": "85a3503e93ea",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "15. According to Mr"
-     ]
     },
     {
      "title": "Bid To Revive Ladakh Lake That Shrunk By 70% In A Decade",
@@ -715,17 +690,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
-     "summary": "Israeli forces reportedly raided the Jenin home of Palestinian journalist Ali al-Samoudi and beat his son.",
-     "published": "2026-09-13T19:41:01+00:00",
+     "title": "Swedes vote in election that could see far-right in government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
+     "summary": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
+     "published": "2026-09-13T19:58:11+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789328440.jpg?resize=1619%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-20.53.34-1789329369.png?resize=1200%2C675",
      "licence": "linkout",
-     "id": "abdd3e129ce1",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
+     "id": "946153995f96",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Ronaldo calls for life bans of Saudi Pro League fans after Jota chants",
+     "url": "https://www.aljazeera.com/sports/2026/9/13/ronaldo-calls-of-life-bans-of-saudi-pro-league-fans-after-jota-chants?traffic_source=rss",
+     "summary": "Fans at Al-Taawoun and Al-Hilal game seem to taunt Ruben Neves by chanting name of deceased teammate, Diogo Jota.",
+     "published": "2026-09-13T19:55:49+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-05T184248Z_1325689096_UP1EM951FZB9K_RTRMADP_3_SOCCER-SAUDI-ITH-NSR-1789328359.jpg?resize=1707%2C1080",
+     "licence": "linkout",
+     "id": "0991de147fbf",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "Guyana’s oil boom and challenges",
+     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
+     "summary": "Guyana’s president says his country has seen an increase in oil revenue as the Iran conflict reshapes global markets.",
+     "published": "2026-09-13T19:55:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789318519.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "0bf68261963f",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Centre-left opposition bloc leads in Swedish vote, poll shows",
@@ -744,32 +745,6 @@
      ]
     },
     {
-     "title": "​Bangsamoro’s parliamentary election is a turning point",
-     "url": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
-     "summary": "It's a milestone of the self-determination fight in this region of the Philippines. It must be kept peaceful and fair.",
-     "published": "2026-09-13T18:39:28+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2019-01-21T062845Z_1129956608_RC1738A91C50_RTRMADP_3_PHILIPPINES-POLITICS-AUTONOMY-1789324639.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9fffc9c945b7",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Haaland goal sees 10-man City beat United in controversial Manchester derby",
-     "url": "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss",
-     "summary": "Phil Foden is sent off for City, but Erling Haaland's controversial goal settles Manchester derby 1-0 at United.",
-     "published": "2026-09-13T18:39:24+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26256634533329-1789322878.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "fdfcb2055485",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
@@ -781,23 +756,6 @@
      "id": "5923a3a276c9",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-     "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-     "published": "2026-09-13T13:30:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg",
-     "licence": "linkout",
-     "id": "f1c6b50dde0f",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "130 missing after Indonesian ferry capsizes",
-      "8 ship , which had encountered"
-     ]
     }
    ]
   },
@@ -846,6 +804,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas",
+     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
+     "summary": "Prime Minister Narendra Modi highlighted that both sides must be guided by three mutuals: mutual respect, mutual sensitivity and mutual interest",
+     "published": "2026-09-13T19:58:32+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "licence": "linkout",
+     "id": "0dd93ea2d5d0",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi",
      "url": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece",
      "summary": "Harmanpreet Kaur-led India defeated Sri Lanka by 72 runs here to lift their record-extending eighth Asia Cup title, but the players did not come out on the field for post-tournament presentation ceremonies",
@@ -858,9 +829,9 @@
      "also": [
       {
        "source": "NDTV Sports",
-       "title": "No Trophy For Victorious India In Women's Asia Cup 2026, Mohsin Naqvi Row Reignites",
-       "url": "https://sports.ndtv.com/cricket/no-trophy-for-victorious-india-in-womens-asia-cup-2026-mohsin-naqvi-row-reignites-12042411#publisher=newsstand",
-       "summary": "The Indian cricket team did not get any trophy after the Women's Asia Cup 2026"
+       "title": "\"BCCI's Stand\": Indian Team's First Reaction After Refusing Women's Asia Cup Trophy From Mohsin Naqvi",
+       "url": "https://sports.ndtv.com/cricket/bccis-stand-indian-teams-first-reaction-after-refusing-womens-asia-cup-trophy-from-mohsin-naqvi-12042497#publisher=newsstand",
+       "summary": "The Asia Cup trophy impasse continued for the second year in a row after the victorious Indian women's cricket team on Sunday did not accept the trophy from Mohsin Naqvi"
       }
      ],
      "category": "sports",
@@ -883,17 +854,20 @@
      "category_label": "General"
     },
     {
-     "title": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
-     "url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece",
-     "summary": "State Minister for Foreign Affairs Humaiun Kobir said Bangladesh needs to move beyond what he described as an “excessive preoccupation” with India and approach its relationship with New Delhi in a balanced manner",
-     "published": "2026-09-13T19:14:18+00:00",
+     "title": "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-candidate-in-dharapuram-cpim-in-madurantakam/article71462935.ece",
+     "summary": "Candidates to be announced on September 15. According to Mr. Veerapandian, the upcoming bypolls in the Madurantakam and Dharapuram constituencies are not normal byelections, but what he termed as byelections imposed on people.",
+     "published": "2026-09-13T18:57:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qcpcft/article71464483.ece/alternates/LANDSCAPE_1200/Ruling-BNP-authGJ9GBDBIN.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/uykrvh/article71462985.ece/alternates/LANDSCAPE_1200/CPI%20-%20VEERA%20PANDIYAN%2025072026%20%20final%20.00_02_31_47.Still004.jpg",
      "licence": "linkout",
-     "id": "01f9bd8ff23d",
+     "id": "85a3503e93ea",
      "category": "politics",
-     "category_label": "Political controversy"
+     "category_label": "Political controversy",
+     "figures": [
+      "15. According to Mr"
+     ]
     },
     {
      "title": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner",
@@ -905,19 +879,6 @@
      "image": "https://th-i.thgim.com/public/incoming/ts2pcw/article71463080.ece/alternates/LANDSCAPE_1200/20260910267L.jpg",
      "licence": "linkout",
      "id": "d7d13c462697",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Two held for alleged robbery bid in Kozhikode",
-     "url": "https://www.thehindu.com/news/national/kerala/two-held-in-alleged-robbery-bid/article71463473.ece",
-     "summary": "Search on for two others suspects who escaped from the spot",
-     "published": "2026-09-13T18:48:59+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "99f247892804",
      "category": "general",
      "category_label": "General"
     },
@@ -1686,15 +1647,15 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "'It's cost upon cost for working families - they get no help'",
-     "url": "https://www.bbc.co.uk/news/articles/c158l7zz5n5o?at_medium=RSS&at_campaign=rss",
-     "summary": "The government needs to do more to support working families, a charity in Rotherham says.",
-     "published": "2026-09-13T06:09:16+00:00",
+     "title": "Iceland to open first store in the Falklands",
+     "url": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
+     "summary": "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
+     "published": "2026-09-12T20:50:54+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a49/live/4c8a40c0-adb9-11f1-a1fc-c76e930e8813.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a540/live/86a6fe20-aee9-11f1-a99d-4515748c32d0.jpg",
      "licence": "linkout",
-     "id": "fc6aa7dc157e",
+     "id": "2cfee845e894",
      "category": "general",
      "category_label": "General"
     }
@@ -1746,19 +1707,6 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
-     "summary": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda The New York Times",
-     "published": "2026-09-13T16:37:49+00:00",
-     "source": "The New York Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "a4f9678118e9",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "AI will transform capitalism – but how?",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0FZa2NtaEdMSERqbGRwMDN4Q1doVzF4VXIyVFFvNzVVRVZoVUtEYUY0eTZtbmtZQ3dVRjVoSGduMXp6OFNCVXVwaFd2SG5ISEtDSGNvQktCTEsxQ1RsYUdaSkFad2FKUWVyN3RiV1BoSjk0XzBXY0NPTVJocDZ6Z0FvZXhjOVJKam02M29Wb2Y?oc=5",
      "summary": "AI will transform capitalism – but how? The Guardian",
@@ -1783,6 +1731,19 @@
      "id": "429854ed2df9",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Trump Slams Artificial Intelligence Critics As 'Negative Forces'",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXhkWlIzc0dKVnhVOUpYbmJtSUN5eWx5WkRwNzVpandTSDc0Z1JWNlVFSzlkcWNsN3BMWXVkdExHUDdrR3R5cHF1TXRNOUl4Sm1fUU5qUXlvdEwtZ0NEQWRkSEhTWUQ0WGlhRGNvS3g4ZElRazlYUEF4bjhGSzlmRGxrZ1RuNkwzTEtpaWg1Qnl3a2w5ZDA0N19qbjdxN0IyYlVSS3hjdUoxdVFybmdJd3NZNGVYTkt6M1B4eXJjLWhzNUU50gHKAUFVX3lxTE1rQlRfOUc1Vi11NEtVT1c1UlB3YXJZZm4xWlNNZFNUdndOUTc0bk5KRUdRTmdHVkhrVlh4SVRQdUdhemFxeHZvWk9Ed1IzUmdEQXhkUnZ6Y0hsTmFnTDNSTUJ0WVZBbmhoS05fQkdrMld4bXBWUXJ3MnZiaUFlUl9ValV2RHotSUVPc2M1dDdnZGhjemY2cGtqMEs0QzBuajFGUWI4eGJiM0d6TU9sbWZYU3FDSi1sMFRyWGNIZW9sdi1RXzFMMENYRXc?oc=5",
+     "summary": "Trump Slams Artificial Intelligence Critics As 'Negative Forces' Deccan Chronicle",
+     "published": "2026-09-13T14:07:26+00:00",
+     "source": "Deccan Chronicle",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "8ea8993e8127",
+     "category": "tech",
+     "category_label": "AI & technology"
     }
    ]
   },
@@ -1793,10 +1754,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "India vs Sri Lanka LIVE Score, Women's Asia Cup Final: India Refuse Trophy From PCB Chief Mohsin Naqvi After Winning 8th Title",
+     "title": "India vs Sri Lanka Highlights, Women's Asia Cup Final: India Win Record-Extending 8th Title, Refuse To Accept Trophy From Mohsin Naqvi",
      "url": "https://sports.ndtv.com/cricket/india-vs-sri-lanka-live-score-womens-asia-cup-2026-final-live-updates-dubai-ind-vs-sl-smriti-mandhana-harmanpreet-kaur-shafali-verma-12041365#publisher=newsstand",
-     "summary": "India Women vs Sri Lanka Women LIVE Score Updates, Women's Asia Cup Final: India have been crowned Women's Asia Cup champions with a 72-run win in the final over Sri Lanka.",
-     "published": "2026-09-13T19:14:40+00:00",
+     "summary": "India Women vs Sri Lanka Women, Women's Asia Cup Final: India have been crowned Women's Asia Cup champions with a 72-run win in the final over Sri Lanka.",
+     "published": "2026-09-13T20:21:00+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-09/pg3qeucg_team-india_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -1804,6 +1765,32 @@
      "id": "28a1d7c2b78d",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Alexander Zverev vs Ben Shelton LIVE, US Open Men's Singles Final: Zverev 1 Set Away From 2nd Career Grand Slam Title",
+     "url": "https://sports.ndtv.com/tennis/alexander-zverev-vs-ben-shelton-live-score-us-open-2026-mens-singles-final-tennis-live-updates-live-streaming-12042052#publisher=newsstand",
+     "summary": "Alexander Zverev vs Ben Shelton LIVE, US Open Final: Top seed Alexander Zverev is up by a set against home hope Ben Shelton in the 2026 US Open men's singles final at Arthur Ashe Stadium in New York.",
+     "published": "2026-09-13T20:18:20+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/7bl4dun8_alexander-zverev-afp_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "5d27310b569b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "\"BCCI's Stand\": Indian Team's First Reaction After Refusing Women's Asia Cup Trophy From Mohsin Naqvi",
+     "url": "https://sports.ndtv.com/cricket/bccis-stand-indian-teams-first-reaction-after-refusing-womens-asia-cup-trophy-from-mohsin-naqvi-12042497#publisher=newsstand",
+     "summary": "The Asia Cup trophy impasse continued for the second year in a row after the victorious Indian women's cricket team on Sunday did not accept the trophy from Mohsin Naqvi",
+     "published": "2026-09-13T19:55:45+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/rkn52vbo_indian-womens-cricket-team_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "81b006b5e281",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
      "title": "Lamine Yamal Scores Twice As Barcelona Survive Levante Scare; Harry Kane Saves Bayern Munich",
@@ -1819,20 +1806,17 @@
      "category_label": "General"
     },
     {
-     "title": "Alexander Zverev vs Ben Shelton LIVE, US Open Men's Singles Final: Zverev Breaks Again, Takes 1st Set 6-3 vs Shelton",
-     "url": "https://sports.ndtv.com/tennis/alexander-zverev-vs-ben-shelton-live-score-us-open-2026-mens-singles-final-tennis-live-updates-live-streaming-12042052#publisher=newsstand",
-     "summary": "Alexander Zverev vs Ben Shelton LIVE, US Open Final: Top seed Alexander Zverev has taken early control of the 2026 US Open men's singles final, taking the first set 6-3 against home favourite Ben Shelton at Arthur Ashe Stadium.",
-     "published": "2026-09-13T19:06:54+00:00",
+     "title": "Dhiraj Bommadevara Scripts History, Becomes 1st Indian Male Recurve Archer To Win World Cup Final Gold",
+     "url": "https://sports.ndtv.com/archery/dhiraj-bommadevara-scripts-history-becomes-1st-indian-male-recurve-archer-to-win-world-cup-final-gold-12042381#publisher=newsstand",
+     "summary": "Top-ranked Indian recurve archer Dhiraj Bommadevara scripted history on Sunday by becoming the first Indian male recurve archer to win gold at the World Cup Final, edging Japan's Nakanishi Junya in a thrilling shoot-off.",
+     "published": "2026-09-13T19:03:38+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/94h7oo2o_alexander-zverev-afp_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/1qgmrdi4_dhiraj-bommadevara_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "5d27310b569b",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "3 against home favourite Ben Shelton"
-     ]
+     "id": "9d0ffa9123fc",
+     "category": "sports",
+     "category_label": "Sports"
     }
    ]
   },
