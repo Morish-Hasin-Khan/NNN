@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-13T22:35:38.503710+00:00",
- "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
+ "generated_at": "2026-09-13T23:02:07.243939+00:00",
+ "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
    "key": "sensex",
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Police Deny",
-  "Indonesian Java",
+  "Maratha Jarange",
+  "Cheerbasa Helipad",
   "Jazeera English",
   "News",
   "Maharashtra",
-  "Centre Bihar",
-  "BRICS Summit",
+  "Zverev Shelton",
   "Could",
-  "Barcelona Levante",
-  "Iran Brics"
+  "Indonesian Java",
+  "Iran Brics",
+  "Draft Reserve"
  ],
  "sections": [
   {
@@ -102,6 +102,45 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied",
+     "url": "https://www.thehindu.com/news/national/maharashtra/maratha-reservation-protest-conspiracy-to-kill-me-during-mumbai-march-alleges-jarange/article71463158.ece",
+     "summary": "Mumbai Police, which has denied the permission for the indefinite hunger strike from Sept. 19, cited restrictions governing demonstrations at Azad Maidan and said the Ganeshotsav period would already place substantial demands on the city’s police force",
+     "published": "2026-09-13T21:16:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/3kuslb/article71463178.ece/alternates/LANDSCAPE_1200/MH-QUOTA-JARANGGDLGGAIEF.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "97fcd11d050c",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Police Deny Activist Manoj Jarange Permission To Hold Mumbai Hunger Strike",
+       "url": "https://www.ndtv.com/india-news/police-deny-activist-manoj-jarange-permission-to-hold-mumbai-hunger-strike-12042406#publisher=newsstand",
+       "summary": "Manoj Jarange slammed the police's decision and accused Maharashtra government of trying to suppress his agitation."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "19, cited restrictions governing demonstrations"
+     ]
+    },
+    {
+     "title": "Man killed by falling boulders near Cheerbasa Helipad as Kedarnath Yatra suspended temporarily",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-yatra-suspended-temporarily-man-killed/article71464684.ece",
+     "summary": "Officials said travellers heading to Kedarnath have been advised to halt at Sonprayag and Gaurikund, while those returning have been told to stop at Jangalchatti",
+     "published": "2026-09-13T22:49:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i3s58v/article71464686.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000271B.jpg",
+     "licence": "linkout",
+     "id": "def7f50de870",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Police Deny Activist Manoj Jarange Permission To Hold Mumbai Hunger Strike",
      "url": "https://www.ndtv.com/india-news/police-deny-activist-manoj-jarange-permission-to-hold-mumbai-hunger-strike-12042406#publisher=newsstand",
@@ -115,24 +154,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
-    },
-    {
-     "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-     "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-     "published": "2026-09-13T13:30:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg",
-     "licence": "linkout",
-     "id": "f1c6b50dde0f",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "130 missing after Indonesian ferry capsizes",
-      "8 ship , which had encountered"
-     ]
     },
     {
      "title": "Iran war reshapes Brics ties but also exposes divisions",
@@ -444,7 +465,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-13T22:35:25.703484+00:00",
+     "published": "2026-09-13T23:01:54.460115+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -455,7 +476,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-13T22:35:25.703497+00:00",
+     "published": "2026-09-13T23:01:54.460127+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -466,7 +487,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-13T22:35:25.703501+00:00",
+     "published": "2026-09-13T23:01:54.460133+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -477,7 +498,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-13T22:35:25.703504+00:00",
+     "published": "2026-09-13T23:01:54.460137+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -488,7 +509,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-13T22:35:25.703506+00:00",
+     "published": "2026-09-13T23:01:54.460141+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -499,7 +520,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-13T22:35:25.703509+00:00",
+     "published": "2026-09-13T23:01:54.460145+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -554,6 +575,43 @@
    "upsc": false,
    "items": [
     {
+     "title": "Man killed by falling boulders near Cheerbasa Helipad as Kedarnath Yatra suspended temporarily",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-yatra-suspended-temporarily-man-killed/article71464684.ece",
+     "summary": "Officials said travellers heading to Kedarnath have been advised to halt at Sonprayag and Gaurikund, while those returning have been told to stop at Jangalchatti",
+     "published": "2026-09-13T22:49:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i3s58v/article71464686.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000271B.jpg",
+     "licence": "linkout",
+     "id": "def7f50de870",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied",
+     "url": "https://www.thehindu.com/news/national/maharashtra/maratha-reservation-protest-conspiracy-to-kill-me-during-mumbai-march-alleges-jarange/article71463158.ece",
+     "summary": "Mumbai Police, which has denied the permission for the indefinite hunger strike from Sept. 19, cited restrictions governing demonstrations at Azad Maidan and said the Ganeshotsav period would already place substantial demands on the city’s police force",
+     "published": "2026-09-13T21:16:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/3kuslb/article71463178.ece/alternates/LANDSCAPE_1200/MH-QUOTA-JARANGGDLGGAIEF.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "97fcd11d050c",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Police Deny Activist Manoj Jarange Permission To Hold Mumbai Hunger Strike",
+       "url": "https://www.ndtv.com/india-news/police-deny-activist-manoj-jarange-permission-to-hold-mumbai-hunger-strike-12042406#publisher=newsstand",
+       "summary": "Manoj Jarange slammed the police's decision and accused Maharashtra government of trying to suppress his agitation."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "19, cited restrictions governing demonstrations"
+     ]
+    },
+    {
      "title": "Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues",
      "url": "https://www.thehindu.com/news/national/bihar/centre-treating-bihar-as-stepchild-tejashwi-yadav-on-flood-related-issues/article71463495.ece",
      "summary": "The LoP in Bihar said that over 48 lakh people are affected by the recent floods, but the ‘double-engine’ government is not serious about this matter as both engines have caught fire",
@@ -568,69 +626,6 @@
      "figures": [
       "48 lakh people are affected"
      ]
-    },
-    {
-     "title": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas",
-     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
-     "summary": "Prime Minister Narendra Modi highlighted that both sides must be guided by three mutuals: mutual respect, mutual sensitivity and mutual interest",
-     "published": "2026-09-13T19:58:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
-     "licence": "linkout",
-     "id": "0dd93ea2d5d0",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi",
-     "url": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece",
-     "summary": "Harmanpreet Kaur-led India defeated Sri Lanka by 72 runs here to lift their record-extending eighth Asia Cup title, but the players did not come out on the field for post-tournament presentation ceremonies",
-     "published": "2026-09-13T19:43:57+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r0cgb7/article71464512.ece/alternates/LANDSCAPE_1200/AP09_29_2025_000045B.jpg",
-     "licence": "linkout",
-     "id": "085b2403d94b",
-     "also": [
-      {
-       "source": "NDTV Sports",
-       "title": "No Trophy For Victorious India In Women's Asia Cup 2026, Mohsin Naqvi Row Reignites",
-       "url": "https://sports.ndtv.com/cricket/no-trophy-for-victorious-india-in-womens-asia-cup-2026-mohsin-naqvi-row-reignites-12042411#publisher=newsstand",
-       "summary": "The Indian cricket team did not get any trophy after the Women's Asia Cup 2026 final win in Dubai"
-      }
-     ],
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "72 runs here to lift their"
-     ]
-    },
-    {
-     "title": "Keralam CM V.D. Satheesan takes a trip down memory lane at alumni meet",
-     "url": "https://www.thehindu.com/news/national/kerala/satheesan-takes-a-trip-down-memory-lane-at-alumni-meet/article71464032.ece",
-     "summary": "",
-     "published": "2026-09-13T19:27:59+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "29a1c4bb2048",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
-     "url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece",
-     "summary": "State Minister for Foreign Affairs Humaiun Kobir said Bangladesh needs to move beyond what he described as an “excessive preoccupation” with India and approach its relationship with New Delhi in a balanced manner",
-     "published": "2026-09-13T19:14:18+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qcpcft/article71464483.ece/alternates/LANDSCAPE_1200/Ruling-BNP-authGJ9GBDBIN.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "01f9bd8ff23d",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Bid To Revive Ladakh Lake That Shrunk By 70% In A Decade",
@@ -683,6 +678,27 @@
    "upsc": false,
    "items": [
     {
+     "title": "Zverev defeats Shelton in four sets to win his first US Open title",
+     "url": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+     "summary": "Germany's Alexander Zverev beats Ben Shelton of USA 6-3 7-6(2) ​5-7 6-2 to claim the men's singles trophy in New York.",
+     "published": "2026-09-13T22:33:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260913__C88D6J4__v1__HighRes__776489269-1789338597.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "98b396a70eee",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "Alexander Zverev vs Ben Shelton LIVE, US Open Men's Singles Final: Zverev To Serve For Match After Breaking Sheldon Twice In Set 4",
+       "url": "https://sports.ndtv.com/tennis/alexander-zverev-vs-ben-shelton-live-score-us-open-2026-mens-singles-final-tennis-live-updates-live-streaming-12042052#publisher=newsstand",
+       "summary": "Alexander Zverev vs Ben Shelton LIVE, US Open Final: Ben Shelton trails two sets to one against top seed Alexander Zverev in the 2026 US Open men's singles final at Arthur Ashe Stadium in New York."
+      }
+     ],
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Could AI really kill us within a decade?",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
      "summary": "AI companies are warning that their technology could wipe out humanity.",
@@ -717,22 +733,6 @@
      "category_label": "General"
     },
     {
-     "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
-     "url": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
-     "summary": "The Americans won the 100m and 200m at the Ultimate Championship that saw elite athletes win $150,000 each.",
-     "published": "2026-09-13T22:02:10+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa709b532d6-1789331893.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "c29ea7408989",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "$150,000  each"
-     ]
-    },
-    {
      "title": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
      "url": "https://www.aljazeera.com/sports/2026/9/13/manchester-city-wrongly-awarded-haaland-goal-by-var-at-united-refs-body?traffic_source=rss",
      "summary": "Erling Haaland's derby winner against Manchester United should not have stood, Premier League referees' body admits.",
@@ -746,19 +746,6 @@
      "category_label": "Sports"
     },
     {
-     "title": "Tehran and Muscat delay talks, citing regional consensus need",
-     "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
-     "summary": "Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.",
-     "published": "2026-09-13T21:50:50+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa63b6f-1789279087.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "ffbc7d929e7c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
@@ -770,6 +757,23 @@
      "id": "5923a3a276c9",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+     "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+     "published": "2026-09-13T13:30:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg",
+     "licence": "linkout",
+     "id": "f1c6b50dde0f",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "130 missing after Indonesian ferry capsizes",
+      "8 ship , which had encountered"
+     ]
     }
    ]
   },
@@ -818,6 +822,35 @@
    "upsc": false,
    "items": [
     {
+     "title": "Man killed by falling boulders near Cheerbasa Helipad as Kedarnath Yatra suspended temporarily",
+     "url": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-yatra-suspended-temporarily-man-killed/article71464684.ece",
+     "summary": "Officials said travellers heading to Kedarnath have been advised to halt at Sonprayag and Gaurikund, while those returning have been told to stop at Jangalchatti",
+     "published": "2026-09-13T22:49:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i3s58v/article71464686.ece/alternates/LANDSCAPE_1200/PTI09_12_2026_000271B.jpg",
+     "licence": "linkout",
+     "id": "def7f50de870",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied",
+     "url": "https://www.thehindu.com/news/national/maharashtra/maratha-reservation-protest-conspiracy-to-kill-me-during-mumbai-march-alleges-jarange/article71463158.ece",
+     "summary": "Mumbai Police, which has denied the permission for the indefinite hunger strike from Sept. 19, cited restrictions governing demonstrations at Azad Maidan and said the Ganeshotsav period would already place substantial demands on the city’s police force",
+     "published": "2026-09-13T21:16:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/3kuslb/article71463178.ece/alternates/LANDSCAPE_1200/MH-QUOTA-JARANGGDLGGAIEF.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "97fcd11d050c",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "19, cited restrictions governing demonstrations"
+     ]
+    },
+    {
      "title": "Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues",
      "url": "https://www.thehindu.com/news/national/bihar/centre-treating-bihar-as-stepchild-tejashwi-yadav-on-flood-related-issues/article71463495.ece",
      "summary": "The LoP in Bihar said that over 48 lakh people are affected by the recent floods, but the ‘double-engine’ government is not serious about this matter as both engines have caught fire",
@@ -834,41 +867,30 @@
      ]
     },
     {
-     "title": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas",
-     "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
-     "summary": "Prime Minister Narendra Modi highlighted that both sides must be guided by three mutuals: mutual respect, mutual sensitivity and mutual interest",
-     "published": "2026-09-13T19:58:32+00:00",
+     "title": "Keralam CM V.D. Satheesan takes a trip down memory lane at alumni meet",
+     "url": "https://www.thehindu.com/news/national/kerala/satheesan-takes-a-trip-down-memory-lane-at-alumni-meet/article71464032.ece",
+     "summary": "",
+     "published": "2026-09-13T19:27:59+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n78dvw/article71459004.ece/alternates/LANDSCAPE_1200/2026-09-12T010843Z_903953370_RC2BHNA4JKJA_RTRMADP_3_BRICS-SUMMIT.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "0dd93ea2d5d0",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "29a1c4bb2048",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi",
-     "url": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece",
-     "summary": "Harmanpreet Kaur-led India defeated Sri Lanka by 72 runs here to lift their record-extending eighth Asia Cup title, but the players did not come out on the field for post-tournament presentation ceremonies",
-     "published": "2026-09-13T19:43:57+00:00",
+     "title": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh",
+     "url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece",
+     "summary": "State Minister for Foreign Affairs Humaiun Kobir said Bangladesh needs to move beyond what he described as an “excessive preoccupation” with India and approach its relationship with New Delhi in a balanced manner",
+     "published": "2026-09-13T19:14:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r0cgb7/article71464512.ece/alternates/LANDSCAPE_1200/AP09_29_2025_000045B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/qcpcft/article71464483.ece/alternates/LANDSCAPE_1200/Ruling-BNP-authGJ9GBDBIN.3.jpg.jpg",
      "licence": "linkout",
-     "id": "085b2403d94b",
-     "also": [
-      {
-       "source": "NDTV Sports",
-       "title": "India vs Sri Lanka Highlights, Women's Asia Cup Final: India Win Record-Extending 8th Title, Refuse To Accept Trophy From Mohsin Naqvi",
-       "url": "https://sports.ndtv.com/cricket/india-vs-sri-lanka-live-score-womens-asia-cup-2026-final-live-updates-dubai-ind-vs-sl-smriti-mandhana-harmanpreet-kaur-shafali-verma-12041365#publisher=newsstand",
-       "summary": "India Women vs Sri Lanka Women, Women's Asia Cup Final: India have been crowned Women's Asia Cup champions with a 72-run win in the final over Sri Lanka."
-      }
-     ],
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "72 runs here to lift their"
-     ]
+     "id": "01f9bd8ff23d",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Pre-booking of photo book on Indira Gandhi launched",
@@ -884,40 +906,11 @@
      "category_label": "General"
     },
     {
-     "title": "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-candidate-in-dharapuram-cpim-in-madurantakam/article71462935.ece",
-     "summary": "Candidates to be announced on September 15. According to Mr. Veerapandian, the upcoming bypolls in the Madurantakam and Dharapuram constituencies are not normal byelections, but what he termed as byelections imposed on people.",
-     "published": "2026-09-13T18:57:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uykrvh/article71462985.ece/alternates/LANDSCAPE_1200/CPI%20-%20VEERA%20PANDIYAN%2025072026%20%20final%20.00_02_31_47.Still004.jpg",
-     "licence": "linkout",
-     "id": "85a3503e93ea",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "15. According to Mr"
-     ]
-    },
-    {
-     "title": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner",
-     "url": "https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece",
-     "summary": "80% of Indians are non-vegetarian, and Indian non-vegetarian food is delicious, Rahul Gandhi said",
-     "published": "2026-09-13T18:56:57+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ts2pcw/article71463080.ece/alternates/LANDSCAPE_1200/20260910267L.jpg",
-     "licence": "linkout",
-     "id": "d7d13c462697",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Today News Headlines for School Assembly, September 14, 2026: India to compete with Sri Lanka for eighth Asia Cup title tonight",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNXI1Tm9kUTlHWTQ5UDBaZDNmejU4QkxvdGFQOHNwX3B6V1N4dVVxQmJvQVFsVHdmZHplR3JWeDk2aEdIZ2hOSWFjYVlNMEdONlVpLVZaUlhzYW5VVnlxTDZINFlTRVllSVpZc2hKNFp6emlLM1dtbmpELW1QRFJVbEU5VFpKN2lyM3ZVWFYzLVJHR1hYX1lKTWhRQmxZTmxMMFp2M1lrTENOMUxVNFp1dmlXZ0d3MWdGNUZtaVotcE04SlBucFl3LXNLNEJEZjMzcmU5NkVaN1Y0dUlXNmpMNDl1LXZzd3FweFU2OHpTbXg0QUpIc1pCQU1BeWFlekxVb3BYZVdPTENMZ9IBkAJBVV95cUxQZVBVMThoNXFWWngyMElmbEtzV1c0cHVvb2Z6a1pFOGhMQ0NWZ3pLYU4zSFJXOFFaRXdoMjVyNmY3R0JFZW9lZngxMHpxcktqTzFXYkR5blhiaFRSWmFQQ1A4c2h6d2JFbnJYYkFhbW82TVZqa0JhMnlYX3dkSUhOVWNnaWdGUkJFb1BiQ0FhR0JoSTh1Nk0zZ1pKdGtjVjQ4RENrVEZWOGV6QjYzNWh3WV9TRkoybzRCRXJFeHRMOC1IOWFzNGtwNTlEdUdLUU9naWFXRzFTUVpHMUpUTDZPNDh1RGRWZzIwVGk1enNHdnAwYWxsMVhzZ0czTkhlVWNpOW1sQmZnRDY0LWxTZ0NDMg?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 14, 2026: India to compete with Sri Lanka for eighth Asia Cup title tonight indianexpress.com",
+     "summary": "Today News Headlines for School Assembly, September 14, 2026: India to compete with Sri Lanka for eighth Asia Cup title tonight The Indian Express",
      "published": "2026-09-13T12:25:57+00:00",
-     "source": "indianexpress.com",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1629,7 +1622,8 @@
      "show_url": "https://www.youtube.com/@AjeetBharti",
      "id": "accc0ef3373c"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "business",
@@ -1795,6 +1789,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "What are the five pros and cons of artificial intelligence?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5",
+     "summary": "What are the five pros and cons of artificial intelligence? aljazeera.com",
+     "published": "2026-09-13T15:06:08+00:00",
+     "source": "aljazeera.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "3ed13d4a7581",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
      "summary": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda The New York Times",
@@ -1808,24 +1815,11 @@
      "category_label": "General"
     },
     {
-     "title": "What are the five pros and cons of artificial intelligence?",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5",
-     "summary": "What are the five pros and cons of artificial intelligence? Al Jazeera",
-     "published": "2026-09-13T15:06:08+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "3ed13d4a7581",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
      "title": "AI will transform capitalism – but how?",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0FZa2NtaEdMSERqbGRwMDN4Q1doVzF4VXIyVFFvNzVVRVZoVUtEYUY0eTZtbmtZQ3dVRjVoSGduMXp6OFNCVXVwaFd2SG5ISEtDSGNvQktCTEsxQ1RsYUdaSkFad2FKUWVyN3RiV1BoSjk0XzBXY0NPTVJocDZ6Z0FvZXhjOVJKam02M29Wb2Y?oc=5",
-     "summary": "AI will transform capitalism – but how? The Guardian",
+     "summary": "AI will transform capitalism – but how? theguardian.com",
      "published": "2026-09-13T11:33:00+00:00",
-     "source": "The Guardian",
+     "source": "theguardian.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
