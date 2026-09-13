@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T21:01:55.199408+00:00",
+ "generated_at": "2026-09-13T21:33:49.755967+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Jerusalem Daily",
   "Police Deny",
-  "Turkish LGBTQ",
   "Jazeera English",
   "News",
   "Maharashtra",
+  "Centre Bihar",
   "BRICS Summit",
-  "Asia Indian",
-  "Envoy Jared",
-  "Irish Trump",
-  "Indonesian Java"
+  "Arctic",
+  "Indonesian Java",
+  "Iran Brics"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+     "summary": "Israeli forces kill a pregnant Palestinian woman in Gaza and settler pogroms intensify across the occupied West Bank.",
+     "published": "2026-09-13T20:46:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789331353.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "4d2de3325537",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "Police Deny Activist Manoj Jarange Permission To Hold Mumbai Hunger Strike",
      "url": "https://www.ndtv.com/india-news/police-deny-activist-manoj-jarange-permission-to-hold-mumbai-hunger-strike-12042406#publisher=newsstand",
@@ -115,20 +129,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
-    },
-    {
-     "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-     "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-     "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-     "published": "2026-09-13T14:25:56+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "afcdebd29453",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
     },
     {
      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -191,6 +191,20 @@
      "from_section": "Global News"
     },
     {
+     "title": "India win Women’s Asia Cup but do not accept trophy",
+     "url": "https://www.aljazeera.com/sports/2026/9/13/india-win-womens-asia-cup-but-do-not-accept-trophy?traffic_source=rss",
+     "summary": "India were not present at the trophy ceremony, which was led by Pakistani Interior Minister and ACC President Naqvi.",
+     "published": "2026-09-13T20:41:12+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/VJR075175-1789322595.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "cd3808671880",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
      "title": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas",
      "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
      "summary": "Prime Minister Narendra Modi highlighted that both sides must be guided by three mutuals: mutual respect, mutual sensitivity and mutual interest",
@@ -205,20 +219,6 @@
      "from_section": "National News"
     },
     {
-     "title": "Swedes vote in election that could see far-right in government",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
-     "summary": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
-     "published": "2026-09-13T19:58:11+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-20.53.34-1789329369.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "946153995f96",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
      "title": "BRICS Summit 2026 Highlights: PM Modi Thanks Leaders For Making BRICS Summit In Delhi \"Productive\"",
      "url": "https://www.ndtv.com/india-news/brics-summit-2026-live-updates-today-pm-narendra-modi-putin-xi-jinping-meet-bharat-mandapam-traffic-new-delhi-declaration-backs-return-of-antiquities-12039405#publisher=newsstand",
      "summary": "BRICS Summit 2026 Highlights: Discussions at the two-day summit were centred on the theme \"Strengthening Cooperation to Promote Fair Competition, including in Renewable Energy Markets\", with a primary focus on advancing sustainable energy transitions.",
@@ -230,10 +230,10 @@
      "id": "be60e118b14f",
      "also": [
       {
-       "source": "newsonair.gov.in",
+       "source": "News On AIR",
        "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
-       "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week newsonair.gov.in"
+       "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR"
       }
      ],
      "category": "money",
@@ -314,18 +314,21 @@
      "from_section": "Culture"
     },
     {
-     "title": "Stalled ferry services to two key jetties hit tourists, commuters",
-     "url": "https://www.thehindu.com/news/national/kerala/tourists-hit-as-ferry-services-to-two-kochi-prime-jetties-remain-stalled/article71462982.ece",
-     "summary": "SWTD attributes the delay in resuming services to the Mattancherry jetty to the pending dredging on its premises. It says the Kamalakadavu jetty is yet to be handed over by CSML despite the completion of pontoon and allied works.",
-     "published": "2026-09-13T18:49:49+00:00",
+     "title": "Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues",
+     "url": "https://www.thehindu.com/news/national/bihar/centre-treating-bihar-as-stepchild-tejashwi-yadav-on-flood-related-issues/article71463495.ece",
+     "summary": "The LoP in Bihar said that over 48 lakh people are affected by the recent floods, but the ‘double-engine’ government is not serious about this matter as both engines have caught fire",
+     "published": "2026-09-13T21:03:34+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/x5tk6h/article71464450.ece/alternates/LANDSCAPE_1200/Boat_jetty04.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/pxcrqc/article71464537.ece/alternates/LANDSCAPE_1200/20260913197L.jpg",
      "licence": "linkout",
-     "id": "a19497432c8d",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National Hotlines"
+     "id": "d265a033d001",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News",
+     "figures": [
+      "48 lakh people are affected"
+     ]
     },
     {
      "title": "Questions mount over what an AI 'slowdown' would look like",
@@ -358,9 +361,9 @@
     {
      "title": "What are the five pros and cons of artificial intelligence?",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5",
-     "summary": "What are the five pros and cons of artificial intelligence? aljazeera.com",
+     "summary": "What are the five pros and cons of artificial intelligence? Al Jazeera",
      "published": "2026-09-13T15:06:08+00:00",
-     "source": "aljazeera.com",
+     "source": "Al Jazeera",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -380,6 +383,12 @@
      "licence": "linkout",
      "id": "085b2403d94b",
      "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "India win Women’s Asia Cup but do not accept trophy",
+       "url": "https://www.aljazeera.com/sports/2026/9/13/india-win-womens-asia-cup-but-do-not-accept-trophy?traffic_source=rss",
+       "summary": "India were not present at the trophy ceremony, which was led by Pakistani Interior Minister and ACC President Naqvi."
+      },
       {
        "source": "NDTV Sports",
        "title": "India vs Sri Lanka Highlights, Women's Asia Cup Final: India Win Record-Extending 8th Title, Refuse To Accept Trophy From Mohsin Naqvi",
@@ -417,18 +426,18 @@
      "from_section": "Sports"
     },
     {
-     "title": "Ronaldo calls for life bans of Saudi Pro League fans after Jota chants",
-     "url": "https://www.aljazeera.com/sports/2026/9/13/ronaldo-calls-of-life-bans-of-saudi-pro-league-fans-after-jota-chants?traffic_source=rss",
-     "summary": "Fans at Al-Taawoun and Al-Hilal game seem to taunt Ruben Neves by chanting name of deceased teammate, Diogo Jota.",
-     "published": "2026-09-13T19:55:49+00:00",
-     "source": "Al Jazeera",
+     "title": "\"BCCI's Stand\": Indian Team's First Reaction After Refusing Women's Asia Cup Trophy From Mohsin Naqvi",
+     "url": "https://sports.ndtv.com/cricket/bccis-stand-indian-teams-first-reaction-after-refusing-womens-asia-cup-trophy-from-mohsin-naqvi-12042497#publisher=newsstand",
+     "summary": "The Asia Cup trophy impasse continued for the second year in a row after the victorious Indian women's cricket team on Sunday did not accept the trophy from Mohsin Naqvi",
+     "published": "2026-09-13T19:55:45+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-05T184248Z_1325689096_UP1EM951FZB9K_RTRMADP_3_SOCCER-SAUDI-ITH-NSR-1789328359.jpg?resize=1707%2C1080",
+     "image": "https://c.ndtvimg.com/2026-09/rkn52vbo_indian-womens-cricket-team_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "0991de147fbf",
+     "id": "81b006b5e281",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Global News"
+     "from_section": "Sports"
     },
     {
      "title": "60 years after 174-acre govt land transfer, Maharashtra forms SIT to probe deals",
@@ -461,7 +470,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-13T21:01:42.371735+00:00",
+     "published": "2026-09-13T21:33:36.528755+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -472,7 +481,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-13T21:01:42.371752+00:00",
+     "published": "2026-09-13T21:33:36.528770+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -483,7 +492,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-13T21:01:42.371758+00:00",
+     "published": "2026-09-13T21:33:36.528777+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -494,7 +503,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-13T21:01:42.371763+00:00",
+     "published": "2026-09-13T21:33:36.528782+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -505,7 +514,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-13T21:01:42.371768+00:00",
+     "published": "2026-09-13T21:33:36.528787+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -516,7 +525,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-13T21:01:42.371773+00:00",
+     "published": "2026-09-13T21:33:36.528791+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -568,6 +577,22 @@
    "upsc": false,
    "items": [
     {
+     "title": "Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues",
+     "url": "https://www.thehindu.com/news/national/bihar/centre-treating-bihar-as-stepchild-tejashwi-yadav-on-flood-related-issues/article71463495.ece",
+     "summary": "The LoP in Bihar said that over 48 lakh people are affected by the recent floods, but the ‘double-engine’ government is not serious about this matter as both engines have caught fire",
+     "published": "2026-09-13T21:03:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/pxcrqc/article71464537.ece/alternates/LANDSCAPE_1200/20260913197L.jpg",
+     "licence": "linkout",
+     "id": "d265a033d001",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "48 lakh people are affected"
+     ]
+    },
+    {
      "title": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas",
      "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
      "summary": "Prime Minister Narendra Modi highlighted that both sides must be guided by three mutuals: mutual respect, mutual sensitivity and mutual interest",
@@ -591,6 +616,12 @@
      "licence": "linkout",
      "id": "085b2403d94b",
      "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "India win Women’s Asia Cup but do not accept trophy",
+       "url": "https://www.aljazeera.com/sports/2026/9/13/india-win-womens-asia-cup-but-do-not-accept-trophy?traffic_source=rss",
+       "summary": "India were not present at the trophy ceremony, which was led by Pakistani Interior Minister and ACC President Naqvi."
+      },
       {
        "source": "NDTV Sports",
        "title": "India vs Sri Lanka Highlights, Women's Asia Cup Final: India Win Record-Extending 8th Title, Refuse To Accept Trophy From Mohsin Naqvi",
@@ -629,19 +660,6 @@
      "id": "01f9bd8ff23d",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Pre-booking of photo book on Indira Gandhi launched",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece",
-     "summary": "",
-     "published": "2026-09-13T18:59:21+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3w26s7/article71463454.ece/alternates/LANDSCAPE_1200/DSC_0454.JPG",
-     "licence": "linkout",
-     "id": "2c05ad463af2",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Bid To Revive Ladakh Lake That Shrunk By 70% In A Decade",
@@ -694,6 +712,45 @@
    "upsc": false,
    "items": [
     {
+     "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+     "summary": "Israeli forces kill a pregnant Palestinian woman in Gaza and settler pogroms intensify across the occupied West Bank.",
+     "published": "2026-09-13T20:46:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789331353.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "4d2de3325537",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Can a warming Arctic become an important commercial highway?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
+     "summary": "The conflict in the Middle East raises security concerns about traditional shipping routes.",
+     "published": "2026-09-13T20:44:51+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789330859.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "a2d13504bff1",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "India win Women’s Asia Cup but do not accept trophy",
+     "url": "https://www.aljazeera.com/sports/2026/9/13/india-win-womens-asia-cup-but-do-not-accept-trophy?traffic_source=rss",
+     "summary": "India were not present at the trophy ceremony, which was led by Pakistani Interior Minister and ACC President Naqvi.",
+     "published": "2026-09-13T20:41:12+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/VJR075175-1789322595.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "cd3808671880",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
      "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
      "summary": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated'",
@@ -707,48 +764,6 @@
      "category_label": "General"
     },
     {
-     "title": "US will scrap Irish whisky tariff, Trump says",
-     "url": "https://www.aljazeera.com/news/2026/9/13/trump-says-he-plans-to-remove-a-15-tariff-on-irish-whisky?traffic_source=rss",
-     "summary": "The announcement comes several months after the US decreased the tariff by 5 percent.",
-     "published": "2026-09-13T20:29:57+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa6fb7835-1789328248.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "535341077b35",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "5 percent"
-     ]
-    },
-    {
-     "title": "Swedes vote in election that could see far-right in government",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
-     "summary": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
-     "published": "2026-09-13T19:58:11+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-20.53.34-1789329369.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "946153995f96",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Guyana’s oil boom and challenges",
-     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
-     "summary": "Guyana’s president says his country has seen an increase in oil revenue as the Iran conflict reshapes global markets.",
-     "published": "2026-09-13T19:55:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789318519.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "0bf68261963f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
@@ -760,6 +775,22 @@
      "id": "5923a3a276c9",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Swedish party blocs tied after Sunday vote, projections say",
+     "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+     "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+     "published": "2026-09-13T21:17:15+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e0/live/f8b9f5b0-afa4-11f1-a27d-17e2480354ed.jpg",
+     "licence": "linkout",
+     "id": "e2a8040159d3",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "20,000 votes , Sweden public broadvasteer"
+     ]
     }
    ]
   },
@@ -808,6 +839,22 @@
    "upsc": false,
    "items": [
     {
+     "title": "Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues",
+     "url": "https://www.thehindu.com/news/national/bihar/centre-treating-bihar-as-stepchild-tejashwi-yadav-on-flood-related-issues/article71463495.ece",
+     "summary": "The LoP in Bihar said that over 48 lakh people are affected by the recent floods, but the ‘double-engine’ government is not serious about this matter as both engines have caught fire",
+     "published": "2026-09-13T21:03:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/pxcrqc/article71464537.ece/alternates/LANDSCAPE_1200/20260913197L.jpg",
+     "licence": "linkout",
+     "id": "d265a033d001",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "48 lakh people are affected"
+     ]
+    },
+    {
      "title": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas",
      "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
      "summary": "Prime Minister Narendra Modi highlighted that both sides must be guided by three mutuals: mutual respect, mutual sensitivity and mutual interest",
@@ -845,15 +892,15 @@
      ]
     },
     {
-     "title": "Keralam CM V.D. Satheesan takes a trip down memory lane at alumni meet",
-     "url": "https://www.thehindu.com/news/national/kerala/satheesan-takes-a-trip-down-memory-lane-at-alumni-meet/article71464032.ece",
+     "title": "Pre-booking of photo book on Indira Gandhi launched",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece",
      "summary": "",
-     "published": "2026-09-13T19:27:59+00:00",
+     "published": "2026-09-13T18:59:21+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/3w26s7/article71463454.ece/alternates/LANDSCAPE_1200/DSC_0454.JPG",
      "licence": "linkout",
-     "id": "29a1c4bb2048",
+     "id": "2c05ad463af2",
      "category": "general",
      "category_label": "General"
     },
@@ -889,9 +936,9 @@
     {
      "title": "Today News Headlines for School Assembly, September 14, 2026: India to compete with Sri Lanka for eighth Asia Cup title tonight",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNXI1Tm9kUTlHWTQ5UDBaZDNmejU4QkxvdGFQOHNwX3B6V1N4dVVxQmJvQVFsVHdmZHplR3JWeDk2aEdIZ2hOSWFjYVlNMEdONlVpLVZaUlhzYW5VVnlxTDZINFlTRVllSVpZc2hKNFp6emlLM1dtbmpELW1QRFJVbEU5VFpKN2lyM3ZVWFYzLVJHR1hYX1lKTWhRQmxZTmxMMFp2M1lrTENOMUxVNFp1dmlXZ0d3MWdGNUZtaVotcE04SlBucFl3LXNLNEJEZjMzcmU5NkVaN1Y0dUlXNmpMNDl1LXZzd3FweFU2OHpTbXg0QUpIc1pCQU1BeWFlekxVb3BYZVdPTENMZ9IBkAJBVV95cUxQZVBVMThoNXFWWngyMElmbEtzV1c0cHVvb2Z6a1pFOGhMQ0NWZ3pLYU4zSFJXOFFaRXdoMjVyNmY3R0JFZW9lZngxMHpxcktqTzFXYkR5blhiaFRSWmFQQ1A4c2h6d2JFbnJYYkFhbW82TVZqa0JhMnlYX3dkSUhOVWNnaWdGUkJFb1BiQ0FhR0JoSTh1Nk0zZ1pKdGtjVjQ4RENrVEZWOGV6QjYzNWh3WV9TRkoybzRCRXJFeHRMOC1IOWFzNGtwNTlEdUdLUU9naWFXRzFTUVpHMUpUTDZPNDh1RGRWZzIwVGk1enNHdnAwYWxsMVhzZ0czTkhlVWNpOW1sQmZnRDY0LWxTZ0NDMg?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 14, 2026: India to compete with Sri Lanka for eighth Asia Cup title tonight indianexpress.com",
+     "summary": "Today News Headlines for School Assembly, September 14, 2026: India to compete with Sri Lanka for eighth Asia Cup title tonight The Indian Express",
      "published": "2026-09-13T12:25:57+00:00",
-     "source": "indianexpress.com",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -902,9 +949,9 @@
     {
      "title": "Top world leaders to attend India-AI Impact Summit in New Delhi next week",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGZvTHJaYXNub21HSm5iRGlkbUZqb1NvNUZhalFEWS1naUdCZDNjSmpqaXVHYjIyQlhab0VWOWI4UHo0M3pPWS1FZnJSamsxZEZObGdZTXNFMU5mUFhNOGNXTzNfQllMb0dPakhVRXBldGZSdThfekNqMUJzc3V0b0pFQWFNS013cW5Db08tQlpuWWh5THNFejM3V01IdmQyeE01Wmcxa28wa0tRNDFXSVNmNl92T2oyMVNvMFNzU0dwak5qY3QzaUVXbw?oc=5",
-     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week newsonair.gov.in",
+     "summary": "Top world leaders to attend India-AI Impact Summit in New Delhi next week News On AIR",
      "published": "2026-09-13T07:59:36+00:00",
-     "source": "newsonair.gov.in",
+     "source": "News On AIR",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1638,19 +1685,6 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-     "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-     "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-     "published": "2026-09-12T21:16:47+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "4a1f65fbb798",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
      "title": "'It's cost upon cost for working families - they get no help'",
      "url": "https://www.bbc.co.uk/news/articles/c158l7zz5n5o?at_medium=RSS&at_campaign=rss",
      "summary": "The government needs to do more to support working families, a charity in Rotherham says.",
@@ -1675,6 +1709,19 @@
      "id": "a8d02bb02716",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Ending rough sleeping is 'not just a housing issue'",
+     "url": "https://www.bbc.co.uk/news/articles/ckg7qyl1yk9o?at_medium=RSS&at_campaign=rss",
+     "summary": "Andy Burnham wants to get people \"in from the cold\" by Christmas, but the scale of the task is huge.",
+     "published": "2026-09-13T05:14:15+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c7/live/8c910140-ae86-11f1-a6ee-cff59daa3c91.jpg",
+     "licence": "linkout",
+     "id": "13032c035f45",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "3 flexi-cap funds hold 52% of the category's AUM: Are the biggest schemes also leading in performance?",
