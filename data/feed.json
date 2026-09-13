@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T10:36:26.049993+00:00",
+ "generated_at": "2026-09-13T11:03:55.176862+00:00",
  "podcasts_fetched_at": "2026-09-11T23:01:35.539662+00:00",
  "markets": [
   {
@@ -49,7 +49,8 @@
    "value": 182338.0,
    "change": -3102.0,
    "changePct": -1.67,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Bengaluru Karnataka",
-  "Returning Home",
+  "House Assam",
+  "Kerala Crime",
   "Jazeera English",
   "News",
   "Bangladesh World",
-  "Indians Indian",
-  "Left Tamil",
-  "Niger",
-  "Voting Sweden",
-  "Death Philippines"
+  "Justice Kameswar",
+  "Fighting Yemen",
+  "Israeli Gaza",
+  "Death Philippines",
+  "Draft Reserve"
  ],
  "sections": [
   {
@@ -102,24 +103,32 @@
    "upsc": false,
    "items": [
     {
-     "title": "800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka",
-     "url": "https://www.thehindu.com/news/cities/bangalore/800-child-labourers-503-from-bengaluru-alone-rescued-in-two-hour-crackdown-across-karnataka/article71460926.ece",
-     "summary": "In a Statewide crackdown on child labour on Saturday, police teams and Labour Department officials inspected 16,951 premises across Karnataka and rescued 800 children, all in a matter of two hours, with Bengaluru city alone accounting for 63% of the rescues, at 503",
-     "published": "2026-09-13T10:24:00+00:00",
+     "title": "House break-in attempt: Assam native held in Keralam’s Thrissur",
+     "url": "https://www.thehindu.com/news/national/kerala/house-break-in-attempt-assam-native-held-in-keralams-thrissur/article71462803.ece",
+     "summary": "Police say 22-year-old broke into a house near Manathala Block Office and attempted to steal valuables",
+     "published": "2026-09-13T10:51:16+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bxowb9/article71462448.ece/alternates/LANDSCAPE_1200/19-child-labourGL0GGNU5S.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/1cypvn/article71463088.ece/alternates/LANDSCAPE_1200/FIR-filed-for-tGG3GH7Q9V.3.jpg.jpg",
      "licence": "linkout",
-     "id": "e32e595f666c",
+     "id": "508605716e66",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "800 child labourers, 503 from Bengaluru",
-      "503 from Bengaluru alone, rescued",
-      "16,951 premises across Karnataka and rescued",
-      "800 children , all"
-     ]
+     "from_section": "National News"
+    },
+    {
+     "title": "Kerala PSC faces legal dilemma over Crime Branch summons in Planning Board exam scam",
+     "url": "https://www.thehindu.com/news/national/kerala/kerala-psc-faces-legal-dilemma-over-crime-branch-summons-in-planning-board-exam-scam/article71462724.ece",
+     "summary": "Commission seeks legal advice on whether its chairperson and members should appear before Crime Branch in connection with the alleged irregularities in a Kerala State Planning Board recruitment examination",
+     "published": "2026-09-13T10:50:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/86xd0/article71463062.ece/alternates/LANDSCAPE_1200/PSC%20Pattom.jpg",
+     "licence": "linkout",
+     "id": "1997838a97bc",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
     },
     {
      "title": "Man, 50, Was Returning Home When A Speeding Thar Killed Him In Faridabad",
@@ -134,6 +143,20 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
+    },
+    {
+     "title": "Israeli attack on Gaza kills two Palestinians",
+     "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+     "summary": "Israeli strikes on Palestinian territory persist despite a 'ceasefire' brokered by the United States.",
+     "published": "2026-09-13T10:22:01+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AA-20260913-42456398-42456377-2_PALESTINIANS_KILLED_13_INJURED_IN_ISRAELI_DRONE_STRIKE_ON_VEHICLE_IN_GAZA-1789292609.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "453e744fcec7",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
      "title": "Niger military government reshuffles army command weeks after deadly mutiny",
@@ -164,27 +187,10 @@
      "from_section": "Sports"
     },
     {
-     "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-     "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-     "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-     "published": "2026-09-12T23:51:05+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/be384650-ae03-11f1-a8b6-3d61421c71fa.jpg",
-     "licence": "linkout",
-     "id": "7cd64c2ba3e2",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News",
-     "figures": [
-      "300 Russians remain missing"
-     ]
-    },
-    {
      "title": "BRICS Summit 2026 LIVE updates: India focused on four pillars: resilience, innovation, cooperation, sustainability, says PM Modi",
      "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece",
      "summary": "Prime Minister Narendra Modi warns against weaponisation of technology, critical minerals",
-     "published": "2026-09-13T10:24:03+00:00",
+     "published": "2026-09-13T10:39:09+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/o38slf/article71462452.ece/alternates/LANDSCAPE_1200/13TH_PTI_BRICS-GDGGHCTLM.3.jpg.jpg",
@@ -200,38 +206,35 @@
      ],
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
-     "title": "‘80% Indians non-vegetarian, Indian non-vegetarian food is delicious’, says Rahul",
-     "url": "https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece",
-     "summary": "Prime Minister Narendra Modi hosted the dinner for the leaders and delegates of the BRICS Summit at the Bharat Mandapam Saturday September 13",
-     "published": "2026-09-13T10:32:44+00:00",
+     "title": "Justice V. Kameswar Rao takes oath as Chief Justice of Patna High Court",
+     "url": "https://www.thehindu.com/news/national/bihar/justice-v-kameswar-rao-takes-oath-as-chief-justice-of-patna-high-court/article71463018.ece",
+     "summary": "The oath-taking ceremony at the Lok Bhavan was attended by Chief Minister Samrat Choudhary and other dignitaries",
+     "published": "2026-09-13T10:51:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ts2pcw/article71463080.ece/alternates/LANDSCAPE_1200/20260910267L.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/wz7k4q/article71463030.ece/alternates/LANDSCAPE_1200/v_kameswar_rao.jpg",
      "licence": "linkout",
-     "id": "d7d13c462697",
+     "id": "3d299826b9e2",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-candidate-in-dharapuram-cpim-in-madurantakam/article71462935.ece",
-     "summary": "Candidates to be announced on September 15. According to Mr. Veerapandian, the upcoming bypolls in the Madurantakam and Dharapuram constituencies are not normal byelections, but what he termed as byelections imposed on people.",
-     "published": "2026-09-13T10:29:41+00:00",
-     "source": "The Hindu",
+     "title": "Planning a baby? Why your hospital package may not be the final bill: Maternity costs that all Indian parents must know",
+     "url": "https://www.livemint.com/money/personal-finance/planning-a-baby-why-your-hospital-package-may-not-be-the-final-bill-maternity-costs-that-all-indian-parents-must-know-11789295352596.html",
+     "summary": "Families face diverse financial burdens during delivery, influenced by factors such as insurance, hospital choice and room type. Personal costs vary, underscoring the importance of understanding coverage details and package options.",
+     "published": "2026-09-13T10:50:06+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uykrvh/article71462985.ece/alternates/LANDSCAPE_1200/CPI%20-%20VEERA%20PANDIYAN%2025072026%20%20final%20.00_02_31_47.Still004.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/13/600x338/Prega_1789296432004_fad92e45-fe19-45df-b1cb-4daeff204382_1789296437925_9f6f7143-90c5-4d22-bb3b-c71a38c28bd3_4a5f5846-a0e2-4ea2-bfe9-de3853e4d745_8673efde-e890-4eb6-a078-e88c524db648.jpg",
      "licence": "linkout",
-     "id": "85a3503e93ea",
+     "id": "ac91105a3046",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "15. According to Mr"
-     ]
+     "from_section": "Business"
     },
     {
      "title": "Why your SIP may not be delivering the returns you expect: Mistakes that mutual fund investors should avoid",
@@ -328,7 +331,7 @@
      "title": "Young elephant ‘Durga’ from Assam to reach Madurai Meenakshi temple; activists raise concerns over transfer",
      "url": "https://www.thehindu.com/news/national/tamil-nadu/young-elephant-durga-from-assam-to-reach-madurai-meenakshi-temple-activists-raise-concerns-over-transfer/article71462945.ece",
      "summary": "Five elephants from Assam have been proposed to be donated to Meenakshi Amman Temple in Madurai; Arunachaleswarar Temple in Tiruvannamalai; Kancheepuram Mutt; Vaitheeswaran Temple, Mayiladuthurai; and Ramanathaswamy Temple, Rameswaram.",
-     "published": "2026-09-13T10:16:27+00:00",
+     "published": "2026-09-13T10:47:45+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -336,7 +339,7 @@
      "id": "f763db89b3bc",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "National Hotlines"
+     "from_section": "National News"
     },
     {
      "title": "Fire at nursing home in Chile kills 16 residents",
@@ -434,32 +437,18 @@
      "from_section": "Sports"
     },
     {
-     "title": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/olympic-flame-arrives-in-senegal-for-first-ever-olympic-event-in-africa?traffic_source=rss",
-     "summary": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
-     "published": "2026-09-13T07:48:22+00:00",
-     "source": "Al Jazeera",
+     "title": "Legends Tear Into Board As Pakistan Cricket Crashes Into New Low In England",
+     "url": "https://sports.ndtv.com/cricket/legends-tear-into-board-as-pakistan-cricket-crashes-into-new-low-in-england-12040000#publisher=newsstand",
+     "summary": "Former Pakistan captain Wasim Akram said he had predicted this free fall.",
+     "published": "2026-09-13T06:07:38+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Senegal-1789285691.jpg?resize=1800%2C1063",
+     "image": "https://c.ndtvimg.com/2026-09/is30j0tc_wasim-akram-and-afridi-getty_625x300_13_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "25b48199d86a",
+     "id": "d1639091c074",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Mystery son and disputed heir: Uganda’s king buried amid succession dispute",
-     "url": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss",
-     "summary": "The 34-year-old monarch’s death has opened a rare challenge to the traditional process of choosing Tooro’s next king.",
-     "published": "2026-09-13T07:00:59+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa5b65b1a657-1789245019.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "ba76529a65b4",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Global News"
+     "from_section": "Sports"
     },
     {
      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
@@ -506,7 +495,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-13T10:36:14.738281+00:00",
+     "published": "2026-09-13T11:03:42.224453+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -517,7 +506,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-13T10:36:14.738292+00:00",
+     "published": "2026-09-13T11:03:42.224476+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -528,7 +517,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-13T10:36:14.738295+00:00",
+     "published": "2026-09-13T11:03:42.224481+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -539,7 +528,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-13T10:36:14.738298+00:00",
+     "published": "2026-09-13T11:03:42.224499+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -550,7 +539,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-13T10:36:14.738301+00:00",
+     "published": "2026-09-13T11:03:42.224503+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -561,7 +550,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-13T10:36:14.738309+00:00",
+     "published": "2026-09-13T11:03:42.224508+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -597,10 +586,49 @@
    "upsc": false,
    "items": [
     {
+     "title": "Justice V. Kameswar Rao takes oath as Chief Justice of Patna High Court",
+     "url": "https://www.thehindu.com/news/national/bihar/justice-v-kameswar-rao-takes-oath-as-chief-justice-of-patna-high-court/article71463018.ece",
+     "summary": "The oath-taking ceremony at the Lok Bhavan was attended by Chief Minister Samrat Choudhary and other dignitaries",
+     "published": "2026-09-13T10:51:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/wz7k4q/article71463030.ece/alternates/LANDSCAPE_1200/v_kameswar_rao.jpg",
+     "licence": "linkout",
+     "id": "3d299826b9e2",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "House break-in attempt: Assam native held in Keralam’s Thrissur",
+     "url": "https://www.thehindu.com/news/national/kerala/house-break-in-attempt-assam-native-held-in-keralams-thrissur/article71462803.ece",
+     "summary": "Police say 22-year-old broke into a house near Manathala Block Office and attempted to steal valuables",
+     "published": "2026-09-13T10:51:16+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/1cypvn/article71463088.ece/alternates/LANDSCAPE_1200/FIR-filed-for-tGG3GH7Q9V.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "508605716e66",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Kerala PSC faces legal dilemma over Crime Branch summons in Planning Board exam scam",
+     "url": "https://www.thehindu.com/news/national/kerala/kerala-psc-faces-legal-dilemma-over-crime-branch-summons-in-planning-board-exam-scam/article71462724.ece",
+     "summary": "Commission seeks legal advice on whether its chairperson and members should appear before Crime Branch in connection with the alleged irregularities in a Kerala State Planning Board recruitment examination",
+     "published": "2026-09-13T10:50:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/86xd0/article71463062.ece/alternates/LANDSCAPE_1200/PSC%20Pattom.jpg",
+     "licence": "linkout",
+     "id": "1997838a97bc",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "‘80% Indians non-vegetarian, Indian non-vegetarian food is delicious’, says Rahul",
      "url": "https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece",
      "summary": "Prime Minister Narendra Modi hosted the dinner for the leaders and delegates of the BRICS Summit at the Bharat Mandapam Saturday September 13",
-     "published": "2026-09-13T10:32:44+00:00",
+     "published": "2026-09-13T10:42:28+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/ts2pcw/article71463080.ece/alternates/LANDSCAPE_1200/20260910267L.jpg",
@@ -608,35 +636,6 @@
      "id": "d7d13c462697",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-candidate-in-dharapuram-cpim-in-madurantakam/article71462935.ece",
-     "summary": "Candidates to be announced on September 15. According to Mr. Veerapandian, the upcoming bypolls in the Madurantakam and Dharapuram constituencies are not normal byelections, but what he termed as byelections imposed on people.",
-     "published": "2026-09-13T10:29:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uykrvh/article71462985.ece/alternates/LANDSCAPE_1200/CPI%20-%20VEERA%20PANDIYAN%2025072026%20%20final%20.00_02_31_47.Still004.jpg",
-     "licence": "linkout",
-     "id": "85a3503e93ea",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "15. According to Mr"
-     ]
-    },
-    {
-     "title": "Kapil Sibal calls for 10-year ban on politicians switching parties mid-term",
-     "url": "https://www.thehindu.com/news/national/kerala/kapil-sibal-calls-for-10-year-ban-on-politicians-switching-parties-mid-term/article71462896.ece",
-     "summary": "Legislators changing political parties mid-term weakens their accountability, both to the citizens and within parties, Kapil Sibal said",
-     "published": "2026-09-13T10:26:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cqvs5t/article71463057.ece/alternates/LANDSCAPE_1200/20260502230L.jpg",
-     "licence": "linkout",
-     "id": "51d32fed80df",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Maharashtra CET 2026: Final Admission Deadline Extended, Check Apply Link",
@@ -705,17 +704,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Niger military government reshuffles army command weeks after deadly mutiny",
-     "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
-     "summary": "New chief of staff appointed after failed mutiny tested military rulers' grip on power.",
-     "published": "2026-09-13T08:54:32+00:00",
+     "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+     "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+     "summary": "Government forces and Saudi Arabia carry out air attacks to stop Houthis' advance as thousands displaced by conflict.",
+     "published": "2026-09-13T10:47:19+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-10.49.49-1789285795.png?resize=1200%2C630",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T084749Z_2026613709_RC2ZFNAZ7IKI_RTRMADP_3_IRAN-CRISIS-PAKISTAN-HOUTHIS-1789150790.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "043e1b87b66c",
+     "id": "289fc0b03902",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Israeli attack on Gaza kills two Palestinians",
+     "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+     "summary": "Israeli strikes on Palestinian territory persist despite a 'ceasefire' brokered by the United States.",
+     "published": "2026-09-13T10:22:01+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AA-20260913-42456398-42456377-2_PALESTINIANS_KILLED_13_INJURED_IN_ISRAELI_DRONE_STRIKE_ON_VEHICLE_IN_GAZA-1789292609.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "453e744fcec7",
      "category": "conflict",
      "category_label": "War & conflict"
+    },
+    {
+     "title": "A kingdom within a republic: Inside Uganda’s Buganda",
+     "url": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss",
+     "summary": "The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.",
+     "published": "2026-09-13T10:12:15+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-3266183-1789286940.jpg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "c9457fb9b93a",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Voting under way in Sweden election that could see far right in government",
@@ -729,19 +754,6 @@
      "id": "6ad09230210d",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-     "summary": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-     "published": "2026-09-13T08:13:56+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/saudi-horizontal-thumb-1789287139.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "c102c39026e3",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
@@ -768,6 +780,22 @@
      "id": "8cc83cc7debb",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+     "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+     "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+     "published": "2026-09-12T23:51:05+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/be384650-ae03-11f1-a8b6-3d61421c71fa.jpg",
+     "licence": "linkout",
+     "id": "7cd64c2ba3e2",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "300 Russians remain missing"
+     ]
     }
    ]
   },
@@ -802,6 +830,61 @@
    "upsc": false,
    "items": [
     {
+     "title": "Justice V. Kameswar Rao takes oath as Chief Justice of Patna High Court",
+     "url": "https://www.thehindu.com/news/national/bihar/justice-v-kameswar-rao-takes-oath-as-chief-justice-of-patna-high-court/article71463018.ece",
+     "summary": "The oath-taking ceremony at the Lok Bhavan was attended by Chief Minister Samrat Choudhary and other dignitaries",
+     "published": "2026-09-13T10:51:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/wz7k4q/article71463030.ece/alternates/LANDSCAPE_1200/v_kameswar_rao.jpg",
+     "licence": "linkout",
+     "id": "3d299826b9e2",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "House break-in attempt: Assam native held in Keralam’s Thrissur",
+     "url": "https://www.thehindu.com/news/national/kerala/house-break-in-attempt-assam-native-held-in-keralams-thrissur/article71462803.ece",
+     "summary": "Police say 22-year-old broke into a house near Manathala Block Office and attempted to steal valuables",
+     "published": "2026-09-13T10:51:16+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/1cypvn/article71463088.ece/alternates/LANDSCAPE_1200/FIR-filed-for-tGG3GH7Q9V.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "508605716e66",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Kerala PSC faces legal dilemma over Crime Branch summons in Planning Board exam scam",
+     "url": "https://www.thehindu.com/news/national/kerala/kerala-psc-faces-legal-dilemma-over-crime-branch-summons-in-planning-board-exam-scam/article71462724.ece",
+     "summary": "Commission seeks legal advice on whether its chairperson and members should appear before Crime Branch in connection with the alleged irregularities in a Kerala State Planning Board recruitment examination",
+     "published": "2026-09-13T10:50:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/86xd0/article71463062.ece/alternates/LANDSCAPE_1200/PSC%20Pattom.jpg",
+     "licence": "linkout",
+     "id": "1997838a97bc",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-candidate-in-dharapuram-cpim-in-madurantakam/article71462935.ece",
+     "summary": "Candidates to be announced on September 15. According to Mr. Veerapandian, the upcoming bypolls in the Madurantakam and Dharapuram constituencies are not normal byelections, but what he termed as byelections imposed on people.",
+     "published": "2026-09-13T10:29:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/uykrvh/article71462985.ece/alternates/LANDSCAPE_1200/CPI%20-%20VEERA%20PANDIYAN%2025072026%20%20final%20.00_02_31_47.Still004.jpg",
+     "licence": "linkout",
+     "id": "85a3503e93ea",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "15. According to Mr"
+     ]
+    },
+    {
      "title": "Kapil Sibal calls for 10-year ban on politicians switching parties mid-term",
      "url": "https://www.thehindu.com/news/national/kerala/kapil-sibal-calls-for-10-year-ban-on-politicians-switching-parties-mid-term/article71462896.ece",
      "summary": "Legislators changing political parties mid-term weakens their accountability, both to the citizens and within parties, Kapil Sibal said",
@@ -811,80 +894,6 @@
      "image": "https://th-i.thgim.com/public/incoming/cqvs5t/article71463057.ece/alternates/LANDSCAPE_1200/20260502230L.jpg",
      "licence": "linkout",
      "id": "51d32fed80df",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "BRICS Summit 2026 LIVE updates: India focused on four pillars: resilience, innovation, cooperation, sustainability, says PM Modi",
-     "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece",
-     "summary": "Prime Minister Narendra Modi warns against weaponisation of technology, critical minerals",
-     "published": "2026-09-13T10:24:03+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/o38slf/article71462452.ece/alternates/LANDSCAPE_1200/13TH_PTI_BRICS-GDGGHCTLM.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "7a1ebd0ef3d9",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka",
-     "url": "https://www.thehindu.com/news/cities/bangalore/800-child-labourers-503-from-bengaluru-alone-rescued-in-two-hour-crackdown-across-karnataka/article71460926.ece",
-     "summary": "In a Statewide crackdown on child labour on Saturday, police teams and Labour Department officials inspected 16,951 premises across Karnataka and rescued 800 children, all in a matter of two hours, with Bengaluru city alone accounting for 63% of the rescues, at 503",
-     "published": "2026-09-13T10:24:00+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bxowb9/article71462448.ece/alternates/LANDSCAPE_1200/19-child-labourGL0GGNU5S.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "e32e595f666c",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "800 child labourers, 503 from Bengaluru",
-      "503 from Bengaluru alone, rescued",
-      "16,951 premises across Karnataka and rescued",
-      "800 children , all"
-     ]
-    },
-    {
-     "title": "Decolonisation means presenting full authentic history with Indian perspective: Amit Shah",
-     "url": "https://www.thehindu.com/news/national/decolonisation-means-presenting-full-authentic-history-with-indian-perspective-amit-shah/article71463026.ece",
-     "summary": "The Minister said attempts had been made to destroy India's knowledge traditions, but knowledge embedded in people's memory and oral traditions could not be eliminated.",
-     "published": "2026-09-13T10:22:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i26f9b/article71463054.ece/alternates/LANDSCAPE_1200/20260906308L.jpg",
-     "licence": "linkout",
-     "id": "61a791a521e7",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "KWA to set up 50-lakh-litre tank at Thammanam to address water woes of Kochi",
-     "url": "https://www.thehindu.com/news/national/kerala/kwa-to-set-up-50-lakh-litre-tank-at-thammanam-to-address-water-woes-of-kochi/article71462957.ece",
-     "summary": "The new tank will replace the 35 lakh-litre tank the utility had earlier proposed in place of the destroyed chamber of the Thammanam tank",
-     "published": "2026-09-13T10:09:32+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8l2w5u/article71463025.ece/alternates/LANDSCAPE_1200/Water-scarcity-G3HGGM274.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "8aded1282a38",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "35 lakh -litre tank the utility"
-     ]
-    },
-    {
-     "title": "ABVP seeks cancellation of Umar Khalid documentary screening at NLSIU",
-     "url": "https://www.thehindu.com/news/cities/bangalore/abvp-seeks-cancellation-of-umar-khalid-documentary-screening-at-nlsiu/article71462987.ece",
-     "summary": "Academic campuses must remain dedicated to national integrity and learning, rather than serving as platforms for political propaganda or glorifying civil unrest, says ABVP",
-     "published": "2026-09-13T10:06:56+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/khsmmo/article71463006.ece/alternates/LANDSCAPE_1200/TH04-crucnh_GH1GN2G72FR4.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "4cc4190f8d09",
      "category": "general",
      "category_label": "General"
     },
@@ -1315,19 +1324,6 @@
       "23 lakh beneficiaries flagged as suspicious",
       "23 lakh beneficiaries as a verification"
      ]
-    },
-    {
-     "title": "Will your minor child's income be clubbed with yours while filing ITR? Know when and how it is taxed",
-     "url": "https://www.livemint.com/money/personal-finance/will-your-minor-childs-income-be-clubbed-with-yours-while-filing-itr-know-when-and-how-it-is-taxed-11789270355568.html",
-     "summary": "Minors can earn income independently through various means without it being taxed under their parents' income. Here's when and how their income is taxed in different scenarios.",
-     "published": "2026-09-13T04:13:09+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/13/600x338/minor_ITR_1789272619951_87280ddf-6826-4b2f-98d8-5f72dd025c80_1789272626476_74090b9c-13f8-4735-8cbb-ffa325392122_a364cc82-e03d-4d36-946d-8095686bb9ad_e134764a-bd59-4264-9ee5-3a7d637a5816.png",
-     "licence": "linkout",
-     "id": "9a9abb4388af",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1403,15 +1399,15 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Your ’80s style AI photo is temporary: What happens to images you upload?",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS19sOGtORnVTV1lhMFlma1dRRnA2UkxMaVZ3UEFtY0t4NU9PaHpYVkpXRWZ3QkwzcjllZFl1OFJlTExhUmZaTzNuaF9HLUJONGNwejVFTWxtWFRMcmhLVFRyTVNYS0dsWUF3ZXllanFZMFJiNWUxM2VVYkNxZi1scWtvR3BjYkh1V0VFX2Zzc0hfRjdrQWpTWUNsR0V3NjQ4SUQwN3pkTDJjTXhndXllZDQ4WlVDSDMwYVo4WlVQRELSAccBQVVfeXFMUDRKbXUwQUlGemZRRWFMR0JkSGc2N2VRc0c1eDNyZ3ZMa25QeXQzaXBfLUxDcXRSMVB2bnFuZ09lMUdXRlRTYTE0TUFpR0hiZGZSeTdsMmJQYnRSMWZHemlSa2Y0QUV0TzRwVDZFY3NXTnhjLUJKTUl4emUtSlF0ZDg2a3VGSC05OF8xcDZsekNKcWE0S20zZ1oyQ1J0UmdqUkpUaHdKcm9YLUFqWkxNcW1JbU1XWmtvdnVkVmM1RDBSWi1zSTBpRQ?oc=5",
-     "summary": "Your ’80s style AI photo is temporary: What happens to images you upload? The Indian Express",
-     "published": "2026-09-13T03:36:00+00:00",
-     "source": "The Indian Express",
+     "title": "Tech leaders warn of accelerating artificial intelligence and call for greater safety measures",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPblBXdk9maUkwWks0d2dZZkNIaThRRDUyMHBlQ3lsai1zYWlnTUt6VUhyQ0c2RjR1LXBfal9tN0Y0ZGJGc1dzZnpwak9iUkNOSFJMZVJEZXFkY3hQUUxCeUJmMDVHc0lfUjVKZkhJREM4dHM3MS1QQzFPdWFmaTZrNnFjYVNBRDBHblllbVdJeVAwQlZGaGZqcWhudUkzTXNDZXV4NU5HRmNRbDFKR2JXMW0xRFd4ZzNEZFl0TEF1S052a0xvdU5wTC1mOFZBam5FMEMxZ0ZoSmZjbnZsYmczNWxSTjlKMEU0SjhvVGlEQQ?oc=5",
+     "summary": "Tech leaders warn of accelerating artificial intelligence and call for greater safety measures صوت الإمارات",
+     "published": "2026-09-13T06:40:52+00:00",
+     "source": "صوت الإمارات",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "7914f8d51037",
+     "id": "a913ebd0df41",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1474,19 +1470,6 @@
      "id": "6612640c725f",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Legends Tear Into Board As Pakistan Cricket Crashes Into New Low In England",
-     "url": "https://sports.ndtv.com/cricket/legends-tear-into-board-as-pakistan-cricket-crashes-into-new-low-in-england-12040000#publisher=newsstand",
-     "summary": "Former Pakistan captain Wasim Akram said he had predicted this free fall.",
-     "published": "2026-09-13T06:07:38+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/is30j0tc_wasim-akram-and-afridi-getty_625x300_13_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "d1639091c074",
-     "category": "sports",
-     "category_label": "Sports"
     }
    ]
   },
