@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T16:39:20.589537+00:00",
+ "generated_at": "2026-09-14T17:03:24.607013+00:00",
  "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "French",
   "Kerala Aparna",
-  "Staff",
   "Jazeera English",
   "News",
   "Saini Haryana",
   "Bangladesh World",
   "Rajasthan Urban",
-  "Cameroon",
-  "Zionist",
-  "China"
+  "Middle East",
+  "China",
+  "Police Philippine"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Man dies after French police officer throws him on the ground",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/man-dies-after-french-police-officer-throws-him-on-the-ground?traffic_source=rss",
+     "summary": "Video has emerged of a French police officer violently throwing a 29-year-old homeless man to the ground.",
+     "published": "2026-09-14T16:21:55+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-17.16.23-1789402762.png?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "e272be1ba2ba",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "Kerala HC grants police protection to journalist Aparna Kurup following cyberattacks over TV Debate involving Kanthapuram’s remarks",
      "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-grants-police-protection-to-journalist-aparna-kurup-following-cyberattacks-over-tv-debate-involving-kanthapurams-remarks/article71466219.ece",
@@ -117,46 +131,39 @@
      "from_section": "National News"
     },
     {
-     "title": "Staff slept while patient killed at NHS mental health unit",
-     "url": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill Hugo Flint-Cahan on a hospital ward in east London.",
-     "published": "2026-09-14T15:19:26+00:00",
-     "source": "BBC News",
+     "title": "Gurugram Biker's Father Flags \"Murder Attempt\", Brother's \"Drunk In Car\" Claim",
+     "url": "https://www.ndtv.com/india-news/rebel-wheels-sia-kalyan-bainsla-4-drunk-people-were-in-car-bikers-brother-on-gurugram-hit-and-run-12045586#publisher=newsstand",
+     "summary": "The woman, known as \"Rebel Wheels Sia\" on Instagram, was riding her Aprilia RS 457 sports bike with a group of bikers when a white sedan began following her, according to her family and her own account shared on social media.",
+     "published": "2026-09-14T16:09:31+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1403/live/c0463800-b022-11f1-95e6-93ee8a80cb38.jpg",
+     "image": "https://c.ndtvimg.com/2026-09/lqv25hr8_gurugram-biker-brother-_625x300_14_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "bc6d3338566b",
+     "id": "e1ee8c168bc7",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Health & Science"
+     "from_section": "National News",
+     "figures": [
+      "RS 457  sports bike"
+     ]
     },
     {
-     "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-     "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-     "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
-     "published": "2026-09-14T08:58:27+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc15/live/0e256bc0-8c03-11f1-9dc7-8f4fc2aa9fe5.jpg",
-     "licence": "linkout",
-     "id": "d8ffd4f70d1d",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
-     "url": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
-     "summary": "Delaying scrutiny will not make questions about UK complicity in Gaza disappear.",
-     "published": "2026-09-14T14:58:38+00:00",
+     "title": "Why Middle East tensions are pushing oil prices above $100",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
+     "summary": "Brent crude has risen above $100 a barrel as war in Iran disrupts shipping through the Strait of Hormuz.",
+     "published": "2026-09-14T16:36:05+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa80afc0a-1789397756.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789403663.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "f53544799659",
+     "id": "38f44d6e171f",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Global News"
+     "from_section": "Global News",
+     "figures": [
+      "$100.  Brent crude has risen",
+      "$100  a barrel as war"
+     ]
     },
     {
      "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
@@ -190,6 +197,20 @@
      ]
     },
     {
+     "title": "School Assembly News Headlines (September 15): Top National, International, Sports News",
+     "url": "https://www.ndtv.com/education/school-assembly-news-headlines-september-15-top-national-international-sports-news-12046141#publisher=newsstand",
+     "summary": "School Assembly News Headlines (September 15): Stay updated and be ready to share your thoughts in the morning with these News Headlines.",
+     "published": "2026-09-14T16:13:13+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/0n3pbl3k_kerala_625x300_26_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "4bfc7e4fd20d",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "Rajasthan Urban Local Body polls results: BJP edges past Congress; counting under way at many wards",
      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece",
      "summary": "The elections, being seen as a major test for the ruling BJP and the opposition Congress ahead of the 2028 Assembly polls, were held in two phases on September 9 and 11",
@@ -202,20 +223,6 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
-    },
-    {
-     "title": "Eto’o faces allegations of embezzlement in Cameroon FA presidency role",
-     "url": "https://www.aljazeera.com/sports/2026/9/14/etoo-faces-allegations-of-embezzlement-in-cameroon-fa-presidency-role?traffic_source=rss",
-     "summary": "Ex-Chelsea and Barcelona striker Samuel Eto’o faces new allegations over Cameroon FA finances under his presidency.",
-     "published": "2026-09-14T15:50:05+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-24T185226Z_6975370_RC2UXIA334O3_RTRMADP_3_SOCCER-FIFA-CAMEROON-1789395200.jpg?resize=1580%2C1080",
-     "licence": "linkout",
-     "id": "29f882cfd84a",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
     },
     {
      "title": "Power of compounding: First crore takes time, then your money blooms; how your lump sum and SIP investment jump ahead",
@@ -238,24 +245,6 @@
      ]
     },
     {
-     "title": "8th pay commission: How much salary hike would fitment factor of 2.57 or 3.83 give central govt employees?",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-fitment-factor-2-57-or-3-83-calculate-how-much-salary-hike-central-govt-employee-pension-pay-increase-11789390556961.html",
-     "summary": "The 8th central pay commission's recommendations are expected to benefit over 1 crore central government employees and pensioners. Check how much salary hikes they can likely get from fitment factor of 2.57 or 3.83.",
-     "published": "2026-09-14T14:06:50+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/14/600x338/Gemini_Generated_Image_20bozk20bozk20bo_1783667131_1789394632226_MQPj_1789394632381_21Pg_88851b57-76c7-41b2-96d1-efc9cce317cd_U4iM.png",
-     "licence": "linkout",
-     "id": "e836112238b1",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "3.83 give central govt employees?",
-      "1 crore central government employees"
-     ]
-    },
-    {
      "title": "Petrol and diesel prices hit highest since 2022",
      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
      "summary": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
@@ -268,6 +257,20 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
+    },
+    {
+     "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+     "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+     "summary": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
+     "published": "2026-09-13T22:07:22+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg",
+     "licence": "linkout",
+     "id": "85bf58614366",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global Hotline"
     },
     {
      "title": "This is what women in sport look like - female athletes hit back",
@@ -445,7 +448,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-14T16:39:07.349855+00:00",
+     "published": "2026-09-14T17:03:11.722537+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -456,7 +459,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-14T16:39:07.349865+00:00",
+     "published": "2026-09-14T17:03:11.722548+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -467,7 +470,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-14T16:39:07.349869+00:00",
+     "published": "2026-09-14T17:03:11.722551+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -478,7 +481,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-14T16:39:07.349872+00:00",
+     "published": "2026-09-14T17:03:11.722554+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -489,7 +492,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-14T16:39:07.349876+00:00",
+     "published": "2026-09-14T17:03:11.722556+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -500,7 +503,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-14T16:39:07.349935+00:00",
+     "published": "2026-09-14T17:03:11.722558+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -629,74 +632,44 @@
      ]
     },
     {
-     "title": "GAIL Recruitment 2027: Executive Trainee Posts, Apply Through GATE 2027",
-     "url": "https://www.ndtv.com/education/gail-recruitment-2027-executive-trainee-posts-apply-through-gate-2027-12045935#publisher=newsstand",
-     "summary": "GAIL India invites applications for Executive Trainee posts based on GATE 2027 scores from February 17 to March 18, 2027.",
-     "published": "2026-09-14T15:16:19+00:00",
+     "title": "Pregnant Teen Beheaded In Dhandbad, Severed Head Found In Plastic Sack",
+     "url": "https://www.ndtv.com/india-news/pregnant-teen-beheaded-in-dhandbad-severed-head-found-in-plastic-sack-12046297#publisher=newsstand",
+     "summary": "During the search, the victim's head was recovered inside a plastic sack beneath a nearby tree, located near a field about 100 metres away from the torso.",
+     "published": "2026-09-14T16:48:54+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://i.ndtvimg.com/i/2017-01/gail_650x400_61484290207.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/eqaqi98_dhanbad-headless-body_625x300_14_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "d1e9c2acfb2c",
+     "id": "03a8918c3c0c",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "100 metres away from the torso"
+     ]
+    },
+    {
+     "title": "\"Woman Wants Followers\": Gurugram Hit-And-Run Lawyer Pins Blame On Biker",
+     "url": "https://www.ndtv.com/india-news/kalyan-bainsla-rebel-wheels-sia-gurugram-bike-crash-fault-lies-with-her-gurugram-hit-and-run-lawyer-pins-blame-on-biker-12046035#publisher=newsstand",
+     "summary": "The woman, known as \"Rebel Wheels Sia\" on Instagram, has alleged that the car had been following her and members of her biking group before the crash.",
+     "published": "2026-09-14T16:29:37+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/6jkkecc_kalyan-bhainsla-gurugram-_625x300_14_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "100fa9e8ec08",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "3 Italians Leave Delhi Without Immigration Check, Air India Issued Notice",
-     "url": "https://www.ndtv.com/india-news/3-italians-leave-delhi-without-immigration-check-air-india-issued-notice-12045576#publisher=newsstand",
-     "summary": "The three passengers were travelling under Air India's hub-and-spoke arrangement, under which passengers from smaller airports are flown to a major hub before connecting to an international flight.",
-     "published": "2026-09-14T14:53:10+00:00",
+     "title": "CTET Exam Date 2026 Out: Exam 0n 12 And 13 December, Check Full Details Here",
+     "url": "https://www.ndtv.com/education/ctet-exam-date-2026-out-exam-0n-12-and-13-december-check-full-details-here-12046079#publisher=newsstand",
+     "summary": "CBSE has scheduled the 22nd CTET exam for December twelve and thirteen, two thousand twenty six, postponing the earlier September date.",
+     "published": "2026-09-14T15:50:19+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2023-03/4acg4o68_delhi-airport-long-queue-650_625x300_15_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/nfu2nre_ctet-2026-exam-date-_625x300_09_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "3381c2fcabfd",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "3 Italians Leave Delhi Without Immigration"
-     ]
-    },
-    {
-     "title": "'4 Drunk People' Claim By Biker's Brother After Gurugram Hit-And-Run Shocker",
-     "url": "https://www.ndtv.com/india-news/rebel-wheels-sia-kalyan-bainsla-4-drunk-people-were-in-car-bikers-brother-on-gurugram-hit-and-run-12045586#publisher=newsstand",
-     "summary": "The woman, known as \"Rebel Wheels Sia\" on Instagram, was riding her Aprilia RS 457 sports bike with a group of bikers when a white sedan began following her, according to her family and her own account shared on social media.",
-     "published": "2026-09-14T14:30:34+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/lqv25hr8_gurugram-biker-brother-_625x300_14_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "e1ee8c168bc7",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "4 Drunk People' Claim By Biker's",
-      "RS 457  sports bike"
-     ]
-    },
-    {
-     "title": "In Comments Of Bangladesh Minister, A Hint Of Recalibration Of Ties With India",
-     "url": "https://www.ndtv.com/india-news/in-comments-of-bangladesh-minister-a-hint-of-recalibration-of-ties-with-india-12045650#publisher=newsstand",
-     "summary": "\"India is just another country that we want a good working relationship with, a good bilateral relationship with,\" Bangladesh's State Minister for Foreign Affairs Humaiun Kobir said.",
-     "published": "2026-09-14T14:07:36+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-02/tov7k4g8_tarique-rahman_625x300_17_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "9dd8ba2a593c",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Engineers' Day 2026: How Sir M Visvesvaraya Shaped India's Engineering Legacy",
-     "url": "https://www.ndtv.com/education/engineers-day-2026-how-sir-m-visvesvaraya-shaped-indias-engineering-legacy-12045559#publisher=newsstand",
-     "summary": "Sir M. Visvesvaraya, born in 1861, was a pioneer in irrigation and engineering education, founding the University Visvesvaraya College of Engineering.",
-     "published": "2026-09-14T13:49:05+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2021-09/e43jjarc_mokshagundam-visvesvaraya_625x300_14_September_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4b85f9c177eb",
+     "id": "b75a1d50346f",
      "category": "general",
      "category_label": "General"
     }
@@ -709,56 +682,77 @@
    "upsc": false,
    "items": [
     {
-     "title": "Eto’o faces allegations of embezzlement in Cameroon FA presidency role",
-     "url": "https://www.aljazeera.com/sports/2026/9/14/etoo-faces-allegations-of-embezzlement-in-cameroon-fa-presidency-role?traffic_source=rss",
-     "summary": "Ex-Chelsea and Barcelona striker Samuel Eto’o faces new allegations over Cameroon FA finances under his presidency.",
-     "published": "2026-09-14T15:50:05+00:00",
+     "title": "Why Middle East tensions are pushing oil prices above $100",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
+     "summary": "Brent crude has risen above $100 a barrel as war in Iran disrupts shipping through the Strait of Hormuz.",
+     "published": "2026-09-14T16:36:05+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-24T185226Z_6975370_RC2UXIA334O3_RTRMADP_3_SOCCER-FIFA-CAMEROON-1789395200.jpg?resize=1580%2C1080",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789403663.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "29f882cfd84a",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "38f44d6e171f",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "$100.  Brent crude has risen",
+      "$100  a barrel as war"
+     ]
     },
     {
-     "title": "Can a party be leftist and Zionist?",
-     "url": "https://www.aljazeera.com/opinions/2026/9/14/can-a-party-be-leftist-and-zionist?traffic_source=rss",
-     "summary": "No, it cannot. But the concept of leftist Zionism is still being pushed to cover up its racist, colonial nature.",
-     "published": "2026-09-14T15:20:33+00:00",
+     "title": "Man dies after French police officer throws him on the ground",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/man-dies-after-french-police-officer-throws-him-on-the-ground?traffic_source=rss",
+     "summary": "Video has emerged of a French police officer violently throwing a 29-year-old homeless man to the ground.",
+     "published": "2026-09-14T16:21:55+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP7702230355-1789399029.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-17.16.23-1789402762.png?resize=1200%2C675",
      "licence": "linkout",
-     "id": "455e270c7307",
+     "id": "e272be1ba2ba",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Leaders of Scotland, Wales, Northern Ireland unite for self-determination",
+     "url": "https://www.aljazeera.com/news/2026/9/14/leaders-of-scotland-wales-northern-ireland-unite-for-self-determination?traffic_source=rss",
+     "summary": "Leaders of nationalist parties in Scotland, Wales and Northern Ireland say London has 'no right' to block democracy.",
+     "published": "2026-09-14T16:16:19+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/14290623-1789400770.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "5cc30351cd99",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Going to school under Israeli occupation",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/going-to-school-under-israeli-occupation?traffic_source=rss",
-     "summary": "In al-Mughayyir, a village north-east of Ramallah, going to school means passing soldiers just to get to class.",
-     "published": "2026-09-14T15:15:07+00:00",
+     "title": "Pakistan fined, docked 11 points in Edgbaston Test for slow over rate",
+     "url": "https://www.aljazeera.com/sports/2026/9/14/pakistan-fined-docked-11-points-in-edgbaston-test-for-slow-over-rate?traffic_source=rss",
+     "summary": "The visitors were 11 overs short of their target as England won the match by eight wickets to sweep the series 3-0.",
+     "published": "2026-09-14T16:10:52+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789398836.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa7d29b0df2-1789383323.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "611089cc598b",
-     "category": "general",
-     "category_label": "General"
+     "id": "25f6016da5a4",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "11 points in Edgbaston Test",
+      "11 overs short of their target"
+     ]
     },
     {
-     "title": "China rejects AI ‘threat narratives’, urges global cooperation",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/china-rejects-ai-threat-narratives-urges-global-cooperation?traffic_source=rss",
-     "summary": "China called for international cooperation on artificial intelligence.",
-     "published": "2026-09-14T14:50:55+00:00",
+     "title": "North Korea thrash Bangladesh 10-0 in Asian Games women’s football",
+     "url": "https://www.aljazeera.com/sports/2026/9/14/north-korea-thrash-bangladesh-10-0-in-asian-games-womens-football?traffic_source=rss",
+     "summary": "North Korea, enjoying support in the stands, were up 7-0 by half-time and are favourites for the gold.",
+     "published": "2026-09-14T16:05:31+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-15.46.54-1789397362.png?resize=1665%2C1080",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260914__C89F2KE__v1__HighRes__FblAsiad2026PrkBan-1789388606.jpg?resize=1920%2C1413",
      "licence": "linkout",
-     "id": "a0f75fd8ccd6",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "id": "c3f7c80186bb",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
      "title": "China criticises idea it is in 'malicious competition' over AI",
@@ -803,7 +797,7 @@
      ]
     },
     {
-     "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
+     "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
      "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
      "published": "2026-09-14T14:08:12+00:00",
@@ -879,17 +873,17 @@
      "category_label": "Crime"
     },
     {
-     "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
-     "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
-     "summary": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
-     "published": "2026-09-13T22:07:22+00:00",
+     "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+     "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+     "published": "2026-09-14T08:58:27+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc15/live/0e256bc0-8c03-11f1-9dc7-8f4fc2aa9fe5.jpg",
      "licence": "linkout",
-     "id": "85bf58614366",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "d8ffd4f70d1d",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -1635,7 +1629,7 @@
      "published": "2026-09-14T08:13:56+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/2436c9d0-adf1-11f1-ad53-0d91a06f3150.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69c0/live/560bcdd0-b05c-11f1-a540-61c3f7fc4e6c.jpg",
      "licence": "linkout",
      "id": "6b2d8c92ab24",
      "category": "general",
@@ -1666,6 +1660,19 @@
      "id": "39debb7cf90a",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Foreign assets disclosure scheme 2026: What taxpayers with unreported overseas crypto should know",
+     "url": "https://www.livemint.com/money/personal-finance/foreign-assets-disclosure-scheme-2026-what-taxpayers-with-unreported-overseas-crypto-should-know-11789398673461.html",
+     "summary": "FAST-DS 2026 allows eligible taxpayers to voluntarily disclose certain undisclosed foreign assets and income. But can it cover unreported overseas crypto? The rules depend on where the crypto is held, how it was acquired and whether the taxpayer meets the scheme’s conditions.",
+     "published": "2026-09-14T16:35:23+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/14/600x338/fastds_1789402733291_OG78_1789402736998_I9wj_254ed51e-2548-4c26-a80c-0d06a58e6ed7_P2x9.png",
+     "licence": "linkout",
+     "id": "3943a3f70c46",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "When to ignore personal finance advice, however convincing it sounds: 5 checks to run before investing your savings",
@@ -1790,9 +1797,9 @@
     {
      "title": "AI CEOs say they need to slow the pace of development. But will they?",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5",
-     "summary": "AI CEOs say they need to slow the pace of development. But will they? The Guardian",
+     "summary": "AI CEOs say they need to slow the pace of development. But will they? theguardian.com",
      "published": "2026-09-14T14:00:00+00:00",
-     "source": "The Guardian",
+     "source": "theguardian.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
