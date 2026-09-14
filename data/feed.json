@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T08:38:39.175026+00:00",
+ "generated_at": "2026-09-14T09:04:01.704054+00:00",
  "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
@@ -26,11 +26,10 @@
    "key": "banknifty",
    "label": "BANK NIFTY",
    "unit": "",
-   "value": 56890.4,
-   "change": -142.7,
-   "changePct": -0.25,
-   "decimals": 2,
-   "stale": true
+   "value": 56606.55,
+   "change": -171.0,
+   "changePct": -0.3,
+   "decimals": 2
   },
   {
    "key": "gold",
@@ -84,16 +83,16 @@
   }
  ],
  "topics": [
-  "Assam",
-  "Bali Australian",
+  "Malaysian",
+  "Kargil Gurugram",
   "Jazeera English",
   "News",
   "Maharashtra",
-  "Revised Pavangad",
+  "Meta Keralam",
   "Bangladesh",
   "Kennedy Center",
   "Police Philippine",
-  "Draft Reserve"
+  "Bali Australian"
  ],
  "sections": [
   {
@@ -102,6 +101,34 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+     "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+     "published": "2026-09-14T08:58:27+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc15/live/0e256bc0-8c03-11f1-9dc7-8f4fc2aa9fe5.jpg",
+     "licence": "linkout",
+     "id": "d8ffd4f70d1d",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global Hotline"
+    },
+    {
+     "title": "Kargil War veteran injured after assault by parking attendant with iron rod in Gurugram",
+     "url": "https://www.thehindu.com/news/national/haryana/kargil-war-veteran-injured-after-assault-by-parking-attendant-with-iron-rod-in-gurugram/article71465731.ece",
+     "summary": "The veteran claimed that neither the police nor the security in the area provided him assistance",
+     "published": "2026-09-14T08:52:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nk6ws/article71465743.ece/alternates/LANDSCAPE_1200/iStock-1001140222.jpg",
+     "licence": "linkout",
+     "id": "ea91a6045fd1",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Assam man accused of wife’s beheading dies after jumping from police vehicle",
      "url": "https://www.thehindu.com/news/national/assam/assam-man-accused-of-wifes-beheading-dies-after-jumping-from-police-vehicle/article71465672.ece",
@@ -114,38 +141,7 @@
      "id": "5f6d576eddae",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Bali police investigate after Australian man and children found dead in home",
-     "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
-     "summary": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
-     "published": "2026-09-14T07:15:35+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26c0/live/41b45e90-b009-11f1-9713-5de61387c384.jpg",
-     "licence": "linkout",
-     "id": "24ae29aed4a0",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "Police say it could take months to identify Philippine ferry fire victims",
-     "url": "https://www.bbc.co.uk/news/articles/c8d3y111p1yo?at_medium=RSS&at_campaign=rss",
-     "summary": "At least 76 people died in the fire, with authorities saying that the shortest it could take to identify victims would be \"weeks\".",
-     "published": "2026-09-14T04:10:39+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bffd/live/5d42eb60-afee-11f1-8017-c579836ab0ad.jpg",
-     "licence": "linkout",
-     "id": "09dfcadd86a5",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline",
-     "figures": [
-      "76 people died in the fire"
-     ]
+     "from_section": "National Hotlines"
     },
     {
      "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
@@ -260,36 +256,18 @@
      ]
     },
     {
-     "title": "Indian-origin man wanted in U.S. for Medicare fraud",
-     "url": "https://www.thehindu.com/news/international/indian-origin-man-wanted-in-us-for-medicare-fraud/article71465581.ece",
-     "summary": "Mohammed used American Premier to submit approximately $93 million in alleged fraudulent Medicare claims, resulting in payments of at least $65 million, the Office of the Inspector General, says Department of Health and Human Services",
-     "published": "2026-09-14T07:37:25+00:00",
-     "source": "The Hindu",
+     "title": "Motilal Oswal Nasdaq Q50 ETF jumps 41% in a week even as underlying US stocks fall. What is happening?",
+     "url": "https://www.livemint.com/money/personal-finance/motilal-oswal-nasdaq-q50-etf-jumps-41-in-a-week-even-as-underlying-us-stocks-fall-what-is-happening-11789369616537.html",
+     "summary": "The Motilal Oswal Nasdaq Q50 ETF surged 41% in a week even as the value of its underlying US stocks fell 2.6%, with its market price moving far above its NAV. The unusual premium has widened amid limited supply of ETF units and a recent change in SEBI’s price-band rules.",
+     "published": "2026-09-14T07:24:05+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/uo2w31/article71465623.ece/alternates/LANDSCAPE_1200/khadeer-khan-mohammed.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/14/600x338/Gemini_Gnerated_Image_l9t1jxl9t1jxl9t1_1789_1789370546643_c3c6a1dc-b891-4139-b82d-847920ef97d1_1789370546842_3a5e7752-4929-46de-9b5b-7eb5132ff779_579b1451-ca37-4b77-a482-e2552c83e13f_1eff0546-a7a1-4037-a23d-9e5bfdd49bea.png",
      "licence": "linkout",
-     "id": "6f9fe4e2c779",
+     "id": "73f01bf7013a",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National Hotlines",
-     "figures": [
-      "$93 million in alleged fraudulent Medicare",
-      "$65 million , the Office"
-     ]
-    },
-    {
-     "title": "Dhruv Vikram next is ‘Jackie,’ produced by Mythri Movie Makers; first look out",
-     "url": "https://www.thehindu.com/entertainment/movies/dhruv-vikram-next-is-jackie-produced-by-mythri-movie-makers-first-look-out/article71465658.ece",
-     "summary": "The film is directed by Karan Arvind Kumar, who previousy worked as an assistant director under writer-director RJ Balaji",
-     "published": "2026-09-14T08:10:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/entertainment/movies/1q6q2x/article71465674.ece/alternates/LANDSCAPE_1200/jackie%20Dhruv%20Vikram.jpeg",
-     "licence": "linkout",
-     "id": "22819071d1c3",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "National News"
+     "from_section": "Business"
     },
     {
      "title": "In pictures: Thousands flock to Radio 2 in the Park in Stirling",
@@ -338,11 +316,25 @@
      ]
     },
     {
+     "title": "Meta restricts access to viral AI video of Keralam CM dancing over power cuts",
+     "url": "https://www.thehindu.com/news/national/kerala/meta-restricts-access-to-viral-ai-video-of-keralam-cm-dancing-over-power-cuts/article71465583.ece",
+     "summary": "‘We have restricted access to your content in India pursuant to notice from the Government of India’, a message from Meta shared by the creators said",
+     "published": "2026-09-14T08:55:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i37e7i/article71465585.ece/alternates/LANDSCAPE_1200/80968_13_9_2026_20_43_55_3_IMG_0794.JPEG",
+     "licence": "linkout",
+     "id": "b8e99e61de4b",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News"
+    },
+    {
      "title": "AI CEOs say they need to slow the pace of development. But will they?",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5",
-     "summary": "AI CEOs say they need to slow the pace of development. But will they? The Guardian",
+     "summary": "AI CEOs say they need to slow the pace of development. But will they? theguardian.com",
      "published": "2026-09-14T05:01:00+00:00",
-     "source": "The Guardian",
+     "source": "theguardian.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -364,20 +356,6 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
-    },
-    {
-     "title": "Questions mount over what an AI 'slowdown' would look like",
-     "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-     "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-     "published": "2026-09-13T18:20:22+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99cd/live/76ef92d0-b015-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "7a3b9fe62341",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Global News"
     },
     {
      "title": "Pakistan Hit Rock Bottom, ICC Imposes Huge Penalty, Deduct Points For Code Of Conduct Breach",
@@ -414,7 +392,7 @@
      "title": "CBI registers FIR in Disha Salian death case",
      "url": "https://www.thehindu.com/news/cities/Delhi/cbi-registers-fir-in-celebrity-manager-disha-salian-death-case/article71465640.ece",
      "summary": "Earlier, Bombay High Court ordered a CBI probe into Disha Salian's death and pulled up Mumbai Police for failing to register an FIR for six years, observing that its investigation raises more questions than answers",
-     "published": "2026-09-14T07:51:54+00:00",
+     "published": "2026-09-14T08:46:52+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/pj4lfv/article71465648.ece/alternates/LANDSCAPE_1200/PTI09_02_2026_000319B.jpg",
@@ -433,20 +411,6 @@
      "from_section": "National News"
     },
     {
-     "title": "Police officer under probe in Keralam after seized tobacco stolen from station",
-     "url": "https://www.thehindu.com/news/national/kerala/police-officer-under-probe-in-keralam-after-seized-tobacco-stolen-from-station/article71465541.ece",
-     "summary": "The investigation is against Senior Civil Police Officer Sabith, who is suspected of stealing the seized products from the station and has been untraceable since the incident came to light, officials said",
-     "published": "2026-09-14T07:47:39+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/22s2d1/article71465557.ece/alternates/LANDSCAPE_1200/10215_26_2_2026_18_53_0_1_WHATSAPPIMAGE2026_02_26AT64056PM.JPEG",
-     "licence": "linkout",
-     "id": "e63e4a619d9a",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National Hotlines"
-    },
-    {
      "title": "CBI Files FIR In Sushant Singh Rajput's Ex-Manager Disha Salian's Death Case",
      "url": "https://www.ndtv.com/india-news/cbi-files-fir-in-sushant-singh-rajputs-ex-manager-disha-salians-death-case-12043806#publisher=newsstand",
      "summary": "The development comes nearly two weeks after the Bombay High Court ordered the central agency to take over the probe in the case.",
@@ -459,6 +423,25 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "National News"
+    },
+    {
+     "title": "Cops Raid Hotel In Maharashtra Over Illegal Party, 65 Detained",
+     "url": "https://www.ndtv.com/india-news/cops-raid-hotel-in-maharashtra-over-illegal-party-65-detained-12043769#publisher=newsstand",
+     "summary": "The Municipal Corporation of Delhi (MCD) on Saturday carried out 33 demolition actions across all 12 zones of the city and sealed five properties as part of an intensified crackdown on dangerous buildings, unauthorised constructions and building norm violations, officials said.",
+     "published": "2026-09-14T07:15:30+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2020-08/11dafi08_rave-party-generic-pixabay-650_625x300_16_August_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "120b4aef9ffd",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News",
+     "figures": [
+      "65 Detained",
+      "33 demolition actions across all 12",
+      "12 zones of the city"
+     ]
     }
    ]
   },
@@ -474,7 +457,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-14T08:38:25.738863+00:00",
+     "published": "2026-09-14T09:03:49.034695+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -485,7 +468,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-14T08:38:25.738874+00:00",
+     "published": "2026-09-14T09:03:49.034717+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -496,7 +479,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-14T08:38:25.738879+00:00",
+     "published": "2026-09-14T09:03:49.034724+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -507,7 +490,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-14T08:38:25.738882+00:00",
+     "published": "2026-09-14T09:03:49.034728+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -518,7 +501,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-14T08:38:25.738885+00:00",
+     "published": "2026-09-14T09:03:49.034733+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -529,7 +512,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-14T08:38:25.738888+00:00",
+     "published": "2026-09-14T09:03:49.034737+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -567,60 +550,56 @@
    "upsc": false,
    "items": [
     {
-     "title": "Revised design clears hurdle for Pavangad ROB approach road",
-     "url": "https://www.thehindu.com/news/national/kerala/revised-design-clears-hurdle-for-pavangad-rob-approach-road/article71462930.ece",
-     "summary": "The Kerala State Electricity Board had served a notice to the Public Works Department directing it to stop piling work after 110-kV and 11-kV underground power cables were found passing through the site where the approach road was being constructed",
-     "published": "2026-09-14T08:21:21+00:00",
+     "title": "Meta restricts access to viral AI video of Keralam CM dancing over power cuts",
+     "url": "https://www.thehindu.com/news/national/kerala/meta-restricts-access-to-viral-ai-video-of-keralam-cm-dancing-over-power-cuts/article71465583.ece",
+     "summary": "‘We have restricted access to your content in India pursuant to notice from the Government of India’, a message from Meta shared by the creators said",
+     "published": "2026-09-14T08:55:48+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/oqnd4o/article71465683.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_TheHindu_UOS9NDN9G_R1417194279_0_344.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/i37e7i/article71465585.ece/alternates/LANDSCAPE_1200/80968_13_9_2026_20_43_55_3_IMG_0794.JPEG",
      "licence": "linkout",
-     "id": "42f91a110d56",
-     "category": "general",
-     "category_label": "General"
+     "id": "b8e99e61de4b",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
-     "title": "Assam man accused of wife’s beheading dies after jumping from police vehicle",
-     "url": "https://www.thehindu.com/news/national/assam/assam-man-accused-of-wifes-beheading-dies-after-jumping-from-police-vehicle/article71465672.ece",
-     "summary": "Ramanuj Goswami was put under arrest after he surrendered last week and confessed to killing his wife Riya Talukdar in a fit of rage over her alleged extra-marital affair",
-     "published": "2026-09-14T08:11:53+00:00",
+     "title": "Kargil War veteran injured after assault by parking attendant with iron rod in Gurugram",
+     "url": "https://www.thehindu.com/news/national/haryana/kargil-war-veteran-injured-after-assault-by-parking-attendant-with-iron-rod-in-gurugram/article71465731.ece",
+     "summary": "The veteran claimed that neither the police nor the security in the area provided him assistance",
+     "published": "2026-09-14T08:52:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/nk6ws/article71465743.ece/alternates/LANDSCAPE_1200/iStock-1001140222.jpg",
      "licence": "linkout",
-     "id": "5f6d576eddae",
+     "id": "ea91a6045fd1",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "Dhruv Vikram next is ‘Jackie,’ produced by Mythri Movie Makers; first look out",
-     "url": "https://www.thehindu.com/entertainment/movies/dhruv-vikram-next-is-jackie-produced-by-mythri-movie-makers-first-look-out/article71465658.ece",
-     "summary": "The film is directed by Karan Arvind Kumar, who previousy worked as an assistant director under writer-director RJ Balaji",
-     "published": "2026-09-14T08:10:49+00:00",
+     "title": "Four Myanmar nationals detained in Bihar over lack of valid documents",
+     "url": "https://www.thehindu.com/news/national/bihar/four-myanmar-nationals-detained-in-bihar-over-lack-of-valid-documents/article71465718.ece",
+     "summary": "Upon the arrival of the train, a Railway Protection Force (RPF) team, questioned the four persons and detained them as they could not produce valid passports, citizenship certificates or other legal identity documents, RPF inspector Vikram Kumar said.",
+     "published": "2026-09-14T08:51:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/entertainment/movies/1q6q2x/article71465674.ece/alternates/LANDSCAPE_1200/jackie%20Dhruv%20Vikram.jpeg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "22819071d1c3",
-     "category": "celebrity",
-     "category_label": "Celebrity"
+     "id": "e631b0b5a68f",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "West Bengal government issues closure notice to 252 unaided and unrecognised madrasas",
-     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-governmentissues-closure-notice-to-252-unaided-and-unrecognised-madrasas/article71465404.ece",
-     "summary": "The Madrasah Education system in Bengal has a history of almost 250 years and it grew and flourished with the foundation of the Calcutta Madrasah in 1780 by the British East India Company",
-     "published": "2026-09-14T07:56:30+00:00",
+     "title": "Former Tehelka editor Tarun Tejpal surrenders before Goa Court; sent to jail to serve 10-year sentence",
+     "url": "https://www.thehindu.com/news/national/former-tehelka-editor-tarun-tejpal-surrenders-before-goa-court-sent-to-jail-to-serve-10-year-sentence/article71465699.ece",
+     "summary": "On August 25, the Supreme Court had directed Tejpal to surrender within three weeks to undergo his 10-year prison sentence following his conviction by the Bombay High Court",
+     "published": "2026-09-14T08:42:19+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bz2jgd/article71216237.ece/alternates/LANDSCAPE_1200/IMG_MADRASA_2_1_0JDAKV02.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/rtzbla/article71465703.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-14%20at%2014.00.57.jpeg",
      "licence": "linkout",
-     "id": "3f235436e9c5",
+     "id": "3a9af58aff7c",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "252 unaided and unrecognised madrasas",
-      "250 years and it grew"
-     ]
+     "category_label": "General"
     },
     {
      "title": "Management Aptitude Test Application 2026: CBT Registration Closing Today, Exam Pattern",
@@ -650,24 +629,6 @@
      "id": "e1cf7ffefc02",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Cops Raid Hotel In Maharashtra Over Illegal Party, 65 Detained",
-     "url": "https://www.ndtv.com/india-news/cops-raid-hotel-in-maharashtra-over-illegal-party-65-detained-12043769#publisher=newsstand",
-     "summary": "The Municipal Corporation of Delhi (MCD) on Saturday carried out 33 demolition actions across all 12 zones of the city and sealed five properties as part of an intensified crackdown on dangerous buildings, unauthorised constructions and building norm violations, officials said.",
-     "published": "2026-09-14T07:15:30+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2020-08/11dafi08_rave-party-generic-pixabay-650_625x300_16_August_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "120b4aef9ffd",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "figures": [
-      "65 Detained",
-      "33 demolition actions across all 12",
-      "12 zones of the city"
-     ]
     },
     {
      "title": "Woman Biker Hit, Air Force Veteran Attacked: The Lawlessness In Gurugram",
@@ -776,6 +737,19 @@
      "category_label": "Political controversy"
     },
     {
+     "title": "Questions mount over what an AI 'slowdown' would look like",
+     "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+     "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+     "published": "2026-09-13T18:20:22+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99cd/live/76ef92d0-b015-11f1-b1d1-571ed4d7ff2c.jpg",
+     "licence": "linkout",
+     "id": "7a3b9fe62341",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
@@ -830,17 +804,17 @@
      "category_label": "Crime"
     },
     {
-     "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
-     "summary": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.",
-     "published": "2026-09-13T23:16:33+00:00",
+     "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+     "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+     "published": "2026-09-14T08:58:27+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59df/live/f2881480-ab6f-11f1-b109-879e35c24276.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc15/live/0e256bc0-8c03-11f1-9dc7-8f4fc2aa9fe5.jpg",
      "licence": "linkout",
-     "id": "afa6f752369e",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "d8ffd4f70d1d",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
@@ -877,6 +851,58 @@
    "upsc": false,
    "items": [
     {
+     "title": "Meta restricts access to viral AI video of Keralam CM dancing over power cuts",
+     "url": "https://www.thehindu.com/news/national/kerala/meta-restricts-access-to-viral-ai-video-of-keralam-cm-dancing-over-power-cuts/article71465583.ece",
+     "summary": "‘We have restricted access to your content in India pursuant to notice from the Government of India’, a message from Meta shared by the creators said",
+     "published": "2026-09-14T08:55:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i37e7i/article71465585.ece/alternates/LANDSCAPE_1200/80968_13_9_2026_20_43_55_3_IMG_0794.JPEG",
+     "licence": "linkout",
+     "id": "b8e99e61de4b",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Kargil War veteran injured after assault by parking attendant with iron rod in Gurugram",
+     "url": "https://www.thehindu.com/news/national/haryana/kargil-war-veteran-injured-after-assault-by-parking-attendant-with-iron-rod-in-gurugram/article71465731.ece",
+     "summary": "The veteran claimed that neither the police nor the security in the area provided him assistance",
+     "published": "2026-09-14T08:52:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nk6ws/article71465743.ece/alternates/LANDSCAPE_1200/iStock-1001140222.jpg",
+     "licence": "linkout",
+     "id": "ea91a6045fd1",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Four Myanmar nationals detained in Bihar over lack of valid documents",
+     "url": "https://www.thehindu.com/news/national/bihar/four-myanmar-nationals-detained-in-bihar-over-lack-of-valid-documents/article71465718.ece",
+     "summary": "Upon the arrival of the train, a Railway Protection Force (RPF) team, questioned the four persons and detained them as they could not produce valid passports, citizenship certificates or other legal identity documents, RPF inspector Vikram Kumar said.",
+     "published": "2026-09-14T08:51:00+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "e631b0b5a68f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Ganesh Chaturthi celebrations begin with fervour across Telangana",
+     "url": "https://www.thehindu.com/news/national/ganesh-chaturthi-celebrations-begin-with-fervour-across-telangana/article71465694.ece",
+     "summary": "Lakhs of Lord Ganesha idols of various sizes and forms were installed at homes, apartment complexes and road corners for worship in Hyderabad and all other towns and villages in the State",
+     "published": "2026-09-14T08:39:55+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/1vht1m/article71465697.ece/alternates/LANDSCAPE_1200/_DSC0499.JPG",
+     "licence": "linkout",
+     "id": "778142aab151",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Revised design clears hurdle for Pavangad ROB approach road",
      "url": "https://www.thehindu.com/news/national/kerala/revised-design-clears-hurdle-for-pavangad-rob-approach-road/article71462930.ece",
      "summary": "The Kerala State Electricity Board had served a notice to the Public Works Department directing it to stop piling work after 110-kV and 11-kV underground power cables were found passing through the site where the approach road was being constructed",
@@ -888,45 +914,6 @@
      "id": "42f91a110d56",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Assam man accused of wife’s beheading dies after jumping from police vehicle",
-     "url": "https://www.thehindu.com/news/national/assam/assam-man-accused-of-wifes-beheading-dies-after-jumping-from-police-vehicle/article71465672.ece",
-     "summary": "Ramanuj Goswami was put under arrest after he surrendered last week and confessed to killing his wife Riya Talukdar in a fit of rage over her alleged extra-marital affair",
-     "published": "2026-09-14T08:11:53+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "5f6d576eddae",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Dhruv Vikram next is ‘Jackie,’ produced by Mythri Movie Makers; first look out",
-     "url": "https://www.thehindu.com/entertainment/movies/dhruv-vikram-next-is-jackie-produced-by-mythri-movie-makers-first-look-out/article71465658.ece",
-     "summary": "The film is directed by Karan Arvind Kumar, who previousy worked as an assistant director under writer-director RJ Balaji",
-     "published": "2026-09-14T08:10:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/entertainment/movies/1q6q2x/article71465674.ece/alternates/LANDSCAPE_1200/jackie%20Dhruv%20Vikram.jpeg",
-     "licence": "linkout",
-     "id": "22819071d1c3",
-     "category": "celebrity",
-     "category_label": "Celebrity"
-    },
-    {
-     "title": "UP leaders greet people on Hindi Diwas, say respect for Hindi is respect for nation",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-leaders-greet-people-on-hindi-diwas-say-respect-for-hindi-is-respect-for-nation/article71465592.ece",
-     "summary": "Hindi Diwas is celebrated every year on September 14 to mark the adoption of Hindi as an official language by the Constituent Assembly on September 14, 1949",
-     "published": "2026-09-14T07:35:55+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lrg52f/article71465614.ece/alternates/LANDSCAPE_1200/20260913367L.jpg",
-     "licence": "linkout",
-     "id": "b695456640df",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Stay connected with The Vibe of Young India. Get news that’s Real, Relevant & Relatable — from breaking updates and trending stories to conversations that actually matter to you. Join the Z Bharat WhatsApp Channel for quick, crisp and credible updates, stra",
@@ -1705,19 +1692,6 @@
      "id": "5569f002f6ae",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Motilal Oswal Nasdaq Q50 ETF jumps 41% in a week even as underlying US stocks fall. What is happening?",
-     "url": "https://www.livemint.com/money/personal-finance/motilal-oswal-nasdaq-q50-etf-jumps-41-in-a-week-even-as-underlying-us-stocks-fall-what-is-happening-11789369616537.html",
-     "summary": "The Motilal Oswal Nasdaq Q50 ETF surged 41% in a week even as the value of its underlying US stocks fell 2.6%, with its market price moving far above its NAV. The unusual premium has widened amid limited supply of ETF units and a recent change in SEBI’s price-band rules.",
-     "published": "2026-09-14T07:24:05+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/14/600x338/Gemini_Gnerated_Image_l9t1jxl9t1jxl9t1_1789_1789370546643_c3c6a1dc-b891-4139-b82d-847920ef97d1_1789370546842_3a5e7752-4929-46de-9b5b-7eb5132ff779_579b1451-ca37-4b77-a482-e2552c83e13f_1eff0546-a7a1-4037-a23d-9e5bfdd49bea.png",
-     "licence": "linkout",
-     "id": "73f01bf7013a",
-     "category": "money",
-     "category_label": "Money & scams"
     },
     {
      "title": "The claim settlement playbook: from filing to final payout",
