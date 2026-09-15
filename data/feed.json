@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T09:40:43.296908+00:00",
+ "generated_at": "2026-09-15T10:03:55.201550+00:00",
  "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
@@ -49,7 +49,8 @@
    "value": 177043.0,
    "change": -2766.0,
    "changePct": -1.54,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "PNBS Vijayawada",
-  "Lawrence Bishnoi",
+  "Three Koppa",
+  "Former Andhra",
   "Jazeera English",
   "News",
   "Madhya Pradesh",
   "India Bombay",
-  "Mizoram",
-  "Himalaya",
+  "Tamil Nadu",
   "Supreme Court",
-  "Mitch McConnell"
+  "Mitch McConnell",
+  "China"
  ],
  "sections": [
   {
@@ -102,15 +103,43 @@
    "upsc": false,
    "items": [
     {
+     "title": "Three of family killed after milk tanker hits motorcycle in Koppa",
+     "url": "https://www.thehindu.com/news/national/karnataka/three-of-family-killed-after-milk-tanker-hits-motorcycle-in-koppa/article71467128.ece",
+     "summary": "A 12-year-old girl survived the accident",
+     "published": "2026-09-15T10:01:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "8255c9afcef2",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Former Andhra Pradesh Deputy Chief Minister Alla Nani dies of cardiac arrest at 56",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-andhra-pradesh-deputy-chief-minister-alla-nani-dies-of-cardiac-arrest-at-56/article71467339.ece",
+     "summary": "The Eluru leader was Health Minister through the pandemic in the Y.S. Jagan Mohan Reddy government, lost his seat in 2024, quit the YSRCP that August and joined the TDP in February 2025",
+     "published": "2026-09-15T09:47:12+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/o7hckw/article71467478.ece/alternates/LANDSCAPE_1200/Alla.jpeg",
+     "licence": "linkout",
+     "id": "62cf140d6616",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
      "title": "Bag with detonators, gelatin sticks triggers panic on bus at PNBS in Vijayawada",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/bag-with-detonators-gelatin-sticks-triggers-panic-on-bus-at-pnbs-in-vijayawada/article71467105.ece",
+     "url": "https://www.thehindu.com/news/cities/Vijayawada/bag-with-detonators-gelatin-sticks-triggers-panic-on-bus-at-pnbs-in-vijayawada/article71467105.ece",
      "summary": "About 46 gelatin sticks and 50 detonators were found in a luggage bag in Vijayawada. Sniffer dog squad was pressed into service and efforts are on to trace the owner of the bag, says police",
-     "published": "2026-09-15T09:24:00+00:00",
+     "published": "2026-09-15T09:41:35+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/tf8j77/article70754679.ece/alternates/LANDSCAPE_1200/1.jpg",
      "licence": "linkout",
-     "id": "aa86701b5231",
+     "id": "d1cc30d4a22e",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News",
@@ -120,124 +149,91 @@
      ]
     },
     {
-     "title": "Lawrence Bishnoi’s associate deported from Canada, arrested by Punjab Police",
-     "url": "https://www.thehindu.com/news/national/lawrence-bishnois-associate-deported-from-canada-arrested-by-punjab-police/article71467396.ece",
-     "summary": "Karamveer Singh had reportedly provided logistical support and a hideout to Anmol Bishnoi, Lawrence’s younger brother, who was arrested by the NIA",
-     "published": "2026-09-15T09:22:08+00:00",
-     "source": "The Hindu",
+     "title": "Does artificial intelligence change the nature of war?",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGh6SnJIclF1X3VYUlhfcGkzWWhjN0dWblEwbFoteVBNR1R4ZldISzZsSGVYUFE1WFEtZFVRUTFzVnRyT1ZPTUZQY3A4WGk5ZVlZTXI5ajQ1SWRyTlJEazJIYW1mbUVyVHhjeGUtWGdxNGxXUVlKWWttWElVNTczQnktWWFGd3lkWWFxY1l3VURfdXlQNW4wVXpHa2oxZURfWFNMWUx6LWFOZw?oc=5",
+     "summary": "Does artificial intelligence change the nature of war? PubAffairs Bruxelles",
+     "published": "2026-09-15T09:56:57+00:00",
+     "source": "PubAffairs Bruxelles",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8nhw1k/article70881073.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "968f0dd3a9fd",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
+     "id": "5c1a8df02dff",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Technology"
     },
     {
-     "title": "Kochi to host Kerala Police’s c0c0n 2026 cybersecurity conference in October",
-     "url": "https://www.thehindu.com/news/national/kerala/kochi-to-host-keralams-c0c0n-2026cybersecurity-conference-in-october/article71467296.ece",
-     "summary": "Event to bring together cybersecurity professionals, government and law enforcement agencies, industry leaders, researchers, technology experts, academicians and students",
-     "published": "2026-09-15T09:13:52+00:00",
+     "title": "Tamil Nadu bypolls: AMMK extends support to AIADMK candidates",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-ammk-extends-support-to-aiadmk-candidates/article71467447.ece",
+     "summary": "AMMK leader T.T.V. Dhinakaran announced support for AIADMK candidates in the Madurantakam and Dharapuram byelections",
+     "published": "2026-09-15T09:48:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/l3xg9c/article71467468.ece/alternates/LANDSCAPE_1200/9871_26_12_2025_20_27_43_3_DSC_0111.JPG",
      "licence": "linkout",
-     "id": "6281831f93ac",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Tamil Nadu byelections: AIADMK names candidates for Madurantakam, Dharapuram constituencies",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-byelections-aiadmk-namescandidates-for-madurantakam-dharapuram-constituencies/article71452093.ece",
-     "summary": "The AIADMK named former MLA Kanitha Sampath as its candidate for Madurantakam (Chengalpattu district) and K. Bhanumathi for Dharapuram (Tiruppur district)",
-     "published": "2026-09-15T09:29:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1hvdf2/article71467435.ece/alternates/LANDSCAPE_1200/AIADMK%20bypoll%20candidates.jpg",
-     "licence": "linkout",
-     "id": "0d3f8ac56019",
+     "id": "8d6f94198c63",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Annamalai University staff launch indefinite strike at Chidambaram",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-university-staff-launch-indefinite-strike-at-chidambaram/article71467124.ece",
-     "summary": "The Joint Action Committee of faculty members, employees and pensioners had been holding a continuous sit-in protest since August 19.",
-     "published": "2026-09-15T09:16:34+00:00",
+     "title": "India ODI Squad: BCCI Could To Pick 3 IPL Captains, Pant May Return vs West Indies: Report",
+     "url": "https://sports.ndtv.com/cricket/india-squad-for-west-indies-odis-rishabh-pant-u-turn-likely-3-ipl-captains-in-fray-report-12048725#publisher=newsstand",
+     "summary": "While the T20I squad is expected to be a mirror image of the Asian Games squad with the matches starting from October 6, the selection committee led by Ajit Agarkar does have a job at hand to pick the 50-over squad from the options available.",
+     "published": "2026-09-15T09:43:07+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/fi9qi7hg_pant-and-patidar-afp_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "82c0e5baf1d7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Sports"
+    },
+    {
+     "title": "BJP using ‘backdoor route’ to implement UCC, should legislate in Parliament: Omar Abdullah",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-challenges-bjp-to-bring-ucc-bill-in-parliament/article71467102.ece",
+     "summary": "Jammu and Kashmir Chief Minister Omar Abdullah also flags that several National Democratic Alliance (NDA) allies were “opposed to the idea of the Uniform Civil Code”",
+     "published": "2026-09-15T09:39:24+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1qgpdh/article71467388.ece/alternates/LANDSCAPE_1200/Annamalai%20Univ%201.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/api9ms/article71467346.ece/alternates/LANDSCAPE_1200/VBK-stock-omar%20abdullah-PTI08_22_2026_000711B.jpg",
      "licence": "linkout",
-     "id": "f7ce23691394",
+     "id": "0eeec4550873",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
     },
     {
-     "title": "Two health insurance policies? Know how to use both for one hospital bill",
-     "url": "https://www.livemint.com/money/personal-finance/two-health-insurance-policies-know-how-to-use-both-for-one-hospital-bill-11789462425987.html",
-     "summary": "Having both a personal health insurance policy and employer-provided cover can help when a large hospital bill exceeds the first policy’s coverage. Here’s how policyholders can use the second policy for the remaining eligible expenses.",
-     "published": "2026-09-15T09:14:14+00:00",
-     "source": "Mint",
+     "title": "Triple H Issues Statement After Lola Vice Makes WWE RAW Debut With Huge MITB Win",
+     "url": "https://sports.ndtv.com/us-wwe/triple-h-issues-statement-after-lola-vice-makes-wwe-raw-debut-with-huge-mitb-win-12048814#publisher=newsstand",
+     "summary": "Lola Vice made her WWE RAW debut with a huge three-way qualifying win over Kelani Jordan and Raquel Rodriguez. Triple H then congratulated her, while her victory secured a spot in next month's Women's Money in the Bank Ladder Match.",
+     "published": "2026-09-15T09:33:21+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/health_insurance_1789462479483_svrB_1789462479689_68xU_d6216ebe-55db-4812-81fd-b5738c9ef632_DGyH.png",
+     "image": "https://c.ndtvimg.com/2026-07/5qsfksdc_triple-h_625x300_29_July_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "2e32b2df8fc2",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Business"
-    },
-    {
-     "title": "J&K Admin. issues eviction notices in Srinagar’s high-end market of Lal Chowk, Kara Nagar against Nazool land occupants",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-admin-issues-eviction-notices-in-srinagars-high-end-market-of-lal-chowk-kara-nagar-against-nazool-land-occupants/article71467294.ece",
-     "summary": "Eviction notices have been issued in high-end locations in Srinagar’s Kara Nagar, Raj Bagh and Lal Chowk and even against those who have defaulted on rent",
-     "published": "2026-09-15T09:21:53+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "01e68a2c13b4",
+     "id": "fd6b13622094",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National Hotlines"
+     "from_section": "Sports"
     },
     {
-     "title": "8th Pay Commission: Why employee unions want salary and pension revisions every 5 years",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-why-employee-unions-want-salary-and-pension-revisions-every-5-years-11789457870623.html",
-     "summary": "8th Pay Commission news: Central government employees and pensioners seek salary and pension revisions every 5 years instead of 10. Know why unions want shorter pay cycles, inflation-linked reviews and a permanent wage review body.",
-     "published": "2026-09-15T08:45:18+00:00",
-     "source": "Mint",
+     "title": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmlaN2hLT3BtUkxUR3lybTk4RUhtWnNZY0xGWkFLTjc4SzBqMVhyUi01ajZ4Zm1obXlRZ0pKUURlclZ0R0c3Q0s0dTMybmU2TVoweEpoX25xZjZvRDJkUHdweVJlNl9UeHZtc0VqRC1ONWNIc0RvcGtvenhHXzBtcXZMMUNXUWdlWFpoQzVWdnJxN1l5MU5KV0JEZDBWQ3JJYVd3TkFDOU4xbEhDXy03dUV1aVcwY0pLYXB5ZDJxTU1IeUhORmU1V2dpNVNNREx6SWfSAdYBQVVfeXFMUEFQay1Xa3I1aEhkeWtUX0dhZlUwOVpZMVlSOFVZMFhpY1ZaWXh6aFB0eExGczg0dnZfRmdHLXhoSGJwLS1GZXRxcEp5dEtoQmRvVk1VNTg4THR6cjFPOEotQm05NjZ0VDM3ZWdhMEhLMUVKalNFVndlbVotcnZtVmEzTnY5WEJfMmVrX1ZXMTJVekpUbmpYejk0NXFiWlJEWERhRjJMNm9NNlBPTUU2ckxqTV9lM2FiUERmdW01QmdGV2NabTVOUl82UmFDUUhNWXA3MzByZw?oc=5",
+     "summary": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam The Tribune",
+     "published": "2026-09-15T06:12:00+00:00",
+     "source": "The Tribune",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/cc67cb0d-c7f0-4bd7-99a0-22ea9d5d2924_1789458398470_YHkW_1789458410060_eIsV_7813e023-3bf9-4427-a7dd-f52d571b4735_aa83.png",
+     "image": null,
      "licence": "linkout",
-     "id": "a517949a9164",
+     "id": "7c8f28e5205d",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business",
+     "from_section": "Scandals & Investigations",
      "figures": [
-      "5 years",
-      "5 years instead of 10",
-      "10. Know why unions want shorter"
-     ]
-    },
-    {
-     "title": "Missed an income tax notice because you changed your address? ITAT ruling offers relief on ₹11 lakh tax addition",
-     "url": "https://www.livemint.com/money/personal-finance/missed-an-income-tax-notice-because-you-changed-your-address-itat-ruling-offers-relief-on-11-lakh-tax-addition-11789458388511.html",
-     "summary": "Delhi ITAT condoned a 2,073-day delay after a taxpayer said reassessment notices were sent to his old address. The tribunal also deleted an ₹11 lakh addition after the taxpayer explained the cash deposit through property sale proceeds and past savings.",
-     "published": "2026-09-15T07:55:13+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/Gemini_Generated_Image_qmdineqmdineqmdi_1789458_1789458687289_WQp3_1789458687437_dRfJ_dba772d9-6817-4e2f-a6c4-6bfae8f0167e_pZlK.png",
-     "licence": "linkout",
-     "id": "f11c828587d8",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "₹11 lakh tax addition",
-      "₹11 lakh addition after the taxpayer"
+      "8 charges against IFS officer Navneet",
+      "Rs 82 -crore CREST scam"
      ]
     },
     {
@@ -255,18 +251,21 @@
      "from_section": "Global News"
     },
     {
-     "title": "XenaTheWitch Slaps Drago At Ice Poseidon Event As Her Old Kick Ban Resurfaces",
-     "url": "https://sports.ndtv.com/us-us-streamers/xenathewitch-slaps-drago-at-ice-poseidon-event-as-her-old-kick-ban-resurfaces-12048480#publisher=newsstand",
-     "summary": "A slap at a Kick livestream event has split the streaming community, and XenaTheWitch's old Kick ban is being pulled back into the argument.",
-     "published": "2026-09-15T08:18:37+00:00",
-     "source": "NDTV Sports",
+     "title": "\"Success Of Foreign Policy\": Omar Abdullah On Pahalgam Mention In BRICS",
+     "url": "https://www.ndtv.com/india-news/success-of-foreign-policy-omar-abdullah-on-pahalgam-mention-in-brics-12048833#publisher=newsstand",
+     "summary": "The 18th BRICS Summit in the national capital witnessed member nations unanimously adopting the extensive 45-page New Delhi Declaration 2026, comprising 140 points.",
+     "published": "2026-09-15T09:42:49+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/k5cejm8k_xenathewitch-slaps-drago_625x300_15_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/6q5gf2b8_omar-_625x300_15_September_26.jpeg",
      "licence": "linkout",
-     "id": "3d896ab9cb16",
+     "id": "2ece6dd95f9a",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "Sports"
+     "from_section": "National News",
+     "figures": [
+      "140 points"
+     ]
     },
     {
      "title": "UPSC Mains Answer Practice — GS 3: India’s adoption of artificial intelligence and primary healthcare (Week 172)",
@@ -336,10 +335,10 @@
      "id": "44ac1cfc8520",
      "also": [
       {
-       "source": "India Today",
+       "source": "bestcolleges.indiatoday.in",
        "title": "School assembly news headlines today- September 15: Top national, sports and world news curated for you",
        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS29jR2o2Z1BRZngtT0M2RWMwN3RCa2x2WWhrd3JwSUVqeGVFa01yU1hQV0huc21BWlJwUzZ0OHdIbkZCTFRUX2pXQTBDYi1kNlp2ZHBlcGUyMTRNUGd6WnpWWTNKdVFqNDNmMkhVSmxHcmtvOHdCaHR5aHlpZktBSjVQN1BtMmtTcXl1ZkJmc3VMM2pObDRFc0xqQVZEY1c4a0NlNFZZMkpfSTBIUTljRFN1T0FQREc1Rk5VeGZreG4yMHExajhVYklqTFJJeEdfZHFRRjFxY2dtblpPZGwwX0ZuSjh5MFlO?oc=5",
-       "summary": "School assembly news headlines today- September 15: Top national, sports and world news curated for you India Today"
+       "summary": "School assembly news headlines today- September 15: Top national, sports and world news curated for you bestcolleges.indiatoday.in"
       }
      ],
      "category": "sports",
@@ -347,32 +346,32 @@
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "\"Imran Khan Will Die\": 7 Australian Captains Write To Own Government For Pakistan Great's Detention",
-     "url": "https://sports.ndtv.com/cricket/imran-khan-will-die-7-ex-captains-seek-australian-governments-intervention-for-pakistan-legend-12048150#publisher=newsstand",
-     "summary": "Imran Khan Detention: Seven former Australian cricket captains have urged their government to seek better treatment for jailed ex-Pakistan captain Imran Khan.",
-     "published": "2026-09-15T08:12:49+00:00",
+     "title": "Shree Charani Scripts ICC Rankings History With Never-Seen-Before Feat",
+     "url": "https://sports.ndtv.com/cricket/shree-charani-scripts-icc-rankings-history-with-never-seen-before-feat-12048621#publisher=newsstand",
+     "summary": "Shree Charani picked up four wickets in the Asia Cup final against Sri Lanka at Dubai International Cricket Stadium to finish with 12 scalps for the tournament and the left-armer has broken new ground on the latest rankings update.",
+     "published": "2026-09-15T09:47:48+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5jbi89nc_greg-chappell-imran-khan-getty_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/6iv4ncgs_shree-charani-getty_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b3ddc0870ec7",
+     "id": "32ad5f6719b4",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports",
      "figures": [
-      "7 Australian Captains Write To Own"
+      "12 scalps for the tournament"
      ]
     },
     {
-     "title": "Hemang Badani As CSK Coach Gets Strong Objection Ahead Of IPL 2027: \"MS Dhoni Is Enough\"",
-     "url": "https://sports.ndtv.com/cricket/hemang-badani-as-csk-coach-gets-strong-objection-ahead-of-ipl-2027-ms-dhoni-is-enough-12046783#publisher=newsstand",
-     "summary": "There is a certain air of mystery and intrigue surrounding the next Chennai Super Kings coach. Over the last few seasons, Chennai's performance has not been great",
-     "published": "2026-09-15T08:09:34+00:00",
+     "title": "ETPL Sets The Benchmark, Says World Cricketers' Association",
+     "url": "https://sports.ndtv.com/cricket/etpl-sets-the-benchmark-says-world-cricketers-association-12048089#publisher=newsstand",
+     "summary": "WCA CEO Tom Moffat, in the WCA's latest Global Leagues Hub Update, described ETPL as \"a good example of what can be achieved when leagues engage player representatives early and work constructively to establish clear arrangements before players take the field.\"",
+     "published": "2026-09-15T09:15:38+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-05/a48emeas_csk_625x300_21_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/bqah8jhs_etpl-2026-captains_625x300_15_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4d91826c5fd9",
+     "id": "e86b77b43d5a",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
@@ -433,7 +432,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-15T09:40:30.864620+00:00",
+     "published": "2026-09-15T10:03:42.408148+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -444,7 +443,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-15T09:40:30.864647+00:00",
+     "published": "2026-09-15T10:03:42.408167+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -455,7 +454,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-15T09:40:30.864651+00:00",
+     "published": "2026-09-15T10:03:42.408172+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -466,7 +465,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-15T09:40:30.864656+00:00",
+     "published": "2026-09-15T10:03:42.408177+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -477,7 +476,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-15T09:40:30.864660+00:00",
+     "published": "2026-09-15T10:03:42.408182+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -488,7 +487,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-15T09:40:30.864664+00:00",
+     "published": "2026-09-15T10:03:42.408186+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -569,36 +568,6 @@
      "id": "5663a189b7df",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmlaN2hLT3BtUkxUR3lybTk4RUhtWnNZY0xGWkFLTjc4SzBqMVhyUi01ajZ4Zm1obXlRZ0pKUURlclZ0R0c3Q0s0dTMybmU2TVoweEpoX25xZjZvRDJkUHdweVJlNl9UeHZtc0VqRC1ONWNIc0RvcGtvenhHXzBtcXZMMUNXUWdlWFpoQzVWdnJxN1l5MU5KV0JEZDBWQ3JJYVd3TkFDOU4xbEhDXy03dUV1aVcwY0pLYXB5ZDJxTU1IeUhORmU1V2dpNVNNREx6SWfSAdYBQVVfeXFMUEFQay1Xa3I1aEhkeWtUX0dhZlUwOVpZMVlSOFVZMFhpY1ZaWXh6aFB0eExGczg0dnZfRmdHLXhoSGJwLS1GZXRxcEp5dEtoQmRvVk1VNTg4THR6cjFPOEotQm05NjZ0VDM3ZWdhMEhLMUVKalNFVndlbVotcnZtVmEzTnY5WEJfMmVrX1ZXMTJVekpUbmpYejk0NXFiWlJEWERhRjJMNm9NNlBPTUU2ckxqTV9lM2FiUERmdW01QmdGV2NabTVOUl82UmFDUUhNWXA3MzByZw?oc=5",
-     "summary": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam The Tribune",
-     "published": "2026-09-15T06:12:00+00:00",
-     "source": "The Tribune",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "7c8f28e5205d",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "8 charges against IFS officer Navneet",
-      "Rs 82 -crore CREST scam"
-     ]
-    },
-    {
-     "title": "RBI proposes 60-day limit on bank account holds in cyber fraud cases: What customers need to know",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZUtRODBmeHAxUXFOcVlQNTJ5OE9DdEE4V0FSclR1aWh5T05sWDQ1X3Y5eklYbHdQc1h0cXRCMlpPdnA1dzJ0RGpPbGt6RHdrZWlzbGpDWXY0QXI3TjJsdVpBLW1Rc043dVVfUExyOUxVdHRGUGdlXzYwcl9pNWxvS3dzQkV4OXlVSUY4WkltcHAyR1FZSVFOZDRGYnl3TDZiSGpDUkw3SGpMVUUtYnV0NEVhWTFRUEhhZXdqcDVfbjZHUnplakIzN2xKcUxtSDVORDRlTmRjS21GSk43R0tWckpGUldadkNoUlRqcFVWb00ydmpXOTRZ0gH8AUFVX3lxTE9NLWFQUWxuVUpJeGZBZ3Q0enJCT0s1NXR5eTNEQlNVWnN0OWN6dzdEbVRrbjZnNVFVbzVNZ2dZeUJfaVo5MGlweVZiam9rM2ZwcExtWXBOWGZxSlBVb2xZR1B5aVdkM1ppbFluOWJuLVBQYWZMWDZ3bnNaM1pFaHJjOXJ4aG5CdWNLcnJNZF9SUFNUZzljTXNFZG55Z2xocXBieVE2X2RMLWRINW9RZXhUVDlFWERSd2YxWVNmQ0ZGMnQ0dkJhU25iUVBuMHJIRnRxeVBUeVc5Y256SmVwYWVkSC1kZGNIS0E0THJwUzM1UjZ1dXhjYUl5WEY3aw?oc=5",
-     "summary": "RBI proposes 60-day limit on bank account holds in cyber fraud cases: What customers need to know Livemint",
-     "published": "2026-09-14T09:50:37+00:00",
-     "source": "Livemint",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "d53197d2a7cf",
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -609,108 +578,111 @@
    "upsc": false,
    "items": [
     {
-     "title": "Mizoram yields two new-to-science frog species, one hiding in plain sight",
-     "url": "https://www.thehindu.com/news/national/mizoram/mizoram-yields-two-new-to-science-frog-species-one-hiding-in-plain-sight/article71467289.ece",
-     "summary": "Duttaphrynus phawngpui and Ingerana aizawl named after Mizoram’s highest peak and its capital; one species was long mistaken for a widespread frog",
-     "published": "2026-09-15T09:34:17+00:00",
+     "title": "Three of family killed after milk tanker hits motorcycle in Koppa",
+     "url": "https://www.thehindu.com/news/national/karnataka/three-of-family-killed-after-milk-tanker-hits-motorcycle-in-koppa/article71467128.ece",
+     "summary": "A 12-year-old girl survived the accident",
+     "published": "2026-09-15T10:01:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/frc2lf/article71467442.ece/alternates/LANDSCAPE_1200/583efb58-a77a-46ca-8c09-8b56d2813d01.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "4e340a9b9505",
-     "category": "general",
-     "category_label": "General"
+     "id": "8255c9afcef2",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "Himalaya approaching tipping point, report says",
-     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalaya-approaching-tipping-point-report-says/article71467426.ece",
-     "summary": "Peak water, the point in time when river flows stop rising and ​start declining, could happen by mid-century",
-     "published": "2026-09-15T09:32:15+00:00",
+     "title": "Tamil Nadu bypolls: AMMK extends support to AIADMK candidates",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-ammk-extends-support-to-aiadmk-candidates/article71467447.ece",
+     "summary": "AMMK leader T.T.V. Dhinakaran announced support for AIADMK candidates in the Madurantakam and Dharapuram byelections",
+     "published": "2026-09-15T09:48:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5as6u6/article71467433.ece/alternates/LANDSCAPE_1200/2026-09-08T044930Z_725967075_RC2FDNACZTDF_RTRMADP_3_NEPAL-FLOODS-CHINA-GYIRONG.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/l3xg9c/article71467468.ece/alternates/LANDSCAPE_1200/9871_26_12_2025_20_27_43_3_DSC_0111.JPG",
      "licence": "linkout",
-     "id": "a98e5b17e88f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Tamil Nadu byelections: AIADMK names candidates for Madurantakam, Dharapuram constituencies",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-byelections-aiadmk-namescandidates-for-madurantakam-dharapuram-constituencies/article71452093.ece",
-     "summary": "The AIADMK named former MLA Kanitha Sampath as its candidate for Madurantakam (Chengalpattu district) and K. Bhanumathi for Dharapuram (Tiruppur district)",
-     "published": "2026-09-15T09:29:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1hvdf2/article71467435.ece/alternates/LANDSCAPE_1200/AIADMK%20bypoll%20candidates.jpg",
-     "licence": "linkout",
-     "id": "0d3f8ac56019",
+     "id": "8d6f94198c63",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Suvendu Adhikari Names Mother Of His Ex-Aide For Nandigram Bypoll",
-     "url": "https://www.ndtv.com/india-news/suvendu-adhikari-names-mother-of-his-ex-aide-for-nandigram-bypoll-12048458#publisher=newsstand",
-     "summary": "The BJP on Tuesday named Hasirani Rath, the mother of former aide to West Bengal Chief Minister Suvendu Adhikari who died in May, as its candidate for Nandigrambypoll.",
-     "published": "2026-09-15T08:10:53+00:00",
-     "source": "NDTV",
+     "title": "Former Andhra Pradesh Deputy Chief Minister Alla Nani dies of cardiac arrest at 56",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-andhra-pradesh-deputy-chief-minister-alla-nani-dies-of-cardiac-arrest-at-56/article71467339.ece",
+     "summary": "The Eluru leader was Health Minister through the pandemic in the Y.S. Jagan Mohan Reddy government, lost his seat in 2024, quit the YSRCP that August and joined the TDP in February 2025",
+     "published": "2026-09-15T09:47:12+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-05/6fdhk6bg_chandranath-_625x300_06_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/o7hckw/article71467478.ece/alternates/LANDSCAPE_1200/Alla.jpeg",
      "licence": "linkout",
-     "id": "2937f117574f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Gurugram Hit-And-Run Accused Kalyan Bainsla Arrested, 'Attempt To Murder' Invoked",
-     "url": "https://www.ndtv.com/india-news/kalyan-bainsla-gurugram-hit-and-run-accused-detained-from-rajasthan-12047901#publisher=newsstand",
-     "summary": "The Gurugram Police, based on the CCTV findings, filed an attempt to murder charge against the accused driver.",
-     "published": "2026-09-15T08:08:09+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/icu9g3fk_bainsla_625x300_14_September_26.jpg",
-     "licence": "linkout",
-     "id": "961e6b409599",
+     "id": "62cf140d6616",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "\"Was Scared Of Being Lynched\": Lawyer On Why Gurugram Hit-And-Run Driver Fled",
-     "url": "https://www.ndtv.com/india-news/biker-sia-lawyer-naveen-bainsla-on-why-gurugram-hit-and-run-driver-kalyan-bainsla-fled-was-scared-of-being-lynched-12048443#publisher=newsstand",
-     "summary": "In Gurugram hit-and-run case, accused Kalyan Bainsla's lawyer has claimed that riders were more in numbers and were over speeding.",
-     "published": "2026-09-15T08:07:57+00:00",
-     "source": "NDTV",
+     "title": "Fire breaks out at automobile service centre in Keralam’s Kochi; none injured",
+     "url": "https://www.thehindu.com/news/national/kerala/fire-breaks-out-at-automobile-service-centre-in-keralams-kochi-none-injured/article71467438.ece",
+     "summary": "The blaze broke out when workers were uninstalling steel frames of the facility as part of relocation",
+     "published": "2026-09-15T09:41:02+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/t835svm_biker_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/vhr9zh/article71467455.ece/alternates/LANDSCAPE_1200/Fire%20rep%20image.jpg",
      "licence": "linkout",
-     "id": "de9fad22b608",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Kerala Woman Vlogger Says Solo Trip Led to Arrest Threat In Afghanistan",
-     "url": "https://www.ndtv.com/india-news/kerala-woman-vlogger-says-solo-trip-led-to-arrest-threat-in-afghanistan-12048350#publisher=newsstand",
-     "summary": "A Keralite woman travel vlogger, who had earlier claimed that she was arrested by the \"Mujahideen\" in Afghanistan, has now said that local authorities threatened to arrest her in Bamyan.",
-     "published": "2026-09-15T07:52:31+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/84ssefk_vfdgfg_625x300_15_September_26.jpeg",
-     "licence": "linkout",
-     "id": "8ec76c75f723",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Vijay-Themed Ganesh Idols Spark Huge Political Row In Tamil Nadu",
-     "url": "https://www.ndtv.com/india-news/vijay-themed-ganesh-idols-spark-huge-political-row-in-tamil-nadu-12048338#publisher=newsstand",
-     "summary": "TVK sources say the workers have been instructed to remove the statue.",
-     "published": "2026-09-15T07:47:58+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/d8f7q6vk_vijay-ganehs-idol-_625x300_15_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "27c1e1bfc493",
+     "id": "8f186dee463b",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "US Schools Stop Giving Laptops To Kindergartners, Cut Screen Time",
+     "url": "https://www.ndtv.com/education/us-schools-stop-giving-laptops-to-kindergartners-cut-screen-time-12048907#publisher=newsstand",
+     "summary": "The move comes as concerns grow over the use of screens in classrooms. Some districts have restricted students from taking devices home, while others have reduced the use of individual laptops and tablets in younger grades.",
+     "published": "2026-09-15T09:48:52+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2019-04/o76c6bag_up-board-result-2019_625x300_27_April_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "bdc10b060371",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Speeding Thar Rams Into People Near Navi Mumbai Hospital, Driver Flees",
+     "url": "https://www.ndtv.com/india-news/speeding-thar-rams-into-people-near-navi-mumbai-hospital-driver-flees-12047451#publisher=newsstand",
+     "summary": "Three people were critically injured after a speeding Mahindra Thar allegedly hit them near PKC Hospital in Vashi, Navi Mumbai, before the driver fled the spot.",
+     "published": "2026-09-15T09:45:04+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/llkm3o3_b_625x300_15_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "201e5f2b5ef2",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "As PM Modi Nears 25 Years In Office, A Look At His Most Ambitious Schemes",
+     "url": "https://www.ndtv.com/india-news/as-pm-modi-nears-25-years-in-office-a-look-at-his-schemes-swachh-bharat-abhiyan-digital-india-ayushman-bharat-pradhan-mantri-jan-dhan-yojana-12048295#publisher=newsstand",
+     "summary": "Swachh Bharat, Jan Dhan, Ayushman Bharat and Digital India are among the biggest of these schemes, reaching millions across the country.",
+     "published": "2026-09-15T09:36:46+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/pn75ft0s_modi_625x300_15_September_26.jpeg",
+     "licence": "linkout",
+     "id": "fbe701a188cd",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "rs 25  Years In Office"
+     ]
+    },
+    {
+     "title": "IIT Madras Invites Applications For Assistant Professor Positions, Check Selection Process",
+     "url": "https://www.ndtv.com/education/iit-madras-invites-applications-for-assistant-professor-positions-check-selection-process-12048843#publisher=newsstand",
+     "summary": "The IIT Madras has opened the application process for the Assistant Professor positions. Only candidates with Ph.D. in relevant field are eligible to apply for the posts.",
+     "published": "2026-09-15T09:36:03+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://i.ndtvimg.com/i/2016-07/iit-madras_650x400_41468466485.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ff55824cde36",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -815,7 +787,7 @@
      "title": "Suspected sabotage causes major Netherlands rail disruption",
      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-     "published": "2026-09-15T09:37:00+00:00",
+     "published": "2026-09-15T09:59:14+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -880,6 +852,45 @@
    "upsc": false,
    "items": [
     {
+     "title": "Three of family killed after milk tanker hits motorcycle in Koppa",
+     "url": "https://www.thehindu.com/news/national/karnataka/three-of-family-killed-after-milk-tanker-hits-motorcycle-in-koppa/article71467128.ece",
+     "summary": "A 12-year-old girl survived the accident",
+     "published": "2026-09-15T10:01:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "8255c9afcef2",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Tamil Nadu bypolls: AMMK extends support to AIADMK candidates",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-ammk-extends-support-to-aiadmk-candidates/article71467447.ece",
+     "summary": "AMMK leader T.T.V. Dhinakaran announced support for AIADMK candidates in the Madurantakam and Dharapuram byelections",
+     "published": "2026-09-15T09:48:00+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/l3xg9c/article71467468.ece/alternates/LANDSCAPE_1200/9871_26_12_2025_20_27_43_3_DSC_0111.JPG",
+     "licence": "linkout",
+     "id": "8d6f94198c63",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Former Andhra Pradesh Deputy Chief Minister Alla Nani dies of cardiac arrest at 56",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-andhra-pradesh-deputy-chief-minister-alla-nani-dies-of-cardiac-arrest-at-56/article71467339.ece",
+     "summary": "The Eluru leader was Health Minister through the pandemic in the Y.S. Jagan Mohan Reddy government, lost his seat in 2024, quit the YSRCP that August and joined the TDP in February 2025",
+     "published": "2026-09-15T09:47:12+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/o7hckw/article71467478.ece/alternates/LANDSCAPE_1200/Alla.jpeg",
+     "licence": "linkout",
+     "id": "62cf140d6616",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Mizoram yields two new-to-science frog species, one hiding in plain sight",
      "url": "https://www.thehindu.com/news/national/mizoram/mizoram-yields-two-new-to-science-frog-species-one-hiding-in-plain-sight/article71467289.ece",
      "summary": "Duttaphrynus phawngpui and Ingerana aizawl named after Mizoram’s highest peak and its capital; one species was long mistaken for a widespread frog",
@@ -906,19 +917,6 @@
      "category_label": "General"
     },
     {
-     "title": "Tamil Nadu byelections: AIADMK names candidates for Madurantakam, Dharapuram constituencies",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-byelections-aiadmk-namescandidates-for-madurantakam-dharapuram-constituencies/article71452093.ece",
-     "summary": "The AIADMK named former MLA Kanitha Sampath as its candidate for Madurantakam (Chengalpattu district) and K. Bhanumathi for Dharapuram (Tiruppur district)",
-     "published": "2026-09-15T09:29:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1hvdf2/article71467435.ece/alternates/LANDSCAPE_1200/AIADMK%20bypoll%20candidates.jpg",
-     "licence": "linkout",
-     "id": "0d3f8ac56019",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
      "summary": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance News On AIR",
@@ -934,9 +932,9 @@
     {
      "title": "School assembly news headlines today- September 15: Top national, sports and world news curated for you",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS29jR2o2Z1BRZngtT0M2RWMwN3RCa2x2WWhrd3JwSUVqeGVFa01yU1hQV0huc21BWlJwUzZ0OHdIbkZCTFRUX2pXQTBDYi1kNlp2ZHBlcGUyMTRNUGd6WnpWWTNKdVFqNDNmMkhVSmxHcmtvOHdCaHR5aHlpZktBSjVQN1BtMmtTcXl1ZkJmc3VMM2pObDRFc0xqQVZEY1c4a0NlNFZZMkpfSTBIUTljRFN1T0FQREc1Rk5VeGZreG4yMHExajhVYklqTFJJeEdfZHFRRjFxY2dtblpPZGwwX0ZuSjh5MFlO?oc=5",
-     "summary": "School assembly news headlines today- September 15: Top national, sports and world news curated for you India Today",
+     "summary": "School assembly news headlines today- September 15: Top national, sports and world news curated for you bestcolleges.indiatoday.in",
      "published": "2026-09-14T12:02:20+00:00",
-     "source": "India Today",
+     "source": "bestcolleges.indiatoday.in",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1514,7 +1512,7 @@
      "published": "2026-09-15T08:51:39+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa08/live/5feb6de0-b0e5-11f1-bc1f-3f186ca4140c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg",
      "licence": "linkout",
      "id": "97c02edcb327",
      "category": "general",
@@ -1577,35 +1575,6 @@
      "id": "3fe5db2b4ca1",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "When should you switch an index fund? 4 things investors must check before moving to another fund",
-     "url": "https://www.livemint.com/money/personal-finance/when-should-you-switch-an-index-fund-4-things-investors-must-check-before-moving-to-another-fund-11789462236605.html",
-     "summary": "Not every index fund tracking the same benchmark delivers the same investor experience. Experts say investors should look at persistent tracking difference and tracking error before switching, rather than chasing short-term returns or the lowest expense ratio.",
-     "published": "2026-09-15T08:57:58+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/Gemini_Generated_mage_5a8yt65a8yt65a8y_17894625_1789462565130_wszt_1789462565389_D0Tf_2cc73921-351b-4e7f-868d-fa370459a825_Ukl9.png",
-     "licence": "linkout",
-     "id": "98d30f926e3d",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "4 things investors must check"
-     ]
-    },
-    {
-     "title": "Should you add equal-weight funds to your portfolio?",
-     "url": "https://www.livemint.com/money/personal-finance/equalweight-funds-etfs-nifty-50-equal-weight-nifty-100-equal-weight-nifty-500-equal-weight-passive-investing-11789408727387.html",
-     "summary": "Broader equal-weight funds have outperformed their market-cap-weighted parents in recent months, but the strategy can also mean greater mid- and small-cap exposure, sector shifts and higher concentration in narrower indices.",
-     "published": "2026-09-15T07:38:27+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/pexels-photo-5716016_1789454655774_gPkc_1789454923116_CRF4_4bd8919f-d2a2-41c3-8857-1b541f9e0d26_crGc.jpeg",
-     "licence": "linkout",
-     "id": "d4e445b0bbfa",
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -1682,19 +1651,6 @@
      "id": "0d60c41face7",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS, INC.",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRS1HRkRRS1hGS2xzOF9fV1NIVVhreEZWbk4xRzNKeU9CVUo4SHJWTFNzOHA0ZkFtRURscWxvTjU1elZxN3RROGVGWlRWQmxvejFHTjNRUWtHdTZqbHc4dkp3bUdSc1Q4TmRkUlZsNWNEdG9aN1VIOWk0TmtuX1d0R2hvS3Rua2J5RjJEVkdkUzdXOGhVVFdPZGtHUGhyVXh0MXE0MnktNFJNSklOZlROX2J1QU13Y3EtelRLdDl1NGdvck9MY3ZwbjRR?oc=5",
-     "summary": "ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS, INC. Investing.com India",
-     "published": "2026-09-14T10:34:39+00:00",
-     "source": "Investing.com India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "043753d6dcd0",
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
@@ -1705,85 +1661,59 @@
    "upsc": false,
    "items": [
     {
-     "title": "XenaTheWitch Slaps Drago At Ice Poseidon Event As Her Old Kick Ban Resurfaces",
-     "url": "https://sports.ndtv.com/us-us-streamers/xenathewitch-slaps-drago-at-ice-poseidon-event-as-her-old-kick-ban-resurfaces-12048480#publisher=newsstand",
-     "summary": "A slap at a Kick livestream event has split the streaming community, and XenaTheWitch's old Kick ban is being pulled back into the argument.",
-     "published": "2026-09-15T08:18:37+00:00",
+     "title": "Shree Charani Scripts ICC Rankings History With Never-Seen-Before Feat",
+     "url": "https://sports.ndtv.com/cricket/shree-charani-scripts-icc-rankings-history-with-never-seen-before-feat-12048621#publisher=newsstand",
+     "summary": "Shree Charani picked up four wickets in the Asia Cup final against Sri Lanka at Dubai International Cricket Stadium to finish with 12 scalps for the tournament and the left-armer has broken new ground on the latest rankings update.",
+     "published": "2026-09-15T09:47:48+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/k5cejm8k_xenathewitch-slaps-drago_625x300_15_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/6iv4ncgs_shree-charani-getty_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "3d896ab9cb16",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "\"Imran Khan Will Die\": 7 Australian Captains Write To Own Government For Pakistan Great's Detention",
-     "url": "https://sports.ndtv.com/cricket/imran-khan-will-die-7-ex-captains-seek-australian-governments-intervention-for-pakistan-legend-12048150#publisher=newsstand",
-     "summary": "Imran Khan Detention: Seven former Australian cricket captains have urged their government to seek better treatment for jailed ex-Pakistan captain Imran Khan.",
-     "published": "2026-09-15T08:12:49+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5jbi89nc_greg-chappell-imran-khan-getty_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b3ddc0870ec7",
+     "id": "32ad5f6719b4",
      "category": "sports",
      "category_label": "Sports",
      "figures": [
-      "7 Australian Captains Write To Own"
+      "12 scalps for the tournament"
      ]
     },
     {
-     "title": "Hemang Badani As CSK Coach Gets Strong Objection Ahead Of IPL 2027: \"MS Dhoni Is Enough\"",
-     "url": "https://sports.ndtv.com/cricket/hemang-badani-as-csk-coach-gets-strong-objection-ahead-of-ipl-2027-ms-dhoni-is-enough-12046783#publisher=newsstand",
-     "summary": "There is a certain air of mystery and intrigue surrounding the next Chennai Super Kings coach. Over the last few seasons, Chennai's performance has not been great",
-     "published": "2026-09-15T08:09:34+00:00",
+     "title": "India ODI Squad: BCCI Could To Pick 3 IPL Captains, Pant May Return vs West Indies: Report",
+     "url": "https://sports.ndtv.com/cricket/india-squad-for-west-indies-odis-rishabh-pant-u-turn-likely-3-ipl-captains-in-fray-report-12048725#publisher=newsstand",
+     "summary": "While the T20I squad is expected to be a mirror image of the Asian Games squad with the matches starting from October 6, the selection committee led by Ajit Agarkar does have a job at hand to pick the 50-over squad from the options available.",
+     "published": "2026-09-15T09:43:07+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-05/a48emeas_csk_625x300_21_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/fi9qi7hg_pant-and-patidar-afp_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4d91826c5fd9",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "82c0e5baf1d7",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Bhuvneshwar Kumar On Sudden Team India Exile: \"Realised It's Not What They Said\"",
-     "url": "https://sports.ndtv.com/cricket/bhuvneshwar-kumar-on-sudden-team-india-exile-realised-its-not-what-they-said-12048363#publisher=newsstand",
-     "summary": "Following Royal Challengers Bengaluru's (RCB) back-to-back Indian Premier League (IPL) triumphs, veteran pacer Bhuvneshwar Kumar has emerged as a contender for a return to the Indian national team.",
-     "published": "2026-09-15T08:08:37+00:00",
+     "title": "BCCI Official Asked About 'Friendly' Chat With Mohsin Naqvi. His Reply",
+     "url": "https://sports.ndtv.com/cricket/bcci-official-asked-about-friendly-chat-with-mohsin-naqvi-his-reply-12047538#publisher=newsstand",
+     "summary": "A top BCCI official was asked about his 'friendly' chat with Mohsin Naqvi during the Women's Asia Cup 2026 final.",
+     "published": "2026-09-15T09:34:14+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/s6j7vqf4_bhuvneshwar-kumar-getty_625x300_15_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/d0768ri_mohsin-naqvi-afp_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "8c4452d1a64e",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Nmplol Confirms Split With MisterArther, Says He’s \"Not Someone I Want\" After Friendship Comes To An End",
-     "url": "https://sports.ndtv.com/us-us-streamers/nmplol-confirms-split-with-misterarther-says-he-s-not-someone-i-want-after-friendship-comes-to-an-end-12048403#publisher=newsstand",
-     "summary": "Nmplol has confirmed that he and MisterArther have cut ties, saying he’s “moving on” and doesn’t want the German creator in his life. He also rejected the idea that one incident caused their fallout and called out fans tracking his personal life.",
-     "published": "2026-09-15T08:00:59+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/89tia5qk_nmplol-and-misterarther_625x300_14_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "cc541ea38767",
+     "id": "73b900eb74e9",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Hockey India Executive Board Meet: Infighting And Governing Council On Agenda",
-     "url": "https://sports.ndtv.com/hockey/hi-executive-board-meet-infighting-and-governing-council-for-hil-on-agenda-12047815#publisher=newsstand",
-     "summary": "HI President Dilip Tirkey and secretary Bhola Nath Singh have not been on the same page for a while following the controversy surrounding the change of Indian teams' jersey colour from blue to saffron before the recently-concluded FIH World Cup.",
-     "published": "2026-09-15T07:27:54+00:00",
+     "title": "Pakistan Pacer Razaullah Meets Joe Root After Edgbaston Heroics, Reveals Conversation",
+     "url": "https://sports.ndtv.com/cricket/pakistan-pacer-razaullah-reveals-meeting-with-root-after-birmingham-heroics-12048593#publisher=newsstand",
+     "summary": "Razaullah put on a show with both bat and ball on his Test debut after being sent an SOS call with six other players as the Pakistan Cricket Board released seven players and coaches, Sarfaraz Ahmed and Umar Gul, ahead of the third and final Test of the series.",
+     "published": "2026-09-15T08:55:12+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/bfflq4ec_hockey_625x300_15_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/g6c4hjpk_razaullah-and-root-afp_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "bb2221532065",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "70ec46438474",
+     "category": "sports",
+     "category_label": "Sports"
     }
    ]
   },
