@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T17:35:16.736551+00:00",
+ "generated_at": "2026-09-15T18:05:01.244123+00:00",
  "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 121216.0,
    "change": -2061.0,
    "changePct": -1.67,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -68,7 +69,8 @@
    "value": 109.22,
    "change": 1.59,
    "changePct": 1.48,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -82,14 +84,14 @@
   }
  ],
  "topics": [
-  "Denmark Russian",
-  "Indian",
+  "Front Page",
+  "Eluru",
   "Jazeera English",
   "News",
   "Madhya Pradesh",
   "India Bombay",
-  "Rural August",
-  "Seva Sankalp",
+  "School Ernakulam",
+  "There Chief",
   "Israeli Qatar",
   "China Iran"
  ],
@@ -100,6 +102,37 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Six policemen suspended over death of pregnant woman; SP workers stage sit-in",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/six-policemen-suspended-over-death-of-pregnant-woman-sp-workers-stage-sit-in/article71469079.ece",
+     "summary": "",
+     "published": "2026-09-15T17:51:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "20157bfa6e0d",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "RMP doctor arrested, 73 tramadol vials seized In Eluru district",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/rmp-doctor-arrested-73-tramadol-vials-seized-in-eluru-district/article71469668.ece",
+     "summary": "",
+     "published": "2026-09-15T17:40:23+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "e89173662aad",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National Hotlines",
+     "figures": [
+      "73 tramadol vials seized In Eluru"
+     ]
+    },
     {
      "title": "Denmark says Russian warship fired flares at military helicopter",
      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
@@ -113,20 +146,6 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
-    },
-    {
-     "title": "Indian police detain driver who hit female biker in viral video",
-     "url": "https://www.bbc.co.uk/news/articles/c9rk37k0rdpko?at_medium=RSS&at_campaign=rss",
-     "summary": "The incident has sparked a broader discussion about the harassment and hostility faced by female motorcyclists.",
-     "published": "2026-09-15T09:16:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1036/live/334cc610-b0d8-11f1-b427-b9b4ddc559ae.png",
-     "licence": "linkout",
-     "id": "dc5de84a8953",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline"
     },
     {
      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
@@ -159,9 +178,9 @@
     {
      "title": "Does artificial intelligence change the nature of war?",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGh6SnJIclF1X3VYUlhfcGkzWWhjN0dWblEwbFoteVBNR1R4ZldISzZsSGVYUFE1WFEtZFVRUTFzVnRyT1ZPTUZQY3A4WGk5ZVlZTXI5ajQ1SWRyTlJEazJIYW1mbUVyVHhjeGUtWGdxNGxXUVlKWWttWElVNTczQnktWWFGd3lkWWFxY1l3VURfdXlQNW4wVXpHa2oxZURfWFNMWUx6LWFOZw?oc=5",
-     "summary": "Does artificial intelligence change the nature of war? pubaffairsbruxelles.eu",
+     "summary": "Does artificial intelligence change the nature of war? PubAffairs Bruxelles",
      "published": "2026-09-15T09:56:57+00:00",
-     "source": "pubaffairsbruxelles.eu",
+     "source": "PubAffairs Bruxelles",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -182,10 +201,10 @@
      "id": "9f4f6951c137",
      "also": [
       {
-       "source": "India Today",
-       "title": "School assembly news headlines today- September 16: Top national, sports and world news curated for you",
-       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVlZyYmdadXM5ZUNQRUV4OEdIY2RfYmpNbDBFUktVbEFrMVp3b3ZWUEhmeHp4MnNXN01tRnBiLUhTRVptbE1UN21oYkRKak9ObWd1N3VQMlViVkNBTEFrNVVMVDFldTVSWWJodzBzUWJ3WDc1RzRjbHAyWkRiaGotY0hwNnUxMHgtT3hHeDZubVRlSkRha2hyNVI2SllyMlVpQ0pmUGgyYmRGdlZ4WU1CRnNfOC11d1NiQWF1dmVTU2NkOFQ2SGUyelQ5N0xlUDRpSUVOcnZ3UjFGY3FkdjhGckNlbjV3OTZa?oc=5",
-       "summary": "School assembly news headlines today- September 16: Top national, sports and world news curated for you India Today"
+       "source": "The Economic Times",
+       "title": "School Assembly News Headlines, September 16, 2026: Top national, international, business, sports updates",
+       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNX3pzTklnY1FTakpzdGMxdGZfS1QwTUUtR0xaUmZ3MG0yeWFCMnhHVkRteDFTYVFJRWpYSWR3UzdraU1vbVM0RHUtREh5NDBmVFRWMmRPUWcxZWZuOUtGRTIwUFdTRXl1RG9VSUozOHFyaHpfb0xhM2hXWG9lRDVuMzNuMk8ydHVNcDgzUEtqc25yQmhyZHo4aUtUNEZySGtjRGFQNEJ0LUp3bm9fUE93MFJXYVFHZzZzTmtRNDRSZi05RDlPWS0zOHFyQm51QzBLa1liNW1XYjRqWnJ0V1NRNGlIdmUwOVJvSUdmNFBqN2ZWQkJoVFB2Qjc3Z1RKNkpYdFVqdTIyci1Eei1EemEtbFJpZE5PT1N4emlrdzNB0gGjAkFVX3lxTE9kNjc1V3oxTjlfOUNRQWRfSnRhSU1IYS1fRDgwVVZ4TXgxUjN5S2J5QjVJdHFnRW53RnJ3NWdkQjlyc1lPdEd6MTcwcW9YX09vTWdYZmZmbVBoNHdzemU5c0xGV01PdmRlUXJTV2JieGxNSEtmcFg3MjdIM01OZFJoaldoU2ExNEJTV2tKWlNuSUc0NElpZzc1RUh2c193ZlZwVWp0WlJMX3hwMUkwdkViRmVDOTJ0QUI5MUxleWMyRm8wX19zcU92TFQxV3A1MFpNTDBZRWhCOUF5aDNIVWh2bVVvUmtBVGh0Vi1KSUdHSVBpVkJaZi04YWYxNHRrZkM5bjNjemx1bFdVbHZnWVV6ZHhTS280eEFtclA0NVoyZHlRdw?oc=5",
+       "summary": "School Assembly News Headlines, September 16, 2026: Top national, international, business, sports updates The Economic Times"
       }
      ],
      "category": "politics",
@@ -193,50 +212,32 @@
      "from_section": "National News"
     },
     {
-     "title": "Sports Minister announces task force to assess F1 revival in India",
-     "url": "https://www.thehindu.com/sport/sports-minister-announces-task-force-to-assess-f1-revival-in-india/article71467629.ece",
-     "summary": "The Task Force also has representation from the Department of Tourism and Commerce, among others and will include representatives from the Uttar Pradesh and Maharshtra Government",
-     "published": "2026-09-15T17:11:17+00:00",
-     "source": "The Hindu",
+     "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+     "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+     "summary": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
+     "published": "2026-09-15T16:15:13+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/sj824/article71467691.ece/alternates/LANDSCAPE_1200/PTI06_16_2026_000049A.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126225540505-1-1778064409.jpg?resize=1200%2C675",
      "licence": "linkout",
-     "id": "64d6e392ce40",
+     "id": "417e85f24fd1",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "Global News"
     },
     {
-     "title": "Model parliament should be created in schools and colleges: Karnataka Chief Minister",
-     "url": "https://www.thehindu.com/news/national/karnataka/model-parliament-should-be-created-in-schools-and-colleges-karnataka-chief-minister/article71468085.ece",
-     "summary": "",
-     "published": "2026-09-15T17:06:43+00:00",
-     "source": "The Hindu",
+     "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
+     "url": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
+     "summary": "No party wins majority in parliamentary polls in southern Philippines' Muslim-majority region, unofficial results show.",
+     "published": "2026-09-15T16:14:10+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/byru74/article71469641.ece/alternates/LANDSCAPE_1200/DSC_2181A.JPG",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26257144569913-1789486371.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "bd84202d7bb0",
+     "id": "d823b8704ee5",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Rural jobs scheme shows modest uptick in August, but trails 2025 MGNREGA levels",
-     "url": "https://www.thehindu.com/news/national/rural-jobs-scheme-shows-modest-uptick-in-august-but-trails-2025-mgnrega-levels/article71468686.ece",
-     "summary": "July and August show lower employment generation year-on-year as cumulative persondays fall 32%, from 29.78 crore to 20.21 crore; 60-day pause in agricultural activity led to dip in jobs, say Ministry officials",
-     "published": "2026-09-15T17:17:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gq7rsf/article71469765.ece/alternates/LANDSCAPE_1200/DSC_2754.JPG",
-     "licence": "linkout",
-     "id": "d3ab820a1539",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News",
-     "figures": [
-      "29.78 crore to 20",
-      "20.21 crore ; 60-day pause"
-     ]
+     "from_section": "Global News"
     },
     {
      "title": "India bond yields above 7%: Why debt fund investors may find a sweet spot in the 3–5 year segment",
@@ -270,6 +271,23 @@
      "from_section": "National News",
      "figures": [
       "1.4 per cent of total sales"
+     ]
+    },
+    {
+     "title": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMUJrcTdLaUhhNGNPdnV2MG5IT1FpOFdESnpacjBCOHZIdWVPQU5kcmRZODRoRFJSTjJ2a2MxNldnYjJ0UTdWZXpyaTRGMTFpSVFLTklvV0pzRTl1ZUxrYXgxRkZOeG5EeVI2QUJyMTJxVlgxaE5VSTJNNUtCeEN4UUtPeFRkMmdSYTF3YjltTTJwN1BEUUxiSERCeEZjS3BvcFRKcjRDcHJqejJ0OGZpaUhn?oc=5",
+     "summary": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad The South First",
+     "published": "2026-09-15T13:17:29+00:00",
+     "source": "The South First",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "9390b3bd5461",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Scandals & Investigations",
+     "figures": [
+      "$93 million healthcare fraud likely"
      ]
     },
     {
@@ -329,11 +347,11 @@
      "from_section": "Technology"
     },
     {
-     "title": "AI slow down: US-China AI rivalry puts global AI governance at a crossroads",
+     "title": "AI slow down: US-China AI rivalry puts global AI governance at a crossroads - business-standard.com",
      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMl9VTEpPWHY1NDdWVXJRSGZyUzd6TjdHdjZUY0V5QUhnY0x3WWpZRXVsZXFoX1JwcGN0MG84RUt6ck9seW53RUNOMGdXYXB3MVJzcjQzdXZPVC1zbGxIc0FYWW5JaDZ6djF3ZlJKYjJ0eEJhZy0wOElMTld1SmxZb21KamNUc1R4LUphNTdMV29FYWQydGZ1WGQ1MFNiR0g4Ynp6bHUyaTFVbjlqQlJfNkFKdEdIWHJxSUhKbWlCZlB3S1JTcWVSUlhJaTFmM01VQUg3NndsVjB3NlhGc3ZyR3Z1clhVSkNxcVRFSVY5UkkwVHlCckHSAfsBQVVfeXFMTVZyRXBRWFlnMTQ0OG5nbmYzekRWd0xFRzJ3UXIzSGkxTGdtZXphLVZ3elREQzVsU2FXdkFoMG5ka0xMV2d5RXM5ekt4aDRSOHNmc01tb0VXR2pKN2lTSlFLRVZDUmRxcnlzdVdlaFFIUHIxUjNrNjBPaFRfN2hDNDliaWh3YlNTZDVLNnBCcUxUTE8xOE1MLU04Um5WaHRXbXhQYkVURU9IZ0FtQnkxXzFXWl9OLW5HOS12QTRxcTJ1SUpvU25UQWpBMzZnNVJxQXB5X3JlOVlZZTlLTm5ZN0kzb3gzRFRaRkp3S3FTUzZDOVY3TjRzelhJalk?oc=5",
-     "summary": "AI slow down: US-China AI rivalry puts global AI governance at a crossroads Business Standard",
+     "summary": "AI slow down: US-China AI rivalry puts global AI governance at a crossroads business-standard.com",
      "published": "2026-09-15T10:54:45+00:00",
-     "source": "Business Standard",
+     "source": "Google News",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -440,7 +458,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-15T17:35:06.813954+00:00",
+     "published": "2026-09-15T18:04:47.932193+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -451,7 +469,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-15T17:35:06.813963+00:00",
+     "published": "2026-09-15T18:04:47.932204+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -462,7 +480,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-15T17:35:06.813966+00:00",
+     "published": "2026-09-15T18:04:47.932213+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -473,7 +491,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-15T17:35:06.813969+00:00",
+     "published": "2026-09-15T18:04:47.932218+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -484,7 +502,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-15T17:35:06.813972+00:00",
+     "published": "2026-09-15T18:04:47.932222+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -495,7 +513,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-15T17:35:06.813974+00:00",
+     "published": "2026-09-15T18:04:47.932227+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -565,40 +583,11 @@
      "category_label": "General"
     },
     {
-     "title": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNkZXT0JZYy1XUno1QVlxSTlUSGxsdUpYa1FIQ19jaFkwLTlURGNoQzVzdDNoTWY1RTU2Mm5uaXY1aUhfSE1yQ3Bwa1Y3SDhZMjZuMUd2VV8wbEpOYUh0bXp4TkEtYmF2LXdJQ2JxbFpKRHI4U2VYUy1PdlIyQmZiUGpYUGYzSEdDc0g3b0lTWW9HNmFBb0tQcmQyR1YxMEpaUjZ6OFFqZk9SNWdXejdaWjk3OGRKbHlYcHBLODhFa0dZRkN5Z0RsUVdaSnl6ZGl4czY4OE5Fc1ExQnFsOEJGQ20zQm5DWHRUYW4wZGVuUk5SV1JsdlBUS21wc9IBgAJBVV95cUxQUHV1dWFkU05ueElaMEhpQzU0NHpoOWJvekRKR3VMRlk3RXcya1lSWm1TUXB2dDlwMC1SMUhHLW52M0tDa1Q3VVZvZGxRUjVxeTUxVll1NWFrVUNMaGUzXzd1ejhCd0RnSW0wOHNEVEFOV09JVm9FbUZkdXN6bGlXTE00X0VKT2JBUG5hNnVHcEJwQXozczFrMlZUNmNvcl9zbXFaMEc2dHZUVGdUamlqTUhmLTlQU2dXRWlkcjdUN2YzOXItWmdPZWVxc2MtT25jWmJ5MXplVElqM2puTTBMNHBONDQxUTBaN0tPOEpnZDZCYmpiamtUTnM2dWg0NkdP?oc=5",
-     "summary": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death The Times of India",
-     "published": "2026-09-14T17:57:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "ad86ebd8b514",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMUJrcTdLaUhhNGNPdnV2MG5IT1FpOFdESnpacjBCOHZIdWVPQU5kcmRZODRoRFJSTjJ2a2MxNldnYjJ0UTdWZXpyaTRGMTFpSVFLTklvV0pzRTl1ZUxrYXgxRkZOeG5EeVI2QUJyMTJxVlgxaE5VSTJNNUtCeEN4UUtPeFRkMmdSYTF3YjltTTJwN1BEUUxiSERCeEZjS3BvcFRKcjRDcHJqejJ0OGZpaUhn?oc=5",
-     "summary": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad The South First",
-     "published": "2026-09-15T13:17:29+00:00",
-     "source": "The South First",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9390b3bd5461",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$93 million healthcare fraud likely"
-     ]
-    },
-    {
      "title": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmlaN2hLT3BtUkxUR3lybTk4RUhtWnNZY0xGWkFLTjc4SzBqMVhyUi01ajZ4Zm1obXlRZ0pKUURlclZ0R0c3Q0s0dTMybmU2TVoweEpoX25xZjZvRDJkUHdweVJlNl9UeHZtc0VqRC1ONWNIc0RvcGtvenhHXzBtcXZMMUNXUWdlWFpoQzVWdnJxN1l5MU5KV0JEZDBWQ3JJYVd3TkFDOU4xbEhDXy03dUV1aVcwY0pLYXB5ZDJxTU1IeUhORmU1V2dpNVNNREx6SWfSAdYBQVVfeXFMUEFQay1Xa3I1aEhkeWtUX0dhZlUwOVpZMVlSOFVZMFhpY1ZaWXh6aFB0eExGczg0dnZfRmdHLXhoSGJwLS1GZXRxcEp5dEtoQmRvVk1VNTg4THR6cjFPOEotQm05NjZ0VDM3ZWdhMEhLMUVKalNFVndlbVotcnZtVmEzTnY5WEJfMmVrX1ZXMTJVekpUbmpYejk0NXFiWlJEWERhRjJMNm9NNlBPTUU2ckxqTV9lM2FiUERmdW01QmdGV2NabTVOUl82UmFDUUhNWXA3MzByZw?oc=5",
-     "summary": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam The Tribune",
+     "summary": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam tribuneindia.com",
      "published": "2026-09-15T06:12:00+00:00",
-     "source": "The Tribune",
+     "source": "tribuneindia.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -607,7 +596,8 @@
      "category_label": "Money & scams",
      "figures": [
       "8 charges against IFS officer Navneet",
-      "Rs 82 -crore CREST scam"
+      "Rs 82 -crore CREST scam",
+      "Rs 82 -crore CREST scam tribuneindia"
      ]
     }
    ]
@@ -619,61 +609,54 @@
    "upsc": false,
    "items": [
     {
-     "title": "Rural jobs scheme shows modest uptick in August, but trails 2025 MGNREGA levels",
-     "url": "https://www.thehindu.com/news/national/rural-jobs-scheme-shows-modest-uptick-in-august-but-trails-2025-mgnrega-levels/article71468686.ece",
-     "summary": "July and August show lower employment generation year-on-year as cumulative persondays fall 32%, from 29.78 crore to 20.21 crore; 60-day pause in agricultural activity led to dip in jobs, say Ministry officials",
-     "published": "2026-09-15T17:17:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gq7rsf/article71469765.ece/alternates/LANDSCAPE_1200/DSC_2754.JPG",
-     "licence": "linkout",
-     "id": "d3ab820a1539",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "29.78 crore to 20",
-      "20.21 crore ; 60-day pause"
-     ]
-    },
-    {
-     "title": "BJP to take up month-long Seva Sankalp Abhiyan from Sept. 17 to mark Modi’s 25 years of administration",
-     "url": "https://www.thehindu.com/news/national/karnataka/bjp-to-take-up-month-long-seva-sankalp-abhiyan-from-sept-17-to-mark-modis-25-years-of-administration/article71469242.ece",
+     "title": "School arts fete in Ernakulam in January",
+     "url": "https://www.thehindu.com/news/national/kerala/schools-arts-fete-in-ernakulam-in-january/article71469683.ece",
      "summary": "",
-     "published": "2026-09-15T17:16:13+00:00",
+     "published": "2026-09-15T17:56:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n11gfa/article71469738.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-15%20at%2017.27.26.JPEG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "2c1ce30a9a40",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "25 years of administration"
-     ]
-    },
-    {
-     "title": "Shaju S. takes charge as chairperson of Uralungal Labour Contract Co-operative Society",
-     "url": "https://www.thehindu.com/news/national/kerala/shaju-s-takes-charge-as-chairperson-of-uralungal-labour-contract-co-operative-society/article71469514.ece",
-     "summary": "",
-     "published": "2026-09-15T17:12:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/cmpbda/article71469510.ece/alternates/LANDSCAPE_1200/shaju.jpeg",
-     "licence": "linkout",
-     "id": "ddb62e88aec8",
+     "id": "d26b21e3495e",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Don’t badmouth each other before children as parenthood continues even after divorce, Karnataka HC tells couple while dissolving marriage",
-     "url": "https://www.thehindu.com/news/national/karnataka/dont-badmouth-each-other-before-children-as-parenthood-continues-even-after-divorce-karnataka-hc-tells-couple-while-dissolving-marriage/article71468664.ece",
+     "title": "There is a need to reinvent engineering, make it fit current industry needs: Chief Secretary",
+     "url": "https://www.thehindu.com/news/national/karnataka/there-is-a-need-to-reinvent-engineering-make-it-fit-current-industry-needs-chief-secretary/article71469687.ece",
      "summary": "",
-     "published": "2026-09-15T17:10:22+00:00",
+     "published": "2026-09-15T17:55:25+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/79ys28/article71469748.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_09GH2N9D.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/wvj2lk/article71469858.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-30%20at%2017.55.30.JPEG",
      "licence": "linkout",
-     "id": "bc85bad6b1f5",
+     "id": "57a8636ee7a3",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Heavy rain paralyses traffic in several parts of Bengaluru",
+     "url": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru/article71469716.ece",
+     "summary": "",
+     "published": "2026-09-15T17:53:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/7q2wuy/article71469855.ece/alternates/LANDSCAPE_1200/rain%208.jpg",
+     "licence": "linkout",
+     "id": "6feb7d61332f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Supreme Court nod for Kerala High Court to continue execution proceedings in Kashi Math case",
+     "url": "https://www.thehindu.com/news/national/supreme-court-nod-for-kerala-high-court-to-continue-execution-proceedings-in-kashi-math-case/article71469539.ece",
+     "summary": "Kerala High Court decision of August 2026 allows Kashi Matadhipati Samyamindra Tirtha to continue execution proceedings for recovery of gold, silver ornaments and paraphernalia belonging to Kashi Math Samsthan from Raghavendra Tirtha",
+     "published": "2026-09-15T17:51:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/an7st4/article71469830.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "805775aaa490",
      "category": "general",
      "category_label": "General"
     },
@@ -874,69 +857,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "Rural jobs scheme shows modest uptick in August, but trails 2025 MGNREGA levels",
-     "url": "https://www.thehindu.com/news/national/rural-jobs-scheme-shows-modest-uptick-in-august-but-trails-2025-mgnrega-levels/article71468686.ece",
-     "summary": "July and August show lower employment generation year-on-year as cumulative persondays fall 32%, from 29.78 crore to 20.21 crore; 60-day pause in agricultural activity led to dip in jobs, say Ministry officials",
-     "published": "2026-09-15T17:17:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gq7rsf/article71469765.ece/alternates/LANDSCAPE_1200/DSC_2754.JPG",
-     "licence": "linkout",
-     "id": "d3ab820a1539",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "29.78 crore to 20",
-      "20.21 crore ; 60-day pause"
-     ]
-    },
-    {
-     "title": "BJP to take up month-long Seva Sankalp Abhiyan from Sept. 17 to mark Modi’s 25 years of administration",
-     "url": "https://www.thehindu.com/news/national/karnataka/bjp-to-take-up-month-long-seva-sankalp-abhiyan-from-sept-17-to-mark-modis-25-years-of-administration/article71469242.ece",
-     "summary": "",
-     "published": "2026-09-15T17:16:13+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n11gfa/article71469738.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-15%20at%2017.27.26.JPEG",
-     "licence": "linkout",
-     "id": "2c1ce30a9a40",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "25 years of administration"
-     ]
-    },
-    {
-     "title": "Shaju S. takes charge as chairperson of Uralungal Labour Contract Co-operative Society",
-     "url": "https://www.thehindu.com/news/national/kerala/shaju-s-takes-charge-as-chairperson-of-uralungal-labour-contract-co-operative-society/article71469514.ece",
-     "summary": "",
-     "published": "2026-09-15T17:12:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/cmpbda/article71469510.ece/alternates/LANDSCAPE_1200/shaju.jpeg",
-     "licence": "linkout",
-     "id": "ddb62e88aec8",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Finnish education model’s focus on holistic development of children highlighted",
-     "url": "https://www.thehindu.com/news/national/telangana/finnish-education-models-focus-on-holistic-development-of-children-highlighted/article71469634.ece",
-     "summary": "",
-     "published": "2026-09-15T17:07:16+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "0c1242bafc04",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Schools arts fete in Ernakulam in January",
+     "title": "School arts fete in Ernakulam in January",
      "url": "https://www.thehindu.com/news/national/kerala/schools-arts-fete-in-ernakulam-in-january/article71469683.ece",
      "summary": "",
-     "published": "2026-09-15T17:05:11+00:00",
+     "published": "2026-09-15T17:56:58+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -944,6 +868,71 @@
      "id": "d26b21e3495e",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "There is a need to reinvent engineering, make it fit current industry needs: Chief Secretary",
+     "url": "https://www.thehindu.com/news/national/karnataka/there-is-a-need-to-reinvent-engineering-make-it-fit-current-industry-needs-chief-secretary/article71469687.ece",
+     "summary": "",
+     "published": "2026-09-15T17:55:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/wvj2lk/article71469858.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-30%20at%2017.55.30.JPEG",
+     "licence": "linkout",
+     "id": "57a8636ee7a3",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Heavy rain paralyses traffic in several parts of Bengaluru",
+     "url": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru/article71469716.ece",
+     "summary": "",
+     "published": "2026-09-15T17:53:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/7q2wuy/article71469855.ece/alternates/LANDSCAPE_1200/rain%208.jpg",
+     "licence": "linkout",
+     "id": "6feb7d61332f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Study finds dual nerve blocks procedure may help people with treatment-resistant anxiety",
+     "url": "https://www.thehindu.com/news/national/karnataka/study-finds-dual-nerve-blocks-procedure-may-help-people-with-treatment-resistant-anxiety/article71384897.ece",
+     "summary": "",
+     "published": "2026-09-15T17:45:29+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/52lnnx/article71469838.ece/alternates/LANDSCAPE_1200/IMG_IRDAI-healthARGS36UF_2_1_U3DVRQDC.jpg",
+     "licence": "linkout",
+     "id": "144515be53b7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "CPI(M)’s Keralam meet condemns ED action against Pinarayi, Veena, Riyas",
+     "url": "https://www.thehindu.com/news/national/kerala/cpims-keralam-meet-condemns-ed-action-against-pinarayi-veena-riyas/article71468717.ece",
+     "summary": "In a resolution passed on the concluding day of the meeting on Tuesday, the party says the “political witch-hunt” being conducted by the ED“ will be strongly resisted both legally and politically",
+     "published": "2026-09-15T17:42:20+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "30fa32999dba",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "School Assembly News Headlines, September 16, 2026: Top national, international, business, sports updates",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNX3pzTklnY1FTakpzdGMxdGZfS1QwTUUtR0xaUmZ3MG0yeWFCMnhHVkRteDFTYVFJRWpYSWR3UzdraU1vbVM0RHUtREh5NDBmVFRWMmRPUWcxZWZuOUtGRTIwUFdTRXl1RG9VSUozOHFyaHpfb0xhM2hXWG9lRDVuMzNuMk8ydHVNcDgzUEtqc25yQmhyZHo4aUtUNEZySGtjRGFQNEJ0LUp3bm9fUE93MFJXYVFHZzZzTmtRNDRSZi05RDlPWS0zOHFyQm51QzBLa1liNW1XYjRqWnJ0V1NRNGlIdmUwOVJvSUdmNFBqN2ZWQkJoVFB2Qjc3Z1RKNkpYdFVqdTIyci1Eei1EemEtbFJpZE5PT1N4emlrdzNB0gGjAkFVX3lxTE9kNjc1V3oxTjlfOUNRQWRfSnRhSU1IYS1fRDgwVVZ4TXgxUjN5S2J5QjVJdHFnRW53RnJ3NWdkQjlyc1lPdEd6MTcwcW9YX09vTWdYZmZmbVBoNHdzemU5c0xGV01PdmRlUXJTV2JieGxNSEtmcFg3MjdIM01OZFJoaldoU2ExNEJTV2tKWlNuSUc0NElpZzc1RUh2c193ZlZwVWp0WlJMX3hwMUkwdkViRmVDOTJ0QUI5MUxleWMyRm8wX19zcU92TFQxV3A1MFpNTDBZRWhCOUF5aDNIVWh2bVVvUmtBVGh0Vi1KSUdHSVBpVkJaZi04YWYxNHRrZkM5bjNjemx1bFdVbHZnWVV6ZHhTS280eEFtclA0NVoyZHlRdw?oc=5",
+     "summary": "School Assembly News Headlines, September 16, 2026: Top national, international, business, sports updates The Economic Times",
+     "published": "2026-09-15T11:31:54+00:00",
+     "source": "The Economic Times",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "1908715b28d0",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order",
@@ -957,19 +946,6 @@
      "id": "cbb39efeae12",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "School assembly news headlines today- September 16: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVlZyYmdadXM5ZUNQRUV4OEdIY2RfYmpNbDBFUktVbEFrMVp3b3ZWUEhmeHp4MnNXN01tRnBiLUhTRVptbE1UN21oYkRKak9ObWd1N3VQMlViVkNBTEFrNVVMVDFldTVSWWJodzBzUWJ3WDc1RzRjbHAyWkRiaGotY0hwNnUxMHgtT3hHeDZubVRlSkRha2hyNVI2SllyMlVpQ0pmUGgyYmRGdlZ4WU1CRnNfOC11d1NiQWF1dmVTU2NkOFQ2SGUyelQ5N0xlUDRpSUVOcnZ3UjFGY3FkdjhGckNlbjV3OTZa?oc=5",
-     "summary": "School assembly news headlines today- September 16: Top national, sports and world news curated for you India Today",
-     "published": "2026-09-15T11:56:26+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "d422b63d69cf",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -1610,6 +1586,22 @@
      "category_label": "General"
     },
     {
+     "title": "Large & mid-cap mutual funds vs separate portfolio split: How do their returns compare over 1, 3 and 5 years?",
+     "url": "https://www.livemint.com/money/personal-finance/large-mid-cap-mutual-funds-vs-separate-portfolio-split-how-do-their-returns-compare-over-1-3-and-5-years-11789489772902.html",
+     "summary": "Large &amp; mid-cap funds offer investors a single-fund route to large and mid-cap stocks. But how do their returns compare with pure large-cap and mid-cap funds, and what does their portfolio allocation reveal about the differences?",
+     "published": "2026-09-15T17:43:17+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/lagre_1789492437559_X1J3_1789492441783_ejxF_cc3ca65d-925f-4d47-89ec-ded4c2f532c1_69fY.png",
+     "licence": "linkout",
+     "id": "8d70bad8139b",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5 years ?"
+     ]
+    },
+    {
      "title": "5 early signs to watch: Lifestyle creep sneaks in after every promotion; how to overcome it",
      "url": "https://www.livemint.com/money/personal-finance/5-early-signs-to-watch-lifestyle-creep-sneaks-in-after-every-promotion-how-to-overcome-it-11789491806679.html",
      "summary": "A promotion often leads to lifestyle creep, where increased spending diminishes savings. Check the importance of examining expenses post-promotion to maintain financial discipline.",
@@ -1656,22 +1648,6 @@
      "figures": [
       "₹2,000,  and for small merchants"
      ]
-    },
-    {
-     "title": "‘Give your future its share’: 8 tricks to handle your incomes, savings and investments | Pay Yourself First",
-     "url": "https://www.livemint.com/money/personal-finance/give-your-future-its-share-8-tricks-to-handle-your-incomes-savings-and-investments-pay-yourself-first-11789485487513.html",
-     "summary": "By reserving a fixed percentage of income immediately, individuals can reduce reliance on discipline and make spending decisions more manageable. Check all 8 tricks.&nbsp;",
-     "published": "2026-09-15T15:43:59+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/PYF_1789486816372_Nquc_1789486824674_3kUd_53ad4da2-f8f5-4d9a-a061-74cb9db8a04b_Y3pO.jpg",
-     "licence": "linkout",
-     "id": "b92d8dcda920",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "8 tricks to handle your incomes"
-     ]
     }
    ]
   },
@@ -1698,7 +1674,7 @@
      "title": "McKinsey Technology Trends Outlook 2026",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5",
      "summary": "McKinsey Technology Trends Outlook 2026 McKinsey & Company",
-     "published": "2026-09-15T13:36:56+00:00",
+     "published": "2026-09-15T14:50:31+00:00",
      "source": "McKinsey & Company",
      "byline": "",
      "image": null,
