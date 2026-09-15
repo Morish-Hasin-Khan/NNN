@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T17:04:04.884694+00:00",
+ "generated_at": "2026-09-15T17:35:16.736551+00:00",
  "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
@@ -36,11 +36,10 @@
    "key": "gold",
    "label": "GOLD",
    "unit": "₹/10g",
-   "value": 121652.0,
-   "change": -1868.0,
-   "changePct": -1.51,
-   "decimals": 0,
-   "stale": true
+   "value": 121216.0,
+   "change": -2061.0,
+   "changePct": -1.67,
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -66,11 +65,10 @@
    "key": "brent",
    "label": "BRENT",
    "unit": "$/bbl",
-   "value": 107.42,
-   "change": 6.21,
-   "changePct": 6.14,
-   "decimals": 2,
-   "stale": true
+   "value": 109.22,
+   "change": 1.59,
+   "changePct": 1.48,
+   "decimals": 2
   },
   {
    "key": "btc",
@@ -84,16 +82,16 @@
   }
  ],
  "topics": [
-  "Erravalli",
-  "Gurugram Accused",
+  "Denmark Russian",
+  "Indian",
   "Jazeera English",
   "News",
   "Madhya Pradesh",
   "India Bombay",
-  "Relief Keralam",
-  "Narrower Census",
-  "China Iran",
-  "Election Philippines"
+  "Rural August",
+  "Seva Sankalp",
+  "Israeli Qatar",
+  "China Iran"
  ],
  "sections": [
   {
@@ -102,34 +100,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "HC directs police to issue notices to accused in case of ‘purification’ at Erravalli",
-     "url": "https://www.thehindu.com/news/national/telangana/hc-directs-police-to-issue-notices-to-accused-in-case-of-purification-at-erravalli/article71469599.ece",
-     "summary": "",
-     "published": "2026-09-15T16:41:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "6deea814bffb",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Gurugram Hit-And-Run Accused Kalyan Bainsla Tried To Escape Police Custody",
-     "url": "https://www.ndtv.com/india-news/gurugram-hit-and-run-accused-kalyan-baisla-attempted-to-escape-police-custody-12049914#publisher=newsstand",
-     "summary": "Based on the CCTV findings, the police filed an attempt to murder charge against the accused driver, Kalyan Bainsla",
-     "published": "2026-09-15T15:34:45+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/9tmfl37s_kalyan-bainsla_650x400_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "5eb22e476788",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
     {
      "title": "Denmark says Russian warship fired flares at military helicopter",
      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
@@ -143,6 +113,20 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
+    },
+    {
+     "title": "Indian police detain driver who hit female biker in viral video",
+     "url": "https://www.bbc.co.uk/news/articles/c9rk37k0rdpko?at_medium=RSS&at_campaign=rss",
+     "summary": "The incident has sparked a broader discussion about the harassment and hostility faced by female motorcyclists.",
+     "published": "2026-09-15T09:16:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1036/live/334cc610-b0d8-11f1-b427-b9b4ddc559ae.png",
+     "licence": "linkout",
+     "id": "dc5de84a8953",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global Hotline"
     },
     {
      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
@@ -175,9 +159,9 @@
     {
      "title": "Does artificial intelligence change the nature of war?",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGh6SnJIclF1X3VYUlhfcGkzWWhjN0dWblEwbFoteVBNR1R4ZldISzZsSGVYUFE1WFEtZFVRUTFzVnRyT1ZPTUZQY3A4WGk5ZVlZTXI5ajQ1SWRyTlJEazJIYW1mbUVyVHhjeGUtWGdxNGxXUVlKWWttWElVNTczQnktWWFGd3lkWWFxY1l3VURfdXlQNW4wVXpHa2oxZURfWFNMWUx6LWFOZw?oc=5",
-     "summary": "Does artificial intelligence change the nature of war? PubAffairs Bruxelles",
+     "summary": "Does artificial intelligence change the nature of war? pubaffairsbruxelles.eu",
      "published": "2026-09-15T09:56:57+00:00",
-     "source": "PubAffairs Bruxelles",
+     "source": "pubaffairsbruxelles.eu",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -187,46 +171,72 @@
      "from_section": "Technology"
     },
     {
-     "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-     "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-     "summary": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
-     "published": "2026-09-15T16:15:13+00:00",
-     "source": "Al Jazeera",
+     "title": "School Assembly News Headlines (September 16): Top National, International, Sports News",
+     "url": "https://www.ndtv.com/education/school-assembly-news-headlines-september-16-top-national-international-sports-news-12050732#publisher=newsstand",
+     "summary": "School Assembly News Headlines (September 16): Stay updated and be ready to share your thoughts in the morning with these News Headlines.",
+     "published": "2026-09-15T16:35:22+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126225540505-1-1778064409.jpg?resize=1200%2C675",
+     "image": "https://c.ndtvimg.com/2026-08/cpfbeoek_class-9_625x300_18_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "417e85f24fd1",
+     "id": "9f4f6951c137",
+     "also": [
+      {
+       "source": "India Today",
+       "title": "School assembly news headlines today- September 16: Top national, sports and world news curated for you",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVlZyYmdadXM5ZUNQRUV4OEdIY2RfYmpNbDBFUktVbEFrMVp3b3ZWUEhmeHp4MnNXN01tRnBiLUhTRVptbE1UN21oYkRKak9ObWd1N3VQMlViVkNBTEFrNVVMVDFldTVSWWJodzBzUWJ3WDc1RzRjbHAyWkRiaGotY0hwNnUxMHgtT3hHeDZubVRlSkRha2hyNVI2SllyMlVpQ0pmUGgyYmRGdlZ4WU1CRnNfOC11d1NiQWF1dmVTU2NkOFQ2SGUyelQ5N0xlUDRpSUVOcnZ3UjFGY3FkdjhGckNlbjV3OTZa?oc=5",
+       "summary": "School assembly news headlines today- September 16: Top national, sports and world news curated for you India Today"
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National News"
     },
     {
-     "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
-     "url": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
-     "summary": "No party wins majority in parliamentary polls in southern Philippines' Muslim-majority region, unofficial results show.",
-     "published": "2026-09-15T16:14:10+00:00",
-     "source": "Al Jazeera",
+     "title": "Sports Minister announces task force to assess F1 revival in India",
+     "url": "https://www.thehindu.com/sport/sports-minister-announces-task-force-to-assess-f1-revival-in-india/article71467629.ece",
+     "summary": "The Task Force also has representation from the Department of Tourism and Commerce, among others and will include representatives from the Uttar Pradesh and Maharshtra Government",
+     "published": "2026-09-15T17:11:17+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26257144569913-1789486371.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/sj824/article71467691.ece/alternates/LANDSCAPE_1200/PTI06_16_2026_000049A.jpg",
      "licence": "linkout",
-     "id": "d823b8704ee5",
+     "id": "64d6e392ce40",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National News"
     },
     {
-     "title": "\"Abhishek Sharma Shouldn't Have Played\": World Cup-Winner Drops Surprising Remark On India Opener",
-     "url": "https://sports.ndtv.com/cricket/abhishek-sharma-shouldnt-have-played-world-cup-winner-drops-surprising-remark-on-india-opener-12047726#publisher=newsstand",
-     "summary": "Abhishek Sharma scored 82 in India's T20I win over Afghanistan, but Krishnamachari Srikkanth criticised his selection due to poor recent form.",
-     "published": "2026-09-15T14:41:00+00:00",
-     "source": "NDTV Sports",
+     "title": "Model parliament should be created in schools and colleges: Karnataka Chief Minister",
+     "url": "https://www.thehindu.com/news/national/karnataka/model-parliament-should-be-created-in-schools-and-colleges-karnataka-chief-minister/article71468085.ece",
+     "summary": "",
+     "published": "2026-09-15T17:06:43+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/uo077mr4_abhishek-sharma-bcci-creimas_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/byru74/article71469641.ece/alternates/LANDSCAPE_1200/DSC_2181A.JPG",
      "licence": "linkout",
-     "id": "45377e43ba1d",
+     "id": "bd84202d7bb0",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Sports"
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Rural jobs scheme shows modest uptick in August, but trails 2025 MGNREGA levels",
+     "url": "https://www.thehindu.com/news/national/rural-jobs-scheme-shows-modest-uptick-in-august-but-trails-2025-mgnrega-levels/article71468686.ece",
+     "summary": "July and August show lower employment generation year-on-year as cumulative persondays fall 32%, from 29.78 crore to 20.21 crore; 60-day pause in agricultural activity led to dip in jobs, say Ministry officials",
+     "published": "2026-09-15T17:17:16+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/gq7rsf/article71469765.ece/alternates/LANDSCAPE_1200/DSC_2754.JPG",
+     "licence": "linkout",
+     "id": "d3ab820a1539",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "29.78 crore to 20",
+      "20.21 crore ; 60-day pause"
+     ]
     },
     {
      "title": "India bond yields above 7%: Why debt fund investors may find a sweet spot in the 3–5 year segment",
@@ -260,24 +270,6 @@
      "from_section": "National News",
      "figures": [
       "1.4 per cent of total sales"
-     ]
-    },
-    {
-     "title": "Amazon Quick Delivery Hits $1-Billion Milestone In India In Less Than 2 Years",
-     "url": "https://www.ndtv.com/india-news/amazon-quick-delivery-hits-1-billion-milestone-in-india-in-less-than-2-years-12050682#publisher=newsstand",
-     "summary": "Amazon entered India's rapid delivery market in the summer of 2025 after years of sitting out and watching local rivals chip away at its customer base.",
-     "published": "2026-09-15T14:59:45+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://i.gadgets360cdn.com/large/amazon_1_3_hour_delivery_amazon_1773810741156.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "561d9cb3639f",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News",
-     "figures": [
-      "$1 -Billion Milestone In India",
-      "2 Years"
      ]
     },
     {
@@ -365,46 +357,29 @@
      "from_section": "Technology"
     },
     {
-     "title": "India vs Afghanistan LIVE Score, 2nd T20I: All Eyes On Abhishek Sharma, Sanju Samson After Afghanistan Fight Back",
-     "url": "https://sports.ndtv.com/cricket/india-vs-afghanistan-live-score-2nd-t20i-ind-vs-afg-live-updates-cricket-scorecard-delhi-abhishek-sharma-vaibhav-sooryavanshi-sanju-samson-12049903#publisher=newsstand",
-     "summary": "India vs Afghanistan 2nd T20I LIVE Score Updates: Nitish Reddy and Arshdeep Singh took three and two wickets respectively, as India restricted Afghanistan to 159/8 in the second T20I.",
-     "published": "2026-09-15T15:38:58+00:00",
+     "title": "'Either You Are Politician, Or You're Cricket Boss': Ex-India Star Exposes PCB Chief Mohsin Naqvi",
+     "url": "https://sports.ndtv.com/cricket/either-you-are-politician-or-youre-cricket-boss-ex-india-star-exposes-pcb-chief-mohsin-naqvi-12045794#publisher=newsstand",
+     "summary": "Former India cricketer Mohammad Kaif pointed out exactly what is wrong with the Pakistan Cricket Board's (PCB) approach.",
+     "published": "2026-09-15T16:43:06+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/04ft6pm8_team-india_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/pmummqbs_mohsin-naqvi-afp_625x300_14_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "cf39c6482a02",
+     "id": "67c795f952a1",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
     },
     {
-     "title": "Asian Games 2026: India's Top Singles Tennis Player Sumit Nagal Predicts 113 Medals",
-     "url": "https://sports.ndtv.com/tennis/asian-games-2026-indias-top-singles-tennis-player-sumit-nagal-predicts-113-medals-12050764#publisher=newsstand",
-     "summary": "Sumit Nagal goes into the Asian Games as India's highest-ranked men's singles tennis player",
-     "published": "2026-09-15T15:23:26+00:00",
+     "title": "\"Stuck Out Most\": Angel Reese’s Team USA Impact Gets Strong Praise After FIBA World Cup Win",
+     "url": "https://sports.ndtv.com/us-nba/stuck-out-most-angel-reese-s-team-usa-impact-gets-strong-praise-after-fiba-world-cup-win-12050984#publisher=newsstand",
+     "summary": "Angel Reese earned fresh praise from Jamie Steyer Johnson after Team USA’s FIBA World Cup win, with her defense standing out despite a limited role in the final.",
+     "published": "2026-09-15T16:33:43+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2025-11/tp6vgcck_sumit-nagal-_625x300_27_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-06/qads87h8_angel-reese_625x300_30_June_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6afcb6496dd7",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "113 Medals"
-     ]
-    },
-    {
-     "title": "\"Playing At Old Trafford For The First Time As An Opponent Was A Big Moment For Me\": Youri Tielemans",
-     "url": "https://sports.ndtv.com/football/playing-at-old-trafford-for-the-first-time-as-an-opponent-was-a-big-moment-for-me-youri-tielemans-12050625#publisher=newsstand",
-     "summary": "Manchester United chase their second win of the Premier League campaign as they look to climb the table, with new signing Youri Tielemans expected to add experience",
-     "published": "2026-09-15T15:16:33+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/k49qet8_youri-tielemans_625x300_15_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "15beee7d2cf4",
+     "id": "2b55a2b3be83",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
@@ -465,7 +440,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-15T17:03:51.704343+00:00",
+     "published": "2026-09-15T17:35:06.813954+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -476,7 +451,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-15T17:03:51.704355+00:00",
+     "published": "2026-09-15T17:35:06.813963+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -487,7 +462,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-15T17:03:51.704361+00:00",
+     "published": "2026-09-15T17:35:06.813966+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -498,7 +473,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-15T17:03:51.704365+00:00",
+     "published": "2026-09-15T17:35:06.813969+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -509,7 +484,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-15T17:03:51.704369+00:00",
+     "published": "2026-09-15T17:35:06.813972+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -520,10 +495,27 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-15T17:03:51.704372+00:00",
+     "published": "2026-09-15T17:35:06.813974+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "India vs Afghanistan LIVE Score, 2nd T20I: Sanju Samson Smashes 22-Ball 57, India Wrap Up Series Victory",
+     "url": "https://sports.ndtv.com/cricket/india-vs-afghanistan-live-score-2nd-t20i-ind-vs-afg-live-updates-cricket-scorecard-delhi-abhishek-sharma-vaibhav-sooryavanshi-sanju-samson-12049903#publisher=newsstand",
+     "summary": "India vs Afghanistan 2nd T20I LIVE Score Updates: Sanju Samson and Abhishek Sharma were at their brutal best, leading India to a convincing win in the second T20I against Afghanistan.",
+     "published": "2026-09-15T17:04:30+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/vpmb9vus_sanju-samson-bcci_625x300_15_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "cf39c6482a02",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "57, India Wrap Up Series Victory"
+     ]
     }
    ]
   },
@@ -560,19 +552,6 @@
      "category_label": "Mystery & investigation"
     },
     {
-     "title": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNkZXT0JZYy1XUno1QVlxSTlUSGxsdUpYa1FIQ19jaFkwLTlURGNoQzVzdDNoTWY1RTU2Mm5uaXY1aUhfSE1yQ3Bwa1Y3SDhZMjZuMUd2VV8wbEpOYUh0bXp4TkEtYmF2LXdJQ2JxbFpKRHI4U2VYUy1PdlIyQmZiUGpYUGYzSEdDc0g3b0lTWW9HNmFBb0tQcmQyR1YxMEpaUjZ6OFFqZk9SNWdXejdaWjk3OGRKbHlYcHBLODhFa0dZRkN5Z0RsUVdaSnl6ZGl4czY4OE5Fc1ExQnFsOEJGQ20zQm5DWHRUYW4wZGVuUk5SV1JsdlBUS21wc9IBgAJBVV95cUxQUHV1dWFkU05ueElaMEhpQzU0NHpoOWJvekRKR3VMRlk3RXcya1lSWm1TUXB2dDlwMC1SMUhHLW52M0tDa1Q3VVZvZGxRUjVxeTUxVll1NWFrVUNMaGUzXzd1ejhCd0RnSW0wOHNEVEFOV09JVm9FbUZkdXN6bGlXTE00X0VKT2JBUG5hNnVHcEJwQXozczFrMlZUNmNvcl9zbXFaMEc2dHZUVGdUamlqTUhmLTlQU2dXRWlkcjdUN2YzOXItWmdPZWVxc2MtT25jWmJ5MXplVElqM2puTTBMNHBONDQxUTBaN0tPOEpnZDZCYmpiamtUTnM2dWg0NkdP?oc=5",
-     "summary": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death The Times of India",
-     "published": "2026-09-14T17:57:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "ad86ebd8b514",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
      "title": "#e4mExclusive: ABC seeks govt nod to audit digital news circulation",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2wtS1pIbENldGVRN05BdkpBalZXdS0yRk85YVlCczRjUlpaejcxRW5RRGpRc1Z4SVF4WEZkU2lpMXphUEpiU3pDV203Qmc1bEw3Qmc3bjlOeHp3aW1Vc1ZhZUQwYUJSc0FSTlBNWjR0VC1senBDRkg3YjhBUFFyZ0tYNWlHWkcxYnhzaGx0NTZJajdUaUFULWtSWGxfSmtFbWxSMVowMU80bW5OUVo0S1VB?oc=5",
      "summary": "#e4mExclusive: ABC seeks govt nod to audit digital news circulation Exchange4Media",
@@ -584,6 +563,19 @@
      "id": "5663a189b7df",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNkZXT0JZYy1XUno1QVlxSTlUSGxsdUpYa1FIQ19jaFkwLTlURGNoQzVzdDNoTWY1RTU2Mm5uaXY1aUhfSE1yQ3Bwa1Y3SDhZMjZuMUd2VV8wbEpOYUh0bXp4TkEtYmF2LXdJQ2JxbFpKRHI4U2VYUy1PdlIyQmZiUGpYUGYzSEdDc0g3b0lTWW9HNmFBb0tQcmQyR1YxMEpaUjZ6OFFqZk9SNWdXejdaWjk3OGRKbHlYcHBLODhFa0dZRkN5Z0RsUVdaSnl6ZGl4czY4OE5Fc1ExQnFsOEJGQ20zQm5DWHRUYW4wZGVuUk5SV1JsdlBUS21wc9IBgAJBVV95cUxQUHV1dWFkU05ueElaMEhpQzU0NHpoOWJvekRKR3VMRlk3RXcya1lSWm1TUXB2dDlwMC1SMUhHLW52M0tDa1Q3VVZvZGxRUjVxeTUxVll1NWFrVUNMaGUzXzd1ejhCd0RnSW0wOHNEVEFOV09JVm9FbUZkdXN6bGlXTE00X0VKT2JBUG5hNnVHcEJwQXozczFrMlZUNmNvcl9zbXFaMEc2dHZUVGdUamlqTUhmLTlQU2dXRWlkcjdUN2YzOXItWmdPZWVxc2MtT25jWmJ5MXplVElqM2puTTBMNHBONDQxUTBaN0tPOEpnZDZCYmpiamtUTnM2dWg0NkdP?oc=5",
+     "summary": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death The Times of India",
+     "published": "2026-09-14T17:57:00+00:00",
+     "source": "The Times of India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "ad86ebd8b514",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
     },
     {
      "title": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad",
@@ -627,67 +619,87 @@
    "upsc": false,
    "items": [
     {
-     "title": "Relief of residents as removal of chemical-laced soil begins in village in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/relief-of-residents-as-removal-of-chemical-laced-soil-begins-in-village-in-keralam/article71468445.ece",
-     "summary": "The hazardous chemical waste from the now-defunct Binani Zinc Limited in Ernakulam district was illegally transported and dumped across private lands in Eriyad, a coastal village in Thrissur district, a few months ago, under the guise of regular soil for land filling, raising environmental concerns among the public. A meeting chaired by RDO decided to remove the entire material within two days",
-     "published": "2026-09-15T16:58:02+00:00",
+     "title": "Rural jobs scheme shows modest uptick in August, but trails 2025 MGNREGA levels",
+     "url": "https://www.thehindu.com/news/national/rural-jobs-scheme-shows-modest-uptick-in-august-but-trails-2025-mgnrega-levels/article71468686.ece",
+     "summary": "July and August show lower employment generation year-on-year as cumulative persondays fall 32%, from 29.78 crore to 20.21 crore; 60-day pause in agricultural activity led to dip in jobs, say Ministry officials",
+     "published": "2026-09-15T17:17:16+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/g26vp8/article71469423.ece/alternates/LANDSCAPE_1200/80688_15_9_2026_19_26_37_1_ERIYAD_KKN1.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/gq7rsf/article71469765.ece/alternates/LANDSCAPE_1200/DSC_2754.JPG",
      "licence": "linkout",
-     "id": "15e6a7b0dafc",
-     "category": "general",
-     "category_label": "General"
+     "id": "d3ab820a1539",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "29.78 crore to 20",
+      "20.21 crore ; 60-day pause"
+     ]
     },
     {
-     "title": "Narrower margin for error in Census second phase, training vital, Registrar General says",
-     "url": "https://www.thehindu.com/news/national/narrower-margin-for-error-in-census-second-phase-training-vital-registrar-general-says/article71469463.ece",
-     "summary": "In a letter sent to all States, Registrar General and Census Commissioner of India Mritunjay Kumar Narayan asks for the integration of gender sensitisation in training programme for enumerators, with emphasis on respectful interaction, accurate recording, and strict avoidance of assumptions or bias",
-     "published": "2026-09-15T16:53:56+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/twl2b8/article71469688.ece/alternates/LANDSCAPE_1200/20260330138L.jpg",
-     "licence": "linkout",
-     "id": "53ce7cddf966",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Fishermen urge Tamil Nadu government to drop the plan to build the Secretariat at Foreshore Estate",
-     "url": "https://www.thehindu.com/news/cities/chennai/fishermen-urge-tamil-nadu-government-to-drop-the-plan-to-build-the-secretariat-at-foreshore-estate/article71469322.ece",
+     "title": "BJP to take up month-long Seva Sankalp Abhiyan from Sept. 17 to mark Modi’s 25 years of administration",
+     "url": "https://www.thehindu.com/news/national/karnataka/bjp-to-take-up-month-long-seva-sankalp-abhiyan-from-sept-17-to-mark-modis-25-years-of-administration/article71469242.ece",
      "summary": "",
-     "published": "2026-09-15T16:51:18+00:00",
+     "published": "2026-09-15T17:16:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/60qru7/article71469658.ece/alternates/LANDSCAPE_1200/FISHMAN%20MEETING%20T6.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/n11gfa/article71469738.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-15%20at%2017.27.26.JPEG",
      "licence": "linkout",
-     "id": "f9421fc69049",
+     "id": "2c1ce30a9a40",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "25 years of administration"
+     ]
     },
     {
-     "title": "Resident of care home steps into a new life",
-     "url": "https://www.thehindu.com/news/national/kerala/resident-of-care-home-steps-into-a-new-life/article71468198.ece",
-     "summary": "Shalini, who grew up under the protective care of Government After Care Home for Adolescent Girls at Injavila, Kollam, marries Sudheesh of Anchalummoodu",
-     "published": "2026-09-15T16:46:55+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/jz2fih/article71468194.ece/alternates/LANDSCAPE_1200/INCHAVILA%20%20WEDDING.jpeg",
-     "licence": "linkout",
-     "id": "b21957d21a27",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Telangana Liberation Day will be celebrated as State function once BJP comes to power: Bandi Sanjay",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-liberation-day-will-be-celebrated-as-state-function-once-bjp-comes-to-power-bandi-sanjay/article71469450.ece",
+     "title": "Shaju S. takes charge as chairperson of Uralungal Labour Contract Co-operative Society",
+     "url": "https://www.thehindu.com/news/national/kerala/shaju-s-takes-charge-as-chairperson-of-uralungal-labour-contract-co-operative-society/article71469514.ece",
      "summary": "",
-     "published": "2026-09-15T16:44:46+00:00",
+     "published": "2026-09-15T17:12:16+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/cmpbda/article71469510.ece/alternates/LANDSCAPE_1200/shaju.jpeg",
      "licence": "linkout",
-     "id": "c9d903b55515",
+     "id": "ddb62e88aec8",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Don’t badmouth each other before children as parenthood continues even after divorce, Karnataka HC tells couple while dissolving marriage",
+     "url": "https://www.thehindu.com/news/national/karnataka/dont-badmouth-each-other-before-children-as-parenthood-continues-even-after-divorce-karnataka-hc-tells-couple-while-dissolving-marriage/article71468664.ece",
+     "summary": "",
+     "published": "2026-09-15T17:10:22+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/79ys28/article71469748.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_09GH2N9D.jpg",
+     "licence": "linkout",
+     "id": "bc85bad6b1f5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Fuel Payment, Phone Purchase, Restaurant Bills: UPI Charges Explained",
+     "url": "https://www.ndtv.com/india-news/upi-charges-explained-who-pays-for-upi-transactions-how-much-is-upi-charge-12051163#publisher=newsstand",
+     "summary": "",
+     "published": "2026-09-15T17:03:57+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/3u4iuuj_upi-generic_625x300_15_September_26.jpeg",
+     "licence": "linkout",
+     "id": "d2b78004ec42",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Bengal To Bring In Law To Curb Extortion, Cops To Be Punished Too: Sources",
+     "url": "https://www.ndtv.com/india-news/bengal-to-bring-in-law-to-curb-extortion-cops-to-be-punished-too-sources-12051203#publisher=newsstand",
+     "summary": "Under the proposed legislation, 'extortion' will be defined as a specific offence, and the law will include clear provisions regarding penalties and legal action.",
+     "published": "2026-09-15T16:58:23+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-05/sfktl1n_suvendu-adhikari_625x300_01_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "7dc50ee55365",
      "category": "general",
      "category_label": "General"
     },
@@ -703,22 +715,6 @@
      "id": "7198e69e7926",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "\"Confirm Shaming\": Rapido Fined Rs 10 Lakh For Unfair Pricing Tactics",
-     "url": "https://www.ndtv.com/india-news/confirm-shaming-rapido-fined-rs-10-lakh-for-unfair-pricing-tactics-12050685#publisher=newsstand",
-     "summary": "The CCPA observed that such business practices mislead customers into believing they must pay more to secure a ride quickly, even though they have already booked it and there is little scope for negotiation in such instances.",
-     "published": "2026-09-15T15:00:39+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2019-02/jai47muc_rapido-bike-taxi-in-lucknow_625x300_11_February_19.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b165925ad99e",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "Rs 10 Lakh For Unfair Pricing Tactics"
-     ]
     }
    ]
   },
@@ -728,6 +724,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
+     "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
+     "summary": "Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.",
+     "published": "2026-09-15T16:50:46+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa90c8a02-1789463690.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "06449b6437b1",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
      "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
@@ -764,19 +773,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa967df3062-1789487071.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "40539b5b3788",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "US democratic decline threatens global rule of law, report warns",
-     "url": "https://www.aljazeera.com/news/2026/9/15/us-democratic-decline-threatens-global-rule-of-law-report-warns?traffic_source=rss",
-     "summary": "Nearly half of US democracy indicators hit 50-year lows, accelerating global stability decline, warns new IDEA study.",
-     "published": "2026-09-15T15:52:35+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa86f99d1eef-1789423513.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "b05ddc18b750",
      "category": "general",
      "category_label": "General"
     },
@@ -878,70 +874,74 @@
    "upsc": false,
    "items": [
     {
-     "title": "Relief of residents as removal of chemical-laced soil begins in village in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/relief-of-residents-as-removal-of-chemical-laced-soil-begins-in-village-in-keralam/article71468445.ece",
-     "summary": "The hazardous chemical waste from the now-defunct Binani Zinc Limited in Ernakulam district was illegally transported and dumped across private lands in Eriyad, a coastal village in Thrissur district, a few months ago, under the guise of regular soil for land filling, raising environmental concerns among the public. A meeting chaired by RDO decided to remove the entire material within two days",
-     "published": "2026-09-15T16:58:02+00:00",
+     "title": "Rural jobs scheme shows modest uptick in August, but trails 2025 MGNREGA levels",
+     "url": "https://www.thehindu.com/news/national/rural-jobs-scheme-shows-modest-uptick-in-august-but-trails-2025-mgnrega-levels/article71468686.ece",
+     "summary": "July and August show lower employment generation year-on-year as cumulative persondays fall 32%, from 29.78 crore to 20.21 crore; 60-day pause in agricultural activity led to dip in jobs, say Ministry officials",
+     "published": "2026-09-15T17:17:16+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/g26vp8/article71469423.ece/alternates/LANDSCAPE_1200/80688_15_9_2026_19_26_37_1_ERIYAD_KKN1.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/gq7rsf/article71469765.ece/alternates/LANDSCAPE_1200/DSC_2754.JPG",
      "licence": "linkout",
-     "id": "15e6a7b0dafc",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Narrower margin for error in Census second phase, training vital, Registrar General says",
-     "url": "https://www.thehindu.com/news/national/narrower-margin-for-error-in-census-second-phase-training-vital-registrar-general-says/article71469463.ece",
-     "summary": "In a letter sent to all States, Registrar General and Census Commissioner of India Mritunjay Kumar Narayan asks for the integration of gender sensitisation in training programme for enumerators, with emphasis on respectful interaction, accurate recording, and strict avoidance of assumptions or bias",
-     "published": "2026-09-15T16:53:56+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/twl2b8/article71469688.ece/alternates/LANDSCAPE_1200/20260330138L.jpg",
-     "licence": "linkout",
-     "id": "53ce7cddf966",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Fishermen urge Tamil Nadu government to drop the plan to build the Secretariat at Foreshore Estate",
-     "url": "https://www.thehindu.com/news/cities/chennai/fishermen-urge-tamil-nadu-government-to-drop-the-plan-to-build-the-secretariat-at-foreshore-estate/article71469322.ece",
-     "summary": "",
-     "published": "2026-09-15T16:51:18+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/60qru7/article71469658.ece/alternates/LANDSCAPE_1200/FISHMAN%20MEETING%20T6.jpg",
-     "licence": "linkout",
-     "id": "f9421fc69049",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "KBR Park in Hyderabad to get one elevated corridor instead of 14 flyovers, underpasses",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/kbr-park-in-hyderabad-to-get-one-elevated-corridor-instead-of-14-flyovers-underpasses/article71469078.ece",
-     "summary": "",
-     "published": "2026-09-15T16:42:56+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jbhph2/article71469163.ece/alternates/LANDSCAPE_1200/Every-flyover-GD0GEDC2U.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "24d9962ac4d6",
-     "category": "general",
-     "category_label": "General",
+     "id": "d3ab820a1539",
+     "category": "money",
+     "category_label": "Money & scams",
      "figures": [
-      "14 flyovers , underpasses"
+      "29.78 crore to 20",
+      "20.21 crore ; 60-day pause"
      ]
     },
     {
-     "title": "Key changes in CPI(M) in Keralam: P. Jayarajan, M.B. Rajesh and V. Sivankutty included in State secretariat",
-     "url": "https://www.thehindu.com/news/national/kerala/key-changes-in-cpim-in-keralam-p-jayarajan-mb-rajesh-and-v-sivankutty-included-in-state-secretariat/article71468486.ece",
-     "summary": "The changes are part of the corrective steps intended by the extended State committee meeting held under the monitoring of the central leadership led by general secretary M.A. Baby and other Polit Bureau members",
-     "published": "2026-09-15T16:42:52+00:00",
+     "title": "BJP to take up month-long Seva Sankalp Abhiyan from Sept. 17 to mark Modi’s 25 years of administration",
+     "url": "https://www.thehindu.com/news/national/karnataka/bjp-to-take-up-month-long-seva-sankalp-abhiyan-from-sept-17-to-mark-modis-25-years-of-administration/article71469242.ece",
+     "summary": "",
+     "published": "2026-09-15T17:16:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uujucw/article71469671.ece/alternates/LANDSCAPE_1200/PTI09_15_2026_000376B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/n11gfa/article71469738.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-15%20at%2017.27.26.JPEG",
      "licence": "linkout",
-     "id": "79ab2fd3e98a",
+     "id": "2c1ce30a9a40",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "25 years of administration"
+     ]
+    },
+    {
+     "title": "Shaju S. takes charge as chairperson of Uralungal Labour Contract Co-operative Society",
+     "url": "https://www.thehindu.com/news/national/kerala/shaju-s-takes-charge-as-chairperson-of-uralungal-labour-contract-co-operative-society/article71469514.ece",
+     "summary": "",
+     "published": "2026-09-15T17:12:16+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/cmpbda/article71469510.ece/alternates/LANDSCAPE_1200/shaju.jpeg",
+     "licence": "linkout",
+     "id": "ddb62e88aec8",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Finnish education model’s focus on holistic development of children highlighted",
+     "url": "https://www.thehindu.com/news/national/telangana/finnish-education-models-focus-on-holistic-development-of-children-highlighted/article71469634.ece",
+     "summary": "",
+     "published": "2026-09-15T17:07:16+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "0c1242bafc04",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Schools arts fete in Ernakulam in January",
+     "url": "https://www.thehindu.com/news/national/kerala/schools-arts-fete-in-ernakulam-in-january/article71469683.ece",
+     "summary": "",
+     "published": "2026-09-15T17:05:11+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "d26b21e3495e",
      "category": "general",
      "category_label": "General"
     },
@@ -1610,6 +1610,22 @@
      "category_label": "General"
     },
     {
+     "title": "5 early signs to watch: Lifestyle creep sneaks in after every promotion; how to overcome it",
+     "url": "https://www.livemint.com/money/personal-finance/5-early-signs-to-watch-lifestyle-creep-sneaks-in-after-every-promotion-how-to-overcome-it-11789491806679.html",
+     "summary": "A promotion often leads to lifestyle creep, where increased spending diminishes savings. Check the importance of examining expenses post-promotion to maintain financial discipline.",
+     "published": "2026-09-15T17:10:51+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/Lifestyle_creep_1789492225029_opYg_1789492230743_161e_8f41f391-24ca-4247-8cd5-49672928431e_QTJ5.jpg",
+     "licence": "linkout",
+     "id": "d1617a6c648d",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5 early signs to watch: Lifestyle"
+     ]
+    },
+    {
      "title": "8th pay commission begins three-day state visit to Chandigarh tomorrow — What's on the agenda for meetings?",
      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-cpc-state-visit-chandigarh-three-days-meetings-16-september-what-agenda-employees-salary-da-pensioner-11789487751024.html",
      "summary": "The commission's three-day visit to Chandigarh from September 16-18 will focus on employee and pensioner issues. Here's a look at what's on the agenda for meetings with representatives from Punjab, Haryana, Himachal Pradesh and the UT of Chandigarh.",
@@ -1656,19 +1672,6 @@
      "figures": [
       "8 tricks to handle your incomes"
      ]
-    },
-    {
-     "title": "New UPI MDR rules explained: Will you pay more? What it means for users like you and me",
-     "url": "https://www.livemint.com/money/personal-finance/new-upi-mdr-rules-explained-will-you-pay-more-what-it-means-for-users-like-you-and-me-11789483918766.html",
-     "summary": "UPI remains free for person-to-person payments under new MDR rules. Here's what changes for merchant payments and what it means for users like you and me.",
-     "published": "2026-09-15T15:31:08+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/UPI_1789485839014_rsN7_1789485839235_LN44_95f11d5c-2cab-41d1-b6db-cad6ebc74144_scUc.png",
-     "licence": "linkout",
-     "id": "056d81b47120",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1692,33 +1695,30 @@
      "category_label": "General"
     },
     {
-     "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
-     "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-     "published": "2026-09-14T17:05:31+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe3/live/2c24b1a0-b05f-11f1-9902-771b6dd8af6a.png",
-     "licence": "linkout",
-     "id": "af58aea1ebf5",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "£1,000  is VR still too"
-     ]
-    },
-    {
      "title": "McKinsey Technology Trends Outlook 2026",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5",
-     "summary": "McKinsey Technology Trends Outlook 2026 mckinsey.com",
+     "summary": "McKinsey Technology Trends Outlook 2026 McKinsey & Company",
      "published": "2026-09-15T13:36:56+00:00",
-     "source": "mckinsey.com",
+     "source": "McKinsey & Company",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "17c6444a2690",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDJUMzlWWUJ3d0t6VE5UTXc4dFhoOHowRkQydnZZd2lyZ3FOclFXV005VE9aT3BMSVN1MEd1ek93TGtLc2F4aVZCM2JHM3lUWjNjQnVEbzJyeEFmT01DQXhyeEhRX1FTVGQ0QzhTVnJJVkNkXzd0VU1YSGZCelZMYkI1SzRBYXJTWVowckp5STZyMkpDeE5vWEhPRHhDRlVGTXJvbHdMRmdRMERoMWpaR1V2RkY1X0c4bEhJaE9fb215dE40a0dVRW1R?oc=5",
+     "summary": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com Investing.com India",
+     "published": "2026-09-15T10:25:50+00:00",
+     "source": "Investing.com India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "3f5edaad6dd2",
+     "category": "tech",
+     "category_label": "AI & technology"
     }
    ]
   },
@@ -1729,75 +1729,75 @@
    "upsc": false,
    "items": [
     {
-     "title": "India vs Afghanistan LIVE Score, 2nd T20I: All Eyes On Abhishek Sharma, Sanju Samson After Afghanistan Fight Back",
+     "title": "India vs Afghanistan LIVE Score, 2nd T20I: Sanju Samson Smashes 22-Ball 57, India Wrap Up Series Victory",
      "url": "https://sports.ndtv.com/cricket/india-vs-afghanistan-live-score-2nd-t20i-ind-vs-afg-live-updates-cricket-scorecard-delhi-abhishek-sharma-vaibhav-sooryavanshi-sanju-samson-12049903#publisher=newsstand",
-     "summary": "India vs Afghanistan 2nd T20I LIVE Score Updates: Nitish Reddy and Arshdeep Singh took three and two wickets respectively, as India restricted Afghanistan to 159/8 in the second T20I.",
-     "published": "2026-09-15T15:38:58+00:00",
+     "summary": "India vs Afghanistan 2nd T20I LIVE Score Updates: Sanju Samson and Abhishek Sharma were at their brutal best, leading India to a convincing win in the second T20I against Afghanistan.",
+     "published": "2026-09-15T17:04:30+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/04ft6pm8_team-india_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/vpmb9vus_sanju-samson-bcci_625x300_15_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "cf39c6482a02",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Asian Games 2026: India's Top Singles Tennis Player Sumit Nagal Predicts 113 Medals",
-     "url": "https://sports.ndtv.com/tennis/asian-games-2026-indias-top-singles-tennis-player-sumit-nagal-predicts-113-medals-12050764#publisher=newsstand",
-     "summary": "Sumit Nagal goes into the Asian Games as India's highest-ranked men's singles tennis player",
-     "published": "2026-09-15T15:23:26+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-11/tp6vgcck_sumit-nagal-_625x300_27_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "6afcb6496dd7",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "113 Medals"
-     ]
-    },
-    {
-     "title": "\"Playing At Old Trafford For The First Time As An Opponent Was A Big Moment For Me\": Youri Tielemans",
-     "url": "https://sports.ndtv.com/football/playing-at-old-trafford-for-the-first-time-as-an-opponent-was-a-big-moment-for-me-youri-tielemans-12050625#publisher=newsstand",
-     "summary": "Manchester United chase their second win of the Premier League campaign as they look to climb the table, with new signing Youri Tielemans expected to add experience",
-     "published": "2026-09-15T15:16:33+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/k49qet8_youri-tielemans_625x300_15_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "15beee7d2cf4",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Curtis Campher Stars As Amsterdam Flames Set New ETPL Benchmark",
-     "url": "https://sports.ndtv.com/cricket/curtis-campher-stars-as-amsterdam-flames-set-new-etpl-benchmark-12050651#publisher=newsstand",
-     "summary": "Amsterdam Flames produced their highest-scoring performance of the ETPL, posting a record 214 for five before defeating Dublin Guardians by 59 runs at Malahide",
-     "published": "2026-09-15T14:53:20+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/s12oc1ls_curtis-campher_625x300_15_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "cfe8bc4a2c2f",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "59 runs at Malahide"
+      "57, India Wrap Up Series Victory"
      ]
     },
     {
-     "title": "Foreign Ministry Reacts After India Refuse Women's Asia Cup Trophy: \"Matter Falls Under BCCI's Purview\"",
-     "url": "https://sports.ndtv.com/cricket/foreign-ministry-reacts-after-india-refuse-womens-asia-cup-trophy-matter-falls-under-bccis-purview-12049660#publisher=newsstand",
-     "summary": "The Ministry of External Affairs (MEA) on Tuesday clarified that the Indian women's cricket team's refusal to accept the Women's Asia Cup 2026 trophy from ACC President and PCB chief Mohsin Naqvi is a matter that falls under the Board of Control for Cricket in India's (BCCI) purview.",
-     "published": "2026-09-15T14:31:06+00:00",
+     "title": "Shawn Horcoff Named Red Wings Interim GM As Steve Yzerman Moves To Senior Advisor Role",
+     "url": "https://sports.ndtv.com/us-nhl/shawn-horcoff-named-red-wings-interim-gm-as-steve-yzerman-moves-to-senior-advisor-role-12051182#publisher=newsstand",
+     "summary": "Shawn Horcoff will lead Detroit’s hockey operations on an interim basis as the Red Wings continue their search for a permanent leader.",
+     "published": "2026-09-15T16:57:06+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ngj7kilk_india-womens-team-bccicreimas_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/d4cpl4fo_shawn-horcoff-_625x300_15_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "97e128b3101d",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "a65a585e95d5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "'Either You Are Politician, Or You're Cricket Boss': Ex-India Star Exposes PCB Chief Mohsin Naqvi",
+     "url": "https://sports.ndtv.com/cricket/either-you-are-politician-or-youre-cricket-boss-ex-india-star-exposes-pcb-chief-mohsin-naqvi-12045794#publisher=newsstand",
+     "summary": "Former India cricketer Mohammad Kaif pointed out exactly what is wrong with the Pakistan Cricket Board's (PCB) approach.",
+     "published": "2026-09-15T16:43:06+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/pmummqbs_mohsin-naqvi-afp_625x300_14_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "67c795f952a1",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "5 Undefeated UFC Fighters Who Have Never Lost a Fight in Their Entire Career",
+     "url": "https://sports.ndtv.com/us-mma/5-undefeated-ufc-fighters-who-have-never-lost-a-fight-in-their-entire-career-12050203#publisher=newsstand",
+     "summary": "There are some fighters in the UFC who remain undefeated; in sports, that's the rarest achievement. While some UFC fighters might have tasted defeat, some continue to rise. Here are five UFC fighters who have yet to taste defeat in their career",
+     "published": "2026-09-15T16:35:27+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2020-06/qkt1201g_khabib-nurmagomedov-getty_625x300_28_June_20.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f320abf76222",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "5 Undefeated UFC Fighters Who Have"
+     ]
+    },
+    {
+     "title": "\"The Last Time\" - Bayley Breaks Silence After WWE RAW Following Lyra Valkyria's Brutal Attack on Her",
+     "url": "https://sports.ndtv.com/us-wwe/the-last-time-bayley-breaks-silence-after-wwe-raw-following-lyra-valkyrias-brutal-attack-on-her-12051103#publisher=newsstand",
+     "summary": "Bayley has seemingly had enough of Lyra Valkyria after their bitter split and latest confrontation. Following WWE RAW, the former Women's Champion shared the words “the last time” as questions also continue around her future WWE contract.",
+     "published": "2026-09-15T16:34:02+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/812phql_bayley-and-lyra-valkyria_625x300_15_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "c2149ebf09ac",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1814,7 +1814,7 @@
      "published": "2026-09-15T16:01:54+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fec9/live/093de4c0-b066-11f1-b9fd-8be7457ad079.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "9c657c0b5de7",
      "category": "general",
