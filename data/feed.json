@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T09:04:39.375586+00:00",
+ "generated_at": "2026-09-15T09:40:43.296908+00:00",
  "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
@@ -46,11 +46,10 @@
    "key": "silver",
    "label": "SILVER",
    "unit": "₹/kg",
-   "value": 179491.0,
-   "change": -10551.0,
-   "changePct": -5.55,
-   "decimals": 0,
-   "stale": true
+   "value": 177043.0,
+   "change": -2766.0,
+   "changePct": -1.54,
+   "decimals": 0
   },
   {
    "key": "usdinr",
@@ -84,16 +83,16 @@
   }
  ],
  "topics": [
-  "Raja MLAs",
-  "Kochi Keralam",
+  "PNBS Vijayawada",
+  "Lawrence Bishnoi",
   "Jazeera English",
   "News",
   "Madhya Pradesh",
   "India Bombay",
-  "Mitch McConnell",
-  "Houthis Yemen",
-  "China",
-  "Money Market"
+  "Mizoram",
+  "Himalaya",
+  "Supreme Court",
+  "Mitch McConnell"
  ],
  "sections": [
   {
@@ -103,32 +102,42 @@
    "upsc": false,
    "items": [
     {
-     "title": "DMK MP A. Raja, MLAs Sekarbabu and Vasantham Karthikeyan booked for derogatory remarks against Tamil Nadu CM Vijay",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-a-raja-mlas-sekarbabu-and-vasantham-karthikeyan-booked-for-derogatory-remarks-against-tamil-nadu-cm-vijay/article71466966.ece",
-     "summary": "Cases registered at the police stations in Saidapet, North Beach and Kallakurichi",
-     "published": "2026-09-15T08:43:26+00:00",
+     "title": "Bag with detonators, gelatin sticks triggers panic on bus at PNBS in Vijayawada",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/bag-with-detonators-gelatin-sticks-triggers-panic-on-bus-at-pnbs-in-vijayawada/article71467105.ece",
+     "summary": "About 46 gelatin sticks and 50 detonators were found in a luggage bag in Vijayawada. Sniffer dog squad was pressed into service and efforts are on to trace the owner of the bag, says police",
+     "published": "2026-09-15T09:24:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/ej0lgo/article71467251.ece/alternates/LANDSCAPE_1200/Raja%20Sekarbabu%20Karthikeyan.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/tf8j77/article70754679.ece/alternates/LANDSCAPE_1200/1.jpg",
      "licence": "linkout",
-     "id": "e891b2727d31",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Vijay-Themed Ganesh Idols Spark Huge Political Row In Tamil Nadu",
-       "url": "https://www.ndtv.com/india-news/vijay-themed-ganesh-idols-spark-huge-political-row-in-tamil-nadu-12048338#publisher=newsstand",
-       "summary": "TVK sources say the workers have been instructed to remove the statue."
-      }
-     ],
+     "id": "aa86701b5231",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "46 gelatin sticks and 50 detonators",
+      "50 detonators were found"
+     ]
+    },
+    {
+     "title": "Lawrence Bishnoi’s associate deported from Canada, arrested by Punjab Police",
+     "url": "https://www.thehindu.com/news/national/lawrence-bishnois-associate-deported-from-canada-arrested-by-punjab-police/article71467396.ece",
+     "summary": "Karamveer Singh had reportedly provided logistical support and a hideout to Anmol Bishnoi, Lawrence’s younger brother, who was arrested by the NIA",
+     "published": "2026-09-15T09:22:08+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/8nhw1k/article70881073.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+     "licence": "linkout",
+     "id": "968f0dd3a9fd",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "Kochi to host Keralam’s c0c0n 2026 cybersecurity conference in October",
+     "title": "Kochi to host Kerala Police’s c0c0n 2026 cybersecurity conference in October",
      "url": "https://www.thehindu.com/news/national/kerala/kochi-to-host-keralams-c0c0n-2026cybersecurity-conference-in-october/article71467296.ece",
-     "summary": "Organised by Kerala Police, the event will bring together cybersecurity professionals, government and law enforcement agencies, industry leaders, researchers, technology experts, academicians and students",
-     "published": "2026-09-15T08:49:31+00:00",
+     "summary": "Event to bring together cybersecurity professionals, government and law enforcement agencies, industry leaders, researchers, technology experts, academicians and students",
+     "published": "2026-09-15T09:13:52+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -136,71 +145,63 @@
      "id": "6281831f93ac",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Meta says will report child safety cases directly to Indian cybercrime portal",
-     "url": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
-     "summary": "U.S.-headquartered Meta is the first major tech intermediary to commit to establishing a direct reporting pipeline to Indian law enforcement",
-     "published": "2026-09-15T08:13:44+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yi1pba/article71467026.ece/alternates/LANDSCAPE_1200/2026-08-31T131640Z_168717986_RC29C3A1CNFM_RTRMADP_3_META-INDIA-ADVERTISING.JPG",
-     "licence": "linkout",
-     "id": "37b4823c2a3f",
-     "category": "crime",
-     "category_label": "Crime",
      "from_section": "National Hotlines"
     },
     {
-     "title": "BJP names mother of slain Suvendu aide Chandranath Rath as Nandigram candidate",
-     "url": "https://www.thehindu.com/news/national/west-bengal/bjp-names-mother-of-slain-suvendu-aide-chandranath-rath-as-nandigram-candidate/article71466934.ece",
-     "summary": "The byelection at Nandigram is being held because Chief Minister Suvendu Adhikari relinquished the seat after getting elected from Bhabanipur and Nandigram both during the 2026 Assembly polls",
-     "published": "2026-09-15T08:29:01+00:00",
+     "title": "Tamil Nadu byelections: AIADMK names candidates for Madurantakam, Dharapuram constituencies",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-byelections-aiadmk-namescandidates-for-madurantakam-dharapuram-constituencies/article71452093.ece",
+     "summary": "The AIADMK named former MLA Kanitha Sampath as its candidate for Madurantakam (Chengalpattu district) and K. Bhanumathi for Dharapuram (Tiruppur district)",
+     "published": "2026-09-15T09:29:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i94b6j/article71467285.ece/alternates/LANDSCAPE_1200/HSPVA7obkAAFFW0.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1hvdf2/article71467435.ece/alternates/LANDSCAPE_1200/AIADMK%20bypoll%20candidates.jpg",
      "licence": "linkout",
-     "id": "90cd64061a0d",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Suvendu Adhikari Names Mother Of His Ex-Aide For Nandigram Bypoll",
-       "url": "https://www.ndtv.com/india-news/suvendu-adhikari-names-mother-of-his-ex-aide-for-nandigram-bypoll-12048458#publisher=newsstand",
-       "summary": "The BJP on Tuesday named Hasirani Rath, the mother of former aide to West Bengal Chief Minister Suvendu Adhikari who died in May, as its candidate for Nandigrambypoll."
-      }
-     ],
+     "id": "0d3f8ac56019",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-     "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-     "published": "2026-09-15T08:49:31+00:00",
-     "source": "BBC News",
+     "title": "Annamalai University staff launch indefinite strike at Chidambaram",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-university-staff-launch-indefinite-strike-at-chidambaram/article71467124.ece",
+     "summary": "The Joint Action Committee of faculty members, employees and pensioners had been holding a continuous sit-in protest since August 19.",
+     "published": "2026-09-15T09:16:34+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1qgpdh/article71467388.ece/alternates/LANDSCAPE_1200/Annamalai%20Univ%201.jpeg",
      "licence": "linkout",
-     "id": "bb8c8562aa23",
+     "id": "f7ce23691394",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National Hotlines"
     },
     {
-     "title": "Suvendu Adhikari Names Mother Of His Ex-Aide For Nandigram Bypoll",
-     "url": "https://www.ndtv.com/india-news/suvendu-adhikari-names-mother-of-his-ex-aide-for-nandigram-bypoll-12048458#publisher=newsstand",
-     "summary": "The BJP on Tuesday named Hasirani Rath, the mother of former aide to West Bengal Chief Minister Suvendu Adhikari who died in May, as its candidate for Nandigrambypoll.",
-     "published": "2026-09-15T08:10:53+00:00",
-     "source": "NDTV",
+     "title": "Two health insurance policies? Know how to use both for one hospital bill",
+     "url": "https://www.livemint.com/money/personal-finance/two-health-insurance-policies-know-how-to-use-both-for-one-hospital-bill-11789462425987.html",
+     "summary": "Having both a personal health insurance policy and employer-provided cover can help when a large hospital bill exceeds the first policy’s coverage. Here’s how policyholders can use the second policy for the remaining eligible expenses.",
+     "published": "2026-09-15T09:14:14+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-05/6fdhk6bg_chandranath-_625x300_06_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/health_insurance_1789462479483_svrB_1789462479689_68xU_d6216ebe-55db-4812-81fd-b5738c9ef632_DGyH.png",
      "licence": "linkout",
-     "id": "2937f117574f",
+     "id": "2e32b2df8fc2",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "Business"
+    },
+    {
+     "title": "J&K Admin. issues eviction notices in Srinagar’s high-end market of Lal Chowk, Kara Nagar against Nazool land occupants",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-admin-issues-eviction-notices-in-srinagars-high-end-market-of-lal-chowk-kara-nagar-against-nazool-land-occupants/article71467294.ece",
+     "summary": "Eviction notices have been issued in high-end locations in Srinagar’s Kara Nagar, Raj Bagh and Lal Chowk and even against those who have defaulted on rent",
+     "published": "2026-09-15T09:21:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "01e68a2c13b4",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National Hotlines"
     },
     {
      "title": "8th Pay Commission: Why employee unions want salary and pension revisions every 5 years",
@@ -238,20 +239,6 @@
       "₹11 lakh tax addition",
       "₹11 lakh addition after the taxpayer"
      ]
-    },
-    {
-     "title": "Should you add equal-weight funds to your portfolio?",
-     "url": "https://www.livemint.com/money/personal-finance/equalweight-funds-etfs-nifty-50-equal-weight-nifty-100-equal-weight-nifty-500-equal-weight-passive-investing-11789408727387.html",
-     "summary": "Broader equal-weight funds have outperformed their market-cap-weighted parents in recent months, but the strategy can also mean greater mid- and small-cap exposure, sector shifts and higher concentration in narrower indices.",
-     "published": "2026-09-15T07:38:27+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/pexels-photo-5716016_1789454655774_gPkc_1789454923116_CRF4_4bd8919f-d2a2-41c3-8857-1b541f9e0d26_crGc.jpeg",
-     "licence": "linkout",
-     "id": "d4e445b0bbfa",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
     },
     {
      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
@@ -296,15 +283,15 @@
      "from_section": "Technology"
     },
     {
-     "title": "AI may 'kill us all', says Google DeepMind researcher in exit post - business-standard.com",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQTdYLVc3dXhVcXR6RnRXVTVDaFBZSGp3SkFkYnVHMXYxTDU5Y29VeU5YQk10aEtfZ1Z5czByMVhoeVlLaE9Dak1xMmVGbkRQa2JkX3h3bUdVdHlhelBnd0FwTkx0OWdwc0I4b3cyZy1hVnZzOVZYN2FhZnpvZFBOQVkyeXgtOW5GQlJEcG10MTYzQy15NXRCc2hTaFlrREw5VnFUbkh5RFkwaHBGYVJqRVYwUGIwV2ZmdUtPc1A3VUhQMS1ZWlEzdExfNDNGeDhiUUxVTFpyX2xKbnM0VVBMMjFyUUlNd1HSAewBQVVfeXFMTmtGY2RQVW41WHJvQVFpYUFpZ0EwQWhYWFNkbGhQZ2VzWU5WUkt5SEc2cFJVRER6SE5zMmRGVFVUejdBRFo4NTg4d1JqdUdCXzVsMGp3ZHVtU19qbkt1MVRwcE1Uc1RmbExnOVFsQUVPZkZYUzRpX2FXQlJSQ205dTBRLTRJakVWaUhoZ1FGSzJ6TDhiQmZFMG1hdGJBeUtMbmYySURsYXVxRWM0VjE5YlZsR0N4UDZnTHVIWXJPZzViVHUtMVNuNEh1dEpXVW5TXzA1elIzYVJVcThGdjdHRFdmdEJIMmg0VkNZUWI?oc=5",
-     "summary": "AI may 'kill us all', says Google DeepMind researcher in exit post business-standard.com",
-     "published": "2026-09-15T03:54:12+00:00",
-     "source": "Google News",
+     "title": "Google DeepMind researcher quits, says AI may cause 'immense harm' in 5 yrs",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR1NaamhCUVJoOXJDdi1UdUNjT2lmTUFIcHloaDMxMmNwVVpfSEl3OHkxRC16dDdJblBfR0FQOXNRTzRpYXl6UlBjcnZFaGZLSXlXUTE0YUhWeFJQdGNCcnFweExGNFZLVVVjSXZxQTAwX1MwYko0dVFuNDZ6eHJKalRROXF5cHJsR0tmb045ZWZqN190LVEtcDhsMkRLRTU1QWN0cmo2WjJYbFF1b3VQZTVkRU1CS21mVEY3clNkeFBQZTBCVkhmdlJnblBXX183VGw2a2NTMm00eHhEbTNHRWdMY3VaYU5waVlyY2UxalZNVlHSAfgBQVVfeXFMUFQzLVZ4andNWWRvcXN3T3daaDdCTGxZYmFTY2tja24zYmpsR0ttRXM4R2dZcGd4WEFGNkJULVQ4U2F2d19Kb1dfejJtM0Q4MVVxNExrYS1KOXhndklqNl81dHFQRFNQeEgyLWJlUzhRd21RTWZkYUl6Ti1mS1lraHM1MGtRWnh6c2JWQVRSdnhIRDJ5U1NzWXU3SHFVOU9LYnh3TXczWmpMQm10VkVaUTNlT1k3dWpBQTlSWHpHV1JEZERGVlNkczNacXhxeDBycFB5VldtT3BZSHVVMGNYb0YzX2RzVnNhWjJIMU1ubHJxMkNtRkdOejc?oc=5",
+     "summary": "Google DeepMind researcher quits, says AI may cause 'immense harm' in 5 yrs Business Standard",
+     "published": "2026-09-15T06:25:29+00:00",
+     "source": "Business Standard",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "a044d2e5d35f",
+     "id": "074eec29ca17",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -421,9 +408,9 @@
     {
      "title": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNkZXT0JZYy1XUno1QVlxSTlUSGxsdUpYa1FIQ19jaFkwLTlURGNoQzVzdDNoTWY1RTU2Mm5uaXY1aUhfSE1yQ3Bwa1Y3SDhZMjZuMUd2VV8wbEpOYUh0bXp4TkEtYmF2LXdJQ2JxbFpKRHI4U2VYUy1PdlIyQmZiUGpYUGYzSEdDc0g3b0lTWW9HNmFBb0tQcmQyR1YxMEpaUjZ6OFFqZk9SNWdXejdaWjk3OGRKbHlYcHBLODhFa0dZRkN5Z0RsUVdaSnl6ZGl4czY4OE5Fc1ExQnFsOEJGQ20zQm5DWHRUYW4wZGVuUk5SV1JsdlBUS21wc9IBgAJBVV95cUxQUHV1dWFkU05ueElaMEhpQzU0NHpoOWJvekRKR3VMRlk3RXcya1lSWm1TUXB2dDlwMC1SMUhHLW52M0tDa1Q3VVZvZGxRUjVxeTUxVll1NWFrVUNMaGUzXzd1ejhCd0RnSW0wOHNEVEFOV09JVm9FbUZkdXN6bGlXTE00X0VKT2JBUG5hNnVHcEJwQXozczFrMlZUNmNvcl9zbXFaMEc2dHZUVGdUamlqTUhmLTlQU2dXRWlkcjdUN2YzOXItWmdPZWVxc2MtT25jWmJ5MXplVElqM2puTTBMNHBONDQxUTBaN0tPOEpnZDZCYmpiamtUTnM2dWg0NkdP?oc=5",
-     "summary": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death timesofindia.indiatimes.com",
+     "summary": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death The Times of India",
      "published": "2026-09-14T17:57:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -446,7 +433,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-15T09:04:26.668091+00:00",
+     "published": "2026-09-15T09:40:30.864620+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -457,7 +444,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-15T09:04:26.668104+00:00",
+     "published": "2026-09-15T09:40:30.864647+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -468,7 +455,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-15T09:04:26.668108+00:00",
+     "published": "2026-09-15T09:40:30.864651+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -479,7 +466,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-15T09:04:26.668112+00:00",
+     "published": "2026-09-15T09:40:30.864656+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -490,7 +477,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-15T09:04:26.668114+00:00",
+     "published": "2026-09-15T09:40:30.864660+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -501,7 +488,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-15T09:04:26.668117+00:00",
+     "published": "2026-09-15T09:40:30.864664+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -543,9 +530,9 @@
     {
      "title": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNkZXT0JZYy1XUno1QVlxSTlUSGxsdUpYa1FIQ19jaFkwLTlURGNoQzVzdDNoTWY1RTU2Mm5uaXY1aUhfSE1yQ3Bwa1Y3SDhZMjZuMUd2VV8wbEpOYUh0bXp4TkEtYmF2LXdJQ2JxbFpKRHI4U2VYUy1PdlIyQmZiUGpYUGYzSEdDc0g3b0lTWW9HNmFBb0tQcmQyR1YxMEpaUjZ6OFFqZk9SNWdXejdaWjk3OGRKbHlYcHBLODhFa0dZRkN5Z0RsUVdaSnl6ZGl4czY4OE5Fc1ExQnFsOEJGQ20zQm5DWHRUYW4wZGVuUk5SV1JsdlBUS21wc9IBgAJBVV95cUxQUHV1dWFkU05ueElaMEhpQzU0NHpoOWJvekRKR3VMRlk3RXcya1lSWm1TUXB2dDlwMC1SMUhHLW52M0tDa1Q3VVZvZGxRUjVxeTUxVll1NWFrVUNMaGUzXzd1ejhCd0RnSW0wOHNEVEFOV09JVm9FbUZkdXN6bGlXTE00X0VKT2JBUG5hNnVHcEJwQXozczFrMlZUNmNvcl9zbXFaMEc2dHZUVGdUamlqTUhmLTlQU2dXRWlkcjdUN2YzOXItWmdPZWVxc2MtT25jWmJ5MXplVElqM2puTTBMNHBONDQxUTBaN0tPOEpnZDZCYmpiamtUTnM2dWg0NkdP?oc=5",
-     "summary": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death timesofindia.indiatimes.com",
+     "summary": "‘Same government had closed the case’: Supriya Sule questions fresh CBI probe into Disha Salian’s death The Times of India",
      "published": "2026-09-14T17:57:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -584,19 +571,6 @@
      "category_label": "General"
     },
     {
-     "title": "Three killed as church roof collapses in southern India",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDZyZUltY1AwQm10S3NEYURPN3A3Ukl0a2lEd3paa1VRekdlSmt6bmNzcWNrRHV3MWxzTllaWTRVOVd1Rmc3MkVWa2owamI2Z3JTcTRJMVBsS0pVZVRETDBuSzRpREp2UDFrZlRkSWZIcTl0OHkzd0FRMmhmOXJmWTF4ZUNtV2Z3b1NQWXY5MVdhdFBKd3fSAZQBQVVfeXFMT1Ric1FDWjZVTFQxeVN2Nnp3RHNBemlwSjlieWVyX1BaREk0cTVGaVJVcjVlcTRBWkFPdFZrd3VQdGlUblFSSjg0WU1yXy16QURUV1pZNlVRY0F6Qks1RkhxRmxETmhJQTNxUUprb2pNS1FZTGpHZmg0Z0NIRHF1cVJPVlFFN0dtamZadld6TUhwZUxnQw?oc=5",
-     "summary": "Three killed as church roof collapses in southern India ucanews.com",
-     "published": "2026-09-14T09:11:00+00:00",
-     "source": "ucanews.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4a97c4222d36",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
      "title": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmlaN2hLT3BtUkxUR3lybTk4RUhtWnNZY0xGWkFLTjc4SzBqMVhyUi01ajZ4Zm1obXlRZ0pKUURlclZ0R0c3Q0s0dTMybmU2TVoweEpoX25xZjZvRDJkUHdweVJlNl9UeHZtc0VqRC1ONWNIc0RvcGtvenhHXzBtcXZMMUNXUWdlWFpoQzVWdnJxN1l5MU5KV0JEZDBWQ3JJYVd3TkFDOU4xbEhDXy03dUV1aVcwY0pLYXB5ZDJxTU1IeUhORmU1V2dpNVNNREx6SWfSAdYBQVVfeXFMUEFQay1Xa3I1aEhkeWtUX0dhZlUwOVpZMVlSOFVZMFhpY1ZaWXh6aFB0eExGczg0dnZfRmdHLXhoSGJwLS1GZXRxcEp5dEtoQmRvVk1VNTg4THR6cjFPOEotQm05NjZ0VDM3ZWdhMEhLMUVKalNFVndlbVotcnZtVmEzTnY5WEJfMmVrX1ZXMTJVekpUbmpYejk0NXFiWlJEWERhRjJMNm9NNlBPTUU2ckxqTV9lM2FiUERmdW01QmdGV2NabTVOUl82UmFDUUhNWXA3MzByZw?oc=5",
      "summary": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam The Tribune",
@@ -612,6 +586,19 @@
       "8 charges against IFS officer Navneet",
       "Rs 82 -crore CREST scam"
      ]
+    },
+    {
+     "title": "RBI proposes 60-day limit on bank account holds in cyber fraud cases: What customers need to know",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZUtRODBmeHAxUXFOcVlQNTJ5OE9DdEE4V0FSclR1aWh5T05sWDQ1X3Y5eklYbHdQc1h0cXRCMlpPdnA1dzJ0RGpPbGt6RHdrZWlzbGpDWXY0QXI3TjJsdVpBLW1Rc043dVVfUExyOUxVdHRGUGdlXzYwcl9pNWxvS3dzQkV4OXlVSUY4WkltcHAyR1FZSVFOZDRGYnl3TDZiSGpDUkw3SGpMVUUtYnV0NEVhWTFRUEhhZXdqcDVfbjZHUnplakIzN2xKcUxtSDVORDRlTmRjS21GSk43R0tWckpGUldadkNoUlRqcFVWb00ydmpXOTRZ0gH8AUFVX3lxTE9NLWFQUWxuVUpJeGZBZ3Q0enJCT0s1NXR5eTNEQlNVWnN0OWN6dzdEbVRrbjZnNVFVbzVNZ2dZeUJfaVo5MGlweVZiam9rM2ZwcExtWXBOWGZxSlBVb2xZR1B5aVdkM1ppbFluOWJuLVBQYWZMWDZ3bnNaM1pFaHJjOXJ4aG5CdWNLcnJNZF9SUFNUZzljTXNFZG55Z2xocXBieVE2X2RMLWRINW9RZXhUVDlFWERSd2YxWVNmQ0ZGMnQ0dkJhU25iUVBuMHJIRnRxeVBUeVc5Y256SmVwYWVkSC1kZGNIS0E0THJwUzM1UjZ1dXhjYUl5WEY3aw?oc=5",
+     "summary": "RBI proposes 60-day limit on bank account holds in cyber fraud cases: What customers need to know Livemint",
+     "published": "2026-09-14T09:50:37+00:00",
+     "source": "Livemint",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "d53197d2a7cf",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -622,64 +609,56 @@
    "upsc": false,
    "items": [
     {
-     "title": "Kochi to host Keralam’s c0c0n 2026 cybersecurity conference in October",
-     "url": "https://www.thehindu.com/news/national/kerala/kochi-to-host-keralams-c0c0n-2026cybersecurity-conference-in-october/article71467296.ece",
-     "summary": "Organised by Kerala Police, the event will bring together cybersecurity professionals, government and law enforcement agencies, industry leaders, researchers, technology experts, academicians and students",
-     "published": "2026-09-15T08:49:31+00:00",
+     "title": "Mizoram yields two new-to-science frog species, one hiding in plain sight",
+     "url": "https://www.thehindu.com/news/national/mizoram/mizoram-yields-two-new-to-science-frog-species-one-hiding-in-plain-sight/article71467289.ece",
+     "summary": "Duttaphrynus phawngpui and Ingerana aizawl named after Mizoram’s highest peak and its capital; one species was long mistaken for a widespread frog",
+     "published": "2026-09-15T09:34:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/frc2lf/article71467442.ece/alternates/LANDSCAPE_1200/583efb58-a77a-46ca-8c09-8b56d2813d01.jpg",
      "licence": "linkout",
-     "id": "6281831f93ac",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "DMK MP A. Raja, MLAs Sekarbabu and Vasantham Karthikeyan booked for derogatory remarks against Tamil Nadu CM Vijay",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-a-raja-mlas-sekarbabu-and-vasantham-karthikeyan-booked-for-derogatory-remarks-against-tamil-nadu-cm-vijay/article71466966.ece",
-     "summary": "Cases registered at the police stations in Saidapet, North Beach and Kallakurichi",
-     "published": "2026-09-15T08:43:26+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/ej0lgo/article71467251.ece/alternates/LANDSCAPE_1200/Raja%20Sekarbabu%20Karthikeyan.jpg",
-     "licence": "linkout",
-     "id": "e891b2727d31",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Vijay-Themed Ganesh Idols Spark Huge Political Row In Tamil Nadu",
-       "url": "https://www.ndtv.com/india-news/vijay-themed-ganesh-idols-spark-huge-political-row-in-tamil-nadu-12048338#publisher=newsstand",
-       "summary": "TVK sources say the workers have been instructed to remove the statue."
-      }
-     ],
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Regulation of educational institutes: SC issues notice to School Education Secretary on contempt plea",
-     "url": "https://www.thehindu.com/news/national/regulation-of-educational-institutes-sc-issues-notice-to-school-education-secretary-on-contempt-plea/article71467293.ece",
-     "summary": "The Supreme Court was hearing a contempt plea filed by advocate Ashwini Kumar Upadhyay, who alleged that the Secretary did not take any action on his representation",
-     "published": "2026-09-15T08:40:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5vrult/article71467309.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-     "licence": "linkout",
-     "id": "10b7b6dcd494",
+     "id": "4e340a9b9505",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Dinesh Sharma sworn in as Lieutenant-Governor of Andaman and Nicobar",
-     "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/dinesh-sharma-sworn-in-as-lieutenant-governor-of-andaman-and-nicobar/article71467260.ece",
-     "summary": "The Rashtrapati Bhavan announced Mr. Sharma's appointment as Lieutenant-Governor of the Union Territory on September 5",
-     "published": "2026-09-15T08:27:06+00:00",
+     "title": "Himalaya approaching tipping point, report says",
+     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalaya-approaching-tipping-point-report-says/article71467426.ece",
+     "summary": "Peak water, the point in time when river flows stop rising and ​start declining, could happen by mid-century",
+     "published": "2026-09-15T09:32:15+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/dkq0hx/article71467274.ece/alternates/LANDSCAPE_1200/Screenshot%202272.png",
+     "image": "https://th-i.thgim.com/public/incoming/5as6u6/article71467433.ece/alternates/LANDSCAPE_1200/2026-09-08T044930Z_725967075_RC2FDNACZTDF_RTRMADP_3_NEPAL-FLOODS-CHINA-GYIRONG.JPG",
      "licence": "linkout",
-     "id": "267edf7ab441",
+     "id": "a98e5b17e88f",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Tamil Nadu byelections: AIADMK names candidates for Madurantakam, Dharapuram constituencies",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-byelections-aiadmk-namescandidates-for-madurantakam-dharapuram-constituencies/article71452093.ece",
+     "summary": "The AIADMK named former MLA Kanitha Sampath as its candidate for Madurantakam (Chengalpattu district) and K. Bhanumathi for Dharapuram (Tiruppur district)",
+     "published": "2026-09-15T09:29:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1hvdf2/article71467435.ece/alternates/LANDSCAPE_1200/AIADMK%20bypoll%20candidates.jpg",
+     "licence": "linkout",
+     "id": "0d3f8ac56019",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Suvendu Adhikari Names Mother Of His Ex-Aide For Nandigram Bypoll",
+     "url": "https://www.ndtv.com/india-news/suvendu-adhikari-names-mother-of-his-ex-aide-for-nandigram-bypoll-12048458#publisher=newsstand",
+     "summary": "The BJP on Tuesday named Hasirani Rath, the mother of former aide to West Bengal Chief Minister Suvendu Adhikari who died in May, as its candidate for Nandigrambypoll.",
+     "published": "2026-09-15T08:10:53+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-05/6fdhk6bg_chandranath-_625x300_06_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2937f117574f",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Gurugram Hit-And-Run Accused Kalyan Bainsla Arrested, 'Attempt To Murder' Invoked",
@@ -742,6 +721,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
+     "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
+     "summary": "Trump has repeatedly criticised mail-in votes and has attempted to restrict them ahead of the midterms.",
+     "published": "2026-09-15T09:15:01+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67c173-1785184627.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "9ea24f61700e",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Mitch McConnell returns to US Senate after three-month absence",
      "url": "https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss",
      "summary": "Senator McConnell casts his first vote since June, pledging presence for crucial Senate decisions.",
@@ -794,23 +786,23 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-     "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
-     "summary": "New B'Tselem report frames events on ground as Israel's 'project of elimination' of Palestinians.",
-     "published": "2026-09-15T06:53:50+00:00",
-     "source": "Al Jazeera",
+     "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+     "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+     "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+     "published": "2026-09-15T08:49:31+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa858f3b419-1789417715.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
      "licence": "linkout",
-     "id": "d16ec9bdfde4",
-     "category": "general",
-     "category_label": "General"
+     "id": "bb8c8562aa23",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Nato jets down drone that entered Lithuanian airspace",
      "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
      "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-     "published": "2026-09-15T06:29:17+00:00",
+     "published": "2026-09-15T09:07:35+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa0/live/029e2b90-b0dc-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -820,15 +812,15 @@
      "category_label": "General"
     },
     {
-     "title": "US confirms for first time it has deployed space weapons",
-     "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-     "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-     "published": "2026-09-15T08:48:28+00:00",
+     "title": "Suspected sabotage causes major Netherlands rail disruption",
+     "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+     "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+     "published": "2026-09-15T09:37:00+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea01/live/8817c3e0-b0a4-11f1-a49c-4d6441eda2b0.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
-     "id": "1951289603d2",
+     "id": "aee33949b0ea",
      "category": "general",
      "category_label": "General"
     }
@@ -888,69 +880,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "Kochi to host Keralam’s c0c0n 2026 cybersecurity conference in October",
-     "url": "https://www.thehindu.com/news/national/kerala/kochi-to-host-keralams-c0c0n-2026cybersecurity-conference-in-october/article71467296.ece",
-     "summary": "Organised by Kerala Police, the event will bring together cybersecurity professionals, government and law enforcement agencies, industry leaders, researchers, technology experts, academicians and students",
-     "published": "2026-09-15T08:49:31+00:00",
+     "title": "Mizoram yields two new-to-science frog species, one hiding in plain sight",
+     "url": "https://www.thehindu.com/news/national/mizoram/mizoram-yields-two-new-to-science-frog-species-one-hiding-in-plain-sight/article71467289.ece",
+     "summary": "Duttaphrynus phawngpui and Ingerana aizawl named after Mizoram’s highest peak and its capital; one species was long mistaken for a widespread frog",
+     "published": "2026-09-15T09:34:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/frc2lf/article71467442.ece/alternates/LANDSCAPE_1200/583efb58-a77a-46ca-8c09-8b56d2813d01.jpg",
      "licence": "linkout",
-     "id": "6281831f93ac",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "DMK MP A. Raja, MLAs Sekarbabu and Vasantham Karthikeyan booked for derogatory remarks against Tamil Nadu CM Vijay",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-a-raja-mlas-sekarbabu-and-vasantham-karthikeyan-booked-for-derogatory-remarks-against-tamil-nadu-cm-vijay/article71466966.ece",
-     "summary": "Cases registered at the police stations in Saidapet, North Beach and Kallakurichi",
-     "published": "2026-09-15T08:43:26+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/ej0lgo/article71467251.ece/alternates/LANDSCAPE_1200/Raja%20Sekarbabu%20Karthikeyan.jpg",
-     "licence": "linkout",
-     "id": "e891b2727d31",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Regulation of educational institutes: SC issues notice to School Education Secretary on contempt plea",
-     "url": "https://www.thehindu.com/news/national/regulation-of-educational-institutes-sc-issues-notice-to-school-education-secretary-on-contempt-plea/article71467293.ece",
-     "summary": "The Supreme Court was hearing a contempt plea filed by advocate Ashwini Kumar Upadhyay, who alleged that the Secretary did not take any action on his representation",
-     "published": "2026-09-15T08:40:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5vrult/article71467309.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-     "licence": "linkout",
-     "id": "10b7b6dcd494",
+     "id": "4e340a9b9505",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Keralam elderly welfare: Govt sets up CM-led council to coordinate, monitor activities",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-elderly-welfare-govt-sets-up-cm-led-council-to-coordinate-monitor-activities/article71467138.ece",
-     "summary": "14-member governing council will ensure the welfare of the elderly, their safety, health care, social participation, mental health, and financial security",
-     "published": "2026-09-15T08:18:59+00:00",
+     "title": "Himalaya approaching tipping point, report says",
+     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalaya-approaching-tipping-point-report-says/article71467426.ece",
+     "summary": "Peak water, the point in time when river flows stop rising and ​start declining, could happen by mid-century",
+     "published": "2026-09-15T09:32:15+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/7zk4d8/article71467261.ece/alternates/LANDSCAPE_1200/elder.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/5as6u6/article71467433.ece/alternates/LANDSCAPE_1200/2026-09-08T044930Z_725967075_RC2FDNACZTDF_RTRMADP_3_NEPAL-FLOODS-CHINA-GYIRONG.JPG",
      "licence": "linkout",
-     "id": "1e74be365df6",
+     "id": "a98e5b17e88f",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "‘Compromised PM Modi again surrendering to U.S. pressure’: Rahul on government's UPI move",
-     "url": "https://www.thehindu.com/news/national/compromised-pm-modi-again-surrendering-to-us-pressure-rahul-on-governments-upi-move/article71467221.ece",
-     "summary": "In a post in Hindi on X, Rahul Gandhi alleged that the Modi government has quietly paved the way for imposing fees on UPI",
-     "published": "2026-09-15T08:12:34+00:00",
+     "title": "Tamil Nadu byelections: AIADMK names candidates for Madurantakam, Dharapuram constituencies",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-byelections-aiadmk-namescandidates-for-madurantakam-dharapuram-constituencies/article71452093.ece",
+     "summary": "The AIADMK named former MLA Kanitha Sampath as its candidate for Madurantakam (Chengalpattu district) and K. Bhanumathi for Dharapuram (Tiruppur district)",
+     "published": "2026-09-15T09:29:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ett191/article71467248.ece/alternates/LANDSCAPE_1200/20260910267L.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1hvdf2/article71467435.ece/alternates/LANDSCAPE_1200/AIADMK%20bypoll%20candidates.jpg",
      "licence": "linkout",
-     "id": "179e13afa13a",
-     "category": "general",
-     "category_label": "General"
+     "id": "0d3f8ac56019",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
@@ -986,6 +952,25 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Result of Yield/ Price Based Auction of State Government Securities",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63594",
+     "summary": "",
+     "published": "2026-09-15T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "682cb3dca0aa",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
     {
      "title": "Money Market Operations as on September 14, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63593",
@@ -1057,27 +1042,6 @@
        "GS-III — Economy"
       ],
       "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on September 15, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63589",
-     "summary": "",
-     "published": "2026-09-15T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "615de96ac635",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [
-       "VRRR"
-      ],
       "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
      },
      "category": "general",
@@ -1386,94 +1350,6 @@
       "7 footage of the falcons nesting",
       "367 Collins Street are proud hosts"
      ]
-    },
-    {
-     "title": "Who is responsible for protecting and preserving Indigenous cultures?",
-     "url": "https://globalvoices.org/2026/09/14/who-is-responsible-for-protecting-and-preserving-indigenous-cultures/",
-     "summary": "As I read through the pieces Global Voices’ authors contributed to the August 2026 Spotlight series, “Indigenous Rights,” one common question stands out for me: Who gets to decide?",
-     "published": "2026-09-14T09:19:57+00:00",
-     "source": "Global Voices",
-     "byline": "Subhashish Panigrahi",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/09/Operacao_Hymenaea_Julho-2016_29399454651-800x450.jpg",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "There is an urgent need for more Indigenous individuals to collaborate before the few individual leaders burn out"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "Deforestation in the Maranhão state of Brazil. Deforestation and land theft remain a persistent threat to Indigenous communities, including those who live near the Amazon basin. Image from Wikimedia Commons (CC BY 2.0)."
-      },
-      {
-       "kind": "p",
-       "text": "This post is part of Global Voices’ August 2026 Spotlight series, “Indigenous Rights.” This series offers insight into the lives and experiences of Indigenous peoples to build connections across regions, center Indigenous experiences, and share the stories of leaders, activists, community members, and more. You can support this coverage by donating here."
-      },
-      {
-       "kind": "p",
-       "text": "There are 476 million Indigenous people in the world, about 6.2 percent of the global population. Though only 25 percent of the Earth’s landmass is left to be stewarded by these original inhabitants, they have long protected global biodiversity — often better than any official government programs and efforts. For hundreds of years, Indigenous groups have weathered colonization, violent settler occupation, oppression, and forced assimilation. Yet despite this dark past — which continues today in the 21st century — Indigenous people continue to fight for their fundamental rights and their own lands and resources."
-      },
-      {
-       "kind": "p",
-       "text": "As I read through the pieces Global Voices’ authors contributed to the August 2026 Spotlight series, “Indigenous Rights,” one common question stands out for me: Who gets to decide? We are past the question of whether Indigenous peoples deserve recognition, land, cultural, and political representation. The key is to ask who holds the power to grant or withhold, and who gets to decide on Indigenous identity, land, culture, safety, and profit."
-      },
-      {
-       "kind": "p",
-       "text": "Not all Indigenous peoples can claim their Indigenous identities because the state sometimes denies this right."
-      },
-      {
-       "kind": "p",
-       "text": "A genocide by the Ottoman Empire wiped out nearly 75 percent of the Assyrian people, and the Iraqi army led another genocide in 1933. Yet, not a single constitution of the region recognizes the Assyrians as an Indigenous people."
-      },
-      {
-       "kind": "p",
-       "text": "It took 30 years for Taiwan’s Siraya people to be officially recognized as Indigenous, but Japan’s Ryūkyūan people have only seen denials by the state. The Ryūkyūan were once removed from their own lands by the U.S. military during World War II. Decades later, the U.S. military continues to hoard Okinawan land through its military bases and destroy natural resources through unchecked pollution."
-      },
-      {
-       "kind": "p",
-       "text": "In Europe, “autochthonous,” perceived descendants of the original inhabitants, has become a discursive tool to promote nationalism and build hate against the “guests,” the immigrants. Ironically, depictions of Native American “heroes” in European popular culture have fuelled this."
-      },
-      {
-       "kind": "p",
-       "text": "While recognition as an Indigenous people is a critical first step for any Indigenous community, it does not always translate to decision-making. When Indigenous leaders in Nueva Vizcaya, the Philippines, organized an anti-mining rally, they were arrested and charged, with over 30 criminal cases filed against them. Brazil’s case was even scarier — 258 Indigenous people were murdered in 2025 for defending their land rights, according to Cimi (the Missionary Indigenist Council). In Thailand, mining activities are polluting the Kok River. Hundreds of villagers, Indigenous leaders, monks, and civil and environmental rights activists carried out a “peace walk” to defend their Indigenous cultural identity and a vital source of drinking water, irrigation, fisheries, and transportation."
-      },
-      {
-       "kind": "p",
-       "text": "Almost always, when the state goes against its Indigenous peoples, it is to extract the latter’s lands, waters, other natural resources, or community products. Lack of Indigenous recognition also translates to significant state control over lands and land-related decisions. China’s new cotton law mechanized cotton production, making the cotton supply chain state-traceable, state-inspectable, and state-governable through data. Concurrently, this policy coerced over seven million Uyghur, Tibetan, and other Indigenous farmers to use their own lands under significant government supervision. In northern Tanzania, the Indigenous Maasai lands are taken by the state in the name of environmental protection only to use them for tourism, hunting, and private investments."
-      },
-      {
-       "kind": "p",
-       "text": "All of these stories raise the original question — who gets to decide. When Indigenous communities control decisions, they are able to protect and nurture their lands, resources, languages, and cultures. For example, 14 members of the Kam community in Nigeria created 307 audiovisual recordings in the Kam language, which has 8,000–11,000 speakers, after receiving training from a linguist, buffering against the threat of language endangerment. In India, Kshetrabasi Juanga, an Indigenous educator, goes from village to village, documenting the endangered Juang language. Far away in Russia, the Buryat fashion designer Oksana Alkhunsaeva has created an occupation for herself that both employs and supports her whole family, and keeps the Buryat textile heritage alive."
-      },
-      {
-       "kind": "p",
-       "text": "The question of who gets to decide also shapes the impact of modernization on Indigenous communities. As Nepal’s Rana Tharu language is threatened due to the prioritization of English and Nepali, women often become the last line of defense, preventing the loss of local languages. Dambe, a martial art form of Nigeria’s Hausa tribe, sees the new safety measures, regulations, and modernization through organized tournaments as a welcome step. But YouTube contests that attract external participation and viewership are erasing the Hausa cultural heritage long associated with it."
-      },
-      {
-       "kind": "p",
-       "text": "There is a strong case for the protection of Indigenous knowledge, and even state support, when its economic value flows into the community. Ghana’s traditional medicine sector serves 60 to 70 percent of the population, as the profit-driven Western medicine market fails to make medicines affordable. The cassava, millet, and sorghum market is expanding across Africa, as these Indigenous crops are a better alternative to imported wheat- economical and gluten-free- opening potential for leading an international market. Indigenous knowledge and data are a core part of AI policies. As Chadian environmental activist Hindou Oumarou Ibrahim rightly puts it, “Indigenous peoples must be recognized as rights holders and decision-makers — especially when newfangled technology has implications for their lands or intellectual heritage.”"
-      },
-      {
-       "kind": "p",
-       "text": "The state’s control over Indigenous bodies goes hand-in-hand with state surveillance. In Australia, Indigenous children are 23 times more likely to be under supervision and 28 times more likely to be in detention."
-      },
-      {
-       "kind": "p",
-       "text": "What really stands out for me is what Genner Llanes-Ortiz, a Mexican Mayan researcher, argues — most modern state structures have categorically failed to understand the Indigenous communities. These societies once lived on the lands that provide homes to the descendants of settler-colonists as well as those who arrived in other ways."
-      },
-      {
-       "kind": "p",
-       "text": "One important human aspect we may forget when discussing these issues is that the onus of protecting and preserving Indigenous cultures falls on individuals like Kshetrabasi Juang or Oksana Alkhunsaeva. There is an urgent need for resources — for more Indigenous individuals to collaborate before the few individual leaders burn out."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "dddc1a2d4183",
-     "category": "human",
-     "category_label": "Human interest"
     }
    ]
   },
@@ -1632,19 +1508,19 @@
    "upsc": false,
    "items": [
     {
-     "title": "State pension likely to rise by £488 a year in April",
+     "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
      "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
      "summary": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
      "published": "2026-09-15T08:51:39+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47f0/live/de8b2e00-b0d2-11f1-bc1f-3f186ca4140c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa08/live/5feb6de0-b0e5-11f1-bc1f-3f186ca4140c.jpg",
      "licence": "linkout",
      "id": "97c02edcb327",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "£488  a year in April"
+      "£13,000  a year as UK"
      ]
     },
     {
@@ -1719,15 +1595,15 @@
      ]
     },
     {
-     "title": "How much debt should you hold? More debt can cushion market falls, but there is a trade-off",
-     "url": "https://www.livemint.com/money/personal-finance/how-much-debt-should-you-hold-more-debt-can-cushion-market-falls-but-there-is-a-tradeoff-11789455665721.html",
-     "summary": "Higher debt allocations have historically helped reduce the impact of market falls, but they also came with lower return potential. FundsIndia Research data shows how investors can balance portfolio volatility against long-term returns when deciding their equity-debt mix.",
-     "published": "2026-09-15T07:13:38+00:00",
+     "title": "Should you add equal-weight funds to your portfolio?",
+     "url": "https://www.livemint.com/money/personal-finance/equalweight-funds-etfs-nifty-50-equal-weight-nifty-100-equal-weight-nifty-500-equal-weight-passive-investing-11789408727387.html",
+     "summary": "Broader equal-weight funds have outperformed their market-cap-weighted parents in recent months, but the strategy can also mean greater mid- and small-cap exposure, sector shifts and higher concentration in narrower indices.",
+     "published": "2026-09-15T07:38:27+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/Gemini_GeneratedImage_o1zcdoo1zcdoo1zc_178945637_1789456384474_Hl1T_1789456384621_J016_c0f6d9ad-504c-4deb-90a6-e3f7fec57ba8_TN25.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/pexels-photo-5716016_1789454655774_gPkc_1789454923116_CRF4_4bd8919f-d2a2-41c3-8857-1b541f9e0d26_crGc.jpeg",
      "licence": "linkout",
-     "id": "d6723905b21e",
+     "id": "d4e445b0bbfa",
      "category": "money",
      "category_label": "Money & scams"
     }
