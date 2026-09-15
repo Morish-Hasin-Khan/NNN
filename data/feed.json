@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T18:05:01.244123+00:00",
+ "generated_at": "2026-09-15T18:37:22.779173+00:00",
  "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
@@ -85,15 +85,15 @@
  ],
  "topics": [
   "Front Page",
-  "Eluru",
+  "Denmark Russian",
   "Jazeera English",
   "News",
   "Madhya Pradesh",
   "India Bombay",
-  "School Ernakulam",
-  "There Chief",
-  "Israeli Qatar",
-  "China Iran"
+  "National News",
+  "Engineers Andhra",
+  "India Afghanistan",
+  "Egypt Sisi"
  ],
  "sections": [
   {
@@ -114,24 +114,7 @@
      "id": "20157bfa6e0d",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "RMP doctor arrested, 73 tramadol vials seized In Eluru district",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/rmp-doctor-arrested-73-tramadol-vials-seized-in-eluru-district/article71469668.ece",
-     "summary": "",
-     "published": "2026-09-15T17:40:23+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "e89173662aad",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines",
-     "figures": [
-      "73 tramadol vials seized In Eluru"
-     ]
+     "from_section": "National Hotlines"
     },
     {
      "title": "Denmark says Russian warship fired flares at military helicopter",
@@ -146,6 +129,20 @@
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
+    },
+    {
+     "title": "Indian police detain driver who hit female biker in viral video",
+     "url": "https://www.bbc.co.uk/news/articles/c9rk37k0rdpko?at_medium=RSS&at_campaign=rss",
+     "summary": "The incident has sparked a broader discussion about the harassment and hostility faced by female motorcyclists.",
+     "published": "2026-09-15T09:16:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1036/live/334cc610-b0d8-11f1-b427-b9b4ddc559ae.png",
+     "licence": "linkout",
+     "id": "dc5de84a8953",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global Hotline"
     },
     {
      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
@@ -201,10 +198,16 @@
      "id": "9f4f6951c137",
      "also": [
       {
-       "source": "The Economic Times",
-       "title": "School Assembly News Headlines, September 16, 2026: Top national, international, business, sports updates",
-       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNX3pzTklnY1FTakpzdGMxdGZfS1QwTUUtR0xaUmZ3MG0yeWFCMnhHVkRteDFTYVFJRWpYSWR3UzdraU1vbVM0RHUtREh5NDBmVFRWMmRPUWcxZWZuOUtGRTIwUFdTRXl1RG9VSUozOHFyaHpfb0xhM2hXWG9lRDVuMzNuMk8ydHVNcDgzUEtqc25yQmhyZHo4aUtUNEZySGtjRGFQNEJ0LUp3bm9fUE93MFJXYVFHZzZzTmtRNDRSZi05RDlPWS0zOHFyQm51QzBLa1liNW1XYjRqWnJ0V1NRNGlIdmUwOVJvSUdmNFBqN2ZWQkJoVFB2Qjc3Z1RKNkpYdFVqdTIyci1Eei1EemEtbFJpZE5PT1N4emlrdzNB0gGjAkFVX3lxTE9kNjc1V3oxTjlfOUNRQWRfSnRhSU1IYS1fRDgwVVZ4TXgxUjN5S2J5QjVJdHFnRW53RnJ3NWdkQjlyc1lPdEd6MTcwcW9YX09vTWdYZmZmbVBoNHdzemU5c0xGV01PdmRlUXJTV2JieGxNSEtmcFg3MjdIM01OZFJoaldoU2ExNEJTV2tKWlNuSUc0NElpZzc1RUh2c193ZlZwVWp0WlJMX3hwMUkwdkViRmVDOTJ0QUI5MUxleWMyRm8wX19zcU92TFQxV3A1MFpNTDBZRWhCOUF5aDNIVWh2bVVvUmtBVGh0Vi1KSUdHSVBpVkJaZi04YWYxNHRrZkM5bjNjemx1bFdVbHZnWVV6ZHhTS280eEFtclA0NVoyZHlRdw?oc=5",
-       "summary": "School Assembly News Headlines, September 16, 2026: Top national, international, business, sports updates The Economic Times"
+       "source": "The Indian Express",
+       "title": "Today News Headlines for School Assembly, September 16, 2026: Government quells extra charges on UPI payments up to Rs 2,000",
+       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORzQ0U0FwMElPR3d2UG9TZk9Fblhjd1JFVm5seHF1MWhLcEtPb19MaDlfMk9LZ2MzQ1hBMHFRN1BfRWpLYU9UVEJTU1FvUlJyZHZyN3B4TjVJazl1eW5FOURXVl8zN2REanhqaTRfLVRhRnA2NHdadDlwT1ktcWVNbU1zYkVPRWFJYzlMNkdxSHNGVEFBVDh5Y1JyRGwwYVpDOXhWWDBoZnZjZnZhelNyTjdRWktrMGtEcGpNQ0tUc1ZGR05MeGdnRUZkOGVqNzlqZVBvTHlOTHNtYlVVcDQ3bGxwc0Nhd3E5OW9SZkE3OXQ5RXlpcW9EMmFtX1pJcnNjakktaNIBiwJBVV95cUxNLWNEelRaT29UV1FWekFibGFaSXluQ3dqRTZzTWtXZFRaVFhYZjdiOTJhRGRkamhtWWFYRW5NYUJxUXBfMVdpTk01TTk5dWh5S2VVMmVCMTc0RUlmQkhRMV9udDVaZTlUNS16Tm1YbmtVQ3BrbTU1TGNlVlNLRVdwSGFWUlRRcEhMaEhSMUtxZXN2QVltaGFYTndNM0NVUG5JUWZTZlFSTkVjQmdJRVJrRlBqQlZiQl9Gd2swOHpSRmFHVXVreVM4eUhNUjRHdVZialdyZjBrYk9rQUtOLTZNRzloSFNDdlZWcHVteVl6MjVpbXpWM3FlV21Na0UtQ1RiNkZ3ZTZidWdzMzQ?oc=5",
+       "summary": "Today News Headlines for School Assembly, September 16, 2026: Government quells extra charges on UPI payments up to Rs 2,000 The Indian Express"
+      },
+      {
+       "source": "India Today",
+       "title": "School assembly news headlines today- September 16: Top national, sports and world news curated for you",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVlZyYmdadXM5ZUNQRUV4OEdIY2RfYmpNbDBFUktVbEFrMVp3b3ZWUEhmeHp4MnNXN01tRnBiLUhTRVptbE1UN21oYkRKak9ObWd1N3VQMlViVkNBTEFrNVVMVDFldTVSWWJodzBzUWJ3WDc1RzRjbHAyWkRiaGotY0hwNnUxMHgtT3hHeDZubVRlSkRha2hyNVI2SllyMlVpQ0pmUGgyYmRGdlZ4WU1CRnNfOC11d1NiQWF1dmVTU2NkOFQ2SGUyelQ5N0xlUDRpSUVOcnZ3UjFGY3FkdjhGckNlbjV3OTZa?oc=5",
+       "summary": "School assembly news headlines today- September 16: Top national, sports and world news curated for you India Today"
       }
      ],
      "category": "politics",
@@ -212,48 +215,65 @@
      "from_section": "National News"
     },
     {
-     "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-     "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-     "summary": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
-     "published": "2026-09-15T16:15:13+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126225540505-1-1778064409.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "417e85f24fd1",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
-     "url": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
-     "summary": "No party wins majority in parliamentary polls in southern Philippines' Muslim-majority region, unofficial results show.",
-     "published": "2026-09-15T16:14:10+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26257144569913-1789486371.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "d823b8704ee5",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "India bond yields above 7%: Why debt fund investors may find a sweet spot in the 3–5 year segment",
-     "url": "https://www.livemint.com/money/personal-finance/india-bond-yields-above-7-why-debt-fund-investors-may-find-a-sweet-spot-in-the-3-5-year-segment-11789483244048.html",
-     "summary": "Indian bond yields have crossed 7%, raising the question of where debt investors should look. Axis MF favours the 3–5-year segment, particularly high-quality corporate bonds and select SDLs, while remaining cautious on long-duration debt amid oil, inflation, and global rate risks.",
-     "published": "2026-09-15T16:50:51+00:00",
+     "title": "Same mutual fund category, different capital gains tax? How a scheme's portfolio can change your tax bill",
+     "url": "https://www.livemint.com/money/personal-finance/same-mutual-fund-category-different-capital-gains-tax-how-a-schemes-portfolio-can-change-your-tax-bill-11789492976985.html",
+     "summary": "Mutual fund investors cannot always rely on a scheme’s category to determine capital gains tax. The actual portfolio allocation and tax classification can change the holding-period threshold and tax rate. Here’s what investors should check before redeeming.",
+     "published": "2026-09-15T18:24:51+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/axis_mff_1789489198470_lbis_1789489202459_t78g_407ee682-ff38-48dd-ba1a-0c4256aaa674_FogV.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/capia_tax_1789496587650_dBw3_1789496592274_dpJq_b2db9128-7a8f-4c60-9a6f-d95973ab5248_w0PZ.png",
      "licence": "linkout",
-     "id": "633a26edb0b1",
+     "id": "b2dccc86d4d1",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Business"
+    },
+    {
+     "title": "State legislature presiding officers showcase Karnataka’s parliamentary heritage in SA",
+     "url": "https://www.thehindu.com/news/national/karnataka/state-legislature-presiding-officers-showcase-karnatakas-parliamentary-heritage-in-sa/article71469280.ece",
+     "summary": "",
+     "published": "2026-09-15T18:13:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/mta65n/article71469876.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-15%20at%2020.45.54.JPEG",
+     "licence": "linkout",
+     "id": "7b65f0a75677",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "5 simple money lessons from The Intelligent Investor by Benjamin Graham: Market moods, picking stocks and more",
+     "url": "https://www.livemint.com/money/personal-finance/5-simple-money-lessons-from-the-intelligent-investor-by-benjamin-graham-market-moods-picking-stocks-and-more-11789496653077.html",
+     "summary": "Benjamin Graham’s The Intelligent Investor advises on understanding investments through careful examination. Check out these 5 simple money lessons from the celebrated book.",
+     "published": "2026-09-15T18:33:20+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/Intel_Investor_1789496874194_fmhl_1789496895170_8ZJe_d5c29934-4126-42a6-8c24-a4925c3b7989_kgkY.jpg",
+     "licence": "linkout",
+     "id": "ea2d78084489",
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business",
      "figures": [
-      "5 year segment"
+      "5 simple money lessons"
+     ]
+    },
+    {
+     "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
+     "url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
+     "summary": "Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.",
+     "published": "2026-09-15T18:05:24+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/HSQ1DjVWIAA7YWt-1789484506.jpg?resize=1600%2C1080",
+     "licence": "linkout",
+     "id": "abdc846e45f4",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Global News",
+     "figures": [
+      "$7bn in two years"
      ]
     },
     {
@@ -271,23 +291,6 @@
      "from_section": "National News",
      "figures": [
       "1.4 per cent of total sales"
-     ]
-    },
-    {
-     "title": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMUJrcTdLaUhhNGNPdnV2MG5IT1FpOFdESnpacjBCOHZIdWVPQU5kcmRZODRoRFJSTjJ2a2MxNldnYjJ0UTdWZXpyaTRGMTFpSVFLTklvV0pzRTl1ZUxrYXgxRkZOeG5EeVI2QUJyMTJxVlgxaE5VSTJNNUtCeEN4UUtPeFRkMmdSYTF3YjltTTJwN1BEUUxiSERCeEZjS3BvcFRKcjRDcHJqejJ0OGZpaUhn?oc=5",
-     "summary": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad The South First",
-     "published": "2026-09-15T13:17:29+00:00",
-     "source": "The South First",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9390b3bd5461",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Scandals & Investigations",
-     "figures": [
-      "$93 million healthcare fraud likely"
      ]
     },
     {
@@ -333,6 +336,24 @@
      "from_section": "Culture"
     },
     {
+     "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5",
+     "summary": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? The Motley Fool",
+     "published": "2026-09-15T18:16:18+00:00",
+     "source": "The Motley Fool",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "9965d4c1ccb5",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology",
+     "figures": [
+      "5 Years ?",
+      "5 Years ? The Motley Fool"
+     ]
+    },
+    {
      "title": "Knowtex launches frontier healthcare AI lab",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXF3V2pmVHNteGtpQzFIdzBEU3dYbzVlQXVzV0w3QlBoTnRhZmxic3ZsUFRIWnJsMm1CdDhpcnY4ekFaWTVOVlBoVVFHSVMwTlZkcVRpeURnbWgyeDdjc1Axazc5UTVBOUFsYWRocTZLWjFFcGhJdEVCcUhsSlR5NTVLa1RSNDlhZExZZDJhNDdVbWdzdTRKYVNFQzBLYnFEckE?oc=5",
      "summary": "Knowtex launches frontier healthcare AI lab Fierce Healthcare",
@@ -342,20 +363,6 @@
      "image": null,
      "licence": "linkout",
      "id": "878c1db696a5",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "AI slow down: US-China AI rivalry puts global AI governance at a crossroads - business-standard.com",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMl9VTEpPWHY1NDdWVXJRSGZyUzd6TjdHdjZUY0V5QUhnY0x3WWpZRXVsZXFoX1JwcGN0MG84RUt6ck9seW53RUNOMGdXYXB3MVJzcjQzdXZPVC1zbGxIc0FYWW5JaDZ6djF3ZlJKYjJ0eEJhZy0wOElMTld1SmxZb21KamNUc1R4LUphNTdMV29FYWQydGZ1WGQ1MFNiR0g4Ynp6bHUyaTFVbjlqQlJfNkFKdEdIWHJxSUhKbWlCZlB3S1JTcWVSUlhJaTFmM01VQUg3NndsVjB3NlhGc3ZyR3Z1clhVSkNxcVRFSVY5UkkwVHlCckHSAfsBQVVfeXFMTVZyRXBRWFlnMTQ0OG5nbmYzekRWd0xFRzJ3UXIzSGkxTGdtZXphLVZ3elREQzVsU2FXdkFoMG5ka0xMV2d5RXM5ekt4aDRSOHNmc01tb0VXR2pKN2lTSlFLRVZDUmRxcnlzdVdlaFFIUHIxUjNrNjBPaFRfN2hDNDliaWh3YlNTZDVLNnBCcUxUTE8xOE1MLU04Um5WaHRXbXhQYkVURU9IZ0FtQnkxXzFXWl9OLW5HOS12QTRxcTJ1SUpvU25UQWpBMzZnNVJxQXB5X3JlOVlZZTlLTm5ZN0kzb3gzRFRaRkp3S3FTUzZDOVY3TjRzelhJalk?oc=5",
-     "summary": "AI slow down: US-China AI rivalry puts global AI governance at a crossroads business-standard.com",
-     "published": "2026-09-15T10:54:45+00:00",
-     "source": "Google News",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "02a1b30f51d4",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -373,6 +380,28 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
+    },
+    {
+     "title": "India beat Afghanistan by seven wickets to seal T20 series",
+     "url": "https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss",
+     "summary": "Sanju Samson's half century helps India seal three-match series with wins in first two games.",
+     "published": "2026-09-15T18:15:43+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26171547769364-1789495182.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "60fcd1d82de1",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "India vs Afghanistan LIVE Score, 2nd T20I: Sanju Samson Smashes 22-Ball 57, India Wrap Up Series Victory",
+       "url": "https://sports.ndtv.com/cricket/india-vs-afghanistan-live-score-2nd-t20i-ind-vs-afg-live-updates-cricket-scorecard-delhi-abhishek-sharma-vaibhav-sooryavanshi-sanju-samson-12049903#publisher=newsstand",
+       "summary": "India vs Afghanistan 2nd T20I LIVE Score Updates: Sanju Samson and Abhishek Sharma were at their brutal best, leading India to a convincing win in the second T20I against Afghanistan."
+      }
+     ],
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News"
     },
     {
      "title": "'Either You Are Politician, Or You're Cricket Boss': Ex-India Star Exposes PCB Chief Mohsin Naqvi",
@@ -431,18 +460,18 @@
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Lucy Letby inquiry blames UK hospital for failure to protect babies",
-     "url": "https://www.aljazeera.com/news/2026/9/15/lucy-letby-inquiry-blames-hospital-for-complete-failure-to-protect-babies?traffic_source=rss",
-     "summary": "Inquiry finds parents were kept in the dark as hospital hid Lucy Letby suspicions during secret reviews.",
-     "published": "2026-09-15T15:58:49+00:00",
-     "source": "Al Jazeera",
+     "title": "Air India CEO, former chief attend Bombay House amid government probe",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0FQNzdzR21TMHRlYlhyYXJBcmw2LXJWTDMwMVNlOEpxcHhPVlIwbjRqSURFajdpSDFwdWNmc2ZNZ2RqZDZtVXpqOXNfNXRRX2w3d3RfbXlpTS1VcW1oSXNwaWdSNU5mcFdaT3lTM2hLdUw0bzVOejZsckNFcl94dzhsRkx6VzVOZGw1SUV3bmZNbkJNc0lfUWZFY01NVHJIQ2pV?oc=5",
+     "summary": "Air India CEO, former chief attend Bombay House amid government probe The News Mill",
+     "published": "2026-09-15T07:07:37+00:00",
+     "source": "The News Mill",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa942569a-1789477462.jpg?resize=1920%2C1440",
+     "image": null,
      "licence": "linkout",
-     "id": "276ff0814fa1",
+     "id": "d3cbefb038c6",
      "category": "mystery",
      "category_label": "Mystery & investigation",
-     "from_section": "Global News"
+     "from_section": "Scandals & Investigations"
     }
    ]
   },
@@ -458,7 +487,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-15T18:04:47.932193+00:00",
+     "published": "2026-09-15T18:37:09.033005+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +498,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-15T18:04:47.932204+00:00",
+     "published": "2026-09-15T18:37:09.033028+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -480,7 +509,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-15T18:04:47.932213+00:00",
+     "published": "2026-09-15T18:37:09.033032+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -491,7 +520,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-15T18:04:47.932218+00:00",
+     "published": "2026-09-15T18:37:09.033035+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -502,7 +531,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-15T18:04:47.932222+00:00",
+     "published": "2026-09-15T18:37:09.033037+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -513,7 +542,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-15T18:04:47.932227+00:00",
+     "published": "2026-09-15T18:37:09.033039+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -583,11 +612,27 @@
      "category_label": "General"
     },
     {
+     "title": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMUJrcTdLaUhhNGNPdnV2MG5IT1FpOFdESnpacjBCOHZIdWVPQU5kcmRZODRoRFJSTjJ2a2MxNldnYjJ0UTdWZXpyaTRGMTFpSVFLTklvV0pzRTl1ZUxrYXgxRkZOeG5EeVI2QUJyMTJxVlgxaE5VSTJNNUtCeEN4UUtPeFRkMmdSYTF3YjltTTJwN1BEUUxiSERCeEZjS3BvcFRKcjRDcHJqejJ0OGZpaUhn?oc=5",
+     "summary": "Indian man wanted in US for $93 million healthcare fraud likely in Hyderabad The South First",
+     "published": "2026-09-15T13:17:29+00:00",
+     "source": "The South First",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "9390b3bd5461",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$93 million healthcare fraud likely"
+     ]
+    },
+    {
      "title": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmlaN2hLT3BtUkxUR3lybTk4RUhtWnNZY0xGWkFLTjc4SzBqMVhyUi01ajZ4Zm1obXlRZ0pKUURlclZ0R0c3Q0s0dTMybmU2TVoweEpoX25xZjZvRDJkUHdweVJlNl9UeHZtc0VqRC1ONWNIc0RvcGtvenhHXzBtcXZMMUNXUWdlWFpoQzVWdnJxN1l5MU5KV0JEZDBWQ3JJYVd3TkFDOU4xbEhDXy03dUV1aVcwY0pLYXB5ZDJxTU1IeUhORmU1V2dpNVNNREx6SWfSAdYBQVVfeXFMUEFQay1Xa3I1aEhkeWtUX0dhZlUwOVpZMVlSOFVZMFhpY1ZaWXh6aFB0eExGczg0dnZfRmdHLXhoSGJwLS1GZXRxcEp5dEtoQmRvVk1VNTg4THR6cjFPOEotQm05NjZ0VDM3ZWdhMEhLMUVKalNFVndlbVotcnZtVmEzTnY5WEJfMmVrX1ZXMTJVekpUbmpYejk0NXFiWlJEWERhRjJMNm9NNlBPTUU2ckxqTV9lM2FiUERmdW01QmdGV2NabTVOUl82UmFDUUhNWXA3MzByZw?oc=5",
-     "summary": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam tribuneindia.com",
+     "summary": "IDFC First case: 8 charges against IFS officer Navneet Srivastava in Rs 82-crore CREST scam The Tribune",
      "published": "2026-09-15T06:12:00+00:00",
-     "source": "tribuneindia.com",
+     "source": "The Tribune",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -596,8 +641,7 @@
      "category_label": "Money & scams",
      "figures": [
       "8 charges against IFS officer Navneet",
-      "Rs 82 -crore CREST scam",
-      "Rs 82 -crore CREST scam tribuneindia"
+      "Rs 82 -crore CREST scam"
      ]
     }
    ]
@@ -609,28 +653,28 @@
    "upsc": false,
    "items": [
     {
-     "title": "School arts fete in Ernakulam in January",
-     "url": "https://www.thehindu.com/news/national/kerala/schools-arts-fete-in-ernakulam-in-january/article71469683.ece",
+     "title": "CPI alleges vote deletions in A.P. SIR",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-alleges-vote-deletions-in-ap-sir/article71469101.ece",
      "summary": "",
-     "published": "2026-09-15T17:56:58+00:00",
+     "published": "2026-09-15T18:32:37+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "d26b21e3495e",
+     "id": "5e6b93dd9bd5",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "There is a need to reinvent engineering, make it fit current industry needs: Chief Secretary",
-     "url": "https://www.thehindu.com/news/national/karnataka/there-is-a-need-to-reinvent-engineering-make-it-fit-current-industry-needs-chief-secretary/article71469687.ece",
+     "title": "Engineers’ Day observed at Andhra University",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/engineers-day-observed-at-andhra-university/article71469246.ece",
      "summary": "",
-     "published": "2026-09-15T17:55:25+00:00",
+     "published": "2026-09-15T18:27:59+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wvj2lk/article71469858.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-30%20at%2017.55.30.JPEG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "57a8636ee7a3",
+     "id": "97a964234817",
      "category": "general",
      "category_label": "General"
     },
@@ -638,7 +682,7 @@
      "title": "Heavy rain paralyses traffic in several parts of Bengaluru",
      "url": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru/article71469716.ece",
      "summary": "",
-     "published": "2026-09-15T17:53:26+00:00",
+     "published": "2026-09-15T18:15:41+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/7q2wuy/article71469855.ece/alternates/LANDSCAPE_1200/rain%208.jpg",
@@ -648,15 +692,15 @@
      "category_label": "General"
     },
     {
-     "title": "Supreme Court nod for Kerala High Court to continue execution proceedings in Kashi Math case",
-     "url": "https://www.thehindu.com/news/national/supreme-court-nod-for-kerala-high-court-to-continue-execution-proceedings-in-kashi-math-case/article71469539.ece",
-     "summary": "Kerala High Court decision of August 2026 allows Kashi Matadhipati Samyamindra Tirtha to continue execution proceedings for recovery of gold, silver ornaments and paraphernalia belonging to Kashi Math Samsthan from Raghavendra Tirtha",
-     "published": "2026-09-15T17:51:13+00:00",
+     "title": "School arts fete in Ernakulam in January",
+     "url": "https://www.thehindu.com/news/national/kerala/schools-arts-fete-in-ernakulam-in-january/article71469683.ece",
+     "summary": "",
+     "published": "2026-09-15T17:56:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/an7st4/article71469830.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "805775aaa490",
+     "id": "d26b21e3495e",
      "category": "general",
      "category_label": "General"
     },
@@ -708,6 +752,72 @@
    "upsc": false,
    "items": [
     {
+     "title": "India beat Afghanistan by seven wickets to seal T20 series",
+     "url": "https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss",
+     "summary": "Sanju Samson's half century helps India seal three-match series with wins in first two games.",
+     "published": "2026-09-15T18:15:43+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26171547769364-1789495182.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "60fcd1d82de1",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "India vs Afghanistan LIVE Score, 2nd T20I: Sanju Samson Smashes 22-Ball 57, India Wrap Up Series Victory",
+       "url": "https://sports.ndtv.com/cricket/india-vs-afghanistan-live-score-2nd-t20i-ind-vs-afg-live-updates-cricket-scorecard-delhi-abhishek-sharma-vaibhav-sooryavanshi-sanju-samson-12049903#publisher=newsstand",
+       "summary": "India vs Afghanistan 2nd T20I LIVE Score Updates: Sanju Samson and Abhishek Sharma were at their brutal best, leading India to a convincing win in the second T20I against Afghanistan."
+      }
+     ],
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
+     "url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
+     "summary": "Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.",
+     "published": "2026-09-15T18:05:24+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/HSQ1DjVWIAA7YWt-1789484506.jpg?resize=1600%2C1080",
+     "licence": "linkout",
+     "id": "abdc846e45f4",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$7bn in two years"
+     ]
+    },
+    {
+     "title": "Police crack down on protests against constitutional change in DR Congo",
+     "url": "https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss",
+     "summary": "Demonstrations held across country against president's proposed constitutional changes seeking third term.",
+     "published": "2026-09-15T17:58:53+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa97811a672a-1789491217.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "2de32ad510a0",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
+     "url": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
+     "summary": "Thousands making risky maritime journey to Djibouti as conflict between Yemen gov't and Houthis intensifies.",
+     "published": "2026-09-15T17:39:58+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-14T200916Z_129623369_RC21JNA6RGR1_RTRMADP_3_IRAN-CRISIS-YEMEN-IDPS-1789454559.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "8d61a3440c20",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "100,000 displaced as they flee violence"
+     ]
+    },
+    {
      "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
      "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
      "summary": "Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.",
@@ -717,45 +827,6 @@
      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa90c8a02-1789463690.jpg?resize=1920%2C1440",
      "licence": "linkout",
      "id": "06449b6437b1",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-     "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-     "summary": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
-     "published": "2026-09-15T16:15:13+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126225540505-1-1778064409.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "417e85f24fd1",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
-     "url": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
-     "summary": "No party wins majority in parliamentary polls in southern Philippines' Muslim-majority region, unofficial results show.",
-     "published": "2026-09-15T16:14:10+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26257144569913-1789486371.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "d823b8704ee5",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "FBI’s Kash Patel defends hiring policy change on bestiality, prostitution",
-     "url": "https://www.aljazeera.com/news/2026/9/15/fbis-kash-patel-defends-hiring-policy-change-on-bestiality-prostitution?traffic_source=rss",
-     "summary": "Policy change sparks heated Senate debate; critics question its timing amid challenges in attracting new FBI agents.",
-     "published": "2026-09-15T16:13:26+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa967df3062-1789487071.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "40539b5b3788",
      "category": "general",
      "category_label": "General"
     },
@@ -857,15 +928,41 @@
    "upsc": false,
    "items": [
     {
-     "title": "School arts fete in Ernakulam in January",
-     "url": "https://www.thehindu.com/news/national/kerala/schools-arts-fete-in-ernakulam-in-january/article71469683.ece",
+     "title": "CPI alleges vote deletions in A.P. SIR",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-alleges-vote-deletions-in-ap-sir/article71469101.ece",
      "summary": "",
-     "published": "2026-09-15T17:56:58+00:00",
+     "published": "2026-09-15T18:32:37+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "d26b21e3495e",
+     "id": "5e6b93dd9bd5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Engineers’ Day observed at Andhra University",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/engineers-day-observed-at-andhra-university/article71469246.ece",
+     "summary": "",
+     "published": "2026-09-15T18:27:59+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "97a964234817",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Heavy rain paralyses traffic in several parts of Bengaluru",
+     "url": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru/article71469716.ece",
+     "summary": "",
+     "published": "2026-09-15T18:15:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/7q2wuy/article71469855.ece/alternates/LANDSCAPE_1200/rain%208.jpg",
+     "licence": "linkout",
+     "id": "6feb7d61332f",
      "category": "general",
      "category_label": "General"
     },
@@ -883,69 +980,47 @@
      "category_label": "General"
     },
     {
-     "title": "Heavy rain paralyses traffic in several parts of Bengaluru",
-     "url": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru/article71469716.ece",
-     "summary": "",
-     "published": "2026-09-15T17:53:26+00:00",
+     "title": "Supreme Court nod for Kerala High Court to continue execution proceedings in Kashi Math case",
+     "url": "https://www.thehindu.com/news/national/supreme-court-nod-for-kerala-high-court-to-continue-execution-proceedings-in-kashi-math-case/article71469539.ece",
+     "summary": "Kerala High Court decision of August 2026 allows Kashi Matadhipati Samyamindra Tirtha to continue execution proceedings for recovery of gold, silver ornaments and paraphernalia belonging to Kashi Math Samsthan from Raghavendra Tirtha",
+     "published": "2026-09-15T17:51:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7q2wuy/article71469855.ece/alternates/LANDSCAPE_1200/rain%208.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/an7st4/article71469830.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
      "licence": "linkout",
-     "id": "6feb7d61332f",
+     "id": "805775aaa490",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Study finds dual nerve blocks procedure may help people with treatment-resistant anxiety",
-     "url": "https://www.thehindu.com/news/national/karnataka/study-finds-dual-nerve-blocks-procedure-may-help-people-with-treatment-resistant-anxiety/article71384897.ece",
-     "summary": "",
-     "published": "2026-09-15T17:45:29+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/52lnnx/article71469838.ece/alternates/LANDSCAPE_1200/IMG_IRDAI-healthARGS36UF_2_1_U3DVRQDC.jpg",
-     "licence": "linkout",
-     "id": "144515be53b7",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "CPI(M)’s Keralam meet condemns ED action against Pinarayi, Veena, Riyas",
-     "url": "https://www.thehindu.com/news/national/kerala/cpims-keralam-meet-condemns-ed-action-against-pinarayi-veena-riyas/article71468717.ece",
-     "summary": "In a resolution passed on the concluding day of the meeting on Tuesday, the party says the “political witch-hunt” being conducted by the ED“ will be strongly resisted both legally and politically",
-     "published": "2026-09-15T17:42:20+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "30fa32999dba",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "School Assembly News Headlines, September 16, 2026: Top national, international, business, sports updates",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNX3pzTklnY1FTakpzdGMxdGZfS1QwTUUtR0xaUmZ3MG0yeWFCMnhHVkRteDFTYVFJRWpYSWR3UzdraU1vbVM0RHUtREh5NDBmVFRWMmRPUWcxZWZuOUtGRTIwUFdTRXl1RG9VSUozOHFyaHpfb0xhM2hXWG9lRDVuMzNuMk8ydHVNcDgzUEtqc25yQmhyZHo4aUtUNEZySGtjRGFQNEJ0LUp3bm9fUE93MFJXYVFHZzZzTmtRNDRSZi05RDlPWS0zOHFyQm51QzBLa1liNW1XYjRqWnJ0V1NRNGlIdmUwOVJvSUdmNFBqN2ZWQkJoVFB2Qjc3Z1RKNkpYdFVqdTIyci1Eei1EemEtbFJpZE5PT1N4emlrdzNB0gGjAkFVX3lxTE9kNjc1V3oxTjlfOUNRQWRfSnRhSU1IYS1fRDgwVVZ4TXgxUjN5S2J5QjVJdHFnRW53RnJ3NWdkQjlyc1lPdEd6MTcwcW9YX09vTWdYZmZmbVBoNHdzemU5c0xGV01PdmRlUXJTV2JieGxNSEtmcFg3MjdIM01OZFJoaldoU2ExNEJTV2tKWlNuSUc0NElpZzc1RUh2c193ZlZwVWp0WlJMX3hwMUkwdkViRmVDOTJ0QUI5MUxleWMyRm8wX19zcU92TFQxV3A1MFpNTDBZRWhCOUF5aDNIVWh2bVVvUmtBVGh0Vi1KSUdHSVBpVkJaZi04YWYxNHRrZkM5bjNjemx1bFdVbHZnWVV6ZHhTS280eEFtclA0NVoyZHlRdw?oc=5",
-     "summary": "School Assembly News Headlines, September 16, 2026: Top national, international, business, sports updates The Economic Times",
-     "published": "2026-09-15T11:31:54+00:00",
-     "source": "The Economic Times",
+     "title": "Today News Headlines for School Assembly, September 16, 2026: Government quells extra charges on UPI payments up to Rs 2,000",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORzQ0U0FwMElPR3d2UG9TZk9Fblhjd1JFVm5seHF1MWhLcEtPb19MaDlfMk9LZ2MzQ1hBMHFRN1BfRWpLYU9UVEJTU1FvUlJyZHZyN3B4TjVJazl1eW5FOURXVl8zN2REanhqaTRfLVRhRnA2NHdadDlwT1ktcWVNbU1zYkVPRWFJYzlMNkdxSHNGVEFBVDh5Y1JyRGwwYVpDOXhWWDBoZnZjZnZhelNyTjdRWktrMGtEcGpNQ0tUc1ZGR05MeGdnRUZkOGVqNzlqZVBvTHlOTHNtYlVVcDQ3bGxwc0Nhd3E5OW9SZkE3OXQ5RXlpcW9EMmFtX1pJcnNjakktaNIBiwJBVV95cUxNLWNEelRaT29UV1FWekFibGFaSXluQ3dqRTZzTWtXZFRaVFhYZjdiOTJhRGRkamhtWWFYRW5NYUJxUXBfMVdpTk01TTk5dWh5S2VVMmVCMTc0RUlmQkhRMV9udDVaZTlUNS16Tm1YbmtVQ3BrbTU1TGNlVlNLRVdwSGFWUlRRcEhMaEhSMUtxZXN2QVltaGFYTndNM0NVUG5JUWZTZlFSTkVjQmdJRVJrRlBqQlZiQl9Gd2swOHpSRmFHVXVreVM4eUhNUjRHdVZialdyZjBrYk9rQUtOLTZNRzloSFNDdlZWcHVteVl6MjVpbXpWM3FlV21Na0UtQ1RiNkZ3ZTZidWdzMzQ?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 16, 2026: Government quells extra charges on UPI payments up to Rs 2,000 The Indian Express",
+     "published": "2026-09-15T11:26:25+00:00",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "1908715b28d0",
+     "id": "8ad46e0b3fa7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "Rs 2,000.  Today News Headlines",
+      "Rs 2,000  The Indian Express"
+     ]
+    },
+    {
+     "title": "School assembly news headlines today- September 16: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVlZyYmdadXM5ZUNQRUV4OEdIY2RfYmpNbDBFUktVbEFrMVp3b3ZWUEhmeHp4MnNXN01tRnBiLUhTRVptbE1UN21oYkRKak9ObWd1N3VQMlViVkNBTEFrNVVMVDFldTVSWWJodzBzUWJ3WDc1RzRjbHAyWkRiaGotY0hwNnUxMHgtT3hHeDZubVRlSkRha2hyNVI2SllyMlVpQ0pmUGgyYmRGdlZ4WU1CRnNfOC11d1NiQWF1dmVTU2NkOFQ2SGUyelQ5N0xlUDRpSUVOcnZ3UjFGY3FkdjhGckNlbjV3OTZa?oc=5",
+     "summary": "School assembly news headlines today- September 16: Top national, sports and world news curated for you India Today",
+     "published": "2026-09-15T11:56:26+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "d422b63d69cf",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2puT0hjRGRhZUowYlpjN3NwY0RVamFCbWNONURvckFQT2Q2VlZheWcteHFwTzU4Ulh3c0Y1cWtuVTZuaE5CR1J2LTNPNnNoaExVZFQzbkw0VWt2aElSZWtiS2VjS1hEclhqcHFmWm4yckFENVhBUDM2S3AtcG15T1hYVQ?oc=5",
-     "summary": "PM Modi says, BRICS, under India’s Chairmanship, will work together to build a more inclusive world order News On AIR",
-     "published": "2026-09-15T09:03:54+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "cbb39efeae12",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1586,6 +1661,40 @@
      "category_label": "General"
     },
     {
+     "title": "Government clarifies credit card-linked UPI payments exempt from 0.4% fee",
+     "url": "https://www.livemint.com/money/personal-finance/government-clarifies-credit-card-linked-upi-payments-exempt-from-0-4-fee-11789493644530.html",
+     "summary": "The clarification comes ahead of the revised UPI fee structure, which is scheduled to take effect from October 15. Under the new framework, a 0.4% MDR will be applicable to certain direct account-to-merchant-account UPI payments above ₹2,000, with the fee capped at ₹300 per transaction",
+     "published": "2026-09-15T18:26:21+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/creditcard_1789495021998_tNej_1789495022219_wAUk_381c9001-a3ae-4009-9d2c-28a51a4c7566_8HAb.jpg",
+     "licence": "linkout",
+     "id": "e17cbbb1bc78",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "15. Under the new framework",
+      "₹2,000,  with the fee capped",
+      "₹300  per transaction"
+     ]
+    },
+    {
+     "title": "NPS Vatsalya: Rules for withdrawal and exit from scheme, explained",
+     "url": "https://www.livemint.com/money/personal-finance/nps-vatsalya-children-pension-scheme-parents-investment-eligibility-rules-partial-withdrawal-exit-from-scheme-explained-11789489839226.html",
+     "summary": "National pension scheme: The NPS Vatsalya Scheme allows children below 18 years to partially withdraw funds from their accounts under certain circumstances. We take a look at the process and how it works…",
+     "published": "2026-09-15T18:03:15+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/NPS_Vatsalya_1789495307387_Ui2C_1789495322668_DLSi_8b4e303b-8b50-4f8b-a586-e86e8c01ab0c_1McN.png",
+     "licence": "linkout",
+     "id": "7d3e14d428a6",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "18 years to partially withdraw funds"
+     ]
+    },
+    {
      "title": "Large & mid-cap mutual funds vs separate portfolio split: How do their returns compare over 1, 3 and 5 years?",
      "url": "https://www.livemint.com/money/personal-finance/large-mid-cap-mutual-funds-vs-separate-portfolio-split-how-do-their-returns-compare-over-1-3-and-5-years-11789489772902.html",
      "summary": "Large &amp; mid-cap funds offer investors a single-fund route to large and mid-cap stocks. But how do their returns compare with pure large-cap and mid-cap funds, and what does their portfolio allocation reveal about the differences?",
@@ -1599,54 +1708,6 @@
      "category_label": "General",
      "figures": [
       "5 years ?"
-     ]
-    },
-    {
-     "title": "5 early signs to watch: Lifestyle creep sneaks in after every promotion; how to overcome it",
-     "url": "https://www.livemint.com/money/personal-finance/5-early-signs-to-watch-lifestyle-creep-sneaks-in-after-every-promotion-how-to-overcome-it-11789491806679.html",
-     "summary": "A promotion often leads to lifestyle creep, where increased spending diminishes savings. Check the importance of examining expenses post-promotion to maintain financial discipline.",
-     "published": "2026-09-15T17:10:51+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/Lifestyle_creep_1789492225029_opYg_1789492230743_161e_8f41f391-24ca-4247-8cd5-49672928431e_QTJ5.jpg",
-     "licence": "linkout",
-     "id": "d1617a6c648d",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "5 early signs to watch: Lifestyle"
-     ]
-    },
-    {
-     "title": "8th pay commission begins three-day state visit to Chandigarh tomorrow — What's on the agenda for meetings?",
-     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-cpc-state-visit-chandigarh-three-days-meetings-16-september-what-agenda-employees-salary-da-pensioner-11789487751024.html",
-     "summary": "The commission's three-day visit to Chandigarh from September 16-18 will focus on employee and pensioner issues. Here's a look at what's on the agenda for meetings with representatives from Punjab, Haryana, Himachal Pradesh and the UT of Chandigarh.",
-     "published": "2026-09-15T16:31:09+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/CPC_meeting_dates_1788266820479_1788266839337_2374e64b-f4e8-4908-b1c8-f723c32bc97c_1789489737580_s1cD_32ac984c-4176-4648-b3b9-4589f538db7c_g8xF.png",
-     "licence": "linkout",
-     "id": "f8674d75112e",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "18 will focus on employee"
-     ]
-    },
-    {
-     "title": "NPCI releases MDR framework for UPI transactions — Here's what changes for merchant payments",
-     "url": "https://www.livemint.com/money/personal-finance/npci-mdr-upi-transactions-what-change-small-merchants-zero-payments-above-rs-2000-0-4-pc-charge-cap-rs-300-over-rs-75000-11789480810958.html",
-     "summary": "UPI will remain free for all person-to-person transactions, merchant payments up to ₹2,000, and for small merchants, as per the NPCI's MDR framework. The organisation says it aims to promote digital payments and ensure UPI's sustainability.",
-     "published": "2026-09-15T15:53:57+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/MDR_on_merchant_transactions_1789487572892_UWQP_1789487598381_ZdfB_f0e469d8-a0fe-4b64-a69f-f69198e9ba8c_BhRo.png",
-     "licence": "linkout",
-     "id": "7d9446fde8ed",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "₹2,000,  and for small merchants"
      ]
     }
    ]
@@ -1673,9 +1734,9 @@
     {
      "title": "McKinsey Technology Trends Outlook 2026",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5",
-     "summary": "McKinsey Technology Trends Outlook 2026 McKinsey & Company",
+     "summary": "McKinsey Technology Trends Outlook 2026 mckinsey.com",
      "published": "2026-09-15T14:50:31+00:00",
-     "source": "McKinsey & Company",
+     "source": "mckinsey.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
