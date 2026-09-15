@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T20:02:42.403269+00:00",
+ "generated_at": "2026-09-15T20:34:11.149977+00:00",
  "podcasts_fetched_at": "2026-09-13T23:01:54.460521+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Explosion Bengal",
-  "Deported From",
+  "Meta Indian",
+  "Satya Niketan",
   "Jazeera English",
   "News",
   "Madhya Pradesh",
   "India Bombay",
-  "Power Tamil",
-  "Rotary Club",
+  "Agartala Delhi",
+  "NATO Russian",
   "Israel Gaza",
-  "NATO Lithuania"
+  "China"
  ],
  "sections": [
   {
@@ -102,6 +102,34 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Meta to share child safety information directly with Indian agencies",
+     "url": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
+     "summary": "So far, this information has been shared with the U.S.-based National Center for Missing & Exploited Children, which has in turn shared India-specific CSAM reports with the National Crime Records Bureau (NCRB)",
+     "published": "2026-09-15T20:14:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/yi1pba/article71467026.ece/alternates/LANDSCAPE_1200/2026-08-31T131640Z_168717986_RC29C3A1CNFM_RTRMADP_3_META-INDIA-ADVERTISING.JPG",
+     "licence": "linkout",
+     "id": "37b4823c2a3f",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "AAP alleges cover-up in girl’s death at a Satya Niketan PG; police denies allegation",
+     "url": "https://www.thehindu.com/news/cities/Delhi/aap-alleges-cover-up-in-girls-death-at-a-satya-niketan-pg-police-denies-allegation/article71469675.ece",
+     "summary": "",
+     "published": "2026-09-15T19:44:17+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "f022e9fdd61d",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Explosion In Bengal's Rejinagar Ahead Of Bypolls, Cops Recover Bombs",
      "url": "https://www.ndtv.com/india-news/explosion-in-bengals-rejinagar-ahead-of-bypolls-cops-recover-bombs-12051579#publisher=newsstand",
@@ -117,31 +145,39 @@
      "from_section": "National News"
     },
     {
-     "title": "Deported From US, Lawrence Bishnoi Gang Member In Punjab Police Custody",
-     "url": "https://www.ndtv.com/india-news/deported-from-us-lawrence-bishnoi-gang-member-in-punjab-police-custody-12051466#publisher=newsstand",
-     "summary": "The accused, Karamveer Singh, a resident of Bahadur Ke village in Ludhiana, was arrested by the AGTF team at Indira Gandhi International (IGI) Airport, New Delhi, upon his arrival",
-     "published": "2026-09-15T18:10:22+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7q876ci8_karamjeet-singh-faced-covered-in-punjab-police-custody-at-the-delhi-airport_625x300_15_September_26.jpeg",
-     "licence": "linkout",
-     "id": "2bb5747b6572",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "South African president vows justice as more women's bodies found near Johannesburg",
-     "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-     "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
-     "published": "2026-09-15T18:01:51+00:00",
+     "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+     "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+     "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+     "published": "2026-09-15T16:13:41+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df85/live/639ca450-b10c-11f1-9065-997784e11373.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg",
      "licence": "linkout",
-     "id": "2d8e1e0e96fd",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "2469d74a55e2",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Tanker hit by projectile near Strait of Hormuz was operating in ‘dark mode’",
+       "url": "https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece",
+       "summary": "Photos of the ship from September 13 indicate that the engine room was attacked and damaged by the projectile; the tanker had 25 crew members on board: 14 Indian and 11 Pakistani nationals."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+     "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+     "summary": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+     "published": "2026-09-15T19:59:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2018-06-06T133139Z_447411981_RC15C9ECF920_RTRMADP_3_NATO-RUSSIA-EXERCISE-1789006576.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1f5e0e1b3a64",
+     "category": "conflict",
+     "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
@@ -157,34 +193,6 @@
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
-    },
-    {
-     "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-     "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-     "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-     "published": "2026-09-15T16:13:41+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg",
-     "licence": "linkout",
-     "id": "2469d74a55e2",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Does artificial intelligence change the nature of war?",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGh6SnJIclF1X3VYUlhfcGkzWWhjN0dWblEwbFoteVBNR1R4ZldISzZsSGVYUFE1WFEtZFVRUTFzVnRyT1ZPTUZQY3A4WGk5ZVlZTXI5ajQ1SWRyTlJEazJIYW1mbUVyVHhjeGUtWGdxNGxXUVlKWWttWElVNTczQnktWWFGd3lkWWFxY1l3VURfdXlQNW4wVXpHa2oxZURfWFNMWUx6LWFOZw?oc=5",
-     "summary": "Does artificial intelligence change the nature of war? PubAffairs Bruxelles",
-     "published": "2026-09-15T09:56:57+00:00",
-     "source": "PubAffairs Bruxelles",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5c1a8df02dff",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Technology"
     },
     {
      "title": "School assembly news headlines today- September 16: Top national, sports and world news curated for you",
@@ -209,20 +217,6 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "Udhayanidhi condemns TVK-led govt. over attempt to ‘paralyse’ High Level Committee on Union-State Relations",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-condemns-tvk-led-govt-over-attempt-to-paralyse-high-level-committee-on-union-state-relations/article71469408.ece",
-     "summary": "The Committee was constituted during the previous M.K. Stalin-led DMK govt.; the LoP in T.N. Assembly claimed that the present govt. has created a situation in which the research scholars working on the Committee’s second report were unable to continue their work",
-     "published": "2026-09-15T19:01:00+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t8y8mb/article71469922.ece/alternates/LANDSCAPE_1200/20260907483L.jpg",
-     "licence": "linkout",
-     "id": "4e7d833a3fc5",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
      "title": "Eto’o could face Cameroon probe over alleged Russia payment",
      "url": "https://www.aljazeera.com/sports/2026/9/15/etoo-could-face-cameroon-probe-over-alleged-russia-payment?traffic_source=rss",
      "summary": "Ex-Chelsea and Barcelona striker Samuel Eto'o faces a probe over allegations of embezzlement in his Cameroon FA role.",
@@ -235,6 +229,20 @@
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "Global News"
+    },
+    {
+     "title": "Same mutual fund category, different capital gains tax? How a scheme's portfolio can change your tax bill",
+     "url": "https://www.livemint.com/money/personal-finance/same-mutual-fund-category-different-capital-gains-tax-how-a-schemes-portfolio-can-change-your-tax-bill-11789492976985.html",
+     "summary": "Mutual fund investors cannot always rely on a scheme’s category to determine capital gains tax. The actual portfolio allocation and tax classification can change the holding-period threshold and tax rate. Here’s what investors should check before redeeming.",
+     "published": "2026-09-15T18:24:51+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/capia_tax_1789496587650_dBw3_1789496592274_dpJq_b2db9128-7a8f-4c60-9a6f-d95973ab5248_w0PZ.png",
+     "licence": "linkout",
+     "id": "b2dccc86d4d1",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Business"
     },
     {
      "title": "Power discom is still heavily reliant on Tamil Nadu government’s financial support",
@@ -255,6 +263,23 @@
      ]
     },
     {
+     "title": "5 simple money lessons from The Intelligent Investor by Benjamin Graham: Market moods, picking stocks and more",
+     "url": "https://www.livemint.com/money/personal-finance/5-simple-money-lessons-from-the-intelligent-investor-by-benjamin-graham-market-moods-picking-stocks-and-more-11789496653077.html",
+     "summary": "Benjamin Graham’s The Intelligent Investor advises on understanding investments through careful examination. Check out these 5 simple money lessons from the celebrated book.",
+     "published": "2026-09-15T18:33:20+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/Intel_Investor_1789496874194_fmhl_1789496895170_8ZJe_d5c29934-4126-42a6-8c24-a4925c3b7989_kgkY.jpg",
+     "licence": "linkout",
+     "id": "ea2d78084489",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "5 simple money lessons"
+     ]
+    },
+    {
      "title": "Saudi Pro League Opens New Route To International Fans With Innovative Distribution Model",
      "url": "https://sports.ndtv.com/football/saudi-pro-league-opens-new-route-to-international-fans-with-innovative-distribution-model-12051489#publisher=newsstand",
      "summary": "Saudi Pro League (SPL) has launched an innovative new international distribution model that will take live Roshn Saudi League (RSL) matches directly to fans across 16 markets.",
@@ -267,23 +292,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Sports"
-    },
-    {
-     "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
-     "url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
-     "summary": "Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.",
-     "published": "2026-09-15T18:05:24+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/HSQ1DjVWIAA7YWt-1789484506.jpg?resize=1600%2C1080",
-     "licence": "linkout",
-     "id": "abdc846e45f4",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News",
-     "figures": [
-      "$7bn in two years"
-     ]
     },
     {
      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
@@ -328,42 +336,6 @@
      "from_section": "Culture"
     },
     {
-     "title": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDJUMzlWWUJ3d0t6VE5UTXc4dFhoOHowRkQydnZZd2lyZ3FOclFXV005VE9aT3BMSVN1MEd1ek93TGtLc2F4aVZCM2JHM3lUWjNjQnVEbzJyeEFmT01DQXhyeEhRX1FTVGQ0QzhTVnJJVkNkXzd0VU1YSGZCelZMYkI1SzRBYXJTWVowckp5STZyMkpDeE5vWEhPRHhDRlVGTXJvbHdMRmdRMERoMWpaR1V2RkY1X0c4bEhJaE9fb215dE40a0dVRW1R?oc=5",
-     "summary": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com Investing.com India",
-     "published": "2026-09-15T10:25:50+00:00",
-     "source": "Investing.com India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "3f5edaad6dd2",
-     "also": [
-      {
-       "source": "LinkedIn",
-       "title": "For J.Crew Group CEO Libby Wadle, emerging technology like artificial intelligence should only be used to enhance an existing experience. At the 2026 Fast Company Innovation Festival, Wadle and Chief Information Officer Danielle Schmelkin discussed the",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNE12bnEtVFhtWUUtNkdEdHQ0TDZfM0J4SkkyV2NUYUVRai01dGV6VzB2UWc3TzBDNWFBSDVzOWdUYURTQU5tdzQ0TlNPNHIyOE44ekpVcVdVbUNoWEV3Q2Z2QkpQUWNnV1J1VURqT1RzLW5XbXZKcm01SzNiWjZQYXJMbEd1Y0VhcmRKNnRTdXlTaFA2c216SWxZNXhqMzJnQ3UwZHRJaTAtTUZ0cGRiakVoRFU4b1ZmRkE?oc=5",
-       "summary": "For J.Crew Group CEO Libby Wadle, emerging technology like artificial intelligence should only be used to enhance an existing experience. At the 2026 Fast Company Innovation Festival, Wadle and Chief Information Officer…"
-      }
-     ],
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "For J.Crew Group CEO Libby Wadle, emerging technology like artificial intelligence should only be used to enhance an existing experience. At the 2026 Fast Company Innovation Festival, Wadle and Chief Information Officer Danielle Schmelkin discussed the",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNE12bnEtVFhtWUUtNkdEdHQ0TDZfM0J4SkkyV2NUYUVRai01dGV6VzB2UWc3TzBDNWFBSDVzOWdUYURTQU5tdzQ0TlNPNHIyOE44ekpVcVdVbUNoWEV3Q2Z2QkpQUWNnV1J1VURqT1RzLW5XbXZKcm01SzNiWjZQYXJMbEd1Y0VhcmRKNnRTdXlTaFA2c216SWxZNXhqMzJnQ3UwZHRJaTAtTUZ0cGRiakVoRFU4b1ZmRkE?oc=5",
-     "summary": "For J.Crew Group CEO Libby Wadle, emerging technology like artificial intelligence should only be used to enhance an existing experience. At the 2026 Fast Company Innovation Festival, Wadle and Chief Information Officer Danielle Schmelkin discussed the LinkedIn",
-     "published": "2026-09-15T19:30:42+00:00",
-     "source": "LinkedIn",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e9e5fea800b9",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
      "title": "Tech Life",
      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
      "summary": "What should children learn in a world transformed by artificial intelligence?",
@@ -376,6 +348,55 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
+    },
+    {
+     "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5",
+     "summary": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? The Motley Fool",
+     "published": "2026-09-15T18:16:18+00:00",
+     "source": "The Motley Fool",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "9965d4c1ccb5",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology",
+     "figures": [
+      "5 Years ?",
+      "5 Years ? The Motley Fool"
+     ]
+    },
+    {
+     "title": "Knowtex launches frontier healthcare AI lab",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXF3V2pmVHNteGtpQzFIdzBEU3dYbzVlQXVzV0w3QlBoTnRhZmxic3ZsUFRIWnJsMm1CdDhpcnY4ekFaWTVOVlBoVVFHSVMwTlZkcVRpeURnbWgyeDdjc1Axazc5UTVBOUFsYWRocTZLWjFFcGhJdEVCcUhsSlR5NTVLa1RSNDlhZExZZDJhNDdVbWdzdTRKYVNFQzBLYnFEckE?oc=5",
+     "summary": "Knowtex launches frontier healthcare AI lab fiercehealthcare.com",
+     "published": "2026-09-15T12:58:48+00:00",
+     "source": "fiercehealthcare.com",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "878c1db696a5",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "Asian Games 2026: J&K govt. allows Mir Bilquis to travel after SC intervention; to coach Indian kayaking, canoeing team",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/asian-games-2026-jk-govt-allowsmir-bilquis-to-travel-after-sc-intervention-to-coach-indian-kayaking-canoeing-team/article71469442.ece",
+     "summary": "The Supreme Court on September 10 issued an order in favour of the sportsperson and quashed an official order denying her permission, citing pending departmental inquiries and service conditions.",
+     "published": "2026-09-15T19:35:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/quui5e/article71469934.ece/alternates/LANDSCAPE_1200/12205_1_11_2024_15_18_31_2_02_SPOTLIGHT_SGR_01_11_2024.JPG",
+     "licence": "linkout",
+     "id": "94f81f1d9dbe",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "National News",
+     "figures": [
+      "10 issued an order in favour"
+     ]
     },
     {
      "title": "India beat Afghanistan by seven wickets to seal T20 series",
@@ -447,7 +468,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-15T20:02:29.440076+00:00",
+     "published": "2026-09-15T20:33:57.541095+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -458,7 +479,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-15T20:02:29.440114+00:00",
+     "published": "2026-09-15T20:33:57.541103+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +490,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-15T20:02:29.440120+00:00",
+     "published": "2026-09-15T20:33:57.541106+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -480,7 +501,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-15T20:02:29.440125+00:00",
+     "published": "2026-09-15T20:33:57.541108+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -491,7 +512,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-15T20:02:29.440130+00:00",
+     "published": "2026-09-15T20:33:57.541110+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -502,7 +523,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-15T20:02:29.440135+00:00",
+     "published": "2026-09-15T20:33:57.541111+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -596,86 +617,47 @@
    "upsc": false,
    "items": [
     {
-     "title": "Power discom is still heavily reliant on Tamil Nadu government’s financial support",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/power-discom-is-still-heavily-reliant-on-tamil-nadu-governments-financial-support/article71469229.ece",
-     "summary": "In the 14 years since 2013-14, the government aid, both in the form of tariff subsidy and grants, has accounted for ₹2.55 lakh crore",
-     "published": "2026-09-15T19:28:28+00:00",
+     "title": "Meta to share child safety information directly with Indian agencies",
+     "url": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
+     "summary": "So far, this information has been shared with the U.S.-based National Center for Missing & Exploited Children, which has in turn shared India-specific CSAM reports with the National Crime Records Bureau (NCRB)",
+     "published": "2026-09-15T20:14:21+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ldmk3n/article71469937.ece/alternates/LANDSCAPE_1200/IMG_1693_15_4_2022_22_32_2_1_F0DB6E2H.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/yi1pba/article71467026.ece/alternates/LANDSCAPE_1200/2026-08-31T131640Z_168717986_RC29C3A1CNFM_RTRMADP_3_META-INDIA-ADVERTISING.JPG",
      "licence": "linkout",
-     "id": "740f06c367ee",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "37b4823c2a3f",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece",
+     "summary": "The flight 6E6504 landed safely at Lucknow Airport at 6.29 p.m. with 103 passengers and 6 crew members, airport authorities said, adding that no untoward incident was reported",
+     "published": "2026-09-15T20:01:30+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/5u23pv/article71469965.ece/alternates/LANDSCAPE_1200/2026-07-31T171529Z_1870997828_RC2E81AJQ7DE_RTRMADP_3_INDIGO-AIRCRAFT-OPERATIONS.JPG",
+     "licence": "linkout",
+     "id": "c757c02e2496",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "14 years since 2013-14, the government",
-      "₹2.55 lakh crore"
+      "103 passengers and 6 crew members",
+      "6 crew members, airport authorities"
      ]
     },
     {
-     "title": "MMC, Rotary Club provide five pink autos to women",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/mmc-rotary-club-provide-five-pink-autos-to-women/article71469714.ece",
+     "title": "AAP alleges cover-up in girl’s death at a Satya Niketan PG; police denies allegation",
+     "url": "https://www.thehindu.com/news/cities/Delhi/aap-alleges-cover-up-in-girls-death-at-a-satya-niketan-pg-police-denies-allegation/article71469675.ece",
      "summary": "",
-     "published": "2026-09-15T19:18:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/q1xs5d/article71469766.ece/alternates/LANDSCAPE_1200/Pix%202.jpeg",
-     "licence": "linkout",
-     "id": "d2590d5fcb60",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "IIT Palakkad researchers develop sensors for faster heparin monitoring",
-     "url": "https://www.thehindu.com/news/national/kerala/iit-palakkad-researchers-develop-sensors-for-faster-heparin-monitoring/article71468718.ece",
-     "summary": "Accurate dosing of heparin, an anticoagulant used in cardiac surgery, dialysis etc., is important because too little of it can lead to clotting, while too much can cause excessive bleeding",
-     "published": "2026-09-15T19:17:33+00:00",
+     "published": "2026-09-15T19:44:17+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "1c10b045b0d5",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Tanker hit by projectile near Strait of Hormuz was operating in ‘dark mode’",
-     "url": "https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece",
-     "summary": "Photos of the ship from September 13 indicate that the engine room was attacked and damaged by the projectile; the tanker had 25 crew members on board: 14 Indian and 11 Pakistani nationals.",
-     "published": "2026-09-15T19:03:57+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/jp18gt/article71469915.ece/alternates/LANDSCAPE_1200/tanker.jpg",
-     "licence": "linkout",
-     "id": "bcc517d3b078",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-       "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-       "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
-      }
-     ],
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "13 indicate that the engine room",
-      "25 crew members on board: 14",
-      "14 Indian and 11 Pakistani nationals"
-     ]
-    },
-    {
-     "title": "Man held for damaging temple idols in Tirupattur",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-damaging-temple-idols-in-tirupattur/article71468255.ece",
-     "summary": "The CCTV camera footage showed him entering the temple and hastily leaving the premises",
-     "published": "2026-09-15T19:02:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/gcbv81/article71468457.ece/alternates/LANDSCAPE_1200/idol-3.jpg",
-     "licence": "linkout",
-     "id": "1be77ce97362",
-     "category": "general",
-     "category_label": "General"
+     "id": "f022e9fdd61d",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "AIUDF Chief Badruddin Ajmal To Contest Lok Sabha Bypoll From Assam's Nagaon",
@@ -715,6 +697,19 @@
      "id": "f34570fc71c1",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "Deported From US, Lawrence Bishnoi Gang Member In Punjab Police Custody",
+     "url": "https://www.ndtv.com/india-news/deported-from-us-lawrence-bishnoi-gang-member-in-punjab-police-custody-12051466#publisher=newsstand",
+     "summary": "The accused, Karamveer Singh, a resident of Bahadur Ke village in Ludhiana, was arrested by the AGTF team at Indira Gandhi International (IGI) Airport, New Delhi, upon his arrival",
+     "published": "2026-09-15T18:10:22+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/7q876ci8_karamjeet-singh-faced-covered-in-punjab-police-custody-at-the-delhi-airport_625x300_15_September_26.jpeg",
+     "licence": "linkout",
+     "id": "2bb5747b6572",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -724,6 +719,19 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+     "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+     "summary": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+     "published": "2026-09-15T19:59:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2018-06-06T133139Z_447411981_RC15C9ECF920_RTRMADP_3_NATO-RUSSIA-EXERCISE-1789006576.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1f5e0e1b3a64",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
     {
      "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
      "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
@@ -749,19 +757,6 @@
      "id": "1abe1fcc77a0",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Eto’o could face Cameroon probe over alleged Russia payment",
-     "url": "https://www.aljazeera.com/sports/2026/9/15/etoo-could-face-cameroon-probe-over-alleged-russia-payment?traffic_source=rss",
-     "summary": "Ex-Chelsea and Barcelona striker Samuel Eto'o faces a probe over allegations of embezzlement in his Cameroon FA role.",
-     "published": "2026-09-15T18:35:40+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/12231356-1789495944.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "e2a9eff02249",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Denmark says Russian warship fired flares at military helicopter",
@@ -801,6 +796,19 @@
      "id": "aee33949b0ea",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "South African president vows justice as more women's bodies found near Johannesburg",
+     "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+     "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
+     "published": "2026-09-15T18:01:51+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df85/live/639ca450-b10c-11f1-9065-997784e11373.jpg",
+     "licence": "linkout",
+     "id": "2d8e1e0e96fd",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -874,21 +882,47 @@
    "upsc": false,
    "items": [
     {
-     "title": "Power discom is still heavily reliant on Tamil Nadu government’s financial support",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/power-discom-is-still-heavily-reliant-on-tamil-nadu-governments-financial-support/article71469229.ece",
-     "summary": "In the 14 years since 2013-14, the government aid, both in the form of tariff subsidy and grants, has accounted for ₹2.55 lakh crore",
-     "published": "2026-09-15T19:28:28+00:00",
+     "title": "Meta to share child safety information directly with Indian agencies",
+     "url": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
+     "summary": "So far, this information has been shared with the U.S.-based National Center for Missing & Exploited Children, which has in turn shared India-specific CSAM reports with the National Crime Records Bureau (NCRB)",
+     "published": "2026-09-15T20:14:21+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ldmk3n/article71469937.ece/alternates/LANDSCAPE_1200/IMG_1693_15_4_2022_22_32_2_1_F0DB6E2H.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/yi1pba/article71467026.ece/alternates/LANDSCAPE_1200/2026-08-31T131640Z_168717986_RC29C3A1CNFM_RTRMADP_3_META-INDIA-ADVERTISING.JPG",
      "licence": "linkout",
-     "id": "740f06c367ee",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "37b4823c2a3f",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece",
+     "summary": "The flight 6E6504 landed safely at Lucknow Airport at 6.29 p.m. with 103 passengers and 6 crew members, airport authorities said, adding that no untoward incident was reported",
+     "published": "2026-09-15T20:01:30+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/5u23pv/article71469965.ece/alternates/LANDSCAPE_1200/2026-07-31T171529Z_1870997828_RC2E81AJQ7DE_RTRMADP_3_INDIGO-AIRCRAFT-OPERATIONS.JPG",
+     "licence": "linkout",
+     "id": "c757c02e2496",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "14 years since 2013-14, the government",
-      "₹2.55 lakh crore"
+      "103 passengers and 6 crew members",
+      "6 crew members, airport authorities"
      ]
+    },
+    {
+     "title": "AAP alleges cover-up in girl’s death at a Satya Niketan PG; police denies allegation",
+     "url": "https://www.thehindu.com/news/cities/Delhi/aap-alleges-cover-up-in-girls-death-at-a-satya-niketan-pg-police-denies-allegation/article71469675.ece",
+     "summary": "",
+     "published": "2026-09-15T19:44:17+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "f022e9fdd61d",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "MMC, Rotary Club provide five pink autos to women",
@@ -917,30 +951,22 @@
      "category_label": "General"
     },
     {
-     "title": "Man electrocuted, nine others injured in Ranipet",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/man-electrocuted-nine-others-injured-in-ranipet/article71468263.ece",
-     "summary": "The deceased was a resident of Arumbakkam village",
-     "published": "2026-09-15T19:01:59+00:00",
+     "title": "Tanker hit by projectile near Strait of Hormuz was operating in ‘dark mode’",
+     "url": "https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece",
+     "summary": "Photos of the ship from September 13 indicate that the engine room was attacked and damaged by the projectile; the tanker had 25 crew members on board: 14 Indian and 11 Pakistani nationals.",
+     "published": "2026-09-15T19:03:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/8pqtj0/article71469915.ece/alternates/LANDSCAPE_1200/tanker.jpg",
      "licence": "linkout",
-     "id": "5f99c123dd15",
+     "id": "bcc517d3b078",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Six States, UT sign Kishau multipurpose project agreement; CM Sukhu hails ‘major victory’ for Himachal",
-     "url": "https://www.thehindu.com/news/national/himachal-pradesh/six-states-ut-sign-kishau-multipurpose-project-agreement-cm-sukhu-hails-major-victory-for-himachal/article71468268.ece",
-     "summary": "The project will come up on the Tons river along the Uttarakhand-Himachal Pradesh border",
-     "published": "2026-09-15T18:46:03+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/other-states/2k7q2i/article71469031.ece/alternates/LANDSCAPE_1200/IMG.jpg.jpeg",
-     "licence": "linkout",
-     "id": "24d73a935d98",
-     "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "13 indicate that the engine room",
+      "25 crew members on board: 14",
+      "14 Indian and 11 Pakistani nationals"
+     ]
     },
     {
      "title": "Today News Headlines for School Assembly, September 16, 2026: Government quells extra charges on UPI payments up to Rs 2,000",
@@ -1475,6 +1501,53 @@
      "id": "6dbbd0162ae7",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "More households are moving up the income ladder: How India's wealth pyramid could change by FY31",
+     "url": "https://www.livemint.com/money/personal-finance/more-households-are-moving-up-the-income-ladder-how-indias-wealth-pyramid-could-change-by-fy31-11789498698163.html",
+     "summary": "India’s income pyramid is shifting rapidly, with millions of households moving into higher-income brackets. As earnings rise, spending patterns, savings, and investment behaviour are also changing.&nbsp;",
+     "published": "2026-09-15T19:55:32+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/hosudheil_1789502013032_Tgt6_1789502018142_7qVK_f1df4004-729a-4e36-acc1-7112c4213abe_tuy7.png",
+     "licence": "linkout",
+     "id": "6bab68c4f2f4",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Government clarifies credit card-linked UPI payments exempt from 0.4% fee",
+     "url": "https://www.livemint.com/money/personal-finance/government-clarifies-credit-card-linked-upi-payments-exempt-from-0-4-fee-11789493644530.html",
+     "summary": "The clarification comes ahead of the revised UPI fee structure, which is scheduled to take effect from October 15. Under the new framework, a 0.4% MDR will be applicable to certain direct account-to-merchant-account UPI payments above ₹2,000, with the fee capped at ₹300 per transaction",
+     "published": "2026-09-15T18:26:21+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/creditcard_1789495021998_tNej_1789495022219_wAUk_381c9001-a3ae-4009-9d2c-28a51a4c7566_8HAb.jpg",
+     "licence": "linkout",
+     "id": "e17cbbb1bc78",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "15. Under the new framework",
+      "₹2,000,  with the fee capped",
+      "₹300  per transaction"
+     ]
+    },
+    {
+     "title": "NPS Vatsalya: Rules for withdrawal and exit from scheme, explained",
+     "url": "https://www.livemint.com/money/personal-finance/nps-vatsalya-children-pension-scheme-parents-investment-eligibility-rules-partial-withdrawal-exit-from-scheme-explained-11789489839226.html",
+     "summary": "National pension scheme: The NPS Vatsalya Scheme allows children below 18 years to partially withdraw funds from their accounts under certain circumstances. We take a look at the process and how it works…",
+     "published": "2026-09-15T18:03:15+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/NPS_Vatsalya_1789495307387_Ui2C_1789495322668_DLSi_8b4e303b-8b50-4f8b-a586-e86e8c01ab0c_1McN.png",
+     "licence": "linkout",
+     "id": "7d3e14d428a6",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "18 years to partially withdraw funds"
+     ]
     }
    ]
   },
@@ -1513,9 +1586,9 @@
     {
      "title": "McKinsey Technology Trends Outlook 2026",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5",
-     "summary": "McKinsey Technology Trends Outlook 2026 mckinsey.com",
+     "summary": "McKinsey Technology Trends Outlook 2026 McKinsey & Company",
      "published": "2026-09-15T14:50:31+00:00",
-     "source": "mckinsey.com",
+     "source": "McKinsey & Company",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1524,17 +1597,30 @@
      "category_label": "General"
     },
     {
-     "title": "Knowtex launches frontier healthcare AI lab",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXF3V2pmVHNteGtpQzFIdzBEU3dYbzVlQXVzV0w3QlBoTnRhZmxic3ZsUFRIWnJsMm1CdDhpcnY4ekFaWTVOVlBoVVFHSVMwTlZkcVRpeURnbWgyeDdjc1Axazc5UTVBOUFsYWRocTZLWjFFcGhJdEVCcUhsSlR5NTVLa1RSNDlhZExZZDJhNDdVbWdzdTRKYVNFQzBLYnFEckE?oc=5",
-     "summary": "Knowtex launches frontier healthcare AI lab Fierce Healthcare",
-     "published": "2026-09-15T12:58:48+00:00",
-     "source": "Fierce Healthcare",
+     "title": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDJUMzlWWUJ3d0t6VE5UTXc4dFhoOHowRkQydnZZd2lyZ3FOclFXV005VE9aT3BMSVN1MEd1ek93TGtLc2F4aVZCM2JHM3lUWjNjQnVEbzJyeEFmT01DQXhyeEhRX1FTVGQ0QzhTVnJJVkNkXzd0VU1YSGZCelZMYkI1SzRBYXJTWVowckp5STZyMkpDeE5vWEhPRHhDRlVGTXJvbHdMRmdRMERoMWpaR1V2RkY1X0c4bEhJaE9fb215dE40a0dVRW1R?oc=5",
+     "summary": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com Investing.com India",
+     "published": "2026-09-15T10:25:50+00:00",
+     "source": "Investing.com India",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "878c1db696a5",
+     "id": "3f5edaad6dd2",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Does artificial intelligence change the nature of war?",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGh6SnJIclF1X3VYUlhfcGkzWWhjN0dWblEwbFoteVBNR1R4ZldISzZsSGVYUFE1WFEtZFVRUTFzVnRyT1ZPTUZQY3A4WGk5ZVlZTXI5ajQ1SWRyTlJEazJIYW1mbUVyVHhjeGUtWGdxNGxXUVlKWWttWElVNTczQnktWWFGd3lkWWFxY1l3VURfdXlQNW4wVXpHa2oxZURfWFNMWUx6LWFOZw?oc=5",
+     "summary": "Does artificial intelligence change the nature of war? PubAffairs Bruxelles",
+     "published": "2026-09-15T09:56:57+00:00",
+     "source": "PubAffairs Bruxelles",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "5c1a8df02dff",
+     "category": "conflict",
+     "category_label": "War & conflict"
     }
    ]
   },
