@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T12:42:39.778929+00:00",
+ "generated_at": "2026-09-16T13:05:43.604926+00:00",
  "podcasts_fetched_at": "2026-09-15T23:33:03.652231+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 122595.0,
    "change": -727.0,
    "changePct": -0.59,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,15 +84,15 @@
   }
  ],
  "topics": [
-  "Renukaswamy Prison",
-  "Convicts Death",
+  "Hair Ganesh",
+  "Bengaluru",
   "Jazeera English",
   "News",
   "Search",
   "Alex Saab",
-  "Naidu Venkateswara",
-  "Gaza City",
-  "Sweden",
+  "Puja Astrologer",
+  "What BRICS",
+  "Sanders Bannon",
   "Philippines Duterte"
  ],
  "sections": [
@@ -101,6 +102,37 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Hair caught in generator, 11-year-old girl dies at Ganesh procession in Chittoor",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/hair-caught-in-generator-11-year-old-girl-dies-at-ganesh-procession-in-chittoor/article71472344.ece",
+     "summary": "Prasanna Sri was sitting beside the generator set that lit the procession at Damarapakam village, Nagari police say; she died on the way to hospital in Tirupati",
+     "published": "2026-09-16T12:51:38+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/f2km6m/article71467097.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
+     "licence": "linkout",
+     "id": "172b94d09c51",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "11,346 seized vehicles clogging Bengaluru police stations to be shifted",
+     "url": "https://www.thehindu.com/news/cities/bangalore/11346-seized-vehicles-clogging-bengaluru-police-stations-to-be-shifted/article71472027.ece",
+     "summary": "The accumulation of vehicles has not only created a shortage of space at police stations but has also resulted in vehicles spilling onto roads and footpaths",
+     "published": "2026-09-16T12:46:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/k680j/article71472527.ece/alternates/LANDSCAPE_1200/Seized%20vehicle_11.jpg",
+     "licence": "linkout",
+     "id": "d07ee2a24357",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "11,346 seized vehicles clogging Bengaluru police"
+     ]
+    },
     {
      "title": "Renukaswamy murder case accused bypassed rules to speak to his wife, warder assisted him: Prison officials",
      "url": "https://www.thehindu.com/news/national/karnataka/renukaswamy-murder-case-accused-bypassed-rules-to-speak-to-his-wife-warder-assisted-him-prison-officials/article71472133.ece",
@@ -113,38 +145,7 @@
      "id": "8d8d8c9a4cfe",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "10 Convicts Get Death In 2013 Maoist Attack In Chhattisgarh That Killed 29",
-     "url": "https://www.ndtv.com/india-news/all-10-convicts-sentenced-to-death-in-2013-maoist-attack-in-bastars-jhiram-valley-that-killed-29-12054638#publisher=newsstand",
-     "summary": "The Congress leadership in the state had virtually been wiped out in the ambush.",
-     "published": "2026-09-16T12:21:49+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-03/825mc908_jhiram-ghati-memorial_625x300_29_March_26.jpeg",
-     "licence": "linkout",
-     "id": "0140acde117e",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "10 Convicts Get Death In 2013"
-     ]
-    },
-    {
-     "title": "Journalist Satyam Verma's bail plea in Noida workers’ protest case: What is the principle of parity in bail cases? | Explained",
-     "url": "https://www.thehindu.com/news/national/journalist-satyam-vermas-bail-plea-in-noida-workers-protest-case-what-is-the-principle-of-parity-in-bail-cases-explained/article71472013.ece",
-     "summary": "The Court had observed that in deciding the aspect of parity, the role attached to the accused, their position in relation to the incident and to the victims is of utmost importance",
-     "published": "2026-09-16T12:10:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pf1c0p/article71472036.ece/alternates/LANDSCAPE_1200/satyam.jpg",
-     "licence": "linkout",
-     "id": "32c07fde4d0b",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
@@ -179,43 +180,54 @@
      "from_section": "Global News"
     },
     {
-     "title": "US set to approve 60,000 heavy bombs for Israel: What that means",
-     "url": "https://www.aljazeera.com/features/2026/9/16/us-set-to-approve-60000-heavy-bombs-for-israel-what-that-means?traffic_source=rss",
-     "summary": "The package of 2,000-pound bombs comes amid Israel's genocidal war on Gaza and its occupation of southern Lebanon.",
-     "published": "2026-09-16T12:09:45+00:00",
-     "source": "Al Jazeera",
+     "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+     "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+     "published": "2026-09-15T20:34:12+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-05-06T192344Z_2020859353_RC2P34ANHY4Q_RTRMADP_3_USA-PULITZER-1718251599.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
      "licence": "linkout",
-     "id": "602588da0a51",
+     "id": "83c9ff637cd4",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Global News",
-     "figures": [
-      "60,000 heavy bombs for Israel: What"
-     ]
+     "from_section": "Global News"
     },
     {
-     "title": "\"Mockery Of Democracy\": Madras High Court On MLAs Resigning To Seek Re-Election",
-     "url": "https://www.ndtv.com/india-news/mockery-of-democracy-madras-high-court-on-mlas-resigning-to-seek-re-election-12054717#publisher=newsstand",
-     "summary": "The observation comes after the ruling TVK fielded two former AIADMK MLAs who resigned from their seats to jump ship, for the upcoming bypolls from the same seats.",
-     "published": "2026-09-16T12:05:34+00:00",
-     "source": "NDTV",
+     "title": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbFpxVGJ1eDZmUVlaY0Y3TjJFN1JESnBfd3dBd204bGhneVR3SzJpcGFQc25QS0NwUkUxYTktR09ZNjBZdG94NVVDcVhFbEFHSWtIbkhGTjFyaU9HTklTZzd4Yi1JSURITk13ME9ySG5SbW12WTB4bGJhbnEyUWxlMzctSzl0WUtwdjNtOVJjTmg0X1ZOVkw3d3VRcVpNUmYzR3NNcGtWdVF5N01kYl9qMDczTTZQaVRMbmxKRU5rTEswalZYbENWSE1WcnBEcGFOcVJYT29EdDZybGxWcU5lVWsyRnJGZGg2XzFiSHlLSmg2NUlSUzljc2I0V29mbm5uc2RDQ9IBiwJBVV95cUxPN19FQTdCTWYwQVJSajFlMG1POFdZYUh5ZXR2d3dvcU9BakFiM2ZVMy1wOTgzY3NwU2JXLTJHbjhwa2gyM2tDYllOMzBYX3duM1VBdlB6ZVo1a3FSajdaZXBvbTFfWjhzdzE4dzZkWjhFanVuNWJBbXBEdXU2Y0xja2FXOVhGaTdOdkk3X1g5Y2c3aVk3NWkwMWtHRHJHbU1WRExGdmlOTVlGTEVjcTh5aUxfNU81eXd6dVBuMmhFNU4tb3JuWms0S1lFUnIyVHFoRTlrREdBTmQ1Yl81NS0wWFJxUmFDcjRyMEFseVNtM2hjWjF2bHZBNWRlLUkyVmVXWHV5RlFLOHJsNms?oc=5",
+     "summary": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision The Indian Express",
+     "published": "2026-09-16T11:14:16+00:00",
+     "source": "The Indian Express",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-06/udiuuvcc_madras-high-court_625x300_19_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": null,
      "licence": "linkout",
-     "id": "f85f1fc3ebd3",
+     "id": "a4fa595f6ef4",
      "also": [
       {
-       "source": "The Hindu",
-       "title": "Only Prime Minister’s Office can grant sanction to prosecute IAS officers, Centre tells Madras High Court",
-       "url": "https://www.thehindu.com/news/national/tamil-nadu/only-prime-ministers-office-can-grant-sanction-to-prosecute-ias-officers-centre-tells-madras-high-court/article71471713.ece",
-       "summary": "Justice N. Anand Venkatesh records the submission and grants two months’ time to obtain sanction against IAS officers K.S. Kandasamy and K. Vijaya Karthikeyan in the ₹98.25-crore corporation tender irregularities case…"
+       "source": "India Today",
+       "title": "School assembly news headlines today- September 17: Top national, sports and world news curated for you",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWEljQURWS0FTdnJ4WGRJWHBRRUIwX2FreVhZSkpjQ0JWNTIyMEw3NF9OaU14RnkzRFJ2bDRSbU85dVJNZXFmNmlKNWgzZk9BbUgtd3RkQ2dvU3hWNDJJbHRkR3VDVG54dHByTWU2aWtMVlZ1NEpSSkdXLTUtMVA1b2s4NWJ0WXh1cTBnc2FpM0hoYnZ1VS0zME9CMEtIVjFERXk0SVYta0F5akpCcUY1V2M5ZXF1UFRHd080Z3BEeFFPZ2l5Z2pONE1pVk9YM0o5WHFyTllQLUJyaW1XdE82SW80bDZyWG1u?oc=5",
+       "summary": "School assembly news headlines today- September 17: Top national, sports and world news curated for you India Today"
       }
      ],
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Pakistan Cricket In Turmoil? Aaqib Javed Responds To Removal Reports With Blunt Message",
+     "url": "https://sports.ndtv.com/cricket/pakistan-cricket-in-turmoil-aaqib-javed-responds-to-removal-reports-with-blunt-message-12052323#publisher=newsstand",
+     "summary": "Pakistan national selector Aaqib Javed on Tuesday dismissed reports of his impending resignation or removal from the Pakistan Cricket Board (PCB) as \"fake news\".",
+     "published": "2026-09-16T12:47:02+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-08/mq1ic098_aaqib-javed-xranaahm01973563_625x300_17_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8469a364ca5a",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Sports"
     },
     {
      "title": "EU chief backs plan for Canada to become 'associate member'",
@@ -224,7 +236,7 @@
      "published": "2026-09-16T12:36:51+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b431/live/3960b020-b1b9-11f1-bdcf-d393eb724fa3.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "418e8514211b",
      "category": "politics",
@@ -232,18 +244,21 @@
      "from_section": "Global News"
     },
     {
-     "title": "In Sweden, many breathe sigh of relief as far right suffers election losses",
-     "url": "https://www.aljazeera.com/features/2026/9/16/in-sweden-many-breathe-sigh-of-relief-as-far-right-suffers-election-losses?traffic_source=rss",
-     "summary": "The election is tight, but one result is clear: the Sweden Democrats' bid to turn hate into votes failed.",
-     "published": "2026-09-16T12:22:25+00:00",
-     "source": "Al Jazeera",
+     "title": "‘Puja’ scam: Astrologer on run after allegedly duping woman of 39g gold",
+     "url": "https://www.thehindu.com/news/national/karnataka/puja-scam-astrologer-on-run-after-allegedly-duping-woman-of-39g-gold/article71472040.ece",
+     "summary": "The case was registered on September 7 under Section 318(4) of the Bharatiya Nyaya Sanhita (BNS), 2023, which deals with cheating and dishonestly induces a person to hand over property or valuable security.",
+     "published": "2026-09-16T12:58:58+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/DSCF8806-1789506575.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/gloc7v/article71472600.ece/alternates/LANDSCAPE_1200/IMG_bl2_promo_gold_2_1_IA8R1B89.jpg",
      "licence": "linkout",
-     "id": "b539d1079732",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
+     "id": "c6a6dc941154",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "7 under Section 318(4)"
+     ]
     },
     {
      "title": "Petrol and diesel price rises push UK inflation higher",
@@ -277,18 +292,32 @@
      ]
     },
     {
-     "title": "Your FD and debt fund may face the same tax, here’s what should decide where you invest",
-     "url": "https://www.livemint.com/money/personal-finance/your-fd-and-debt-fund-may-face-the-same-tax-here-s-what-should-decide-where-you-invest-11789549926176.html",
-     "summary": "Debt funds and FDs may face the same slab-rate taxation, but they differ significantly in return certainty, liquidity and market risk. FundsIndia CEO Rishabh Garg explains when investors should favour the certainty of FDs and when short-duration or liquid debt funds may fit better.",
-     "published": "2026-09-16T09:23:34+00:00",
-     "source": "Mint",
+     "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
+     "summary": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades.",
+     "published": "2026-09-16T11:09:20+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/Gemini_Genrated_Image_keap4ckeap4ckeap_17895504_1789550412070_sqMd_1789550412269_KGJx_c3b17ebc-cb9b-4714-9f95-dbbb15990b07_1bDS.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7462/live/9fd94070-b1b8-11f1-bdcf-d393eb724fa3.jpg",
      "licence": "linkout",
-     "id": "51c821c9b336",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
+     "id": "56f5ac3ecc36",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Culture"
+    },
+    {
+     "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+     "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+     "summary": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
+     "published": "2026-09-15T22:04:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2e/live/510c03c0-b1a8-11f1-b1d1-571ed4d7ff2c.jpg",
+     "licence": "linkout",
+     "id": "f0eb87690eef",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Culture"
     },
     {
      "title": "At least 20 killed as multi-storey building collapses in Gaza City",
@@ -330,22 +359,18 @@
      "from_section": "Culture"
     },
     {
-     "title": "\"We Are Very Optimistic\": Jerry Jones Backs Dallas Cowboys After Week 1 Loss, But How Much Can They Improve?",
-     "url": "https://sports.ndtv.com/us-nfl/we-are-very-optimistic-jerry-jones-backs-dallas-cowboys-after-new-york-giants-loss-but-how-much-can-they-improve-12054264#publisher=newsstand",
-     "summary": "The Cowboys suffered a tough Week 1 loss to the Giants, but Jerry Jones remains confident Dallas can improve after its defensive struggles.",
-     "published": "2026-09-16T10:59:12+00:00",
-     "source": "NDTV Sports",
+     "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+     "summary": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
+     "published": "2026-09-16T02:40:51+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/cdtoinvk_jerry-jones_625x300_16_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1676/live/f786d6b0-b182-11f1-aa3a-41a86a30db69.jpg",
      "licence": "linkout",
-     "id": "695a2f20274b",
+     "id": "e3c4d24d7f40",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "Sports",
-     "figures": [
-      "1 Loss , But How Much",
-      "1 loss to the Giants"
-     ]
+     "from_section": "Global Hotline"
     },
     {
      "title": "'Will Work For All': AIDUF Chief After Filing Nomination For Nagaon Bypolls",
@@ -362,6 +387,34 @@
      "from_section": "National News"
     },
     {
+     "title": "Europe still needs to do more to provide real artificial intelligence reassurance",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9fWDZGM3pyNzVkMWJPSzhqWTljT2hxY2VEX1BUY3ZvVDljTVU1REF1dVVEZHUxR3pMaXlkWGxyUEp2MG8xby1HX1VhM2c4ZFlhcGg1bjdTMUpVbElhbHc5ZlI4bi02eXFxdlQxbGJfX1Nzay1rQkhabVJsM1otWnpVWmNYUDhIRWpPNWExQUM5d29URGdGUWNHeTY2VTFtYW9keW5SNGFqVW5HRlVMUnln?oc=5",
+     "summary": "Europe still needs to do more to provide real artificial intelligence reassurance Bruegel",
+     "published": "2026-09-16T13:01:13+00:00",
+     "source": "Bruegel",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "80cdbe81b8c2",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "US political rivals Sanders and Bannon unite on AI warning",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss",
+     "summary": "US senator Bernie Sanders and Donald Trump’s former adviser Steve Bannon have united to warn against the dangers of AI.",
+     "published": "2026-09-16T12:39:47+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789562085.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "881fdef4b5d8",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Global News"
+    },
+    {
      "title": "Form 8K Artificial Intelligence Technology Solutions For: 16 September By Investing.com",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2pRUGtSQlJNUDBrNmZJaF9Xblh2MzRLT2NBWjRUUjd5ckdhbFBDdm5qdnBWdnBpdUZtVVEwRTRqN2xtX2hsQjhMcWZPUVlZeDVzcWZzcXpWR1FRY1ZhZ0ROcWlHQ29ObnA0YXhaVVJWMG43S0Z1azRONk9hb0t3TnVCXzZwbjdMSEloZHY0dzFVcFkyLWFfbUNDbGFOXzcwQUZvYWhubXppWUhXR05QTmt1Y0tyMWNCS1VxVnpJRlpLNXJFUjdHaWJR?oc=5",
      "summary": "Form 8K Artificial Intelligence Technology Solutions For: 16 September By Investing.com Investing.com India",
@@ -376,43 +429,43 @@
      "from_section": "Technology"
     },
     {
-     "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-     "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-     "published": "2026-09-16T10:02:05+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/dc850210-b1b4-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "b17f30d54901",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Global News"
-    },
-    {
-     "title": "AI is changing the talent biotech companies compete to hire",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUE4aUV4Zi0xV29CUzFMZ2Q1TjBNTkdkRW1LYzhtcS1fVzFJUDh6T3kwOGNsS3lGSnU2b29PaTNLSVNHbnFPQ2d5Z3NTOGZrVlZfTXN2b0ctZGUxZFUwXzFQRUV1NklPcXlIT1o3UXRwa1U2SkxjYmc0RkNWSVdXZGV2UHBQYlhPTDNmZTNHMnlSNHJqeW5ZTGVTRQ?oc=5",
-     "summary": "AI is changing the talent biotech companies compete to hire BioSpace",
-     "published": "2026-09-16T07:01:38+00:00",
-     "source": "BioSpace",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9116773a3b32",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "'Shreyas Iyer-Led India Have Everything To Win Gold Again': Sanjay Manjrekar's Big Asian Games Verdict",
-     "url": "https://sports.ndtv.com/cricket/shreyas-iyer-led-india-have-everything-to-win-gold-again-sanjay-manjrekars-big-asian-games-verdict-12053746#publisher=newsstand",
-     "summary": "Ahead of the Asian Games 2026, former Indian cricketer Sanjay Manjrekar spoke about how Team India has \"set the benchmark\" in the continent's cricket.",
-     "published": "2026-09-16T10:22:12+00:00",
+     "title": "Kapil Dev Asked About India's Refusal To Receive Women's Asia Cup Trophy From Mohsin Naqvi. India Great's One-Line Reply",
+     "url": "https://sports.ndtv.com/cricket/kapil-dev-asked-about-indias-refusal-to-receive-womens-asia-cup-trophy-from-mohsin-naqvi-india-greats-one-line-reply-12055005#publisher=newsstand",
+     "summary": "It's sort of a deja vu. After 2025, it's the same story in 2026. After the men's team, now the women's cricket team has refused to receive the Asia Cup trophy from Pakistan's Mohsin Naqvi",
+     "published": "2026-09-16T13:00:21+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ppg0tn7g_india-x-bcci_625x300_13_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/6vqb0hg_indian-womens-team-kapil-dev_625x300_16_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "980ade2faf01",
+     "id": "b8e4262a5b4a",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
+     "title": "Amol Muzumdar Sends Strong Message As India Women Arrive In Japan For Asian Games Gold Defence",
+     "url": "https://sports.ndtv.com/cricket/amol-muzumdar-sends-strong-message-as-india-women-arrive-in-japan-for-asian-games-gold-defence-12048158#publisher=newsstand",
+     "summary": "The Indian women's cricket team head coach Amol Muzumdar said his players are eagerly looking forward to the unique atmosphere of the Asian Games.",
+     "published": "2026-09-16T12:34:58+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/1e5opf6g_amol-muzumdar_625x300_14_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b37a6a500397",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
+     "title": "Women's Premier League 2027 To Be Staged From January 14 To February 7",
+     "url": "https://sports.ndtv.com/cricket/womens-premier-league-2027-to-be-staged-from-january-14-to-february-7-12054655#publisher=newsstand",
+     "summary": "In the 2026 edition, Royal Challengers Bengaluru, led by Smriti Mandhana, had won their second WPL title. The matches were held in Navi Mumbai and Baroda.",
+     "published": "2026-09-16T12:10:28+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-01/nsuivvnk_wpl_625x300_08_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "31dcd6ed0059",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
@@ -473,7 +526,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-16T12:42:28.157630+00:00",
+     "published": "2026-09-16T13:05:30.788684+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -484,7 +537,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-16T12:42:28.157646+00:00",
+     "published": "2026-09-16T13:05:30.788701+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -495,7 +548,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-16T12:42:28.157651+00:00",
+     "published": "2026-09-16T13:05:30.788711+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -506,7 +559,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-16T12:42:28.157655+00:00",
+     "published": "2026-09-16T13:05:30.788716+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -517,7 +570,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-16T12:42:28.157658+00:00",
+     "published": "2026-09-16T13:05:30.788721+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -528,28 +581,10 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-16T12:42:28.157662+00:00",
+     "published": "2026-09-16T13:05:30.788726+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
-    },
-    {
-     "title": "Telangana Assembly session LIVE Sept 16: Telangana CM says 98.31 lakh acres have to be in prohibited (properties) list",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-section-22a-of-registration-act-el-nino-impact-september-16-2026-live-updates/article71471113.ece",
-     "summary": "Revanth Reddy says the dispute is over 3,72,930 acres of private land",
-     "published": "2026-09-16T12:14:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3nk9g3/article70461355.ece/alternates/LANDSCAPE_1200/_DSC0061.JPG",
-     "licence": "linkout",
-     "id": "9ec3b3d20b9a",
-     "kind": "liveblog",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "98.31 lakh acres have to be",
-      "3,72,930 acres of private land"
-     ]
     },
     {
      "title": "India ODI Squad For West Indies Series Announcement LIVE: BCCI Selection Meeting Delayed. New Time Revealed",
@@ -624,63 +659,94 @@
    "upsc": false,
    "items": [
     {
-     "title": "Renukaswamy murder case accused bypassed rules to speak to his wife, warder assisted him: Prison officials",
-     "url": "https://www.thehindu.com/news/national/karnataka/renukaswamy-murder-case-accused-bypassed-rules-to-speak-to-his-wife-warder-assisted-him-prison-officials/article71472133.ece",
-     "summary": "Prison authorities found that Pradosh had allegedly registered his wife’s mobile number under another inmate’s name by falsely showing it as the number of a lawyer named Santosh.",
-     "published": "2026-09-16T12:27:20+00:00",
+     "title": "‘Puja’ scam: Astrologer on run after allegedly duping woman of 39g gold",
+     "url": "https://www.thehindu.com/news/national/karnataka/puja-scam-astrologer-on-run-after-allegedly-duping-woman-of-39g-gold/article71472040.ece",
+     "summary": "The case was registered on September 7 under Section 318(4) of the Bharatiya Nyaya Sanhita (BNS), 2023, which deals with cheating and dishonestly induces a person to hand over property or valuable security.",
+     "published": "2026-09-16T12:58:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/emg3sf/article71472407.ece/alternates/LANDSCAPE_1200/DSC_5684.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/gloc7v/article71472600.ece/alternates/LANDSCAPE_1200/IMG_bl2_promo_gold_2_1_IA8R1B89.jpg",
      "licence": "linkout",
-     "id": "8d8d8c9a4cfe",
+     "id": "c6a6dc941154",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "7 under Section 318(4)"
+     ]
+    },
+    {
+     "title": "Hair caught in generator, 11-year-old girl dies at Ganesh procession in Chittoor",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/hair-caught-in-generator-11-year-old-girl-dies-at-ganesh-procession-in-chittoor/article71472344.ece",
+     "summary": "Prasanna Sri was sitting beside the generator set that lit the procession at Damarapakam village, Nagari police say; she died on the way to hospital in Tirupati",
+     "published": "2026-09-16T12:51:38+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/f2km6m/article71467097.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
+     "licence": "linkout",
+     "id": "172b94d09c51",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "Naidu wants 5,000 Venkateswara temples in Andhra; Mauritius, New Zealand want theirs, he says",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-wants-5000-venkateswara-temples-in-andhra-mauritius-new-zealand-want-theirs-he-says/article71472144.ece",
-     "summary": "Reviewing TTD plans, the Chief Minister calls for integrating its hospitals, a net-zero Tirumala and Tirupati, and a skywalk linking the railway station and bus stand",
-     "published": "2026-09-16T12:18:04+00:00",
+     "title": "11,346 seized vehicles clogging Bengaluru police stations to be shifted",
+     "url": "https://www.thehindu.com/news/cities/bangalore/11346-seized-vehicles-clogging-bengaluru-police-stations-to-be-shifted/article71472027.ece",
+     "summary": "The accumulation of vehicles has not only created a shortage of space at police stations but has also resulted in vehicles spilling onto roads and footpaths",
+     "published": "2026-09-16T12:46:54+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/mtz53b/article71472361.ece/alternates/LANDSCAPE_1200/Naidu.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/k680j/article71472527.ece/alternates/LANDSCAPE_1200/Seized%20vehicle_11.jpg",
      "licence": "linkout",
-     "id": "5be5900e0002",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "d07ee2a24357",
+     "category": "crime",
+     "category_label": "Crime",
      "figures": [
-      "5,000 Venkateswara temples in Andhra; Mauritius"
+      "11,346 seized vehicles clogging Bengaluru police"
      ]
     },
     {
-     "title": "Telangana Assembly session LIVE Sept 16: Telangana CM says 98.31 lakh acres have to be in prohibited (properties) list",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-section-22a-of-registration-act-el-nino-impact-september-16-2026-live-updates/article71471113.ece",
-     "summary": "Revanth Reddy says the dispute is over 3,72,930 acres of private land",
-     "published": "2026-09-16T12:14:12+00:00",
+     "title": "New eel species described from Arabian Sea, named after CMFRI",
+     "url": "https://www.thehindu.com/news/national/kerala/new-eel-species-described-from-arabian-sea-named-after-cmfri/article71472037.ece",
+     "summary": "New species, named Ariosoma cmfriense, was collected from the waters off Kollam in Keralam at a depth of about 300 m in January 2026",
+     "published": "2026-09-16T12:42:23+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3nk9g3/article70461355.ece/alternates/LANDSCAPE_1200/_DSC0061.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/e8xh3l/article71472447.ece/alternates/LANDSCAPE_1200/PHOTO-2026-09-16-17-51-32%201.jpg",
      "licence": "linkout",
-     "id": "9ec3b3d20b9a",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "0a828114766d",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "RSS affiliate opposes proposed MDR on UPI transactions above ₹2,000",
+     "url": "https://www.thehindu.com/news/national/rss-affiliate-opposes-proposed-mdr-on-upi-transactions-above-2000/article71472400.ece",
+     "summary": "Swadeshi Jagran Manch co-convener Ashwani Mahajan says UPI transaction fee is most unfortunate, demeaning an achievement of Bhara",
+     "published": "2026-09-16T12:42:01+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/rpgzc/article71472473.ece/alternates/LANDSCAPE_1200/UPI-MDR_-PersonGUAGHJ1D7.4.jpg.jpg",
+     "licence": "linkout",
+     "id": "ed0469d8df15",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "98.31 lakh acres have to be",
-      "3,72,930 acres of private land"
+      "₹2,000.  Swadeshi Jagran Manch co-convener"
      ]
     },
     {
-     "title": "Telangana Govt constitutes high-level committee to resolve controversy over Section 22A lands",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-constitutes-high-level-committee-to-resolve-controversy-over-section-22a-lands/article71472304.ece",
-     "summary": "Chief Minister A. Revanth Reddy traces origin of Section 22A, gives a detailed explanation on lands under part-B and the error which partly led to inclusion of lands in prohibited list during marathon speech in Assembly",
-     "published": "2026-09-16T12:12:46+00:00",
-     "source": "The Hindu",
+     "title": "10 Convicts Get Death In 2013 Maoist Attack In Chhattisgarh That Killed 29",
+     "url": "https://www.ndtv.com/india-news/all-10-convicts-sentenced-to-death-in-2013-maoist-attack-in-bastars-jhiram-valley-that-killed-29-12054638#publisher=newsstand",
+     "summary": "The Congress leadership in the state had virtually been wiped out in the ambush.",
+     "published": "2026-09-16T12:21:49+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/l9jmg1/article71472349.ece/alternates/LANDSCAPE_1200/Telangana%20CM%20in%20Assembly%20on%20September%2016.png",
+     "image": "https://c.ndtvimg.com/2026-03/825mc908_jhiram-ghati-memorial_625x300_29_March_26.jpeg",
      "licence": "linkout",
-     "id": "30018fcbc72c",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "0140acde117e",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "10 Convicts Get Death In 2013"
+     ]
     },
     {
      "title": "Provident Fund Wage Ceiling Hiked To Rs 25,000 From Rs 15,000 Per Month",
@@ -699,6 +765,19 @@
       "Rs 15,000  Per Month",
       "Rs 15,000  in September 2014; now"
      ]
+    },
+    {
+     "title": "\"Mockery Of Democracy\": Madras High Court On MLAs Resigning To Seek Re-Election",
+     "url": "https://www.ndtv.com/india-news/mockery-of-democracy-madras-high-court-on-mlas-resigning-to-seek-re-election-12054717#publisher=newsstand",
+     "summary": "The observation comes after the ruling TVK fielded two former AIADMK MLAs who resigned from their seats to jump ship, for the upcoming bypolls from the same seats.",
+     "published": "2026-09-16T12:05:34+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-06/udiuuvcc_madras-high-court_625x300_19_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f85f1fc3ebd3",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -708,6 +787,32 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "What is BRICS Pay, and can it rival the West’s SWIFT payments system?",
+     "url": "https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss",
+     "summary": "BRICS Pay is a decentralised digital system for making international payments in currencies other than the dollar.",
+     "published": "2026-09-16T12:53:07+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa691c60958-1789301190_149e05-1789557010.jpg?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "58c7c3bc1646",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "US political rivals Sanders and Bannon unite on AI warning",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss",
+     "summary": "US senator Bernie Sanders and Donald Trump’s former adviser Steve Bannon have united to warn against the dangers of AI.",
+     "published": "2026-09-16T12:39:47+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789562085.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "881fdef4b5d8",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
     {
      "title": "At least 20 killed as multi-storey building collapses in Gaza City",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss",
@@ -746,30 +851,17 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Taiz camps overflow with Yemenis fleeing fighting after Houthi offensive",
-     "url": "https://www.aljazeera.com/features/2026/9/16/taiz-camps-overflow-with-yemenis-fleeing-fighting-after-houthi-offensive?traffic_source=rss",
-     "summary": "The recent flare-up in the Yemen conflict has seen tens of thousands of people displaced in Taiz governorate.",
-     "published": "2026-09-16T12:10:55+00:00",
-     "source": "Al Jazeera",
+     "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+     "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+     "published": "2026-09-16T10:02:05+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/%D9%86%D8%A7%D8%B2%D8%AD-%D9%83%D8%A8%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%A7%D8%B1%D9%81-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%BA%D8%B2%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D8%A8%D9%85%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%B1%D9%8A%D9%86-%D8%B5%D9%88%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B0%D8%A8%D8%AD%D8%A7%D9%86%D9%8A-1789545226.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/dc850210-b1b4-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
-     "id": "4dd3abdb9d04",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Alex Eala firm on Asian Games participation despite threat of WTA fine",
-     "url": "https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss",
-     "summary": "National lawmakers propose paying her fine should WTA impose it on her for skipping the concurrent mandatory China Open.",
-     "published": "2026-09-16T11:28:49+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26245153760816-1789558288.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "81b2ba6521ce",
-     "category": "general",
-     "category_label": "General"
+     "id": "b17f30d54901",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
@@ -783,19 +875,6 @@
      "id": "9c657c0b5de7",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-     "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-     "published": "2026-09-15T20:34:12+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
-     "licence": "linkout",
-     "id": "83c9ff637cd4",
-     "category": "conflict",
-     "category_label": "War & conflict"
     }
    ]
   },
@@ -892,17 +971,62 @@
    "upsc": false,
    "items": [
     {
-     "title": "Renukaswamy murder case accused bypassed rules to speak to his wife, warder assisted him: Prison officials",
-     "url": "https://www.thehindu.com/news/national/karnataka/renukaswamy-murder-case-accused-bypassed-rules-to-speak-to-his-wife-warder-assisted-him-prison-officials/article71472133.ece",
-     "summary": "Prison authorities found that Pradosh had allegedly registered his wife’s mobile number under another inmate’s name by falsely showing it as the number of a lawyer named Santosh.",
-     "published": "2026-09-16T12:27:20+00:00",
+     "title": "‘Puja’ scam: Astrologer on run after allegedly duping woman of 39g gold",
+     "url": "https://www.thehindu.com/news/national/karnataka/puja-scam-astrologer-on-run-after-allegedly-duping-woman-of-39g-gold/article71472040.ece",
+     "summary": "The case was registered on September 7 under Section 318(4) of the Bharatiya Nyaya Sanhita (BNS), 2023, which deals with cheating and dishonestly induces a person to hand over property or valuable security.",
+     "published": "2026-09-16T12:58:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/emg3sf/article71472407.ece/alternates/LANDSCAPE_1200/DSC_5684.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/gloc7v/article71472600.ece/alternates/LANDSCAPE_1200/IMG_bl2_promo_gold_2_1_IA8R1B89.jpg",
      "licence": "linkout",
-     "id": "8d8d8c9a4cfe",
+     "id": "c6a6dc941154",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "7 under Section 318(4)"
+     ]
+    },
+    {
+     "title": "Hair caught in generator, 11-year-old girl dies at Ganesh procession in Chittoor",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/hair-caught-in-generator-11-year-old-girl-dies-at-ganesh-procession-in-chittoor/article71472344.ece",
+     "summary": "Prasanna Sri was sitting beside the generator set that lit the procession at Damarapakam village, Nagari police say; she died on the way to hospital in Tirupati",
+     "published": "2026-09-16T12:51:38+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/f2km6m/article71467097.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
+     "licence": "linkout",
+     "id": "172b94d09c51",
      "category": "crime",
      "category_label": "Crime"
+    },
+    {
+     "title": "11,346 seized vehicles clogging Bengaluru police stations to be shifted",
+     "url": "https://www.thehindu.com/news/cities/bangalore/11346-seized-vehicles-clogging-bengaluru-police-stations-to-be-shifted/article71472027.ece",
+     "summary": "The accumulation of vehicles has not only created a shortage of space at police stations but has also resulted in vehicles spilling onto roads and footpaths",
+     "published": "2026-09-16T12:46:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/k680j/article71472527.ece/alternates/LANDSCAPE_1200/Seized%20vehicle_11.jpg",
+     "licence": "linkout",
+     "id": "d07ee2a24357",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "11,346 seized vehicles clogging Bengaluru police"
+     ]
+    },
+    {
+     "title": "Telangana Govt constitutes high-level committee to resolve controversy over Section 22A lands",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-constitutes-high-level-committee-to-resolve-controversy-over-section-22a-lands/article71472304.ece",
+     "summary": "Chief Minister A. Revanth Reddy traces origin of Section 22A, gives a detailed explanation on lands under part-B and the error which partly led to inclusion of lands in prohibited list during marathon speech in Assembly",
+     "published": "2026-09-16T12:35:37+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/l9jmg1/article71472349.ece/alternates/LANDSCAPE_1200/Telangana%20CM%20in%20Assembly%20on%20September%2016.png",
+     "licence": "linkout",
+     "id": "30018fcbc72c",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Naidu wants 5,000 Venkateswara temples in Andhra; Mauritius, New Zealand want theirs, he says",
@@ -921,92 +1045,17 @@
      ]
     },
     {
-     "title": "Telangana Assembly session LIVE Sept 16: Telangana CM says 98.31 lakh acres have to be in prohibited (properties) list",
-     "url": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-section-22a-of-registration-act-el-nino-impact-september-16-2026-live-updates/article71471113.ece",
-     "summary": "Revanth Reddy says the dispute is over 3,72,930 acres of private land",
-     "published": "2026-09-16T12:14:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3nk9g3/article70461355.ece/alternates/LANDSCAPE_1200/_DSC0061.JPG",
-     "licence": "linkout",
-     "id": "9ec3b3d20b9a",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "98.31 lakh acres have to be",
-      "3,72,930 acres of private land"
-     ]
-    },
-    {
-     "title": "Nandyal MP Byreddy Shabari says NDA government giving priority to skill development, jobs for youth",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/nandyal-mp-byreddy-shabari-says-nda-government-giving-priority-to-skill-development-jobs-for-youth/article71471750.ece",
-     "summary": "Inaugurating a youth conference in Nandyal, the MP says industries are changing Rayalaseema’s face and investments will bring thousands of jobs",
-     "published": "2026-09-16T11:53:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/tr4gnl/article71040925.ece/alternates/LANDSCAPE_1200/10215_17_9_2025_19_40_5_1_USM_12571.JPG",
-     "licence": "linkout",
-     "id": "f960ecc45b46",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Only Prime Minister’s Office can grant sanction to prosecute IAS officers, Centre tells Madras High Court",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/only-prime-ministers-office-can-grant-sanction-to-prosecute-ias-officers-centre-tells-madras-high-court/article71471713.ece",
-     "summary": "Justice N. Anand Venkatesh records the submission and grants two months’ time to obtain sanction against IAS officers K.S. Kandasamy and K. Vijaya Karthikeyan in the ₹98.25-crore corporation tender irregularities case against former AIADMK Minister S.P. Velumani",
-     "published": "2026-09-16T11:51:59+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6fxfcn/article71472111.ece/alternates/LANDSCAPE_1200/09_RVM_0266.jpg",
-     "licence": "linkout",
-     "id": "bb9d1c0f5e60",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹98.25 -crore corporation tender irregularities"
-     ]
-    },
-    {
-     "title": "Demolish dangerous buildings in Thrissur without delay, Kerala State Human Rights Commission tells city Corporation",
-     "url": "https://www.thehindu.com/news/national/kerala/demolish-dangerous-buildings-in-thrissur-without-delay-kerala-state-human-rights-commission-tells-city-corporation/article71471579.ece",
-     "summary": "According to the Thrissur Corporation’s report, 15 buildings have been identified for immediate demolition. The commission directs the Corporation Secretary to submit an action-taken report in its sitting in October 2026",
-     "published": "2026-09-16T11:50:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/kvldu1/article71472300.ece/alternates/LANDSCAPE_1200/6678_4-10-2018_12-28-16_1_BUILDING_1.JPG",
-     "licence": "linkout",
-     "id": "50df3422c58e",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "15 buildings have been identified"
-     ]
-    },
-    {
-     "title": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbFpxVGJ1eDZmUVlaY0Y3TjJFN1JESnBfd3dBd204bGhneVR3SzJpcGFQc25QS0NwUkUxYTktR09ZNjBZdG94NVVDcVhFbEFHSWtIbkhGTjFyaU9HTklTZzd4Yi1JSURITk13ME9ySG5SbW12WTB4bGJhbnEyUWxlMzctSzl0WUtwdjNtOVJjTmg0X1ZOVkw3d3VRcVpNUmYzR3NNcGtWdVF5N01kYl9qMDczTTZQaVRMbmxKRU5rTEswalZYbENWSE1WcnBEcGFOcVJYT29EdDZybGxWcU5lVWsyRnJGZGg2XzFiSHlLSmg2NUlSUzljc2I0V29mbm5uc2RDQ9IBiwJBVV95cUxPN19FQTdCTWYwQVJSajFlMG1POFdZYUh5ZXR2d3dvcU9BakFiM2ZVMy1wOTgzY3NwU2JXLTJHbjhwa2gyM2tDYllOMzBYX3duM1VBdlB6ZVo1a3FSajdaZXBvbTFfWjhzdzE4dzZkWjhFanVuNWJBbXBEdXU2Y0xja2FXOVhGaTdOdkk3X1g5Y2c3aVk3NWkwMWtHRHJHbU1WRExGdmlOTVlGTEVjcTh5aUxfNU81eXd6dVBuMmhFNU4tb3JuWms0S1lFUnIyVHFoRTlrREdBTmQ1Yl81NS0wWFJxUmFDcjRyMEFseVNtM2hjWjF2bHZBNWRlLUkyVmVXWHV5RlFLOHJsNms?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision The Indian Express",
-     "published": "2026-09-16T11:14:16+00:00",
-     "source": "The Indian Express",
+     "title": "School assembly news headlines today- September 17: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWEljQURWS0FTdnJ4WGRJWHBRRUIwX2FreVhZSkpjQ0JWNTIyMEw3NF9OaU14RnkzRFJ2bDRSbU85dVJNZXFmNmlKNWgzZk9BbUgtd3RkQ2dvU3hWNDJJbHRkR3VDVG54dHByTWU2aWtMVlZ1NEpSSkdXLTUtMVA1b2s4NWJ0WXh1cTBnc2FpM0hoYnZ1VS0zME9CMEtIVjFERXk0SVYta0F5akpCcUY1V2M5ZXF1UFRHd080Z3BEeFFPZ2l5Z2pONE1pVk9YM0o5WHFyTllQLUJyaW1XdE82SW80bDZyWG1u?oc=5",
+     "summary": "School assembly news headlines today- September 17: Top national, sports and world news curated for you India Today",
+     "published": "2026-09-16T12:02:12+00:00",
+     "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "a4fa595f6ef4",
+     "id": "e99d08e90815",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Top news of the day: September 15, 2026",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2s0a3BtcTRCQlhzM3hpVm9WdEpvczNORU5IVGgza21wdUdqSmJYcXlLWkV0bHJCUlhpRWNyVTRGOFZpQl9DVTlOYXVFOWRBb3VpU2l4MUwySW9OUDhVV1Q1ZENBanB1UUFpX2VjSU80aEZieUQ4ZzV1Wi1TX2N3ZUxYR29SYUs1YXNWVnNHS2_SAZcBQVVfeXFMUEpBNzRaUkx3NVdmVW9FZVlldi1FVDJyeDhLYjJmQkpGVE5VSG9LLWk3MUpPaXFYZUZ6VmpHWGZhUHhkdDFqYmNpYkk4bW5IZXVwdUZKRm5mVnJmOVBmZGlWMG5ocm9neThBaTlFdVVSclpudUVpaVpacWtIUS1IcEZ6azNZYTQ5OGl3aHR3RVFzTDVBTklYNA?oc=5",
-     "summary": "Top news of the day: September 15, 2026 The Hindu",
-     "published": "2026-09-15T13:38:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e6fd8e1622d5",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1517,6 +1566,19 @@
      ]
     },
     {
+     "title": "Your FD and debt fund may face the same tax, here’s what should decide where you invest",
+     "url": "https://www.livemint.com/money/personal-finance/your-fd-and-debt-fund-may-face-the-same-tax-here-s-what-should-decide-where-you-invest-11789549926176.html",
+     "summary": "Debt funds and FDs may face the same slab-rate taxation, but they differ significantly in return certainty, liquidity and market risk. Rhishabh Garg, CEO, FundsIndia.com explains when investors should favour the certainty of FDs and when short-duration or liquid debt funds may fit better.",
+     "published": "2026-09-16T09:23:34+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/Gemini_Genrated_Image_keap4ckeap4ckeap_17895504_1789550412070_sqMd_1789550412269_KGJx_c3b17ebc-cb9b-4714-9f95-dbbb15990b07_1bDS.png",
+     "licence": "linkout",
+     "id": "51c821c9b336",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "New UPI charges: what changes for your QR payments, SIPs and mutual fund investments",
      "url": "https://www.livemint.com/money/personal-finance/new-upi-charges-mdr-fee-digital-payment-india-sip-mutual-fund-11789543008901.html",
      "summary": "While the new MDR introduces another cost for UPI investments, a mutual fund investor will not directly pay the fee or see it deducted from the investment amount.",
@@ -1586,14 +1648,14 @@
     },
     {
      "title": "Tech Life",
-     "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
      "summary": "What should children learn in a world transformed by artificial intelligence?",
      "published": "2026-09-15T19:30:00+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9s5kz.jpg",
      "licence": "linkout",
-     "id": "9f48ad608ffd",
+     "id": "effb612279a8",
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1645,36 +1707,49 @@
    "upsc": false,
    "items": [
     {
-     "title": "India ODI Squad For West Indies Series Announcement LIVE: BCCI Selection Meeting Delayed. New Time Revealed",
-     "url": "https://sports.ndtv.com/cricket/india-vs-west-indies-odi-squad-2026-announcement-live-virat-kohli-rohit-sharma-shubman-gill-ajit-agarkar-12052420#publisher=newsstand",
-     "summary": "India's ODI squad for West Indies series 2026 LIVE: The BCCI's selection meeting for India's upcoming white-ball series against the West Indies has been delayed and is now likely to begin at around 6 PM IST, according to a report.",
-     "published": "2026-09-16T11:35:14+00:00",
+     "title": "Kapil Dev Asked About India's Refusal To Receive Women's Asia Cup Trophy From Mohsin Naqvi. India Great's One-Line Reply",
+     "url": "https://sports.ndtv.com/cricket/kapil-dev-asked-about-indias-refusal-to-receive-womens-asia-cup-trophy-from-mohsin-naqvi-india-greats-one-line-reply-12055005#publisher=newsstand",
+     "summary": "It's sort of a deja vu. After 2025, it's the same story in 2026. After the men's team, now the women's cricket team has refused to receive the Asia Cup trophy from Pakistan's Mohsin Naqvi",
+     "published": "2026-09-16T13:00:21+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2025-01/kagoajg8_rohit-sharma-ajit-agarkar-afp_625x300_18_January_25.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/6vqb0hg_indian-womens-team-kapil-dev_625x300_16_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "07a1356ef347",
+     "id": "b8e4262a5b4a",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "Pakistan Cricket In Turmoil? Aaqib Javed Responds To Removal Reports With Blunt Message",
+     "url": "https://sports.ndtv.com/cricket/pakistan-cricket-in-turmoil-aaqib-javed-responds-to-removal-reports-with-blunt-message-12052323#publisher=newsstand",
+     "summary": "Pakistan national selector Aaqib Javed on Tuesday dismissed reports of his impending resignation or removal from the Pakistan Cricket Board (PCB) as \"fake news\".",
+     "published": "2026-09-16T12:47:02+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-08/mq1ic098_aaqib-javed-xranaahm01973563_625x300_17_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8469a364ca5a",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Josh Allen's Hilarious Encounter Leaves Fans In Splits: \"We Found His Weakness\"",
-     "url": "https://sports.ndtv.com/us-nfl/josh-allens-hilarious-encounter-leaves-fans-in-splits-we-found-his-weakness-12054410#publisher=newsstand",
-     "summary": "Josh Allen’s unexpected encounter during the Bills press conference quickly turned into a funny moment, leaving fans amused by the quarterback’s reaction.",
-     "published": "2026-09-16T11:16:06+00:00",
+     "title": "Amol Muzumdar Sends Strong Message As India Women Arrive In Japan For Asian Games Gold Defence",
+     "url": "https://sports.ndtv.com/cricket/amol-muzumdar-sends-strong-message-as-india-women-arrive-in-japan-for-asian-games-gold-defence-12048158#publisher=newsstand",
+     "summary": "The Indian women's cricket team head coach Amol Muzumdar said his players are eagerly looking forward to the unique atmosphere of the Asian Games.",
+     "published": "2026-09-16T12:34:58+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/qrk7la94_josh-allen_625x300_16_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/1e5opf6g_amol-muzumdar_625x300_14_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "dbbdd711638d",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "b37a6a500397",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
-     "title": "IPL 2027 Auction Set For India Return After Four Years? BCCI Provides Major Update",
+     "title": "BCCI To Scrap Impact Player Rule From IPL 2027? Report Makes Big Claim",
      "url": "https://sports.ndtv.com/cricket/ipl-2027-auction-set-for-india-after-four-years-bcci-provides-major-update-12054220#publisher=newsstand",
      "summary": "The past three editions of the IPL auction were held in Dubai, Jeddah (mega auction) and Abu Dhabi.",
-     "published": "2026-09-16T11:03:22+00:00",
+     "published": "2026-09-16T11:52:07+00:00",
      "source": "NDTV Sports",
      "byline": "",
      "image": "https://c.ndtvimg.com/2024-11/e6u5ojs8_ipl-auction-_625x300_25_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -1682,22 +1757,6 @@
      "id": "d279ca47b61d",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Jasprit Bumrah Enters Top 10, Varun Chakravarthy Rises To 5th Spot In ICC T20I Bowling Rankings",
-     "url": "https://sports.ndtv.com/cricket/jasprit-bumrah-enters-top-10-varun-chakravarthy-rises-to-5th-spot-in-icc-t20i-bowling-rankings-12053732#publisher=newsstand",
-     "summary": "A host of Indian stars received a rankings boost in the T20Is after solid performances in the ongoing series against Afghanistan.",
-     "published": "2026-09-16T10:29:40+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/b4g7sk1c_jasprit-bumrah_625x300_16_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "018f35e448ea",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "10, Varun Chakravarthy Rises To 5th"
-     ]
     }
    ]
   },
@@ -1734,6 +1793,19 @@
      "category_label": "General"
     },
     {
+     "title": "Author and critic Bonnie Greer dies aged 77",
+     "url": "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo?at_medium=RSS&at_campaign=rss",
+     "summary": "Her husband says the playwright and cultural and political commentator died after a brief illness.",
+     "published": "2026-09-16T12:41:03+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/402c/live/b5617f70-b1c7-11f1-8493-1910d79d53eb.jpg",
+     "licence": "linkout",
+     "id": "61d26e401a58",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
      "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
      "summary": "The Trump-appointed board was blocked from adding the inscription \"Renovated and Restored by President Donald J. Trump\".",
@@ -1745,32 +1817,6 @@
      "id": "bb9155604d0e",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "How city's market became a CBeebies TV set",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2zpn03803o?at_medium=RSS&at_campaign=rss",
-     "summary": "The show, filmed in Coventry, aims to help young children explore food through their senses",
-     "published": "2026-09-15T14:13:48+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbb/live/6f29d4f0-b0f3-11f1-9707-2187f52634c5.jpg",
-     "licence": "linkout",
-     "id": "0f6a49c3779a",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Turner Prize winner's new vision for hometown",
-     "url": "https://www.bbc.co.uk/news/articles/cj5yd5446v6lo?at_medium=RSS&at_campaign=rss",
-     "summary": "Keith Tyson said he hopes to create a space for exhibitions, education and community engagement.",
-     "published": "2026-09-15T18:59:04+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e69e/live/9c4b6ef0-b12d-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "ed65a9c88d40",
-     "category": "human",
-     "category_label": "Human interest"
     }
    ]
   },
