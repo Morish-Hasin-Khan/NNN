@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T04:36:11.535405+00:00",
+ "generated_at": "2026-09-16T05:01:56.339552+00:00",
  "podcasts_fetched_at": "2026-09-15T23:33:03.652231+00:00",
  "markets": [
   {
@@ -79,19 +79,20 @@
    "value": 75875.0,
    "change": -1395.0,
    "changePct": -1.81,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
+  "Messi",
   "Police Minister",
-  "Kanpur Businessman",
   "Jazeera English",
   "News",
   "Meta Indian",
   "India Bombay",
-  "Innovative Ganesh",
+  "Namma Clinic",
+  "Gaza",
   "Trump Israel",
-  "China Japan",
   "Japan Mount"
  ],
  "sections": [
@@ -101,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Messi visit SIT probe: police launch searches at five locations",
+     "url": "https://www.thehindu.com/news/national/kerala/messi-visit-sit-probe-police-launch-search-operations-at-five-locations/article71471028.ece",
+     "summary": "Apart from head office of Reporting Broadcasting Corporation, residences of its managing director Anto Augustine and those of his brothers and co-owners, Roji Augustine and Jose Kutty Augustine, as well as the house of administrative head are being searched",
+     "published": "2026-09-16T04:39:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/wqh9u5/article71471050.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-16%20at%2009.38.26.jpeg",
+     "licence": "linkout",
+     "id": "8a277f3bc034",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Police search DMK Minister Anbil Mahesh’s house over alleged multi-crore fraud involving private schools",
      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/police-search-dmk-minister-anbil-maheshs-house-over-alleged-multi-crore-fraud-involving-private-schools/article71470984.ece",
@@ -134,20 +149,6 @@
      "figures": [
       "6 Calls From Killer On Night"
      ]
-    },
-    {
-     "title": "'Gimmicks': India on Pakistan's fresh announcement on Masood Azhar bounty",
-     "url": "https://www.thehindu.com/news/national/gimmicks-india-on-pakistans-fresh-announcement-on-masood-azhar-bounty/article71470890.ece",
-     "summary": "Azhar remains wanted in India for major terror attacks, including the 2001 Parliament strike, the 2008 Mumbai attacks, the 2016 Pathankot airbase assault and the 2019 Pulwama bombing.",
-     "published": "2026-09-16T01:45:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i3ocv9/article71470893.ece/alternates/LANDSCAPE_1200/India_Kashmir_Bombing_02583.jpg-6e706.jpg",
-     "licence": "linkout",
-     "id": "81927a58a921",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
     },
     {
      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
@@ -240,32 +241,38 @@
      "from_section": "National News"
     },
     {
-     "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
-     "summary": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy.",
-     "published": "2026-09-16T02:40:08+00:00",
-     "source": "Al Jazeera",
+     "title": "Gold and silver price today, Sept 16: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+     "url": "https://www.livemint.com/money/gold-and-silver-price-today-sept-16-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11789526888052.html",
+     "summary": "Gold prices in India rose nearly 0.65% today amid US-Iran conflict uncertainties. Check retail rates of both gold and silver in top metro cities of India today.&nbsp;",
+     "published": "2026-09-16T03:47:08+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789526365.jpg?resize=1200%2C675",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/2-0-506572837-gold-jeweller--621x414-0_1681039244056_1789530238514_L7HQ_fa55ce0d-aac7-4584-b46c-7ab07fe8f8be_zICt.jpg",
      "licence": "linkout",
-     "id": "d8c709fc30e6",
+     "id": "3d4529987fe6",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Global News"
+     "from_section": "Business",
+     "figures": [
+      "999 silver in Delhi, Mumbai, other"
+     ]
     },
     {
-     "title": "KOAFEC 2026: Korea and Africa place artificial intelligence and digital infrastructure at the heart of their partnership",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNVdYRnBEOUxJUFJjX1VXTFVvT2hCbGU5X2R3dDU5SXpPdFlOOEQ3bklsYVlmYmJQdmNoZXFwTDhfSW1MNk9qejJUSVpRT3hza0U0bGRYV0pZb29lSHFpYkU4NjJfSHQ3TU0wOEVZQV84ajZsVm5mMndUOG9SdExXbmhRSXZkeVgxcy13M2dPV1Y2WFlzVE9VSUhiR2pteC1JNk0tMVJxM2t6OTEyYXp6RUdlUnVIRmI5NnRiWTktbkctbEtGZ1VFelNDeWU1ZjRMckc0VkRRV1c4NjVCUW9nZ19YQVFveXUxdy1USllvMElTY2RwbDZSX1g0clBZNFU?oc=5",
-     "summary": "KOAFEC 2026: Korea and Africa place artificial intelligence and digital infrastructure at the heart of their partnership African Development Bank Group",
-     "published": "2026-09-15T21:05:25+00:00",
-     "source": "African Development Bank Group",
+     "title": "UPI MDR from October 15: Will your mutual fund SIP, insurance premium or OTT AutoPay get costlier?",
+     "url": "https://www.livemint.com/money/personal-finance/upi-mdr-from-october-15-will-your-mutual-fund-sip-insurance-premium-or-ott-autopay-get-costlier-11789528556578.html",
+     "summary": "UPI will introduce MDR on select merchant payments above ₹2,000 from 15 October, but the new charge does not apply uniformly to all UPI transactions. Mutual fund SIPs through UPI AutoPay remain outside the prescribed MDR, while one-time capital-market payments get a lower 0.02% rate.",
+     "published": "2026-09-16T03:26:41+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": null,
+     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/Gemini_Generated_Imae_zflqv3zflqv3zflq_17895290_1789529097267_oSEd_1789529097444_n7hC_a7a53c8a-cc59-43c1-8a64-ce4780c5f1cc_nU7E.png",
      "licence": "linkout",
-     "id": "0164acf624dd",
+     "id": "012757d7f42f",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Technology"
+     "from_section": "Business",
+     "figures": [
+      "₹2,000  from 15 October"
+     ]
     },
     {
      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
@@ -280,6 +287,20 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
+    },
+    {
+     "title": "Gaza residential building collapses, six families reportedly trapped",
+     "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+     "summary": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
+     "published": "2026-09-16T04:30:52+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aaa0b5b-1789528923.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "8bf6182083f6",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global News"
     },
     {
      "title": "Japan to charge rescue fee on Mount Fuji during off season",
@@ -308,20 +329,6 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Global Hotline"
-    },
-    {
-     "title": "Home Alone and Schitt's Creek stars pay tribute to on-screen 'mom' O'Hara",
-     "url": "https://www.bbc.co.uk/news/articles/cqkgvkn6yyxyo?at_medium=RSS&at_campaign=rss",
-     "summary": "Tributes were also paid at the Emmy Awards to Rob Reiner, Hayden Panettiere and Dolly Parton.",
-     "published": "2026-09-15T12:00:35+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61e/live/aa9ca160-b0ef-11f1-8d94-cf0ec84c39cd.jpg",
-     "licence": "linkout",
-     "id": "6d08995cae1c",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Culture"
     },
     {
      "title": "AI agents lied, stole and voted to 'kill' peers in simulated experiment",
@@ -435,7 +442,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-16T04:35:59.608029+00:00",
+     "published": "2026-09-16T05:01:42.808187+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -446,7 +453,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-16T04:35:59.608044+00:00",
+     "published": "2026-09-16T05:01:42.808196+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -457,7 +464,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-16T04:35:59.608048+00:00",
+     "published": "2026-09-16T05:01:42.808202+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -468,7 +475,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-16T04:35:59.608051+00:00",
+     "published": "2026-09-16T05:01:42.808205+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -479,7 +486,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-16T04:35:59.608054+00:00",
+     "published": "2026-09-16T05:01:42.808208+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -490,7 +497,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-16T04:35:59.608056+00:00",
+     "published": "2026-09-16T05:01:42.808211+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -571,6 +578,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "MLA’s niece removed from Namma Clinic job after revelation of being full-time PG student in medical college",
+     "url": "https://www.thehindu.com/news/national/karnataka/doctor-removed-from-namma-clinic-in-karnataka-after-revelation-of-being-full-time-pg-student-in-medical-college-daughter-of-bagalkot-dho/article71469588.ece",
+     "summary": "Media reports highlighted the fact that she is the daughter of Rajkumar Yaragal, the District Health Officer (DHO), and the niece of Umesh Meti, an MLA and a Congress leader",
+     "published": "2026-09-16T04:35:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/m060bb/article71471056.ece/alternates/LANDSCAPE_1200/IMG_Namma_Clinic.jpg_2_1_J0AC4AE9.jpg",
+     "licence": "linkout",
+     "id": "60e6d742d6e5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Messi visit SIT probe: police launch searches at five locations",
+     "url": "https://www.thehindu.com/news/national/kerala/messi-visit-sit-probe-police-launch-search-operations-at-five-locations/article71471028.ece",
+     "summary": "Apart from head office of Reporting Broadcasting Corporation, residences of its managing director Anto Augustine and those of his brothers and co-owners, Roji Augustine and Jose Kutty Augustine, as well as the house of administrative head are being searched",
+     "published": "2026-09-16T04:39:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/wqh9u5/article71471050.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-16%20at%2009.38.26.jpeg",
+     "licence": "linkout",
+     "id": "8a277f3bc034",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Police search DMK Minister Anbil Mahesh’s house over alleged multi-crore fraud involving private schools",
      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/police-search-dmk-minister-anbil-maheshs-house-over-alleged-multi-crore-fraud-involving-private-schools/article71470984.ece",
      "summary": "Earlier, the Central Crime Branch had registered a case and arrested B.T. Arasakumar on charges of collecting large sums of money amounting to around ₹100 crore from private school managements",
@@ -585,61 +618,6 @@
      "figures": [
       "₹100 crore from private school managements"
      ]
-    },
-    {
-     "title": "Innovative pandals add colour to Ganesh pandals across Visakhapatnam",
-     "url": "https://www.thehindu.com/news/cities/Visakhapatnam/innovative-pandals-add-colour-to-ganesh-pandals-across-visakhapatnam/article71467928.ece",
-     "summary": "From a Ganesh idol made with one crore bangles and another adorned with one crore Rudraksha beads to a replica of the Bhogapuram airport, innovative themes and creative installations drew large crowds during Vinayaka Chavithi celebrations across the city",
-     "published": "2026-09-16T04:06:00+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/d59kkk/article71469302.ece/alternates/LANDSCAPE_1200/000001Ganeshhh.jpg",
-     "licence": "linkout",
-     "id": "73ce7d1d8cfa",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "How BJP will celebrate Modi’s birthday: Month-long Seva Sankalp Abhiyan from September 17 to mark 25 years of administration",
-     "url": "https://www.thehindu.com/news/national/karnataka/bjp-to-take-up-month-long-seva-sankalp-abhiyan-from-sept-17-to-mark-modis-25-years-of-administration/article71469242.ece",
-     "summary": "Prime Minister Narendra Modi turns 76 on September 17",
-     "published": "2026-09-16T04:05:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5rlxc5/article71471019.ece/alternates/LANDSCAPE_1200/IMG_18_mn_Narendra_Modi._2_1_ARA9P3A1.jpg",
-     "licence": "linkout",
-     "id": "2c1ce30a9a40",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "25 years of administration"
-     ]
-    },
-    {
-     "title": "Supreme Court confirms Kerala High Court order on execution proceedings in Kashi Math case",
-     "url": "https://www.thehindu.com/news/national/supreme-court-nod-for-kerala-high-court-to-continue-execution-proceedings-in-kashi-math-case/article71469539.ece",
-     "summary": "Kerala High Court decision of August 2026 allows Kashi Matadhipati Samyamindra Tirtha to continue execution proceedings for recovery of gold, silver ornaments and paraphernalia belonging to Kashi Math Samsthan from Raghavendra Tirtha",
-     "published": "2026-09-16T03:56:39+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/an7st4/article71469830.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "805775aaa490",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Arrangements reviewed for CM’s Vizag visit; 26,426 to get house-site pattas on September 19",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/arrangements-reviewed-for-cms-vizag-visit-26426-to-get-house-site-pattas-on-september-19/article71469492.ece",
-     "summary": "The Nirmal Sagar pilot on beach cleaning and marine-waste recycling is to be launched on Beach Road with the UNDP, the Collector says",
-     "published": "2026-09-16T03:36:18+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "e1780dceb787",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Inside 'Special Campaign 5.0': Education Department Reviews 95% Physical Files",
@@ -692,6 +670,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Gaza residential building collapses, six families reportedly trapped",
+     "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+     "summary": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
+     "published": "2026-09-16T04:30:52+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aaa0b5b-1789528923.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "8bf6182083f6",
+     "category": "human",
+     "category_label": "Human interest"
+    },
+    {
      "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
      "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
      "summary": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region.",
@@ -735,17 +726,17 @@
      "category_label": "General"
     },
     {
-     "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
-     "summary": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea.",
-     "published": "2026-09-16T01:53:27+00:00",
+     "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+     "summary": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy.",
+     "published": "2026-09-16T02:40:08+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789523584.jpg?resize=1919%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789526365.jpg?resize=1200%2C675",
      "licence": "linkout",
-     "id": "84b2d5aff421",
-     "category": "general",
-     "category_label": "General"
+     "id": "d8c709fc30e6",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
@@ -884,6 +875,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "MLA’s niece removed from Namma Clinic job after revelation of being full-time PG student in medical college",
+     "url": "https://www.thehindu.com/news/national/karnataka/doctor-removed-from-namma-clinic-in-karnataka-after-revelation-of-being-full-time-pg-student-in-medical-college-daughter-of-bagalkot-dho/article71469588.ece",
+     "summary": "Media reports highlighted the fact that she is the daughter of Rajkumar Yaragal, the District Health Officer (DHO), and the niece of Umesh Meti, an MLA and a Congress leader",
+     "published": "2026-09-16T04:35:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/m060bb/article71471056.ece/alternates/LANDSCAPE_1200/IMG_Namma_Clinic.jpg_2_1_J0AC4AE9.jpg",
+     "licence": "linkout",
+     "id": "60e6d742d6e5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Messi visit SIT probe: police launch searches at five locations",
+     "url": "https://www.thehindu.com/news/national/kerala/messi-visit-sit-probe-police-launch-search-operations-at-five-locations/article71471028.ece",
+     "summary": "Apart from head office of Reporting Broadcasting Corporation, residences of its managing director Anto Augustine and those of his brothers and co-owners, Roji Augustine and Jose Kutty Augustine, as well as the house of administrative head are being searched",
+     "published": "2026-09-16T04:39:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/wqh9u5/article71471050.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-16%20at%2009.38.26.jpeg",
+     "licence": "linkout",
+     "id": "8a277f3bc034",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Police search DMK Minister Anbil Mahesh’s house over alleged multi-crore fraud involving private schools",
      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/police-search-dmk-minister-anbil-maheshs-house-over-alleged-multi-crore-fraud-involving-private-schools/article71470984.ece",
      "summary": "Earlier, the Central Crime Branch had registered a case and arrested B.T. Arasakumar on charges of collecting large sums of money amounting to around ₹100 crore from private school managements",
@@ -900,33 +917,30 @@
      ]
     },
     {
-     "title": "Innovative pandals add colour to Ganesh pandals across Visakhapatnam",
-     "url": "https://www.thehindu.com/news/cities/Visakhapatnam/innovative-pandals-add-colour-to-ganesh-pandals-across-visakhapatnam/article71467928.ece",
-     "summary": "From a Ganesh idol made with one crore bangles and another adorned with one crore Rudraksha beads to a replica of the Bhogapuram airport, innovative themes and creative installations drew large crowds during Vinayaka Chavithi celebrations across the city",
-     "published": "2026-09-16T04:06:00+00:00",
+     "title": "Supreme Court confirms Kerala High Court order on execution proceedings in Kashi Math case",
+     "url": "https://www.thehindu.com/news/national/supreme-court-nod-for-kerala-high-court-to-continue-execution-proceedings-in-kashi-math-case/article71469539.ece",
+     "summary": "Kerala High Court decision of August 2026 allows Kashi Matadhipati Samyamindra Tirtha to continue execution proceedings for recovery of gold, silver ornaments and paraphernalia belonging to Kashi Math Samsthan from Raghavendra Tirtha",
+     "published": "2026-09-16T03:56:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/d59kkk/article71469302.ece/alternates/LANDSCAPE_1200/000001Ganeshhh.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/an7st4/article71469830.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
      "licence": "linkout",
-     "id": "73ce7d1d8cfa",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "805775aaa490",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "How BJP will celebrate Modi’s birthday: Month-long Seva Sankalp Abhiyan from September 17 to mark 25 years of administration",
-     "url": "https://www.thehindu.com/news/national/karnataka/bjp-to-take-up-month-long-seva-sankalp-abhiyan-from-sept-17-to-mark-modis-25-years-of-administration/article71469242.ece",
-     "summary": "Prime Minister Narendra Modi turns 76 on September 17",
-     "published": "2026-09-16T04:05:04+00:00",
+     "title": "Arrangements reviewed for CM’s Vizag visit; 26,426 to get house-site pattas on September 19",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/arrangements-reviewed-for-cms-vizag-visit-26426-to-get-house-site-pattas-on-september-19/article71469492.ece",
+     "summary": "The Nirmal Sagar pilot on beach cleaning and marine-waste recycling is to be launched on Beach Road with the UNDP, the Collector says",
+     "published": "2026-09-16T03:36:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5rlxc5/article71471019.ece/alternates/LANDSCAPE_1200/IMG_18_mn_Narendra_Modi._2_1_ARA9P3A1.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "2c1ce30a9a40",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "25 years of administration"
-     ]
+     "id": "e1780dceb787",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Consumer watchdog slaps ₹10 lakh fine on Rapido for misleading ads, unfair practices",
@@ -943,19 +957,6 @@
      "figures": [
       "₹10 lakh fine on Rapido"
      ]
-    },
-    {
-     "title": "Launch of expansion of Perunthalaivar Kamarajar Breakfast Scheme deferred to September 22: T.N. govt.",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/launch-of-expansion-of-perunthalaivar-kamarajar-breakfast-scheme-deferred-to-september-22-tn-govt/article71470906.ece",
-     "summary": "The scheme will be rolled out in all districts except Chengalpattu and Tiruppur, where the Model Code of Conduct is in force in view of the ensuing bypolls to Madurantakam and Dharapuram Assembly segments",
-     "published": "2026-09-16T02:23:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/im6zry/article71470921.ece/alternates/LANDSCAPE_1200/10217_15_7_2024_19_49_54_3_DSC_5848.JPG",
-     "licence": "linkout",
-     "id": "82c704c420b0",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Top news of the day: September 15, 2026",
@@ -994,6 +995,27 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on September 16, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63599",
+     "summary": "",
+     "published": "2026-09-16T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "1e79353cff01",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "VRRR"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Money Market Operations as on September 15, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63598",
@@ -1073,25 +1095,6 @@
      },
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Result of Yield/ Price Based Auction of State Government Securities",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63594",
-     "summary": "",
-     "published": "2026-09-16T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "682cb3dca0aa",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -1493,6 +1496,49 @@
      "id": "5f3133035106",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "UPI MDR from 15 October: How merchant charges compare with credit, debit card fees and credit-linked UPI",
+     "url": "https://www.livemint.com/money/personal-finance/upi-mdr-from-october-15-how-merchant-charges-compare-with-credit-debit-card-fees-and-credit-linked-upi-11789522587936.html",
+     "summary": "From 15 October, NPCI's new MDR policy will apply to certain UPI transactions. Here's how the merchant charges compare with credit card and debit card fees, and credit-linked UPI.&nbsp;",
+     "published": "2026-09-16T02:26:08+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/MDR_1789525437439_L8Rv_1789525437568_L2cV_a42dfb04-4da6-41a1-b997-f190b461ab0d_zTRw.png",
+     "licence": "linkout",
+     "id": "70ac3b3a49dd",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Got a stipend while studying? ₹18.34 lakh ITAT case explains when students can claim income-tax exemption",
+     "url": "https://www.livemint.com/money/personal-finance/got-a-stipend-while-studying-18-34-lakh-itat-case-explains-when-students-can-claim-income-tax-exemption-11789522326103.html",
+     "summary": "A postgraduate medical student received ₹18.34 lakh as a stipend from Aligarh Muslim University, but the Income Tax Department treated it as taxable salary. The Delhi ITAT held that the stipend was linked to her education and compulsory residency training and allowed the Section 10(16) exemption.",
+     "published": "2026-09-16T01:43:02+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/Gemini_Generated_Imag_dpcm3tdpcm3tdpcm_178952283_1789522858261_bBJp_1789522858400_VnWA_9556b673-8c3e-4a9d-be41-017c94397a69_7Wr6.png",
+     "licence": "linkout",
+     "id": "99209c7896df",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹18.34 lakh ITAT case explains when",
+      "₹18.34 lakh as a stipend"
+     ]
+    },
+    {
+     "title": "More households are moving up income ladder: How India's wealth pyramid could change by FY31",
+     "url": "https://www.livemint.com/money/personal-finance/more-households-are-moving-up-the-income-ladder-how-indias-wealth-pyramid-could-change-by-fy31-11789498698163.html",
+     "summary": "India’s income pyramid is shifting rapidly, with millions of households moving into higher-income brackets. As earnings rise, spending patterns, savings and investment behaviour are also changing.&nbsp;",
+     "published": "2026-09-15T19:55:32+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/hosudheil_1789502013032_Tgt6_1789502018142_7qVK_f1df4004-729a-4e36-acc1-7112c4213abe_tuy7.png",
+     "licence": "linkout",
+     "id": "6bab68c4f2f4",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1530,23 +1576,36 @@
     },
     {
      "title": "Tech Life",
-     "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
      "summary": "What should children learn in a world transformed by artificial intelligence?",
      "published": "2026-09-15T19:30:00+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9s5kz.jpg",
      "licence": "linkout",
-     "id": "257bafaba4b6",
+     "id": "effb612279a8",
      "category": "tech",
      "category_label": "AI & technology"
     },
     {
+     "title": "KOAFEC 2026: Korea and Africa place artificial intelligence and digital infrastructure at the heart of their partnership",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNVdYRnBEOUxJUFJjX1VXTFVvT2hCbGU5X2R3dDU5SXpPdFlOOEQ3bklsYVlmYmJQdmNoZXFwTDhfSW1MNk9qejJUSVpRT3hza0U0bGRYV0pZb29lSHFpYkU4NjJfSHQ3TU0wOEVZQV84ajZsVm5mMndUOG9SdExXbmhRSXZkeVgxcy13M2dPV1Y2WFlzVE9VSUhiR2pteC1JNk0tMVJxM2t6OTEyYXp6RUdlUnVIRmI5NnRiWTktbkctbEtGZ1VFelNDeWU1ZjRMckc0VkRRV1c4NjVCUW9nZ19YQVFveXUxdy1USllvMElTY2RwbDZSX1g0clBZNFU?oc=5",
+     "summary": "KOAFEC 2026: Korea and Africa place artificial intelligence and digital infrastructure at the heart of their partnership African Development Bank Group",
+     "published": "2026-09-15T21:05:25+00:00",
+     "source": "African Development Bank Group",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "0164acf624dd",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDJUMzlWWUJ3d0t6VE5UTXc4dFhoOHowRkQydnZZd2lyZ3FOclFXV005VE9aT3BMSVN1MEd1ek93TGtLc2F4aVZCM2JHM3lUWjNjQnVEbzJyeEFmT01DQXhyeEhRX1FTVGQ0QzhTVnJJVkNkXzd0VU1YSGZCelZMYkI1SzRBYXJTWVowckp5STZyMkpDeE5vWEhPRHhDRlVGTXJvbHdMRmdRMERoMWpaR1V2RkY1X0c4bEhJaE9fb215dE40a0dVRW1R?oc=5",
-     "summary": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com in.investing.com",
+     "summary": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com Investing.com India",
      "published": "2026-09-15T10:25:50+00:00",
-     "source": "in.investing.com",
+     "source": "Investing.com India",
      "byline": "",
      "image": null,
      "licence": "linkout",
