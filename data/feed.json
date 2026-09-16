@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T01:34:23.899411+00:00",
+ "generated_at": "2026-09-16T02:02:40.338903+00:00",
  "podcasts_fetched_at": "2026-09-15T23:33:03.652231+00:00",
  "markets": [
   {
@@ -19,7 +19,8 @@
    "value": 23118.6,
    "change": -312.9,
    "changePct": -1.34,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "banknifty",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
+  "Gimmicks India",
   "Letby",
-  "Teen Ganesh",
   "Jazeera English",
   "News",
   "India Bombay",
   "Exclusive",
-  "Baghel Vijay",
-  "Ahead Bihar",
+  "Supreme Court",
+  "Attacks Saudi",
   "Saudi Mecca",
-  "Israeli West"
+  "Locked Inside"
  ],
  "sections": [
   {
@@ -101,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "'Gimmicks': India on Pakistan's fresh announcement on Masood Azhar bounty",
+     "url": "https://www.thehindu.com/news/national/gimmicks-india-on-pakistans-fresh-announcement-on-masood-azhar-bounty/article71470890.ece",
+     "summary": "Azhar remains wanted in India for major terror attacks, including the 2001 Parliament strike, the 2008 Mumbai attacks, the 2016 Pathankot airbase assault and the 2019 Pulwama bombing.",
+     "published": "2026-09-16T01:45:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i3ocv9/article71470893.ece/alternates/LANDSCAPE_1200/India_Kashmir_Bombing_02583.jpg-6e706.jpg",
+     "licence": "linkout",
+     "id": "81927a58a921",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
      "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
@@ -127,20 +142,6 @@
      "id": "b9ff6da04835",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Ex-ABVP convenor, PM-EAC members in NCERT’s new English and Economics textbook committees",
-     "url": "https://www.thehindu.com/education/ex-abvp-convenor-pm-eac-members-in-ncerts-new-english-and-economics-textbook-committees/article71468274.ece",
-     "summary": "Former ABVP spokesperson Saket Bahuguna, accused of ideological policing during student union polls, to help draft English texts for Class 11 and 12; PM-EAC members Sanjeev Sanyal, Shamika Ravi part of Economics textbook panel",
-     "published": "2026-09-15T21:50:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n5cl82/article71470144.ece/alternates/LANDSCAPE_1200/ncert.jpg",
-     "licence": "linkout",
-     "id": "0da1fce059cf",
-     "category": "crime",
-     "category_label": "Crime",
      "from_section": "National Hotlines"
     },
     {
@@ -158,20 +159,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
-     "summary": "Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.",
-     "published": "2026-09-16T00:00:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260914__C8976Q8__v1__HighRes__IranUsIsraelWarDailylife-1789513970.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "5028a24ab768",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
@@ -184,6 +171,20 @@
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
+    },
+    {
+     "title": "Does artificial intelligence change the nature of war?",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGh6SnJIclF1X3VYUlhfcGkzWWhjN0dWblEwbFoteVBNR1R4ZldISzZsSGVYUFE1WFEtZFVRUTFzVnRyT1ZPTUZQY3A4WGk5ZVlZTXI5ajQ1SWRyTlJEazJIYW1mbUVyVHhjeGUtWGdxNGxXUVlKWWttWElVNTczQnktWWFGd3lkWWFxY1l3VURfdXlQNW4wVXpHa2oxZURfWFNMWUx6LWFOZw?oc=5",
+     "summary": "Does artificial intelligence change the nature of war? PubAffairs Bruxelles",
+     "published": "2026-09-15T09:56:57+00:00",
+     "source": "PubAffairs Bruxelles",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "5c1a8df02dff",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Technology"
     },
     {
      "title": "Ahead of central team visit, Bihar CM transfers ₹579 crore in flood relief",
@@ -214,7 +215,7 @@
      "id": "aafa3450f016",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "₹3,516 crore for Vishnupad Temple area"
      ]
@@ -234,6 +235,38 @@
      "from_section": "Culture"
     },
     {
+     "title": "Got a stipend while studying? ₹18.34 lakh ITAT case explains when students can claim income-tax exemption",
+     "url": "https://www.livemint.com/money/personal-finance/got-a-stipend-while-studying-18-34-lakh-itat-case-explains-when-students-can-claim-income-tax-exemption-11789522326103.html",
+     "summary": "A postgraduate medical student received ₹18.34 lakh as a stipend from Aligarh Muslim University, but the Income Tax Department treated it as taxable salary. The Delhi ITAT held that the stipend was linked to her education and compulsory residency training and allowed the Section 10(16) exemption.",
+     "published": "2026-09-16T01:43:02+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/Gemini_Generated_Imag_dpcm3tdpcm3tdpcm_178952283_1789522858261_bBJp_1789522858400_VnWA_9556b673-8c3e-4a9d-be41-017c94397a69_7Wr6.png",
+     "licence": "linkout",
+     "id": "99209c7896df",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹18.34 lakh ITAT case explains when",
+      "₹18.34 lakh as a stipend"
+     ]
+    },
+    {
+     "title": "Co-location scam case: Supreme Court refuses to entertain Chitra Ramkrishna's plea challenging HC order",
+     "url": "https://www.thehindu.com/news/national/co-location-scam-case-supreme-court-refuses-to-entertain-chitra-ramkrishnas-plea-challenging-hc-order/article71470885.ece",
+     "summary": "Senior advocate Balbir Singh, appearing for Ms. Ramkrishna, argued that the National Stock Exchange (NSE) is a private company and it can't be said that the petitioner was discharging a public duty.",
+     "published": "2026-09-16T01:35:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/28iks1/article71470886.ece/alternates/LANDSCAPE_1200/IMG_Chitra_Ramkrishna__M_2_1_SQ9RKH79.jpg",
+     "licence": "linkout",
+     "id": "a58bb423d545",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
+    },
+    {
      "title": "\"A Fraud\": Jim Harbaugh Draws Heat As Former Los Angeles Chargers Player Questions His Legacy",
      "url": "https://sports.ndtv.com/us-nfl/a-fraud-jim-harbaugh-draws-unexpected-criticism-as-ex-los-angeles-chargers-player-questions-his-legacy-12052055#publisher=newsstand",
      "summary": "Jim Harbaugh faces fresh scrutiny after the Los Angeles Chargers’ 26-14 loss to the Arizona Cardinals, with former Chargers player Breiden Fehoko delivering a blunt assessment of the coach’s legacy and postseason record.",
@@ -249,34 +282,6 @@
      "figures": [
       "14 loss to the Arizona Cardinals"
      ]
-    },
-    {
-     "title": "Israeli soldiers rappel from helicopter in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
-     "summary": "Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank.",
-     "published": "2026-09-16T00:42:33+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789519337.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "9f51747abdde",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Former Maduro ally pleads guilty to money laundering and fraud",
-     "url": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss",
-     "summary": "Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela's welfare programme.",
-     "published": "2026-09-16T00:36:57+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa9cba1d3-1789512609.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "73219969ee6d",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News"
     },
     {
      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
@@ -305,6 +310,20 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
+    },
+    {
+     "title": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
+     "url": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
+     "summary": "A senior Iraqi source points to a resistance 'splinter' group for the September attack on the East-West pipeline.",
+     "published": "2026-09-16T01:35:14+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7d155b-1786582363.jpg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "21215dfc7751",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Global News"
     },
     {
      "title": "Locked offices and millions in donations: Inside India's little-known political parties",
@@ -393,9 +412,9 @@
     {
      "title": "Alex Saab pleads guilty in US, agrees to aid Venezuela corruption probe",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1VNWnFaRFVUVV9nOXQwYUVrY3NWLUxDdHRKdHc0ckczdWl3ZmxERHc1Z0RDZnpYaE85RzU3bF9raW40d3dqX1lrQmZlckdrZEk2Y2JsMEI4VmF0YTFsV1cwYklITExsdzFjZ0VaLWRDc1ZCS0JaSXJ2QlVyNGFQQUNwYUh1aFZhV003OUdTMlZ3OFVqSXZKWjJtcWtWTjJWaUVYLVBhTjIyWm1SblBuRnFlMjlVV1RIWE12VGVzWFZpV1FuM052cNIBzgFBVV95cUxQTXc4Yzk2elhIVU5yN3QtOVlxZU5sbTI4UnVOYTM0ZVIxczNQbkFpcl9NSkg1NUgycGhYcV9TM3JfbVBLRDBfZ0NXaWIyM2RoNDAyOTBTakl1V2s0RktmNkt5anJMOUxlQ1ZYS0ZrX0NZT0k0Q3NjWldOWEJqZFFMLWh3T28tTHlSNHF3WW9RZmdhUkdwOFl1c0NwWE9sYUM0R05SWDlHR2dNNlBPcG1IeElBUmVyUS1iZU5Eb3h2MUJ4ejVReS1Ob2s1QWtEdw?oc=5",
-     "summary": "Alex Saab pleads guilty in US, agrees to aid Venezuela corruption probe indiatoday.in",
+     "summary": "Alex Saab pleads guilty in US, agrees to aid Venezuela corruption probe India Today",
      "published": "2026-09-15T16:44:37+00:00",
-     "source": "indiatoday.in",
+     "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -432,7 +451,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-16T01:34:12.740302+00:00",
+     "published": "2026-09-16T02:02:27.451363+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -443,7 +462,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-16T01:34:12.740312+00:00",
+     "published": "2026-09-16T02:02:27.451384+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -454,7 +473,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-16T01:34:12.740318+00:00",
+     "published": "2026-09-16T02:02:27.451390+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -465,7 +484,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-16T01:34:12.740323+00:00",
+     "published": "2026-09-16T02:02:27.451395+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -476,7 +495,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-16T01:34:12.740327+00:00",
+     "published": "2026-09-16T02:02:27.451400+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -487,7 +506,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-16T01:34:12.740331+00:00",
+     "published": "2026-09-16T02:02:27.451405+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -568,6 +587,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "'Gimmicks': India on Pakistan's fresh announcement on Masood Azhar bounty",
+     "url": "https://www.thehindu.com/news/national/gimmicks-india-on-pakistans-fresh-announcement-on-masood-azhar-bounty/article71470890.ece",
+     "summary": "Azhar remains wanted in India for major terror attacks, including the 2001 Parliament strike, the 2008 Mumbai attacks, the 2016 Pathankot airbase assault and the 2019 Pulwama bombing.",
+     "published": "2026-09-16T01:45:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i3ocv9/article71470893.ece/alternates/LANDSCAPE_1200/India_Kashmir_Bombing_02583.jpg-6e706.jpg",
+     "licence": "linkout",
+     "id": "81927a58a921",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Co-location scam case: Supreme Court refuses to entertain Chitra Ramkrishna's plea challenging HC order",
+     "url": "https://www.thehindu.com/news/national/co-location-scam-case-supreme-court-refuses-to-entertain-chitra-ramkrishnas-plea-challenging-hc-order/article71470885.ece",
+     "summary": "Senior advocate Balbir Singh, appearing for Ms. Ramkrishna, argued that the National Stock Exchange (NSE) is a private company and it can't be said that the petitioner was discharging a public duty.",
+     "published": "2026-09-16T01:35:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/28iks1/article71470886.ece/alternates/LANDSCAPE_1200/IMG_Chitra_Ramkrishna__M_2_1_SQ9RKH79.jpg",
+     "licence": "linkout",
+     "id": "a58bb423d545",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "In a rare debate, Baghel and Vijay Sharma spar over PM Awas Yojana in Chhattisgarh",
      "url": "https://www.thehindu.com/news/national/chhattisgarh/in-a-rare-debate-baghel-and-vijay-sharma-spar-over-pm-awas-yojana-in-chhattisgarh/article71469251.ece",
      "summary": "The crux of the debate was the action taken or lack thereof in their respective tenures — the Congress between 2018 and 2023 and the BJP from December 2023 till date — on the implementation of the central housing scheme for the poor.",
@@ -579,22 +624,6 @@
      "id": "c368d8e22103",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Ahead of central team visit, Bihar CM transfers ₹579 crore in flood relief",
-     "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-transfers-579-crore-in-relief-to-flood-affected-people/article71467155.ece",
-     "summary": "A team led by Union Agriculture Minister Shivraj Singh Chouhan is scheduled to visit Bihar on September 16",
-     "published": "2026-09-16T00:01:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/urp2tz/article71467181.ece/alternates/LANDSCAPE_1200/20260914251L.jpg",
-     "licence": "linkout",
-     "id": "bee589abcd37",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹579 crore in flood relief"
-     ]
     },
     {
      "title": "Key allies TDP, Shiv Sena back Amit Shah's statement on UCC in all NDA-ruled States",
@@ -686,6 +715,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
+     "url": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
+     "summary": "A senior Iraqi source points to a resistance 'splinter' group for the September attack on the East-West pipeline.",
+     "published": "2026-09-16T01:35:14+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7d155b-1786582363.jpg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "21215dfc7751",
+     "category": "human",
+     "category_label": "Human interest"
+    },
+    {
      "title": "Saudi-led coalition intercepts drone headed for Mecca",
      "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
      "summary": "Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'",
@@ -712,17 +754,17 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Iran war increasing inflation, straining US munitions: congressional report",
-     "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
-     "summary": "Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.",
-     "published": "2026-09-16T00:38:12+00:00",
+     "title": "Former Maduro ally pleads guilty to money laundering and fraud",
+     "url": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss",
+     "summary": "Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela's welfare programme.",
+     "published": "2026-09-16T00:36:57+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8621b0b321b-1787175344.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa9cba1d3-1789512609.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "6c01f5552ff0",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "73219969ee6d",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
@@ -848,6 +890,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "'Gimmicks': India on Pakistan's fresh announcement on Masood Azhar bounty",
+     "url": "https://www.thehindu.com/news/national/gimmicks-india-on-pakistans-fresh-announcement-on-masood-azhar-bounty/article71470890.ece",
+     "summary": "Azhar remains wanted in India for major terror attacks, including the 2001 Parliament strike, the 2008 Mumbai attacks, the 2016 Pathankot airbase assault and the 2019 Pulwama bombing.",
+     "published": "2026-09-16T01:45:58+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/i3ocv9/article71470893.ece/alternates/LANDSCAPE_1200/India_Kashmir_Bombing_02583.jpg-6e706.jpg",
+     "licence": "linkout",
+     "id": "81927a58a921",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Co-location scam case: Supreme Court refuses to entertain Chitra Ramkrishna's plea challenging HC order",
+     "url": "https://www.thehindu.com/news/national/co-location-scam-case-supreme-court-refuses-to-entertain-chitra-ramkrishnas-plea-challenging-hc-order/article71470885.ece",
+     "summary": "Senior advocate Balbir Singh, appearing for Ms. Ramkrishna, argued that the National Stock Exchange (NSE) is a private company and it can't be said that the petitioner was discharging a public duty.",
+     "published": "2026-09-16T01:35:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/28iks1/article71470886.ece/alternates/LANDSCAPE_1200/IMG_Chitra_Ramkrishna__M_2_1_SQ9RKH79.jpg",
+     "licence": "linkout",
+     "id": "a58bb423d545",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "In a rare debate, Baghel and Vijay Sharma spar over PM Awas Yojana in Chhattisgarh",
      "url": "https://www.thehindu.com/news/national/chhattisgarh/in-a-rare-debate-baghel-and-vijay-sharma-spar-over-pm-awas-yojana-in-chhattisgarh/article71469251.ece",
      "summary": "The crux of the debate was the action taken or lack thereof in their respective tenures — the Congress between 2018 and 2023 and the BJP from December 2023 till date — on the implementation of the central housing scheme for the poor.",
@@ -861,70 +929,37 @@
      "category_label": "General"
     },
     {
-     "title": "Ahead of central team visit, Bihar CM transfers ₹579 crore in flood relief",
-     "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-transfers-579-crore-in-relief-to-flood-affected-people/article71467155.ece",
-     "summary": "A team led by Union Agriculture Minister Shivraj Singh Chouhan is scheduled to visit Bihar on September 16",
-     "published": "2026-09-16T00:01:40+00:00",
+     "title": "Ex-ABVP convenor, PM-EAC members in NCERT’s new English and Economics textbook committees",
+     "url": "https://www.thehindu.com/education/ex-abvp-convenor-pm-eac-members-in-ncerts-new-english-and-economics-textbook-committees/article71468274.ece",
+     "summary": "Former ABVP spokesperson Saket Bahuguna, accused of ideological policing during student union polls, to help draft English texts for Class 11 and 12; PM-EAC members Sanjeev Sanyal, Shamika Ravi part of Economics textbook panel",
+     "published": "2026-09-15T21:50:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/urp2tz/article71467181.ece/alternates/LANDSCAPE_1200/20260914251L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/n5cl82/article71470144.ece/alternates/LANDSCAPE_1200/ncert.jpg",
      "licence": "linkout",
-     "id": "bee589abcd37",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹579 crore in flood relief"
-     ]
+     "id": "0da1fce059cf",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "Key allies TDP, Shiv Sena back Amit Shah's statement on UCC in all NDA-ruled States",
-     "url": "https://www.thehindu.com/news/national/key-allies-tdp-shiv-sena-back-amit-shahs-statement-on-ucc-in-all-nda-ruled-states/article71470158.ece",
-     "summary": "The support of the TDP with 16 Lok Sabha MPs, the Shiv Sena with 13 and the JD(U) with 12 is crucial for the Narendra Modi government",
-     "published": "2026-09-15T22:40:48+00:00",
+     "title": "Top news of the day: September 15, 2026",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2s0a3BtcTRCQlhzM3hpVm9WdEpvczNORU5IVGgza21wdUdqSmJYcXlLWkV0bHJCUlhpRWNyVTRGOFZpQl9DVTlOYXVFOWRBb3VpU2l4MUwySW9OUDhVV1Q1ZENBanB1UUFpX2VjSU80aEZieUQ4ZzV1Wi1TX2N3ZUxYR29SYUs1YXNWVnNHS2_SAZcBQVVfeXFMUEpBNzRaUkx3NVdmVW9FZVlldi1FVDJyeDhLYjJmQkpGVE5VSG9LLWk3MUpPaXFYZUZ6VmpHWGZhUHhkdDFqYmNpYkk4bW5IZXVwdUZKRm5mVnJmOVBmZGlWMG5ocm9neThBaTlFdVVSclpudUVpaVpacWtIUS1IcEZ6azNZYTQ5OGl3aHR3RVFzTDVBTklYNA?oc=5",
+     "summary": "Top news of the day: September 15, 2026 The Hindu",
+     "published": "2026-09-15T13:38:05+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/z68fs8/article71470159.ece/alternates/LANDSCAPE_1200/20260915150L.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "69f9fc047c93",
+     "id": "e6fd8e1622d5",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Punjab villager death: Congress leaders stage demonstration against Minister Harpal Cheema",
-     "url": "https://www.thehindu.com/news/national/punjab/punjab-villager-death-congress-sachin-pilot-partap-bajwa-detained-during-protest-against-cheema/article71467740.ece",
-     "summary": "Sachin Pilot and LoP Partap Bajwa were among those detained as police resorted to water cannons during the protest demanding an independent probe into the incident",
-     "published": "2026-09-15T21:07:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/kvu267/article71469989.ece/alternates/LANDSCAPE_1200/PTI09_15_2026_000271B.jpg",
-     "licence": "linkout",
-     "id": "15e130a8ffa5",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Candidate dies during physical test for U.P. Home Guard recruitment",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/candidate-dies-during-physical-test-for-up-home-guard-recruitment/article71469982.ece",
-     "summary": "A total of 1,017 candidates appeared for the Physical Efficiency Test (PET); 11 candidates complained of ill health",
-     "published": "2026-09-15T20:49:47+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "61e0c52089d1",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1,017 candidates appeared for the Physical",
-      "11 candidates complained of ill health"
-     ]
-    },
-    {
      "title": "Today News Headlines for School Assembly, September 16, 2026: UPI payments above Rs 2,000 to merchants to incur a 0.4% fee",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORzQ0U0FwMElPR3d2UG9TZk9Fblhjd1JFVm5seHF1MWhLcEtPb19MaDlfMk9LZ2MzQ1hBMHFRN1BfRWpLYU9UVEJTU1FvUlJyZHZyN3B4TjVJazl1eW5FOURXVl8zN2REanhqaTRfLVRhRnA2NHdadDlwT1ktcWVNbU1zYkVPRWFJYzlMNkdxSHNGVEFBVDh5Y1JyRGwwYVpDOXhWWDBoZnZjZnZhelNyTjdRWktrMGtEcGpNQ0tUc1ZGR05MeGdnRUZkOGVqNzlqZVBvTHlOTHNtYlVVcDQ3bGxwc0Nhd3E5OW9SZkE3OXQ5RXlpcW9EMmFtX1pJcnNjakktaNIBiwJBVV95cUxNLWNEelRaT29UV1FWekFibGFaSXluQ3dqRTZzTWtXZFRaVFhYZjdiOTJhRGRkamhtWWFYRW5NYUJxUXBfMVdpTk01TTk5dWh5S2VVMmVCMTc0RUlmQkhRMV9udDVaZTlUNS16Tm1YbmtVQ3BrbTU1TGNlVlNLRVdwSGFWUlRRcEhMaEhSMUtxZXN2QVltaGFYTndNM0NVUG5JUWZTZlFSTkVjQmdJRVJrRlBqQlZiQl9Gd2swOHpSRmFHVXVreVM4eUhNUjRHdVZialdyZjBrYk9rQUtOLTZNRzloSFNDdlZWcHVteVl6MjVpbXpWM3FlV21Na0UtQ1RiNkZ3ZTZidWdzMzQ?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 16, 2026: UPI payments above Rs 2,000 to merchants to incur a 0.4% fee indianexpress.com",
+     "summary": "Today News Headlines for School Assembly, September 16, 2026: UPI payments above Rs 2,000 to merchants to incur a 0.4% fee The Indian Express",
      "published": "2026-09-15T11:26:25+00:00",
-     "source": "indianexpress.com",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -934,19 +969,6 @@
      "figures": [
       "Rs 2,000  to merchants to incur"
      ]
-    },
-    {
-     "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
-     "summary": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance News On AIR",
-     "published": "2026-09-15T21:42:42+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "7ecb2ba862ba",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -1456,6 +1478,66 @@
      "id": "30f10d510f1c",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "More households are moving up the income ladder: How India's wealth pyramid could change by FY31",
+     "url": "https://www.livemint.com/money/personal-finance/more-households-are-moving-up-the-income-ladder-how-indias-wealth-pyramid-could-change-by-fy31-11789498698163.html",
+     "summary": "India’s income pyramid is shifting rapidly, with millions of households moving into higher-income brackets. As earnings rise, spending patterns, savings, and investment behaviour are also changing.&nbsp;",
+     "published": "2026-09-15T19:55:32+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/hosudheil_1789502013032_Tgt6_1789502018142_7qVK_f1df4004-729a-4e36-acc1-7112c4213abe_tuy7.png",
+     "licence": "linkout",
+     "id": "6bab68c4f2f4",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "5 simple money lessons from The Intelligent Investor by Benjamin Graham: Market moods, picking stocks and more",
+     "url": "https://www.livemint.com/money/personal-finance/5-simple-money-lessons-from-the-intelligent-investor-by-benjamin-graham-market-moods-picking-stocks-and-more-11789496653077.html",
+     "summary": "Benjamin Graham’s The Intelligent Investor advises on understanding investments through careful examination. Check out these 5 simple money lessons from the celebrated book.",
+     "published": "2026-09-15T18:33:20+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/Intel_Investor_1789496874194_fmhl_1789496895170_8ZJe_d5c29934-4126-42a6-8c24-a4925c3b7989_kgkY.jpg",
+     "licence": "linkout",
+     "id": "ea2d78084489",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "5 simple money lessons"
+     ]
+    },
+    {
+     "title": "Government clarifies credit card-linked UPI payments exempt from 0.4% fee",
+     "url": "https://www.livemint.com/money/personal-finance/government-clarifies-credit-card-linked-upi-payments-exempt-from-0-4-fee-11789493644530.html",
+     "summary": "The clarification comes ahead of the revised UPI fee structure, which is scheduled to take effect from October 15. Under the new framework, a 0.4% MDR will be applicable to certain direct account-to-merchant-account UPI payments above ₹2,000, with the fee capped at ₹300 per transaction",
+     "published": "2026-09-15T18:26:21+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/creditcard_1789495021998_tNej_1789495022219_wAUk_381c9001-a3ae-4009-9d2c-28a51a4c7566_8HAb.jpg",
+     "licence": "linkout",
+     "id": "e17cbbb1bc78",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "15. Under the new framework",
+      "₹2,000,  with the fee capped",
+      "₹300  per transaction"
+     ]
+    },
+    {
+     "title": "Same mutual fund category, different capital gains tax? How a scheme's portfolio can change your tax bill",
+     "url": "https://www.livemint.com/money/personal-finance/same-mutual-fund-category-different-capital-gains-tax-how-a-schemes-portfolio-can-change-your-tax-bill-11789492976985.html",
+     "summary": "Mutual fund investors cannot always rely on a scheme’s category to determine capital gains tax. The actual portfolio allocation and tax classification can change the holding-period threshold and tax rate. Here’s what investors should check before redeeming.",
+     "published": "2026-09-15T18:24:51+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/15/600x338/capia_tax_1789496587650_dBw3_1789496592274_dpJq_b2db9128-7a8f-4c60-9a6f-d95973ab5248_w0PZ.png",
+     "licence": "linkout",
+     "id": "b2dccc86d4d1",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -1505,19 +1587,6 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "McKinsey Technology Trends Outlook 2026",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5",
-     "summary": "McKinsey Technology Trends Outlook 2026 McKinsey & Company",
-     "published": "2026-09-15T19:36:56+00:00",
-     "source": "McKinsey & Company",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "17c6444a2690",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDJUMzlWWUJ3d0t6VE5UTXc4dFhoOHowRkQydnZZd2lyZ3FOclFXV005VE9aT3BMSVN1MEd1ek93TGtLc2F4aVZCM2JHM3lUWjNjQnVEbzJyeEFmT01DQXhyeEhRX1FTVGQ0QzhTVnJJVkNkXzd0VU1YSGZCelZMYkI1SzRBYXJTWVowckp5STZyMkpDeE5vWEhPRHhDRlVGTXJvbHdMRmdRMERoMWpaR1V2RkY1X0c4bEhJaE9fb215dE40a0dVRW1R?oc=5",
      "summary": "Form 8K Artificial Intelligence Technology Solutions For: 15 September By Investing.com Investing.com India",
@@ -1544,19 +1613,6 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Does artificial intelligence change the nature of war?",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGh6SnJIclF1X3VYUlhfcGkzWWhjN0dWblEwbFoteVBNR1R4ZldISzZsSGVYUFE1WFEtZFVRUTFzVnRyT1ZPTUZQY3A4WGk5ZVlZTXI5ajQ1SWRyTlJEazJIYW1mbUVyVHhjeGUtWGdxNGxXUVlKWWttWElVNTczQnktWWFGd3lkWWFxY1l3VURfdXlQNW4wVXpHa2oxZURfWFNMWUx6LWFOZw?oc=5",
-     "summary": "Does artificial intelligence change the nature of war? PubAffairs Bruxelles",
-     "published": "2026-09-15T09:56:57+00:00",
-     "source": "PubAffairs Bruxelles",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5c1a8df02dff",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
      "title": "Knowtex launches frontier healthcare AI lab",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXF3V2pmVHNteGtpQzFIdzBEU3dYbzVlQXVzV0w3QlBoTnRhZmxic3ZsUFRIWnJsMm1CdDhpcnY4ekFaWTVOVlBoVVFHSVMwTlZkcVRpeURnbWgyeDdjc1Axazc5UTVBOUFsYWRocTZLWjFFcGhJdEVCcUhsSlR5NTVLa1RSNDlhZExZZDJhNDdVbWdzdTRKYVNFQzBLYnFEckE?oc=5",
      "summary": "Knowtex launches frontier healthcare AI lab Fierce Healthcare",
@@ -1568,6 +1624,23 @@
      "id": "878c1db696a5",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5",
+     "summary": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? The Motley Fool",
+     "published": "2026-09-15T18:53:00+00:00",
+     "source": "The Motley Fool",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "9965d4c1ccb5",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "figures": [
+      "5 Years ?",
+      "5 Years ? The Motley Fool"
+     ]
     }
    ]
   },
