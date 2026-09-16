@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T14:40:49.027646+00:00",
+ "generated_at": "2026-09-16T15:08:57.589447+00:00",
  "podcasts_fetched_at": "2026-09-15T23:33:03.652231+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 122486.0,
    "change": -836.0,
    "changePct": -0.68,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -68,7 +69,8 @@
    "value": 106.94,
    "change": 2.33,
    "changePct": 2.23,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -82,16 +84,16 @@
   }
  ],
  "topics": [
-  "Tamil Nadu",
-  "Never Aaditya",
+  "Mysuru",
+  "Four Iranians",
   "Jazeera English",
   "News",
   "Search",
-  "Former Minister",
-  "Patiala Pune",
-  "Government Bharath",
-  "Global News",
-  "Maresca Manchester"
+  "Govt Asif",
+  "Keralam Sept",
+  "Trump Rahul",
+  "Egypt Sisi",
+  "Philippines Duterte"
  ],
  "sections": [
   {
@@ -100,6 +102,37 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Mysuru’s heritage under flex assault, MGP calls for strict enforcement",
+     "url": "https://www.thehindu.com/news/national/karnataka/mysurus-heritage-under-flex-assault-mgp-calls-for-strict-enforcement/article71472995.ece",
+     "summary": "‘Crackdown on illegal flexes, save Mysuru’s heritage’; MGP’s key demands include FIRs, cost recovery in anti-flex drive",
+     "published": "2026-09-16T14:57:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/thuat7/article71473344.ece/alternates/LANDSCAPE_1200/5964_29_8_2023_13_9_31_2_GRUHALAKSHMIBANNERS1.JPG",
+     "licence": "linkout",
+     "id": "3dc98ae85b82",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’",
+     "url": "https://www.aljazeera.com/news/2026/9/16/four-years-on-iranians-reflect-on-impact-of-woman-life?traffic_source=rss",
+     "summary": "Amnesty International says Iranian authorities committed crimes against humanity during the 2022-23 protests.",
+     "published": "2026-09-16T14:18:54+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2023/09/32KY9QX-preview-1694783324.jpg?resize=1741%2C1080",
+     "licence": "linkout",
+     "id": "6bb78ff1f29f",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News",
+     "figures": [
+      "23 protests"
+     ]
+    },
     {
      "title": "Tamil Nadu Ex-School Education Minister Charged In Rs 100-Crore Bribery Case",
      "url": "https://www.ndtv.com/india-news/tamil-nadu-ex-school-education-minister-charged-in-rs-100-crore-bribery-case-12054548#publisher=newsstand",
@@ -118,43 +151,15 @@
      ]
     },
     {
-     "title": "\"Never Met\": Aaditya Thackeray Reacts To Sushant Rajput Ex-Manager Murder FIR Naming Him",
-     "url": "https://www.ndtv.com/india-news/never-met-her-aaditya-thackeray-after-cbi-names-him-in-sushant-rajput-manager-disha-salians-murder-fir-12055095#publisher=newsstand",
-     "summary": "\"Let the official re-investigation proceed without malicious distractions and character assassination for political motives,\" Aaditya Thackeray said on the 2020 death of Sushant Rajput's ex-manager.",
-     "published": "2026-09-16T13:55:04+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2024-11/mhrbj4r_aaditya-thackeray_625x300_25_November_24.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "5fbdd775b6fc",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-     "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-     "summary": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
-     "published": "2026-09-16T11:50:09+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/7e624650-b1b6-11f1-bc1f-3f186ca4140c.jpg",
-     "licence": "linkout",
-     "id": "879e22a0502b",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
-     "url": "https://www.aljazeera.com/news/2026/9/16/norway-oil-fund-ethical-concerns?traffic_source=rss",
-     "summary": "As Gaza is being destroyed, the so-called oil fund enjoys robust returns from companies linked to Israel's military.",
-     "published": "2026-09-16T13:29:32+00:00",
+     "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
+     "url": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
+     "summary": "Israel’s defence minister has pledged to remove Palestinians from the besieged Strip.",
+     "published": "2026-09-16T14:31:14+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-08-22T133055Z_1811371161_RC27CGAKDOYI_RTRMADP_3_NORWAY-ELECTION-SWF-1789558738.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aaaa17707de-1789567351.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "5e733ad4d254",
+     "id": "6dd3abc3216a",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -178,35 +183,21 @@
      ]
     },
     {
-     "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-     "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-     "published": "2026-09-15T20:34:12+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
-     "licence": "linkout",
-     "id": "83c9ff637cd4",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
      "title": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbFpxVGJ1eDZmUVlaY0Y3TjJFN1JESnBfd3dBd204bGhneVR3SzJpcGFQc25QS0NwUkUxYTktR09ZNjBZdG94NVVDcVhFbEFHSWtIbkhGTjFyaU9HTklTZzd4Yi1JSURITk13ME9ySG5SbW12WTB4bGJhbnEyUWxlMzctSzl0WUtwdjNtOVJjTmg0X1ZOVkw3d3VRcVpNUmYzR3NNcGtWdVF5N01kYl9qMDczTTZQaVRMbmxKRU5rTEswalZYbENWSE1WcnBEcGFOcVJYT29EdDZybGxWcU5lVWsyRnJGZGg2XzFiSHlLSmg2NUlSUzljc2I0V29mbm5uc2RDQ9IBiwJBVV95cUxPN19FQTdCTWYwQVJSajFlMG1POFdZYUh5ZXR2d3dvcU9BakFiM2ZVMy1wOTgzY3NwU2JXLTJHbjhwa2gyM2tDYllOMzBYX3duM1VBdlB6ZVo1a3FSajdaZXBvbTFfWjhzdzE4dzZkWjhFanVuNWJBbXBEdXU2Y0xja2FXOVhGaTdOdkk3X1g5Y2c3aVk3NWkwMWtHRHJHbU1WRExGdmlOTVlGTEVjcTh5aUxfNU81eXd6dVBuMmhFNU4tb3JuWms0S1lFUnIyVHFoRTlrREdBTmQ1Yl81NS0wWFJxUmFDcjRyMEFseVNtM2hjWjF2bHZBNWRlLUkyVmVXWHV5RlFLOHJsNms?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision The Indian Express",
+     "summary": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision indianexpress.com",
      "published": "2026-09-16T11:14:16+00:00",
-     "source": "The Indian Express",
+     "source": "indianexpress.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "a4fa595f6ef4",
      "also": [
       {
-       "source": "bestcolleges.indiatoday.in",
+       "source": "India Today",
        "title": "School assembly news headlines today- September 17: Top national, sports and world news curated for you",
        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWEljQURWS0FTdnJ4WGRJWHBRRUIwX2FreVhZSkpjQ0JWNTIyMEw3NF9OaU14RnkzRFJ2bDRSbU85dVJNZXFmNmlKNWgzZk9BbUgtd3RkQ2dvU3hWNDJJbHRkR3VDVG54dHByTWU2aWtMVlZ1NEpSSkdXLTUtMVA1b2s4NWJ0WXh1cTBnc2FpM0hoYnZ1VS0zME9CMEtIVjFERXk0SVYta0F5akpCcUY1V2M5ZXF1UFRHd080Z3BEeFFPZ2l5Z2pONE1pVk9YM0o5WHFyTllQLUJyaW1XdE82SW80bDZyWG1u?oc=5",
-       "summary": "School assembly news headlines today- September 17: Top national, sports and world news curated for you bestcolleges.indiatoday.in"
+       "summary": "School assembly news headlines today- September 17: Top national, sports and world news curated for you India Today"
       }
      ],
      "category": "politics",
@@ -214,35 +205,49 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "Government aiming to create jobs for youth, says Bharath",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-focusing-on-job-creation-for-youth-says-bharath/article71471913.ece",
-     "summary": "Inaugurating a job fair, Industries Minister says there is a possibility of a semiconductor industry being established at Orvakal with an investment of approximately ₹23,000 crore and it could lead to direct and indirect job opportunities for local youth",
-     "published": "2026-09-16T14:37:34+00:00",
+     "title": "SPA elections to be held on Oct. 11",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/spa-elections-to-be-held-on-oct-11/article71472385.ece",
+     "summary": "",
+     "published": "2026-09-16T14:59:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "b8e82015635e",
+     "id": "c225073ad4fe",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "₹23,000 crore and it could lead"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "Increasing green cover should be our priority: Eshwar Khandre",
-     "url": "https://www.thehindu.com/news/national/karnataka/increasing-green-cover-should-be-our-priority-eshwar-khandre/article71472644.ece",
-     "summary": "The RDPR Minister inaugurated the Dr. Channabasava Pattadadevaru Tree Park at Inchur village in Bhalki taluk of Bidar district.",
-     "published": "2026-09-16T14:33:41+00:00",
+     "title": "Rayachoti set for major infrastructure push",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/rayachoti-set-for-major-infrastructure-push/article71472414.ece",
+     "summary": "Transport Minister performs bhumi puja for the works including CC roads, drains and other basic infrastructure, which will be executed with the 15th Finance Commission funds, LRS-BPS and Scheduled Caste Sub-Plan (SCSP) grants",
+     "published": "2026-09-16T14:54:34+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/sl27or/article71473160.ece/alternates/LANDSCAPE_1200/10258_16_9_2026_18_37_51_2_ESHWAR_KHANDRE_2.JPEG",
+     "image": "https://th-i.thgim.com/public/incoming/3r8p2h/article71473271.ece/alternates/LANDSCAPE_1200/10215_16_9_2026_18_14_5_1_IMG_20260916_WA0119.JPG",
      "licence": "linkout",
-     "id": "68d5efefa609",
+     "id": "4695cbe682ad",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
+    },
+    {
+     "title": "Keralam’s electricity regulatory commission to hold consultations on draft tariff norms on Sept. 29, 30",
+     "url": "https://www.thehindu.com/news/national/kerala/keralams-electricity-regulatory-commission-to-hold-consultations-on-draft-tariff-norms-on-sept-29-30/article71473021.ece",
+     "summary": "Consultations, planned in hybrid mode, will be held in morning and afternoon sessions. The regulations, once finalised, will govern electricity tariff-related matters for the five-year ‘control period’ starting 2027-28",
+     "published": "2026-09-16T15:01:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/is0y8m/article71473365.ece/alternates/LANDSCAPE_1200/6678_6-11-2020_12-34-52_2_ELECTRICITY_3.JPG",
+     "licence": "linkout",
+     "id": "a70a6e648978",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "30. Consultations , planned in hybrid"
+     ]
     },
     {
      "title": "Petrol and diesel price rises push UK inflation higher",
@@ -271,20 +276,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
-    },
-    {
-     "title": "The small fee raising big questions for India's payments revolution",
-     "url": "https://www.bbc.co.uk/news/articles/ckpd0y9gdp5lo?at_medium=RSS&at_campaign=rss",
-     "summary": "Since its launch in 2016, UPI has become a central part of India's digital payments economy.",
-     "published": "2026-09-16T07:46:57+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb34/live/244ddc20-b192-11f1-87e9-b3bd4eb00d4c.jpg",
-     "licence": "linkout",
-     "id": "bcaf209f7512",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global Hotline"
     },
     {
      "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
@@ -388,6 +379,28 @@
      "from_section": "Technology"
     },
     {
+     "title": "Govt probe holds Asif Nazrul solely responsible for Bangladesh’s 2026 T20 World Cup withdrawal",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVERYMnd3Vjl3ZDRRU2QyTGNKNmJHbkpFUkVraEVhSjBvSGh0WGtOd2NLSW9wY1ZUNUIyYXFia05Vb2hiV2hYUDk4ZjFFZEt6REU4aU56Qk9pamw0N0Fuc0FqWmJGYnZMRWxQa2VqZUM4T3hYWWlHcHdzUEtFUGY3aVVZZWE0bjlCbDkyc3ZwN1dmYU1COWhvX0pyN2QzOHNVb1VTTHZMN0VOTzR6WVlBQzlaSHlXTU3SAbwBQVVfeXFMUHhXQXdhOFJIZE5IWkVNaXBvZk9IZDJCY1oxdGJRRm5uOHNvTzZJd3RvX1RjNnd5VVpRVXhGQXRIaTFRNklOeG04UjJkWUNBUVdmM3ctQWJoUC1NLWRJQXVRc1FqQ2VVR1M4LTNJVVVPNVNyUFNPSEF0OHBMLUJqSmNVQTJlMXdzc2hIdk83cGxWWXlCQnNhamc1R2YtcGFDVDN2a04ycWZWNjVDbF9ZaThxbktyNnpYekxhNjc?oc=5",
+     "summary": "Govt probe holds Asif Nazrul solely responsible for Bangladesh’s 2026 T20 World Cup withdrawal WION",
+     "published": "2026-09-16T13:13:37+00:00",
+     "source": "WION",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "4dadc10c45ea",
+     "also": [
+      {
+       "source": "Ratopati",
+       "title": "Former Minister Asif Nazrul Solely Decided Bangladesh's T20 World Cup Exit, Investigation Finds",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1cxVUJaT1hKM2FmcXA1LW15NFZuNmhNWHZDNU5RTFdFWFYzTGxNdGhySmlPVDJlNzNwdXBJWU1aaWRJQWtITGV1OVM4ak1ualIwYzNRNWplY05VazE4UEx6R2ZNMmlCdXF0ejMwb25qTUloRnlLcWJaWWtrOXJkSHVEZzdKTGRMLUw4eFQ4QW1xYkZMSzRFc3JjaGVOTU1HMXJ0dFRWQmNiNHhyUjRDbEFLYzg1dy00cXZUVDJVRGVGdVhMdlpRR29oaWVmdENkbDEzd0NRYS1GUE5ob2FYb3pqSlQzSElWdnc?oc=5",
+       "summary": "Former Minister Asif Nazrul Solely Decided Bangladesh's T20 World Cup Exit, Investigation Finds Ratopati"
+      }
+     ],
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Scandals & Investigations"
+    },
+    {
      "title": "Al Taawoun face stadium closure, fine over ‘Jota’ chants by fans",
      "url": "https://www.aljazeera.com/sports/2026/9/16/al-taawoun-face-stadium-closure-fine-over-jota-chants-by-fans?traffic_source=rss",
      "summary": "Taawoun football fans chanted late Portugal player Jota's name at Al Hilal's Neves, prompting Ronaldo to call for a ban.",
@@ -416,34 +429,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Kapil Dev Asked About India's Refusal To Receive Women's Asia Cup Trophy From Mohsin Naqvi. India Great's One-Line Reply",
-     "url": "https://sports.ndtv.com/cricket/kapil-dev-asked-about-indias-refusal-to-receive-womens-asia-cup-trophy-from-mohsin-naqvi-india-greats-one-line-reply-12055005#publisher=newsstand",
-     "summary": "It's sort of a deja vu. After 2025, it's the same story in 2026. After the men's team, now the women's cricket team has refused to receive the Asia Cup trophy from Pakistan's Mohsin Naqvi",
-     "published": "2026-09-16T13:35:50+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/6vqb0hg_indian-womens-team-kapil-dev_625x300_16_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b8e4262a5b4a",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
-     "title": "ED raids in Patiala, Pune and Chandigarh unearth call centre syndicate",
-     "url": "https://www.thehindu.com/news/national/telangana/ed-raids-in-patiala-pune-and-chandigarh-unearth-call-centre-syndicate/article71472643.ece",
-     "summary": "",
-     "published": "2026-09-16T14:36:55+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "bcc25c09f1eb",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "National News"
-    },
-    {
      "title": "Search on TV channel part of legal probe, govt won’t intervene: Ker CM",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajAyNC1DTUs0NDBONjVWLUZXRmRCZDE1M05qT1hBRFBmMEprNVg5aWtQa0lUOG45X0t6VmtseHNHZ21tandFY0tYa1dJVjJtWWd2TFRzTnczb3pMeW5hQ0xCS0RndThvQjMtbzJGbTN3dmR4NlF5Sjd2eXRnUWFJVzhaVUczQjRoQzVQakxRVXRqOGpFODlTSkRRQVZUZDRfcEhlV2kyRFUxQdIBqgFBVV95cUxOajAyNC1DTUs0NDBONjVWLUZXRmRCZDE1M05qT1hBRFBmMEprNVg5aWtQa0lUOG45X0t6VmtseHNHZ21tandFY0tYa1dJVjJtWWd2TFRzTnczb3pMeW5hQ0xCS0RndThvQjMtbzJGbTN3dmR4NlF5Sjd2eXRnUWFJVzhaVUczQjRoQzVQakxRVXRqOGpFODlTSkRRQVZUZDRfcEhlV2kyRFUxQQ?oc=5",
      "summary": "Search on TV channel part of legal probe, govt won’t intervene: Ker CM ThePrint",
@@ -470,6 +455,20 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Global Hotline"
+    },
+    {
+     "title": "Letby failings go beyond one hospital - the whole system has been found lacking",
+     "url": "https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss",
+     "summary": "Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality.",
+     "published": "2026-09-15T16:51:43+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfd/live/0c0070d0-b10e-11f1-9065-997784e11373.png",
+     "licence": "linkout",
+     "id": "32839c7e6490",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Health & Science"
     }
    ]
   },
@@ -485,7 +484,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-16T14:40:38.824620+00:00",
+     "published": "2026-09-16T15:08:44.201025+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -496,7 +495,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-16T14:40:38.824634+00:00",
+     "published": "2026-09-16T15:08:44.201038+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -507,7 +506,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-16T14:40:38.824641+00:00",
+     "published": "2026-09-16T15:08:44.201044+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -518,7 +517,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-16T14:40:38.824645+00:00",
+     "published": "2026-09-16T15:08:44.201048+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -529,7 +528,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-16T14:40:38.824650+00:00",
+     "published": "2026-09-16T15:08:44.201053+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -540,7 +539,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-16T14:40:38.824656+00:00",
+     "published": "2026-09-16T15:08:44.201056+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -595,6 +594,27 @@
      "category_label": "Mystery & investigation"
     },
     {
+     "title": "Govt probe holds Asif Nazrul solely responsible for Bangladesh’s 2026 T20 World Cup withdrawal",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVERYMnd3Vjl3ZDRRU2QyTGNKNmJHbkpFUkVraEVhSjBvSGh0WGtOd2NLSW9wY1ZUNUIyYXFia05Vb2hiV2hYUDk4ZjFFZEt6REU4aU56Qk9pamw0N0Fuc0FqWmJGYnZMRWxQa2VqZUM4T3hYWWlHcHdzUEtFUGY3aVVZZWE0bjlCbDkyc3ZwN1dmYU1COWhvX0pyN2QzOHNVb1VTTHZMN0VOTzR6WVlBQzlaSHlXTU3SAbwBQVVfeXFMUHhXQXdhOFJIZE5IWkVNaXBvZk9IZDJCY1oxdGJRRm5uOHNvTzZJd3RvX1RjNnd5VVpRVXhGQXRIaTFRNklOeG04UjJkWUNBUVdmM3ctQWJoUC1NLWRJQXVRc1FqQ2VVR1M4LTNJVVVPNVNyUFNPSEF0OHBMLUJqSmNVQTJlMXdzc2hIdk83cGxWWXlCQnNhamc1R2YtcGFDVDN2a04ycWZWNjVDbF9ZaThxbktyNnpYekxhNjc?oc=5",
+     "summary": "Govt probe holds Asif Nazrul solely responsible for Bangladesh’s 2026 T20 World Cup withdrawal WION",
+     "published": "2026-09-16T13:13:37+00:00",
+     "source": "WION",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "4dadc10c45ea",
+     "also": [
+      {
+       "source": "Ratopati",
+       "title": "Former Minister Asif Nazrul Solely Decided Bangladesh's T20 World Cup Exit, Investigation Finds",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1cxVUJaT1hKM2FmcXA1LW15NFZuNmhNWHZDNU5RTFdFWFYzTGxNdGhySmlPVDJlNzNwdXBJWU1aaWRJQWtITGV1OVM4ak1ualIwYzNRNWplY05VazE4UEx6R2ZNMmlCdXF0ejMwb25qTUloRnlLcWJaWWtrOXJkSHVEZzdKTGRMLUw4eFQ4QW1xYkZMSzRFc3JjaGVOTU1HMXJ0dFRWQmNiNHhyUjRDbEFLYzg1dy00cXZUVDJVRGVGdVhMdlpRR29oaWVmdENkbDEzd0NRYS1GUE5ob2FYb3pqSlQzSElWdnc?oc=5",
+       "summary": "Former Minister Asif Nazrul Solely Decided Bangladesh's T20 World Cup Exit, Investigation Finds Ratopati"
+      }
+     ],
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
      "title": "Former Minister Asif Nazrul Solely Decided Bangladesh's T20 World Cup Exit, Investigation Finds",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1cxVUJaT1hKM2FmcXA1LW15NFZuNmhNWHZDNU5RTFdFWFYzTGxNdGhySmlPVDJlNzNwdXBJWU1aaWRJQWtITGV1OVM4ak1ualIwYzNRNWplY05VazE4UEx6R2ZNMmlCdXF0ejMwb25qTUloRnlLcWJaWWtrOXJkSHVEZzdKTGRMLUw4eFQ4QW1xYkZMSzRFc3JjaGVOTU1HMXJ0dFRWQmNiNHhyUjRDbEFLYzg1dy00cXZUVDJVRGVGdVhMdlpRR29oaWVmdENkbDEzd0NRYS1GUE5ob2FYb3pqSlQzSElWdnc?oc=5",
      "summary": "Former Minister Asif Nazrul Solely Decided Bangladesh's T20 World Cup Exit, Investigation Finds Ratopati",
@@ -629,70 +649,57 @@
    "upsc": false,
    "items": [
     {
-     "title": "ED raids in Patiala, Pune and Chandigarh unearth call centre syndicate",
-     "url": "https://www.thehindu.com/news/national/telangana/ed-raids-in-patiala-pune-and-chandigarh-unearth-call-centre-syndicate/article71472643.ece",
-     "summary": "",
-     "published": "2026-09-16T14:36:55+00:00",
+     "title": "Keralam’s electricity regulatory commission to hold consultations on draft tariff norms on Sept. 29, 30",
+     "url": "https://www.thehindu.com/news/national/kerala/keralams-electricity-regulatory-commission-to-hold-consultations-on-draft-tariff-norms-on-sept-29-30/article71473021.ece",
+     "summary": "Consultations, planned in hybrid mode, will be held in morning and afternoon sessions. The regulations, once finalised, will govern electricity tariff-related matters for the five-year ‘control period’ starting 2027-28",
+     "published": "2026-09-16T15:01:21+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/is0y8m/article71473365.ece/alternates/LANDSCAPE_1200/6678_6-11-2020_12-34-52_2_ELECTRICITY_3.JPG",
      "licence": "linkout",
-     "id": "bcc25c09f1eb",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Government aiming to create jobs for youth, says Bharath",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-focusing-on-job-creation-for-youth-says-bharath/article71471913.ece",
-     "summary": "Inaugurating a job fair, Industries Minister says there is a possibility of a semiconductor industry being established at Orvakal with an investment of approximately ₹23,000 crore and it could lead to direct and indirect job opportunities for local youth",
-     "published": "2026-09-16T14:37:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "b8e82015635e",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "a70a6e648978",
+     "category": "money",
+     "category_label": "Money & scams",
      "figures": [
-      "₹23,000 crore and it could lead"
+      "30. Consultations , planned in hybrid"
      ]
     },
     {
-     "title": "Yaduveer condemns govt. for defending T. Narsipur inspector; says BJP is not anti-Muslim",
-     "url": "https://www.thehindu.com/news/national/karnataka/yaduveer-condemns-govt-for-defending-t-narsipur-inspector-says-bjp-is-not-anti-muslim/article71472307.ece",
-     "summary": "",
-     "published": "2026-09-16T14:35:06+00:00",
+     "title": "PM decided to prostrate before Trump, says Rahul on UPI charge",
+     "url": "https://www.thehindu.com/news/national/pm-decided-to-prostrate-before-trump-says-rahul-on-upi-charge/article71472616.ece",
+     "summary": "The Congress has sought to link the UPI decision to what it describes as growing U.S. pressure on India, including demands for changes to the zero merchant discount rate regime for UPI",
+     "published": "2026-09-16T14:59:59+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7sq0z7/article71473153.ece/alternates/LANDSCAPE_1200/SC-order-on-MysGI0FV7VIK.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/7kuo15/article71473270.ece/alternates/LANDSCAPE_1200/20260915383L.jpg",
      "licence": "linkout",
-     "id": "386dbda33145",
+     "id": "2cd16a4de485",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Haj medical certificate deadline extended",
-     "url": "https://www.thehindu.com/news/national/kerala/haj-medical-certificate-deadline-extended/article71471958.ece",
+     "title": "SPA elections to be held on Oct. 11",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/spa-elections-to-be-held-on-oct-11/article71472385.ece",
      "summary": "",
-     "published": "2026-09-16T14:35:00+00:00",
+     "published": "2026-09-16T14:59:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/73n9ei/article71473188.ece/alternates/LANDSCAPE_1200/80968_16_5_2025_21_39_48_1_NIT_1098.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "e0a9803484b7",
-     "category": "general",
-     "category_label": "General"
+     "id": "c225073ad4fe",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Collector inspects AU grounds ahead of house pattas distribution event",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/collector-inspects-au-grounds-ahead-of-house-pattas-distribution-event/article71472388.ece",
+     "title": "School student injured in Idukki",
+     "url": "https://www.thehindu.com/news/national/kerala/school-student-injured-in-idukki/article71472989.ece",
      "summary": "",
-     "published": "2026-09-16T14:33:55+00:00",
+     "published": "2026-09-16T14:58:49+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pl4hte/article71473175.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-16%20at%2019.04.52.jpeg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "917eed30a4cd",
+     "id": "4f53968529ba",
      "category": "general",
      "category_label": "General"
     },
@@ -708,6 +715,19 @@
      "id": "e1d12aca3f9c",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "\"Never Met\": Aaditya Thackeray Reacts To Sushant Rajput Ex-Manager Murder FIR Naming Him",
+     "url": "https://www.ndtv.com/india-news/never-met-her-aaditya-thackeray-after-cbi-names-him-in-sushant-rajput-manager-disha-salians-murder-fir-12055095#publisher=newsstand",
+     "summary": "\"Let the official re-investigation proceed without malicious distractions and character assassination for political motives,\" Aaditya Thackeray said on the 2020 death of Sushant Rajput's ex-manager.",
+     "published": "2026-09-16T13:55:04+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2024-11/mhrbj4r_aaditya-thackeray_625x300_25_November_24.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "5fbdd775b6fc",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "BSEB Inter Special/Compartmental Exam 2026: Revised Marksheets Available From September 16",
@@ -733,6 +753,35 @@
    "title": "Global News",
    "upsc": false,
    "items": [
+    {
+     "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
+     "url": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
+     "summary": "Israel’s defence minister has pledged to remove Palestinians from the besieged Strip.",
+     "published": "2026-09-16T14:31:14+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aaaa17707de-1789567351.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "6dd3abc3216a",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’",
+     "url": "https://www.aljazeera.com/news/2026/9/16/four-years-on-iranians-reflect-on-impact-of-woman-life?traffic_source=rss",
+     "summary": "Amnesty International says Iranian authorities committed crimes against humanity during the 2022-23 protests.",
+     "published": "2026-09-16T14:18:54+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2023/09/32KY9QX-preview-1694783324.jpg?resize=1741%2C1080",
+     "licence": "linkout",
+     "id": "6bb78ff1f29f",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "23 protests"
+     ]
+    },
     {
      "title": "Why are election officials in the US preparing for chaos before midterms?",
      "url": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss",
@@ -760,32 +809,6 @@
      "category_label": "General"
     },
     {
-     "title": "Al Taawoun face stadium closure, fine over ‘Jota’ chants by fans",
-     "url": "https://www.aljazeera.com/sports/2026/9/16/al-taawoun-face-stadium-closure-fine-over-jota-chants-by-fans?traffic_source=rss",
-     "summary": "Taawoun football fans chanted late Portugal player Jota's name at Al Hilal's Neves, prompting Ronaldo to call for a ban.",
-     "published": "2026-09-16T13:48:49+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-07-07T103030Z_1553375399_RC2KHFARP955_RTRMADP_3_SOCCER-LIVERPOOL-PORTUGAL-JOTA-LIVERPOOL-1789566366.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "fe9b04dde881",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Why some countries fail while others prosper in the Middle East and Africa",
-     "url": "https://www.aljazeera.com/opinions/2026/9/16/why-some-countries-fail-while-others-prosper-in-the-middle-east-and-africa?traffic_source=rss",
-     "summary": "The answer lies less in geography or resources than in the institutions that shape power, legitimacy and opportunity.",
-     "published": "2026-09-16T13:40:43+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa90c8a02-1789463690.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "d44753217870",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "EU chief backs plan for Canada to become 'associate member'",
      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
@@ -797,6 +820,19 @@
      "id": "418e8514211b",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+     "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+     "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+     "published": "2026-09-16T12:26:00+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acf1/live/aa52dd30-b1aa-11f1-8b77-cd7827f05bee.jpg",
+     "licence": "linkout",
+     "id": "94c805b8b66a",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
@@ -812,17 +848,17 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-     "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-     "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-     "published": "2026-09-16T09:36:54+00:00",
+     "title": "Eight German state premiers back Merz amid speculation over future",
+     "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+     "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
+     "published": "2026-09-16T14:50:26+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
-     "id": "9c657c0b5de7",
-     "category": "general",
-     "category_label": "General"
+     "id": "f8eba46a46fc",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -883,6 +919,19 @@
      "id": "7f5ee9f48579",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "The small fee raising big questions for India's payments revolution",
+     "url": "https://www.bbc.co.uk/news/articles/ckpd0y9gdp5lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Since its launch in 2016, UPI has become a central part of India's digital payments economy.",
+     "published": "2026-09-16T07:46:57+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb34/live/244ddc20-b192-11f1-87e9-b3bd4eb00d4c.jpg",
+     "licence": "linkout",
+     "id": "bcaf209f7512",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -893,92 +942,121 @@
    "upsc": false,
    "items": [
     {
-     "title": "KSPCA seeks common seniority for KSRP and IRB personnel, especially in Kalyana Karnataka",
-     "url": "https://www.thehindu.com/news/national/karnataka/kspca-seeks-common-seniority-for-ksrp-and-irb-personnel-especially-in-kalyana-karnataka/article71472451.ece",
-     "summary": "",
-     "published": "2026-09-16T14:32:30+00:00",
+     "title": "Maradu water treatment plant set to add 20 MLD to Kochi water supply",
+     "url": "https://www.thehindu.com/news/national/kerala/maradu-water-treatment-plant-set-to-add-20-mld-to-kochi-water-supply/article71471749.ece",
+     "summary": "Plant’s production capacity to be raised from 100 MLD to 120 MLD; new 1,000-mm high-density polyethylene pipeline to be laid over 5.2 km",
+     "published": "2026-09-16T14:54:41+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/eep3ft/article71473194.ece/alternates/LANDSCAPE_1200/KSRP_04.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/tsindv/article71473328.ece/alternates/LANDSCAPE_1200/80968_16_9_2026_18_56_16_1_7O3A8045.JPEG",
      "licence": "linkout",
-     "id": "b6316a278dad",
+     "id": "b218fc03414a",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "5.2 km"
+     ]
     },
     {
-     "title": "Haj medical certificate deadline extended",
-     "url": "https://www.thehindu.com/news/national/kerala/haj-medical-certificate-deadline-extended/article71471958.ece",
-     "summary": "",
-     "published": "2026-09-16T14:32:16+00:00",
+     "title": "Rayachoti set for major infrastructure push",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/rayachoti-set-for-major-infrastructure-push/article71472414.ece",
+     "summary": "Transport Minister performs bhumi puja for the works including CC roads, drains and other basic infrastructure, which will be executed with the 15th Finance Commission funds, LRS-BPS and Scheduled Caste Sub-Plan (SCSP) grants",
+     "published": "2026-09-16T14:54:34+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/73n9ei/article71473188.ece/alternates/LANDSCAPE_1200/80968_16_5_2025_21_39_48_1_NIT_1098.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/3r8p2h/article71473271.ece/alternates/LANDSCAPE_1200/10215_16_9_2026_18_14_5_1_IMG_20260916_WA0119.JPG",
      "licence": "linkout",
-     "id": "e0a9803484b7",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Yaduveer condemns govt. for defending T. Narsipur inspector; says BJP is not anti-Muslim",
-     "url": "https://www.thehindu.com/news/national/karnataka/yaduveer-condemns-govt-for-defending-t-narsipur-inspector-says-bjp-is-not-anti-muslim/article71472307.ece",
-     "summary": "",
-     "published": "2026-09-16T14:32:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7sq0z7/article71473153.ece/alternates/LANDSCAPE_1200/SC-order-on-MysGI0FV7VIK.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "386dbda33145",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Trust takes small loans on behalf of tribespeople, ‘fails’ to repay them",
-     "url": "https://www.thehindu.com/news/cities/Coimbatore/trust-takes-small-loans-on-behalf-of-tribespeople-fails-to-repay-them/article71471635.ece",
-     "summary": "",
-     "published": "2026-09-16T14:32:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "3c6675226a22",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "JASC, AIDYO to stage protest at Freedom Park in Bengaluru seeking reforms in KPSC recruitment process",
-     "url": "https://www.thehindu.com/news/national/karnataka/jasc-aidyo-to-stage-protest-at-freedom-park-in-bengaluru-seeking-reforms-in-kpsc-recruitment-process/article71472701.ece",
-     "summary": "",
-     "published": "2026-09-16T14:29:31+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2toie/article71473148.ece/alternates/LANDSCAPE_1200/KPSC-veterinaryG0IGGS5DB.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "2515627a7a28",
+     "id": "4695cbe682ad",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "India’s academic freedom ‘severely restricted’ under BJP government: report",
-     "url": "https://www.thehindu.com/news/national/indias-academic-freedom-severely-restricted-under-bjp-government-report/article71472166.ece",
-     "summary": "Academic freedom has declined significantly in 50 of 179 countries over the past decade, says report",
-     "published": "2026-09-16T14:26:15+00:00",
+     "title": "Applications invited for Dr C Krishna Rao memorial awards",
+     "url": "https://www.thehindu.com/news/national/telangana/applications-invited-for-dr-c-krishna-rao-memorial-awards/article71472932.ece",
+     "summary": "",
+     "published": "2026-09-16T14:53:08+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bqwnrr/article71473117.ece/alternates/LANDSCAPE_1200/iStock-483479827.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "b05ea86361b5",
+     "id": "68342cd6f7c8",
      "category": "general",
-     "category_label": "General",
+     "category_label": "General"
+    },
+    {
+     "title": "El Niño casting a shadow over tea sector in Keralam as production declines",
+     "url": "https://www.thehindu.com/news/national/kerala/el-nino-casting-a-shadow-over-tea-sector-in-keralam-as-production-declines/article71472971.ece",
+     "summary": "Keralam’s tea sector sees a 2% production drop during the eight-month period from January to August, according to data complied by UPASI",
+     "published": "2026-09-16T14:52:47+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xdibj6/article71473019.ece/alternates/LANDSCAPE_1200/80759_16_9_2026_19_8_51_1_TEANEW.JPEG",
+     "licence": "linkout",
+     "id": "ff643fd88d63",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Hyderabad-based curation house Late Checkout to host cultural pup-up on Sept. 27",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-based-curation-house-late-checkout-to-host-cultural-pup-up-on-sept-27/article71473015.ece",
+     "summary": "",
+     "published": "2026-09-16T14:49:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "7babd287b4be",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Naidu wants 5,000 Venkateswara temples in Andhra; Mauritius, New Zealand want theirs, he says",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-wants-5000-venkateswara-temples-in-andhra-mauritius-new-zealand-want-theirs-he-says/article71472144.ece",
+     "summary": "Reviewing TTD plans, the Chief Minister calls for integrating its hospitals, a net-zero Tirumala and Tirupati, and a skywalk linking the railway station and bus stand",
+     "published": "2026-09-16T14:47:59+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/mtz53b/article71472361.ece/alternates/LANDSCAPE_1200/Naidu.jpeg",
+     "licence": "linkout",
+     "id": "5be5900e0002",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "179 countries over the past decade"
+      "5,000 Venkateswara temples in Andhra; Mauritius"
      ]
+    },
+    {
+     "title": "Collector calls for timely completion of Jal Jeevan works in Chittoor",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/collector-calls-for-timely-completion-of-jal-jeevan-works-in-chittoor/article71472116.ece",
+     "summary": "Taking part in a review meet, Sumit Kumar says the government’s prime objective is to provide safe drinking water to every household in the rural areas under the Har Ghar Jal initiative",
+     "published": "2026-09-16T14:45:27+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "ab28cae9a75d",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Belagavi: Fire accident toll rises to six",
+     "url": "https://www.thehindu.com/news/national/karnataka/belagavi-fire-accident-toll-rises-to-six/article71473042.ece",
+     "summary": "",
+     "published": "2026-09-16T14:43:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/q2qcfi/article71473260.ece/alternates/LANDSCAPE_1200/iStock-595759102.jpg",
+     "licence": "linkout",
+     "id": "bfd238d332b6",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "School assembly news headlines today- September 17: Top national, sports and world news curated for you",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWEljQURWS0FTdnJ4WGRJWHBRRUIwX2FreVhZSkpjQ0JWNTIyMEw3NF9OaU14RnkzRFJ2bDRSbU85dVJNZXFmNmlKNWgzZk9BbUgtd3RkQ2dvU3hWNDJJbHRkR3VDVG54dHByTWU2aWtMVlZ1NEpSSkdXLTUtMVA1b2s4NWJ0WXh1cTBnc2FpM0hoYnZ1VS0zME9CMEtIVjFERXk0SVYta0F5akpCcUY1V2M5ZXF1UFRHd080Z3BEeFFPZ2l5Z2pONE1pVk9YM0o5WHFyTllQLUJyaW1XdE82SW80bDZyWG1u?oc=5",
-     "summary": "School assembly news headlines today- September 17: Top national, sports and world news curated for you bestcolleges.indiatoday.in",
+     "summary": "School assembly news headlines today- September 17: Top national, sports and world news curated for you India Today",
      "published": "2026-09-16T12:02:12+00:00",
-     "source": "bestcolleges.indiatoday.in",
+     "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1481,6 +1559,27 @@
      "category_label": "Money & scams"
     },
     {
+     "title": "EPFO wage ceiling raised to ₹25,000: How much could your ₹7L EPF insurance cover increase? Here's how to calculate",
+     "url": "https://www.livemint.com/money/personal-finance/epfo-wage-ceiling-raised-to-25-000-how-much-could-your-7l-epf-insurance-cover-increase-heres-how-to-calculate-11789567724195.html",
+     "summary": "The Union Cabinet raised the EPFO wage ceiling from ₹15,000 to ₹25,000, potentially increasing the life insurance cover under the EDLI scheme from ₹7 lakh to an estimated ₹10.5 lakh. This change could benefit between 50 lakh and 1 crore new EPFO members.",
+     "published": "2026-09-16T14:44:48+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/EDLI_1789569862478_sq7w_1789569862674_55wl_f1967322-1660-4d3b-b982-18a57316e836_uooT.png",
+     "licence": "linkout",
+     "id": "7a9e87a7698c",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "₹25,000 : How much could",
+      "₹7 L EPF insurance cover",
+      "₹15,000  to ₹25,000, potentially increasing",
+      "₹25,000,  potentially increasing the life",
+      "₹7 lakh to an estimated ₹10",
+      "₹10.5 lakh"
+     ]
+    },
+    {
      "title": "Inheritance of online businesses in India: What happens to a creator’s digital assets after death?",
      "url": "https://www.livemint.com/money/personal-finance/inheritance-of-online-businesses-in-india-what-happens-to-a-creator-s-digital-assets-after-death-11789547937314.html",
      "summary": "Succession planning for account access, earnings, intellectual property and commercial agreements is essential.",
@@ -1507,23 +1606,6 @@
      "category_label": "General",
      "figures": [
       "8, meeting with employee unions"
-     ]
-    },
-    {
-     "title": "Govt hikes wage ceiling for EPF coverage: We calculate how this could impact your pension payout at retirement",
-     "url": "https://www.livemint.com/money/personal-finance/govt-hikes-wage-ceiling-for-epf-coverage-we-calculate-how-this-could-impact-your-pension-payout-at-retirement-11789559380022.html",
-     "summary": "The EPFO wage ceiling has been raised to ₹25,000, bringing an additional 51 lakh employees under mandatory provident fund cover, and widening social security coverage for workers. Today, we calculate how this can impact your pension payout.",
-     "published": "2026-09-16T13:04:27+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/16/600x338/epf_1789555949632_FOSn_1789555949831_ui8N_ce3399d2_1789563658399_OSRo_1789563658828_9M1I_662c9aaf-3110-4565-b6e9-b21e2637a58d_0pTQ.png",
-     "licence": "linkout",
-     "id": "e06e2e570d34",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "₹25,000,  bringing an additional 51",
-      "51 lakh employees under mandatory provident"
      ]
     }
    ]
@@ -1600,6 +1682,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "Theory of Artificial Intelligence Adaptation for Linguistic Concordance: Bridging Gaps in Patient-Centered Communication",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNTFrU3R2MlowU0E2VUNmNkZ4dGgtWm1WQzJDX0pZZDBwaTVxWDRKVkVxNkFlSHUxRlNXWW5QOF9GNGRkdEdkejFvdm5OeFRiczY1Wmd5WDRVaU5HZnZIbS00cExPN3dMSFRhbHE0UmZZellkR05iX3BCRnNMbmRlb0RVOVJYakJDdFAxUkNQRklpajNfWmZCazNkcXdhQ3pNQ3pkMzJYOFF5Vy14blNoQ19OcWMyRkdWekxlaURpMG9nVEtPNDA4N2tIbFd1VmFfM19jeEVTY3FQRDBOZ2kzdlVEZFhDdk1TcWNUdWxiRQ?oc=5",
+     "summary": "Theory of Artificial Intelligence Adaptation for Linguistic Concordance: Bridging Gaps in Patient-Centered Communication Cureus",
+     "published": "2026-09-16T12:14:09+00:00",
+     "source": "Cureus",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "07e0f1ec1457",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "AI agents lied, stole and voted to 'kill' peers in simulated experiment",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM1p6X3ZwRGhaMHVZQ1V3bGtnRE51UU9HVTFwdmI3MmN4bFVCODU1NmdwM0R5NVRTS09nYl83ZndvYWIyaTVNLXdmU2hTb210LUw5RjhnMWZEb3VYZmQ3Yzg1R3RqMzg1RDdRMFJpSDJfTU5pTk92cjE2eEdWSlgzNVo5NHJXN0twa3lKRHZoY2tvYXFKdC1OcmtBck5DYmpXejBHX1pHTlY0VWhmNnhjSllTLVh4ekdIa0t3Y2lvaDZtdEpPR2xSS3lPcWtRQ3FrbWFuR05LRVBfcHBuYlp5YTBpcFg3dkdyc0VDSEt30gHzAUFVX3lxTFAxRVgySzBtU0RucjRXWHNWUGhqUXpmcGMzS04zYjlvXzZoX1pJV1hEZDFNRG9BUEdmQ1Bsdm5nTkFWdmFjb3dmbTdaS21XNE0zSllUa3NEcnB1WlNySTdOWkFqMEYzc2FzbkgzNXo3QU8td3JRMllWNzlkYUpCSXBKVzZpcUo1RlVjVTJxYVprMTh4OHktd1ZWcmhWaElrODA0UHk3eVVqWXZwMlN6bm9oMkM5Mm81MkdWdGdndU5nZXJFNmZfM0ZCemtZa3dPYThWQWVmYnJ5dU5NNHhQNVFOT19qejJaVmZwSWhJbHRPS0tqRQ?oc=5",
      "summary": "AI agents lied, stole and voted to 'kill' peers in simulated experiment Business Standard",
@@ -1611,19 +1706,6 @@
      "id": "db0a93d27298",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "KOAFEC 2026: Korea and Africa place artificial intelligence and digital infrastructure at the heart of their partnership",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNVdYRnBEOUxJUFJjX1VXTFVvT2hCbGU5X2R3dDU5SXpPdFlOOEQ3bklsYVlmYmJQdmNoZXFwTDhfSW1MNk9qejJUSVpRT3hza0U0bGRYV0pZb29lSHFpYkU4NjJfSHQ3TU0wOEVZQV84ajZsVm5mMndUOG9SdExXbmhRSXZkeVgxcy13M2dPV1Y2WFlzVE9VSUhiR2pteC1JNk0tMVJxM2t6OTEyYXp6RUdlUnVIRmI5NnRiWTktbkctbEtGZ1VFelNDeWU1ZjRMckc0VkRRV1c4NjVCUW9nZ19YQVFveXUxdy1USllvMElTY2RwbDZSX1g0clBZNFU?oc=5",
-     "summary": "KOAFEC 2026: Korea and Africa place artificial intelligence and digital infrastructure at the heart of their partnership African Development Bank Group",
-     "published": "2026-09-15T21:05:25+00:00",
-     "source": "African Development Bank Group",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "0164acf624dd",
-     "category": "money",
-     "category_label": "Money & scams"
     },
     {
      "title": "Artificial development",
@@ -1684,6 +1766,19 @@
      "id": "07a1356ef347",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "Kapil Dev Asked About India's Refusal To Receive Women's Asia Cup Trophy From Mohsin Naqvi. India Great's One-Line Reply",
+     "url": "https://sports.ndtv.com/cricket/kapil-dev-asked-about-indias-refusal-to-receive-womens-asia-cup-trophy-from-mohsin-naqvi-india-greats-one-line-reply-12055005#publisher=newsstand",
+     "summary": "It's sort of a deja vu. After 2025, it's the same story in 2026. After the men's team, now the women's cricket team has refused to receive the Asia Cup trophy from Pakistan's Mohsin Naqvi",
+     "published": "2026-09-16T13:35:50+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/6vqb0hg_indian-womens-team-kapil-dev_625x300_16_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b8e4262a5b4a",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
      "title": "Will Pakistan Play In India? PHF Reveals Major Hurdle Before Asian Champions Trophy",
@@ -1830,19 +1925,6 @@
      "id": "9ee15e794791",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Letby failings go beyond one hospital - the whole system has been found lacking",
-     "url": "https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss",
-     "summary": "Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality.",
-     "published": "2026-09-15T16:51:43+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfd/live/0c0070d0-b10e-11f1-9065-997784e11373.png",
-     "licence": "linkout",
-     "id": "32839c7e6490",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
     },
     {
      "title": "Seated exercises help physical and mental health",
