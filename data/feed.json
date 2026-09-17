@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T08:36:55.434790+00:00",
+ "generated_at": "2026-09-17T09:03:10.285926+00:00",
  "podcasts_fetched_at": "2026-09-15T23:33:03.652231+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "Doddaballapur",
   "Climate Nepal",
-  "Assad",
   "Jazeera English",
   "News",
   "Bangladesh",
-  "Arunachal Siang",
-  "Disha Salian",
+  "Debate Thiruvananthapuram",
   "India Russian",
   "Israel West",
-  "Pakistan"
+  "Pakistan",
+  "Open Market"
  ],
  "sections": [
   {
@@ -102,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "21-year-old woman found dead in lodge at Doddaballapur, police suspect husband",
+     "url": "https://www.thehindu.com/news/national/karnataka/21-year-old-woman-found-dead-in-lodge-at-doddaballapur-police-suspect-husband/article71475820.ece",
+     "summary": "The deceased had checked into the lodge in Bengaluru Rural district with her husband on September 15",
+     "published": "2026-09-17T08:53:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/tl1xip/article71475948.ece/alternates/LANDSCAPE_1200/dowry.jpg",
+     "licence": "linkout",
+     "id": "358f97697942",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
     {
      "title": "Climate change played role in Nepal-Tibet flood, study finds",
      "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
@@ -134,20 +148,6 @@
      "from_section": "Global News"
     },
     {
-     "title": "17-Year-Old Girl Raped In Chhattisgarh, 4 Men Arrested: Cops",
-     "url": "https://www.ndtv.com/india-news/four-men-held-for-raping-17-year-old-girl-in-chhattisgarhs-kanker-district-12056553#publisher=newsstand",
-     "summary": "According to police, the minor had gone out with one of the accused known to her. He allegedly took her along with three of his friends to a village, where the four men sexually assaulted her.",
-     "published": "2026-09-16T19:23:33+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2022-10/jq3u9mls_jail-generic_625x300_19_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "50a2303db7a5",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
      "title": "Palace in war of words with Earl Spencer over claims in Diana book",
      "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
      "summary": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
@@ -162,6 +162,20 @@
      "from_section": "Culture"
     },
     {
+     "title": "Debate rages over plan to shift Thiruvananthapuram zoo in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/debate-rages-over-plan-to-shift-thiruvananthapuram-zoo-in-keralam/article71475745.ece",
+     "summary": "Former Mayor V.K. Prasanth alleges commercial interests after incumbent Mayor V.V. Rajesh backs Chief Minister’s proposal",
+     "published": "2026-09-17T08:50:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/czcxjf/article71475804.ece/alternates/LANDSCAPE_1200/zoo.jpg",
+     "licence": "linkout",
+     "id": "d849117be534",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
      "title": "Union Minister Suresh Gopi praises Keralam CM, UDF govt for support to his projects",
      "url": "https://www.thehindu.com/news/national/kerala/union-minister-suresh-gopi-praises-keralam-cm-udf-govt-for-support-to-his-projects/article71475835.ece",
      "summary": "Thrissur MP says the support extended to him now was ‘not available’ during previous Left front government",
@@ -171,20 +185,6 @@
      "image": "https://th-i.thgim.com/public/news/national/kerala/4alkqg/article71475852.ece/alternates/LANDSCAPE_1200/gopi.jpg",
      "licence": "linkout",
      "id": "06ea485c5366",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Debate rages over plan to shift Thiruvananthapuram zoo in Keralam",
-     "url": "https://www.thehindu.com/news/national/kerala/debate-rages-over-plan-to-shift-thiruvananthapuram-zoo-in-keralam/article71475745.ece",
-     "summary": "Former Mayor V.K. Prasanth alleges commercial interests after current Mayor V.V. Rajesh backs Chief Minister’s proposal",
-     "published": "2026-09-17T07:58:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/czcxjf/article71475804.ece/alternates/LANDSCAPE_1200/zoo.jpg",
-     "licence": "linkout",
-     "id": "d849117be534",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines"
@@ -279,10 +279,10 @@
      "from_section": "Culture"
     },
     {
-     "title": "Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+     "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
      "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
      "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-     "published": "2026-09-17T07:06:49+00:00",
+     "published": "2026-09-17T08:44:47+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c5/live/7d828180-b262-11f1-bc1f-3f186ca4140c.jpg",
@@ -392,6 +392,23 @@
      "from_section": "Scandals & Investigations"
     },
     {
+     "title": "Vigilance seizes unaccounted ₹44,000 in raids at sub-registrar offices in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/vigilance-seizes-unaccounted-44000-in-raids-at-sub-registrar-offices-in-thiruvananthapuram/article71475786.ece",
+     "summary": "Inspections based on information that officials were accepting bribes through document writers for services",
+     "published": "2026-09-17T08:46:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/hf2tiu/article71475937.ece/alternates/LANDSCAPE_1200/Rupee.jpg",
+     "licence": "linkout",
+     "id": "f0f978917989",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News",
+     "figures": [
+      "₹44,000  in raids at sub-registrar"
+     ]
+    },
+    {
      "title": "Arunachal CM denies using might for proposed mega dam on Siang River",
      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-cm-denies-using-might-for-proposed-mega-dam-on-siang-river/article71475875.ece",
      "summary": "Pema Khandu clarifies government position days after the Central Bureau of Investigation registers a case against anti-dam activist Bhanu Tatak for allegedly receiving foreign funds in violation of the FCRA",
@@ -417,7 +434,7 @@
      "id": "302c8071692b",
      "category": "mystery",
      "category_label": "Mystery & investigation",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     }
    ]
   },
@@ -433,7 +450,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-17T08:36:42.452970+00:00",
+     "published": "2026-09-17T09:02:56.575033+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -444,7 +461,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-17T08:36:42.452986+00:00",
+     "published": "2026-09-17T09:02:56.575050+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -455,7 +472,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-17T08:36:42.452989+00:00",
+     "published": "2026-09-17T09:02:56.575053+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -466,7 +483,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-17T08:36:42.452991+00:00",
+     "published": "2026-09-17T09:02:56.575055+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -477,7 +494,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-17T08:36:42.452994+00:00",
+     "published": "2026-09-17T09:02:56.575057+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -488,7 +505,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-17T08:36:42.452996+00:00",
+     "published": "2026-09-17T09:02:56.575060+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -523,77 +540,66 @@
    "upsc": false,
    "items": [
     {
-     "title": "Arunachal CM denies using might for proposed mega dam on Siang River",
-     "url": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-cm-denies-using-might-for-proposed-mega-dam-on-siang-river/article71475875.ece",
-     "summary": "Pema Khandu clarifies government position days after the Central Bureau of Investigation registers a case against anti-dam activist Bhanu Tatak for allegedly receiving foreign funds in violation of the FCRA",
-     "published": "2026-09-17T08:32:20+00:00",
+     "title": "21-year-old woman found dead in lodge at Doddaballapur, police suspect husband",
+     "url": "https://www.thehindu.com/news/national/karnataka/21-year-old-woman-found-dead-in-lodge-at-doddaballapur-police-suspect-husband/article71475820.ece",
+     "summary": "The deceased had checked into the lodge in Bengaluru Rural district with her husband on September 15",
+     "published": "2026-09-17T08:53:34+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/dmcbiw/article71475877.ece/alternates/LANDSCAPE_1200/20260612316L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/tl1xip/article71475948.ece/alternates/LANDSCAPE_1200/dowry.jpg",
      "licence": "linkout",
-     "id": "60d96ad97770",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
+     "id": "358f97697942",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "‘I have never met or known Disha Salian,’ says Aaditya Thackeray",
-     "url": "https://www.thehindu.com/news/cities/mumbai/i-have-never-met-or-known-disha-salian-says-aaditya-thackeray/article71473727.ece",
-     "summary": "Shiv Sena (UBT) leader Aaditya Thackeray said, “Let the official re-investigation proceed without malicious distractions and character assassination for political motives.”",
-     "published": "2026-09-17T08:31:55+00:00",
+     "title": "Debate rages over plan to shift Thiruvananthapuram zoo in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/debate-rages-over-plan-to-shift-thiruvananthapuram-zoo-in-keralam/article71475745.ece",
+     "summary": "Former Mayor V.K. Prasanth alleges commercial interests after incumbent Mayor V.V. Rajesh backs Chief Minister’s proposal",
+     "published": "2026-09-17T08:50:50+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/dfrg0r/article71475881.ece/alternates/LANDSCAPE_1200/3col_with_2col_G37FE41QH.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/czcxjf/article71475804.ece/alternates/LANDSCAPE_1200/zoo.jpg",
      "licence": "linkout",
-     "id": "302c8071692b",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Union Minister Suresh Gopi praises Keralam CM, UDF govt for support to his projects",
-     "url": "https://www.thehindu.com/news/national/kerala/union-minister-suresh-gopi-praises-keralam-cm-udf-govt-for-support-to-his-projects/article71475835.ece",
-     "summary": "Thrissur MP says the support extended to him now was ‘not available’ during previous Left front government",
-     "published": "2026-09-17T08:20:28+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/4alkqg/article71475852.ece/alternates/LANDSCAPE_1200/gopi.jpg",
-     "licence": "linkout",
-     "id": "06ea485c5366",
+     "id": "d849117be534",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "‘If Nizam was so good, why did Komuram Bheem and Chakali Ailamma rebel?’, asks Kishan Reddy",
-     "url": "https://www.thehindu.com/news/national/telangana/if-nizam-was-so-good-why-did-komuram-bheem-and-chakali-ailamma-rebel-asks-kishan-reddy/article71475694.ece",
-     "summary": "Addressing the Telangana Liberation Day celebrations organised by the Centre, Mr. Kishan Reddy criticised the Congress and BRS for allegedly glorifying the Nizam’s rule for appeasing a section and “bowing before” the AIMIM.",
-     "published": "2026-09-17T08:14:56+00:00",
+     "title": "Vigilance seizes unaccounted ₹44,000 in raids at sub-registrar offices in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/vigilance-seizes-unaccounted-44000-in-raids-at-sub-registrar-offices-in-thiruvananthapuram/article71475786.ece",
+     "summary": "Inspections based on information that officials were accepting bribes through document writers for services",
+     "published": "2026-09-17T08:46:53+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/q4gunm/article71475855.ece/alternates/LANDSCAPE_1200/_DSC0677.JPG",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/hf2tiu/article71475937.ece/alternates/LANDSCAPE_1200/Rupee.jpg",
      "licence": "linkout",
-     "id": "1d13266b6b40",
-     "category": "general",
-     "category_label": "General"
+     "id": "f0f978917989",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "figures": [
+      "₹44,000  in raids at sub-registrar"
+     ]
     },
     {
-     "title": "‘What did you do in the past year?’ NGT asks Tamil Nadu govt. over Vinayaka idol immersion preparedness",
-     "url": "https://www.thehindu.com/news/cities/chennai/what-did-you-do-in-the-past-year-ngt-asks-tamil-nadu-govt-over-vinayaka-idol-immersion-preparedness/article71475654.ece",
-     "summary": "The bench had directed the State to file an affidavit ensuring that the guidelines issued by the CBCP, along with earlier orders of the Supreme Court, Madras HC, and NGT, would be followed at least during next year’s festival; the State, however, sought more time",
-     "published": "2026-09-17T08:03:41+00:00",
+     "title": "14,829 government primary schools have fewer than 30 students, claims Anbumani",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/14829-government-primary-schools-have-fewer-than-30-students-claims-anbumani/article71475707.ece",
+     "summary": "Citing government enrollment data, he said 6,635 schools had fewer than 20 students and 3,027 had fewer than 10 students",
+     "published": "2026-09-17T08:46:30+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nwo59n/article71475830.ece/alternates/LANDSCAPE_1200/VINAYAKAR%20IDOLS%20IMMERSION%20SEA%20CRANE%20BOAT%20POLICE%20VOLUNTEERS%20POLLUTION_12.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/5qdfdj/article71475933.ece/alternates/LANDSCAPE_1200/DSC_2262.JPG",
      "licence": "linkout",
-     "id": "602cf5cf5853",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "No Ganesh Idol Immersion In Water Bodies From 2027: Tamil Nadu To Green Court",
-       "url": "https://www.ndtv.com/india-news/no-ganesh-idol-immersion-in-water-bodies-from-2027-tamil-nadu-to-green-court-ngt-12057096#publisher=newsstand",
-       "summary": "The assurance came during the hearing of a petition seeking directions to prevent Ganesh idol immersion in water bodies because of the environmental damage caused by the practice."
-      }
-     ],
+     "id": "7deefc38d433",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "14,829 government primary schools have fewer",
+      "30 students , claims Anbumani",
+      "6,635 schools had fewer than 20",
+      "20 students and 3,027 had fewer",
+      "10 students"
+     ]
     },
     {
      "title": "No Ganesh Idol Immersion In Water Bodies From 2027: Tamil Nadu To Green Court",
@@ -637,6 +643,19 @@
      "id": "8e9cbd06935b",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "17-Year-Old Girl Raped In Chhattisgarh, 4 Men Arrested: Cops",
+     "url": "https://www.ndtv.com/india-news/four-men-held-for-raping-17-year-old-girl-in-chhattisgarhs-kanker-district-12056553#publisher=newsstand",
+     "summary": "According to police, the minor had gone out with one of the accused known to her. He allegedly took her along with three of his friends to a village, where the four men sexually assaulted her.",
+     "published": "2026-09-16T19:23:33+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2022-10/jq3u9mls_jail-generic_625x300_19_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "50a2303db7a5",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "2 Dead In 2 Days During Clashes Over Ganesh Chaturthi Procession In Tamil Nadu",
@@ -872,17 +891,46 @@
    "upsc": false,
    "items": [
     {
-     "title": "Union Minister Suresh Gopi praises Keralam CM, UDF govt for support to his projects",
-     "url": "https://www.thehindu.com/news/national/kerala/union-minister-suresh-gopi-praises-keralam-cm-udf-govt-for-support-to-his-projects/article71475835.ece",
-     "summary": "Thrissur MP says the support extended to him now was ‘not available’ during previous Left front government",
-     "published": "2026-09-17T08:20:28+00:00",
+     "title": "21-year-old woman found dead in lodge at Doddaballapur, police suspect husband",
+     "url": "https://www.thehindu.com/news/national/karnataka/21-year-old-woman-found-dead-in-lodge-at-doddaballapur-police-suspect-husband/article71475820.ece",
+     "summary": "The deceased had checked into the lodge in Bengaluru Rural district with her husband on September 15",
+     "published": "2026-09-17T08:53:34+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/4alkqg/article71475852.ece/alternates/LANDSCAPE_1200/gopi.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/tl1xip/article71475948.ece/alternates/LANDSCAPE_1200/dowry.jpg",
      "licence": "linkout",
-     "id": "06ea485c5366",
+     "id": "358f97697942",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Debate rages over plan to shift Thiruvananthapuram zoo in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/debate-rages-over-plan-to-shift-thiruvananthapuram-zoo-in-keralam/article71475745.ece",
+     "summary": "Former Mayor V.K. Prasanth alleges commercial interests after incumbent Mayor V.V. Rajesh backs Chief Minister’s proposal",
+     "published": "2026-09-17T08:50:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/czcxjf/article71475804.ece/alternates/LANDSCAPE_1200/zoo.jpg",
+     "licence": "linkout",
+     "id": "d849117be534",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "Vigilance seizes unaccounted ₹44,000 in raids at sub-registrar offices in Thiruvananthapuram",
+     "url": "https://www.thehindu.com/news/national/kerala/vigilance-seizes-unaccounted-44000-in-raids-at-sub-registrar-offices-in-thiruvananthapuram/article71475786.ece",
+     "summary": "Inspections based on information that officials were accepting bribes through document writers for services",
+     "published": "2026-09-17T08:46:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/hf2tiu/article71475937.ece/alternates/LANDSCAPE_1200/Rupee.jpg",
+     "licence": "linkout",
+     "id": "f0f978917989",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "figures": [
+      "₹44,000  in raids at sub-registrar"
+     ]
     },
     {
      "title": "‘If Nizam was so good, why did Komuram Bheem and Chakali Ailamma rebel?’, asks Kishan Reddy",
@@ -896,74 +944,6 @@
      "id": "1d13266b6b40",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "‘What did you do in the past year?’ NGT asks Tamil Nadu govt. over Vinayaka idol immersion preparedness",
-     "url": "https://www.thehindu.com/news/cities/chennai/what-did-you-do-in-the-past-year-ngt-asks-tamil-nadu-govt-over-vinayaka-idol-immersion-preparedness/article71475654.ece",
-     "summary": "The bench had directed the State to file an affidavit ensuring that the guidelines issued by the CBCP, along with earlier orders of the Supreme Court, Madras HC, and NGT, would be followed at least during next year’s festival; the State, however, sought more time",
-     "published": "2026-09-17T08:03:41+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nwo59n/article71475830.ece/alternates/LANDSCAPE_1200/VINAYAKAR%20IDOLS%20IMMERSION%20SEA%20CRANE%20BOAT%20POLICE%20VOLUNTEERS%20POLLUTION_12.jpg",
-     "licence": "linkout",
-     "id": "602cf5cf5853",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Congress rejects claim that party MPs backed MDR charges on UPI transactions",
-     "url": "https://www.thehindu.com/business/Economy/parliament-standing-committee-didnt-discuss-mdr-charges-on-upi-transactions-says-gaurav-gogoi/article71475383.ece",
-     "summary": "Congress deputy leader in the Lok Sabha Gaurav Gogoi said the Finance Committee had not discussed the UPI proposal recently announced by the government",
-     "published": "2026-09-17T07:55:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/4l73xf/article71475492.ece/alternates/LANDSCAPE_1200/07_Gogoi_Congress_Leaders_PC_13_08_Delhi.jpg",
-     "licence": "linkout",
-     "id": "1b37183f57fe",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "DMK govt. mooted heritage structure in place of King’s Barracks at Fort St. George",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/dmkgovt-mooted-heritage-structure-in-place-of-kings-barracks-at-fort-st-george/article71473591.ece",
-     "summary": "The proposal to build a multi-storeyed structure could not be implemented, as it did not receive the approval of the defence authorities retaining a hold over the building on the verge of collapse",
-     "published": "2026-09-17T07:45:47+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/mbsohe/article71473695.ece/alternates/LANDSCAPE_1200/DSC_0950.JPG",
-     "licence": "linkout",
-     "id": "525eb426a65c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Keralam power crisis: Electricity consumption soars in September",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-power-crisis-electricity-consumption-soars-in-september/article71475637.ece",
-     "summary": "Consumption so far in September has averaged 93.6 mu, which is arguably unprecedented for Keralam which is accustomed to cooler weather and lower State-wide electricity usage during June-September southwest monsoon season",
-     "published": "2026-09-17T07:43:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/2id7uo/article71475787.ece/alternates/LANDSCAPE_1200/KSEB_05%201.jpg",
-     "licence": "linkout",
-     "id": "163e6818dcb2",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Assam begins commemorating Zubeen Garg’s first death anniversary",
-     "url": "https://www.thehindu.com/news/national/assam/singer-zubeen-garg-first-death-anniversary-in-assam/article71475652.ece",
-     "summary": "The State Government has extended support for a range of cultural and spiritual programmes, while cab operators have offered low-fare rides to and from his memorial about 23 km east of Guwahati",
-     "published": "2026-09-17T07:37:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/p2d8q0/article71475748.ece/alternates/LANDSCAPE_1200/2150_26_9_2025_7_46_7_1_ZUBEEN_SPOTLIGHT_05.JPG",
-     "licence": "linkout",
-     "id": "726821e7c244",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "23 km east of Guwahati"
-     ]
     },
     {
      "title": "top news of the day september 16 2026",
@@ -999,6 +979,27 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Open Market Operation (OMO) – Sale of Government of India Securities held on Sep 17, 2026: Cut-Offs",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63612",
+     "summary": "",
+     "published": "2026-09-17T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "c123551ea6ee",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [
+       "OMO"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
     {
      "title": "RBI cancels Certificate of Registration of 5 NBFCs",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63611",
@@ -1091,25 +1092,6 @@
      },
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Money Market Operations as on September 16, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63607",
-     "summary": "",
-     "published": "2026-09-17T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "76d2089b0eb7",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -1433,118 +1415,6 @@
      "id": "320d8c078956",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Singapore’s ‘permit regime’ undermines the citizens’ right to protest",
-     "url": "https://globalvoices.org/2026/09/16/singapores-permit-regime-undermines-the-citizens-right-to-protest/",
-     "summary": "\"Can Singapore preserve order without over-criminalising peaceful expression? Can we protect cohesion without demanding quiet obedience?\"",
-     "published": "2026-09-16T08:44:45+00:00",
-     "source": "Global Voices",
-     "byline": "Mong Palatino",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/09/Candlelight-vigil-800x450.webp",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "Criminal charges were filed this month against activists for organizing ‘illegal assemblies’ in 2024 and 2025"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "A candlelight vigil ahead of an execution in Singapore in February 2025. Participants expressed opposition to the death penalty as a form of punishment. Screenshot from The Online Citizen YouTube video. Fair use."
-      },
-      {
-       "kind": "p",
-       "text": "This post is part of Global Voices’ September 2026 Spotlight series, “Protest in Democracy.” With this Spotlight, we seek to explore the many forms of protest, the tactics states use to delegitimize and suppress them, and the complex relationship between protest and democracy. You can support this coverage by donating here."
-      },
-      {
-       "kind": "p",
-       "text": "The filing of criminal charges against several activists for participating in public protests highlights Singapore’s restrictive policies, which make it almost impossible for citizens to express dissent or even solidarity without triggering a backlash from authorities."
-      },
-      {
-       "kind": "p",
-       "text": "On September 7, prominent activist Jolovan Wham was charged with six counts of violating the Public Order Act for organizing an assembly and joining candlelight vigils for persons facing execution without a permit from the police. Two days later, six human rights advocates were charged as well for initiating solidarity activities for Palestine and campaigning against the death penalty without securing approval from authorities."
-      },
-      {
-       "kind": "p",
-       "text": "The alleged illegal assemblies in 2024 and 2025 included a letter-sending campaign to government agencies, candlelight vigils, and kite flying to show concern over the killing of children in Palestine."
-      },
-      {
-       "kind": "p",
-       "text": "Elijah Tay, one of the accused, asserted in a Facebook post that it is the Singapore government which should be held accountable for its “complicity in the ethnic cleansing of Palestinians.”"
-      },
-      {
-       "kind": "p",
-       "text": "This morning, around fifty of us joined Jolovan at the same court as he faces a total of ten charges, most of which for candlelight vigils for death row prisoners. It was energizing to be amongst fellow citizens, coming together in strength and perseverance."
-      },
-      {
-       "kind": "p",
-       "text": "From Changi Prison to Palestine, we say: No more blood on our hands! Stop the killing of vulnerable drug trade users / workers and Palestinians. And stop the prosecution of those seeking justice! We remain steadfast and strong in our fight, until all of us are free."
-      },
-      {
-       "kind": "p",
-       "text": "Activist Teo Soh Lung is happy that 300 people showed up in the court to support the accused, but noted the lack of freedoms in Singapore."
-      },
-      {
-       "kind": "p",
-       "text": "More than 300 people turned up before the State Courts yesterday to support six people facing multiple charges for carrying out peaceful activities that oppose the genocide in Palestine. This is historic because never in the history of activism in Singapore in recent decades have so many come together to support activists being charged in court."
-      },
-      {
-       "kind": "p",
-       "text": "I am deeply saddened, angry and hopeful at what is happening before our eyes. I am sad that Singaporeans, after more than 60 years of independence are treated worse than colonized people. We have no right to freedom of speech, expression and assembly. I am angry that the state has deemed it fit to investigate and prosecute peaceful activists and waste the precious time of our judiciary."
-      },
-      {
-       "kind": "p",
-       "text": "The opposition political party Red Dot United criticized the criminalization of peaceful expression."
-      },
-      {
-       "kind": "p",
-       "text": "Singapore must protect public order, public safety, and social cohesion. But laws meant to deal with genuine threats must not turn peaceful conscience, mourning and public expression into criminal matters by default. Can Singapore preserve order without over-criminalizing peaceful expression? Can we protect cohesion without demanding quiet obedience? Can we uphold the law while ensuring that it remains fair, proportionate and worthy of public respect?"
-      },
-      {
-       "kind": "p",
-       "text": "Professor Paul Ananth Tambyah, chair of the opposition Singapore Democratic Party, reminded authorities about the detrimental impact of overpolicing citizens’ right to peaceful dissent."
-      },
-      {
-       "kind": "p",
-       "text": "Gathering in a vigil to mourn the death of a fellow human being and to protest against such a draconian law cannot be a crime."
-      },
-      {
-       "kind": "p",
-       "text": "Continuing to exert such mindless and total control over young Singaporeans and preventing them from expressing peaceful dissent is a one-way ticket to decline in a world where free expression and innovation are essential for us to rise above the machines."
-      },
-      {
-       "kind": "p",
-       "text": "Since its founding in the 1960s, Singapore has been ruled by a dominant party that relied on draconian laws to preserve its political hegemony. The Public Order Act is often used to penalize activists for holding “illegal” activities and assemblies. Activist Jolovan Wham was even charged under this law for holding a placard with a smiley face in front of a police station in 2020."
-      },
-      {
-       "kind": "p",
-       "text": "Human rights groups Amnesty International, CIVICUS, and Human Rights Watch have issued a statement decrying Singapore’s “permit regime,” which subverts the people’s right to protest."
-      },
-      {
-       "kind": "p",
-       "text": "Criminalizing such activities is a clear violation of the rights to freedom of expression and peaceful assembly and the latest chapter in a long-standing campaign against activists and human rights defenders in the country."
-      },
-      {
-       "kind": "p",
-       "text": "The prosecution of individuals for peacefully expressing their views and assembling in support of human rights causes raises serious concerns about the continuing restrictions on the rights to freedom of expression and peaceful assembly in Singapore."
-      },
-      {
-       "kind": "p",
-       "text": "They added that the filing of charges for activities held several years ago can “have a chilling effect on civic space and discourage public engagement on matters of legitimate public concern.”"
-      },
-      {
-       "kind": "p",
-       "text": "If convicted under the Public Order Act, the offender can be fined from SGD 3,000 (USD 2,350) to SGD 10,000 (USD 7,850) and receive a prison sentence from six months to three years."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "8e3af0f5eb1e",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -1877,19 +1747,6 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Learning with new technologies and artificial intelligence",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVFVWVRyQXBuaGF3WlpDNm9BZzkzb2FEUk9JSVZDQWY4MHBkOFB6Y1hhN1c3bXhDbDkzcExSNnBqS0FQQ24ySE10eHdvckJGVzdUMzQtRDBqcUkwb3Vfa3dMTXlJeUVwcEI4VzJST3dQVkpfLWg4cXVBeXlnb05kbmpYOEI0RjliYlVac2pIcXhBZw?oc=5",
-     "summary": "Learning with new technologies and artificial intelligence UNESCO",
-     "published": "2026-09-16T08:56:54+00:00",
-     "source": "UNESCO",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "f845cf01ea03",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
      "title": "Artificial intelligence now beats some of the best human forecasters",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVE2WlNjSlVyUjdJZzRYT1ZTSlI1cWFHdHJYcHhMNnREaXYzRzhINE8xWHZIZmh2TTFaOGllS0lTVU5sNDctUzhuOXpNQi1BbjBwalduUkE3SllUbEp3ZTFveEVZajZwOGRSVXhDaS02bnVCMkM3OWdBZTd5STl4a2dBbjNidGhpSlQ1OXlCanZRaXpoay02TU45cXk5b2c5dndkQnRCVHdCbUxvV1ljTkNtMmY4aDFnUEFHNm5iMGdhWjB4SHNR?oc=5",
      "summary": "Artificial intelligence now beats some of the best human forecasters The Economist",
@@ -1912,6 +1769,19 @@
      "image": null,
      "licence": "linkout",
      "id": "ebec333adb1f",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Theory of Artificial Intelligence Adaptation for Linguistic Concordance: Bridging Gaps in Patient-Centered Communication",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNTFrU3R2MlowU0E2VUNmNkZ4dGgtWm1WQzJDX0pZZDBwaTVxWDRKVkVxNkFlSHUxRlNXWW5QOF9GNGRkdEdkejFvdm5OeFRiczY1Wmd5WDRVaU5HZnZIbS00cExPN3dMSFRhbHE0UmZZellkR05iX3BCRnNMbmRlb0RVOVJYakJDdFAxUkNQRklpajNfWmZCazNkcXdhQ3pNQ3pkMzJYOFF5Vy14blNoQ19OcWMyRkdWekxlaURpMG9nVEtPNDA4N2tIbFd1VmFfM19jeEVTY3FQRDBOZ2kzdlVEZFhDdk1TcWNUdWxiRQ?oc=5",
+     "summary": "Theory of Artificial Intelligence Adaptation for Linguistic Concordance: Bridging Gaps in Patient-Centered Communication Cureus",
+     "published": "2026-09-16T14:48:57+00:00",
+     "source": "Cureus",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "07e0f1ec1457",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -2014,10 +1884,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+     "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
      "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
      "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-     "published": "2026-09-17T07:06:49+00:00",
+     "published": "2026-09-17T08:44:47+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c5/live/7d828180-b262-11f1-bc1f-3f186ca4140c.jpg",
@@ -2143,15 +2013,15 @@
      "category_label": "General"
     },
     {
-     "title": "Alcohol consumption scorecard to help track intake",
-     "url": "https://www.bbc.co.uk/news/articles/c6evwnjzgk33o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Health Improvement Commission says it is to help people get a clearer picture of their intake.",
-     "published": "2026-09-16T08:57:09+00:00",
+     "title": "Cancer patient told she will get drug which could make her life longer",
+     "url": "https://www.bbc.co.uk/news/videos/cmkg8n85ge9ro?at_medium=RSS&at_campaign=rss",
+     "summary": "Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS, two years after it was deemed too expensive by a health body.",
+     "published": "2026-09-17T05:28:15+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2610/live/9b889650-b13c-11f1-8e7a-7b6c4dcbe4b5.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb6/live/97fefe80-b1f9-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
-     "id": "07dbe630606e",
+     "id": "14e1406ef860",
      "category": "general",
      "category_label": "General"
     }
