@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T11:37:25.926820+00:00",
+ "generated_at": "2026-09-17T12:04:52.710136+00:00",
  "podcasts_fetched_at": "2026-09-15T23:33:03.652231+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 122153.0,
    "change": 425.0,
    "changePct": 0.35,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -48,7 +49,8 @@
    "value": 181001.0,
    "change": 3348.0,
    "changePct": 1.88,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -67,7 +69,8 @@
    "value": 99.22,
    "change": -6.46,
    "changePct": -6.11,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -81,16 +84,16 @@
   }
  ],
  "topics": [
+  "Ninth South",
   "Disha Salian",
-  "Pakistan Saifullah",
   "Jazeera English",
   "News",
   "Telangana Launches",
   "Bangladesh",
   "Tata Trusts",
-  "Global News",
-  "Trump Iran",
-  "Nepal"
+  "Congress Uttarakhand",
+  "What Asian",
+  "Climate Nepal"
  ],
  "sections": [
   {
@@ -99,6 +102,20 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Ninth woman's body found as South African police investigate string of deaths",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+     "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+     "published": "2026-09-17T11:58:54+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg",
+     "licence": "linkout",
+     "id": "ad5a5678babb",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "Disha Salian case: Raut backs Aaditya; says CBI FIR attempt to malign Thackeray family image",
      "url": "https://www.thehindu.com/news/national/maharashtra/disha-salian-case-raut-backs-aaditya-says-cbi-fir-attempt-to-malign-thackeray-family-image/article71476373.ece",
@@ -125,52 +142,35 @@
      "id": "e24c1a885ad5",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "26 people were killed"
      ]
     },
     {
-     "title": "Boy’s body found, search on for father, uncle who swept away in Galeru-Nagari canal",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/boys-body-found-search-on-for-father-uncle-who-swept-away-in-galeru-nagari-canal/article71475930.ece",
-     "summary": "Eight-year-old Aarush lost his balance while playing at Ramapuram village in Owk mandal and the two men went in after him; the canal was carrying about 3,200 cusecs at the time",
-     "published": "2026-09-17T11:16:10+00:00",
-     "source": "The Hindu",
+     "title": "RTÉ boycotts Eurovision for second year in a row",
+     "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
+     "summary": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
+     "published": "2026-09-17T11:56:21+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0a/live/44542e60-b288-11f1-8096-b33a1297275a.jpg",
      "licence": "linkout",
-     "id": "188ad16dc73b",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "3,200 cusecs at the time"
-     ]
-    },
-    {
-     "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
-     "url": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
-     "summary": "The US president says Washington is 'hopefully toward the end' of Iran war, as global energy prices remain high.",
-     "published": "2026-09-17T10:32:46+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aab98692f0b-1789630569.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "1e64f818ff4b",
+     "id": "04fd8852e574",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Global News"
+     "from_section": "Culture"
     },
     {
-     "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-     "url": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-     "summary": "The security talks come as Israeli forces continue attacks across southern Lebanon despite a \"ceasefire\".",
-     "published": "2026-09-17T10:20:20+00:00",
+     "title": "Gaza repairman helps journalists to keep documenting genocide",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
+     "summary": "As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.",
+     "published": "2026-09-17T11:01:03+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aabaa8befc5-1789635211.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-11.53.02-1789642526.png?resize=1200%2C630",
      "licence": "linkout",
-     "id": "59d14cea77a8",
+     "id": "005494cbf9da",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -193,7 +193,7 @@
      "title": "Tata Trusts dissents to reappointment of N. Chandrasekaran as Tata Sons chairperson",
      "url": "https://www.thehindu.com/business/Industry/tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as-tata-sons-chairperson/article71476401.ece",
      "summary": "The Tata Trusts formally placed on record their acceptance of the decision the following day and advised Tata Sons to initiate the process for setting up a Selection Committee for appointing a successor, in accordance with the Articles of Association of Tata Sons, the Tata Trusts said in a statement",
-     "published": "2026-09-17T11:29:20+00:00",
+     "published": "2026-09-17T11:50:48+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/8tr4dw/article71476391.ece/alternates/LANDSCAPE_1200/Tata-Sons-facesG8AGHARJJ.5.jpg.jpg",
@@ -204,42 +204,42 @@
      "from_section": "National News"
     },
     {
-     "title": "Nashik stray dog menace: Protesters release puppies on civic official's table",
-     "url": "https://www.thehindu.com/news/national/maharashtra/protesters-place-puppies-on-officials-table-to-highlight-nashik-stray-dog-menace/article71476211.ece",
-     "summary": "Shiv Sena (UBT) district youth wing functionary Vikram Randhave claimed that more than 400 stray dogs roam the Nagar Panchayat limits and that over 100 residents suffer dog-bite injuries every month",
-     "published": "2026-09-17T11:05:44+00:00",
+     "title": "'84 rules changed': Congress accuses Uttarakhand CM of handing power project meant for PSUs to Adani",
+     "url": "https://www.thehindu.com/news/national/84-rules-changed-congress-accuses-uttarakhand-cm-of-handing-power-project-meant-for-psus-to-adani/article71476411.ece",
+     "summary": "The Opposition party asked why did the BJP government kill its own UJVN-THDC project only to create a 1,320 MW opportunity that perfectly fits Adani's Korba plant, and why 84 tender conditions were rewritten",
+     "published": "2026-09-17T11:49:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ss8dv/article71476234.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000133B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/291odd/article71471224.ece/alternates/LANDSCAPE_1200/TH19-Vijaita-CoGSCGDSKIN.3.jpg.jpg",
      "licence": "linkout",
-     "id": "1a8723273ec5",
+     "id": "5c795d7a7b1c",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines",
+     "from_section": "National News",
      "figures": [
-      "400 stray dogs roam the Nagar",
-      "100 residents suffer dog-bite injuries every"
+      "84 rules changed': Congress accuses Uttarakhand",
+      "84 tender conditions were rewritten"
      ]
     },
     {
-     "title": "UK charities, protest groups condemn Israeli ban threat after sanctions",
-     "url": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss",
-     "summary": "Having warned London of 'consequences' for sanctions, Israel targets UK charities, campaign groups and Palestine Action.",
-     "published": "2026-09-17T10:19:24+00:00",
-     "source": "Al Jazeera",
+     "title": "Mizoram Speaker to lead Indian delegation session on AI at Commonwealth meet in South Africa",
+     "url": "https://www.thehindu.com/news/national/mizoram/mizoram-speaker-to-lead-indian-delegation-session-on-ai-at-commonwealth-meet-in-south-africa/article71476412.ece",
+     "summary": "The conference is deliberating upon issues related to strengthening parliamentary systems and promoting equitable development among Commonwealth countries, according to an official release.",
+     "published": "2026-09-17T11:42:52+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-16T181644Z_1292684831_RC20FMAUZCCV_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-CHECKPOINT-1789596477.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/ob5n65/article71476451.ece/alternates/LANDSCAPE_1200/KPnWudk5fGCvIVZKhvAg.jpg",
      "licence": "linkout",
-     "id": "2b2e77fe846f",
+     "id": "cb332825f0b9",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National News"
     },
     {
-     "title": "UK interest rates held at 3.75% despite rising inflation",
+     "title": "Interest rates held but Bank signals rise if energy prices stay high",
      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
      "summary": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
-     "published": "2026-09-17T11:15:10+00:00",
+     "published": "2026-09-17T11:50:24+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg",
@@ -248,6 +248,25 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
+    },
+    {
+     "title": "Software employee saw ₹1.44 crore in his account, lost ₹22.8 lakh; two held in Andhra’s Nandyal",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/software-employee-saw-144-crore-in-his-account-lost-228-lakh-two-held-in-andhras-nandyal/article71476273.ece",
+     "summary": "Asked to pay ₹25 lakh in “taxes” before he could withdraw his money, he realised he had been cheated",
+     "published": "2026-09-17T11:40:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/rk4tod/article71251868.ece/alternates/LANDSCAPE_1200/Cyberabad-PolicG2GG9IEV7.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "309a84da8980",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "₹1.44 crore in his account, lost",
+      "₹22.8 lakh ; two held",
+      "₹25 lakh in “taxes” before he"
+     ]
     },
     {
      "title": "Why is inflation rising again around the world?",
@@ -262,24 +281,6 @@
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Global News"
-    },
-    {
-     "title": "Bandhan Small Cap Fund August portfolio: Cyient, P N Gadgil see higher holdings; 4 stocks added, 6 exited",
-     "url": "https://www.livemint.com/money/personal-finance/bandhan-small-cap-fund-august-portfolio-cyient-p-n-gadgil-see-higher-holdings-4-stocks-added-6-exited-11789636919234.html",
-     "summary": "Bandhan Small Cap Fund attracted ₹2,187 crore in August, the highest inflow among small-cap schemes, as it reshuffled several existing holdings and added four new stocks. Cyient, P N Gadgil Jewellers and Strides Pharma were among the stocks where holdings increased.",
-     "published": "2026-09-17T09:30:47+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/17/600x338/k_1789637358694_o3oe_1789637363363_Bi1y_e8c8626b-bfa2-4228-b39f-61327ba3d824_EN25.png",
-     "licence": "linkout",
-     "id": "ff5afd20cf87",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "4 stocks added, 6 exited",
-      "₹2,187 crore in August, the highest"
-     ]
     },
     {
      "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
@@ -373,6 +374,32 @@
      "from_section": "Global Hotline",
      "figures": [
       "14 babies died, report finds"
+     ]
+    },
+    {
+     "title": "Climate change had major role in triggering Nepal floods, scientists say",
+     "url": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
+     "summary": "The combined toll from the deadly incident now stands at 1,446 people dead and at least 6,669 missing.",
+     "published": "2026-09-17T11:19:23+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26259462407456-1789639076.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "09dc3bb746df",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+       "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
+       "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month."
+      }
+     ],
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global News",
+     "figures": [
+      "1,446 people dead and at least",
+      "6,669 missing"
      ]
     },
     {
@@ -505,7 +532,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-17T11:37:17.265301+00:00",
+     "published": "2026-09-17T12:04:39.397475+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -516,7 +543,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-17T11:37:17.265312+00:00",
+     "published": "2026-09-17T12:04:39.397487+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -527,7 +554,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-17T11:37:17.265318+00:00",
+     "published": "2026-09-17T12:04:39.397491+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -538,7 +565,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-17T11:37:17.265323+00:00",
+     "published": "2026-09-17T12:04:39.397494+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -549,7 +576,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-17T11:37:17.265327+00:00",
+     "published": "2026-09-17T12:04:39.397496+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -560,7 +587,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-17T11:37:17.265330+00:00",
+     "published": "2026-09-17T12:04:39.397499+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -611,7 +638,7 @@
      "title": "Tata Trusts dissents to reappointment of N. Chandrasekaran as Tata Sons chairperson",
      "url": "https://www.thehindu.com/business/Industry/tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as-tata-sons-chairperson/article71476401.ece",
      "summary": "The Tata Trusts formally placed on record their acceptance of the decision the following day and advised Tata Sons to initiate the process for setting up a Selection Committee for appointing a successor, in accordance with the Articles of Association of Tata Sons, the Tata Trusts said in a statement",
-     "published": "2026-09-17T11:29:20+00:00",
+     "published": "2026-09-17T11:50:48+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/8tr4dw/article71476391.ece/alternates/LANDSCAPE_1200/Tata-Sons-facesG8AGHARJJ.5.jpg.jpg",
@@ -621,49 +648,34 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Disha Salian case: Raut backs Aaditya; says CBI FIR attempt to malign Thackeray family image",
-     "url": "https://www.thehindu.com/news/national/maharashtra/disha-salian-case-raut-backs-aaditya-says-cbi-fir-attempt-to-malign-thackeray-family-image/article71476373.ece",
-     "summary": "The Central Bureau of Investigation registered a First Information Report in the 2020 Disha Salian death case, naming no accused in compliance with Bombay High Court directives on a petition filed by her father",
-     "published": "2026-09-17T11:27:31+00:00",
+     "title": "'84 rules changed': Congress accuses Uttarakhand CM of handing power project meant for PSUs to Adani",
+     "url": "https://www.thehindu.com/news/national/84-rules-changed-congress-accuses-uttarakhand-cm-of-handing-power-project-meant-for-psus-to-adani/article71476411.ece",
+     "summary": "The Opposition party asked why did the BJP government kill its own UJVN-THDC project only to create a 1,320 MW opportunity that perfectly fits Adani's Korba plant, and why 84 tender conditions were rewritten",
+     "published": "2026-09-17T11:49:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9so9ev/article71476407.ece/alternates/LANDSCAPE_1200/8_BM_MaharashtrGN7F9C02R.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/291odd/article71471224.ece/alternates/LANDSCAPE_1200/TH19-Vijaita-CoGSCGDSKIN.3.jpg.jpg",
      "licence": "linkout",
-     "id": "df7429da3779",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "NIA court issues arrest warrant against Pakistan-based LeT ‘commander’ Saifullah for his role in attacks in J&K",
-     "url": "https://www.thehindu.com/news/national/nia-court-issues-arrest-warrant-against-pakistan-based-let-commander-saifullah-for-his-role-in-attacks-in-jampk/article71476200.ece",
-     "summary": "The Central agency says Saifullah is a key figure in the terror outfit’s operations and has remained active for over two decades; he is linked to last year’s Pahalgam terror attack in which 26 people were killed",
-     "published": "2026-09-17T11:23:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lx74vp/article71476238.ece/alternates/LANDSCAPE_1200/6751_29_1_2023_14_12_25_2_52_NIA_ATTACHED_HURRIYAT_OFFICE_SGR_29_01_2023.JPG",
-     "licence": "linkout",
-     "id": "e24c1a885ad5",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "5c795d7a7b1c",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "26 people were killed"
+      "84 rules changed': Congress accuses Uttarakhand",
+      "84 tender conditions were rewritten"
      ]
     },
     {
-     "title": "Supreme Court asks CBSE to consider implementing 3-language policy for Class 6 from next year",
-     "url": "https://www.thehindu.com/news/national/supreme-court-asks-cbse-to-consider-implementing-3-language-policy-for-class-6-from-next-year/article71476330.ece",
-     "summary": "The law officer said that the CBSE would consider the suggestion and come back with a fresh note on the issue",
-     "published": "2026-09-17T11:18:59+00:00",
+     "title": "Mizoram Speaker to lead Indian delegation session on AI at Commonwealth meet in South Africa",
+     "url": "https://www.thehindu.com/news/national/mizoram/mizoram-speaker-to-lead-indian-delegation-session-on-ai-at-commonwealth-meet-in-south-africa/article71476412.ece",
+     "summary": "The conference is deliberating upon issues related to strengthening parliamentary systems and promoting equitable development among Commonwealth countries, according to an official release.",
+     "published": "2026-09-17T11:42:52+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/n9z1rr/article71476383.ece/alternates/LANDSCAPE_1200/NEET-UG-protestGULGHO8AK.4.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ob5n65/article71476451.ece/alternates/LANDSCAPE_1200/KPnWudk5fGCvIVZKhvAg.jpg",
      "licence": "linkout",
-     "id": "d0688191319e",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "6 from next year"
-     ]
+     "id": "cb332825f0b9",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "No Ganesh Idol Immersion In Water Bodies From 2027: Tamil Nadu To Green Court",
@@ -747,54 +759,53 @@
    "upsc": false,
    "items": [
     {
-     "title": "Why is inflation rising again around the world?",
-     "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/17/why-is-inflation-rising-again-around-the-world?traffic_source=rss",
-     "summary": "Rising energy prices are pushing inflation higher again, forcing major central banks to raise interest rates.",
-     "published": "2026-09-17T10:50:54+00:00",
+     "title": "What’s the Asian Games accommodation crisis, and where will athletes stay?",
+     "url": "https://www.aljazeera.com/sports/2026/9/17/whats-the-asian-games-accommodation-crisis-and-where-will-athletes-stay?traffic_source=rss",
+     "summary": "In a cost-cutting move, Japan decided against setting up a dedicated athletes' village but now faces a backlash.",
+     "published": "2026-09-17T11:28:02+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/web-1789642219.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260917__C8JP3A7__v1__HighRes__Asiad2026Jpn-1789643060.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "d65ac0d04a89",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "aae414343862",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
-     "url": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
-     "summary": "The US president says Washington is 'hopefully toward the end' of Iran war, as global energy prices remain high.",
-     "published": "2026-09-17T10:32:46+00:00",
+     "title": "Climate change had major role in triggering Nepal floods, scientists say",
+     "url": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
+     "summary": "The combined toll from the deadly incident now stands at 1,446 people dead and at least 6,669 missing.",
+     "published": "2026-09-17T11:19:23+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aab98692f0b-1789630569.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26259462407456-1789639076.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "1e64f818ff4b",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "09dc3bb746df",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+       "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
+       "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month."
+      }
+     ],
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "1,446 people dead and at least",
+      "6,669 missing"
+     ]
     },
     {
-     "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-     "url": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-     "summary": "The security talks come as Israeli forces continue attacks across southern Lebanon despite a \"ceasefire\".",
-     "published": "2026-09-17T10:20:20+00:00",
+     "title": "India to impose controversial fee for UPI instant payments: Who benefits?",
+     "url": "https://www.aljazeera.com/features/2026/9/17/india-to-impose-controversial-fee-for-upi-instant-payments-who-benefits?traffic_source=rss",
+     "summary": "It's the end of an era for India's popular instant digital payments system, which has been free of charge until now.",
+     "published": "2026-09-17T11:18:33+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aabaa8befc5-1789635211.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20211108__9RA3PU__v1__MidRes__IndiaBankingStockIpoTechnology-1-1789638055.jpg?resize=1803%2C1080",
      "licence": "linkout",
-     "id": "59d14cea77a8",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "NBA star Irving pledges to pay Al-Shaair’s NFL fine over Hind Rajab message",
-     "url": "https://www.aljazeera.com/sports/2026/9/17/nba-star-irving-pledges-to-pay-al-shaairs-nfl-fine-over-hind-rajab-message?traffic_source=rss",
-     "summary": "Houston Texans' linebacker Azeez Al-Shaair was fined for wearing the name of Hind Rajab on his eye black.",
-     "published": "2026-09-17T10:10:47+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/GettyImages-2257293815-1769092959.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "2b9f51744243",
+     "id": "3866942ebab4",
      "category": "general",
      "category_label": "General"
     },
@@ -808,19 +819,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f662/live/68ede5c0-b25d-11f1-bc1f-3f186ca4140c.jpg",
      "licence": "linkout",
      "id": "99aca68ee45f",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Ninth woman's body found as South African police investigate string of deaths",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-     "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-     "published": "2026-09-17T10:40:31+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg",
-     "licence": "linkout",
-     "id": "ad5a5678babb",
      "category": "crime",
      "category_label": "Crime"
     },
@@ -963,7 +961,7 @@
      "title": "Tata Trusts dissents to reappointment of N. Chandrasekaran as Tata Sons chairperson",
      "url": "https://www.thehindu.com/business/Industry/tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as-tata-sons-chairperson/article71476401.ece",
      "summary": "The Tata Trusts formally placed on record their acceptance of the decision the following day and advised Tata Sons to initiate the process for setting up a Selection Committee for appointing a successor, in accordance with the Articles of Association of Tata Sons, the Tata Trusts said in a statement",
-     "published": "2026-09-17T11:29:20+00:00",
+     "published": "2026-09-17T11:50:48+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/8tr4dw/article71476391.ece/alternates/LANDSCAPE_1200/Tata-Sons-facesG8AGHARJJ.5.jpg.jpg",
@@ -973,66 +971,73 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Disha Salian case: Raut backs Aaditya; says CBI FIR attempt to malign Thackeray family image",
-     "url": "https://www.thehindu.com/news/national/maharashtra/disha-salian-case-raut-backs-aaditya-says-cbi-fir-attempt-to-malign-thackeray-family-image/article71476373.ece",
-     "summary": "The Central Bureau of Investigation registered a First Information Report in the 2020 Disha Salian death case, naming no accused in compliance with Bombay High Court directives on a petition filed by her father",
-     "published": "2026-09-17T11:27:31+00:00",
+     "title": "'84 rules changed': Congress accuses Uttarakhand CM of handing power project meant for PSUs to Adani",
+     "url": "https://www.thehindu.com/news/national/84-rules-changed-congress-accuses-uttarakhand-cm-of-handing-power-project-meant-for-psus-to-adani/article71476411.ece",
+     "summary": "The Opposition party asked why did the BJP government kill its own UJVN-THDC project only to create a 1,320 MW opportunity that perfectly fits Adani's Korba plant, and why 84 tender conditions were rewritten",
+     "published": "2026-09-17T11:49:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9so9ev/article71476407.ece/alternates/LANDSCAPE_1200/8_BM_MaharashtrGN7F9C02R.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/291odd/article71471224.ece/alternates/LANDSCAPE_1200/TH19-Vijaita-CoGSCGDSKIN.3.jpg.jpg",
      "licence": "linkout",
-     "id": "df7429da3779",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "NIA court issues arrest warrant against Pakistan-based LeT ‘commander’ Saifullah for his role in attacks in J&K",
-     "url": "https://www.thehindu.com/news/national/nia-court-issues-arrest-warrant-against-pakistan-based-let-commander-saifullah-for-his-role-in-attacks-in-jampk/article71476200.ece",
-     "summary": "The Central agency says Saifullah is a key figure in the terror outfit’s operations and has remained active for over two decades; he is linked to last year’s Pahalgam terror attack in which 26 people were killed",
-     "published": "2026-09-17T11:23:12+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lx74vp/article71476238.ece/alternates/LANDSCAPE_1200/6751_29_1_2023_14_12_25_2_52_NIA_ATTACHED_HURRIYAT_OFFICE_SGR_29_01_2023.JPG",
-     "licence": "linkout",
-     "id": "e24c1a885ad5",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "5c795d7a7b1c",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "26 people were killed"
+      "84 rules changed': Congress accuses Uttarakhand",
+      "84 tender conditions were rewritten"
      ]
     },
     {
-     "title": "No proposal from NSE seeking approval for trading on its own platform: SEBI chief",
-     "url": "https://www.thehindu.com/business/markets/no-proposal-from-nse-seeking-approval-for-trading-on-its-own-platform-sebi-chief/article71476004.ece",
-     "summary": "On concerns raised by some brokers and asset management companies over the new UPI Merchant Discount Rate (MDR), Mr. Pandey said the Securities and Exchange Board of India (SEBI) would examine the issues.",
-     "published": "2026-09-17T11:12:12+00:00",
+     "title": "Mizoram Speaker to lead Indian delegation session on AI at Commonwealth meet in South Africa",
+     "url": "https://www.thehindu.com/news/national/mizoram/mizoram-speaker-to-lead-indian-delegation-session-on-ai-at-commonwealth-meet-in-south-africa/article71476412.ece",
+     "summary": "The conference is deliberating upon issues related to strengthening parliamentary systems and promoting equitable development among Commonwealth countries, according to an official release.",
+     "published": "2026-09-17T11:42:52+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/b1gcb9/article71476025.ece/alternates/LANDSCAPE_1200/20260812170L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ob5n65/article71476451.ece/alternates/LANDSCAPE_1200/KPnWudk5fGCvIVZKhvAg.jpg",
      "licence": "linkout",
-     "id": "47eca655fde7",
-     "category": "general",
-     "category_label": "General"
+     "id": "cb332825f0b9",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Kerala State Women’s Commission raises concerns on safety of elderly women",
-     "url": "https://www.thehindu.com/news/national/kerala/kerala-state-womens-commission-raises-concerns-on-safety-of-elderly-women/article71476235.ece",
-     "summary": "Kerala State Women’s Commission chairperson P. Sathidevi says elderly women are often being abandoned by their families after receiving their share of property. Women face severe isolation in old age when they need love and care, she says, adding that such a situation was not healthy for society",
-     "published": "2026-09-17T11:00:28+00:00",
+     "title": "Supreme Court asks CBSE to consider implementing 3-language policy for Class 6 from next year",
+     "url": "https://www.thehindu.com/news/national/supreme-court-asks-cbse-to-consider-implementing-3-language-policy-for-class-6-from-next-year/article71476330.ece",
+     "summary": "The law officer said that the CBSE would consider the suggestion and come back with a fresh note on the issue",
+     "published": "2026-09-17T11:18:59+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/f4dei0/article71476270.ece/alternates/LANDSCAPE_1200/10018_18_6_2025_18_41_33_1_WOMENS_COMMISSION_01.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/n9z1rr/article71476383.ece/alternates/LANDSCAPE_1200/NEET-UG-protestGULGHO8AK.4.jpg.jpg",
      "licence": "linkout",
-     "id": "7e406b34b2a1",
+     "id": "d0688191319e",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "6 from next year"
+     ]
+    },
+    {
+     "title": "Boy’s body found, search on for father, uncle who swept away in Galeru-Nagari canal",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/boys-body-found-search-on-for-father-uncle-who-swept-away-in-galeru-nagari-canal/article71475930.ece",
+     "summary": "Eight-year-old Aarush lost his balance while playing at Ramapuram village in Owk mandal and the two men went in after him; the canal was carrying about 3,200 cusecs at the time",
+     "published": "2026-09-17T11:16:10+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "licence": "linkout",
+     "id": "188ad16dc73b",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "3,200 cusecs at the time"
+     ]
     },
     {
      "title": "top news of the day september 16 2026",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVNpQk11ZEUyb2RiZ2o2bVVYbmFya0lkS09HaF90UGtwaTZoM181SjQ0SDk5NGZLVmNLTW1KMk9fRWQ1bUk3UU9MQXBqZk9ZUnBKQVlkQ0pfMjVyMDZGQ0l1c2djSERVeFpycW1qUnFySEJGd3Vmajg2S29ibjVvRWF5cUVUOXFpeDR0Tl83dkPSAZcBQVVfeXFMT1B4ckVZRnUtb0Z6ckY0VHNFRHdCejJNVjZvUEJYM3VDby1HT3dMc3pwYmhHRDVBNWJCZXNzck9LNEc3QXB2Wlhod0dRd0paUjRrYUtMTkVBeS1yWFVISGd6WFFHLU9HaEVKVjNtOTduMWVsYXdIWDVTRmJKU012Ym5qbnJNNkhNbXBoSVNEZzAtYWp5SDJZZw?oc=5",
-     "summary": "top news of the day september 16 2026 thehindu.com",
+     "summary": "top news of the day september 16 2026 The Hindu",
      "published": "2026-09-16T12:32:54+00:00",
-     "source": "thehindu.com",
+     "source": "The Hindu",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1061,6 +1066,28 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "RBI announces OMO Sale of Government of India Securities",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63615",
+     "summary": "",
+     "published": "2026-09-17T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "fe1f9c6091ee",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "RBI",
+       "OMO"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Gauhati Co-operative Urban Bank Ltd., Guwahati – Extension of period",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63614",
@@ -1148,31 +1175,6 @@
      "category_label": "General",
      "figures": [
       "5 NBFCs"
-     ]
-    },
-    {
-     "title": "8 NBFCs surrender their Certificate of Registration to the RBI",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63610",
-     "summary": "",
-     "published": "2026-09-17T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "3f6212679c46",
-     "upsc": {
-      "papers": [
-       "GS-II — Polity & Governance",
-       "GS-III — Economy"
-      ],
-      "terms": [
-       "RBI"
-      ],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "8 NBFCs surrender their Certificate"
      ]
     }
    ]
@@ -1655,10 +1657,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "UK interest rates held at 3.75% despite rising inflation",
+     "title": "Interest rates held but Bank signals rise if energy prices stay high",
      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
      "summary": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
-     "published": "2026-09-17T11:15:10+00:00",
+     "published": "2026-09-17T11:50:24+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg",
@@ -1721,6 +1723,23 @@
      "id": "10b3a72c0873",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Bandhan Small Cap Fund August portfolio: Cyient, P N Gadgil see higher holdings; 4 stocks added, 6 exited",
+     "url": "https://www.livemint.com/money/personal-finance/bandhan-small-cap-fund-august-portfolio-cyient-p-n-gadgil-see-higher-holdings-4-stocks-added-6-exited-11789636919234.html",
+     "summary": "Bandhan Small Cap Fund attracted ₹2,187 crore in August, the highest inflow among small-cap schemes, as it reshuffled several existing holdings and added four new stocks. Cyient, P N Gadgil Jewellers and Strides Pharma were among the stocks where holdings increased.",
+     "published": "2026-09-17T09:30:47+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/17/600x338/k_1789637358694_o3oe_1789637363363_Bi1y_e8c8626b-bfa2-4228-b39f-61327ba3d824_EN25.png",
+     "licence": "linkout",
+     "id": "ff5afd20cf87",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "4 stocks added, 6 exited",
+      "₹2,187 crore in August, the highest"
+     ]
     },
     {
      "title": "EPFO WhatsApp channel join guide: How to follow it and what PF members get",
@@ -2000,6 +2019,19 @@
      "category_label": "War & conflict"
     },
     {
+     "title": "RTÉ boycotts Eurovision for second year in a row",
+     "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
+     "summary": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
+     "published": "2026-09-17T11:56:21+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0a/live/44542e60-b288-11f1-8096-b33a1297275a.jpg",
+     "licence": "linkout",
+     "id": "04fd8852e574",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
      "url": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
      "summary": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
@@ -2024,22 +2056,6 @@
      "id": "61d26e401a58",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Ex-BBC presenter questions role of Royal Family in new documentary",
-     "url": "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo?at_medium=RSS&at_campaign=rss",
-     "summary": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
-     "published": "2026-09-16T17:57:15+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ee/live/27a68920-b1f7-11f1-bd8b-ed45be4f6895.jpg",
-     "licence": "linkout",
-     "id": "4a31f47b0b6e",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "4 documentary on the topic"
-     ]
     }
    ]
   },
@@ -2090,19 +2106,6 @@
      "figures": [
       "29 when she found out she"
      ]
-    },
-    {
-     "title": "Seated exercises help physical and mental health",
-     "url": "https://www.bbc.co.uk/news/articles/c639m4k9x7e3o?at_medium=RSS&at_campaign=rss",
-     "summary": "Laugh, Move & Groove, nominated for the Make a Difference Awards, holds sessions around Jersey.",
-     "published": "2026-09-16T11:50:01+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0715/live/6d4ae420-b0e5-11f1-b427-b9b4ddc559ae.jpg",
-     "licence": "linkout",
-     "id": "659da13ca64a",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Cancer patient told she will get drug which could make her life longer",
