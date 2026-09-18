@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T04:35:34.012249+00:00",
+ "generated_at": "2026-09-18T05:01:45.298733+00:00",
  "podcasts_fetched_at": "2026-09-18T00:02:47.900265+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 122916.0,
    "change": 1189.0,
    "changePct": 0.98,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -78,20 +79,21 @@
    "value": 77255.0,
    "change": -908.0,
    "changePct": -1.16,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
   "Four Delhi",
-  "Bengaluru Varthur",
+  "Dogs Eating",
   "Jazeera English",
   "News",
   "Bangladesh World",
   "Scandals & Investigations",
-  "Mayawati Centre",
-  "Japan",
-  "Critics Tillamook",
-  "Complete Afghan"
+  "National News",
+  "NLMC Visakhapatnam",
+  "Could",
+  "Bolivia"
  ],
  "sections": [
   {
@@ -113,9 +115,9 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "Teen Gangraped, Killed By 4, Including 3 Minors In Delhi, Body Eaten By Dogs",
+       "title": "Teen Gang-Raped, Killed By 4, Including 3 Minors In Delhi, Body Eaten By Dogs",
        "url": "https://www.ndtv.com/india-news/girl-gangraped-killed-by-4-including-3-minors-in-delhi-body-eaten-by-dogs-12062563#publisher=newsstand",
-       "summary": "According to the police, the body of the 17-year-old had decomposed to such an extent that its gender could not be immediately ascertained."
+       "summary": "According to the police, the body of the 16-year-old had decomposed to such an extent that its gender could not be immediately ascertained."
       }
      ],
      "category": "crime",
@@ -126,24 +128,24 @@
      ]
     },
     {
-     "title": "Bengaluru: Varthur-Gunjur congestion leaves schoolchildren stranded for hours",
-     "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-varthur-gunjur-congestion-leaves-schoolchildren-stranded-for-hours/article71477764.ece",
-     "summary": "Bengaluru Traffic Police sources attributed the congestion to ongoing infrastructure work in the area",
-     "published": "2026-09-18T04:11:29+00:00",
-     "source": "The Hindu",
+     "title": "'Saw Dogs Eating Her': How Decomposed Body Of Delhi Rape Victim Was Found",
+     "url": "https://www.ndtv.com/india-news/delhi-gangrape-murder-saw-dogs-eating-her-how-decomposed-body-of-delhi-rape-victim-was-found-12062735#publisher=newsstand",
+     "summary": "Investigators said the victim's face was totally mutilated and there were multiple stab wounds on her body. A medical examination later confirmed rape, police said.",
+     "published": "2026-09-18T04:51:56+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5j1io3/article71477804.ece/alternates/LANDSCAPE_1200/_DSC7800.jpg",
+     "image": "https://c.ndtvimg.com/2026-01/slfpk8l4_stray-dogs_625x300_21_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "a6469a3932c5",
+     "id": "ac4af5dbbe50",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "Teen Gangraped, Killed By 4, Including 3 Minors In Delhi, Body Eaten By Dogs",
+     "title": "Teen Gang-Raped, Killed By 4, Including 3 Minors In Delhi, Body Eaten By Dogs",
      "url": "https://www.ndtv.com/india-news/girl-gangraped-killed-by-4-including-3-minors-in-delhi-body-eaten-by-dogs-12062563#publisher=newsstand",
-     "summary": "According to the police, the body of the 17-year-old had decomposed to such an extent that its gender could not be immediately ascertained.",
-     "published": "2026-09-18T03:33:42+00:00",
+     "summary": "According to the police, the body of the 16-year-old had decomposed to such an extent that its gender could not be immediately ascertained.",
+     "published": "2026-09-18T04:51:07+00:00",
      "source": "NDTV",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-09/77nuf64s_delhi-police_625x300_18_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
@@ -174,21 +176,13 @@
     {
      "title": "DUSU Elections 2026: Voting Begins Amid Tight Security, Over 1.5 Lakh Students To Cast Votes",
      "url": "https://www.ndtv.com/education/dusu-election-2026-live-voting-begins-over-1-5-lakh-students-to-cast-votes-security-tightened-12062561#publisher=newsstand",
-     "summary": "DUSU Election 2026: The Delhi University administration has set up 158 polling booths and 12 control rooms for the elections. Security arrangements have also been tightened across the university campus and surrounding areas.",
-     "published": "2026-09-18T03:45:24+00:00",
+     "summary": "DUSU Elections 2026: The Delhi University administration has set up 158 polling booths and 12 control rooms for the elections. Security arrangements have also been tightened across the university campus and surrounding areas.",
+     "published": "2026-09-18T04:14:48+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/j78v0i28_dusu-elections-2026_625x300_18_September_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-09/ihh5b7i_dusu-elections-2026_625x300_18_September_26.jpeg",
      "licence": "linkout",
      "id": "f6666ef15949",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Voting for Delhi University Students' Union polls begins",
-       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-university-students-union-elections-voting-latest-abvp-nsui-and-the-aisa-sfi-alliance-updates/article71479294.ece",
-       "summary": "A total of 1,000 electronic voting machines (EVMs) have been deployed for the elections. Of these, 960 will be used for polling, while 40 have been kept in reserve, according to university officials."
-      }
-     ],
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News",
@@ -196,25 +190,6 @@
       "1.5 Lakh Students To Cast Votes",
       "158 polling booths and 12 control",
       "12 control rooms for the elections"
-     ]
-    },
-    {
-     "title": "Voting for Delhi University Students' Union polls begins",
-     "url": "https://www.thehindu.com/news/cities/Delhi/delhi-university-students-union-elections-voting-latest-abvp-nsui-and-the-aisa-sfi-alliance-updates/article71479294.ece",
-     "summary": "A total of 1,000 electronic voting machines (EVMs) have been deployed for the elections. Of these, 960 will be used for polling, while 40 have been kept in reserve, according to university officials.",
-     "published": "2026-09-18T03:34:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xty04o/article71479306.ece/alternates/LANDSCAPE_1200/PTI09_16_2026_000252B.jpg",
-     "licence": "linkout",
-     "id": "29b766827d15",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines",
-     "figures": [
-      "1,000 electronic voting machines (EVMs) have",
-      "960 will be used for polling",
-      "40 have been kept in reserve"
      ]
     },
     {
@@ -232,7 +207,21 @@
      "from_section": "Global News"
     },
     {
-     "title": "Japan’s interest rate hiked to 31-year high at 1.25% as inflation rises",
+     "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
+     "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+     "summary": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays.",
+     "published": "2026-09-18T02:53:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260914__C89G4PN__v1__HighRes__YemenIranUsIsraelWar-1789456385.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1a93566ef14b",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
      "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
      "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
      "published": "2026-09-18T03:20:20+00:00",
@@ -257,26 +246,18 @@
      ]
     },
     {
-     "title": "Interest rates held but Bank signals rise if energy prices stay high",
-     "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-     "summary": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
-     "published": "2026-09-17T14:05:38+00:00",
-     "source": "BBC News",
+     "title": "Could this economic squeeze sway US voters?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+     "summary": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.",
+     "published": "2026-09-18T04:27:25+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a70/live/ce050920-b28f-11f1-8096-b33a1297275a.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789704549.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "c15a22345c6e",
-     "also": [
-      {
-       "source": "Al Jazeera",
-       "title": "Japan’s interest rate hiked to 31-year high at 1.25% as inflation rises",
-       "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
-       "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks."
-      }
-     ],
+     "id": "ae83d276e88e",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
+     "from_section": "Global News"
     },
     {
      "title": "Mayawati slams Centre over UPI fee, calls it 'capitalist profiteering attitude'",
@@ -363,17 +344,31 @@
      "id": "626f65581ca6",
      "category": "weather",
      "category_label": "Weather & disaster",
-     "from_section": "National News",
+     "from_section": "National Hotlines",
      "figures": [
       "7 years in plastic tents"
      ]
     },
     {
-     "title": "China is scared of AI, but not in the way US and its tech leaders are",
+     "title": "VIT-AP lays focus on AI, quantum and deep-tech research",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-lays-focus-on-ai-quantum-and-deep-tech-research/article71476202.ece",
+     "summary": "VIT has formed a quantum faculty cluster covering quantum devices, materials, sensing, algorithms, post-quantum cryptography and applications, says Vice-Chancellor",
+     "published": "2026-09-18T04:54:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nll2ij/article71477161.ece/alternates/LANDSCAPE_1200/10215_17_9_2026_16_19_16_1_IMG_20260917_WA0052.JPG",
+     "licence": "linkout",
+     "id": "0c6b8b915745",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News"
+    },
+    {
+     "title": "China is scared of AI, but not in the way US and its tech leaders are - business-standard.com",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVEpqT1h6Y0llZ2FWeVhXY0VkWHhkd0tsMlB2SWgzNG5qVmNRTmFCR3o5SUNaN1N1WHVtNzNYWFUxX3BDbmx5VGJLdVUwTi1iUzRsemlkT1dETThsWkkwaUd5Z09NZWx5MGI0TkY4cWF6YTdVSUJCalcwTDVoZDQ2RWJQRjVxS1lhdUxSR21UQWtzeFQ2VmFZa2JGcFJPMk5KTmhyMGlJWFBuN1BJb0ZhODliZ255UmNrQThfVlloc29XUnpuck0zSE9sZjJUSzhGTkt5MmZPR0F4UHRaSFNfdzR6Vkg2MUw5UGgxQjBn0gHzAUFVX3lxTFBzd05RU2QtbFB1VHczQjMtZENrRVFMVFU4djN0Q3VfVmRLVUo5M0d4RFFYb2hjbkxUUjdweUo5UzFnbjhvSWtRbm1wVGVBUXV6WVVVeWhSS0xKRFVMai1lUmhCanh6QlEtNjJzY0VNbWkwYjFmLVk3OFp0anJwcFlBM093OWZkbF9hLUVseXpMR3p1dm16Rjc4RVlaemg4LTgza0tGUjJiVElobWVhV1lGaVhfRlJWNGxZbzVTTC0wOVhRVzZodVZZYkdSS0FfRTFTc0dmUEV6MDR2X1FlX2hXUU9kQjRCRGZKQzNVa3dCNjZJNA?oc=5",
-     "summary": "China is scared of AI, but not in the way US and its tech leaders are Business Standard",
+     "summary": "China is scared of AI, but not in the way US and its tech leaders are business-standard.com",
      "published": "2026-09-18T02:12:49+00:00",
-     "source": "Business Standard",
+     "source": "Google News",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -397,18 +392,18 @@
      "from_section": "Technology"
     },
     {
-     "title": "Claude now leads a quarter of Anthropic’s work on next-generation AI",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWRQRFM2MXllVGdLR2ZHNXRTZzRkLWVaU0JEb0U4TktZVEF4ZzRLRXhuUklCMzJCTjkyNUltLURGdHdqWFJyTzVDTUdZc0FxOHY0ZGhUd1VfR2VEUFVTUkdLblFvV0NDRF9RLURfX2VSS0NfMUduYlVibmx1VHROWU52OTJPZk1wdnM0WkhPem9ZcEFRTm12MXZSUnlKTTl6ZU9nbFpxMDg5bkRIenBfdU9sN1JLMTIyTnVzQ245MzJSREhqcDFXbkJLNk4xX2VZekoyRnU4enY4X053Yks40gHmAUFVX3lxTE1tUVZNY2VpampmQ1lQOXpoYjRLcnY0ZmltZ3prNVFOcGVRb2dvSk1WWmEzZkI3Mmh3RUF2Zmk0RmcxYXZnRFlYNzJMTWZHNHZvb0p0dDROUzRmd3gtVl9NTVJycUdYdWtpa3FWSHJHdkc4dEliLWgzRU9NcHJ2VDlJbWM2bVplazFxNDRxU0NxUVFUMTlZVDYyTlRhcXJtalpyMnltbEtkZzIwbWZ4ZkJqcEw2cERDQml0UVZsdUhtR1Z0aU1VZzJRZklIWUxjX0VnQnk5TTNIcm55QS1OSXpCODBuWGFR?oc=5",
-     "summary": "Claude now leads a quarter of Anthropic’s work on next-generation AI indianexpress.com",
-     "published": "2026-09-18T01:47:02+00:00",
-     "source": "indianexpress.com",
+     "title": "Delhi Man Goes To Meet Ex-Colleague In Gurugram. She Kills Him, Dumps Body In Drain",
+     "url": "https://www.ndtv.com/india-news/delhi-man-goes-to-meet-ex-colleague-in-gurugram-she-kills-him-dumps-body-in-drain-12062808#publisher=newsstand",
+     "summary": "The investigation revealed that Yuvraj had a last phone call with a woman named Vats - his former colleague - whom he had gone to meet in Gurugram.",
+     "published": "2026-09-18T04:46:44+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": null,
+     "image": "https://c.ndtvimg.com/2026-09/ii9jjqg4_delhi-murder_625x300_18_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "3436936d63cd",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
+     "id": "a21766e4dbaa",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "National News"
     },
     {
      "title": "Former Browns TE Dae’Quan Wright Fights Back After NFL Blocks His College Football Return",
@@ -442,20 +437,6 @@
      ]
     },
     {
-     "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
-     "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
-     "published": "2026-09-17T15:28:38+00:00",
-     "source": "News On AIR",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "44ac1cfc8520",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Scandals & Investigations"
-    },
-    {
      "title": "\"I Wasn’t Surprised\": Warriors Legend Steph Curry Gives Honest Verdict on Steve Ballmer’s Clippers Controversy and Consequences",
      "url": "https://sports.ndtv.com/us-nba/i-wasn-t-surprised-warriors-legend-steph-curry-gives-honest-verdict-on-steve-ballmer-s-clippers-controversy-and-consequences-12062427#publisher=newsstand",
      "summary": "Golden State Warriors star Stephen Curry says he wasn't surprised by the NBA's harsh punishment of the Los Angeles Clippers and owner Steve Ballmer following a salary cap investigation tied to Kawhi Leonard.",
@@ -483,7 +464,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-18T04:35:23.996347+00:00",
+     "published": "2026-09-18T05:01:32.244068+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -494,7 +475,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-18T04:35:23.996359+00:00",
+     "published": "2026-09-18T05:01:32.244077+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -505,7 +486,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-18T04:35:23.996366+00:00",
+     "published": "2026-09-18T05:01:32.244080+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -516,7 +497,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-18T04:35:23.996370+00:00",
+     "published": "2026-09-18T05:01:32.244086+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -527,7 +508,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-18T04:35:23.996374+00:00",
+     "published": "2026-09-18T05:01:32.244091+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -538,7 +519,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-18T04:35:23.996379+00:00",
+     "published": "2026-09-18T05:01:32.244096+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -567,19 +548,19 @@
     {
      "title": "BCB charges two more BPL officials under ICC anti-corruption code",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNF9iREhDaG1meUxHLUliaDAzZVllUGI0dEd4djkzQ3JoZHRONUs1enVUX2txZHpTUlhxR2lHX05zdVdwTl9OVmRielc2R3Y4dTRfV3NqdlZRbWYzVjBHRS0zTUlFQURrUGJXajRfVmZ2T3lVYjc4ajRWMUo4NmI0cDAzV1AxSTA4UUxTUTVveVlQeGN1TzhVbFFVZk9LUDltS0ctS2FEY3VlcEnSAa8BQVVfeXFMT2RRd3lZNlpTY2NaTmtrSmYzdk5iU01DVFVpclBnTUh2ZUZleVlUSU9FQTJqTzlMNTktSGhlbUIzcW4tMFU1blJLZ0lSTTQwWEp1N1NhUFktbDY0Zk5pSE5tSElKRTZBZzU5NVg1dnN4M1YyQ1Mycm4wQncwLWtkcW5UeTlia1lDNHdTOUl1YXZBT2hYYzJzR3NyT1gtSVhHd1k4ZXV5Qmt2LXNKVU4xcw?oc=5",
-     "summary": "BCB charges two more BPL officials under ICC anti-corruption code tribuneindia.com",
+     "summary": "BCB charges two more BPL officials under ICC anti-corruption code The Tribune",
      "published": "2026-09-17T13:02:18+00:00",
-     "source": "tribuneindia.com",
+     "source": "The Tribune",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "235783591981",
      "also": [
       {
-       "source": "jagonews24.com",
+       "source": "Jagonews24",
        "title": "BCB charges two more BPL officials with breaching anti-corruption code",
        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTRW9UakJhaGkwQlNYLVE1enFRaHRJTENkQW5vcnFNVml5MnVQYnFiY2N0YXpnSFZWanNFWE03VWdTV2RXVDM2LUpEZXVWYy1RS1lrUG5tZGZaVEU?oc=5",
-       "summary": "BCB charges two more BPL officials with breaching anti-corruption code jagonews24.com"
+       "summary": "BCB charges two more BPL officials with breaching anti-corruption code Jagonews24"
       }
      ],
      "category": "general",
@@ -601,9 +582,9 @@
     {
      "title": "BCB charges two more BPL officials with breaching anti-corruption code",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTRW9UakJhaGkwQlNYLVE1enFRaHRJTENkQW5vcnFNVml5MnVQYnFiY2N0YXpnSFZWanNFWE03VWdTV2RXVDM2LUpEZXVWYy1RS1lrUG5tZGZaVEU?oc=5",
-     "summary": "BCB charges two more BPL officials with breaching anti-corruption code jagonews24.com",
+     "summary": "BCB charges two more BPL officials with breaching anti-corruption code Jagonews24",
      "published": "2026-09-17T13:19:19+00:00",
-     "source": "jagonews24.com",
+     "source": "Jagonews24",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -620,117 +601,60 @@
    "upsc": false,
    "items": [
     {
-     "title": "Mayawati slams Centre over UPI fee, calls it 'capitalist profiteering attitude'",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-slams-centre-over-upi-fee-calls-it-capitalist-profiteering-attitude/article71479379.ece",
-     "summary": "BSP chief Mayawati said the public is unwilling to accept this system, which imposes an additional financial burden on them as a 'tax’",
-     "published": "2026-09-18T04:24:43+00:00",
+     "title": "VIT-AP lays focus on AI, quantum and deep-tech research",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-lays-focus-on-ai-quantum-and-deep-tech-research/article71476202.ece",
+     "summary": "VIT has formed a quantum faculty cluster covering quantum devices, materials, sensing, algorithms, post-quantum cryptography and applications, says Vice-Chancellor",
+     "published": "2026-09-18T04:54:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r71xe1/article71479383.ece/alternates/LANDSCAPE_1200/PTI09_13_2026_000112B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/nll2ij/article71477161.ece/alternates/LANDSCAPE_1200/10215_17_9_2026_16_19_16_1_IMG_20260917_WA0052.JPG",
      "licence": "linkout",
-     "id": "f77ccbf19315",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "0c6b8b915745",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
-     "title": "Four, including three juveniles, arrested for rape and murder of minor girl in Delhi’s Swaroop Nagar",
-     "url": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
-     "summary": "Police say the body of a minor girl was found in an open field on September 13; CCTV analysis of more than 50 cameras helped investigators trace the suspected tempo",
-     "published": "2026-09-18T04:19:28+00:00",
+     "title": "NLMC to hold investor meets in Visakhapatnam, Vijayawada and Hyderabad before e-auction of 459 RINL plots",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/nlmc-to-hold-investor-meets-in-visakhapatnam-vijayawada-and-hyderabad-before-e-auction-of-459-rinl-plots/article71479296.ece",
+     "summary": "The 456 HB Colony house plots and three Auto Nagar parcels go under the hammer on RailTel’s platform on October 12 and 16; EMD is ₹2 lakh a plot",
+     "published": "2026-09-18T04:50:26+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/a17pff/article71479283.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_1_1_35FSTTDR.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "b03f1f8af25c",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Teen Gangraped, Killed By 4, Including 3 Minors In Delhi, Body Eaten By Dogs",
-       "url": "https://www.ndtv.com/india-news/girl-gangraped-killed-by-4-including-3-minors-in-delhi-body-eaten-by-dogs-12062563#publisher=newsstand",
-       "summary": "According to the police, the body of the 17-year-old had decomposed to such an extent that its gender could not be immediately ascertained."
-      }
-     ],
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "50 cameras helped investigators trace"
-     ]
-    },
-    {
-     "title": "Bengaluru: Varthur-Gunjur congestion leaves schoolchildren stranded for hours",
-     "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-varthur-gunjur-congestion-leaves-schoolchildren-stranded-for-hours/article71477764.ece",
-     "summary": "Bengaluru Traffic Police sources attributed the congestion to ongoing infrastructure work in the area",
-     "published": "2026-09-18T04:11:29+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5j1io3/article71477804.ece/alternates/LANDSCAPE_1200/_DSC7800.jpg",
-     "licence": "linkout",
-     "id": "a6469a3932c5",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Dharwad tahsildar caught taking ₹50 lakh bribe by Lokayukta",
-     "url": "https://www.thehindu.com/news/national/karnataka/lokayukta-traps-dharwad-tahsildar-50-lakh-seized/article71477754.ece",
-     "summary": "Sachchidanand Kachanur had allegedly sought the bribe to rectify records of a 33-acre plot of land",
-     "published": "2026-09-18T04:02:25+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/akw3h6/article71479340.ece/alternates/LANDSCAPE_1200/Lokayukta-raidsGR8G0KM2L.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "734f958b4ef2",
+     "id": "e11755585bda",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "₹50 lakh bribe by Lokayukta"
+      "459 RINL plots",
+      "₹2 lakh a plot"
      ]
     },
     {
-     "title": "\"Like Rohith Vemula\": Dalit Scholar Accuses Tamil Nadu Ministry Of Harassment, They Deny",
-     "url": "https://www.ndtv.com/india-news/like-rohith-vemula-dalit-scholar-bharathidasan-accuses-tamil-nadu-ministry-of-harassment-they-deny-12062452#publisher=newsstand",
-     "summary": "Bharathidasan is pursuing a PhD in Tissue Engineering and Regenerative Medicine at Universiti Kebangsaan Malaysia.",
-     "published": "2026-09-18T03:09:47+00:00",
-     "source": "NDTV",
+     "title": "The crucial Uttar Pradesh test of the BJP’s hegemony",
+     "url": "https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece",
+     "summary": "The State’s changing electoral landscape, marked by the BJP losing ground in 2024, raises questions about how long the party’s political dominance can endure",
+     "published": "2026-09-18T04:39:45+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/eqckeu5c_dalit-scholar_625x300_18_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/bk4cqt/article71477348.ece/alternates/LANDSCAPE_1200/AFP_LV5GN.jpg",
      "licence": "linkout",
-     "id": "0eff3b02423b",
+     "id": "44335466f5f9",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "UGC-NET 2026 Re-Exam Scorecards Out For English, Commerce, Sociology Papers; Download Here",
-     "url": "https://www.ndtv.com/education/ugc-net-june-2026-re-exam-results-scorecards-out-for-english-commerce-sociology-papers-824-candidates-qualify-for-jrf-12062438#publisher=newsstand",
-     "summary": "UGC NET June 2026 Results Out: The testing agency conducted the examination for English, Commerce, and Sociology papers at 454 exam centres across 272 cities nationwide on September 9 and 10.",
-     "published": "2026-09-18T02:40:45+00:00",
+     "title": "Long Queues Outside Apple Stores In India As Sale Of iPhones Begins",
+     "url": "https://www.ndtv.com/india-news/iphone-18-pro-iphone-18-pro-max-india-sale-long-queues-outside-apple-stores-in-india-as-sale-of-iphones-begins-12062817#publisher=newsstand",
+     "summary": "Sale of the Apple's newly launched iPhone series begins in India.",
+     "published": "2026-09-18T04:50:26+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/djgpok04_ugc-net-june-2026-results-out_625x300_18_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/qf5r4ms4_apple-iphone-sales_625x300_18_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "87842ade928f",
+     "id": "1dbf6ce325bf",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "454 exam centres across 272 cities",
-      "272 cities nationwide on September 9"
-     ]
-    },
-    {
-     "title": "Women, Minors Among 27 Bangladeshis Detained Without Valid Documents In Assam",
-     "url": "https://www.ndtv.com/india-news/women-minors-among-27-bangladeshis-detained-without-valid-documents-in-assam-12062430#publisher=newsstand",
-     "summary": "Police said none of the 27 detainees possessed documents that could establish their legal status in India.",
-     "published": "2026-09-18T02:32:25+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/8hc3bguk_assam-bangladeshis_625x300_18_September_26.jpeg",
-     "licence": "linkout",
-     "id": "4add379d1da7",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "27 Bangladeshis Detained Without Valid Documents",
-      "27 detainees possessed documents that could"
-     ]
+     "category_label": "General"
     }
    ]
   },
@@ -741,7 +665,33 @@
    "upsc": false,
    "items": [
     {
-     "title": "Japan’s interest rate hiked to 31-year high at 1.25% as inflation rises",
+     "title": "Could this economic squeeze sway US voters?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+     "summary": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.",
+     "published": "2026-09-18T04:27:25+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789704549.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "ae83d276e88e",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "New tiger cat species identified in Bolivia, first in over a century",
+     "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
+     "summary": "Leopardus tilcayo is the first new living cat species named and described in more than a century.",
+     "published": "2026-09-18T04:16:28+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-17T154146Z_238128909_RC2KANAC4Y4W_RTRMADP_3_SCIENCE-CAT-1789702208.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "396a38130c68",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
      "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
      "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
      "published": "2026-09-18T03:20:20+00:00",
@@ -762,61 +712,6 @@
      "category_label": "Money & scams",
      "figures": [
       "1.25 percent , pledging to help"
-     ]
-    },
-    {
-     "title": "Critics in meltdown over US cheese giant Tillamook halal label",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
-     "summary": "Critics have launched a boycott campaign against US cheese giant Tillamook over its new halal labelling.",
-     "published": "2026-09-18T03:13:48+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789701138.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "bd6dd163e83b",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
-     "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
-     "summary": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays.",
-     "published": "2026-09-18T02:53:05+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260914__C89G4PN__v1__HighRes__YemenIranUsIsraelWar-1789456385.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "1a93566ef14b",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Drone attacks by Colombian armed groups more than double in early 2026",
-     "url": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
-     "summary": "Civilians are caught in the crossfire of drone attacks between armed groups and government forces.",
-     "published": "2026-09-18T02:51:08+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aac8e51b6-1789693521.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "7267baec9024",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "US Veteran told he is ‘embarrassing’ uniform over Israeli bonds stance",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss",
-     "summary": "A veteran was told he is ‘embarrassing’ his uniform for protesting Palm Beach County’s $1B investment in Israel bonds.",
-     "published": "2026-09-18T02:44:10+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789699441.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "cb6aedf7b4c5",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "$1 B investment in Israel"
      ]
     },
     {
@@ -972,33 +867,47 @@
    "upsc": false,
    "items": [
     {
-     "title": "Mayawati slams Centre over UPI fee, calls it 'capitalist profiteering attitude'",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-slams-centre-over-upi-fee-calls-it-capitalist-profiteering-attitude/article71479379.ece",
-     "summary": "BSP chief Mayawati said the public is unwilling to accept this system, which imposes an additional financial burden on them as a 'tax’",
-     "published": "2026-09-18T04:24:43+00:00",
+     "title": "VIT-AP lays focus on AI, quantum and deep-tech research",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-lays-focus-on-ai-quantum-and-deep-tech-research/article71476202.ece",
+     "summary": "VIT has formed a quantum faculty cluster covering quantum devices, materials, sensing, algorithms, post-quantum cryptography and applications, says Vice-Chancellor",
+     "published": "2026-09-18T04:54:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/r71xe1/article71479383.ece/alternates/LANDSCAPE_1200/PTI09_13_2026_000112B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/nll2ij/article71477161.ece/alternates/LANDSCAPE_1200/10215_17_9_2026_16_19_16_1_IMG_20260917_WA0052.JPG",
      "licence": "linkout",
-     "id": "f77ccbf19315",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "0c6b8b915745",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
-     "title": "Four, including three juveniles, arrested for rape and murder of minor girl in Delhi’s Swaroop Nagar",
-     "url": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
-     "summary": "Police say the body of a minor girl was found in an open field on September 13; CCTV analysis of more than 50 cameras helped investigators trace the suspected tempo",
-     "published": "2026-09-18T04:19:28+00:00",
+     "title": "NLMC to hold investor meets in Visakhapatnam, Vijayawada and Hyderabad before e-auction of 459 RINL plots",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/nlmc-to-hold-investor-meets-in-visakhapatnam-vijayawada-and-hyderabad-before-e-auction-of-459-rinl-plots/article71479296.ece",
+     "summary": "The 456 HB Colony house plots and three Auto Nagar parcels go under the hammer on RailTel’s platform on October 12 and 16; EMD is ₹2 lakh a plot",
+     "published": "2026-09-18T04:50:26+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/a17pff/article71479283.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_1_1_35FSTTDR.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "b03f1f8af25c",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "e11755585bda",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "50 cameras helped investigators trace"
+      "459 RINL plots",
+      "₹2 lakh a plot"
      ]
+    },
+    {
+     "title": "The crucial Uttar Pradesh test of the BJP’s hegemony",
+     "url": "https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece",
+     "summary": "The State’s changing electoral landscape, marked by the BJP losing ground in 2024, raises questions about how long the party’s political dominance can endure",
+     "published": "2026-09-18T04:39:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/bk4cqt/article71477348.ece/alternates/LANDSCAPE_1200/AFP_LV5GN.jpg",
+     "licence": "linkout",
+     "id": "44335466f5f9",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Bengaluru: Varthur-Gunjur congestion leaves schoolchildren stranded for hours",
@@ -1014,37 +923,27 @@
      "category_label": "Crime"
     },
     {
-     "title": "iPhone 18 Pro and iPhone 18 Pro Max go on sale in India",
-     "url": "https://www.thehindu.com/sci-tech/technology/iphone-18-pro-and-iphone-18-pro-max-go-on-sale-today-in-india/article71479309.ece",
-     "summary": "Apple on Friday commenced the sale of iPhone 18 Pro and iPhone 18 Pro Max in India. These phones can be purchased on Apple’s India store and its six retail outlets across the country.",
-     "published": "2026-09-18T03:54:26+00:00",
+     "title": "Dharwad tahsildar caught taking ₹50 lakh bribe by Lokayukta",
+     "url": "https://www.thehindu.com/news/national/karnataka/lokayukta-traps-dharwad-tahsildar-50-lakh-seized/article71477754.ece",
+     "summary": "Sachchidanand Kachanur had allegedly sought the bribe to rectify records of a 33-acre plot of land",
+     "published": "2026-09-18T04:02:25+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/b289mj/article71479307.ece/alternates/LANDSCAPE_1200/2026-09-18T015919Z_2114629111_RC2CLNAKB45D_RTRMADP_3_APPLE-CHINA.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/akw3h6/article71479340.ece/alternates/LANDSCAPE_1200/Lokayukta-raidsGR8G0KM2L.3.jpg.jpg",
      "licence": "linkout",
-     "id": "a7c4ffbfb976",
+     "id": "734f958b4ef2",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Homestay: Charting a smooth path for hosts & guests in Karnataka",
-     "url": "https://www.thehindu.com/news/national/karnataka/charting-a-smooth-path-for-hosts-guests/article71454594.ece",
-     "summary": "As homestays mushroom across Karnataka’s tourist destinations, safety concerns and unauthorised establishments are putting the sector under scrutiny. The Tourism Department is now moving to streamline registrations, tighten regulations, and bring a new Bed & Breakfast policy, writes Rashmi Patil",
-     "published": "2026-09-18T03:41:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/art6cn/article71477362.ece/alternates/LANDSCAPE_1200/_DSC3152.JPG",
-     "licence": "linkout",
-     "id": "99746359cb0e",
-     "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "₹50 lakh bribe by Lokayukta"
+     ]
     },
     {
      "title": "Today News Headlines for School Assembly, September 18, 2026: 503 athletes to represent India in Asian Games 2026",
      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQQTQ1cThaM2hjNnY5RUhUREtCYlpSUlNvTlVTbTBrVHRPQlNMQzlPdV9FVTc1MEhvemlUY0p1RzlWSmRzbU5JNjVfdnpkSHNLS3F3U090eHZDU0d4Mm1GZWZzYkdGYkktaVBvVVRZOFgyRXNXS01DeVVMSDNSLTkwdzRuSGc2LTdscWpycXpRejNqM2R5YWh1UkRvN1g1dU5TNGRmSFAwU1lyTVVZRWI5UkxralFtdV9ZMFZGRjk3NjhKQTNNU3drYS1PT2NQUFNxcEpuOHhtbkEzVnRnU1Zqc09tem1NSV83Rzd1QW1uZGdTT2pQWHBDbE5XMUhzVWw3VGhwYXpxb1lHMVBwY2lVLUVWcGFMdGFkc1E3S054SGFxN3RNOG16Qzl6dlrSAbMCQVVfeXFMT0FfQmZ5LVZWNlBrYlJNRGJNZWpmNnJEdjZPQk54TjRMU0hXUFJGVkJsbERUU0V3NlFwV0tnN2k0eFBNX25ud3F3cm40ZlhmMHpzQkRwUE94bUxiNnpvREhwcFRNV2dpNTA0QnY3S29pQWoySkp6MGFvSElkQ1JqN2wwNzdmdmRpa2ppUVZDQ1B4bEJici1jR09kcUNwQkRZWTlHZkJlOE9LZkJFb1ZwckQ1SzlFb2VlTVdMSUZwX2xhZnl0WmFGWUVQQl8zc1ktc3h0M1dudWVMVUswUXVIN1hwWlpxMEFGVFprR2RKT1Y5OXQtWE5GSkVnTUQ4czhFTVZOR2VNYTNNLUo1WDUtaUpaM2xOa3BjWVlseGxmMFV6S1NZVXdkX2k1UHVNTTBtYXVaWQ?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 18, 2026: 503 athletes to represent India in Asian Games 2026 indianexpress.com",
+     "summary": "Today News Headlines for School Assembly, September 18, 2026: 503 athletes to represent India in Asian Games 2026 The Indian Express",
      "published": "2026-09-17T11:53:45+00:00",
-     "source": "indianexpress.com",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1076,6 +975,27 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on September 18, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63620",
+     "summary": "",
+     "published": "2026-09-18T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "a61eede7138d",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "VRRR"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Result of Underwriting Auction conducted on September 18, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63619",
@@ -1158,28 +1078,6 @@
      },
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "RBI announces OMO Sale of Government of India Securities",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63615",
-     "summary": "",
-     "published": "2026-09-18T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "fe1f9c6091ee",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [
-       "RBI",
-       "OMO"
-      ],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1857,6 +1755,19 @@
      "category_label": "General"
     },
     {
+     "title": "Interest rates held but Bank signals rise if energy prices stay high",
+     "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+     "summary": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+     "published": "2026-09-17T14:05:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a70/live/ce050920-b28f-11f1-8096-b33a1297275a.jpg",
+     "licence": "linkout",
+     "id": "c15a22345c6e",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Why a ‘settled’ loan status can hurt your credit score; know the solution",
      "url": "https://www.livemint.com/money/personal-finance/why-a-settled-loan-status-can-hurt-your-credit-profile-know-the-solution-11789698542802.html",
      "summary": "Borrowers who settle loans for less than the full amount may negatively impact their future credit access. Although the loan is marked as 'settled,' lenders may view this as a risk. Here's how borrowers can fix this.&nbsp;",
@@ -1993,6 +1904,19 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
      "licence": "linkout",
      "id": "ea82555f0a06",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Claude now leads a quarter of Anthropic’s work on next-generation AI",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWRQRFM2MXllVGdLR2ZHNXRTZzRkLWVaU0JEb0U4TktZVEF4ZzRLRXhuUklCMzJCTjkyNUltLURGdHdqWFJyTzVDTUdZc0FxOHY0ZGhUd1VfR2VEUFVTUkdLblFvV0NDRF9RLURfX2VSS0NfMUduYlVibmx1VHROWU52OTJPZk1wdnM0WkhPem9ZcEFRTm12MXZSUnlKTTl6ZU9nbFpxMDg5bkRIenBfdU9sN1JLMTIyTnVzQ245MzJSREhqcDFXbkJLNk4xX2VZekoyRnU4enY4X053Yks40gHmAUFVX3lxTE1tUVZNY2VpampmQ1lQOXpoYjRLcnY0ZmltZ3prNVFOcGVRb2dvSk1WWmEzZkI3Mmh3RUF2Zmk0RmcxYXZnRFlYNzJMTWZHNHZvb0p0dDROUzRmd3gtVl9NTVJycUdYdWtpa3FWSHJHdkc4dEliLWgzRU9NcHJ2VDlJbWM2bVplazFxNDRxU0NxUVFUMTlZVDYyTlRhcXJtalpyMnltbEtkZzIwbWZ4ZkJqcEw2cERDQml0UVZsdUhtR1Z0aU1VZzJRZklIWUxjX0VnQnk5TTNIcm55QS1OSXpCODBuWGFR?oc=5",
+     "summary": "Claude now leads a quarter of Anthropic’s work on next-generation AI The Indian Express",
+     "published": "2026-09-18T01:47:02+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "3436936d63cd",
      "category": "tech",
      "category_label": "AI & technology"
     },
