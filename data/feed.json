@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T01:33:39.842693+00:00",
+ "generated_at": "2026-09-18T02:02:23.955560+00:00",
  "podcasts_fetched_at": "2026-09-18T00:02:47.900265+00:00",
  "markets": [
   {
@@ -90,10 +90,10 @@
   "News",
   "Bangladesh World",
   "Scandals & Investigations",
-  "Former Minister",
-  "Rajasthan Modi",
-  "Former Assad",
-  "Tunisia"
+  "Tukaram Centre",
+  "India",
+  "White House",
+  "Former Assad"
  ],
  "sections": [
   {
@@ -156,7 +156,7 @@
      "id": "ea91aab817e1",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
@@ -237,7 +237,27 @@
      "id": "e95f6f9b5e85",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "FDA chief Tukaram flags huge price gaps in medical devices, seeks Centre’s intervention",
+     "url": "https://www.thehindu.com/news/national/maharashtra/fda-chief-tukaram-flags-huge-price-gaps-in-medical-devices-seeks-centres-intervention/article71479199.ece",
+     "summary": "The report cited that an IV set purchased for ₹11.05 had a declared MRP of ₹325, while an infusion set purchased for ₹11 had an MRP of ₹201.",
+     "published": "2026-09-18T01:33:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/23dshc/article71479202.ece/alternates/LANDSCAPE_1200/PTI08_08_2026_000399A.jpg",
+     "licence": "linkout",
+     "id": "951ba083d459",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News",
+     "figures": [
+      "₹11.05  had a declared MRP",
+      "₹325,  while an infusion set",
+      "₹11  had an MRP",
+      "₹201."
+     ]
     },
     {
      "title": "India's hospital boom is improving access but pricing millions out of critical care",
@@ -271,20 +291,6 @@
       "₹28 crore , thanks to SIP",
       "₹25,000  every month and increasing"
      ]
-    },
-    {
-     "title": "Interest rates held but Bank signals rise if energy prices stay high",
-     "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-     "summary": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
-     "published": "2026-09-17T14:05:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a70/live/ce050920-b28f-11f1-8096-b33a1297275a.jpg",
-     "licence": "linkout",
-     "id": "c15a22345c6e",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
     },
     {
      "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
@@ -378,6 +384,34 @@
      "from_section": "Global News"
     },
     {
+     "title": "Claude now leads a quarter of Anthropic’s work on next-generation AI",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWRQRFM2MXllVGdLR2ZHNXRTZzRkLWVaU0JEb0U4TktZVEF4ZzRLRXhuUklCMzJCTjkyNUltLURGdHdqWFJyTzVDTUdZc0FxOHY0ZGhUd1VfR2VEUFVTUkdLblFvV0NDRF9RLURfX2VSS0NfMUduYlVibmx1VHROWU52OTJPZk1wdnM0WkhPem9ZcEFRTm12MXZSUnlKTTl6ZU9nbFpxMDg5bkRIenBfdU9sN1JLMTIyTnVzQ245MzJSREhqcDFXbkJLNk4xX2VZekoyRnU4enY4X053Yks40gHmAUFVX3lxTE1tUVZNY2VpampmQ1lQOXpoYjRLcnY0ZmltZ3prNVFOcGVRb2dvSk1WWmEzZkI3Mmh3RUF2Zmk0RmcxYXZnRFlYNzJMTWZHNHZvb0p0dDROUzRmd3gtVl9NTVJycUdYdWtpa3FWSHJHdkc4dEliLWgzRU9NcHJ2VDlJbWM2bVplazFxNDRxU0NxUVFUMTlZVDYyTlRhcXJtalpyMnltbEtkZzIwbWZ4ZkJqcEw2cERDQml0UVZsdUhtR1Z0aU1VZzJRZklIWUxjX0VnQnk5TTNIcm55QS1OSXpCODBuWGFR?oc=5",
+     "summary": "Claude now leads a quarter of Anthropic’s work on next-generation AI The Indian Express",
+     "published": "2026-09-18T01:47:02+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "3436936d63cd",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "HAL airport becomes first in India to operationalise RNP CAT H helicopter approach",
+     "url": "https://www.thehindu.com/news/national/karnataka/hal-airport-becomes-first-in-india-to-operationalise-rnp-cat-h-helicopter-approach/article71317031.ece",
+     "summary": "RNP CAT H helicopter approach procedure is a satellite-guided precision navigation system designed exclusively for helicopters",
+     "published": "2026-09-18T01:31:15+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/a8i7t3/article71317085.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000403B.jpg",
+     "licence": "linkout",
+     "id": "29b0b341bbcc",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News"
+    },
+    {
      "title": "The virtual worlds where robots are trained",
      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
@@ -392,38 +426,6 @@
      "from_section": "Technology"
     },
     {
-     "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-     "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-     "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-     "published": "2026-09-17T14:33:12+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "11e2f04c3ce4",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTG1hTVY2SDdjVTl6a2pvb1lQcFRFMTlfXzN5dU5TZm9OM3E0bmpMSFY2R1hiQzlPLXhPOHhYdVB2d0NQYWdaX3UzVnZTdUhUbndwR1RGc1Z6bFFMSXZsblZSbDNRSU5mVlFuRGs1NXI1SWduY0g3bVgzY1N5M3Vtalo1RmpkYjdiMWVLQmR6YmtLLUJfMW1EV2FIdVpoRWtHUzhMamJ6dXdvdkszcmpENS0wS0o4YWtQQjZiaHY5Ty12Z21HTHV3R2tBZmdzak54djBPRWNGV1JQdlBoUmJMNUZJWdIB6AFBVV95cUxOM2hidFlnbjZkbkRhOTdPY0p1WEE1OVVCOWZqcGRidHVydkF3SGhoQ3ZIRDl3bGt5eXlWUTNMSXo0YnNrVjJjQ3Q1YS1CcTIzQjFYS21aQkZjRG9hQ1RWc0lnRW80UXJKMWFDem9kVlNMVTlqaFJncnRmaXlucFVtU2d2Y2NRTjFzUXdtcUtUSXVxYzhEcHdGcDJfdjV3al9HZmM0UDJqbmpRdUdlUnlWX0V2TGpaX1lZcDVNMWkwVXVWQ1VBUHBtUW9XcEZ2WTdrVDkwcWRYcWZtUWdwbF95eTdpaF90NDQz?oc=5",
-     "summary": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years CNBC TV18",
-     "published": "2026-09-17T09:35:27+00:00",
-     "source": "CNBC TV18",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "279931f258e2",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "10 years",
-      "10 years CNBC TV18"
-     ]
-    },
-    {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
      "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
@@ -435,10 +437,10 @@
      "id": "44ac1cfc8520",
      "also": [
       {
-       "source": "bestcolleges.indiatoday.in",
+       "source": "India Today",
        "title": "School assembly news headlines today- September 18: Top national, sports and world news curated for you",
        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWlaRWhiTXUtN3ZJY2NNR29URHhvd1UzUUR1ZU1EYmR2aFpzSFV0LVFMVUZkNTVHNjBWMlFLekFXemlJT0lwajlRb21Gd3RCX0xVU3pTLVhNendEdjB0eUNxTnNBRHpDenc3LTNkR3RDb09nRW9QZ0RIRHBpcTh5d0s5REtvZVUtbHJqNEpSOThOMzNHU0hFTFAtbzFxT3FXTVdEUVNXUnIwZFQ0SE5JQ21UVG9GVmU1b1hQRWJGN1d5U0Vic3hDRjdleXdGVlBnV1lIbVpibVVqQ3VKU2F0bWsyb1FxeTVf?oc=5",
-       "summary": "School assembly news headlines today- September 18: Top national, sports and world news curated for you bestcolleges.indiatoday.in"
+       "summary": "School assembly news headlines today- September 18: Top national, sports and world news curated for you India Today"
       }
      ],
      "category": "sports",
@@ -504,7 +506,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-18T01:33:26.776083+00:00",
+     "published": "2026-09-18T02:02:10.289733+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -515,7 +517,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-18T01:33:26.776102+00:00",
+     "published": "2026-09-18T02:02:10.289744+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -526,7 +528,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-18T01:33:26.776107+00:00",
+     "published": "2026-09-18T02:02:10.289747+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -537,7 +539,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-18T01:33:26.776111+00:00",
+     "published": "2026-09-18T02:02:10.289750+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -548,7 +550,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-18T01:33:26.776116+00:00",
+     "published": "2026-09-18T02:02:10.289752+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -559,7 +561,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-18T01:33:26.776119+00:00",
+     "published": "2026-09-18T02:02:10.289755+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -584,10 +586,10 @@
      "id": "44ac1cfc8520",
      "also": [
       {
-       "source": "bestcolleges.indiatoday.in",
+       "source": "India Today",
        "title": "School assembly news headlines today- September 18: Top national, sports and world news curated for you",
        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWlaRWhiTXUtN3ZJY2NNR29URHhvd1UzUUR1ZU1EYmR2aFpzSFV0LVFMVUZkNTVHNjBWMlFLekFXemlJT0lwajlRb21Gd3RCX0xVU3pTLVhNendEdjB0eUNxTnNBRHpDenc3LTNkR3RDb09nRW9QZ0RIRHBpcTh5d0s5REtvZVUtbHJqNEpSOThOMzNHU0hFTFAtbzFxT3FXTVdEUVNXUnIwZFQ0SE5JQ21UVG9GVmU1b1hQRWJGN1d5U0Vic3hDRjdleXdGVlBnV1lIbVpibVVqQ3VKU2F0bWsyb1FxeTVf?oc=5",
-       "summary": "School assembly news headlines today- September 18: Top national, sports and world news curated for you bestcolleges.indiatoday.in"
+       "summary": "School assembly news headlines today- September 18: Top national, sports and world news curated for you India Today"
       }
      ],
      "category": "sports",
@@ -649,17 +651,49 @@
    "upsc": false,
    "items": [
     {
-     "title": "Former Minister Ram Asrey Kushwaha joins Samajwadi Party",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/former-minister-ram-asrey-kushwaha-joins-samajwadi-party/article71477363.ece",
-     "summary": "The Samajwadi Party government will be formed after the 2027 Assembly polls, and the rule of social justice will be established, says SP chief Akhilesh Yadav while reacting to the leader joining the party.",
-     "published": "2026-09-18T01:16:35+00:00",
+     "title": "FDA chief Tukaram flags huge price gaps in medical devices, seeks Centre’s intervention",
+     "url": "https://www.thehindu.com/news/national/maharashtra/fda-chief-tukaram-flags-huge-price-gaps-in-medical-devices-seeks-centres-intervention/article71479199.ece",
+     "summary": "The report cited that an IV set purchased for ₹11.05 had a declared MRP of ₹325, while an infusion set purchased for ₹11 had an MRP of ₹201.",
+     "published": "2026-09-18T01:33:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/p95l1f/article71479187.ece/alternates/LANDSCAPE_1200/HSbViAiaUAAtLA_.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/23dshc/article71479202.ece/alternates/LANDSCAPE_1200/PTI08_08_2026_000399A.jpg",
      "licence": "linkout",
-     "id": "91ee56735fad",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "951ba083d459",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹11.05  had a declared MRP",
+      "₹325,  while an infusion set",
+      "₹11  had an MRP",
+      "₹201."
+     ]
+    },
+    {
+     "title": "HAL airport becomes first in India to operationalise RNP CAT H helicopter approach",
+     "url": "https://www.thehindu.com/news/national/karnataka/hal-airport-becomes-first-in-india-to-operationalise-rnp-cat-h-helicopter-approach/article71317031.ece",
+     "summary": "RNP CAT H helicopter approach procedure is a satellite-guided precision navigation system designed exclusively for helicopters",
+     "published": "2026-09-18T01:31:15+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/a8i7t3/article71317085.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000403B.jpg",
+     "licence": "linkout",
+     "id": "29b0b341bbcc",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "After brief disruption, officials restart talks for Bangladesh PM Tarique Rahman’s India visit",
+     "url": "https://www.thehindu.com/news/national/after-brief-disruption-officials-restart-talks-for-bangladesh-pm-tarique-rahmans-india-visit/article71477603.ece",
+     "summary": "Sources in Dhaka said efforts are underway to schedule his visit to New Delhi during a suitable period in November following Mr. Rahman’s existing diplomatic engagements",
+     "published": "2026-09-18T01:28:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/uga9ji/article71477875.ece/alternates/LANDSCAPE_1200/2026-06-20T132134Z_1075935216_RC2NNJAWEETF_RTRMADP_3_BANGLADESH-DIPLOMACY.JPG",
+     "licence": "linkout",
+     "id": "20d8fcf051f1",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Rajasthan order asking students to join PM Modi's birthday celebrations sparks controversy",
@@ -671,32 +705,6 @@
      "image": "https://th-i.thgim.com/public/incoming/2o1sgd/article71479186.ece/alternates/LANDSCAPE_1200/No-more-cut-monGA3GHU199.3.jpg.jpg",
      "licence": "linkout",
      "id": "27c37a7384e8",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Why was Shahzad Bhatti Network designated as a terrorist group under UAPA? | Explained",
-     "url": "https://www.thehindu.com/news/national/why-was-shahzad-bhatti-network-designated-as-a-terrorist-group-under-uapa-explained/article71475616.ece",
-     "summary": "The Union Ministry of Home Affairs (MHA) said in a notification that the Shahzad Bhatti Network (SBN), through its terrorist activities, poses a “serious threat to the democratic system, communal harmony, and internal security of the country”",
-     "published": "2026-09-18T00:44:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9mtdil/article71475638.ece/alternates/LANDSCAPE_1200/Shahzad%20Bhatti.jpg",
-     "licence": "linkout",
-     "id": "ea91aab817e1",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "West Bengal govt. participates in PM Modi’s birthday celebrations; life-size statue unveiled at BJP office in Kolkata",
-     "url": "https://www.thehindu.com/news/cities/kolkata/west-bengal-govt-participates-in-pm-modis-birthday-celebrations-life-size-statue-unveiled-at-bjp-office-in-kolkata/article71476992.ece",
-     "summary": "The State government also observed the PM‘s Birthday as ‘Annapurna Divas’ and launched the PM Vishwakarma Scheme; This is the first time West Bengal has joined th scheme launched by the Union government",
-     "published": "2026-09-18T00:00:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vulw7f/article71478380.ece/alternates/LANDSCAPE_1200/20260917472L.jpg",
-     "licence": "linkout",
-     "id": "8fb52512ab8b",
      "category": "general",
      "category_label": "General"
     },
@@ -748,6 +756,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "White House withdraws Lance Schroyer’s nomination to lead ICE",
+     "url": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
+     "summary": "The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations.",
+     "published": "2026-09-18T01:23:44+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26159569875818-1789690514.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "7d15b7495864",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Former Assad officer sentenced to 60 years in US for torture",
      "url": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
      "summary": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad's regime.",
@@ -791,22 +812,6 @@
      "category_label": "General",
      "figures": [
       "48 hours to leave as Iran"
-     ]
-    },
-    {
-     "title": "Migrant sea crossings to Europe drop sharply as deaths rise: IOM",
-     "url": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
-     "summary": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.",
-     "published": "2026-09-17T23:42:37+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aac63a8585f-1789682600.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "26e0a40649cc",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "2,200 migrants died or vanished"
      ]
     },
     {
@@ -936,89 +941,69 @@
    "upsc": false,
    "items": [
     {
-     "title": "Former Minister Ram Asrey Kushwaha joins Samajwadi Party",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/former-minister-ram-asrey-kushwaha-joins-samajwadi-party/article71477363.ece",
-     "summary": "The Samajwadi Party government will be formed after the 2027 Assembly polls, and the rule of social justice will be established, says SP chief Akhilesh Yadav while reacting to the leader joining the party.",
-     "published": "2026-09-18T01:16:35+00:00",
+     "title": "FDA chief Tukaram flags huge price gaps in medical devices, seeks Centre’s intervention",
+     "url": "https://www.thehindu.com/news/national/maharashtra/fda-chief-tukaram-flags-huge-price-gaps-in-medical-devices-seeks-centres-intervention/article71479199.ece",
+     "summary": "The report cited that an IV set purchased for ₹11.05 had a declared MRP of ₹325, while an infusion set purchased for ₹11 had an MRP of ₹201.",
+     "published": "2026-09-18T01:33:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/p95l1f/article71479187.ece/alternates/LANDSCAPE_1200/HSbViAiaUAAtLA_.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/23dshc/article71479202.ece/alternates/LANDSCAPE_1200/PTI08_08_2026_000399A.jpg",
      "licence": "linkout",
-     "id": "91ee56735fad",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "951ba083d459",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹11.05  had a declared MRP",
+      "₹325,  while an infusion set",
+      "₹11  had an MRP",
+      "₹201."
+     ]
     },
     {
-     "title": "Rajasthan order asking students to join PM Modi's birthday celebrations sparks controversy",
-     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-order-asking-students-to-join-pm-modis-birthday-celebrations-sparks-controversy/article71477162.ece",
-     "summary": "Congress leader Tika Ram Jully asked why the government departments and educational institutions were being involved in PM Modi’s birthday celebrations.",
-     "published": "2026-09-18T01:04:39+00:00",
+     "title": "HAL airport becomes first in India to operationalise RNP CAT H helicopter approach",
+     "url": "https://www.thehindu.com/news/national/karnataka/hal-airport-becomes-first-in-india-to-operationalise-rnp-cat-h-helicopter-approach/article71317031.ece",
+     "summary": "RNP CAT H helicopter approach procedure is a satellite-guided precision navigation system designed exclusively for helicopters",
+     "published": "2026-09-18T01:31:15+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2o1sgd/article71479186.ece/alternates/LANDSCAPE_1200/No-more-cut-monGA3GHU199.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/a8i7t3/article71317085.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000403B.jpg",
      "licence": "linkout",
-     "id": "27c37a7384e8",
+     "id": "29b0b341bbcc",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "After brief disruption, officials restart talks for Bangladesh PM Tarique Rahman’s India visit",
+     "url": "https://www.thehindu.com/news/national/after-brief-disruption-officials-restart-talks-for-bangladesh-pm-tarique-rahmans-india-visit/article71477603.ece",
+     "summary": "Sources in Dhaka said efforts are underway to schedule his visit to New Delhi during a suitable period in November following Mr. Rahman’s existing diplomatic engagements",
+     "published": "2026-09-18T01:28:39+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/uga9ji/article71477875.ece/alternates/LANDSCAPE_1200/2026-06-20T132134Z_1075935216_RC2NNJAWEETF_RTRMADP_3_BANGLADESH-DIPLOMACY.JPG",
+     "licence": "linkout",
+     "id": "20d8fcf051f1",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Why was Shahzad Bhatti Network designated as a terrorist group under UAPA? | Explained",
-     "url": "https://www.thehindu.com/news/national/why-was-shahzad-bhatti-network-designated-as-a-terrorist-group-under-uapa-explained/article71475616.ece",
-     "summary": "The Union Ministry of Home Affairs (MHA) said in a notification that the Shahzad Bhatti Network (SBN), through its terrorist activities, poses a “serious threat to the democratic system, communal harmony, and internal security of the country”",
-     "published": "2026-09-18T00:44:40+00:00",
+     "title": "West Bengal govt. participates in PM Modi’s birthday celebrations; life-size statue unveiled at BJP office in Kolkata",
+     "url": "https://www.thehindu.com/news/cities/kolkata/west-bengal-govt-participates-in-pm-modis-birthday-celebrations-life-size-statue-unveiled-at-bjp-office-in-kolkata/article71476992.ece",
+     "summary": "The State government also observed the PM‘s Birthday as ‘Annapurna Divas’ and launched the PM Vishwakarma Scheme; This is the first time West Bengal has joined th scheme launched by the Union government",
+     "published": "2026-09-18T00:00:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9mtdil/article71475638.ece/alternates/LANDSCAPE_1200/Shahzad%20Bhatti.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/vulw7f/article71478380.ece/alternates/LANDSCAPE_1200/20260917472L.jpg",
      "licence": "linkout",
-     "id": "ea91aab817e1",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "On PM’s birthday, J&K CM Omar Abdullah wishes for Statehood restoration",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/on-pms-birthday-jk-cm-omar-abdullah-wishes-for-statehood-restoration/article71477428.ece",
-     "summary": "“If nothing else, give us the Statehood of Jammu and Kashmir. What else do we need?” the CM said",
-     "published": "2026-09-17T23:22:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qovyud/article71478394.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000307A.jpg",
-     "licence": "linkout",
-     "id": "c2e5f6e36493",
+     "id": "8fb52512ab8b",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Bihar CM, other BJP leaders take part in Ashirwad Ka Diya event to mark PM’s birthday",
-     "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-other-bjp-leaders-take-part-in-ashirwad-ka-diya-event-to-mark-pms-birthday/article71477125.ece",
-     "summary": "The Opposition Rashtriya Janata Dal (RJD) slammed the waste of public money even as Bihar reels under flood aftermath",
-     "published": "2026-09-17T23:17:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/3uzpra/article71478392.ece/alternates/LANDSCAPE_1200/20260917199L.jpg",
-     "licence": "linkout",
-     "id": "da60f5dc10e2",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "No culture of cut-money in Bengal anymore: PM Modi",
-     "url": "https://www.thehindu.com/news/cities/kolkata/no-culture-of-cut-money-in-bengal-anymore-pm-modi/article71477468.ece",
-     "summary": "Prime Minister Narendra Modi, on his birthday, said that no eligible women will be deprived of the benefits of Annapurna Yojana in West Bengal",
-     "published": "2026-09-17T22:37:25+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t4ct4j/article71478378.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000211A.jpg",
-     "licence": "linkout",
-     "id": "f34518c8b637",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "School assembly news headlines today- September 18: Top national, sports and world news curated for you",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWlaRWhiTXUtN3ZJY2NNR29URHhvd1UzUUR1ZU1EYmR2aFpzSFV0LVFMVUZkNTVHNjBWMlFLekFXemlJT0lwajlRb21Gd3RCX0xVU3pTLVhNendEdjB0eUNxTnNBRHpDenc3LTNkR3RDb09nRW9QZ0RIRHBpcTh5d0s5REtvZVUtbHJqNEpSOThOMzNHU0hFTFAtbzFxT3FXTVdEUVNXUnIwZFQ0SE5JQ21UVG9GVmU1b1hQRWJGN1d5U0Vic3hDRjdleXdGVlBnV1lIbVpibVVqQ3VKU2F0bWsyb1FxeTVf?oc=5",
-     "summary": "School assembly news headlines today- September 18: Top national, sports and world news curated for you bestcolleges.indiatoday.in",
+     "summary": "School assembly news headlines today- September 18: Top national, sports and world news curated for you India Today",
      "published": "2026-09-17T12:52:32+00:00",
-     "source": "bestcolleges.indiatoday.in",
+     "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1170,6 +1155,114 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Ecuador detains former minister José Serrano after U.S. deportation",
+     "url": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation/",
+     "summary": "Deported from the United States, Ecuador’s former “superminister” now faces grave criminal investigations and political accusations in a justice system facing questions over due process.",
+     "published": "2026-09-18T02:00:10+00:00",
+     "source": "Global Voices",
+     "byline": "Gina Yauri",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/09/82222d4d-c793-42fe-8e97-8005c063e4fb-800x450.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "Serrano’s return puts Ecuador’s justice system and rule of law under renewed scrutiny"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "Screenshot taken from the YouTube video “José Serrano enters the El Encuentro prison after being deported from the United States,” by TVC Noticias; fair use."
+      },
+      {
+       "kind": "p",
+       "text": "Following the U.S. immigration system’s refusal to grant political asylum to former Interior Minister José Serrano Salgado, his deportation to Ecuador was carried out under the strictest security measures."
+      },
+      {
+       "kind": "p",
+       "text": "Serrano faces several investigations opened by the Attorney General’s Office of Ecuador, related to his tenure as a government official under former President Rafael Correa, as well as his alleged participation as the mastermind behind the assassination of journalist and former presidential candidate Fernando Villavicencio. In the latter case, at the request of the Prosecutor’s Office, the judges ordered both pretrial detention and for him to be transferred to the El Encuentro prison (officially called the Santa Elena No. 1 Detention Center), located in the coastal province of Santa Elena."
+      },
+      {
+       "kind": "p",
+       "text": "On August 7, 2025, Serrano was detained by Immigration and Customs Enforcement (ICE) in the U.S. due to an immigration violation resulting from an overstay. He was first detained in Miami, then in an immigrant detention center in Mississippi until August 28, 2026."
+      },
+      {
+       "kind": "p",
+       "text": "Serrano entered the United States in May 2021 after completing his term as a legislator. That same year, he applied for political asylum in the U.S. On May 13, 2026, Judge Romy Lerner denied his asylum request, but granted him protection under the Convention Against Torture (CAT), which delayed his return to Ecuador."
+      },
+      {
+       "kind": "p",
+       "text": "However, an investigation by The New York Times, published on August 16, 2026, sheds light on the political background involving the U.S. government and its allies. The report states that Serrano’s deportation took place just 15 minutes after high-level meetings were held between the U.S. administration and Ecuadorian President Daniel Noboa."
+      },
+      {
+       "kind": "p",
+       "text": "According to The New York Times, just a quarter of an hour after the charter plane carrying Serrano to Ecuador took off, President Daniel Noboa announced, through his X account, Serrano’s impending arrival on Ecuadorian soil. Photographs show ICE agents escorting him, with his hands and feet shackled, and upon his arrival in Ecuador, he was shown wearing a bulletproof vest and helmet."
+      },
+      {
+       "kind": "h",
+       "text": "Who is José Serrano?"
+      },
+      {
+       "kind": "p",
+       "text": "Serrano held several public positions in Ecuador during and after the Correa administration. He served as Interior Minister from 2011 to 2016; before that, in 2009, he was Secretary of Transparency, and in 2010 he took over the Ministry of Justice, Human Rights and Cults."
+      },
+      {
+       "kind": "p",
+       "text": "During his tenure at the Ministry of the Interior, notable achievements involved the comprehensive restructuring of the police system, including the creation of forensic laboratories for the police force, and upgrades to patrol cars and Community Police and Surveillance Units nationwide."
+      },
+      {
+       "kind": "p",
+       "text": "His work against drug trafficking was particularly significant and on June 6, 2016, he was decorated by the Drug Enforcement Administration (DEA) and the U.S. Department of Justice in Washington, in recognition of his fight. However, his tenure was marked by controversy over public procurement related to — among other things — emergency contracts, the purchase of horses and dogs, the renovation of police facilities, police uniforms, and cleaning services."
+      },
+      {
+       "kind": "p",
+       "text": "In Ecuador’s February 2017 general elections, he was the most voted-for assembly member. As a result, he occupied the position of President of the National Legislative Assembly until March 9, 2018, when he was removed following the leak of an audio recording between him and former State Comptroller Carlos Pólit, who was a fugitive from justice in the Odebrecht case. This exposed the political manipulation of the Ecuadorian justice system."
+      },
+      {
+       "kind": "p",
+       "text": "After completing his legislative term (2017–2021), he left public life and settled in the United States, where he applied for political asylum before the immigration courts, alleging political persecution and risks to his life."
+      },
+      {
+       "kind": "h",
+       "text": "Criminal investigations in Ecuador"
+      },
+      {
+       "kind": "p",
+       "text": "Serrano’s return to his home country opens a new chapter in a career marked by several criminal investigations. The Prosecutor’s Office is pursuing cases related to different matters: his alleged participation in Villavicencio’s murder; complaints of influence peddling and bribery linked to revelations that emerged during the proceedings against Pólit in the United States; allegations of attempted murder filed by attorney Luggi García; another concerning his alleged participation in the kidnapping of Fernando Balda in Colombia; and a 2019 complaint alleging that he demanded contributions from the salaries of officials at the Ministry of the Interior."
+      },
+      {
+       "kind": "p",
+       "text": "The case with the greatest political impact is the alleged assassination of Villavicencio, as the Prosecutor’s Office maintains he may have played a role as a liaison and in surveillance. His defense rejects that hypothesis, states there is insufficient evidence to link him to the murder, and argues that the accusation relies primarily on the account of a protected witness."
+      },
+      {
+       "kind": "p",
+       "text": "After being imprisoned at El Encuentro on August 28 of this year, Serrano alleged, via his X account, that he was “not receiving treatment compatible with the dignity of a human being” inside the penitentiary — a claim echoed by his daughter Véronica, who holds the Ecuadorian state responsible for her father’s life."
+      },
+      {
+       "kind": "h",
+       "text": "The government’s perspective"
+      },
+      {
+       "kind": "p",
+       "text": "Serrano’s return quickly took on a political dimension, with the Noboa administration framing his deportation and subsequent imprisonment as part of the enforcement of judicial decisions. In announcing Serrano’s arrival, Noboa also issued a warning to former President Correa, essentially telling him that his turn was coming soon."
+      },
+      {
+       "kind": "p",
+       "text": "Meanwhile, Interior Minister John Reimberg stated that “no one is above the law,” and Minister Nathaly Morillo hailed Serrano’s deportation as a victory for the government and commented on his return by calling him “one of the most sinister figures of the ‘plundered decade’,” adding, “Little by little, the truth keeps coming to light.”"
+      },
+      {
+       "kind": "p",
+       "text": "Beyond the political confrontation, the case raises a fundamental question: how far can the state go in pursuing serious crimes without weakening the guarantees it must recognize, even for those facing the most serious accusations? Serrano’s incarceration makes his case not only a test of the fight against impunity, but also a test of the effective observance of due process and the rule of law in Ecuador."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "10dc7d5eee0b",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Street art in Russia is dead and the country is full of monumental war art",
@@ -1678,6 +1771,19 @@
      "category_label": "General"
     },
     {
+     "title": "Interest rates held but Bank signals rise if energy prices stay high",
+     "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+     "summary": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+     "published": "2026-09-17T14:05:38+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a70/live/ce050920-b28f-11f1-8096-b33a1297275a.jpg",
+     "licence": "linkout",
+     "id": "c15a22345c6e",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Barclays workers ask for more money to return to the office",
      "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
      "summary": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
@@ -1692,6 +1798,19 @@
      "figures": [
       "36,000 Barclays staff, calls"
      ]
+    },
+    {
+     "title": "8th Pay Commission: CGEGIS cover unchanged for decades; central government employees want higher insurance benefits",
+     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-cgegis-cover-unchanged-for-decades-central-government-employees-want-higher-insurance-benefits-11789677144606.html",
+     "summary": "8th Pay Commission CGEGIS revision: Central government employee unions seek higher insurance cover, revised contributions and better financial protection. Here are the key CGEGIS demands, existing insurance slabs and what employees can expect from the Pay Commission.",
+     "published": "2026-09-18T01:54:54+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/17/600x338/725c82df-10c7-454d-8693-be4a1adcef09_1789677421278_K9vv_1789677443400_qTdB_d87a5402-eed7-47c3-acaf-f47b0e4b49c6_j8Dc.png",
+     "licence": "linkout",
+     "id": "4622c18f357c",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Mutual funds with the highest BSE exposure: Could we see a major reshuffle after NSE's listing? Experts weigh in",
@@ -1721,19 +1840,6 @@
      "figures": [
       "₹2,000  from 15 October"
      ]
-    },
-    {
-     "title": "EPFO Form 10C to claim pension benefits: Who can apply? Check step-by-step online claim guide",
-     "url": "https://www.livemint.com/money/personal-finance/epfo-form-10c-to-claim-pension-benefits-who-can-apply-check-step-by-step-online-claim-guide-11789667089839.html",
-     "summary": "Form 10C acts as the official application to withdraw the EPS funds or to secure a Scheme Certificate.",
-     "published": "2026-09-17T18:16:27+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/17/600x338/Around-7-58-lakh-individuals-joined-EPFO-for-the-f_1687488631239_1789667202943_G76r_04baf87d-8804-4bed-98af-7d925903b5f2_WYQb.jpg",
-     "licence": "linkout",
-     "id": "ed9c3a125f08",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1824,9 +1930,9 @@
     {
      "title": "Benefits and applications of artificial intelligence in the fields of healthcare, the economy and the workplace",
      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOejBFbnFjMVVaMWk0UFRTZXJXYkYzQmxNTkJOR3g3bGxLdElHZ1BfTDUyQ2FQN3JxNFdKU0poX21YNmtYTERBdlA1YmlKcGdrb3RCMTlwWGNaUUJCTUlSM3E5cG5YcFFVbmwwWTZ2Um9MUE05VDhUanlaMEZabUdnZkxzMUY1VS1OREZ1bU1KdHkzdDdEcGl5Skp6T3IzMmU3dl96cEY0TkdrcGNIUHBEdjFWQy1IMjVqblpMRFNjVFBnNjVRR2F5cGVheS1kME9mT2V6QTNtdzRCWWhZclBuWi1Lazk3RDZuMXN0N200ZU1EOEExalRlOGR5MkZTZXdNVUM1WVlocUpsWjVoNnFtZVItOFFBU3RLMHpNSXRYV24yUlUwTjN3d9IBrgJBVV95cUxPYzNnY2ZtQXJON3E3OGNnTTUzQW44c3pwZi1mU2JFQV84aW5xeklwX04yRWdfZ0YtLWFzdERNMGROUGFiakh3RGczTkxuektzanNNZFFkbjN5RU9uNFF2dUNDUlg0SW1Mcm93WEM0MTdFTC1zVEZqUC1fMjZPcnNUV196YlF5aE1ENkJKT2VMZ19VbzlCQ1hmSzJXcXo2TjFNYlp5b0NUQVdwc3BOVkFGTmEwTDFxUk1iTkRwZFRycUFaZUJlbW53SWd5N1B6RUZzN25WWmVFTmpELTdYemVNWmdkNGxnYzFmWmNJVVpsNzc3cV9QWEtiS1AwWW01dG5LT0d0SXRvU0E1WE5UMFlEcVlPUWNEUm16dEVlZVNkcDlzb3NGTC1ZYmtRY1A1UQ?oc=5",
-     "summary": "Benefits and applications of artificial intelligence in the fields of healthcare, the economy and the workplace Atalayar",
+     "summary": "Benefits and applications of artificial intelligence in the fields of healthcare, the economy and the workplace atalayar.com",
      "published": "2026-09-17T09:04:11+00:00",
-     "source": "Atalayar",
+     "source": "atalayar.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1835,17 +1941,21 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5",
-     "summary": "OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system The Guardian",
-     "published": "2026-09-17T05:32:00+00:00",
-     "source": "The Guardian",
+     "title": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTG1hTVY2SDdjVTl6a2pvb1lQcFRFMTlfXzN5dU5TZm9OM3E0bmpMSFY2R1hiQzlPLXhPOHhYdVB2d0NQYWdaX3UzVnZTdUhUbndwR1RGc1Z6bFFMSXZsblZSbDNRSU5mVlFuRGs1NXI1SWduY0g3bVgzY1N5M3Vtalo1RmpkYjdiMWVLQmR6YmtLLUJfMW1EV2FIdVpoRWtHUzhMamJ6dXdvdkszcmpENS0wS0o4YWtQQjZiaHY5Ty12Z21HTHV3R2tBZmdzak54djBPRWNGV1JQdlBoUmJMNUZJWdIB6AFBVV95cUxOM2hidFlnbjZkbkRhOTdPY0p1WEE1OVVCOWZqcGRidHVydkF3SGhoQ3ZIRDl3bGt5eXlWUTNMSXo0YnNrVjJjQ3Q1YS1CcTIzQjFYS21aQkZjRG9hQ1RWc0lnRW80UXJKMWFDem9kVlNMVTlqaFJncnRmaXlucFVtU2d2Y2NRTjFzUXdtcUtUSXVxYzhEcHdGcDJfdjV3al9HZmM0UDJqbmpRdUdlUnlWX0V2TGpaX1lZcDVNMWkwVXVWQ1VBUHBtUW9XcEZ2WTdrVDkwcWRYcWZtUWdwbF95eTdpaF90NDQz?oc=5",
+     "summary": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years cnbctv18.com",
+     "published": "2026-09-17T09:35:27+00:00",
+     "source": "cnbctv18.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "3a49bb0ef5ae",
+     "id": "279931f258e2",
      "category": "tech",
-     "category_label": "AI & technology"
+     "category_label": "AI & technology",
+     "figures": [
+      "10 years",
+      "10 years cnbctv18"
+     ]
     }
    ]
   },
