@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T04:02:12.267244+00:00",
+ "generated_at": "2026-09-18T04:35:34.012249+00:00",
  "podcasts_fetched_at": "2026-09-18T00:02:47.900265+00:00",
  "markets": [
   {
@@ -36,11 +36,10 @@
    "key": "gold",
    "label": "GOLD",
    "unit": "₹/10g",
-   "value": 122153.0,
-   "change": 425.0,
-   "changePct": 0.35,
-   "decimals": 0,
-   "stale": true
+   "value": 122916.0,
+   "change": 1189.0,
+   "changePct": 0.98,
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -76,24 +75,23 @@
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 75875.0,
-   "change": -1395.0,
-   "changePct": -1.81,
-   "decimals": 0,
-   "stale": true
+   "value": 77255.0,
+   "change": -908.0,
+   "changePct": -1.16,
+   "decimals": 0
   }
  ],
  "topics": [
   "Four Delhi",
-  "Teen Gangraped",
+  "Bengaluru Varthur",
   "Jazeera English",
   "News",
   "Bangladesh World",
   "Scandals & Investigations",
-  "Phone Phone",
-  "Homestay Charting",
+  "Mayawati Centre",
   "Japan",
-  "Critics Tillamook"
+  "Critics Tillamook",
+  "Complete Afghan"
  ],
  "sections": [
   {
@@ -106,7 +104,7 @@
      "title": "Four, including three juveniles, arrested for rape and murder of minor girl in Delhi’s Swaroop Nagar",
      "url": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
      "summary": "Police say the body of a minor girl was found in an open field on September 13; CCTV analysis of more than 50 cameras helped investigators trace the suspected tempo",
-     "published": "2026-09-18T03:38:09+00:00",
+     "published": "2026-09-18T04:19:28+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/a17pff/article71479283.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_1_1_35FSTTDR.jpg",
@@ -128,6 +126,20 @@
      ]
     },
     {
+     "title": "Bengaluru: Varthur-Gunjur congestion leaves schoolchildren stranded for hours",
+     "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-varthur-gunjur-congestion-leaves-schoolchildren-stranded-for-hours/article71477764.ece",
+     "summary": "Bengaluru Traffic Police sources attributed the congestion to ongoing infrastructure work in the area",
+     "published": "2026-09-18T04:11:29+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/5j1io3/article71477804.ece/alternates/LANDSCAPE_1200/_DSC7800.jpg",
+     "licence": "linkout",
+     "id": "a6469a3932c5",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
      "title": "Teen Gangraped, Killed By 4, Including 3 Minors In Delhi, Body Eaten By Dogs",
      "url": "https://www.ndtv.com/india-news/girl-gangraped-killed-by-4-including-3-minors-in-delhi-body-eaten-by-dogs-12062563#publisher=newsstand",
      "summary": "According to the police, the body of the 17-year-old had decomposed to such an extent that its gender could not be immediately ascertained.",
@@ -146,38 +158,6 @@
      ]
     },
     {
-     "title": "Women, Minors Among 27 Bangladeshis Detained Without Valid Documents In Assam",
-     "url": "https://www.ndtv.com/india-news/women-minors-among-27-bangladeshis-detained-without-valid-documents-in-assam-12062430#publisher=newsstand",
-     "summary": "Police said none of the 27 detainees possessed documents that could establish their legal status in India.",
-     "published": "2026-09-18T02:32:25+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/8hc3bguk_assam-bangladeshis_625x300_18_September_26.jpeg",
-     "licence": "linkout",
-     "id": "4add379d1da7",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "27 Bangladeshis Detained Without Valid Documents",
-      "27 detainees possessed documents that could"
-     ]
-    },
-    {
-     "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-     "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
-     "summary": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-     "published": "2026-09-17T14:27:09+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be1e/live/3da6ac10-b25a-11f1-bc1f-3f186ca4140c.png",
-     "licence": "linkout",
-     "id": "0670ffc1948a",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Culture"
-    },
-    {
      "title": "RTÉ to boycott Eurovision for second year in a row",
      "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
      "summary": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
@@ -192,33 +172,6 @@
      "from_section": "Culture"
     },
     {
-     "title": "Voting for Delhi University Students' Union polls begins",
-     "url": "https://www.thehindu.com/news/cities/Delhi/delhi-university-students-union-elections-voting-latest-abvp-nsui-and-the-aisa-sfi-alliance-updates/article71479294.ece",
-     "summary": "A total of 1,000 electronic voting machines (EVMs) have been deployed for the elections. Of these, 960 will be used for polling, while 40 have been kept in reserve, according to university officials.",
-     "published": "2026-09-18T03:34:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/xty04o/article71479306.ece/alternates/LANDSCAPE_1200/PTI09_16_2026_000252B.jpg",
-     "licence": "linkout",
-     "id": "29b766827d15",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "DUSU Elections 2026: Voting Begins Amid Tight Security, Over 1.5 Lakh Students To Cast Votes",
-       "url": "https://www.ndtv.com/education/dusu-election-2026-live-voting-begins-over-1-5-lakh-students-to-cast-votes-security-tightened-12062561#publisher=newsstand",
-       "summary": "DUSU Election 2026: The Delhi University administration has set up 158 polling booths and 12 control rooms for the elections. Security arrangements have also been tightened across the university campus and surrounding…"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "1,000 electronic voting machines (EVMs) have",
-      "960 will be used for polling",
-      "40 have been kept in reserve"
-     ]
-    },
-    {
      "title": "DUSU Elections 2026: Voting Begins Amid Tight Security, Over 1.5 Lakh Students To Cast Votes",
      "url": "https://www.ndtv.com/education/dusu-election-2026-live-voting-begins-over-1-5-lakh-students-to-cast-votes-security-tightened-12062561#publisher=newsstand",
      "summary": "DUSU Election 2026: The Delhi University administration has set up 158 polling booths and 12 control rooms for the elections. Security arrangements have also been tightened across the university campus and surrounding areas.",
@@ -228,6 +181,14 @@
      "image": "https://c.ndtvimg.com/2026-09/j78v0i28_dusu-elections-2026_625x300_18_September_26.jpeg",
      "licence": "linkout",
      "id": "f6666ef15949",
+     "also": [
+      {
+       "source": "The Hindu",
+       "title": "Voting for Delhi University Students' Union polls begins",
+       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-university-students-union-elections-voting-latest-abvp-nsui-and-the-aisa-sfi-alliance-updates/article71479294.ece",
+       "summary": "A total of 1,000 electronic voting machines (EVMs) have been deployed for the elections. Of these, 960 will be used for polling, while 40 have been kept in reserve, according to university officials."
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News",
@@ -238,24 +199,37 @@
      ]
     },
     {
-     "title": "Union Cabinet approves ₹24,815 crore multi-tracking projects across 15 districts in U.P., Andhra Pradesh",
-     "url": "https://www.thehindu.com/news/national/union-cabinet-approves-24815-crore-multi-tracking-projects-across-15-districts-in-up-andhra-pradesh/article70878235.ece",
-     "summary": "The existing Indian Railways network will increase by about 601 km; the ₹14,926 crore Ghaziabad-Sitapur project is crucial for improving connectivity between the northern and eastern regions of the country",
-     "published": "2026-09-18T03:24:26+00:00",
+     "title": "Voting for Delhi University Students' Union polls begins",
+     "url": "https://www.thehindu.com/news/cities/Delhi/delhi-university-students-union-elections-voting-latest-abvp-nsui-and-the-aisa-sfi-alliance-updates/article71479294.ece",
+     "summary": "A total of 1,000 electronic voting machines (EVMs) have been deployed for the elections. Of these, 960 will be used for polling, while 40 have been kept in reserve, according to university officials.",
+     "published": "2026-09-18T03:34:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/f0nilv/article70878751.ece/alternates/LANDSCAPE_1200/CABINET%20PC%20DELHI%202026_18_04_21.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/xty04o/article71479306.ece/alternates/LANDSCAPE_1200/PTI09_16_2026_000252B.jpg",
      "licence": "linkout",
-     "id": "c25af0be4f3c",
+     "id": "29b766827d15",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National Hotlines",
      "figures": [
-      "₹24,815 crore multi-tracking projects across 15",
-      "15 districts in U",
-      "601 km ; the ₹14,926 crore",
-      "₹14,926 crore Ghaziabad-Sitapur project is crucial"
+      "1,000 electronic voting machines (EVMs) have",
+      "960 will be used for polling",
+      "40 have been kept in reserve"
      ]
+    },
+    {
+     "title": "Critics in meltdown over US cheese giant Tillamook halal label",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
+     "summary": "Critics have launched a boycott campaign against US cheese giant Tillamook over its new halal labelling.",
+     "published": "2026-09-18T03:13:48+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789701138.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "bd6dd163e83b",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
     },
     {
      "title": "Japan’s interest rate hiked to 31-year high at 1.25% as inflation rises",
@@ -305,18 +279,18 @@
      "from_section": "Business"
     },
     {
-     "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-     "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-     "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-     "published": "2026-09-18T02:56:35+00:00",
-     "source": "BBC News",
+     "title": "Mayawati slams Centre over UPI fee, calls it 'capitalist profiteering attitude'",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-slams-centre-over-upi-fee-calls-it-capitalist-profiteering-attitude/article71479379.ece",
+     "summary": "BSP chief Mayawati said the public is unwilling to accept this system, which imposes an additional financial burden on them as a 'tax’",
+     "published": "2026-09-18T04:24:43+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae8/live/de6aa0d0-b24a-11f1-ad58-cb8b59d51cf1.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/r71xe1/article71479383.ece/alternates/LANDSCAPE_1200/PTI09_13_2026_000112B.jpg",
      "licence": "linkout",
-     "id": "d38002f0afc8",
+     "id": "f77ccbf19315",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
+     "from_section": "National News"
     },
     {
      "title": "How Jared Goff Met Christen Harper On Raya And Turned An Unexpected Connection Into A Lasting Love Story",
@@ -347,20 +321,6 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "Boy, 13, is new voice of Thomas the Tank Engine",
-     "url": "https://www.bbc.co.uk/news/articles/c65y5xv3j90vo?at_medium=RSS&at_campaign=rss",
-     "summary": "A new Thomas series also stars The Gentleman actor Henry Golding.",
-     "published": "2026-09-17T04:56:41+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b111/live/589eab30-b1b0-11f1-bc1f-3f186ca4140c.jpg",
-     "licence": "linkout",
-     "id": "f57a47667b9f",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "Culture"
-    },
-    {
      "title": "Jason Kelce Reveals How Taylor Swift Slowly Became More Than A Superstar To His Daughters",
      "url": "https://sports.ndtv.com/us-nfl/jason-kelce-reveals-how-taylor-swift-slowly-became-more-than-a-superstar-to-his-daughters-12062478#publisher=newsstand",
      "summary": "Jason Kelce revealed how his daughters initially struggled to call Taylor Swift by anything other than her famous full name before their relationship with “Aunt Tay Tay” became more natural.",
@@ -373,24 +333,6 @@
      "category": "human",
      "category_label": "Human interest",
      "from_section": "Sports"
-    },
-    {
-     "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
-     "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-     "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-     "published": "2026-09-17T10:19:04+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c5/live/7d828180-b262-11f1-bc1f-3f186ca4140c.jpg",
-     "licence": "linkout",
-     "id": "61f5e7fa61b9",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Culture",
-     "figures": [
-      "$2 m in aid",
-      "$1 m to Palestinian causes"
-     ]
     },
     {
      "title": "'My mother apologised': A survivor's journey after genital mutilation",
@@ -407,6 +349,23 @@
      "from_section": "Health & Science",
      "figures": [
       "29 when she found out she"
+     ]
+    },
+    {
+     "title": "Rights panel orders rehabilitation after Vaniyampuzha tribal families spend 7 years in plastic tents",
+     "url": "https://www.thehindu.com/news/national/kerala/the-hindu-impact-rights-panel-orders-rehabilitation-after-vaniyampuzha-tribal-families-spend-7-years-in-plastic-tents/article71456637.ece",
+     "summary": "The commission registered a suo motu case following a detailed report in The Hindu on the tribal families living in plastic tents since the August 2019 floods destroyed their homes",
+     "published": "2026-09-18T04:05:03+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/y7lhto/article71456662.ece/alternates/LANDSCAPE_1200/Vaniyampuzha.jpeg",
+     "licence": "linkout",
+     "id": "626f65581ca6",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News",
+     "figures": [
+      "7 years in plastic tents"
      ]
     },
     {
@@ -524,7 +483,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-18T04:01:59.286079+00:00",
+     "published": "2026-09-18T04:35:23.996347+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -535,7 +494,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-18T04:01:59.286087+00:00",
+     "published": "2026-09-18T04:35:23.996359+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -546,7 +505,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-18T04:01:59.286091+00:00",
+     "published": "2026-09-18T04:35:23.996366+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -557,7 +516,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-18T04:01:59.286098+00:00",
+     "published": "2026-09-18T04:35:23.996370+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -568,7 +527,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-18T04:01:59.286103+00:00",
+     "published": "2026-09-18T04:35:23.996374+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -579,7 +538,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-18T04:01:59.286107+00:00",
+     "published": "2026-09-18T04:35:23.996379+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -608,19 +567,19 @@
     {
      "title": "BCB charges two more BPL officials under ICC anti-corruption code",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNF9iREhDaG1meUxHLUliaDAzZVllUGI0dEd4djkzQ3JoZHRONUs1enVUX2txZHpTUlhxR2lHX05zdVdwTl9OVmRielc2R3Y4dTRfV3NqdlZRbWYzVjBHRS0zTUlFQURrUGJXajRfVmZ2T3lVYjc4ajRWMUo4NmI0cDAzV1AxSTA4UUxTUTVveVlQeGN1TzhVbFFVZk9LUDltS0ctS2FEY3VlcEnSAa8BQVVfeXFMT2RRd3lZNlpTY2NaTmtrSmYzdk5iU01DVFVpclBnTUh2ZUZleVlUSU9FQTJqTzlMNTktSGhlbUIzcW4tMFU1blJLZ0lSTTQwWEp1N1NhUFktbDY0Zk5pSE5tSElKRTZBZzU5NVg1dnN4M1YyQ1Mycm4wQncwLWtkcW5UeTlia1lDNHdTOUl1YXZBT2hYYzJzR3NyT1gtSVhHd1k4ZXV5Qmt2LXNKVU4xcw?oc=5",
-     "summary": "BCB charges two more BPL officials under ICC anti-corruption code The Tribune",
+     "summary": "BCB charges two more BPL officials under ICC anti-corruption code tribuneindia.com",
      "published": "2026-09-17T13:02:18+00:00",
-     "source": "The Tribune",
+     "source": "tribuneindia.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "235783591981",
      "also": [
       {
-       "source": "Jagonews24",
+       "source": "jagonews24.com",
        "title": "BCB charges two more BPL officials with breaching anti-corruption code",
        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTRW9UakJhaGkwQlNYLVE1enFRaHRJTENkQW5vcnFNVml5MnVQYnFiY2N0YXpnSFZWanNFWE03VWdTV2RXVDM2LUpEZXVWYy1RS1lrUG5tZGZaVEU?oc=5",
-       "summary": "BCB charges two more BPL officials with breaching anti-corruption code Jagonews24"
+       "summary": "BCB charges two more BPL officials with breaching anti-corruption code jagonews24.com"
       }
      ],
      "category": "general",
@@ -642,9 +601,9 @@
     {
      "title": "BCB charges two more BPL officials with breaching anti-corruption code",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTRW9UakJhaGkwQlNYLVE1enFRaHRJTENkQW5vcnFNVml5MnVQYnFiY2N0YXpnSFZWanNFWE03VWdTV2RXVDM2LUpEZXVWYy1RS1lrUG5tZGZaVEU?oc=5",
-     "summary": "BCB charges two more BPL officials with breaching anti-corruption code Jagonews24",
+     "summary": "BCB charges two more BPL officials with breaching anti-corruption code jagonews24.com",
      "published": "2026-09-17T13:19:19+00:00",
-     "source": "Jagonews24",
+     "source": "jagonews24.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -661,36 +620,23 @@
    "upsc": false,
    "items": [
     {
-     "title": "iPhone 18 Pro and iPhone 18 Pro Max go on sale in India",
-     "url": "https://www.thehindu.com/sci-tech/technology/iphone-18-pro-and-iphone-18-pro-max-go-on-sale-today-in-india/article71479309.ece",
-     "summary": "Apple on Friday commenced the sale of iPhone 18 Pro and iPhone 18 Pro Max in India. These phones can be purchased on Apple’s India store and its six retail outlets across the country.",
-     "published": "2026-09-18T03:54:26+00:00",
+     "title": "Mayawati slams Centre over UPI fee, calls it 'capitalist profiteering attitude'",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-slams-centre-over-upi-fee-calls-it-capitalist-profiteering-attitude/article71479379.ece",
+     "summary": "BSP chief Mayawati said the public is unwilling to accept this system, which imposes an additional financial burden on them as a 'tax’",
+     "published": "2026-09-18T04:24:43+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/b289mj/article71479307.ece/alternates/LANDSCAPE_1200/2026-09-18T015919Z_2114629111_RC2CLNAKB45D_RTRMADP_3_APPLE-CHINA.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/r71xe1/article71479383.ece/alternates/LANDSCAPE_1200/PTI09_13_2026_000112B.jpg",
      "licence": "linkout",
-     "id": "a7c4ffbfb976",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Homestay: Charting a smooth path for hosts & guests in Karnataka",
-     "url": "https://www.thehindu.com/news/national/karnataka/charting-a-smooth-path-for-hosts-guests/article71454594.ece",
-     "summary": "As homestays mushroom across Karnataka’s tourist destinations, safety concerns and unauthorised establishments are putting the sector under scrutiny. The Tourism Department is now moving to streamline registrations, tighten regulations, and bring a new Bed & Breakfast policy, writes Rashmi Patil",
-     "published": "2026-09-18T03:41:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/art6cn/article71477362.ece/alternates/LANDSCAPE_1200/_DSC3152.JPG",
-     "licence": "linkout",
-     "id": "99746359cb0e",
-     "category": "general",
-     "category_label": "General"
+     "id": "f77ccbf19315",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "Four, including three juveniles, arrested for rape and murder of minor girl in Delhi’s Swaroop Nagar",
      "url": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
      "summary": "Police say the body of a minor girl was found in an open field on September 13; CCTV analysis of more than 50 cameras helped investigators trace the suspected tempo",
-     "published": "2026-09-18T03:38:09+00:00",
+     "published": "2026-09-18T04:19:28+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/a17pff/article71479283.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_1_1_35FSTTDR.jpg",
@@ -711,20 +657,32 @@
      ]
     },
     {
-     "title": "25 years on, Konaseema Railway Line project yet to get on track",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/25-years-on-konaseema-railway-line-project-yet-to-get-on-track/article71476791.ece",
-     "summary": "The ambitious 57-km Kotipalli–Narsapur railway line—which includes three bridges across the mighty Godavari River—still hangs fire 25 years after its foundation stone was laid. Locals rue successive governments’ silence on bringing a train to Konaseema, with many blaming lack of political will among the elected representatives from the Godavari region, despite severe losses to trade, commerce, tourism, and connectivity. T. Appala Naidu explores the reasons behind the project’s delay.",
-     "published": "2026-09-18T03:24:31+00:00",
+     "title": "Bengaluru: Varthur-Gunjur congestion leaves schoolchildren stranded for hours",
+     "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-varthur-gunjur-congestion-leaves-schoolchildren-stranded-for-hours/article71477764.ece",
+     "summary": "Bengaluru Traffic Police sources attributed the congestion to ongoing infrastructure work in the area",
+     "published": "2026-09-18T04:11:29+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vi4f7b/article71477953.ece/alternates/LANDSCAPE_1200/10237_17_9_2026_18_1_50_1_5.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/5j1io3/article71477804.ece/alternates/LANDSCAPE_1200/_DSC7800.jpg",
      "licence": "linkout",
-     "id": "1a993ce56c55",
+     "id": "a6469a3932c5",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Dharwad tahsildar caught taking ₹50 lakh bribe by Lokayukta",
+     "url": "https://www.thehindu.com/news/national/karnataka/lokayukta-traps-dharwad-tahsildar-50-lakh-seized/article71477754.ece",
+     "summary": "Sachchidanand Kachanur had allegedly sought the bribe to rectify records of a 33-acre plot of land",
+     "published": "2026-09-18T04:02:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/akw3h6/article71479340.ece/alternates/LANDSCAPE_1200/Lokayukta-raidsGR8G0KM2L.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "734f958b4ef2",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "25 years on, Konaseema Railway Line",
-      "25 years after its foundation stone"
+      "₹50 lakh bribe by Lokayukta"
      ]
     },
     {
@@ -755,6 +713,23 @@
      "figures": [
       "454 exam centres across 272 cities",
       "272 cities nationwide on September 9"
+     ]
+    },
+    {
+     "title": "Women, Minors Among 27 Bangladeshis Detained Without Valid Documents In Assam",
+     "url": "https://www.ndtv.com/india-news/women-minors-among-27-bangladeshis-detained-without-valid-documents-in-assam-12062430#publisher=newsstand",
+     "summary": "Police said none of the 27 detainees possessed documents that could establish their legal status in India.",
+     "published": "2026-09-18T02:32:25+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/8hc3bguk_assam-bangladeshis_625x300_18_September_26.jpeg",
+     "licence": "linkout",
+     "id": "4add379d1da7",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "27 Bangladeshis Detained Without Valid Documents",
+      "27 detainees possessed documents that could"
      ]
     }
    ]
@@ -997,6 +972,48 @@
    "upsc": false,
    "items": [
     {
+     "title": "Mayawati slams Centre over UPI fee, calls it 'capitalist profiteering attitude'",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-slams-centre-over-upi-fee-calls-it-capitalist-profiteering-attitude/article71479379.ece",
+     "summary": "BSP chief Mayawati said the public is unwilling to accept this system, which imposes an additional financial burden on them as a 'tax’",
+     "published": "2026-09-18T04:24:43+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/r71xe1/article71479383.ece/alternates/LANDSCAPE_1200/PTI09_13_2026_000112B.jpg",
+     "licence": "linkout",
+     "id": "f77ccbf19315",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Four, including three juveniles, arrested for rape and murder of minor girl in Delhi’s Swaroop Nagar",
+     "url": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
+     "summary": "Police say the body of a minor girl was found in an open field on September 13; CCTV analysis of more than 50 cameras helped investigators trace the suspected tempo",
+     "published": "2026-09-18T04:19:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/a17pff/article71479283.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_1_1_35FSTTDR.jpg",
+     "licence": "linkout",
+     "id": "b03f1f8af25c",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "50 cameras helped investigators trace"
+     ]
+    },
+    {
+     "title": "Bengaluru: Varthur-Gunjur congestion leaves schoolchildren stranded for hours",
+     "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-varthur-gunjur-congestion-leaves-schoolchildren-stranded-for-hours/article71477764.ece",
+     "summary": "Bengaluru Traffic Police sources attributed the congestion to ongoing infrastructure work in the area",
+     "published": "2026-09-18T04:11:29+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/5j1io3/article71477804.ece/alternates/LANDSCAPE_1200/_DSC7800.jpg",
+     "licence": "linkout",
+     "id": "a6469a3932c5",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "iPhone 18 Pro and iPhone 18 Pro Max go on sale in India",
      "url": "https://www.thehindu.com/sci-tech/technology/iphone-18-pro-and-iphone-18-pro-max-go-on-sale-today-in-india/article71479309.ece",
      "summary": "Apple on Friday commenced the sale of iPhone 18 Pro and iPhone 18 Pro Max in India. These phones can be purchased on Apple’s India store and its six retail outlets across the country.",
@@ -1021,55 +1038,6 @@
      "id": "99746359cb0e",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Four, including three juveniles, arrested for rape and murder of minor girl in Delhi’s Swaroop Nagar",
-     "url": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
-     "summary": "Police say the body of a minor girl was found in an open field on September 13; CCTV analysis of more than 50 cameras helped investigators trace the suspected tempo",
-     "published": "2026-09-18T03:38:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/a17pff/article71479283.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_1_1_35FSTTDR.jpg",
-     "licence": "linkout",
-     "id": "b03f1f8af25c",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "50 cameras helped investigators trace"
-     ]
-    },
-    {
-     "title": "Ongole Municipal Corporation eyes World Record with mega waste segregation drive on September 19",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ongole-municipal-corporation-eyes-world-record-with-mega-waste-segregation-drive-on-september-19/article71477440.ece",
-     "summary": "District Collector P. Raja Babu announced that this programme is being organised to showcase the historically significant city to the world as an iconic city.",
-     "published": "2026-09-18T03:23:45+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/mfzn82/article71479290.ece/alternates/LANDSCAPE_1200/5043c5fd-7e6c-475d-b579-2c3877290e23.jpg",
-     "licence": "linkout",
-     "id": "949556163139",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "19. District Collector P"
-     ]
-    },
-    {
-     "title": "Union Cabinet approves new railway lines at a cost of ₹9,889 crore in Andhra Pradesh",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/union-cabinet-approves-new-railway-lines-at-a-cost-of-9889-crore-in-andhra-pradesh/article70877644.ece",
-     "summary": "The 198-km-long third and fourth lines between Rajahmundry and Visakhapatnam is expected to improve connectivity to major ports, boost access to tourist destinations, and lead to an additional freight traffic of 29.04 million tonnes per annum",
-     "published": "2026-09-18T03:23:29+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yg6j3w/article70877933.ece/alternates/LANDSCAPE_1200/10215_18_4_2026_18_14_56_1_MAPJPG.JPEG",
-     "licence": "linkout",
-     "id": "591a4c7cfb15",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹9,889 crore in Andhra Pradesh",
-      "29.04 million tonnes per annum"
-     ]
     },
     {
      "title": "Today News Headlines for School Assembly, September 18, 2026: 503 athletes to represent India in Asian Games 2026",
@@ -1108,6 +1076,25 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Result of Underwriting Auction conducted on September 18, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63619",
+     "summary": "",
+     "published": "2026-09-18T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "444a6bce459c",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Money Market Operations as on September 17, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63618",
@@ -1868,6 +1855,86 @@
      "id": "bc343d6142ae",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Why a ‘settled’ loan status can hurt your credit score; know the solution",
+     "url": "https://www.livemint.com/money/personal-finance/why-a-settled-loan-status-can-hurt-your-credit-profile-know-the-solution-11789698542802.html",
+     "summary": "Borrowers who settle loans for less than the full amount may negatively impact their future credit access. Although the loan is marked as 'settled,' lenders may view this as a risk. Here's how borrowers can fix this.&nbsp;",
+     "published": "2026-09-18T04:02:57+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/18/600x338/loan_amount_1789704140029_fUdU_1789704146433_v9O5_8bffed15-d9fa-455c-8ed1-24997160495c_TuHY.png",
+     "licence": "linkout",
+     "id": "8a5ac6856cdc",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Gold, silver prices today, 18 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+     "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-18-september-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11789402177652.html",
+     "summary": "Gold and silver prices today, 18 September: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+     "published": "2026-09-18T03:59:51+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/14/600x338/Sep_18_1789403697413_3sy5_1789403706405_no6k_33359d81-8908-49af-8875-6070ceb1d55f_g1aZ.png",
+     "licence": "linkout",
+     "id": "498a75738225",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "999 silver in Delhi, Mumbai",
+      "999 silver retail rates across Delhi"
+     ]
+    },
+    {
+     "title": "A stronger secondary market can drive the next phase of retail bond investing: Suresh Darak",
+     "url": "https://www.livemint.com/money/personal-finance/a-stronger-secondary-market-can-drive-the-next-phase-of-retail-bond-investing-suresh-darak-11789623079585.html",
+     "summary": "Online bond platforms have widened retail access and pushed monthly turnover above ₹2,000 crore. But Suresh Darak says a deeper secondary market, where investors can buy and sell bonds easily, is key to the next phase of growth.",
+     "published": "2026-09-18T03:30:15+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/17/600x338/Suresh_Darak_1789635057314_dRli_1789635068318_cRSX_6c6ec70f-c88d-4146-bf51-b580b662685e_TgrM.jpg",
+     "licence": "linkout",
+     "id": "e6b9e988520c",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹2,000 crore"
+     ]
+    },
+    {
+     "title": "Can you open multiple Post Office MIS accounts? Here’s what investors must know",
+     "url": "https://www.livemint.com/money/personal-finance/can-you-open-multiple-post-office-mis-accounts-here-s-what-investors-must-know-11789698886113.html",
+     "summary": "Post Office MIS allows investors to open multiple accounts, but the total investment remains capped at ₹9 lakh for individual holdings and ₹15 lakh for joint accounts. Here is how multiple MIS accounts, interest and withdrawal rules work.",
+     "published": "2026-09-18T03:02:22+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/18/600x338/03de70c2-42ee-45cc-97cb-5c1855623a9f_1789699034771_ugdf_1789699040412_M3vI_c84c1b4d-a158-4064-b9b7-9b6c28e4f8fd_2Vn1.png",
+     "licence": "linkout",
+     "id": "4c1080ef4ec3",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "₹9 lakh for individual holdings",
+      "₹15 lakh for joint accounts"
+     ]
+    },
+    {
+     "title": "Father-in-law's diary showing cash movements in a homemaker's name led to ₹33.50L tax addition; ITAT grants relief",
+     "url": "https://www.livemint.com/money/fatherinlaws-diary-showing-cash-movements-in-a-homemakers-name-led-to-33-50l-tax-addition-itat-grants-relief-11789694709029.html",
+     "summary": "A taxpayer faced a ₹33.50 lakh tax addition after the tax department found cash transaction entries in her name during a search. Here's why ITAT deleted the addition.&nbsp;",
+     "published": "2026-09-18T02:23:42+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/18/600x338/ITAT_case_ruling_1789698196294_IL9D_1789698200552_IFPp_67c456f6-0bda-49ec-aeda-0f156c1a978e_ifqN.jpg",
+     "licence": "linkout",
+     "id": "57a0db82d936",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹33.50 L tax addition; ITAT",
+      "₹33.50 lakh tax addition"
+     ]
     }
    ]
   },
@@ -1945,9 +2012,9 @@
     {
      "title": "Why Washington Says It Cannot Afford to Lose the AI Race to China- Expert View by Spherical Insights",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmI5b1BQbl9IMW9WLWFEVnRVQVpLS3Y1d2xaZ3BZcTNnUkpkbkd2NV82MHQxdzFMMzFfc3F1ZjIwVTBOMDdvZXZzZWlBSDB3WGxxRDAyT0FWR3dqa25sbkY5U05Xa0RKc3ExYlJmMG41TDBXdmZqTTFTNVZSOURaLUhYempCenpDTzVleTY4MWNVZC1rOE5Qem95SHhBU055eHdCNmdWck4?oc=5",
-     "summary": "Why Washington Says It Cannot Afford to Lose the AI Race to China- Expert View by Spherical Insights sphericalinsights.com",
+     "summary": "Why Washington Says It Cannot Afford to Lose the AI Race to China- Expert View by Spherical Insights Spherical Insights",
      "published": "2026-09-17T06:59:40+00:00",
-     "source": "sphericalinsights.com",
+     "source": "Spherical Insights",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -2024,47 +2091,56 @@
    "upsc": false,
    "items": [
     {
-     "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
-     "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-     "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-     "published": "2026-09-17T10:19:04+00:00",
+     "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+     "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+     "summary": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+     "published": "2026-09-18T02:55:18+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c5/live/7d828180-b262-11f1-bc1f-3f186ca4140c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cc3/live/8377ac50-b2bc-11f1-9830-658a48c7da16.jpg",
      "licence": "linkout",
-     "id": "61f5e7fa61b9",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "$2 m in aid",
-      "$1 m to Palestinian causes"
-     ]
+     "id": "47df997c778c",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-     "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
-     "summary": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-     "published": "2026-09-17T14:27:09+00:00",
+     "title": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
+     "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
+     "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
+     "published": "2026-09-18T00:38:03+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be1e/live/3da6ac10-b25a-11f1-bc1f-3f186ca4140c.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8931/live/930e7720-b2cb-11f1-aa00-7947ea0dbeab.jpg",
      "licence": "linkout",
-     "id": "0670ffc1948a",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "c075406c04a1",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "RTÉ to boycott Eurovision for second year in a row",
-     "url": "https://www.bbc.co.uk/news/articles/cqde04len22wo?at_medium=RSS&at_campaign=rss",
-     "summary": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
-     "published": "2026-09-17T11:56:21+00:00",
+     "title": "UK's 'dismal' Eurovision song choices to be examined by MPs",
+     "url": "https://www.bbc.co.uk/news/articles/cmvgy3pdv612o?at_medium=RSS&at_campaign=rss",
+     "summary": "It comes after the UK's entry Look Mum No Computer came last in May's final, scoring just one point.",
+     "published": "2026-09-18T04:29:27+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0a/live/44542e60-b288-11f1-8096-b33a1297275a.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6925/live/1ccdb220-b2c5-11f1-9830-658a48c7da16.jpg",
      "licence": "linkout",
-     "id": "04fd8852e574",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "c6022d20001e",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Zara Larsson criticises White House for using her song in deportation video",
+     "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
+     "summary": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+     "published": "2026-09-18T01:20:33+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b13/live/b52dd380-b2ff-11f1-8876-8f16a6fa8729.jpg",
+     "licence": "linkout",
+     "id": "e788421bd477",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "GTA 6 soundtrack reveal revives digital release debate",
@@ -2081,19 +2157,6 @@
      "figures": [
       "6 soundtrack reveal revives digital release"
      ]
-    },
-    {
-     "title": "Marooned Lord Byron statue returns to Hyde Park",
-     "url": "https://www.bbc.co.uk/news/articles/cq4gm0k5g3geo?at_medium=RSS&at_campaign=rss",
-     "summary": "The statue was left isolated on a Park Lane traffic island after new roads were built in the 1960s.",
-     "published": "2026-09-17T18:15:45+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca0/live/06883310-b2b5-11f1-819c-176371125270.jpg",
-     "licence": "linkout",
-     "id": "c00d40acb1bc",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
