@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T01:57:00.141804+00:00",
+ "generated_at": "2026-09-20T07:17:03.087791+00:00",
  "podcasts_fetched_at": "2026-09-20T01:56:46.772337+00:00",
  "markets": [
   {
@@ -85,15 +85,15 @@
  ],
  "topics": [
   "Fake Accused",
-  "Sheeran Macklemore",
+  "Ukrainian Moscow",
   "Jazeera English",
   "News",
   "Bangladesh World",
   "Legal Govt",
-  "Samrat Choudhary",
-  "Union Home",
-  "Congo Ebola",
-  "Iran Tehran"
+  "West Bengal",
+  "Keralam Shaji",
+  "Mass Ukrainian",
+  "Myanmar Pantoja"
  ],
  "sections": [
   {
@@ -112,34 +112,81 @@
      "image": null,
      "licence": "linkout",
      "id": "925f41d6a3be",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Punjab Cop Murder Accused Killed In Encounter, Pak Terror Link Under Probe",
+       "url": "https://www.ndtv.com/india-news/amritsar-punjab-cop-murder-accused-killed-in-encounter-pak-terror-link-under-probe-12070750#publisher=newsstand",
+       "summary": "Harjit Singh, a resident of Tarn Taran district, was shot from point-blank range by two men on a bike on Friday."
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+     "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+     "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+     "summary": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
+     "published": "2026-09-20T06:37:46+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
+     "licence": "linkout",
+     "id": "69290ccbb191",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Punjab Cop Murder Accused Killed In Encounter, Pak Terror Link Under Probe",
+     "url": "https://www.ndtv.com/india-news/amritsar-punjab-cop-murder-accused-killed-in-encounter-pak-terror-link-under-probe-12070750#publisher=newsstand",
+     "summary": "Harjit Singh, a resident of Tarn Taran district, was shot from point-blank range by two men on a bike on Friday.",
+     "published": "2026-09-20T06:01:24+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/sf267nkg_amritsar-murder_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "04b408b71e07",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News"
+    },
+    {
+     "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
+     "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
+     "summary": "Moscow mayor reports intercepting 1,600 drones during 'unprecedented' attack, accusing Ukraine of election interference.",
+     "published": "2026-09-20T06:57:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T042905Z_1824787393_RC2QMNA5QBAK_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1789884302.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "5bc65cbf2deb",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+       "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+       "summary": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
+     "figures": [
+      "1,600 drones during 'unprecedented' attack, accusing"
+     ]
+    },
+    {
+     "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-     "summary": "The mega-star spoke about the issue and about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
-     "published": "2026-09-20T01:38:30+00:00",
+     "summary": "The mega-star spoke about Israel and Gaza at his Philadelphia show after rapper Macklemore was dropped from his tour.",
+     "published": "2026-09-20T04:49:11+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg",
      "licence": "linkout",
      "id": "b3c7a8b5670d",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-     "summary": "Iran security chief says Tehran's demands include an end to war on all fronts and the lifting of US's naval blockade.",
-     "published": "2026-09-20T00:00:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-19T114800Z_1100229945_RC28MNAOL58F_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1789861786.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "97e39aa3ab00",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -159,136 +206,46 @@
      "from_section": "Global News"
     },
     {
-     "title": "Trump opens poll proposing renaming artificial intelligence",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODM0cnZYWmhUV3ZURkZYNWpER3dfT3ZTRy0tMEZ0Q096dlBvQklGMjNjdDFobWs1N1VZRHpyNWU2S3lBeDI5YjJ0ZWJKR0RBckYtT3dCcUNMV1dvbnBHMkI1QzVrVVByaDlrZTdfb25SNWRqS1YyQkVoZ2Y0eVJad19RWERRV0hrSm1rOW5rdnJnREcxb043d3hqbERveU9YazZv?oc=5",
-     "summary": "Trump opens poll proposing renaming artificial intelligence Anadolu Ajansı",
-     "published": "2026-09-19T16:39:11+00:00",
-     "source": "Anadolu Ajansı",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "25de6fbbafae",
-     "also": [
-      {
-       "source": "BBC",
-       "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRURqQzlKaHhZdEF0OXJrUS0teThLUTlIU1hpV2RvdGl2by1FT1N1WjVYaDNIektwTXBMRWFKa1NqOTkzcWdiSkF0U2FKYVlxSVNrWXhpN0lzTW9PMmc?oc=5",
-       "summary": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar BBC"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college",
-     "url": "https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece",
-     "summary": "Union Home Minister Amit Shah skipped the September 19 programme due to ill health",
-     "published": "2026-09-19T23:22:42+00:00",
+     "title": "Keralam minister K.M. Shaji faces controversy over use of ‘loaned’ luxury car as official vehicle",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-minister-km-shaji-faces-controversy-over-use-of-loaned-luxury-car-as-official-vehicle/article71487102.ece",
+     "summary": "Photographs of K.M. Shaji posing alongside the car, which flew the national flag from a staff mounted on the vehicle’s bonnet, recently went viral on social and conventional media, drawing applause from his supporters and criticism from Communist Party of India (Marxist) [CPI(M)] leaders.",
+     "published": "2026-09-20T07:09:31+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7293z0/article71484004.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000045B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/otquzc/article71487219.ece/alternates/LANDSCAPE_1200/KRSKM_21-11-2020_19-6-25_1_UDFCONVENTION2.JPG",
      "licence": "linkout",
-     "id": "9dd9da9b0f6e",
+     "id": "14fdd1e80212",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "19 programme due to ill health"
-     ]
-    },
-    {
-     "title": "Ahead Of Smog Season, Bhagwant Mann Defends Punjab Farmers, Takes Dig At Pakistan",
-     "url": "https://www.ndtv.com/india-news/ahead-of-smog-season-bhagwant-mann-defends-punjab-farmers-with-a-lahore-dig-12070092#publisher=newsstand",
-     "summary": "Paddy growers have been demanding a Rs 3,000 cash incentive per acre for managing paddy stubble, a demand that the Punjab chief minister backed in principle.",
-     "published": "2026-09-19T18:33:43+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/8v14v1tg_bhagwant-mann_625x300_19_September_26.jpeg",
-     "licence": "linkout",
-     "id": "fee3756a32a0",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "Rs 3,000  cash incentive per acre"
-     ]
-    },
-    {
-     "title": "Samrat Choudhary promises jobs to one crore women",
-     "url": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece",
-     "summary": "Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape",
-     "published": "2026-09-20T01:35:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/11v2or/article71485936.ece/alternates/LANDSCAPE_1200/20260919223L.jpg",
-     "licence": "linkout",
-     "id": "a1b7dce23543",
-     "category": "money",
-     "category_label": "Money & scams",
      "from_section": "National News"
     },
     {
-     "title": "\"This Memory Is Priceless\": Kenneth Walker III Makes Candid Admission After Costly Kansas City Chiefs Debut",
-     "url": "https://sports.ndtv.com/us-nfl/this-memory-is-priceless-kenneth-walker-iii-makes-candid-admission-after-costly-kansas-city-chiefs-debut-12070597#publisher=newsstand",
-     "summary": "Kenneth Walker III received an $8,357 NFL fine after throwing the ball into the crowd during his Kansas City Chiefs debut. His candid admission revealed the meaning behind the costly moment.",
-     "published": "2026-09-20T01:17:49+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5729pka8_kenneth-walker-iii_625x300_20_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "0780c42602d0",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Sports",
-     "figures": [
-      "$8,357  NFL fine after throwing"
-     ]
-    },
-    {
-     "title": "How will the U.S.’s Sanctioning Act affect India? | Explained",
-     "url": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece",
-     "summary": "Why did the U.S. introduce the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026? What does this new law say about tariffs? What particular condition impacts India’s imports of Russian oil? How could this impact India’s economy? Is there any provision for a waiver of tariffs?",
-     "published": "2026-09-19T20:05:32+00:00",
+     "title": "Senior journalist Payal Mehta passes away; PM Modi, Union Ministers offer condolences",
+     "url": "https://www.thehindu.com/news/national/senior-journalist-payal-mehta-passes-away-pm-modi-union-ministers-offer-condolences/article71487108.ece",
+     "summary": "Payal Mehta was known as a hard-working journalist who covered the Parliament, the government and the BJP",
+     "published": "2026-09-20T07:04:37+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/py3l8e/article71485941.ece/alternates/LANDSCAPE_1200/Trump__1953.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/axl471/article71487113.ece/alternates/LANDSCAPE_1200/PAYAL%20MEHTA.jpg",
      "licence": "linkout",
-     "id": "56a8e96e09ad",
-     "category": "money",
-     "category_label": "Money & scams",
+     "id": "f4d591cc3035",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "TVK regime’s experiment of having two advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece",
+     "summary": "Apart from the two advisers, the Chief Minister is aided by a team of four IAS officers, one of whom has 30-odd years’ experience",
+     "published": "2026-09-20T06:32:22+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "9b173d0a7e03",
+     "category": "politics",
+     "category_label": "Political controversy",
      "from_section": "National Hotlines"
-    },
-    {
-     "title": "Malayalam movie HALF screened under Midnight Madness section at Toronto film festival",
-     "url": "https://www.thehindu.com/news/national/kerala/malayalam-movie-half-screened-under-midnight-madness-section-at-toronto-film-festival/article71485652.ece",
-     "summary": "",
-     "published": "2026-09-19T20:25:06+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8gckkv/article71485894.ece/alternates/LANDSCAPE_1200/half%20poster.jpg",
-     "licence": "linkout",
-     "id": "80e903037117",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "National News"
-    },
-    {
-     "title": "Lautaro Martinez Brace Saves Inter Milan In Serie A Top-Two Clash With Roma",
-     "url": "https://sports.ndtv.com/football/lautaro-martinez-brace-saves-inter-milan-in-serie-a-top-two-clash-with-roma-12070345#publisher=newsstand",
-     "summary": "Lautaro Martinez rode to Inter Milan's rescue on Saturday as the Serie A champions fought back from two goals down to force a 2-2 draw at Roma.",
-     "published": "2026-09-20T01:33:22+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/c7thsfs4_team-inter-milan-getty_625x300_20_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "ff5f3b34e805",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Sports",
-     "figures": [
-      "2 draw at Roma"
-     ]
     },
     {
      "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
@@ -305,60 +262,67 @@
      "from_section": "Health & Science"
     },
     {
-     "title": "Not all AI workers think the tech could kill everyone",
-     "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-     "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-     "published": "2026-09-19T23:01:57+00:00",
-     "source": "BBC News",
+     "title": "Hope flows anew with revival of Andhra’s Veligonda project",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/hope-flows-anew-with-revival-of-andhras-veligonda-project/article71479450.ece",
+     "summary": "Conceived as a long-term response to the nearly four-decade fight of the people against chronic drought, depleted water resources, and fluoride contamination in parts of the region, the project aims to create a large irrigation network spanning four districts and 30 mandals, while extending drinking water facilities to drought-prone populations.",
+     "published": "2026-09-20T06:28:20+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/uy5isz/article71481936.ece/alternates/LANDSCAPE_1200/10215_18_9_2026_15_12_50_1_DSC_5155.JPG",
      "licence": "linkout",
-     "id": "5f141d947133",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
+     "id": "55069e149f9b",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National Hotlines",
+     "figures": [
+      "30 mandals , while extending drinking"
+     ]
     },
     {
-     "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRURqQzlKaHhZdEF0OXJrUS0teThLUTlIU1hpV2RvdGl2by1FT1N1WjVYaDNIektwTXBMRWFKa1NqOTkzcWdiSkF0U2FKYVlxSVNrWXhpN0lzTW9PMmc?oc=5",
-     "summary": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar BBC",
-     "published": "2026-09-19T21:01:56+00:00",
-     "source": "BBC",
+     "title": "Vaishnaw cautions industry about cyberattacks, disruption that may target India's growing chip might",
+     "url": "https://www.thehindu.com/news/national/vaishnaw-cautions-industry-about-cyberattacks-disruption-that-may-target-indias-growing-chip-might/article71487191.ece",
+     "summary": "India's chip push marks a bold attempt to move beyond packaging and build a broader domestic supply chain, while attracting global companies to manufacture and develop semiconductor technologies in India",
+     "published": "2026-09-20T06:58:40+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/tfp0og/article71487203.ece/alternates/LANDSCAPE_1200/PTI09_19_2026_000600B.jpg",
+     "licence": "linkout",
+     "id": "33e8d7e2edd0",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "In The Age Of Artificial Intelligence, You Need Decision Intelligence: Jogendra Singh Of Hero Enterprises Bats For DI At Retire Smart, Ludhiana",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV1Y4Y3BzQk1MSzR2d0pVQ0pqSzhvOTctWDhObzU4ZzlOT1pNTEM3WHNIOUpMN0xHZ2ZRZ0I3S2dqeXBNXzJ4VV9EY0stNERfbXd4N19RazVlUG9aZU05LTlhUnFqN1RnSXBfc0p5Z09JMGV0am1wMzJQQ0dQTjdFaXJaaXNFQVBWX2NzOUgxdTBuUDR4LXVtUUoybkY4T0J4WTJzbVdBeGFSc1NSV0tUWUJhVzJuRUhxR3h3REhQNGh2MFB1Y2J1R3BSUkFmOVJ5UmZuMElXRG5zZFdJX1ZSNDFoU1kzMXZqWDRwRmE5dzZwOXF0UVh6Q05NVURweEpSQ0syNDg0SElqNnBa0gGaAkFVX3lxTE41NE9PQnZ6clNOU3FxZnEwNWczZ1RKN0NzdFhTalRlRGlYcjhuX3RrQ05naHM0S2V5TGYtZnh2Q0xNaU94RXh4eEpyR0R2X3NpdXZjS0FiSXhReFFSYUplaWxLVFljTURTUl9XaC01QVp2Mzh3UERPdmNKWXlVc3hXTlFRN3NqM2VKSk5LUkhOeHo2MnlkZHZkRTlMT3lvR1pROE15ZWlma01hUlBDZ084ZF8xS2FuWXpOZVB5c1VrSmNBVXhzYm9qTzFxVUtqYVQ1SUVGaDdTaVMxWDZHMExIUDVEd1FCbG5tM0dkSnVNQ1FlRTljTkZQc0ZwTFU5TEp3bTdodFRzeTU2TEt3TWlqel8wem1MLTlTQQ?oc=5",
+     "summary": "In The Age Of Artificial Intelligence, You Need Decision Intelligence: Jogendra Singh Of Hero Enterprises Bats For DI At Retire Smart, Ludhiana Outlook Money",
+     "published": "2026-09-20T06:02:06+00:00",
+     "source": "Outlook Money",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "a3a82f7c6a90",
+     "id": "3a91464fecb0",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSENEUXI1b25uRmY4US1ZeGlnM0RlVFRtOFhfVFZocXRJa2U2d1Z1eUJ1TzdEblFQSmkwTmxEYnFtZG1fVlBDdnNmTjhrLUlqb1RVdzdmQXIwZW16Rk43d1B1V2IxaUtNeU00WHpSOHJFNVY3VzZvUEtPSWNHVExPMXYyQWVKM0lZRDAxYS10TGEzLU1vLVUtQ21ReEg4bjhaczcwRmNyR3VvRi1hd29Mc2JUblZxOFF4QXZfM1FHR0kxdnA1?oc=5",
-     "summary": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’ theguardian.com",
-     "published": "2026-09-19T20:02:00+00:00",
-     "source": "theguardian.com",
+     "title": "Fourth Forum on China-ASEAN Artificial Intelligence Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON3VOa0xfM2hoNTc4YzJlZVFTY2hEQ005dVQ5V1BxRnR6bGNOcGU3cVhfTWozN21LNXZlOFZFV0Q1cC1xai01M2MyRloyc3p3NlBCNU9hTEVkQUU5LVFZajU2aGtuQk5XR1NOS2dLdkt3d1NmVlhRSUJ2WUtLTTNqX0hvdkdtMjRzaXplQWJzWDU1aDFfakJubkpxcDZxRE9DQUFHaW1RVlVCbTMwNGd1TEJFWG9YOGlQWW5yR1FCVUtTLWZPems3eVF6RzRQblF1eGlVbFQ5TTItNlVQT2lYZ2Z6SDZ2U1F4dTBYNE4tWi1wRmhVMkJZTlpXT0cya0k?oc=5",
+     "summary": "Fourth Forum on China-ASEAN Artificial Intelligence Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates vietnamnews.vn",
+     "published": "2026-09-20T05:20:00+00:00",
+     "source": "vietnamnews.vn",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "a77efb2eb697",
+     "id": "5f9d59f954e5",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Asian Games 2026 LIVE Updates, Day 1: Heartbreak For India In Teqball, Shooting Final Underway",
-     "url": "https://sports.ndtv.com/othersports/asian-games-2026-day-1-live-score-updates-aichi-nagoya-quimcy-dsouza-elavenil-valarivan-12070029#publisher=newsstand",
-     "summary": "Asian Games 2026 LIVE Score Updates, Day 1: India begin an action-packed day at the continental tournament, with multiple medal events set to take place.",
-     "published": "2026-09-20T01:39:22+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/2fmotpgk_quimcy-dsouza-india-women-cricket-team-x_625x300_19_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b1ebdd6fddfb",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
+     "from_section": "Technology",
+     "figures": [
+      "700 Delegates",
+      "700 Delegates vietnamnews"
+     ]
     },
     {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
@@ -370,23 +334,76 @@
      "image": null,
      "licence": "linkout",
      "id": "44ac1cfc8520",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "India vs Bangladesh LIVE Score, Asian Games Cricket Semi-Final: India Star Takes Blinder, 2-Down Bangladesh In Deep Trouble",
+       "url": "https://sports.ndtv.com/cricket/india-vs-bangladesh-live-score-asian-games-2026-womens-semi-final-ind-vs-ban-scorecard-live-updates-shafali-verma-smriti-mandhana-harmanpreet-kaur-12070123#publisher=newsstand",
+       "summary": "India vs Bangladesh LIVE Score, Asian Games 2026 Women's Cricket Semi-Final Scorecard LIVE Updates: Dilara Akter and Juairiya Ferdous have opened the innings for Bangladesh in the chase of 196 against India."
+      }
+     ],
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
-     "url": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-     "summary": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.",
-     "published": "2026-09-19T20:47:20+00:00",
-     "source": "Al Jazeera",
+     "title": "India vs Bangladesh LIVE Score, Asian Games Cricket Semi-Final: India Star Takes Blinder, 2-Down Bangladesh In Deep Trouble",
+     "url": "https://sports.ndtv.com/cricket/india-vs-bangladesh-live-score-asian-games-2026-womens-semi-final-ind-vs-ban-scorecard-live-updates-shafali-verma-smriti-mandhana-harmanpreet-kaur-12070123#publisher=newsstand",
+     "summary": "India vs Bangladesh LIVE Score, Asian Games 2026 Women's Cricket Semi-Final Scorecard LIVE Updates: Dilara Akter and Juairiya Ferdous have opened the innings for Bangladesh in the chase of 196 against India.",
+     "published": "2026-09-20T06:57:38+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-16T212632Z_1652219106_UP1EM9G1MG1FY_RTRMADP_3_SOCCER-ENGLAND-MUN-BHA-1789800187.jpg?resize=1920%2C1440",
+     "image": "https://c.ndtvimg.com/2026-09/lop67r2c_india-women_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "33be681c2dab",
+     "id": "1f7894b8aacd",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Global News"
+     "from_section": "Sports",
+     "figures": [
+      "196 against India"
+     ]
+    },
+    {
+     "title": "Asian Games 2026 LIVE Updates, Day 1: India Clinch Another Shooting Silver, Medal Tally Rises To Two",
+     "url": "https://sports.ndtv.com/othersports/asian-games-2026-day-1-live-score-updates-aichi-nagoya-quimcy-dsouza-elavenil-valarivan-12070029#publisher=newsstand",
+     "summary": "Asian Games 2026 LIVE Score Updates, Day 1: India opened Asian Games 2026 medal tally with a silver medal in Women's 10m Air Rifle final.",
+     "published": "2026-09-20T06:19:11+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/54981krk_elavanil-getty_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b1ebdd6fddfb",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
+     "title": "‘Gem Granite’ Veeramani — a stone cold perpetrator",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/a-stone-coldperpetrator-gem-granite-veeramani/article71485725.ece",
+     "summary": "‘Gem Granite’ Veeramani, an influential industrialist now finds himself at the centre of a widening investigation under the POCSO Act into the allegations of paedophilia. While he was under investigation from last year, a fresh probe, ordered by the court, led the police to recover additional digital evidence and identify multiple victims. This report examines what has been labelled the ‘Epstein case of Tamil Nadu’, only to discover that while the scale of operations was nowhere near that of the American offender, a subterranean network of sexual abusers and their enablers did operate for years",
+     "published": "2026-09-20T07:08:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ue0pj7/article71487301.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-20%20at%2012.37.15.jpeg",
+     "licence": "linkout",
+     "id": "24cb10d21bcf",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News"
+    },
+    {
+     "title": "Families missing out on NHS money for healthy food",
+     "url": "https://www.bbc.co.uk/news/articles/cme30e8zyvjno?at_medium=RSS&at_campaign=rss",
+     "summary": "Figures show as few as 64% of eligible families are claiming NHS money to buy milk, fruit and veg.",
+     "published": "2026-09-20T06:12:13+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/071c/live/c3aad4e0-b295-11f1-9b18-ad61bef6e34f.jpg",
+     "licence": "linkout",
+     "id": "936dab664edc",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Business"
     }
    ]
   },
@@ -402,7 +419,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-20T01:56:46.771865+00:00",
+     "published": "2026-09-20T07:16:49.242089+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -413,7 +430,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-20T01:56:46.771878+00:00",
+     "published": "2026-09-20T07:16:49.242098+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -424,7 +441,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-20T01:56:46.771885+00:00",
+     "published": "2026-09-20T07:16:49.242100+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -435,7 +452,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-20T01:56:46.771890+00:00",
+     "published": "2026-09-20T07:16:49.242105+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -446,7 +463,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-20T01:56:46.771894+00:00",
+     "published": "2026-09-20T07:16:49.242108+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -457,10 +474,58 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-20T01:56:46.771899+00:00",
+     "published": "2026-09-20T07:16:49.242110+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "NEET PG Answer Key 2026 Live: Provisional Key, Response Sheet Expected Soon; Check Latest Updates",
+     "url": "https://www.ndtv.com/education/neet-pg-answer-key-2026-live-provisional-key-response-sheet-expected-soon-check-latest-updates-12071337#publisher=newsstand",
+     "summary": "NEET PG Answer Key 2026 Live: NBEMS is expected to release the provisional answer key and response sheet soon. Check release updates, result date, steps and exam details here.",
+     "published": "2026-09-20T06:39:30+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/1faour4o_neet_625x300_20_September_26.jpeg",
+     "licence": "linkout",
+     "id": "2a3219ba9100",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "India vs Indonesia Hockey LIVE Score, Asian Games 2026: India Smash 4 Goals In 4 Minutes, Run Riot To Take 7-0 Lead | IND 7-0 INA",
+     "url": "https://sports.ndtv.com/hockey/india-vs-indonesia-hockey-live-score-asian-games-2026-aichi-nagoya-mens-hockey-ind-vs-ina-live-updates-harmanpreet-singh-12071218#publisher=newsstand",
+     "summary": "India vs Indonesia Hockey LIVE Score, Asian Games 2026: India are leading 7-0 against Indonesia at half-time in their opening men's hockey match of the Asian Games.",
+     "published": "2026-09-20T06:52:32+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/uudrr7q4_india-hockey_625x300_17_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "808b5920c45e",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "4 Goals In 4 Minutes, Run",
+      "4 Minutes , Run Riot",
+      "0 Lead | IND 7-0 INA",
+      "0 against Indonesia at half-time"
+     ]
+    },
+    {
+     "title": "India vs Indonesia Hockey LIVE Streaming, Asian Games 2026 LIVE Telecast: When And Where To Watch",
+     "url": "https://sports.ndtv.com/hockey/india-vs-indonesia-live-streaming-asian-games-2026-mens-hockey-live-telecast-ind-vs-ina-when-and-where-to-watch-12071177#publisher=newsstand",
+     "summary": "India vs Indonesia Hockey LIVE Streaming, Asian Games 2026 LIVE Telecast: When And Where To Watch",
+     "published": "2026-09-20T05:28:31+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-08/d20n1ptg_india-hockey_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ceb13ee66979",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -480,6 +545,14 @@
      "image": null,
      "licence": "linkout",
      "id": "44ac1cfc8520",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "India vs Bangladesh LIVE Score, Asian Games Cricket Semi-Final: India Star Takes Blinder, 2-Down Bangladesh In Deep Trouble",
+       "url": "https://sports.ndtv.com/cricket/india-vs-bangladesh-live-score-asian-games-2026-womens-semi-final-ind-vs-ban-scorecard-live-updates-shafali-verma-smriti-mandhana-harmanpreet-kaur-12070123#publisher=newsstand",
+       "summary": "India vs Bangladesh LIVE Score, Asian Games 2026 Women's Cricket Semi-Final Scorecard LIVE Updates: Dilara Akter and Juairiya Ferdous have opened the innings for Bangladesh in the chase of 196 against India."
+      }
+     ],
      "category": "sports",
      "category_label": "Sports"
     },
@@ -506,6 +579,14 @@
      "image": null,
      "licence": "linkout",
      "id": "925f41d6a3be",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Punjab Cop Murder Accused Killed In Encounter, Pak Terror Link Under Probe",
+       "url": "https://www.ndtv.com/india-news/amritsar-punjab-cop-murder-accused-killed-in-encounter-pak-terror-link-under-probe-12070750#publisher=newsstand",
+       "summary": "Harjit Singh, a resident of Tarn Taran district, was shot from point-blank range by two men on a bike on Friday."
+      }
+     ],
      "category": "crime",
      "category_label": "Crime"
     }
@@ -518,113 +599,96 @@
    "upsc": false,
    "items": [
     {
-     "title": "Samrat Choudhary promises jobs to one crore women",
-     "url": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece",
-     "summary": "Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape",
-     "published": "2026-09-20T01:35:10+00:00",
+     "title": "West Bengal Government launches portal to foster grassroots innovation in eastern region",
+     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-launches-portal-to-foster-grassroots-innovation-in-eastern-region/article71487222.ece",
+     "summary": "The ‘Seva First Innovation Challenge-Eastern Zone’ invites solution-oriented proposals on healthcare access, agricultural losses, water shortage and waste management",
+     "published": "2026-09-20T07:13:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/11v2or/article71485936.ece/alternates/LANDSCAPE_1200/20260919223L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/csdk6i/article71487243.ece/alternates/LANDSCAPE_1200/HSkMmtnbAAAg4p1.jpg",
      "licence": "linkout",
-     "id": "a1b7dce23543",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "2e78e1c9b836",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college",
-     "url": "https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece",
-     "summary": "Union Home Minister Amit Shah skipped the September 19 programme due to ill health",
-     "published": "2026-09-19T23:22:42+00:00",
+     "title": "Keralam minister K.M. Shaji faces controversy over use of ‘loaned’ luxury car as official vehicle",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-minister-km-shaji-faces-controversy-over-use-of-loaned-luxury-car-as-official-vehicle/article71487102.ece",
+     "summary": "Photographs of K.M. Shaji posing alongside the car, which flew the national flag from a staff mounted on the vehicle’s bonnet, recently went viral on social and conventional media, drawing applause from his supporters and criticism from Communist Party of India (Marxist) [CPI(M)] leaders.",
+     "published": "2026-09-20T07:09:31+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7293z0/article71484004.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000045B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/otquzc/article71487219.ece/alternates/LANDSCAPE_1200/KRSKM_21-11-2020_19-6-25_1_UDFCONVENTION2.JPG",
      "licence": "linkout",
-     "id": "9dd9da9b0f6e",
+     "id": "14fdd1e80212",
      "category": "politics",
-     "category_label": "Political controversy",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "‘Gem Granite’ Veeramani — a stone cold perpetrator",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/a-stone-coldperpetrator-gem-granite-veeramani/article71485725.ece",
+     "summary": "‘Gem Granite’ Veeramani, an influential industrialist now finds himself at the centre of a widening investigation under the POCSO Act into the allegations of paedophilia. While he was under investigation from last year, a fresh probe, ordered by the court, led the police to recover additional digital evidence and identify multiple victims. This report examines what has been labelled the ‘Epstein case of Tamil Nadu’, only to discover that while the scale of operations was nowhere near that of the American offender, a subterranean network of sexual abusers and their enablers did operate for years",
+     "published": "2026-09-20T07:08:09+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ue0pj7/article71487301.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-20%20at%2012.37.15.jpeg",
+     "licence": "linkout",
+     "id": "24cb10d21bcf",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
+    {
+     "title": "Nara Lokesh calls on students to face failures with courage and determination",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/nara-lokesh-calls-on-students-to-face-failures-with-courage-and-determination/article71487211.ece",
+     "summary": "The students have been told to respect soldiers, make them their real heroes during ‘Bharateeyam’ programme",
+     "published": "2026-09-20T07:08:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/gxwt97/article71487289.ece/alternates/LANDSCAPE_1200/10237_20_9_2026_11_36_55_1_WHATSAPPIMAGE2026_09_20AT103943AM.JPEG",
+     "licence": "linkout",
+     "id": "7e09d15ef3f7",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Education Ministry Announces Solid Waste Management Quiz For Classes 6 To 12",
+     "url": "https://www.ndtv.com/education/education-ministry-announces-solid-waste-management-quiz-for-classes-6-to-12-12071330#publisher=newsstand",
+     "summary": "The Department of School Education and Literacy, Ministry of Education, has also shared the study materials for different classes on its official portal.",
+     "published": "2026-09-20T06:24:59+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/4rqdbalk_education-ministry_625x300_20_September_26.jpeg",
+     "licence": "linkout",
+     "id": "872b9cf1ec94",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Pune Murder Accused Siya Goyal Made Fake Instagram ID To Lure Husband To Fort",
+     "url": "https://www.ndtv.com/india-news/pune-murder-accused-siya-goyal-made-fake-instagram-id-to-lure-husband-ketan-agarwal-to-lohagad-fort-12071243#publisher=newsstand",
+     "summary": "Ketan Agarwal died after being pushed off the fort on June 18, following which his fiancee, Siya Goyal, and her lover, Chetan Chaudhary, were arrested.",
+     "published": "2026-09-20T05:50:02+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-06/t504l6jg_ketan-chetan-siya_625x300_25_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b10ad82b7754",
+     "category": "crime",
+     "category_label": "Crime",
      "figures": [
-      "19 programme due to ill health"
+      "18, following which his fiancee, Siya"
      ]
     },
     {
-     "title": "In India’s capital, Delhiites reduced to documents",
-     "url": "https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece",
-     "summary": "Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials who share the reality of a process marked by confusion. As always, the burden to prove their identity is falling hardest on society’s poorer, less-documented voter",
-     "published": "2026-09-19T21:00:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/j6pd2k/article71484471.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20SIR%20DRIVE%2018.JPG",
-     "licence": "linkout",
-     "id": "882a33c5deab",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "What is the India-Pakistan conflict at sea about? | Explained",
-     "url": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece",
-     "summary": "What happened on September 15 in the North Arabian Sea? What kind of vessels were involved? Was there any damage to the vessels? How did India react to the incident? What is Pakistan’s version? What is Article 10 of the 1991 Agreement that India alleged Pakistan violated?",
-     "published": "2026-09-19T20:45:14+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/9ohi2g/article71471568.ece/alternates/LANDSCAPE_1200/DEMOLITION%20PAKISTAN%20HIGH%20COMMISSION%20DELHI%20%202026_20_08_18.jpg",
-     "licence": "linkout",
-     "id": "70716d6741f6",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "MK Stalin Targets Vijay Over UK Visit, Power Cuts, Law And Order",
-     "url": "https://www.ndtv.com/india-news/mk-stalin-targets-vijay-over-uk-visit-power-cuts-law-and-order-12070225#publisher=newsstand",
-     "summary": "Criticising the TVK government, Stalin alleged that Tamil Nadu was witnessing deterioration in law and order, frequent power cuts and a rise in prices.",
-     "published": "2026-09-19T19:00:15+00:00",
+     "title": "'Uncouth, Foul-Mouthed': BJP On Rahul Gandhi's \"Maa\" Remarks With Comic",
+     "url": "https://www.ndtv.com/india-news/uncouth-foul-mouthed-bjp-on-rahul-gandhis-maa-remarks-with-comic-pulkit-mani-12071043#publisher=newsstand",
+     "summary": "BJP national spokesperson CR Kesavan in a video statement this morning said Rahul Gandhi had insulted women by \"mocking a frail mother\"",
+     "published": "2026-09-20T05:39:44+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-05/rf43fic8_tamil-nadu-election-mk-stalin-vijay-eps_625x300_01_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/ahbscrdc_rahul-gandhi_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "dc86b1c56242",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Aadhaar Biometric Authentication Must For Subsidised LPG Refills From October",
-     "url": "https://www.ndtv.com/india-news/aadhaar-biometric-authentication-must-for-subsidised-lpg-refills-from-october-12070219#publisher=newsstand",
-     "summary": "As of September 19, 27.43 crore active domestic LPG consumers, or 89.9 per cent of the total, had completed biometric Aadhaar authentication, according to the Petroleum and Natural Gas Ministry.",
-     "published": "2026-09-19T18:55:53+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-04/phhl4bus_commercial-lpg-cyliner-extra-for-marriage-in-rajasthan_625x300_08_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "f67f00db0c81",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "27.43 crore active domestic LPG consumers",
-      "89.9 per cent of the total, had"
-     ]
-    },
-    {
-     "title": "Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue",
-     "url": "https://www.ndtv.com/india-news/kathmandu-bound-air-india-flight-returns-to-delhi-over-suspected-tech-issue-12070207#publisher=newsstand",
-     "summary": "The airline said passengers were flown to Kathmandu in an alternative aircraft.",
-     "published": "2026-09-19T18:45:38+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2025-07/10aofjvk_boeing-787-dreamliner_625x300_31_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "45da06f4553b",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Disha Salian's Father Visits Thackeray Residence To Serve Defamation Notice",
-     "url": "https://www.ndtv.com/india-news/disha-salians-father-visits-thackeray-residence-to-serve-defamation-notice-12070200#publisher=newsstand",
-     "summary": "Aaditya Thackeray categorically stated earlier this week that he had no connection with the Disha Salian death case and had never met her.",
-     "published": "2026-09-19T18:43:17+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/7rtmdvok_satish-salian_625x300_19_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "ef3e45f4a958",
+     "id": "0225d359f665",
      "category": "general",
      "category_label": "General"
     }
@@ -637,60 +701,86 @@
    "upsc": false,
    "items": [
     {
-     "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
-     "url": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
-     "summary": "50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.",
-     "published": "2026-09-20T00:36:05+00:00",
+     "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
+     "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
+     "summary": "Moscow mayor reports intercepting 1,600 drones during 'unprecedented' attack, accusing Ukraine of election interference.",
+     "published": "2026-09-20T06:57:05+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aaeffbd4704-1789853629.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T042905Z_1824787393_RC2QMNA5QBAK_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1789884302.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "6e440aa671f0",
-     "category": "general",
-     "category_label": "General",
+     "id": "5bc65cbf2deb",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+       "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+       "summary": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
      "figures": [
-      "50,000 frontline staff to receive",
-      "20,000 enrolled in a one-year clinical"
+      "1,600 drones during 'unprecedented' attack, accusing"
      ]
     },
     {
-     "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-     "summary": "Iran security chief says Tehran's demands include an end to war on all fronts and the lifting of US's naval blockade.",
-     "published": "2026-09-20T00:00:00+00:00",
+     "title": "Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331",
+     "url": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss",
+     "summary": "Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazilian opponent to cement his reign.",
+     "published": "2026-09-20T06:03:14+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-19T114800Z_1100229945_RC28MNAOL58F_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1789861786.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260920__2296162547__v1__HighRes__Ufc331VanVPantoja-1789882334.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "97e39aa3ab00",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "db383a4d9e44",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "331. Joshua Van earned a unanimous"
+     ]
     },
     {
-     "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-     "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
-     "summary": "Turkish FM highlights Turkiye's readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.",
-     "published": "2026-09-19T23:18:34+00:00",
+     "title": "Journalists locked out of the White House after Trump ban",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
+     "summary": "Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.",
+     "published": "2026-09-20T05:43:01+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaf05610b-1789855073.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789882901.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "fe9219ea3c3d",
+     "id": "6b8c0d55ed8b",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-     "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-     "summary": "It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia.",
-     "published": "2026-09-19T22:03:05+00:00",
+     "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
+     "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
+     "summary": "About 3.8 million voters in Berlin and Mecklenburg-Western Pomerania are heading to polls on Sunday.",
+     "published": "2026-09-20T05:42:50+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aaefd9a-1789853082.jpg?resize=1920%2C1322",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260918__C8PX4PM__v1__HighRes__GermanyPoliticsVoteStateMecklenburgWesternPomer-1789876168.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "434963f0f47e",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "a2404865e628",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "3.8 million voters in Berlin"
+     ]
+    },
+    {
+     "title": "Jammertest: Arctic exercise to counter satellite jamming",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss",
+     "summary": "Defence and tech companies have been taking part in annual exercises in Norway.",
+     "published": "2026-09-20T05:16:08+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789881328.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "b09dd547f988",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -715,19 +805,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "bde67e703bb3",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Journalists denied White House access after Trump banned some media outlets",
-     "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-     "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-     "published": "2026-09-19T19:13:49+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg",
-     "licence": "linkout",
-     "id": "d6f846915316",
      "category": "general",
      "category_label": "General"
     }
@@ -777,91 +854,56 @@
    "upsc": false,
    "items": [
     {
-     "title": "Samrat Choudhary promises jobs to one crore women",
-     "url": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece",
-     "summary": "Addressing the gathering, Samrat Choudhary said that women in Bihar are moving forward rapidly, and their growing economic, social, and political participation reflects the State’s changing landscape",
-     "published": "2026-09-20T01:35:10+00:00",
+     "title": "West Bengal Government launches portal to foster grassroots innovation in eastern region",
+     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-launches-portal-to-foster-grassroots-innovation-in-eastern-region/article71487222.ece",
+     "summary": "The ‘Seva First Innovation Challenge-Eastern Zone’ invites solution-oriented proposals on healthcare access, agricultural losses, water shortage and waste management",
+     "published": "2026-09-20T07:13:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/11v2or/article71485936.ece/alternates/LANDSCAPE_1200/20260919223L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/csdk6i/article71487243.ece/alternates/LANDSCAPE_1200/HSkMmtnbAAAg4p1.jpg",
      "licence": "linkout",
-     "id": "a1b7dce23543",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college",
-     "url": "https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece",
-     "summary": "Union Home Minister Amit Shah skipped the September 19 programme due to ill health",
-     "published": "2026-09-19T23:22:42+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/7293z0/article71484004.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000045B.jpg",
-     "licence": "linkout",
-     "id": "9dd9da9b0f6e",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "19 programme due to ill health"
-     ]
-    },
-    {
-     "title": "In India’s capital, Delhiites reduced to documents",
-     "url": "https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece",
-     "summary": "Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials who share the reality of a process marked by confusion. As always, the burden to prove their identity is falling hardest on society’s poorer, less-documented voter",
-     "published": "2026-09-19T21:00:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/j6pd2k/article71484471.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20SIR%20DRIVE%2018.JPG",
-     "licence": "linkout",
-     "id": "882a33c5deab",
+     "id": "2e78e1c9b836",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Clamour grows in Keralam to augment coaches, introduce more MEMU trains",
-     "url": "https://www.thehindu.com/news/national/kerala/clamour-grows-in-keralam-to-augment-coaches-introduce-more-memu-trains/article71485451.ece",
-     "summary": "Passenger organisations seek measures to ease recurrent overcrowding on short-distance and inter-city express trains; rising preference for trains is linked to NH-66 widening works as well as frequent hikes in bus and fuel fares, say railway sources",
-     "published": "2026-09-19T20:24:13+00:00",
+     "title": "Keralam minister K.M. Shaji faces controversy over use of ‘loaned’ luxury car as official vehicle",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-minister-km-shaji-faces-controversy-over-use-of-loaned-luxury-car-as-official-vehicle/article71487102.ece",
+     "summary": "Photographs of K.M. Shaji posing alongside the car, which flew the national flag from a staff mounted on the vehicle’s bonnet, recently went viral on social and conventional media, drawing applause from his supporters and criticism from Communist Party of India (Marxist) [CPI(M)] leaders.",
+     "published": "2026-09-20T07:09:31+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rwct8w/article71485737.ece/alternates/LANDSCAPE_1200/IMG-20241012-WA0248.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/otquzc/article71487219.ece/alternates/LANDSCAPE_1200/KRSKM_21-11-2020_19-6-25_1_UDFCONVENTION2.JPG",
      "licence": "linkout",
-     "id": "f40c0faddbf5",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "66 widening works as well"
-     ]
+     "id": "14fdd1e80212",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "The digital recruiter | Shahzad Bhatti",
-     "url": "https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece",
-     "summary": "The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group",
-     "published": "2026-09-19T20:04:27+00:00",
+     "title": "‘Gem Granite’ Veeramani — a stone cold perpetrator",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/a-stone-coldperpetrator-gem-granite-veeramani/article71485725.ece",
+     "summary": "‘Gem Granite’ Veeramani, an influential industrialist now finds himself at the centre of a widening investigation under the POCSO Act into the allegations of paedophilia. While he was under investigation from last year, a fresh probe, ordered by the court, led the police to recover additional digital evidence and identify multiple victims. This report examines what has been labelled the ‘Epstein case of Tamil Nadu’, only to discover that while the scale of operations was nowhere near that of the American offender, a subterranean network of sexual abusers and their enablers did operate for years",
+     "published": "2026-09-20T07:08:09+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/cjkqv9/article71485788.ece/alternates/LANDSCAPE_1200/Shahzad_Bhatti.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/ue0pj7/article71487301.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-20%20at%2012.37.15.jpeg",
      "licence": "linkout",
-     "id": "9cd51e594144",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "figures": [
-      "14 States , leading the Home"
-     ]
+     "id": "24cb10d21bcf",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
     },
     {
-     "title": "School Assembly News Today, September 19, 2026: Top Headlines, Thought, Word & History",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdldsY0RLTmlpM2RXSVVWMk1nZ25tS3BNRW1ZSDVmT29SWUtzdE1FV0Q5LWZad0VUYmo5TFJPRHhJcE1TcG5QSG1LSVdTWmpQV1JSV19Vb3dIelRmRXJSb1lOQ3F1b2YxV2I5T1puRWRsV1JGZDM5QUo5aktScy1DNU15dVhDeFc1cWQ4N3RYU2I0c0pLblN0OEdycENkZ253TGxHU1JsSnVOTjZVQWlrTlBXaUFSZENTSS1LZFdxMG1NaVh2S2EzYzdvemPSAcwBQVVfeXFMTnZXbGNES05paTNkV0lVVjJNZ2dubUtwTUVtWUg1Zk9vUllLc3RNRVdEOS1mWndFVGJqOUxST0R4SXBNU3BuUEhtS0lXU1pqUFdSUldfVW93SHpUZkVyUm9ZTkNxdW9mMVdiOU9abkVkbFdSRmQzOUFKOWpLUnMtQzVNeXVYQ3hXNXFkODd0WFNiNHNKS25TdDhHcnBDZGdud0xsR1NSbEp1Tk42VUFpa05QV2lBUmRDU0ktS2RXcTBtTWlYdkthM2M3b3pj?oc=5",
-     "summary": "School Assembly News Today, September 19, 2026: Top Headlines, Thought, Word & History EdexLive",
-     "published": "2026-09-19T04:32:53+00:00",
-     "source": "EdexLive",
+     "title": "You searched for \" northernindiaconnectivity \"",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4VHNnbHZ1M05XWmlKRkl4ekFOOFNMZUx4cTRwanJUU1kxTmgyOWlIblJpb0tQdFVRX1VwbWk5cXZISFM3UWZ6VS1SZ2JkampNNjZIY0trb1FYNGRDdTE3MGpZcWtxeEFUY1hjYmdSLUJ5MjE2dTY1ag?oc=5",
+     "summary": "You searched for \" northernindiaconnectivity \" tribuneindia.com",
+     "published": "2026-09-19T22:26:12+00:00",
+     "source": "tribuneindia.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "8e48df5354e9",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "b1fc8f2e1f20",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1019,6 +1061,262 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "From the streets to the ballot box: What Hungary can teach Serbia",
+     "url": "https://globalvoices.org/2026/09/20/from-the-streets-to-the-ballot-box-what-hungary-can-teach-serbia/",
+     "summary": "The challenge is not simply whether an entrenched authoritarian government can be defeated, but whether almost two years of a student-led mobilisation can be translated into electoral power.",
+     "published": "2026-09-20T06:35:09+00:00",
+     "source": "Global Voices",
+     "byline": "Istinomer",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/09/Magyar_Peter_beszede_az_Orszaggyules_megalakulasa_alkalmabol_2-800x450.jpg",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "Orbán’s machine seemed invincible — until a grassroots movement cracked the psychological trap of fear"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "Péter Magyar's speech at the convening of the National Assembly in Budapest, Hungary, on May 9, 2026. Photo by Elekes Andor via Wikimedia Commons (CC BY 4.0)."
+      },
+      {
+       "kind": "p",
+       "text": "This article by Tjaša Feher was first published in Serbian on Istinomer.rs on September 2, 2026. An edited version is republished here under a content-sharing agreement between Global Voices and the Center for Research, Transparency and Accountability (CRTA)."
+      },
+      {
+       "kind": "p",
+       "text": "As Serbia gears up for what many already describe as a historic election scheduled for October 18, the challenge is not simply whether an entrenched government can be defeated, but whether almost two years of student-led mobilisation can translate into electoral power."
+      },
+      {
+       "kind": "p",
+       "text": "The political crisis that followed the November 2024 Novi Sad railway station canopy collapse has produced something Serbia has not seen for years: sustained civic mobilisation, new networks of trust and participation by large numbers of people outside conventional opposition structures."
+      },
+      {
+       "kind": "p",
+       "text": "But moving from the streets to the ballot box changes the nature of the challenge. Elections require organisation, reach, data, local infrastructure, election-day capacity and the ability to persuade people who have never attended a protest. Serbia’s ruling party will enter such a contest with a formidable organisational and media advantage, while concerns about institutional pressure, electoral integrity and the use of state resources remain central to the political environment."
+      },
+      {
+       "kind": "p",
+       "text": "In this context, it is worth looking north, to Hungary."
+      },
+      {
+       "kind": "p",
+       "text": "In April 2026, Péter Magyar’s Tisza Party managed to defeat Viktor Orbán’s Fidesz after 16 years in power. Hungary and Serbia are, of course, different historically, institutionally and politically, and the Hungarian experience should not be treated as a blueprint. But there are parallels: state capture and an entrenched governing party, an unequal media environment, extensive advantages of incumbency including the use of state resources for political campaigns, a fragmented and weakened traditional opposition and a new political force trying to turn widespread dissatisfaction into an electoral majority."
+      },
+      {
+       "kind": "p",
+       "text": "What is particularly interesting about Hungary is therefore not simply that Orbán lost. It is how a relatively new political movement managed to build the organisation required to compete with a political machine that had spent years making itself extraordinarily difficult to defeat."
+      },
+      {
+       "kind": "p",
+       "text": "The Hungarian experience is ultimately a story about the transition from anger to participation, from participation to organisation, and from organisation to electoral power."
+      },
+      {
+       "kind": "h",
+       "text": "Making change believable"
+      },
+      {
+       "kind": "p",
+       "text": "Perhaps Tisza’s first achievement was psychological. Hungarian opposition parties had spent years campaigning against Orbán, exposing corruption and coordinating candidates, but many citizens had stopped believing they could actually win. Tisza gradually changed that perception."
+      },
+      {
+       "kind": "p",
+       "text": "It became the obvious political destination for people who wanted change. As its polling improved and its local organisation expanded, more volunteers joined, more people donated, more voters paid attention and the movement became more visible. That growth, in turn, made Tisza look increasingly capable of governing. Many post-election analyses identify this interaction between leadership, organisation, message and mobilisation as one of the central explanations for the breakthrough."
+      },
+      {
+       "kind": "p",
+       "text": "Tisza did not simply convince people that Orbán should leave. It convinced enough of them that he could be defeated. That distinction matters in political systems where one party has governed for so long that its continued rule begins to feel inevitable."
+      },
+      {
+       "kind": "p",
+       "text": "For Serbia, where a generation has grown up knowing only governments dominated by Aleksandar Vučić and SNS, that psychological shift may be just as important as any individual campaign technique."
+      },
+      {
+       "kind": "p",
+       "text": "Péter Magyar's speech at the convening of the National Assembly in Budapest, Hungary, on May 9, 2026. Photo by Elekes Andor via Wikimedia Commons (CC BY, 4.0)."
+      },
+      {
+       "kind": "h",
+       "text": "Reaching and preaching to the other side"
+      },
+      {
+       "kind": "p",
+       "text": "The Tisza campaign also understood that defeating Fidesz required more than mobilising people who already disliked Orbán. Tisza needed former Fidesz voters, non-voters and people who had become alienated from both the government and the traditional opposition."
+      },
+      {
+       "kind": "p",
+       "text": "The campaign therefore avoided defining itself primarily through the old left-right divide. Magyar used national symbols and spoke about Hungary, dignity, sovereignty, public services and national renewal. He travelled extensively through conservative areas and smaller communities rather than focusing primarily on Budapest and other opposition strongholds."
+      },
+      {
+       "kind": "p",
+       "text": "His own background helped. As someone who came from the Fidesz ecosystem, Magyar could offer dissatisfied government voters a political exit without asking them to renounce everything they had previously believed. The message was effectively that they did not need to become traditional opposition voters in order to conclude that the system had gone too far."
+      },
+      {
+       "kind": "p",
+       "text": "For Serbia, this is an important lesson. An electoral coalition capable of defeating a dominant governing party cannot consist only of students and existing opposition voters. It also has to reach politically disengaged citizens, people who distrust the traditional opposition and disappointed government voters. The Hungarian experience suggests that defeating an entrenched government requires breaking into its electorate rather than simply maximising turnout among its existing opponents."
+      },
+      {
+       "kind": "h",
+       "text": "Turning a movement into an organisation"
+      },
+      {
+       "kind": "p",
+       "text": "The second major breakthrough was organisational. Tisza did not remain a movement centred on Magyar, large rallies and social-media attention. It built infrastructure around the enthusiasm that had emerged."
+      },
+      {
+       "kind": "p",
+       "text": "At the centre were the Tisza Szigetek, or Tisza Islands: locally organised groups spread across Hungary. By the campaign, the network included thousands of local communities and tens of thousands of participants, many of whom had never previously been active in party politics."
+      },
+      {
+       "kind": "p",
+       "text": "When campaign manager Péter Tóth took over in early 2025, he described enormous civic energy already existing inside these groups. His task was not to manufacture enthusiasm but to organise it: identifying capable local organisers, reducing duplication, filling geographic gaps and directing thousands of volunteers toward common objectives."
+      },
+      {
+       "kind": "p",
+       "text": "Tóth estimated that an effective nationwide election operation required roughly three strong activists for every polling district, or around 30,000 people nationally. That calculation illustrates how concrete the organising became. The objective was no longer to simply attract supporters. It was to develop enough local capacity to cover the country."
+      },
+      {
+       "kind": "p",
+       "text": "This is particularly relevant to Serbia because the student movement already possesses something political campaigns normally struggle to create: motivated people, local networks and a degree of social trust. The challenge is to convert support into responsibility. A person who sympathises with a movement is politically useful; a person who knows that they are responsible for organising a particular neighbourhood, village, polling station or group of volunteers is organisationally powerful."
+      },
+      {
+       "kind": "h",
+       "text": "Local organisation mattered"
+      },
+      {
+       "kind": "p",
+       "text": "Tisza’s approach deliberately lowered the barrier to local organising. Rather than beginning with formal party branches, small groups of citizens could organise locally and gradually become part of the broader network."
+      },
+      {
+       "kind": "p",
+       "text": "This allowed political organisation to grow in places where the opposition had traditionally been weak. A handful of active people could organise a meeting or street stall, recruit others, support a visit by Magyar and gradually establish a permanent local presence."
+      },
+      {
+       "kind": "p",
+       "text": "Importantly, Tisza did not treat rural Hungary as territory that simply belonged to Fidesz. The campaign invested heavily in villages and small towns and tried to build local capacity rather than continually importing activists from Budapest or other opposition strongholds."
+      },
+      {
+       "kind": "p",
+       "text": "That approach was reinforced by Magyar’s extensive országjárás, or country tours. These were not simply rallies. Local groups prepared visits, mobilised participants and recruited supporters around them. A national event therefore strengthened the local organisation rather than disappearing once Magyar left."
+      },
+      {
+       "kind": "p",
+       "text": "Tóth later explained that through Magyar’s tours, events, newspapers and other field activity, Tisza reached every Hungarian settlement repeatedly during 2025. He attributed a significant part of the party’s improved rural performance to this persistent presence."
+      },
+      {
+       "kind": "p",
+       "text": "The underlying principle was simple: a campaign visit should leave organisation behind."
+      },
+      {
+       "kind": "h",
+       "text": "Face-to-face contact as an alternative media system"
+      },
+      {
+       "kind": "p",
+       "text": "This field strategy also helped Tisza respond to Fidesz’s enormous media advantage. Rather than assuming that it could match the government’s television presence, advertising resources and broader communications infrastructure, Tisza invested heavily in direct contact."
+      },
+      {
+       "kind": "p",
+       "text": "A volunteer speaking to a neighbour, a street stall in a small town, a local meeting or a trusted person explaining why they had changed their political mind all became communications channels. Digital media amplified these interactions, but did not replace them."
+      },
+      {
+       "kind": "p",
+       "text": "This is an important lesson from Hungary. When access to mass media is deeply unequal, the answer is not necessarily to try to reproduce the incumbent’s media machine on a smaller budget. A challenger can build a parallel communications infrastructure based on people and trusted relationships."
+      },
+      {
+       "kind": "h",
+       "text": "Giving volunteers meaningful roles"
+      },
+      {
+       "kind": "p",
+       "text": "The campaign also treated volunteers as an organisational resource rather than simply an audience."
+      },
+      {
+       "kind": "p",
+       "text": "People were given concrete tasks: running street stalls, distributing material, canvassing, organising meetings, collecting contacts, recruiting other volunteers, helping with Magyar’s visits, supporting constituency candidates and eventually protecting polling stations."
+      },
+      {
+       "kind": "p",
+       "text": "This mattered because participation created its own leadership pipeline. Local networks revealed who consistently showed up, who could organise others, who was trusted locally and who could take responsibility without constant supervision. Some of those people could then take on larger roles."
+      },
+      {
+       "kind": "p",
+       "text": "That offers an interesting lesson for movements suspicious of traditional party hierarchies. Leadership does not necessarily have to be determined entirely from the top. Organisation itself can reveal leaders by showing who is capable of doing the work. For a student movement wary of reproducing traditional party hierarchies, this may be particularly interesting."
+      },
+      {
+       "kind": "h",
+       "text": "Data and professionalisation"
+      },
+      {
+       "kind": "p",
+       "text": "As Tisza grew, enthusiasm alone was no longer sufficient. Tóth was explicit after the election that modern campaigning ultimately requires both people and data."
+      },
+      {
+       "kind": "p",
+       "text": "A large demonstration tells a movement that many people support it. An electoral organisation needs to know who those people are, where they live, whether they are willing to volunteer and whether somebody should contact them again. According to Tóth, constituency candidates were encouraged to build databases containing roughly 15,000 contacts."
+      },
+      {
+       "kind": "p",
+       "text": "Tisza consequently developed professional teams dealing with data, events, operations and communications around its grassroots network. This was an important transition. The movement professionalised, but the professionals were there to increase the effectiveness of the civic network rather than replace it."
+      },
+      {
+       "kind": "p",
+       "text": "The distinction is potentially important for Serbia. A student-led movement may need professional campaign skills, legal expertise, data systems and logistics without necessarily adopting the organisational culture of the traditional parties it has sought to remain independent from."
+      },
+      {
+       "kind": "h",
+       "text": "Technology supported organisation rather than replacing it"
+      },
+      {
+       "kind": "p",
+       "text": "Tisza eventually developed its own digital organising platform, TISZA Világ, connecting supporters with local groups, activities and volunteer opportunities. It also used tasks, points and badges to encourage participation."
+      },
+      {
+       "kind": "p",
+       "text": "But the chronology is important. Tisza did not build an app and then try to create a movement around it. Local communities and volunteer networks came first. Digital infrastructure was introduced once participation had become too large to coordinate informally."
+      },
+      {
+       "kind": "p",
+       "text": "The relevant lesson is therefore less about which app to use and more about what technology should accomplish. The objective is to make it easy for someone who expresses interest to take the next step: join a local community, attend something, volunteer, and eventually assume responsibility. Technology works when it reduces the distance between online sympathy and offline participation."
+      },
+      {
+       "kind": "h",
+       "text": "Communicating differently"
+      },
+      {
+       "kind": "p",
+       "text": "Tisza’s communication strategy also benefited from its supporters’ energy. Magyar frequently generated very high engagement while producing less content than the Fidesz communications machine. Supporters themselves became distributors, allowing the campaign to achieve reach that could not be purchased through traditional media alone."
+      },
+      {
+       "kind": "p",
+       "text": "At the same time, Tisza tried not to reproduce every aspect of the political culture it was attacking. Tóth said after the election that the campaign had received compromising material involving political opponents and their families but deliberately refused to use it. His argument was that political change should also mean a different political morality."
+      },
+      {
+       "kind": "p",
+       "text": "This became symbolically visible after the election when a Budapest advertising wall known for years of fear-based government campaigns was replaced by flowers and the phrase “It can also be beautiful.” The image captured a wider exhaustion with permanent political mobilisation through fear, enemies and hatred."
+      },
+      {
+       "kind": "p",
+       "text": "For civic movements, this matters because credibility is a scarce political resource. A movement that presents itself as a break with existing political practices can quickly undermine that advantage if it begins behaving exactly like the actors it criticises."
+      },
+      {
+       "kind": "h",
+       "text": "Connecting corruption to everyday life"
+      },
+      {
+       "kind": "p",
+       "text": "Tisza also succeeded in translating complicated questions about democratic decline into experiences people could recognise."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "98d10e414a2a",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "How journalism inspired a youth-led initiative against online harm in Armenia",
@@ -1505,76 +1803,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "The points you do not own",
-     "url": "https://www.livemint.com/money/personal-finance/the-points-you-do-not-own-11789724565864.html",
-     "summary": "A credit card holders’ revolt shows where our financial attention goes—and where it should be going.",
-     "published": "2026-09-20T01:30:34+00:00",
-     "source": "Mint",
+     "title": "Not all AI workers think the tech could kill everyone",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+     "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+     "published": "2026-09-19T23:01:57+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/18/600x338/1e2ea10d-7109-4d31-8d7b-cd8254829f77_1789713570576_1789728148164_2d7n_1789728148287_UYm6_17de404e-1dc8-4f14-a69f-89e035ab0250_xwPZ.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg",
      "licence": "linkout",
-     "id": "e13c9503e77d",
-     "category": "general",
-     "category_label": "General"
+     "id": "5f141d947133",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
-     "title": "Price range, ready-to-move or under construction, 1, 2, or 3BHK — Check here for what homebuyers prefer",
-     "url": "https://www.livemint.com/money/personal-finance/homebuyers-prefer-house-price-50-lakh-1-5-crore-2-3-bhk-ready-to-move-near-complete-construct-affordable-colliers-report-11789837182920.html",
-     "summary": "The residential sector in India is supported by strong demand and lifestyle aspirations. A Colliers report indicates resilient housing sales, driven by long-term homeownership and selective purchasing amid affordability concerns.",
-     "published": "2026-09-19T18:42:29+00:00",
-     "source": "Mint",
+     "title": "Google's Gemini AI hacked three companies in security test",
+     "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+     "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+     "published": "2026-09-19T13:39:32+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/19/600x338/Housing_Colliers_1789843111180_tqkb_1789843120626_ZCT9_faf04f84-f761-4352-9f12-ccc056a6fa3e_EnTX.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
      "licence": "linkout",
-     "id": "4a20cdf7bbf0",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "9eee1724b36d",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
-     "title": "E-commerce platforms Eternal's Zomato, Blinkit, Meesho's Valmo facilitate ITR refunds for delivery partners—What we know",
-     "url": "https://www.livemint.com/money/personal-finance/e-commerce-platforms-eternal-zomato-blinkit-meesho-valmo-facilitate-itr-refunds-delivery-partners-first-time-tax-filers-11789836630916.html",
-     "summary": "Eternal's Zomato and Blinkit, and Meesho's Valmo have facilitated ITR for over 2 lakh delivery partners, unlocking ₹35.6 crore combined in refunds. Over 70% of filers were first timers, the companies added.",
-     "published": "2026-09-19T18:06:54+00:00",
-     "source": "Mint",
+     "title": "Families missing out on NHS money for healthy food",
+     "url": "https://www.bbc.co.uk/news/articles/cme30e8zyvjno?at_medium=RSS&at_campaign=rss",
+     "summary": "Figures show as few as 64% of eligible families are claiming NHS money to buy milk, fruit and veg.",
+     "published": "2026-09-20T06:12:13+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/19/600x338/ITR_1785327729090_1785327742091_5e840704-9bf5-4cd7-b4d3-0ca2dfda18fa_1789841167151_Wp8M_02f389fd-ecee-4110-a2d0-71121a12f566_hzLC.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/071c/live/c3aad4e0-b295-11f1-9b18-ad61bef6e34f.jpg",
      "licence": "linkout",
-     "id": "5e0b78de259d",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "2 lakh delivery partners, unlocking ₹35",
-      "₹35.6 crore combined in refunds"
-     ]
-    },
-    {
-     "title": "Unlimited health insurance explained: Exclusions, waiting periods - 5 things you must check before buying a policy",
-     "url": "https://www.livemint.com/money/personal-finance/unlimited-health-insurance-explained-exclusions-waiting-periods-5-things-you-must-check-before-buying-a-policy-11789834869250.html",
-     "summary": "The actual protection available depends on the terms and conditions of the policy, including its coverage, exclusions, waiting periods, deductibles, co-payments and sub-limits",
-     "published": "2026-09-19T17:28:36+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/health_insurance_1789838809351_uCa8_1789838809513_9d6h_b4a10919-911a-4e33-9aa8-bb01218e5009_4yQG.png",
-     "licence": "linkout",
-     "id": "514e6f221361",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "5 things you must check"
-     ]
-    },
-    {
-     "title": "No more currency conversion, gaming platform Roblox to launch wallet to pay creators — What we know",
-     "url": "https://www.livemint.com/money/personal-finance/roblox-wallet-digital-payment-adult-creators-teen-gaming-platform-no-currency-conversion-robux-us-dollars-airwallex-card-11789494793806.html",
-     "summary": "Gaming platform Roblox is set to launch its own digital wallet to pay creators and facilitate easier and quicker payment, compared to the present requirement where virtual currency Robux is converted into dollars, which leads to long payment delays.&nbsp;",
-     "published": "2026-09-19T16:48:12+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/19/600x338/ROBLOX-CORP-STOCKS--0_1789836133473_yKJB_1789836157769_Biah_494ce595-a3d8-4d4e-8589-a220281bc5ba_AlxK.JPG",
-     "licence": "linkout",
-     "id": "baca2b9991b9",
-     "category": "general",
-     "category_label": "General"
+     "id": "936dab664edc",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
     }
    ]
   },
@@ -1611,17 +1876,43 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "In The Age Of Artificial Intelligence, You Need Decision Intelligence: Jogendra Singh Of Hero Enterprises Bats For DI At Retire Smart, Ludhiana",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV1Y4Y3BzQk1MSzR2d0pVQ0pqSzhvOTctWDhObzU4ZzlOT1pNTEM3WHNIOUpMN0xHZ2ZRZ0I3S2dqeXBNXzJ4VV9EY0stNERfbXd4N19RazVlUG9aZU05LTlhUnFqN1RnSXBfc0p5Z09JMGV0am1wMzJQQ0dQTjdFaXJaaXNFQVBWX2NzOUgxdTBuUDR4LXVtUUoybkY4T0J4WTJzbVdBeGFSc1NSV0tUWUJhVzJuRUhxR3h3REhQNGh2MFB1Y2J1R3BSUkFmOVJ5UmZuMElXRG5zZFdJX1ZSNDFoU1kzMXZqWDRwRmE5dzZwOXF0UVh6Q05NVURweEpSQ0syNDg0SElqNnBa0gGaAkFVX3lxTE41NE9PQnZ6clNOU3FxZnEwNWczZ1RKN0NzdFhTalRlRGlYcjhuX3RrQ05naHM0S2V5TGYtZnh2Q0xNaU94RXh4eEpyR0R2X3NpdXZjS0FiSXhReFFSYUplaWxLVFljTURTUl9XaC01QVp2Mzh3UERPdmNKWXlVc3hXTlFRN3NqM2VKSk5LUkhOeHo2MnlkZHZkRTlMT3lvR1pROE15ZWlma01hUlBDZ084ZF8xS2FuWXpOZVB5c1VrSmNBVXhzYm9qTzFxVUtqYVQ1SUVGaDdTaVMxWDZHMExIUDVEd1FCbG5tM0dkSnVNQ1FlRTljTkZQc0ZwTFU5TEp3bTdodFRzeTU2TEt3TWlqel8wem1MLTlTQQ?oc=5",
+     "summary": "In The Age Of Artificial Intelligence, You Need Decision Intelligence: Jogendra Singh Of Hero Enterprises Bats For DI At Retire Smart, Ludhiana Outlook Money",
+     "published": "2026-09-20T06:02:06+00:00",
+     "source": "Outlook Money",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "3a91464fecb0",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSENEUXI1b25uRmY4US1ZeGlnM0RlVFRtOFhfVFZocXRJa2U2d1Z1eUJ1TzdEblFQSmkwTmxEYnFtZG1fVlBDdnNmTjhrLUlqb1RVdzdmQXIwZW16Rk43d1B1V2IxaUtNeU00WHpSOHJFNVY3VzZvUEtPSWNHVExPMXYyQWVKM0lZRDAxYS10TGEzLU1vLVUtQ21ReEg4bjhaczcwRmNyR3VvRi1hd29Mc2JUblZxOFF4QXZfM1FHR0kxdnA1?oc=5",
-     "summary": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’ theguardian.com",
+     "summary": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’ The Guardian",
      "published": "2026-09-19T20:02:00+00:00",
-     "source": "theguardian.com",
+     "source": "The Guardian",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "a77efb2eb697",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Trump opens poll proposing renaming artificial intelligence",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODM0cnZYWmhUV3ZURkZYNWpER3dfT3ZTRy0tMEZ0Q096dlBvQklGMjNjdDFobWs1N1VZRHpyNWU2S3lBeDI5YjJ0ZWJKR0RBckYtT3dCcUNMV1dvbnBHMkI1QzVrVVByaDlrZTdfb25SNWRqS1YyQkVoZ2Y0eVJad19RWERRV0hrSm1rOW5rdnJnREcxb043d3hqbERveU9YazZv?oc=5",
+     "summary": "Trump opens poll proposing renaming artificial intelligence Anadolu Ajansı",
+     "published": "2026-09-19T16:39:05+00:00",
+     "source": "Anadolu Ajansı",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "25de6fbbafae",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Anthropic, OpenAI, Google, SpaceXAI face lawsuit over 'AI slowdown pact'",
@@ -1635,19 +1926,6 @@
      "id": "6be5372fd1b8",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWd3S1lrV0JMc3hBcXpOSXdFSjU2QzhRYkdkQ01uTEpWdTRRYlZaZFNGdzRtNFNkUWZ5UHFHYUM5TW4tb3JPMGM1aFE3N0F6RVNTUncxeUh0bWtsLVRmUWtqeXIzQV9zYmR5Q0E5UEItQm5XSUM2WFdScjlMbHdSSDYyMjM5NFZQQl9HaTRSc0cxbDNlSWFldA?oc=5",
-     "summary": "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033 The Motley Fool",
-     "published": "2026-09-19T17:45:00+00:00",
-     "source": "The Motley Fool",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "60754fedeaac",
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
@@ -1658,60 +1936,81 @@
    "upsc": false,
    "items": [
     {
-     "title": "\"Don't Think Vaibhav Sooryavanshi Has Got The Technique\": Ex-England Star's Huge Test Claim",
-     "url": "https://sports.ndtv.com/cricket/dont-think-vaibhav-sooryavanshi-has-got-the-technique-ex-england-stars-huge-test-claim-12068833#publisher=newsstand",
-     "summary": "Vaibhav Sooryavanshi has played 6 T20Is for India but he is yet to make his Test debut.",
-     "published": "2026-09-20T01:42:52+00:00",
+     "title": "India vs Bangladesh LIVE Score, Asian Games Cricket Semi-Final: India Star Takes Blinder, 2-Down Bangladesh In Deep Trouble",
+     "url": "https://sports.ndtv.com/cricket/india-vs-bangladesh-live-score-asian-games-2026-womens-semi-final-ind-vs-ban-scorecard-live-updates-shafali-verma-smriti-mandhana-harmanpreet-kaur-12070123#publisher=newsstand",
+     "summary": "India vs Bangladesh LIVE Score, Asian Games 2026 Women's Cricket Semi-Final Scorecard LIVE Updates: Dilara Akter and Juairiya Ferdous have opened the innings for Bangladesh in the chase of 196 against India.",
+     "published": "2026-09-20T06:57:38+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/buvacigo_vaibhav-sooryavanshi-x_625x300_31_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/lop67r2c_india-women_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b2ee993a70a4",
-     "category": "general",
-     "category_label": "General"
+     "id": "1f7894b8aacd",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "196 against India"
+     ]
     },
     {
-     "title": "Asian Games 2026 LIVE Updates, Day 1: Heartbreak For India In Teqball, Shooting Final Underway",
-     "url": "https://sports.ndtv.com/othersports/asian-games-2026-day-1-live-score-updates-aichi-nagoya-quimcy-dsouza-elavenil-valarivan-12070029#publisher=newsstand",
-     "summary": "Asian Games 2026 LIVE Score Updates, Day 1: India begin an action-packed day at the continental tournament, with multiple medal events set to take place.",
-     "published": "2026-09-20T01:39:22+00:00",
+     "title": "India vs Indonesia Hockey LIVE Score, Asian Games 2026: India Smash 4 Goals In 4 Minutes, Run Riot To Take 7-0 Lead | IND 7-0 INA",
+     "url": "https://sports.ndtv.com/hockey/india-vs-indonesia-hockey-live-score-asian-games-2026-aichi-nagoya-mens-hockey-ind-vs-ina-live-updates-harmanpreet-singh-12071218#publisher=newsstand",
+     "summary": "India vs Indonesia Hockey LIVE Score, Asian Games 2026: India are leading 7-0 against Indonesia at half-time in their opening men's hockey match of the Asian Games.",
+     "published": "2026-09-20T06:52:32+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/2fmotpgk_quimcy-dsouza-india-women-cricket-team-x_625x300_19_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-08/uudrr7q4_india-hockey_625x300_17_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "808b5920c45e",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "4 Goals In 4 Minutes, Run",
+      "4 Minutes , Run Riot",
+      "0 Lead | IND 7-0 INA",
+      "0 against Indonesia at half-time"
+     ]
+    },
+    {
+     "title": "Asian Games 2026 LIVE Updates, Day 1: India Clinch Another Shooting Silver, Medal Tally Rises To Two",
+     "url": "https://sports.ndtv.com/othersports/asian-games-2026-day-1-live-score-updates-aichi-nagoya-quimcy-dsouza-elavenil-valarivan-12070029#publisher=newsstand",
+     "summary": "Asian Games 2026 LIVE Score Updates, Day 1: India opened Asian Games 2026 medal tally with a silver medal in Women's 10m Air Rifle final.",
+     "published": "2026-09-20T06:19:11+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/54981krk_elavanil-getty_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
      "id": "b1ebdd6fddfb",
      "category": "sports",
      "category_label": "Sports"
     },
     {
-     "title": "Stefon Diggs’ New Chapter Takes A Costly Turn As Washington Commanders Star Faces $14,926 Fine",
-     "url": "https://sports.ndtv.com/us-nfl/stefon-diggs-new-chapter-takes-a-costly-turn-as-washington-commanders-star-faces-14-926-fine-12070623#publisher=newsstand",
-     "summary": "Stefon Diggs’ Washington Commanders debut took an unexpected turn after a costly celebration against the Philadelphia Eagles resulted in a $14,926 NFL fine.",
-     "published": "2026-09-20T01:36:08+00:00",
+     "title": "Smriti Mandhana Makes History, Breaks World Record for Most Runs in Women's T20Is",
+     "url": "https://sports.ndtv.com/cricket/smriti-mandhana-makes-history-breaks-world-record-for-most-runs-in-womens-t20is-12071170#publisher=newsstand",
+     "summary": "Smriti Mandhana became the top run-scorer in Women's T20 Internationals with 4765 runs, surpassing New Zealand's Suzie Bates during the Asian Games semifinal against Bangladesh.",
+     "published": "2026-09-20T05:25:10+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/9rqqp7q8_stefon-diggs_625x300_20_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/c9640c5c_smriti-mandhana-afp_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "31c691f72beb",
+     "id": "c97de1cb5262",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "$14,926  Fine",
-      "$14,926  NFL fine"
+      "4765 runs , surpassing New Zealand's"
      ]
     },
     {
-     "title": "Cooper Flagg, Kyrie Irving and Dallas Mavericks’ Beach Yoga Session Highlights Offseason Preparation",
-     "url": "https://sports.ndtv.com/us-nba/cooper-flagg-kyrie-irving-and-dallas-mavericks-beach-yoga-session-highlights-offseason-preparation-12070454#publisher=newsstand",
-     "summary": "Cooper Flagg and Kyrie Irving joined their Mavericks teammates for a beach yoga session as Dallas prepares for the 2026-27 NBA season.",
-     "published": "2026-09-20T01:05:40+00:00",
+     "title": "\"Gave My Best, Really Happy\": Shooter Vidarsa Vinod After India Secure Women's Team Silver",
+     "url": "https://sports.ndtv.com/shooting/gave-my-best-really-happy-shooter-vidarsa-vinod-after-india-secure-womens-team-silver-12071012#publisher=newsstand",
+     "summary": "India secured the silver medal in the women's 10m air rifle team event at the Aichi-Nagoya Asian Games, with Elavenil Valarivan, Sonam Maskar and Vidarsa Vinod combining to deliver the country's first medal of the Games.",
+     "published": "2026-09-20T05:14:33+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/g3q5tmog_kyrie-irving-appears-to-take-a-shot-at-lebron-james_625x300_17_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/a9iovbts_vidarsa-vinod_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "00c61320fbc9",
-     "category": "general",
-     "category_label": "General"
+     "id": "ae94345d6524",
+     "category": "sports",
+     "category_label": "Sports"
     }
    ]
   },
@@ -1725,7 +2024,7 @@
      "title": "Matthew Rhys' sister 'so proud of him' after historic Emmy wins",
      "url": "https://www.bbc.co.uk/news/articles/c61wx47n0408o?at_medium=RSS&at_campaign=rss",
      "summary": "Rhys, from Cardiff, became the first person to win two lead acting Emmy prizes in one night.",
-     "published": "2026-09-19T20:34:46+00:00",
+     "published": "2026-09-20T06:12:37+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be1/live/91eccaa0-b464-11f1-a184-cb4c2456e9a6.jpg",
