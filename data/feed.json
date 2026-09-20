@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T19:08:25.247868+00:00",
+ "generated_at": "2026-09-20T21:40:26.578692+00:00",
  "podcasts_fetched_at": "2026-09-20T01:56:46.772337+00:00",
  "markets": [
   {
@@ -76,23 +76,22 @@
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 77255.0,
-   "change": -908.0,
-   "changePct": -1.16,
-   "decimals": 0,
-   "stale": true
+   "value": 80864.0,
+   "change": 4714.0,
+   "changePct": 6.19,
+   "decimals": 0
   }
  ],
  "topics": [
-  "CCTVs Arrests",
-  "Years Rajasthan",
+  "Eighteen Haitian",
+  "Human Kozhikode",
   "Jazeera English",
   "News",
   "Bangladesh World",
-  "Dengue Tamil",
-  "Nilambur",
-  "Saudi Arabia",
-  "Fulham Carrick",
+  "INLD Sampat",
+  "Stop Vizag",
+  "Qatar Gulf",
+  "Argentina Left",
   "Global Hotline"
  ],
  "sections": [
@@ -102,6 +101,34 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+     "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+     "summary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
+     "published": "2026-09-20T20:31:15+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab02ebac4bef-1789931194.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "297a18495d7c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Human skull recovered from waste heap in Kozhikode",
+     "url": "https://www.thehindu.com/news/national/kerala/human-skull-recovered-from-waste-heap-in-kozhikode/article71487663.ece",
+     "summary": "The skull is believed to be that of a person who died one to two years ago. Forensic and DNA tests will be done to establish the identity of the deceased, say police",
+     "published": "2026-09-20T19:11:10+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "57ff1f42d156",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National Hotlines"
+    },
     {
      "title": "'25,000 CCTVs, 0 Arrests': Faridabad Man Seeks Answers After Father's Death",
      "url": "https://www.ndtv.com/india-news/25-000-cctvs-0-arrests-faridabad-man-seeks-answers-after-fathers-death-12073541#publisher=newsstand",
@@ -121,33 +148,15 @@
      ]
     },
     {
-     "title": "On The Run For 24 Years, Rajasthan Man Arrested From Gujarat For Murder",
-     "url": "https://www.ndtv.com/india-news/on-the-run-for-24-years-rajasthan-man-arrested-from-gujarat-for-murder-12073499#publisher=newsstand",
-     "summary": "To evade law enforcement, Desai spent 24 years continuously shifting locations, concealing his identity, and working daily-wage labour jobs to stay under the radar.",
-     "published": "2026-09-20T18:11:25+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "6071555db7e1",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News",
-     "figures": [
-      "24 Years , Rajasthan Man Arrested",
-      "24 years continuously shifting locations, conceali"
-     ]
-    },
-    {
-     "title": "Gaza artists honour Macklemore for supporting Palestine",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
-     "summary": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.",
-     "published": "2026-09-20T17:59:10+00:00",
+     "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+     "url": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+     "summary": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy.",
+     "published": "2026-09-20T20:13:18+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-gaza-macklemore-1789927099.png?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2258978956-1-1787810131.jpg?resize=1920%2C1389",
      "licence": "linkout",
-     "id": "75db55485b28",
+     "id": "dcec2bb92b44",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -206,32 +215,32 @@
      "from_section": "Technology"
     },
     {
-     "title": "Analysis: Fewer Fires, Same Fog: Punjab's Stubble Politics Before 2027 Polls",
-     "url": "https://www.ndtv.com/india-news/analysis-fewer-fires-same-fog-punjabs-stubble-politics-before-2027-polls-12073585#publisher=newsstand",
-     "summary": "Months before Punjab votes for a neew government in 2027, the same arrangements will be in place. The farmers will not stop setting their fields ablaze but this year, it is likely that the administration will not challan them as this is an election year.",
-     "published": "2026-09-20T18:51:15+00:00",
-     "source": "NDTV",
+     "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+     "summary": "Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.",
+     "published": "2026-09-20T20:58:01+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2025-11/tqa21v2k_stubble-burning_625x300_10_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789937839.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "f4f34b1a9dc4",
+     "id": "b34d931a54e3",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "Global News"
     },
     {
-     "title": "Madurantakam bypolls: PMK’s abstention adds to changing electoral equations",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/madurantakam-bypolls-pmks-abstention-adds-to-changing-electoral-equations/article71488622.ece",
-     "summary": "The impact of the SIR of electoral rolls on the size of the electorate was relatively limited in Madurantakam, with the electorate declining only marginally, whereas the number of voters increased significantly in 2026 compared with the 2024 Lok Sabha election",
-     "published": "2026-09-20T18:34:08+00:00",
-     "source": "The Hindu",
+     "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+     "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+     "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+     "published": "2026-09-20T20:21:40+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/0cb35a40-b539-11f1-9bd0-bb4fc2f94a87.jpg",
      "licence": "linkout",
-     "id": "9435acaa2514",
+     "id": "c346ef593f3e",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "Global News"
     },
     {
      "title": "Tata Trusts Against Listing, Diverted Attention: Harish Salve To NDTV",
@@ -251,23 +260,6 @@
      ]
     },
     {
-     "title": "Oilers Roll Past Jets 5-2 As McDavid, Draisaitl Shine In Preseason Opener",
-     "url": "https://sports.ndtv.com/us-nhl/oilers-roll-past-jets-5-2-as-mcdavid-draisaitl-shine-in-preseason-opener-12073398#publisher=newsstand",
-     "summary": "The Edmonton Oilers' are looking to avenge their first-round in the NHL Playoffs last season, as they hammered the Winnipeg Jets 5-2 thanks to goals from Connor McDavid and Leon Draisaitl.",
-     "published": "2026-09-20T17:55:25+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/221bpun4_connor-mcdavid_625x300_20_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "9a282ff41772",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Sports",
-     "figures": [
-      "2 thanks to goals from Connor"
-     ]
-    },
-    {
      "title": "Credit line on UPI: From RuPay cards to pre-sanctioned loans—how it works and what users need to know",
      "url": "https://www.livemint.com/money/personal-finance/credit-line-on-upi-from-rupay-cards-to-pre-sanctioned-loans-how-it-works-and-what-users-need-to-know-11789923576196.html",
      "summary": "A credit line on UPI lets eligible users make payments using pre-sanctioned credit instead of their bank balance. Here's what you need to know about interest-free and interest-bearing credit lines and their use across UPI features.",
@@ -282,18 +274,32 @@
      "from_section": "Business"
     },
     {
-     "title": "Village knowledge centre inaugurated in Villupuram district",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/village-knowledge-centre-inaugurated-in-villupuram-district/article71487748.ece",
-     "summary": "Officials said the Village Knowledge Centre would play a crucial role in enhancing access to education, skills training, and economic opportunities for the local community",
-     "published": "2026-09-20T18:43:10+00:00",
+     "title": "Home loan EMI calculator: A small difference in interest rates costs you lakhs; check what SBI, BoI, UBI, others offer",
+     "url": "https://www.livemint.com/money/personal-finance/home-loan-emi-calculator-a-small-difference-in-interest-rates-costs-you-lakhs-check-what-sbi-boi-ubi-others-offer-11789926090245.html",
+     "summary": "Starting home loan rates vary from 7% to 7.45% among various banks. A 0.25% rise in interest can increase monthly payments significantly. It is crucial for borrowers to assess their financial needs and lender fees before applying.",
+     "published": "2026-09-20T17:48:31+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/20/600x338/Home_loan_1789926302951_8TXc_1789926318091_bPPF_7601a955-d3b3-4a4b-add4-2e1af232b53f_EVH5.jpg",
+     "licence": "linkout",
+     "id": "ea11e65d6025",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business"
+    },
+    {
+     "title": "Panathur Railway Underbridge submerged after rain, commuters struggle through hip-deep water",
+     "url": "https://www.thehindu.com/news/cities/bangalore/panathur-railway-underbridge-submerged-after-rain-commuters-struggle-through-hip-deep-water/article71488104.ece",
+     "summary": "Panathur RuB is a key connecting link between Gunjur, Varthur, and the ORR; several techies and employees of private companies on the ORR use the RuB regularly.",
+     "published": "2026-09-20T19:17:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/c03kb8/article71488661.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-20%20at%207.58.53%20PM%201.JPEG",
      "licence": "linkout",
-     "id": "ec9be5cd0a40",
+     "id": "9caddbfde195",
      "category": "human",
      "category_label": "Human interest",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
      "title": "Manchester City Outgun Sunderland Despite Brian Brobbey's Hat-Trick, Manchester United Rescue Fulham Draw",
@@ -310,23 +316,6 @@
      "from_section": "Sports",
      "figures": [
       "3 thriller on Sunday as Matheus"
-     ]
-    },
-    {
-     "title": "3 dead, three missing in Nilambur flash flood",
-     "url": "https://www.thehindu.com/news/national/kerala/one-dead-four-missing-in-nilambur-flash-floods/article71488413.ece",
-     "summary": "",
-     "published": "2026-09-20T18:48:24+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "41b0711c3205",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National News",
-     "figures": [
-      "3 dead , three missing"
      ]
     },
     {
@@ -372,6 +361,20 @@
      "from_section": "Technology"
     },
     {
+     "title": "Ex-England Footballer Crushed By Pitch Roller During Warm-Up. Incident Caught On Camera",
+     "url": "https://sports.ndtv.com/football/ex-england-footballer-crushed-by-pitch-roller-during-warm-up-incident-caught-on-camera-12073164#publisher=newsstand",
+     "summary": "Former England international Andros Townsend escaped serious injury after being run over by a pitch roller in a bizarre incident at a Thai league match.",
+     "published": "2026-09-20T18:52:29+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/c3l0oj7_andros-townsend-x_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d7879fcdd3cf",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
      "title": "Josh Inglis And Nathan Ellis Star As Australia Complete Zimbabwe ODI Sweep",
      "url": "https://sports.ndtv.com/cricket/josh-inglis-and-nathan-ellis-star-as-australia-complete-zimbabwe-odi-sweep-12073244#publisher=newsstand",
      "summary": "Josh Inglis and Nathan Ellis played key roles as Australia snatched a dramatic one-wicket win over Zimbabwe on Sunday in a tense climax to a three one-day internationals series.",
@@ -386,23 +389,6 @@
      "from_section": "Sports"
     },
     {
-     "title": "Atletico Madrid Beat 10-Man Real Madrid 2-1 After Dean Huijsen Red Card In La Liga Derby",
-     "url": "https://sports.ndtv.com/football/atletico-madrid-beat-10-man-real-madrid-2-1-after-dean-huijsen-red-card-in-la-liga-derby-12073270#publisher=newsstand",
-     "summary": "Atletico Madrid won the first capital derby of the season in the Spanish league with a 2-1 win against 10-man Real Madrid.",
-     "published": "2026-09-20T17:07:00+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/mp0nm224_atletico-madrid-afp_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a5d3a15b780b",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "1 After Dean Huijsen Red Card"
-     ]
-    },
-    {
      "title": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjB6SnlDTUgzYWhwUzZWbjZia2Mtc1ZWTThKRTJtaEZoUktra2lxRzlJcjNzTGFlY3d1VVBuVWN2UTZJZTNUamV2elIyd1VtWURzamFZVzh4UUN4OU9NOTlsZTZTVnphSkhpMlhNYnBVQ2R4dG9sSHoyaS1yUXdobVhRRTdMVG41Mm4ySjdaak9ZTHotdllsV0I3SnZScWE0LTdzRjhkUHp2MmQ1Tm5tUm95aTNIYUJQYWtvV2NSbzgtVEtlYkZ6dlBxNEFwWHZ4QXdhOTNBbzBobTNLLVFV?oc=5",
      "summary": "Bangladesh forms committee to probe reason behind national cricket team’s withdrawal from ICC Men’s T20 World Cup in India | Akashvani News News On AIR",
@@ -415,6 +401,20 @@
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "Missing measure in India’s magnet mission",
+     "url": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece",
+     "summary": "The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced. The real policy challenge is understanding what happens in between",
+     "published": "2026-09-20T19:20:45+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6ts3qb/article71489069.ece/alternates/LANDSCAPE_1200/iStock-962382338.jpg",
+     "licence": "linkout",
+     "id": "9682a8f812f4",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News"
     }
    ]
   },
@@ -430,7 +430,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-20T19:08:10.940023+00:00",
+     "published": "2026-09-20T21:40:14.757678+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -441,7 +441,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-20T19:08:10.940039+00:00",
+     "published": "2026-09-20T21:40:14.757695+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -452,7 +452,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-20T19:08:10.940044+00:00",
+     "published": "2026-09-20T21:40:14.757701+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -463,7 +463,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-20T19:08:10.940047+00:00",
+     "published": "2026-09-20T21:40:14.757706+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -474,7 +474,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-20T19:08:10.940050+00:00",
+     "published": "2026-09-20T21:40:14.757710+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -485,7 +485,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-20T19:08:10.940054+00:00",
+     "published": "2026-09-20T21:40:14.757714+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -520,49 +520,72 @@
    "upsc": false,
    "items": [
     {
-     "title": "Dengue cases in Tamil Nadu decline for third consecutive year as per government data",
-     "url": "https://www.thehindu.com/sci-tech/health/dengue-cases-in-tamil-nadu-decline-for-third-consecutive-year-as-per-government-data/article71487571.ece",
-     "summary": "The State recorded 17,049 cases and nine deaths in 2026 up to September 19",
-     "published": "2026-09-20T18:50:54+00:00",
+     "title": "INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery",
+     "url": "https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece",
+     "summary": "This forced participation was not merely an administrative inconvenience; it represented a deep moral and financial corruption, said Sampat Singh",
+     "published": "2026-09-20T21:09:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/17kfa/article71489091.ece/alternates/LANDSCAPE_1200/CGAKK_14-7-2009_19-14-35_14_CHD_SAMPAT.JPG",
      "licence": "linkout",
-     "id": "68669574d847",
+     "id": "2d26246e095a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "‘Stop Vizag Data Centers’ Instagram account blocked in India",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece",
+     "summary": "",
+     "published": "2026-09-20T19:44:03+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/7q7ajl/article71488972.ece/alternates/LANDSCAPE_1200/AI%20data%20centres.JPG",
+     "licence": "linkout",
+     "id": "a583ed0e3eca",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/once-described-as-bimaru-up-transformed-as-countrys-growth-engine-says-cm-yogi/article71488822.ece",
+     "summary": "Yogi Adityanath said that the State government has prioritized women in its schemes, stating, ‘in Uttar Pradesh, 54,000 Banking Correspondent Sakhis are providing banking services in villages’",
+     "published": "2026-09-20T19:40:32+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/vojssv/article71489078.ece/alternates/LANDSCAPE_1200/20260920059L.jpg",
+     "licence": "linkout",
+     "id": "a4ba272398f1",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "17,049 cases and nine deaths"
+      "54,000 Banking Correspondent Sakhis are providing"
      ]
     },
     {
-     "title": "3 dead, three missing in Nilambur flash flood",
-     "url": "https://www.thehindu.com/news/national/kerala/one-dead-four-missing-in-nilambur-flash-floods/article71488413.ece",
-     "summary": "",
-     "published": "2026-09-20T18:48:24+00:00",
+     "title": "Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm",
+     "url": "https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece",
+     "summary": "The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30°C for the last couple of weeks.",
+     "published": "2026-09-20T19:17:17+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/kakaqp/article71489051.ece/alternates/LANDSCAPE_1200/_JAI5414.JPG",
      "licence": "linkout",
-     "id": "41b0711c3205",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "figures": [
-      "3 dead , three missing"
-     ]
-    },
-    {
-     "title": "Experts discuss specific diagnosis and brain modulation in Alzheimer’s care",
-     "url": "https://www.thehindu.com/sci-tech/health/experts-discuss-specific-diagnosis-and-brain-modulation-in-alzheimers-care/article71487569.ece",
-     "summary": "Experts discuss the importance of accurate diagnosis and the potential of non-invasive brain stimulation in dementia care",
-     "published": "2026-09-20T18:43:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
-     "licence": "linkout",
-     "id": "4d10771172d9",
+     "id": "92e08a4700b2",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Analysis: Fewer Fires, Same Fog: Punjab's Stubble Politics Before 2027 Polls",
+     "url": "https://www.ndtv.com/india-news/analysis-fewer-fires-same-fog-punjabs-stubble-politics-before-2027-polls-12073585#publisher=newsstand",
+     "summary": "Months before Punjab votes for a neew government in 2027, the same arrangements will be in place. The farmers will not stop setting their fields ablaze but this year, it is likely that the administration will not challan them as this is an election year.",
+     "published": "2026-09-20T18:51:15+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-11/tqa21v2k_stubble-burning_625x300_10_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f4f34b1a9dc4",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Punjab Man Consumes Poison Over Drug Inaction, Sparks Political Row",
@@ -576,6 +599,23 @@
      "id": "48874c79730b",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "On The Run For 24 Years, Rajasthan Man Arrested From Gujarat For Murder",
+     "url": "https://www.ndtv.com/india-news/on-the-run-for-24-years-rajasthan-man-arrested-from-gujarat-for-murder-12073499#publisher=newsstand",
+     "summary": "To evade law enforcement, Desai spent 24 years continuously shifting locations, concealing his identity, and working daily-wage labour jobs to stay under the radar.",
+     "published": "2026-09-20T18:11:25+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6071555db7e1",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "24 Years , Rajasthan Man Arrested",
+      "24 years continuously shifting locations, conceali"
+     ]
     }
    ]
   },
@@ -586,88 +626,56 @@
    "upsc": false,
    "items": [
     {
-     "title": "How will Saudi Arabia deal with the Houthis?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
-     "summary": "Yemeni group warns of further attacks on the kingdom.",
-     "published": "2026-09-20T18:34:36+00:00",
+     "title": "Qatar PM urges Gulf security framework with Iran",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+     "summary": "Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other.",
+     "published": "2026-09-20T21:00:15+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789926712.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-QATAR-PM-1789937937.png?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "8c413f2b8c84",
+     "id": "dcd9d8037cd4",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
-     "url": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
-     "summary": "Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick.",
-     "published": "2026-09-20T18:32:03+00:00",
+     "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+     "summary": "Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.",
+     "published": "2026-09-20T20:58:01+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T172054Z_1918164472_UP1EM9K1C38NI_RTRMADP_3_SOCCER-ENGLAND-FUL-MUN-1789925701.jpg?resize=1920%2C1408",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789937839.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "1c05b65b874f",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1 draw at Fulham, but pressure"
-     ]
-    },
-    {
-     "title": "Gaza artists honour Macklemore for supporting Palestine",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
-     "summary": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.",
-     "published": "2026-09-20T17:59:10+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-gaza-macklemore-1789927099.png?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "75db55485b28",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
-     "summary": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-     "published": "2026-09-20T17:55:46+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/clean-1789926917.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "5bdb6288f902",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
-     "url": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
-     "summary": "A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight.",
-     "published": "2026-09-20T17:35:12+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/DSLR_PRUIM80-1789051513.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "2bdc20f72c4a",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "50 percent tariff has disrupted dairy"
-     ]
-    },
-    {
-     "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-     "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-     "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-     "published": "2026-09-20T18:32:55+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg",
-     "licence": "linkout",
-     "id": "c346ef593f3e",
+     "id": "b34d931a54e3",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+     "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+     "summary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
+     "published": "2026-09-20T20:31:15+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab02ebac4bef-1789931194.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "297a18495d7c",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "US, China open high-level talks ahead of Trump-Xi summit",
+     "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+     "summary": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
+     "published": "2026-09-20T19:42:13+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab0312d-1789931821.jpg?resize=1920%2C1377",
+     "licence": "linkout",
+     "id": "33f8eec8affd",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Trump says triumphal arch will be military complex with drones and snipers",
@@ -683,17 +691,20 @@
      "category_label": "General"
     },
     {
-     "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-     "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-     "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-     "published": "2026-09-19T23:49:26+00:00",
+     "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+     "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+     "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+     "published": "2026-09-20T21:17:22+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg",
      "licence": "linkout",
-     "id": "dbf103d247c1",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "2ba89fba34ef",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "82, dies after beach fight"
+     ]
     }
    ]
   },
@@ -741,91 +752,59 @@
    "upsc": false,
    "items": [
     {
-     "title": "Dengue cases in Tamil Nadu decline for third consecutive year as per government data",
-     "url": "https://www.thehindu.com/sci-tech/health/dengue-cases-in-tamil-nadu-decline-for-third-consecutive-year-as-per-government-data/article71487571.ece",
-     "summary": "The State recorded 17,049 cases and nine deaths in 2026 up to September 19",
-     "published": "2026-09-20T18:50:54+00:00",
+     "title": "INLD’s Sampat Singh attacks BJP’s ‘Seva Sankalp Abhiyaan’, alleges misuse of State machinery",
+     "url": "https://www.thehindu.com/news/national/haryana/inlds-sampat-singh-attacks-bjps-seva-sankalp-abhiyaan-alleges-misuse-of-state-machinery/article71488503.ece",
+     "summary": "This forced participation was not merely an administrative inconvenience; it represented a deep moral and financial corruption, said Sampat Singh",
+     "published": "2026-09-20T21:09:36+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/17kfa/article71489091.ece/alternates/LANDSCAPE_1200/CGAKK_14-7-2009_19-14-35_14_CHD_SAMPAT.JPG",
      "licence": "linkout",
-     "id": "68669574d847",
+     "id": "2d26246e095a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "‘Stop Vizag Data Centers’ Instagram account blocked in India",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece",
+     "summary": "",
+     "published": "2026-09-20T19:44:03+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/7q7ajl/article71488972.ece/alternates/LANDSCAPE_1200/AI%20data%20centres.JPG",
+     "licence": "linkout",
+     "id": "a583ed0e3eca",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Once described as BIMARU, U.P. transformed as country’s growth engine, says CM Yogi",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/once-described-as-bimaru-up-transformed-as-countrys-growth-engine-says-cm-yogi/article71488822.ece",
+     "summary": "Yogi Adityanath said that the State government has prioritized women in its schemes, stating, ‘in Uttar Pradesh, 54,000 Banking Correspondent Sakhis are providing banking services in villages’",
+     "published": "2026-09-20T19:40:32+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/vojssv/article71489078.ece/alternates/LANDSCAPE_1200/20260920059L.jpg",
+     "licence": "linkout",
+     "id": "a4ba272398f1",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "17,049 cases and nine deaths"
+      "54,000 Banking Correspondent Sakhis are providing"
      ]
     },
     {
-     "title": "3 dead, three missing in Nilambur flash flood",
-     "url": "https://www.thehindu.com/news/national/kerala/one-dead-four-missing-in-nilambur-flash-floods/article71488413.ece",
-     "summary": "",
-     "published": "2026-09-20T18:48:24+00:00",
+     "title": "Boating to boost tourism at Peruvannamuzhi",
+     "url": "https://www.thehindu.com/news/national/kerala/boating-to-boost-tourism-at-peruvannamuzhi/article71487538.ece",
+     "summary": "District administration decides to resume boating services at the Peruvannamuzhi reservoir and introduce a new boating service at Thonikadavu. Solar-powered boats to be used to minimise pollution.",
+     "published": "2026-09-20T19:13:45+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/325a7k/article71488794.ece/alternates/LANDSCAPE_1200/PERUVANNAMUZHI%20BOAT.jpg",
      "licence": "linkout",
-     "id": "41b0711c3205",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "figures": [
-      "3 dead , three missing"
-     ]
-    },
-    {
-     "title": "Experts discuss specific diagnosis and brain modulation in Alzheimer’s care",
-     "url": "https://www.thehindu.com/sci-tech/health/experts-discuss-specific-diagnosis-and-brain-modulation-in-alzheimers-care/article71487569.ece",
-     "summary": "Experts discuss the importance of accurate diagnosis and the potential of non-invasive brain stimulation in dementia care",
-     "published": "2026-09-20T18:43:52+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
-     "licence": "linkout",
-     "id": "4d10771172d9",
+     "id": "952d62e0d705",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Keralam Chief Minister to launch ₹93.22-crore coastal protection project for Pozhiyoor",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-to-launch-9322-crore-coastal-protection-project-for-pozhiyoor/article71488317.ece",
-     "summary": "Project seeks to provide Pozhiyoor with a robust defence against invading waves using a combination of groynes, seawall and tetrapods",
-     "published": "2026-09-20T18:26:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ql4pqx/article71489039.ece/alternates/LANDSCAPE_1200/PTI06_13_2023_000236B.jpg",
-     "licence": "linkout",
-     "id": "d2ddbfb9e898",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹93.22 -crore coastal protection project"
-     ]
-    },
-    {
-     "title": "India’s NGOs at a new funding crossroads",
-     "url": "https://www.thehindu.com/opinion/lead/indias-ngos-at-a-new-funding-crossroads/article71488462.ece",
-     "summary": "India’s non-governmental organisations must navigate shifting foreign and domestic funding sources",
-     "published": "2026-09-20T18:21:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/opinion/op-ed/x7eh0a/article71488463.ece/alternates/LANDSCAPE_1200/iStock-1193671253.jpg",
-     "licence": "linkout",
-     "id": "97cf669ef254",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "TVK regime’s experiment, of having two Advisers to Vijay alongside Chief Secretary, giving mixed vibes to T.N.’s bureaucratic circles",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-regimes-experiment-of-having-two-advisers-to-vijay-alongside-chief-secretary-giving-mixed-vibes-to-tns-bureaucratic-circles/article71485220.ece",
-     "summary": "Apart from the two advisers, the Chief Minister is aided by a team of four IAS officers, one of whom has 30-odd years’ experience",
-     "published": "2026-09-20T18:15:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vvy2rh/article71487743.ece/alternates/LANDSCAPE_1200/PTI05_10_2026_000330A.jpg",
-     "licence": "linkout",
-     "id": "9b173d0a7e03",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Today News Headlines for School Assembly, September 21, 2026: Smriti Mandhana becomes highest run-scorer in Women’s T20Is",
@@ -841,15 +820,15 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Modi says developing nations unfairly blamed for emissions",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUc1SzhkckQzdTU5T0VkMjVEVWZmWlV6UzJWbFdCS200YXR5OHVmX3Y4LWxQY05kZTVQZ3RfVUJfNERRd3V2SVZxMjhXcVhaTWZxank5Q3l5Ylk0ckQ0eVFHZzJGOVFCOUJYOVVISEptVjFTa2NFWjdTU0RYQjlRYXV6QnQxUzFkZTFKY2QtSC1rQjVKU3VmNmZ3Y1VNWV80VG9PZDZrM3dCQm43?oc=5",
-     "summary": "Modi says developing nations unfairly blamed for emissions dw.com",
-     "published": "2026-09-20T02:47:31+00:00",
-     "source": "dw.com",
+     "title": "You searched for \" northernindiaconnectivity \"",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4VHNnbHZ1M05XWmlKRkl4ekFOOFNMZUx4cTRwanJUU1kxTmgyOWlIblJpb0tQdFVRX1VwbWk5cXZISFM3UWZ6VS1SZ2JkampNNjZIY0trb1FYNGRDdTE3MGpZcWtxeEFUY1hjYmdSLUJ5MjE2dTY1ag?oc=5",
+     "summary": "You searched for \" northernindiaconnectivity \" The Tribune",
+     "published": "2026-09-19T22:26:12+00:00",
+     "source": "The Tribune",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "32847c887f24",
+     "id": "b1fc8f2e1f20",
      "category": "general",
      "category_label": "General"
     }
@@ -1488,170 +1467,6 @@
      "id": "98d10e414a2a",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "How journalism inspired a youth-led initiative against online harm in Armenia",
-     "url": "https://globalvoices.org/2026/09/19/how-journalism-inspired-a-youth-led-initiative-against-online-harm-in-armenia/",
-     "summary": "One of the strongest realizations during my reporting was that digital violence often enters daily life disguised as normal behavior: Control becomes attention, surveillance becomes care, pressure becomes love.",
-     "published": "2026-09-19T20:06:55+00:00",
-     "source": "Global Voices",
-     "byline": "GV Central Asia and Caucasus",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/09/Silence-women-800x450.webp",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "Digital resilience is not about teaching people to fear technology, but about helping them understand power inside digital spaces"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "This article was produced by Anahit Harutyunyan from Armenia through the Digital Spark granting scheme, as part of the Regional Support Mechanism EECA project, implemented by the Metamorphosis Foundation and TechSoup, in partnership with CIVICUS and under the Digital Democracy Initiative (DDI) that covers the Global South. It is being published on Global Voices as part of a content-sharing agreement."
-      },
-      {
-       "kind": "p",
-       "text": "For years, while reporting from Armenia’s regions, I documented migration, conflict, violence, and social inequality. Yet some of the most difficult stories never appeared in public spaces. They unfolded quietly in private chats, disappearing messages, social media accounts, and locked phone screens. Digital violence rarely leaves visible traces, but it changes relationships, confidence, participation, and the way people understand trust. While reporting on digital violence, I realized that awareness alone was not enough. Communities needed practical tools. That realization became the foundation of the Shirak Digital Resilience Lab: Youth-Led Action Against Digital Violence."
-      },
-      {
-       "kind": "p",
-       "text": "People often imagine digital violence as hacking or anonymous attacks. But while working on investigative and analytical stories in Armenia, I repeatedly encountered something more complex. A civically active woman stopped posting online because someone monitored her activity. Teenagers described pressure to constantly share passwords as proof of trust. Parents worried about online risks but had no vocabulary to discuss them. Many people experienced digital harm without recognizing it as harm at all."
-      },
-      {
-       "kind": "p",
-       "text": "One of the strongest realizations during my reporting was that digital violence often enters daily life disguised as normal behavior: Control becomes attention, surveillance becomes care, pressure becomes love."
-      },
-      {
-       "kind": "p",
-       "text": "This became especially visible while researching digital relationships and forms of online control. People described situations where requests for constant location sharing, account access, message monitoring, or emotional pressure became normalized rather than questioned. That’s why I think that these stories did not begin with technology — they began with unequal knowledge."
-      },
-      {
-       "kind": "h",
-       "text": "Digital exclusion is not only about access"
-      },
-      {
-       "kind": "p",
-       "text": "Shirak province in Armenia. Image from Wikimedia Commons. CC BY-SA 3.0"
-      },
-      {
-       "kind": "p",
-       "text": "Many families in Shirak Province, in northeastern Armenia, depend on migration and maintain relationships across the Turkish and Georgian borders, exposing them to multiple information environments. Young people move daily between local realities and global platforms. They consume enormous amounts of information but rarely receive structured education about digital rights, misinformation, privacy, or online manipulation."
-      },
-      {
-       "kind": "p",
-       "text": "The result is a paradox. Young people are digitally connected but not always digitally protected. And when communities lack language for discussing online harm, silence becomes part of the problem. The Shirak Digital Resilience Lab brings together 60 young people from three border towns in Shirak: Akhurik, Voskehask, and Haykavan."
-      },
-      {
-       "kind": "p",
-       "text": "The process starts with interactive workshops where participants explore digital literacy, online rights, ethical technology use, and ways to recognize harmful online behavior. Young women were specifically prioritized when forming the project, as they are often the targets of digital violence."
-      },
-      {
-       "kind": "h",
-       "text": "When digital violence becomes a business"
-      },
-      {
-       "kind": "p",
-       "text": "In public discussions, digital violence is often reduced to offensive comments or online bullying. But while reporting and speaking with experts and affected individuals, I repeatedly encountered another dimension of the problem: Digital violence as an underground economy."
-      },
-      {
-       "kind": "p",
-       "text": "It may begin with trust: A private conversation, a photograph, a video call, access to an account, or personal information shared in what appears to be a close relationship. Then the conditions change."
-      },
-      {
-       "kind": "p",
-       "text": "Requests begin: Money for silence, obedience, continued communication, or simply control. The fear is rarely only about exposure. It is a fear of social consequences."
-      },
-      {
-       "kind": "p",
-       "text": "In conservative environments, especially in smaller communities, women and girls often carry a disproportionate burden of shame. Even when they are targets of manipulation or coercion, many hesitate to seek help because they fear judgment more than the perpetrator."
-      },
-      {
-       "kind": "p",
-       "text": "Several specialists I interviewed while working on digital violence described this as one of the reasons incidents remain underreported: People do not trust that reporting will protect them faster than exposure could harm them."
-      },
-      {
-       "kind": "p",
-       "text": "Law enforcement and legislation often face practical challenges in identifying perpetrators, preserving evidence, and responding quickly enough to prevent further harm. That delay creates space for informal underground practices to grow."
-      },
-      {
-       "kind": "p",
-       "text": "Digital extortion depends on silence. And silence grows where people do not know their rights, where communities attach stigma to victims, and where digital literacy develops more slowly than digital risks. Young people are particularly vulnerable. Not because they use technology more, but because trust, identity, and social belonging increasingly happen online."
-      },
-      {
-       "kind": "p",
-       "text": "Digital violence is no longer only about control. It has become a business model built on fear, shame, and silence. This is why digital violence should not be treated as an individual problem or private mistake. Rather, it is a social issue — one connected to education, rights, digital awareness, and access to support."
-      },
-      {
-       "kind": "h",
-       "text": "Beyond awareness: Building digital resilience"
-      },
-      {
-       "kind": "p",
-       "text": "Digital resilience is not about teaching people to fear technology — it is about helping them understand power inside digital spaces. This means recognizing manipulation and questioning control before normalizing it. Understanding that online participation is also a civic skill. For rural youth, especially in communities with limited educational opportunities, these skills increasingly shape future participation in society."
-      },
-      {
-       "kind": "p",
-       "text": "The challenge is no longer whether young people use digital tools. They already do. The challenge is whether they can use them critically, safely, and confidently. After years of listening to stories of silence, withdrawal, confusion, and adaptation, I no longer see digital literacy as a technical issue."
-      },
-      {
-       "kind": "h",
-       "text": "Turning awareness into stories young people will actually watch"
-      },
-      {
-       "kind": "p",
-       "text": "Young people rarely engage with long explanations about digital rights or online safety; they engage with content created by people who speak their language and understand their reality."
-      },
-      {
-       "kind": "p",
-       "text": "That is why an important part of this initiative is not only discussing digital violence but also translating difficult conversations into short visual stories."
-      },
-      {
-       "kind": "p",
-       "text": "Participants will be invited to create short videos and reels that explore situations many young people recognize but rarely discuss openly: Pressure to share passwords, emotional manipulation online, image-based threats, misinformation, digital control disguised as care, and fear of speaking publicly."
-      },
-      {
-       "kind": "p",
-       "text": "The process itself matters as much as the final video."
-      },
-      {
-       "kind": "p",
-       "text": "Participants will use tools they already know: Smartphones, editing applications, and artificial intelligence (AI) supported creative tools for visual production, scripting, idea development, and verification. But technology use is not the primary goal here."
-      },
-      {
-       "kind": "p",
-       "text": "Through mentorship, participants receive support in transforming ideas into short, ethical, and responsible visual narratives. They learn how to structure a story, edit for short-form formats, and communicate difficult topics without sensationalism."
-      },
-      {
-       "kind": "p",
-       "text": "There is also another effect that matters. Young people do not merely consume content — they also share it. A reel created by one participant may reach classmates, friends, siblings, and entire peer networks. Conversations that once remained private can begin publicly, creating space for recognition, discussion, and support. Sometimes it starts with a 60-second video that makes someone stop scrolling and think."
-      },
-      {
-       "kind": "h",
-       "text": "Technology itself is not the enemy"
-      },
-      {
-       "kind": "p",
-       "text": "Working on this topic changed the way I think about journalism. I no longer see reporting only as documenting consequences. Sometimes journalism can also open conversations before harm becomes irreversible."
-      },
-      {
-       "kind": "p",
-       "text": "That is why I wanted to move beyond publishing articles and create space for young people to think, question, create, and speak in their own voices. Perhaps digital resilience does not begin with complicated policies or expensive technologies."
-      },
-      {
-       "kind": "p",
-       "text": "Perhaps it begins much earlier with a conversation in a classroom, a question asked without fear, a short video shared between friends, or a young person recognizing that pressure, control, and silence are not normal parts of being online."
-      },
-      {
-       "kind": "p",
-       "text": "If digital violence has learned to adapt to every new platform, our response must adapt too. And maybe the first step is simple: To make visible what has remained invisible for too long."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "b2f504b3d965",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1878,6 +1693,23 @@
      "category_label": "Money & scams"
     },
     {
+     "title": "Gilt mutual funds: ICICI Prudential tops 5-year returns at over 6%; all 23 schemes remain in the green",
+     "url": "https://www.livemint.com/money/personal-finance/gilt-mutual-funds-icici-prudential-tops-5-year-returns-at-over-6-all-23-schemes-remain-in-the-green-11789929430247.html",
+     "summary": "Gilt mutual funds invest at least 80% of their assets in government securities across maturities. Among the 23 schemes in the category, Bandhan Gilt Fund and Axis Gilt Fund featured among the top five performers over both one-year and five-year periods.",
+     "published": "2026-09-20T19:10:11+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/20/600x338/gild_fund_1789931377675_zuJV_1789931382714_7wEY_7df2c5ac-6edd-4168-bf07-f7d3bae62254_IzvZ.png",
+     "licence": "linkout",
+     "id": "3e4cf53a2771",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "23 schemes remain in the green",
+      "23 schemes in the category, Bandhan"
+     ]
+    },
+    {
      "title": "Thematic mutual funds: Top and bottom 5 categories in 2026 so far; only 2 remain positive in 1 month",
      "url": "https://www.livemint.com/money/personal-finance/thematic-mutual-funds-top-and-bottom-5-categories-in-2026-so-far-only-2-remain-positive-in-1-month-11789926792276.html",
      "summary": "Thematic mutual fund returns have diverged sharply in 2026. Defence, Healthcare and IPO lead the categories, while Railways and Technology have posted steep declines. Over five years, PSU and Transportation &amp; Logistics delivered the highest returns.",
@@ -1893,19 +1725,6 @@
       "5 categories in 2026 so far",
       "2 remain positive in 1 month"
      ]
-    },
-    {
-     "title": "Home loan EMI calculator: A small difference in interest rates costs you lakhs; check what SBI, BoI, UBI, others offer",
-     "url": "https://www.livemint.com/money/personal-finance/home-loan-emi-calculator-a-small-difference-in-interest-rates-costs-you-lakhs-check-what-sbi-boi-ubi-others-offer-11789926090245.html",
-     "summary": "Starting home loan rates vary from 7% to 7.45% among various banks. A 0.25% rise in interest can increase monthly payments significantly. It is crucial for borrowers to assess their financial needs and lender fees before applying.",
-     "published": "2026-09-20T17:48:31+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/20/600x338/Home_loan_1789926302951_8TXc_1789926318091_bPPF_7601a955-d3b3-4a4b-add4-2e1af232b53f_EVH5.jpg",
-     "licence": "linkout",
-     "id": "ea11e65d6025",
-     "category": "money",
-     "category_label": "Money & scams"
     },
     {
      "title": "Mutual funds take ₹2,495 crore exposure in NSE IPO anchor book: Nippon India Large Cap tops the list of 10 schemes",
@@ -1924,27 +1743,6 @@
       "10 schemes",
       "10 schemes with the largest allocations"
      ]
-    },
-    {
-     "title": "How is your financial health? Answer a few simple questions to find out where you stand in investment, insurance, loans",
-     "url": "https://www.livemint.com/money/personal-finance/how-is-your-financial-health-answer-a-few-simple-questions-to-find-out-where-you-stand-in-investment-insurance-loans-11789920221456.html",
-     "summary": "A regular salary isn't the sole indicator of financial health. Insurance, savings, debt, and retirement planning are crucial. SEBI's Financial Health Check quiz helps evaluate your financial habits and suggests improvements.&nbsp;",
-     "published": "2026-09-20T16:13:45+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/20/600x338/financial_health_1789920658183_Ic7v_1789920662684_VjXK_0fcf80d6-45f1-4739-9190-5e10b2a560ed_kh2S.jpg",
-     "licence": "linkout",
-     "id": "ce381fe3ea8b",
-     "also": [
-      {
-       "source": "Business Standard",
-       "title": "How to judge whether an AI answer to your question is trustworthy",
-       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWRhbWJWZktGcHMyZ3p6RmVtWW5HOVhNeTRvODZ3LUhqZXpMS3RhMHdXMG9kNHZoWjBCSmpRbURSVmhqZC1Od1BrTGM2elRfeXJwZl9EZmFfc1ZNUWFOVVgzMlNXTkY4RTNlT0I5MUZ5T0ZCdklzMTdIWTAxMTVKZUJJMVBrSzhyLUhGMHF6YU5yYmxxUUxQTGVpNThUdEFpREprT1ZUWENMV3BicktxbVd4ZkdQYlp5Y0YybDFzUkE5MExxelFHRUduZG1QT1locjNCQVZOeWh1MkZvWWhOX1hBbUpsbHd0SnfSAe8BQVVfeXFMTU1xRjZ2aHZkSGtjUDJFVjVHUG90cXpPM1dCT0hral9fMWdTM284cXJaM1ZDbU5kRTdEUl8ybzA5RXRQUGNwbjA4NThBSzVRdUE2dGJrTTVoQUt3clF6YTA5RWRPS25nQnZ1RmhxTEZJUlpuSVd1VnNFQTFORThDOGR2RGV0b005OUlEVE1rX2tnS2g4RGExWU5wejhoUlpGWlpFQno4TldHYWZ2aW54ZXM1VFJvSnNLaVFHVlk1ZXRUSjhLNXVreEd5UU1RdTJZNXZieWZINFllSUZXQU92cXM4S0ZCQnU5ZFF0VWFKUm8?oc=5",
-       "summary": "How to judge whether an AI answer to your question is trustworthy Business Standard"
-      }
-     ],
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -2002,11 +1800,11 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "How to judge whether an AI answer to your question is trustworthy",
+     "title": "How to judge whether an AI answer to your question is trustworthy - business-standard.com",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWRhbWJWZktGcHMyZ3p6RmVtWW5HOVhNeTRvODZ3LUhqZXpMS3RhMHdXMG9kNHZoWjBCSmpRbURSVmhqZC1Od1BrTGM2elRfeXJwZl9EZmFfc1ZNUWFOVVgzMlNXTkY4RTNlT0I5MUZ5T0ZCdklzMTdIWTAxMTVKZUJJMVBrSzhyLUhGMHF6YU5yYmxxUUxQTGVpNThUdEFpREprT1ZUWENMV3BicktxbVd4ZkdQYlp5Y0YybDFzUkE5MExxelFHRUduZG1QT1locjNCQVZOeWh1MkZvWWhOX1hBbUpsbHd0SnfSAe8BQVVfeXFMTU1xRjZ2aHZkSGtjUDJFVjVHUG90cXpPM1dCT0hral9fMWdTM284cXJaM1ZDbU5kRTdEUl8ybzA5RXRQUGNwbjA4NThBSzVRdUE2dGJrTTVoQUt3clF6YTA5RWRPS25nQnZ1RmhxTEZJUlpuSVd1VnNFQTFORThDOGR2RGV0b005OUlEVE1rX2tnS2g4RGExWU5wejhoUlpGWlpFQno4TldHYWZ2aW54ZXM1VFJvSnNLaVFHVlk1ZXRUSjhLNXVreEd5UU1RdTJZNXZieWZINFllSUZXQU92cXM4S0ZCQnU5ZFF0VWFKUm8?oc=5",
-     "summary": "How to judge whether an AI answer to your question is trustworthy Business Standard",
+     "summary": "How to judge whether an AI answer to your question is trustworthy business-standard.com",
      "published": "2026-09-20T06:02:00+00:00",
-     "source": "Business Standard",
+     "source": "Google News",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -2023,6 +1821,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Vaibhav Sooryavanshi Labelled \"Future Of India\" As Sri Lanka Great Sends Strong Message To BCCI",
+     "url": "https://sports.ndtv.com/cricket/vaibhav-sooryavanshi-labelled-future-of-india-as-sri-lanka-great-sends-strong-message-to-bcci-12072740#publisher=newsstand",
+     "summary": "Vaibhav Sooryavanshi was in India's squad for the recent three-match T20I series against Afghanistan but the management stuck to the regular opening combination of Sanju Samson and Abhishek Sharma.",
+     "published": "2026-09-20T18:54:11+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/msh03a64_vaibhav-sooryavanshi_625x300_17_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "4d44e6f65bed",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Ex-England Footballer Crushed By Pitch Roller During Warm-Up. Incident Caught On Camera",
+     "url": "https://sports.ndtv.com/football/ex-england-footballer-crushed-by-pitch-roller-during-warm-up-incident-caught-on-camera-12073164#publisher=newsstand",
+     "summary": "Former England international Andros Townsend escaped serious injury after being run over by a pitch roller in a bizarre incident at a Thai league match.",
+     "published": "2026-09-20T18:52:29+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/c3l0oj7_andros-townsend-x_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d7879fcdd3cf",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
      "title": "Umesh Yadav Seeks Fresh Start: Veteran India Pacer Parts Ways With Vidarbha",
      "url": "https://sports.ndtv.com/cricket/umesh-yadav-seeks-fresh-start-veteran-india-pacer-parts-ways-with-vidarbha-12073158#publisher=newsstand",
      "summary": "Senior India fast bowler Umesh Yadav has decided to part ways with Vidarbha in the ongoing domestic season and seek fresh opportunities elsewhere.",
@@ -2034,22 +1858,6 @@
      "id": "aa378c8d55d2",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Manchester City Outgun Sunderland Despite Brian Brobbey's Hat-Trick, Manchester United Rescue Fulham Draw",
-     "url": "https://sports.ndtv.com/football/manchester-city-outgun-sunderland-despite-brian-brobbeys-hat-trick-manchester-united-rescue-fulham-draw-12073427#publisher=newsstand",
-     "summary": "Manchester City went top of the Premier League despite Brian Brobbey's hat-trick in a 5-3 thriller on Sunday as Matheus Cunha rescued Manchester United from another damaging defeat at Fulham.",
-     "published": "2026-09-20T18:07:46+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/s4f5544g_manchester-city-afp_625x300_20_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "011fc333d836",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "3 thriller on Sunday as Matheus"
-     ]
     },
     {
      "title": "Chess Olympiad: Indian Men Cruise 3-1 Against Holland; Women Shocked By Poland",
