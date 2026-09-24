@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T10:37:56.108406+00:00",
+ "generated_at": "2026-09-24T15:40:23.009403+00:00",
  "podcasts_fetched_at": "2026-09-24T10:37:44.261692+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 119826.0,
    "change": -2797.0,
    "changePct": -2.28,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Three Kannur",
-  "Yemeni Houthi",
+  "Engineering",
+  "Reported Britain",
   "Jazeera English",
   "News",
   "Probe Agency",
   "Obviously Australia",
-  "Asian Games",
-  "Venezuela Delcy",
-  "Trump China",
-  "Watch Trump"
+  "Alprazolam EAGLE",
+  "Keralam KSEB",
+  "Saudi Houthis",
+  "Ireland Israel"
  ],
  "sections": [
   {
@@ -102,167 +103,185 @@
    "upsc": false,
    "items": [
     {
-     "title": "Three Kannur prison inmates booked for allegedly assaulting official",
-     "url": "https://www.thehindu.com/news/national/kerala/three-kannur-prison-inmates-booked-for-allegedly-assaulting-official/article71503521.ece",
-     "summary": "Charges include attempt to attack other on-duty personnel",
-     "published": "2026-09-24T10:28:35+00:00",
+     "title": "Engineering student’s ‘suicide’ turns out to be murder; two arrested",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/engineering-students-suicide-turns-out-to-be-murder-two-arrested/article71502595.ece",
+     "summary": "According to police, Naveen intercepted Akshitarani near the FCI crossroads while she was returning home on September 12. He took her in his car and allegedly forced her to write a note blaming Ravi for sexual assault before forcing her to consume pesticide.",
+     "published": "2026-09-24T15:27:51+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/yud3rc/article71503613.ece/alternates/LANDSCAPE_1200/Arrest%20-%20getty%20images.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/nji46u/article71502617.ece/alternates/LANDSCAPE_1200/iStock-157404566.jpg",
      "licence": "linkout",
-     "id": "16e57524beac",
+     "id": "34e845d66054",
      "category": "crime",
      "category_label": "Crime",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Reported assaults on Britain's rail services rise by more than a third",
+     "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+     "published": "2026-09-24T13:07:28+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg",
+     "licence": "linkout",
+     "id": "508710abf41c",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Business"
+    },
+    {
+     "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
+     "url": "https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss",
+     "summary": "No response by Yemen's Houthis to a claim by the coalition forces that its missiles targeted Taif and Yanbu.",
+     "published": "2026-09-24T14:56:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab3f3d738dc-1790178263.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "88b6b1b55554",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
+     "figures": [
+      "6 ballistic missiles launched by Houthis"
+     ]
+    },
+    {
+     "title": "Why are Ireland vs Israel football matches so controversial?",
+     "url": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
+     "summary": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.",
+     "published": "2026-09-24T14:36:02+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-02-21T152507Z_1447745083_RC2DQJA5SSQE_RTRMADP_3_ISRAEL-PALESTINIANS-IRELAND-PROTEST-1790230529.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "6cb86c626ab4",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+     "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+     "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+     "published": "2026-09-24T12:49:32+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fa/live/2ae842f0-b813-11f1-bc1f-3f186ca4140c.jpg",
+     "licence": "linkout",
+     "id": "c7f63c921a71",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Opposition to move fresh notice for CEC’s removal; INDIA bloc mulls joint action",
+     "url": "https://www.thehindu.com/news/national/opposition-to-move-fresh-notice-for-cecs-removal-india-bloc-mulls-joint-action/article71504708.ece",
+     "summary": "New petition likely in both Houses of Parliament even as an earlier Rajya Sabha notice against Gyanesh Kumar remains pending; TMC urges swift and united Opposition response",
+     "published": "2026-09-24T15:28:47+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/k33hqt/article71505120.ece/alternates/LANDSCAPE_1200/SIR%20ELECTION%20COMMISSION%20PC%20%20DELHI%202025_27_10_25.jpg",
+     "licence": "linkout",
+     "id": "52097d583ef1",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "\"Election Snatcher\": Akhilesh Yadav Says Gyanesh Kumar Must Step Down",
+     "url": "https://www.ndtv.com/india-news/akhilesh-coins-chunav-nochwa-says-those-who-snatched-elections-must-quit-12093279#publisher=newsstand",
+     "summary": "\"If the vote of this generation had not been stolen, the Samajwadi government would have been formed in 2022,\" Akhilesh Yadav said",
+     "published": "2026-09-24T14:42:09+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/927hm77_akhilesh-yadav_625x300_14_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2ceb7f6b9033",
+     "category": "politics",
+     "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Yemeni forces say they repel Houthi attacks in Taiz as fighting rages",
-     "url": "https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss",
-     "summary": "Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.",
-     "published": "2026-09-24T09:26:32+00:00",
-     "source": "Al Jazeera",
+     "title": "No Anti-Incumbency Today? BJP Snubs Rahul Gandhi's \"Vote Chori\" Charge",
+     "url": "https://www.ndtv.com/india-news/gyanesh-kumar-election-commission-sir-rahul-gandhi-no-anti-incumbency-today-bjp-snubs-rahul-gandhis-vote-chori-charge-12093227#publisher=newsstand",
+     "summary": "BJP national spokesperson Sudhanshu Trivedi responded to the Leader of the Opposition's press conference in New Delhi on Thursday, in which Gandhi levelled serious allegations against the Election Commission and Chief Election Commissioner Gyanesh Kumar.",
+     "published": "2026-09-24T14:12:08+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab483903a-1790215056.jpg?resize=1920%2C1440",
+     "image": "https://c.ndtvimg.com/2026-09/hfoc7k0s_rahul-gandhi-sudhanshu-trivedi-_625x300_24_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "8bbead223924",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
+     "id": "31c14e92e6ad",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
     },
     {
-     "title": "Ex-WWE Wrestler To Face Trial In 2027 Following Arrest In Sexual Exploitation Case",
-     "url": "https://sports.ndtv.com/us-wwe/ex-wwe-wrestler-to-face-trial-in-2027-following-arrest-in-se-ual-exploitation-case-12091073#publisher=newsstand",
-     "summary": "Former WWE star Mike “Duke” Droese reportedly faces a March 2027 trial in Tennessee following his 2025 arrest. He has until January 27, 2027, to pursue a plea bargain before the case could proceed to trial.",
-     "published": "2026-09-24T08:49:56+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-06/jv6rble4_wwe-arena_625x300_03_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "6ce162208897",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Sports"
-    },
-    {
-     "title": "Ramanaidu tells irrigation officials to watch north Andhra rivers, regulate Pattiseema and Purushothapatnam pumps",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ramanaidu-tells-irrigation-officials-to-watch-north-andhra-rivers-regulate-pattiseema-and-purushothapatnam-pumps/article71503311.ece",
-     "summary": "Water Resources Minister asks for round-the-clock watch from the war room; inflows into the Yeleru reservoir are projected to rise to about 27,000 cusecs, and the first flood warning is out on the Vamsadhara and Nagavali",
-     "published": "2026-09-24T10:21:35+00:00",
+     "title": "Alprazolam seizure leads EAGLE Force to ₹4-crore property trail in Zaheerabad drug case",
+     "url": "https://www.thehindu.com/news/national/telangana/alprazolam-seizure-leads-eagle-force-to-4-crore-property-trail-in-zaheerabad-drug-case/article71504820.ece",
+     "summary": "",
+     "published": "2026-09-24T15:33:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/bf8w68/article71251490.ece/alternates/LANDSCAPE_1200/A.P.-unveils-WhGD6G9I4OJ.3.jpg.jpg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "7b470a988d6a",
-     "category": "conflict",
-     "category_label": "War & conflict",
+     "id": "367badcaf06d",
+     "category": "money",
+     "category_label": "Money & scams",
      "from_section": "National News",
      "figures": [
-      "27,000 cusecs , and the first"
+      "₹4 -crore property trail"
      ]
     },
     {
-     "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-     "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-     "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-     "published": "2026-09-24T09:28:33+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
-     "licence": "linkout",
-     "id": "afdbac57395c",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Naidu tells Collectors to stay alert, restore roads and move people from landslip-prone areas as rain continues",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-tells-collectors-to-stay-alert-restore-roads-and-move-people-from-landslip-prone-areas-as-rain-continues/article71503303.ece",
-     "summary": "Chief Minister reviews the rain situation with Collectors of 11 districts; Municipal Minister P. Narayana asks commissioners to keep drains clear and set up call centres",
-     "published": "2026-09-24T10:19:01+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/cao1by/article71503395.ece/alternates/LANDSCAPE_1200/Naidu%20review.jpeg",
-     "licence": "linkout",
-     "id": "e28733e51a68",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "11 districts ; Municipal Minister P"
-     ]
-    },
-    {
-     "title": "Election Commission row LIVE: CJP demands resignation of CEC Gyanesh Kumar within 48 hours",
-     "url": "https://www.thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece",
-     "summary": "The Cockroach Janta Party demanded initiation of criminal proceedings against Chief Election Commissioner Gyanesh Kumar and called for the restoration of pre-SIR voter rolls in all States",
-     "published": "2026-09-24T10:15:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/ye3l7t/article71503502.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-24%20at%202.39.03%20PM.jpeg",
-     "licence": "linkout",
-     "id": "33a57f22d230",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines",
-     "figures": [
-      "48 hours"
-     ]
-    },
-    {
-     "title": "To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face",
-     "url": "https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss",
-     "summary": "Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.",
-     "published": "2026-09-24T09:31:15+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab4eca9-1790241961.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "44ed66aa1d0f",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Artificial Intelligence Technology Solutions - Co, Its Subsidiary Announce Hardware Price Increase Across Security Solution Lineup",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZTNtODg4QzF1RVFCZUp4c2JLUXBkV1pNLV80Q2RqZXJwOWU3VUc5SkFlcmd2ck9aeC1leWtEQUR3VU9rYmNOSlpTQ2gwWExOUFE2M0NtaEtORjVYWlMtWnVUUGYxdExEOXp6WkVFN2lzUkFOUm9WbXloRXd2SkI4TzJ6ZEpVRkJheC1wMVQ1cERZbjZ5c0g5VExpNV8yM0haVHNKWXdYaTFoSWNibF9zX3FWcTdfNTJTYmFsb2UwNl9WZWZtcHhyMkFYbnNtWFlNWktwSDdyYXJxeDJJNUJJSlVweHl4VWlCcHFDc0JZSmZjUmlucHVIUk1ObmU2WjJPYmRPb3NFY2ZBUEdOaHFkVU15VDRkZDU5d3pVYnRUMXFSSkU?oc=5",
-     "summary": "Artificial Intelligence Technology Solutions - Co, Its Subsidiary Announce Hardware Price Increase Across Security Solution Lineup TradingView",
-     "published": "2026-09-24T10:10:52+00:00",
-     "source": "TradingView",
+     "title": "Jharkhand land scam: PMLA court defers charge framing against CM Hemant Soren to Sept 30",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDdXajRXMzBpRzFkaDVrbF9Wc3liajV4djJJdkRLY0VrbEJ3ZzIwSEt6aktudi1PMFVlS19YWW8yMGQ0eHYtMUR5eW5wWXhJMXZ4ODlyMDlhV0RqOVU3ZVFUR1lYR2hTZDBNS0NvWHN4b3hIRUlUamk5ZkR4YTRWb3FNRXhYR1VaMU1QUXE5NWdWZXJhZV8tVDJpYzl0MEZjak5leWlwaVFMVHBQR1FNQ1pnemlhT1JYOW5DclZQeDdGWlFLQlhFU2FleG1iWTREaXJjM9IB4gFBVV95cUxOZTFkMGlXbDJSYkpiVlN5OGFWTC1zenMyVENBdkdiWXpwZWppWXJ6LURzVUpJVS13bTFmU1ZkUVVfdk5BSkxuVWY5eWFheHNVZ0RSQjhqUXZ0VGY3Yms5ZUdCdnBXelZ3eEJSNlpDNjhheERGUV9lMGh5Z0RpNEd2UVdkaDNhRHpwaGlVbjhvMFRvZnZycnR6U1pSaWljMnRfcW5zNVBnX0hobXVHTWdPT3Zqakx3dGkwS2VnTUFJcy1VTmdNY1VEdGFPRWp2N3NRMk0xVGV2NUtGdTdYSGpZRHRR?oc=5",
+     "summary": "Jharkhand land scam: PMLA court defers charge framing against CM Hemant Soren to Sept 30 The New Indian Express",
+     "published": "2026-09-24T14:45:22+00:00",
+     "source": "The New Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "fc61771f87a0",
+     "id": "27dd1ec44a61",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Technology"
+     "from_section": "Scandals & Investigations",
+     "figures": [
+      "30. Jharkhand land scam: PMLA court"
+     ]
     },
     {
-     "title": "Can you make payments without internet connectivity? RBI’s offline e-rupee initiative explained",
-     "url": "https://www.livemint.com/money/can-you-make-payments-without-internet-connectivity-rbi-s-offline-e-rupee-initiative-explained-11790240976746.html",
-     "summary": "The RBI is exploring offline e-rupee transactions using Bluetooth and NFC, allowing digital payments without internet connectivity. Details here.&nbsp;",
-     "published": "2026-09-24T10:07:19+00:00",
+     "title": "31 of 46 flexi-cap mutual funds delivered positive 1-year returns despite market fall: Check the schemes in red",
+     "url": "https://www.livemint.com/money/personal-finance/31-of-46-flexi-cap-mutual-funds-delivered-positive-1-year-returns-despite-market-fall-check-the-schemes-in-red-11790248263378.html",
+     "summary": "Flexi-cap mutual funds saw a wide variation in one-year performance even as the Nifty 500 declined. While several schemes delivered positive returns, some slipped into negative territory. Here’s a look at how individual schemes fared against the benchmark.",
+     "published": "2026-09-24T13:09:18+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/24/600x338/no_onternet_1790244183449_hGTr_1790244187439_kmHH_9192ed8e-88d6-4c28-b451-cd3575c3e5ac_Xal8.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/24/600x338/flexuc_1790252116603_HP1N_1790252121920_ahvY_f9162d45-9488-4a5a-a36e-8d4d803e4d27_CDg7.png",
      "licence": "linkout",
-     "id": "19056aa2eb36",
+     "id": "13d3ab203813",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
+     "from_section": "Business",
+     "figures": [
+      "46 flexi -cap mutual funds delivered",
+      "500 declined"
+     ]
     },
     {
-     "title": "Planning a joint home loan with your spouse? Know how it affects eligibility, tax benefits, EMI and repayment",
-     "url": "https://www.livemint.com/money/personal-finance/planning-a-joint-home-loan-with-your-spouse-know-how-it-affects-eligibility-tax-benefits-emi-and-repayment-11790241303902.html",
-     "summary": "A joint home loan can help spouses increase their borrowing eligibility by combining their incomes, while also allowing them to share EMI payments. But higher eligibility does not mean couples should borrow the maximum, as both borrowers share the repayment responsibility.",
-     "published": "2026-09-24T09:22:24+00:00",
-     "source": "Mint",
+     "title": "Colby Covington Targets Khamzat Chimaev In Wrestling Clash, Cites Cardio And Size As Key Factors",
+     "url": "https://sports.ndtv.com/us-mma/colby-covington-targets-khamzat-chimaev-in-wrestling-clash-cites-cardio-and-size-as-key-factors-12093158#publisher=newsstand",
+     "summary": "Colby Covington says he is ready to confront Khamzat Chimaev in a freestyle wrestling bout under the Real American Freestyle. Covington said that \"he doesn’t have cardio\". Covington also agreed to fight with a non-negotiable condition.",
+     "published": "2026-09-24T14:34:01+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/24/600x338/Gemini_Generated_Image_n5vg5lnvg5ln5vg_17902415_1790241562093_QlHQ_1790241562323_ShML_8b92d570-0e4d-4a37-bb17-35a1347616ca_01fL.png",
+     "image": "https://c.ndtvimg.com/2026-09/7gcc3b3_khamzat-chimaev_625x300_24_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c72ad3ad7dfa",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
+     "id": "c785003fe8ed",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Sports"
     },
     {
      "title": "Singer Michael Kiwanuka reveals he is recovering from a stroke",
@@ -279,6 +298,20 @@
      "from_section": "Culture"
     },
     {
+     "title": "Flood alert sounded in North Andhra as rivers swell",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/flood-alert-sounded-in-north-andhra-as-rivers-swell/article71501701.ece",
+     "summary": "With more rain forecast over the next few days, officials have deployed NDRF and SDRF teams at sensitive places to take up relief measures, river-level monitoring intensified and residents from vulnerable low-lying areas being shifted",
+     "published": "2026-09-24T15:24:36+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/f6v8gz/article71505066.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-24%20at%2020.29.05.jpeg",
+     "licence": "linkout",
+     "id": "2d391c25d422",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National Hotlines"
+    },
+    {
      "title": "Form 8K Artificial Intelligence Technology Solutions For: 24 September By Investing.com",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZExYSUk2cUNHT1JJZGFUUjVfT3pQbFZvd01MbW00eGtqRnFzVy1FVlhpMzFPcl9FNUhqNWxYREM3ZjZLVjRmR2xpQzExd3VUUFJfU3kyeEdBTGRzSVp0WVlCMWc2d203ZEwwclJVZUFKRWZ3NXFfV09USDZKMS1fUlp2T3dBLU9JS25McTEwZ1F4LWZxYnpZWXVIV3lFRVoxN1JfNTUxX0NFTmdOVFhjbS00ZnZJeGM4clBqS2NfeEMwWnB2VmZXQW9R?oc=5",
      "summary": "Form 8K Artificial Intelligence Technology Solutions For: 24 September By Investing.com Investing.com India",
@@ -290,16 +323,10 @@
      "id": "14f6a7749800",
      "also": [
       {
-       "source": "TradingView",
+       "source": "tradingview.com",
        "title": "Artificial Intelligence Technology Solutions - Co, Its Subsidiary Announce Hardware Price Increase Across Security Solution Lineup",
        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZTNtODg4QzF1RVFCZUp4c2JLUXBkV1pNLV80Q2RqZXJwOWU3VUc5SkFlcmd2ck9aeC1leWtEQUR3VU9rYmNOSlpTQ2gwWExOUFE2M0NtaEtORjVYWlMtWnVUUGYxdExEOXp6WkVFN2lzUkFOUm9WbXloRXd2SkI4TzJ6ZEpVRkJheC1wMVQ1cERZbjZ5c0g5VExpNV8yM0haVHNKWXdYaTFoSWNibF9zX3FWcTdfNTJTYmFsb2UwNl9WZWZtcHhyMkFYbnNtWFlNWktwSDdyYXJxeDJJNUJJSlVweHl4VWlCcHFDc0JZSmZjUmlucHVIUk1ObmU2WjJPYmRPb3NFY2ZBUEdOaHFkVU15VDRkZDU5d3pVYnRUMXFSSkU?oc=5",
-       "summary": "Artificial Intelligence Technology Solutions - Co, Its Subsidiary Announce Hardware Price Increase Across Security Solution Lineup TradingView"
-      },
-      {
-       "source": "UN Meetings Coverage and Press Releases",
-       "title": "Security Council, 10228th Meeting (PM) Artificial Intelligence and International Security",
-       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LSEJvTWFHN3AwODlsTFpON2syOEVnRVJhT3BueFFGbkZsWl9ZbzJHS3ZELUxOdXZSSmNyZUFuM1ZUbHpZMjJCeFFrVnc?oc=5",
-       "summary": "Security Council, 10228th Meeting (PM) Artificial Intelligence and International Security UN Meetings Coverage and Press Releases"
+       "summary": "Artificial Intelligence Technology Solutions - Co, Its Subsidiary Announce Hardware Price Increase Across Security Solution Lineup tradingview.com"
       }
      ],
      "category": "tech",
@@ -309,9 +336,9 @@
     {
      "title": "'Obviously unacceptable': Australia accuses OpenAI of breaching government website",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTUFsa09NbWo4eDhWUEs3UFdfLXROT1JIbFY1SXFidG1yUDJmaWtVOVd6cG05VjNWSTJjU2pMYjRJVUhjVXRBYXF3QWozUDNuamlYUGU0QkxoMy1uQlVvbmxWbnllV04yV3hhREt4b2U5d19wMERfVDZTbkdGamV6ZU41SXdtWXBlNDR6ZHNLTV9XaFpWazNibTNpQXFOVkRtTVpXbURCXzZaamZsSHJQVk40WkRMbXhvVXFlVTNvY3I5cUpXbzlfTGlDV2FfTG9hVXBHcVFua3NSWWJlbUZfWmxuVFdZTVBFeDZDbnNmVGpwY2fSAfgBQVVfeXFMUDk0US00RHJNbkpYR2FBWE5FRFZQZ002MnFNTWk0RFYxbGNlc3dUbHRPbDU2MDVKTklSUXRpcFEtQV9IRlpqT3VBYzQtSUdmeVBsejJnOWpTVWxFYUlNSEJnblJQNXFrdE0xR2h2LU4ycml3YUxFRzJaWk5FeGNUZ1Rzd0JkUkxYVVZ5QXhNMjdsLTZPamYzT21paUd2ZnlHVmRfbXlQYllxUDJHcEpmb1Aza3pZV2FGdng0cmh6R0NfVzRPVEE3ZlhZbHY5V2tRS29kQVMwa0dnbEVJSVhKV1duMFd5eG1mNktyUEJ4ZHJzUWFHM0lqWmg?oc=5",
-     "summary": "'Obviously unacceptable': Australia accuses OpenAI of breaching government website timesofindia.indiatimes.com",
+     "summary": "'Obviously unacceptable': Australia accuses OpenAI of breaching government website The Times of India",
      "published": "2026-09-24T02:57:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -329,62 +356,75 @@
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Jammu & Kashmir working on establishing Artificial Intelligence centre of excellence",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUmNYdjN4dkQ4Q2M4bEEyWUd1U21OeGRueVphSWQyZnhWWGl1bmRmdjNDVm9uWGx3Q0w4cEMtYVcwZjFlQThjRFZCX0IybUFKN1R1Sk5IQXprdVNQMXlfS09PYk0tN3ZRUnQyOFl0MVVrSElGbzVnV3pFMWpZUEpkbG9NX1B5Nm85YUVEQ3JZN29oS29tMENHT3l5Y1ZBNnFMZ3Z1djNZUzMyeDNrbENPdFB3LU5rRmJ6aks0dldnY3FtN3NzNXVZc0Z4VmY1ZEItbHA1OVJpenk3UWlLdnM2SNIB5gFBVV95cUxNbHplY3RyM1BoMHNGX3pNc2FXanM5dFR2dDlkdHM2My1KanR4YzM3aC1yOHdjVTJpUHhCb1U0b2xNTmRiaXF6OURpTk02MnVmYmpjc0Q4NWV4R0dHcG9nOFFtckhEMy1WSWRwbmNsRHNUUWdhU3dQQ3ZzZXNfUTJCdzhiX0hqYWpUcFJwbzgwNG03SHEzeHg5cVZPZ29VRkkwZDdJMVpMalFoY1JlZHdtN25wWEN0cDBVMm13NXh1S1hmWXhQNHA0ZmJycUx2UXZvQmJjUEFfa0VnTnRMbXBEa25TeFk2QQ?oc=5",
-     "summary": "Jammu & Kashmir working on establishing Artificial Intelligence centre of excellence The Economic Times",
-     "published": "2026-09-24T09:30:33+00:00",
-     "source": "The Economic Times",
+     "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+     "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+     "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+     "published": "2026-09-24T14:08:38+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": null,
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
      "licence": "linkout",
-     "id": "b9ff399e0a2c",
+     "id": "4ea6410dce1e",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology"
+     "from_section": "Global News"
     },
     {
-     "title": "Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in Wushu",
-     "url": "https://www.thehindu.com/news/national/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
-     "summary": "It is third Asian Games medal for Roshibina, who won a silver at the 2023 Hangzhou Asian Games and a bronze at the 2018 Jakarta-Palembang Games",
-     "published": "2026-09-24T10:27:36+00:00",
+     "title": "Asian Games 2026 LIVE: Seema wins bronze in women's 10,000m final; 4x400m mixed relay team wins silver",
+     "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
+     "summary": "Wushu player Roshibina Devi Naorem won a silver medal in the women’s 60kg sanda event",
+     "published": "2026-09-24T15:32:29+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/d0ylj8/article71502719.ece/alternates/LANDSCAPE_1200/PTI09_24_2026_000054A.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/9b1fxn/article71504537.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-24%20at%2019.21.55.jpeg",
      "licence": "linkout",
-     "id": "06a3c204b1f8",
+     "id": "f6f3193f3563",
      "also": [
       {
-       "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, September 24, 2026: Roshibina Devi Naorem claims silver medal in Asian Games",
-       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNM0FSdXJCM2stQUY0MDE3emZkckxiVDB5SjlwT21VaEFrczM2c1Q0bDI4eTJHNTdxWk9CQU83allTYThRUGlkdGs2R21aLXp3d3B4dXB5c3VfN1hWU2dONThiMG1fZ2FnNnNaQjFWM2M5YUFtN0p4NjJ0d3lzUERCekxYUVBWVEZyOU9BdEdKV3V0YWNJQ0pVOHF5Y2txeGJzWHlHeE81UnNSS0tDc3V4YkVfdWVleVpIeUNacFJ1cGd2dENwcFc4ZFM1dU16dG9pdjc4bFlnQ3Bhcy1PYVQ2T19DVzNsSjFGbnp4dTZPQ1BvWi1uNUN6d0FjRFo5emNRR0ZvaGNIN2VpWmdkRjFjako2cUlmMzjSAZ4CQVVfeXFMUHdiVU01T2pBRHY1TDlqSy1mdUNqSHRyd0tWaFVNeGN0c0dxcnQ0UGNtbnZ2amJvSE13MUhCSmREVjJ3ZDZ6Ui1Ob0ZjTVh6djdOTkMzMDIzeXdwV1NSS2d1MndTWWxvUDdyWDdnbGdwMWRuUWtZWnFYYW9FNUdldUFRMDM5VjViLVA5eEV2Q1dnQmpwVXoyYTJtSlJ5N25tV1pJdG5TLV9fempoZUZna2Rmem4xa05fWDNkY2xHc3pGZExpZGlUSXlkWHV5TnFTTmZhUEpIRnNIaGd0YzRDWlNYUHVmTFduSFRkczJIZElNckpRQ05CcE90LXRjbnBaVHNoazRPcE5RTk9nMzR6V0g0QWlUcFZWOG1hUk5hZw?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 24, 2026: Roshibina Devi Naorem claims silver medal in Asian Games The Indian Express"
-      },
-      {
        "source": "NDTV Sports",
-       "title": "Asian Games 2026, Day 5 LIVE Updates: Sakshi Chaudhary Starts Round Of 16 Bout, Eyes Quarterfinals Berth",
-       "url": "https://sports.ndtv.com/othersports/asian-games-2026-live-updates-day-5-india-medal-tally-roshibina-devi-aichi-nagoya-japan-live-news-12088910#publisher=newsstand",
-       "summary": "Asian Games 2026 Day 5 LIVE Updates: India's Men's 10m Air Pistol team finishes 4th. In a shock outcome, none of the shooters qualified for the individual final."
+       "title": "India In Athletics, Asian Games 2026 Highlights: India Win Silver In Mixed 4x400m Relay; Seema Kumari Bags 10,000m Bronze",
+       "url": "https://sports.ndtv.com/athletics/india-in-athletics-asian-games-2026-live-updates-gurindervir-singh-animesh-kujur-seema-pooja-12088793#publisher=newsstand",
+       "summary": "India In Athletics At Asian Games 2026 Updates: Seema Kumari won bronze in the women's 10,000 final, and India's mixed 4x400 relay team won silver. Gurindervir Singh and Animesh Kujur qualified for the men's 100m…"
       }
      ],
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "National News"
+     "from_section": "National News",
+     "figures": [
+      "60kg sanda event"
+     ]
     },
     {
-     "title": "India VS Panama: A Chance For Players To Gain Experience And Direction As A Footballing Nation",
-     "url": "https://sports.ndtv.com/football/india-vs-panama-a-chance-for-players-to-gain-experience-and-direction-as-a-footballing-nation-12090546#publisher=newsstand",
-     "summary": "The upcoming fortnight starting with an international friendly against world No. 44 Panama on Friday will offer Indian players a chance to gain valuable experience and find a new direction as a footballing nation.",
-     "published": "2026-09-24T08:57:50+00:00",
-     "source": "NDTV Sports",
+     "title": "Will.i.am backs campaign for Sir Tom Jones to return to The Voice",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po?at_medium=RSS&at_campaign=rss",
+     "summary": "Sir Tom Jones, 86, has appeared as an on-off coach on the ITV show since 2012.",
+     "published": "2026-09-24T05:27:58+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/jnekcl7_getty-_625x300_24_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eebe/live/a3554e50-b78b-11f1-b704-f3a72274a130.jpg",
      "licence": "linkout",
-     "id": "546ad16dbadc",
+     "id": "5aef0271d372",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Sports",
+     "from_section": "Culture"
+    },
+    {
+     "title": "Dedicated bus lane could cut JNTU-Raidurgam peak-hour commute by 20 minutes",
+     "url": "https://www.thehindu.com/news/national/telangana/dedicated-bus-lane-could-cut-jntu-raidurgam-peak-hour-commute-by-20-minutes/article71504634.ece",
+     "summary": "The proposal of Counterflow Bus Rapid Transit (BRT) is expected to bring travel time down by as much as 20 minutes from the present 45 to 50 minutes, while increasing the number of passengers that can be moved through the corridor.",
+     "published": "2026-09-24T15:30:49+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/wvahce/article71504630.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-24%20at%207.05.29%20PM.jpeg",
+     "licence": "linkout",
+     "id": "e8eafd35d331",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National News",
      "figures": [
-      "44 Panama on Friday will offer"
+      "20 minutes",
+      "20 minutes from the present 45",
+      "50 minutes , while increasing"
      ]
     },
     {
@@ -397,34 +437,6 @@
      "image": null,
      "licence": "linkout",
      "id": "b70a4f76958c",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Suspend CEC, probe government role in his actions: Kapil Sibal",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUFiY1BucmxjOWI0bExuUlNDRnRndGtNY05Gb3I4YlVWUUpwdEhFY3VPajdBNFN5bUl2LXphaHNrWXZicWFwNVU5Tkt3SUJHUDExX2o1NkVjUWxFZ2hKa0pnZFNBaWxib0I2N3pRMmI5ZHZBMWlDNnc1Ym5NSDlDcTFUQk5BbURoaW12YVByVG8xT1Jf?oc=5",
-     "summary": "Suspend CEC, probe government role in his actions: Kapil Sibal Pioneer Daily",
-     "published": "2026-09-23T12:37:17+00:00",
-     "source": "Pioneer Daily",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "b4b09d7992ad",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Govt Launches Anti-Dumping Probe Into Chinese Glycine, Anti-Circumvention Probe Into CPVC Resin",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0ZqdjNwWEdVaW16NFE3UW12elhpR3lodWdkVFZRalMzaGdQMnoyaVBSSzBGOVg5Ui0za19yRGYwQnY0LWE2dGhBcHNENTcwMGNVMmhneFIxRDJQOXNPSEhobDk1bUdtU1UtYjN2Mk1SdmhIclcwOFM1RmI1SkdMNExoWW5veGlOZ25qX29tcGtFbVZJV1VQZWJnUUw4VWFFM3E0aE1zTjgwcDNVUUZZRnhwckZwLV9jTmVzbUp5NjJSMi1tbEUwX2Rla3N4bnZmakQ5c3lfalNPUQ?oc=5",
-     "summary": "Govt Launches Anti-Dumping Probe Into Chinese Glycine, Anti-Circumvention Probe Into CPVC Resin KNN India",
-     "published": "2026-09-23T11:35:20+00:00",
-     "source": "KNN India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "64a183a2e15c",
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Scandals & Investigations"
@@ -443,7 +455,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-24T10:37:44.261242+00:00",
+     "published": "2026-09-24T15:40:07.202436+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -454,7 +466,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-24T10:37:44.261252+00:00",
+     "published": "2026-09-24T15:40:07.202453+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -465,7 +477,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-24T10:37:44.261257+00:00",
+     "published": "2026-09-24T15:40:07.202458+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -476,7 +488,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-24T10:37:44.261260+00:00",
+     "published": "2026-09-24T15:40:07.202461+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -487,7 +499,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-24T10:37:44.261262+00:00",
+     "published": "2026-09-24T15:40:07.202465+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -498,28 +510,44 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-24T10:37:44.261265+00:00",
+     "published": "2026-09-24T15:40:07.202469+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "Asian Games 2026, Day 5 LIVE Updates: Sakshi Chaudhary Starts Round Of 16 Bout, Eyes Quarterfinals Berth",
-     "url": "https://sports.ndtv.com/othersports/asian-games-2026-live-updates-day-5-india-medal-tally-roshibina-devi-aichi-nagoya-japan-live-news-12088910#publisher=newsstand",
-     "summary": "Asian Games 2026 Day 5 LIVE Updates: India's Men's 10m Air Pistol team finishes 4th. In a shock outcome, none of the shooters qualified for the individual final.",
-     "published": "2026-09-24T09:00:15+00:00",
-     "source": "NDTV Sports",
+     "title": "CBSE Date Sheet 2027 Highlights: Class 10, 12 Exam Schedule To Be Out Soon, Check Details",
+     "url": "https://www.ndtv.com/education/cbse-date-sheet-2027-live-updates-class-10-12-exam-schedule-to-be-out-soon-check-details-12090638#publisher=newsstand",
+     "summary": "CBSE Datesheet 2027: Class 10, 12 timetable is expected to be announced soon by the board. Check latest updates on board exam dates, sample papers, and more.",
+     "published": "2026-09-24T13:47:15+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/vr9a94kc_sakshi-getty_625x300_24_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/dhe2jtq_cbse_625x300_24_September_26.jpeg",
      "licence": "linkout",
-     "id": "2eade7a3e046",
+     "id": "a54938c1cb64",
      "kind": "liveblog",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "5 LIVE Updates: Sakshi Chaudhary Starts",
-      "16 Bout , Eyes Quarterfinals Berth",
-      "5 LIVE Updates: India's Men's 10m"
+      "12 Exam Schedule To Be Out",
+      "12 timetable is expected to be"
+     ]
+    },
+    {
+     "title": "India In Athletics, Asian Games 2026 Highlights: India Win Silver In Mixed 4x400m Relay; Seema Kumari Bags 10,000m Bronze",
+     "url": "https://sports.ndtv.com/athletics/india-in-athletics-asian-games-2026-live-updates-gurindervir-singh-animesh-kujur-seema-pooja-12088793#publisher=newsstand",
+     "summary": "India In Athletics At Asian Games 2026 Updates: Seema Kumari won bronze in the women's 10,000 final, and India's mixed 4x400 relay team won silver. Gurindervir Singh and Animesh Kujur qualified for the men's 100m semi-finals.",
+     "published": "2026-09-24T14:20:37+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/qim1oii_india-athletics_625x300_24_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f73c4e3da563",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "10,000 final , and India's mixed"
      ]
     }
    ]
@@ -546,9 +574,9 @@
     {
      "title": "'Obviously unacceptable': Australia accuses OpenAI of breaching government website",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTUFsa09NbWo4eDhWUEs3UFdfLXROT1JIbFY1SXFidG1yUDJmaWtVOVd6cG05VjNWSTJjU2pMYjRJVUhjVXRBYXF3QWozUDNuamlYUGU0QkxoMy1uQlVvbmxWbnllV04yV3hhREt4b2U5d19wMERfVDZTbkdGamV6ZU41SXdtWXBlNDR6ZHNLTV9XaFpWazNibTNpQXFOVkRtTVpXbURCXzZaamZsSHJQVk40WkRMbXhvVXFlVTNvY3I5cUpXbzlfTGlDV2FfTG9hVXBHcVFua3NSWWJlbUZfWmxuVFdZTVBFeDZDbnNmVGpwY2fSAfgBQVVfeXFMUDk0US00RHJNbkpYR2FBWE5FRFZQZ002MnFNTWk0RFYxbGNlc3dUbHRPbDU2MDVKTklSUXRpcFEtQV9IRlpqT3VBYzQtSUdmeVBsejJnOWpTVWxFYUlNSEJnblJQNXFrdE0xR2h2LU4ycml3YUxFRzJaWk5FeGNUZ1Rzd0JkUkxYVVZ5QXhNMjdsLTZPamYzT21paUd2ZnlHVmRfbXlQYllxUDJHcEpmb1Aza3pZV2FGdng0cmh6R0NfVzRPVEE3ZlhZbHY5V2tRS29kQVMwa0dnbEVJSVhKV1duMFd5eG1mNktyUEJ4ZHJzUWFHM0lqWmg?oc=5",
-     "summary": "'Obviously unacceptable': Australia accuses OpenAI of breaching government website timesofindia.indiatimes.com",
+     "summary": "'Obviously unacceptable': Australia accuses OpenAI of breaching government website The Times of India",
      "published": "2026-09-24T02:57:00+00:00",
-     "source": "timesofindia.indiatimes.com",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -580,12 +608,6 @@
        "title": "KPSC Scam: Karnataka Government Contemplates Moving Supreme Court Against HC Order on SIT Probe - India Today",
        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRzF1cFpaWWJudVgxd0VTRFdsNzFwVUVzeUxINFc5dDdrX3RRQ0tMSUVwN0hYZDRhUXk0X0VuSUF0ZHMtdlc2YXVvQVI5RENWTmZ4TV9uRWVXRk9uQzFfaUdUMXhOUGhYRXdEQ0JkWm9OLW1lNmRfWUt5Y2pVOEJUM01ITkNHRXp0eng1NXB6M1liWWpGVjRrWkpuUHdKZHlNb3lUOFpNYUZZXzJjaksyT0tGQ01HcnVmWHV6QkE5ZkFxT2dQTkpuNjRJU3k0UmhUeThmcFpIdjdzZGduUEIyeEx3RXowM1FLV29XWNIB8gFBVV95cUxNbWhWX3VxelRSSFEyTF9OSVdqX1lSTkhUN1o3Y3hXNkY5akJHeFRDbzlIdF9yczRDRkxGcjZjT2RZUEU3cFNNZ25wbXFkRnZycFJhTDByR1MtSUNMemFPNTExUGlYSHVqMFZRX1FubUt3UEdhZzhCUDYwM3VqVVJCcTJxSDdxN1dscm9SSi1uZnRwQS1hdklzRWpzZ0RVMXMxUUN0bW9rWktNcURaMWNtc3VMTmZTZURGcGktTVcweGZETzJ0YjZ3dFNIaEZIV3M5WUNtc0hTcmR6QWxBNlNyR244NkRqRkdwM2piSndQbURQUQ?oc=5",
        "summary": "KPSC Scam: Karnataka Government Contemplates Moving Supreme Court Against HC Order on SIT Probe - India Today India Today"
-      },
-      {
-       "source": "indiagazette.com",
-       "title": "Karnataka govt to challenge HC order on KPSC Veterinary Officer recruitment scam SIT probe in SC",
-       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHZ1TVBtaTh5T2Y4R0VjckZ2bzlTSkRfZURFd1N2dE43bzc5NGFWRVU5U1VOelNhMVR4ckI3TVFWNjN2czRCckhGZGRra2JUS0N2ckZDV3lSZmRTa2V1OWNRMHBFeGNOZWFjWDNHNmJDS19YTmhDVVNheVZUb1BXNEhOa0ZsT2tIam1jbTBVR2FrUmwzaGc1eEdTcUwxc2h5MExSTFRMLTF0bTV6ZGJISlZBbzJrSXVQVllKVGFJaUJQaW9BWjNHUjhPWjJOOTY0Y1BtNVpaRQ?oc=5",
-       "summary": "Karnataka govt to challenge HC order on KPSC Veterinary Officer recruitment scam SIT probe in SC indiagazette.com"
       }
      ],
      "category": "general",
@@ -605,19 +627,6 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Karnataka govt to challenge HC order on KPSC Veterinary Officer recruitment scam SIT probe in SC",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHZ1TVBtaTh5T2Y4R0VjckZ2bzlTSkRfZURFd1N2dE43bzc5NGFWRVU5U1VOelNhMVR4ckI3TVFWNjN2czRCckhGZGRra2JUS0N2ckZDV3lSZmRTa2V1OWNRMHBFeGNOZWFjWDNHNmJDS19YTmhDVVNheVZUb1BXNEhOa0ZsT2tIam1jbTBVR2FrUmwzaGc1eEdTcUwxc2h5MExSTFRMLTF0bTV6ZGJISlZBbzJrSXVQVllKVGFJaUJQaW9BWjNHUjhPWjJOOTY0Y1BtNVpaRQ?oc=5",
-     "summary": "Karnataka govt to challenge HC order on KPSC Veterinary Officer recruitment scam SIT probe in SC indiagazette.com",
-     "published": "2026-09-23T14:02:00+00:00",
-     "source": "indiagazette.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "f23d63274efd",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
      "title": "Kerala Chief Minister Faces Corruption Allegations Over Flight Funding",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHN0M0hxand0TjYxTVFMMUFrNEd4X3VTeUliajBFcVpCY1Zqd2hoNjRaWURNVDcwd3NqdHMyd2pLU2FaOVRVZGtDQTNiS1c4a1I1MlFoZ0VrcGVzaVNXWS1SUUdPRzRLd21Dc0Qxc041eko2YWI5bDFoYVRua3RFZGc2RlhURzVvN3BqWloxbHNOT2h3OGhZT25XSDZfQlZ0eVZ3RDQyNF9UVFFGUFRaMS1faHcwdw?oc=5",
      "summary": "Kerala Chief Minister Faces Corruption Allegations Over Flight Funding India News Network",
@@ -629,19 +638,6 @@
      "id": "4fa37ce4397d",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Exclusive Interview | Tukaram Mundhe: 'We Won't Tolerate Corruption'",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUNRaFQ3VlNLS2dzYmx3RGIxQk1aZW5UQlYtYmhxdldGalVtVG16Z0VwYTBGUlpTaTV0REdNa1RUcV9SQ1JnelYtZTVrSVFGMW55akc2R0tXaWNBalRob3laT3prZXdhcU9FU0llT0pMby1DWk9xNFZVRFAybEhPeUVTZzhNVXgtWENLeFJDZjdvUWZYUHhyUkl0WWVEanRBdFHSAa8BQVVfeXFMTWtsUW5LVjZvUzFKZW12TkRKRGdoX0dnbkxMWmlSOXBNRUpSTDN4WXczX295SEhkYjFLcnMyTTZSaGFpMXA0OTdZSHNhQWoybG93ZmFrTTNUNC1nRmJaUlB5VHA3NjFrb1pMVC1ucURZQ2hCWDVERlhRNFFsSzliVlpBTkZEU2RxNEZ6RmFYdERHaXpXTkFkb0RpNG5ndVBmbzJDYkJ1Nkl4XzYta3Z2VQ?oc=5",
-     "summary": "Exclusive Interview | Tukaram Mundhe: 'We Won't Tolerate Corruption' outlookindia.com",
-     "published": "2026-09-23T12:18:09+00:00",
-     "source": "outlookindia.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4c1019edb441",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -652,125 +648,100 @@
    "upsc": false,
    "items": [
     {
-     "title": "Three Kannur prison inmates booked for allegedly assaulting official",
-     "url": "https://www.thehindu.com/news/national/kerala/three-kannur-prison-inmates-booked-for-allegedly-assaulting-official/article71503521.ece",
-     "summary": "Charges include attempt to attack other on-duty personnel",
-     "published": "2026-09-24T10:28:35+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/yud3rc/article71503613.ece/alternates/LANDSCAPE_1200/Arrest%20-%20getty%20images.jpg",
-     "licence": "linkout",
-     "id": "16e57524beac",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in Wushu",
-     "url": "https://www.thehindu.com/news/national/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
-     "summary": "It is third Asian Games medal for Roshibina, who won a silver at the 2023 Hangzhou Asian Games and a bronze at the 2018 Jakarta-Palembang Games",
-     "published": "2026-09-24T10:27:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/d0ylj8/article71502719.ece/alternates/LANDSCAPE_1200/PTI09_24_2026_000054A.jpg",
-     "licence": "linkout",
-     "id": "06a3c204b1f8",
-     "also": [
-      {
-       "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, September 24, 2026: Roshibina Devi Naorem claims silver medal in Asian Games",
-       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNM0FSdXJCM2stQUY0MDE3emZkckxiVDB5SjlwT21VaEFrczM2c1Q0bDI4eTJHNTdxWk9CQU83allTYThRUGlkdGs2R21aLXp3d3B4dXB5c3VfN1hWU2dONThiMG1fZ2FnNnNaQjFWM2M5YUFtN0p4NjJ0d3lzUERCekxYUVBWVEZyOU9BdEdKV3V0YWNJQ0pVOHF5Y2txeGJzWHlHeE81UnNSS0tDc3V4YkVfdWVleVpIeUNacFJ1cGd2dENwcFc4ZFM1dU16dG9pdjc4bFlnQ3Bhcy1PYVQ2T19DVzNsSjFGbnp4dTZPQ1BvWi1uNUN6d0FjRFo5emNRR0ZvaGNIN2VpWmdkRjFjako2cUlmMzjSAZ4CQVVfeXFMUHdiVU01T2pBRHY1TDlqSy1mdUNqSHRyd0tWaFVNeGN0c0dxcnQ0UGNtbnZ2amJvSE13MUhCSmREVjJ3ZDZ6Ui1Ob0ZjTVh6djdOTkMzMDIzeXdwV1NSS2d1MndTWWxvUDdyWDdnbGdwMWRuUWtZWnFYYW9FNUdldUFRMDM5VjViLVA5eEV2Q1dnQmpwVXoyYTJtSlJ5N25tV1pJdG5TLV9fempoZUZna2Rmem4xa05fWDNkY2xHc3pGZExpZGlUSXlkWHV5TnFTTmZhUEpIRnNIaGd0YzRDWlNYUHVmTFduSFRkczJIZElNckpRQ05CcE90LXRjbnBaVHNoazRPcE5RTk9nMzR6V0g0QWlUcFZWOG1hUk5hZw?oc=5",
-       "summary": "Today News Headlines for School Assembly, September 24, 2026: Roshibina Devi Naorem claims silver medal in Asian Games The Indian Express"
-      },
-      {
-       "source": "NDTV Sports",
-       "title": "Asian Games 2026, Day 5 LIVE Updates: Sakshi Chaudhary Starts Round Of 16 Bout, Eyes Quarterfinals Berth",
-       "url": "https://sports.ndtv.com/othersports/asian-games-2026-live-updates-day-5-india-medal-tally-roshibina-devi-aichi-nagoya-japan-live-news-12088910#publisher=newsstand",
-       "summary": "Asian Games 2026 Day 5 LIVE Updates: India's Men's 10m Air Pistol team finishes 4th. In a shock outcome, none of the shooters qualified for the individual final."
-      }
-     ],
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Drowning of boy in apartment pool in Kochi: parents allege negligence on part of association",
-     "url": "https://www.thehindu.com/news/national/kerala/drowning-of-boy-in-apartment-pool-in-kochi-parents-allege-negligence-on-part-of-association/article71503045.ece",
-     "summary": "Office-bearers of the apartment owners’ association have dismissed the charges as baseless",
-     "published": "2026-09-24T10:27:10+00:00",
+     "title": "Alprazolam seizure leads EAGLE Force to ₹4-crore property trail in Zaheerabad drug case",
+     "url": "https://www.thehindu.com/news/national/telangana/alprazolam-seizure-leads-eagle-force-to-4-crore-property-trail-in-zaheerabad-drug-case/article71504820.ece",
+     "summary": "",
+     "published": "2026-09-24T15:33:28+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "cb80e355ba15",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Delhi Rape Case Accused Was Removed From Gym For Misbehaving With Women",
-     "url": "https://www.ndtv.com/india-news/delhi-park-rape-case-was-pre-planned-accuseds-frequent-visitor-probe-on-astha-kunj-park-rape-case-kalkaji-delhi-rape-case-12089907#publisher=newsstand",
-     "summary": "The incident took place earlier this week when the girl and her 17-year-old friend went to Astha Kunj Park after offering prayers at Kalkaji Mandir on the occasion of her 17th birthday.",
-     "published": "2026-09-24T06:39:38+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/dot5qspg_encounter_625x300_22_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4c9364b0c8ee",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "IIT Madras Maps The Human Brain By Merging Neuroscience, Engineering And Advanced Imaging",
-     "url": "https://www.ndtv.com/education/iit-madras-maps-the-human-brain-by-merging-neuroscience-engineering-and-advanced-imaging-12090600#publisher=newsstand",
-     "summary": "IIT Madras: The scientific director noted that the centre aims to study how the brain changes when a disease, such as strokes, occurs.",
-     "published": "2026-09-24T06:36:18+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/d2vbvjl_iit-madras_625x300_24_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "7c43bdd78154",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Greater Noida Bus On Fire, Driver Told Passengers \"Won't Stop, Don't Care If You Die\"",
-     "url": "https://www.ndtv.com/india-news/greater-noida-bus-on-fire-driver-told-passengers-wont-stop-dont-care-if-you-die-greater-noida-bus-fire-yamuna-expressway-12090575#publisher=newsstand",
-     "summary": "According to the FIR, the passengers had earlier objected to the driver and conductor smoking inside the bus - over which the two laughed and threatened the passengers to stay quiet.",
-     "published": "2026-09-24T06:35:23+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/f1qjo9kc_bus_625x300_24_September_26.jpeg",
-     "licence": "linkout",
-     "id": "43d6622f60f2",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "In Another Bihar Horror, Teen Sexually Assaulted By Group Of Men On Camera",
-     "url": "https://www.ndtv.com/india-news/in-another-bihar-horror-teen-sexually-assaulted-by-group-of-men-on-camera-12090157#publisher=newsstand",
-     "summary": "The police said they immediately set out to take action the moment they saw the video of the incident",
-     "published": "2026-09-24T06:29:02+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ela3qmb8_samastipur_625x300_24_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "18513c10afc2",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "'Take Wife's Name If Caught': Son Told Hitmen Before UP Businessman's Murder",
-     "url": "https://www.ndtv.com/india-news/kanpur-businessman-murder-take-wifes-name-if-caught-son-told-hitmen-before-up-businessmans-murder-12090042#publisher=newsstand",
-     "summary": "Vishal told police officials associated with the investigation that Subrat had asked him to kill his father and had allegedly promised him Rs 6 lakh",
-     "published": "2026-09-24T06:21:37+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ooke776k_kanput-businessman-murder_625x300_24_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "22b1e58726b4",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "367badcaf06d",
+     "category": "money",
+     "category_label": "Money & scams",
      "figures": [
-      "Rs 6 lakh"
+      "₹4 -crore property trail"
      ]
+    },
+    {
+     "title": "Keralam power crisis: KSEB to intensify demand-side management activities",
+     "url": "https://www.thehindu.com/news/national/kerala/keralam-power-crisis-kseb-to-intensify-demand-side-management-activities/article71505019.ece",
+     "summary": "KSEB urges KWA to shift water pumping to daytime solar hours or off-peak periods. It asks industries to shift their energy-sensitive processes to off-peak hours.",
+     "published": "2026-09-24T15:32:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nowtkb/article71505125.ece/alternates/LANDSCAPE_1200/KSEB_05%201.jpg",
+     "licence": "linkout",
+     "id": "e3905c2d8949",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Asian Games 2026 LIVE: Seema wins bronze in women's 10,000m final; 4x400m mixed relay team wins silver",
+     "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
+     "summary": "Wushu player Roshibina Devi Naorem won a silver medal in the women’s 60kg sanda event",
+     "published": "2026-09-24T15:32:29+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/9b1fxn/article71504537.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-24%20at%2019.21.55.jpeg",
+     "licence": "linkout",
+     "id": "f6f3193f3563",
+     "also": [
+      {
+       "source": "NDTV Sports",
+       "title": "India In Athletics, Asian Games 2026 Highlights: India Win Silver In Mixed 4x400m Relay; Seema Kumari Bags 10,000m Bronze",
+       "url": "https://sports.ndtv.com/athletics/india-in-athletics-asian-games-2026-live-updates-gurindervir-singh-animesh-kujur-seema-pooja-12088793#publisher=newsstand",
+       "summary": "India In Athletics At Asian Games 2026 Updates: Seema Kumari won bronze in the women's 10,000 final, and India's mixed 4x400 relay team won silver. Gurindervir Singh and Animesh Kujur qualified for the men's 100m…"
+      }
+     ],
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "60kg sanda event"
+     ]
+    },
+    {
+     "title": "KSRTC to operate 850 extra buses for Gandhi Jayanti weekend",
+     "url": "https://www.thehindu.com/news/national/karnataka/ksrtc-to-operate-850-extra-buses-for-gandhi-jayanti-weekend/article71504752.ece",
+     "summary": "The special services will operate from Bengaluru on October 1 and 2, while additional buses will run to Bengaluru from various intra-state and inter-state destinations on October 4 to cater to the expected passenger rush",
+     "published": "2026-09-24T15:32:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xfjcun/article71505099.ece/alternates/LANDSCAPE_1200/_KMK9256.JPG",
+     "licence": "linkout",
+     "id": "d4ef55fc911c",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "850 extra buses for Gandhi Jayanti",
+      "2, while additional buses will run"
+     ]
+    },
+    {
+     "title": "\"He Must Quit\": Rahul Gandhi Calls Gyanesh Kumar \"Deshdrohi\", BJP Reacts",
+     "url": "https://www.ndtv.com/india-news/election-commission-gyanesh-kumar-pm-modi-amit-shah-vote-chori-leads-to-kanoon-chori-rahul-gandhi-attacks-bjp-poll-body-chief-12092343#publisher=newsstand",
+     "summary": "\"We are not going to let democracy in India be destroyed and remain silent,\" Gandhi said.",
+     "published": "2026-09-24T14:16:02+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/pa9o8p38_rahul-gandhi-_625x300_24_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "fc483ab85981",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "IBPS Probationary Officer Prelims Result 2026 Released; Know How To Download",
+     "url": "https://www.ndtv.com/education/ibps-probationary-officer-prelims-result-2026-released-know-how-to-download-12092942#publisher=newsstand",
+     "summary": "IBPS PO Prelims Result 2026 has been released on the official website. Candidates can check their result and download the scorecard till September 30, 2026.",
+     "published": "2026-09-24T13:37:37+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-08/506uvdp4_bank-_625x300_13_August_25.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "105d35fb5998",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -781,67 +752,83 @@
    "upsc": false,
    "items": [
     {
-     "title": "To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face",
-     "url": "https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss",
-     "summary": "Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.",
-     "published": "2026-09-24T09:31:15+00:00",
+     "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
+     "url": "https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss",
+     "summary": "No response by Yemen's Houthis to a claim by the coalition forces that its missiles targeted Taif and Yanbu.",
+     "published": "2026-09-24T14:56:00+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab4eca9-1790241961.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab3f3d738dc-1790178263.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "44ed66aa1d0f",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "88b6b1b55554",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "6 ballistic missiles launched by Houthis"
+     ]
     },
     {
-     "title": "Yemeni forces say they repel Houthi attacks in Taiz as fighting rages",
-     "url": "https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss",
-     "summary": "Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.",
-     "published": "2026-09-24T09:26:32+00:00",
+     "title": "Why are Ireland vs Israel football matches so controversial?",
+     "url": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
+     "summary": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.",
+     "published": "2026-09-24T14:36:02+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab483903a-1790215056.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-02-21T152507Z_1447745083_RC2DQJA5SSQE_RTRMADP_3_ISRAEL-PALESTINIANS-IRELAND-PROTEST-1790230529.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "8bbead223924",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "6cb86c626ab4",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat",
-     "url": "https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss",
-     "summary": "As 15 men are given long prison terms, a father who lost teen daughter wants to know if it was a political conspiracy.",
-     "published": "2026-09-24T09:22:27+00:00",
+     "title": "Forever Chemicals: Ground Zero",
+     "url": "https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss",
+     "summary": "Pervasive, persistent and poisonous: How one US company helped pollute the world with forever chemicals.",
+     "published": "2026-09-24T14:30:00+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699e8da88e-1771998632.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790245395.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "c2f4fbfe61e5",
+     "id": "679747c9c659",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "‘Source of anxiety’: Pakistan cracks down before march to free Imran Khan",
-     "url": "https://www.aljazeera.com/news-analysis/2026/9/24/source-of-anxiety-pakistan-cracks-down-before-march-to-free-imran-khan?traffic_source=rss",
-     "summary": "The government has blocked highways to the capital and set up container barriers in preparation for the PTI protest.",
-     "published": "2026-09-24T09:12:42+00:00",
+     "title": "‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time",
+     "url": "https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss",
+     "summary": "A gold at the Asian Games will cap off an unprecedented season for the world number one.",
+     "published": "2026-09-24T14:15:35+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/14301472-1790160129.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6d1532be-1785533746.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "e2707b87e961",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "852bcfccad74",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Liberia is squandering the moral authority it claims at the UN",
-     "url": "https://www.aljazeera.com/opinions/2026/9/24/liberia-is-squandering-the-moral-authority-it-claims-at-the-un?traffic_source=rss",
-     "summary": "Its deal to take deportees is the latest in a long history of unequal agreements with the US.",
-     "published": "2026-09-24T08:55:17+00:00",
+     "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
+     "url": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
+     "summary": "US secretary of state's warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.",
+     "published": "2026-09-24T14:04:43+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab4e519589d5-1790240025.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab4f6c5ded3-1790244549.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "829598d93cb9",
+     "id": "bb5d55bfc634",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+     "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
+     "published": "2026-09-24T15:31:54+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg",
+     "licence": "linkout",
+     "id": "3f96308a9884",
      "category": "general",
      "category_label": "General"
     },
@@ -859,43 +846,17 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-     "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-     "published": "2026-09-24T03:52:21+00:00",
+     "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+     "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+     "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+     "published": "2026-09-24T11:59:23+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/7d0fe1c0-b7c1-11f1-a430-4d16ee157c41.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
      "licence": "linkout",
-     "id": "52cbce21fef4",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
-     "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-     "published": "2026-09-23T22:01:17+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg",
-     "licence": "linkout",
-     "id": "29e781823534",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Iran's president tells Trump it will never 'bend the knee'",
-     "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-     "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-     "published": "2026-09-23T18:15:31+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "23f46cfeab21",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "225c216237ca",
+     "category": "conflict",
+     "category_label": "War & conflict"
     }
    ]
   },
@@ -915,19 +876,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/7d0fe1c0-b7c1-11f1-a430-4d16ee157c41.jpg",
      "licence": "linkout",
      "id": "52cbce21fef4",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-     "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-     "summary": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
-     "published": "2026-09-23T11:00:09+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0796/live/9166c030-b721-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "bb50e79f5197",
      "category": "general",
      "category_label": "General"
     },
@@ -961,6 +909,19 @@
      ]
     },
     {
+     "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+     "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+     "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+     "published": "2026-09-23T22:01:17+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg",
+     "licence": "linkout",
+     "id": "29e781823534",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
      "summary": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
@@ -972,6 +933,19 @@
      "id": "8241492d0d8d",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Indians are discovering the thrill of shopping without paying",
+     "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+     "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+     "published": "2026-09-23T23:14:10+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083e/live/e4049770-b732-11f1-9f81-a10976817ca3.jpg",
+     "licence": "linkout",
+     "id": "555d89733dc3",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -982,97 +956,119 @@
    "upsc": false,
    "items": [
     {
-     "title": "Three Kannur prison inmates booked for allegedly assaulting official",
-     "url": "https://www.thehindu.com/news/national/kerala/three-kannur-prison-inmates-booked-for-allegedly-assaulting-official/article71503521.ece",
-     "summary": "Charges include attempt to attack other on-duty personnel",
-     "published": "2026-09-24T10:28:35+00:00",
+     "title": "Opposition to move fresh notice for CEC’s removal; INDIA bloc mulls joint action",
+     "url": "https://www.thehindu.com/news/national/opposition-to-move-fresh-notice-for-cecs-removal-india-bloc-mulls-joint-action/article71504708.ece",
+     "summary": "New petition likely in both Houses of Parliament even as an earlier Rajya Sabha notice against Gyanesh Kumar remains pending; TMC urges swift and united Opposition response",
+     "published": "2026-09-24T15:28:47+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/yud3rc/article71503613.ece/alternates/LANDSCAPE_1200/Arrest%20-%20getty%20images.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/k33hqt/article71505120.ece/alternates/LANDSCAPE_1200/SIR%20ELECTION%20COMMISSION%20PC%20%20DELHI%202025_27_10_25.jpg",
      "licence": "linkout",
-     "id": "16e57524beac",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in Wushu",
-     "url": "https://www.thehindu.com/news/national/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
-     "summary": "It is third Asian Games medal for Roshibina, who won a silver at the 2023 Hangzhou Asian Games and a bronze at the 2018 Jakarta-Palembang Games",
-     "published": "2026-09-24T10:27:36+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/d0ylj8/article71502719.ece/alternates/LANDSCAPE_1200/PTI09_24_2026_000054A.jpg",
-     "licence": "linkout",
-     "id": "06a3c204b1f8",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Drowning of boy in apartment pool in Kochi: parents allege negligence on part of association",
-     "url": "https://www.thehindu.com/news/national/kerala/drowning-of-boy-in-apartment-pool-in-kochi-parents-allege-negligence-on-part-of-association/article71503045.ece",
-     "summary": "Office-bearers of the apartment owners’ association have dismissed the charges as baseless",
-     "published": "2026-09-24T10:27:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "cb80e355ba15",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "SC dismisses Danam Nagender's plea against disqualification",
-     "url": "https://www.thehindu.com/news/national/telangana/sc-dismisses-danam-nagenders-plea-against-disqualification/article71503531.ece",
-     "summary": "",
-     "published": "2026-09-24T10:09:17+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/g8pjz5/article71503582.ece/alternates/LANDSCAPE_1200/TH05-Rajeev-SpeG78F4HHLF.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "a4e3134b2eed",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Over 70 tree species among 1,128 marked for felling for Hebbal tunnel project in Bengaluru",
-     "url": "https://www.thehindu.com/news/cities/bangalore/over-70-tree-species-among-1128-marked-for-felling-for-hebbal-tunnel-project/article71500072.ece",
-     "summary": "The species list includes Indian Kino, Big-leaf Mahogany, Beleric Myrobalan, Indian Jujube, Maple-leafed Bayur Tree, Paper Mulberry and Yellow Tabebuia, among others.",
-     "published": "2026-09-24T10:09:15+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lx9vz3/article71501440.ece/alternates/LANDSCAPE_1200/Tabebuia_Argentea_03.jpg",
-     "licence": "linkout",
-     "id": "8317bacd6040",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "70 tree species among 1,128 marked",
-      "1,128 marked for felling for Hebbal"
-     ]
-    },
-    {
-     "title": "School assembly news headlines today- September 24: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmdJOVhGWHB0QjJFVklqRk1tZ0oyOUJQUDdOUDFmZC1FVlo3cjBXTFczd3JsaDdJZ1BlYWRmRGVlV0dlTzRlbUl5SlV0REM0cDNsWkdMbWU4U1IxQ2F1T05FZ2dwczk0bzdoS0F6SV9vS1NWREdSM25zaFJhTkZIbHRGMlBfV2l3dGYtUmpwYUkyMWtpWW1OdXZjRTNKSVV4cWFlVjl5eTFyWnZEeU94UGxEN0FtWFlzUWxHRmlOdDM2N3Y0M1hVbFZLQ3EyOUprWjlyc0F5UVNLbFhzOHlMTy1HRktESHYt?oc=5",
-     "summary": "School assembly news headlines today- September 24: Top national, sports and world news curated for you India Today",
-     "published": "2026-09-23T13:02:15+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "027f35a70521",
+     "id": "52097d583ef1",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Today News Headlines for School Assembly, September 24, 2026: Roshibina Devi Naorem claims silver medal in Asian Games",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNM0FSdXJCM2stQUY0MDE3emZkckxiVDB5SjlwT21VaEFrczM2c1Q0bDI4eTJHNTdxWk9CQU83allTYThRUGlkdGs2R21aLXp3d3B4dXB5c3VfN1hWU2dONThiMG1fZ2FnNnNaQjFWM2M5YUFtN0p4NjJ0d3lzUERCekxYUVBWVEZyOU9BdEdKV3V0YWNJQ0pVOHF5Y2txeGJzWHlHeE81UnNSS0tDc3V4YkVfdWVleVpIeUNacFJ1cGd2dENwcFc4ZFM1dU16dG9pdjc4bFlnQ3Bhcy1PYVQ2T19DVzNsSjFGbnp4dTZPQ1BvWi1uNUN6d0FjRFo5emNRR0ZvaGNIN2VpWmdkRjFjako2cUlmMzjSAZ4CQVVfeXFMUHdiVU01T2pBRHY1TDlqSy1mdUNqSHRyd0tWaFVNeGN0c0dxcnQ0UGNtbnZ2amJvSE13MUhCSmREVjJ3ZDZ6Ui1Ob0ZjTVh6djdOTkMzMDIzeXdwV1NSS2d1MndTWWxvUDdyWDdnbGdwMWRuUWtZWnFYYW9FNUdldUFRMDM5VjViLVA5eEV2Q1dnQmpwVXoyYTJtSlJ5N25tV1pJdG5TLV9fempoZUZna2Rmem4xa05fWDNkY2xHc3pGZExpZGlUSXlkWHV5TnFTTmZhUEpIRnNIaGd0YzRDWlNYUHVmTFduSFRkczJIZElNckpRQ05CcE90LXRjbnBaVHNoazRPcE5RTk9nMzR6V0g0QWlUcFZWOG1hUk5hZw?oc=5",
-     "summary": "Today News Headlines for School Assembly, September 24, 2026: Roshibina Devi Naorem claims silver medal in Asian Games The Indian Express",
-     "published": "2026-09-23T11:58:57+00:00",
-     "source": "The Indian Express",
+     "title": "Leopard attacks five-year-old boy in Valparai",
+     "url": "https://www.thehindu.com/news/national/kerala/leopard-attacks-five-year-old-boy-in-valparai/article71504889.ece",
+     "summary": "The child injured on head after the animal pounces on him while he was sitting on his mother’s lap",
+     "published": "2026-09-24T15:28:37+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xjj0rf/article71505088.ece/alternates/LANDSCAPE_1200/11435_6_1_2025_20_19_44_1_IMG_20250106_WA0074.JPG",
+     "licence": "linkout",
+     "id": "278aa7a7082b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Engineering student’s ‘suicide’ turns out to be murder; two arrested",
+     "url": "https://www.thehindu.com/news/cities/Hyderabad/engineering-students-suicide-turns-out-to-be-murder-two-arrested/article71502595.ece",
+     "summary": "According to police, Naveen intercepted Akshitarani near the FCI crossroads while she was returning home on September 12. He took her in his car and allegedly forced her to write a note blaming Ravi for sexual assault before forcing her to consume pesticide.",
+     "published": "2026-09-24T15:27:51+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nji46u/article71502617.ece/alternates/LANDSCAPE_1200/iStock-157404566.jpg",
+     "licence": "linkout",
+     "id": "34e845d66054",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Activists seek urban employment guarantee scheme using KKRDB funds",
+     "url": "https://www.thehindu.com/news/national/karnataka/activists-seek-urban-employment-guarantee-scheme-using-kkrdb-funds/article71504134.ece",
+     "summary": "",
+     "published": "2026-09-24T15:25:59+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ap9809/article71505096.ece/alternates/LANDSCAPE_1200/10258_24_9_2026_18_48_1_1_K_NEELA_2.JPG",
+     "licence": "linkout",
+     "id": "7e1fab87732e",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Pankaj Kumar Meena assumes charge as Markapuram’s first SP",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/pankaj-kumar-meena-assumes-charge-as-markapurams-first-sp/article71504567.ece",
+     "summary": "",
+     "published": "2026-09-24T15:25:24+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ej2xf2/article71505037.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-24%20at%2018.56.13.jpeg",
+     "licence": "linkout",
+     "id": "4635baba0ce3",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "KTR hails Supreme Court verdict on Danam Nagender’s disqualification (Revised)",
+     "url": "https://www.thehindu.com/news/national/telangana/brs-hails-supreme-court-verdict-on-danam-nagenders-disqualification/article71503742.ece",
+     "summary": "",
+     "published": "2026-09-24T15:25:24+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "807807efb368",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "CM Revanth Reddy to receive Aryadan Muhammed award in Kerala",
+     "url": "https://www.thehindu.com/news/national/telangana/cm-revanth-reddy-to-receive-aryadan-muhammed-award-in-kerala/article71505022.ece",
+     "summary": "",
+     "published": "2026-09-24T15:23:41+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "bdf050003486",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "India news: Cockroach party demands election head resign",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEoyNVlJVWlPWi1YdkR3VHVMdS1LZ3VCcjZHUkZleEJrRFEwdHVoU2tod1Bmd1Vlb0RqcHNkREhZZ0RWWFZnZHJzbEIwcnVMQjJwUXZkUF85dXplOTd1czAtalFMLXdLSXo1UXZWMGt5TkVkdDg2WklYa3lpZEtqVGxMbUNQeUc2MElXSFpKNnJlWV9ETUN4aUNrVDVsZ2tEcjcxcE1nMXJDLUl2d1dnNHYyYjRhLS1XUVRv?oc=5",
+     "summary": "India news: Cockroach party demands election head resign DW.com",
+     "published": "2026-09-24T13:31:27+00:00",
+     "source": "DW.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "bd1606e2a190",
+     "id": "d9105f063a63",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "School assembly news headlines today- September 25: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSVNJTVBZNHZfdnB3ZU1oNkdhNHVWSl9vckEzcUZacjlqWE9faUZlVmNlYVhOMDVRNnRwMExFT0Z4ZHFXVWJjUDc2X1V4WFBzT01tLWwwUkVZVXNzVDZIQ2w5emFBMl9YbThrSkZNeVE2UVRDTVVSMmF6OU1qVjFTc1d3Q1c0UzBKU2laeFIyNDFvZGVZcFRXR0s4eEZxZmhnMTdMZXFMbXo0X2lpQ0hRSHI1dFgzZGFSS3hZX2lyLTB2em5yR1BmRTZ2VDhONVlrRlctOXhQTGxvaDhqNVVaRHozTnljcmxQ?oc=5",
+     "summary": "School assembly news headlines today- September 25: Top national, sports and world news curated for you India Today",
+     "published": "2026-09-24T11:17:30+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "1ca1d3cc5c1e",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -1085,76 +1081,14 @@
    "upsc": true,
    "items": [
     {
-     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on September 25, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63655",
+     "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on September 25, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63660",
      "summary": "",
      "published": "2026-09-24T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
-     "id": "0eec56fa6fee",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹34,000 crore on September 25, 2026"
-     ]
-    },
-    {
-     "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on September 24, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63654",
-     "summary": "",
-     "published": "2026-09-24T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "8e3d239b26fe",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [
-       "VRRR"
-      ],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Money Market Operations as on September 23, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63653",
-     "summary": "",
-     "published": "2026-09-24T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "7ac6b68fb08b",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 24, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63652",
-     "summary": "",
-     "published": "2026-09-24T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "df1bd8cd7bde",
+     "id": "18e5adf2300f",
      "upsc": {
       "papers": [
        "GS-III — Economy"
@@ -1170,23 +1104,82 @@
      "category_label": "General"
     },
     {
-     "title": "RBI announces OMO Sale of Government of India Securities",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63651",
+     "title": "RBI imposes monetary penalty on KLM Axiva Finvest Limited",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63659",
      "summary": "",
      "published": "2026-09-24T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
-     "id": "c2c358d85f61",
+     "id": "8b5ff7adfbd5",
      "upsc": {
       "papers": [
        "GS-III — Economy"
       ],
       "terms": [
        "RBI",
-       "OMO"
+       "KLM"
       ],
       "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "RBI imposes monetary penalty on Hero Fincorp Limited",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63658",
+     "summary": "",
+     "published": "2026-09-24T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "61c789e8298e",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "RBI"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Reserve Bank of India imposes monetary penalty on Ola Financial Services Private Limited",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63657",
+     "summary": "",
+     "published": "2026-09-24T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "be5628171b83",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Reserve Money for the fortnight ended on September 15, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63656",
+     "summary": "",
+     "published": "2026-09-24T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "347b5b924ae8",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
      },
      "category": "general",
      "category_label": "General"
@@ -1238,6 +1231,153 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Bangladesh: Protests can change governments, but can they strengthen democracy?",
+     "url": "https://globalvoices.org/2026/09/24/bangladesh-protests-can-change-governments-but-can-they-strengthen-democracy/",
+     "summary": "Bangladesh’s 2024 uprising toppled a government, but two years later, reforms to police, judiciary, cyber laws, and state institutions remain contested, incomplete, and debated, leaving citizens asking whether real change occurred.",
+     "published": "2026-09-24T10:41:11+00:00",
+     "source": "Global Voices",
+     "byline": "Rezwan",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/09/One_point_movement_of_Bangladesh_in_Notre_Dame_College_77-800x450.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "After the election of new government, how much have the state's structures and institutions actually changed?"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "People cheering in front of the Prime Minister's Office after Sheikh Hasina's resignation. Image via Wikipedia by Md Joni Hossain. CC BY-SA 4.0."
+      },
+      {
+       "kind": "p",
+       "text": "This post is part of Global Voices’ September 2026 Spotlight series, “Protest in Democracy.” With this Spotlight, we seek to explore the many forms of protest, the tactics states use to delegitimize and suppress them, and the complex relationship between protest and democracy. You can support this coverage by donating here."
+      },
+      {
+       "kind": "p",
+       "text": "On August 5, 2024, thousands of people filled the streets of Dhaka, Bangladesh, as the government that had ruled the country for over 15 years collapsed amid mass protests against authoritarianism and demands for accountability."
+      },
+      {
+       "kind": "p",
+       "text": "Weeks earlier, nobody could have imagined it. The day it happened, crowds filled the streets celebrating a government’s fall, celebrating a demand for accountability finally met."
+      },
+      {
+       "kind": "p",
+       "text": "Two years on, a different question follows that victory. Did the country only change a government, or could it also change the system that drove people to the streets in the first place?"
+      },
+      {
+       "kind": "p",
+       "text": "The July uprising started over quota reform in government jobs, then grew into wider political and social anger. The Office of the United Nations High Commissioner for Human Rights (OHCHR) counted roughly 1,400 deaths between July 1 and August 15, 2024. On August 5, Sheikh Hasina resigned as prime minister and fled the country."
+      },
+      {
+       "kind": "p",
+       "text": "The government fell, and that was the visible outcome. But people who marched in July wanted more: reformed institutions, accountability, power structures rebuilt from the ground up."
+      },
+      {
+       "kind": "h",
+       "text": "What the July revolutions promised"
+      },
+      {
+       "kind": "p",
+       "text": "Hasnat Abdullah, one of the key student leaders of the movement, told BDNews24.com, an online news portal, that some of the structural changes discussed during the uprising have never materialized."
+      },
+      {
+       "kind": "p",
+       "text": "People expected reforms across the judiciary, executive and every institution of the state. Instead, the same old structure that repeatedly allows authoritarianism to return has survived."
+      },
+      {
+       "kind": "p",
+       "text": "Other observers push back on that assessment. Political analyst Kazi Mohammad Mahbubur Rahman put it this way while talking to BDNews24.com:"
+      },
+      {
+       "kind": "p",
+       "text": "জুলাই অভ্যুত্থানের মধ্য দিয়ে বাংলাদেশ ‘কর্তৃত্ববাদ থেকে মুক্তি’ পেয়েছে, ‘অনেক দিন পর’ মানুষ ভোট দিতে পেরেছে, একটি নির্বাচিত সরকার এসেছে।"
+      },
+      {
+       "kind": "p",
+       "text": "নির্বাচনের মাধ্যমে গণতন্ত্রের একটা বার্তা আমরা পাচ্ছি, কিন্তু ভবিষ্যৎ বলে দেবে, এটা কতটা টেকসই হল। এখন গণতান্ত্রিক প্রক্রিয়া কার্যকর রাখা এবং এটা সক্রিয় করার ক্ষেত্রে কাজ করতে হবে।"
+      },
+      {
+       "kind": "p",
+       "text": "The July uprising won Bangladesh freedom from ‘authoritarian rule,’ and ‘after years without one,’ people got to vote again in an election that brought a government to power democratically."
+      },
+      {
+       "kind": "p",
+       "text": "The election gives a message of democracy. But whether that democracy holds, depends on the works still ahead: keeping the process effective, keeping it active."
+      },
+      {
+       "kind": "p",
+       "text": "Building a full democratic system takes time, he said. So the question after July isn’t only who holds power. It’s how much the rules of holding it have actually changed."
+      },
+      {
+       "kind": "h",
+       "text": "Reform, measured two years after"
+      },
+      {
+       "kind": "p",
+       "text": "Surveys measure the gap between what people expected and what they got."
+      },
+      {
+       "kind": "p",
+       "text": "BRAC Institute of Governance and Development (BIGD)’s three-phase Pulse Surveys, run through 2024 and 2025, track a steady drop in optimism. In August 2024, 71 percent of respondents believed the country’s political direction was on the right track. By July 2025, that number had fallen to 42 percent. Meanwhile, 57 percent ranked police and judicial reform among the most urgent priorities; 38 percent pointed to electoral and constitutional reform instead."
+      },
+      {
+       "kind": "p",
+       "text": "Institutions mattered to these citizens as much as elections did, as much as the change in government itself. Whether those reforms hold is still an open question."
+      },
+      {
+       "kind": "p",
+       "text": "Al Jazeera reported in April 2026 that at least 23 of the 133 ordinances issued under the interim government (August 2024 to February 2026) had been revoked or left to expire, covering human rights, judicial oversight, anti-corruption efforts, and police reform. Opposition parties and some analysts called it backtracking. The government calls it something else: a review process, laws pulled back for amendment and re-introduction, not reforms canceled."
+      },
+      {
+       "kind": "p",
+       "text": "The slow pace of state reform isn’t the only complaint. Opposition parties and human rights activists point to old political habits resurfacing under new names, according to media reports. Contract-based appointments have crept back into key institutions. The controversial Rapid Action Battalion, dissolved amid accusations of abuse, has a successor called SRB. Critics ask the obvious question: does renaming a problem solve it?"
+      },
+      {
+       "kind": "p",
+       "text": "Cyber laws and the right to freedom of speech are a newer fight. State control over online speech marked the 2024 protests, including Facebook blackouts and internet shutdowns, according to the OHCHR report. The government defends its proposed amendments to the Cyber Security Act as necessary to fight online crime, misinformation, and AI-generated content. Critics hear something else: the old machinery for silencing dissent, rebuilt."
+      },
+      {
+       "kind": "p",
+       "text": "The fate of the July Charter, signed by major political parties including the ruling Bangladesh Nationalist Party (BNP), raises the same question. It promised structural reform across state institutions: checks and balances, judicial independence, the electoral system, the police, anti-corruption measures. Two years later, political parties still disagree on how far those reforms should go, and how fast."
+      },
+      {
+       "kind": "p",
+       "text": "A female protester holding sign reading মানবে না হার এই গণজোয়ার (“This mass wave won't give up”). Image via Wikipedia by Wasiul Bahar. CC BY-SA 4.0."
+      },
+      {
+       "kind": "h",
+       "text": "What comes after the protests?"
+      },
+      {
+       "kind": "p",
+       "text": "A protest can topple a government quickly. However, rebuilding institutions, rewriting laws, redistributing power — that work takes years, not weeks. A new democratic government is visible upfront. But a functioning democracy shows up somewhere else: in institutions, in accountability, in checks and balances, in civil rights people can actually exercise."
+      },
+      {
+       "kind": "p",
+       "text": "July 2024 uprising proved that protest can remove political power. Two years later, the test is different: How much of what people expected from that protest now exists in practice?"
+      },
+      {
+       "kind": "p",
+       "text": "Hasnat Abdullah’s question isn't just for the movement’s leaders. It belongs to the people who carried the injured to hospitals, who handed out food and water, who backed the protests from wherever they were."
+      },
+      {
+       "kind": "p",
+       "text": "The government changed. Anyone can see that. Whether July’s promises took root in the institutions and power structures underneath it, that accounting isn’t finished."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "09e3b8b5fe9d",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "4.0. This post is part"
+     ]
     }
    ]
   },
@@ -1396,6 +1536,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Reported assaults on Britain's rail services rise by more than a third",
+     "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+     "published": "2026-09-24T13:07:28+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg",
+     "licence": "linkout",
+     "id": "508710abf41c",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "£170 a bag? Protein users squeezed as prices soar",
      "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
@@ -1425,19 +1578,6 @@
      "category_label": "General"
     },
     {
-     "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-     "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-     "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-     "published": "2026-09-23T21:25:01+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898d/live/3cf26740-b7ec-11f1-b86f-f9f95031dc8c.jpg",
-     "licence": "linkout",
-     "id": "464b9002be41",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "How the oil capital of the US welcomed a solar power boom",
      "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
@@ -1447,6 +1587,32 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f97/live/4aae6ad0-b68b-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "1b4cc4490429",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Domestic travel spending: From medical needs to pilgrimages, MoSPI data reveals which trips cost the most",
+     "url": "https://www.livemint.com/money/personal-finance/domestic-travel-spending-from-medical-needs-to-pilgrimages-mospi-data-reveals-which-trips-cost-the-most-11790255254106.html",
+     "summary": "Indian households spend differently depending on why they travel, with some trips costing significantly more than others. MoSPI’s latest tourism expenditure survey reveals where the biggest expenses are coming from and how spending patterns differ between rural and urban households.",
+     "published": "2026-09-24T15:14:30+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/24/600x338/tripss_1790261696428_X22o_1790261701526_K5Ku_18ca186d-0a5d-4cb4-8b53-8f4adc67825f_ZakA.png",
+     "licence": "linkout",
+     "id": "a82f2d8342ea",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "After Madhya Pradesh, now Maharashtra to observe ‘no UPI day’ on October 2: What should consumers keep in mind?",
+     "url": "https://www.livemint.com/money/after-madhya-pradesh-now-maharashtra-to-observe-no-upi-day-on-october-2-what-should-consumers-keep-in-mind-11790246898058.html",
+     "summary": "Traders in Madhya Pradesh observed ‘No UPI Day’ on Wednesday. They were seeking an immediate withdrawal of the imposed MDR fees on UPI transactions.",
+     "published": "2026-09-24T11:56:39+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/24/600x338/21566_1790250668272_l2SD_1790250671654_iao8_4d5db543-d7d3-4a9f-aac9-79570e2ba191_HGFO.jpg",
+     "licence": "linkout",
+     "id": "757459ca476d",
      "category": "general",
      "category_label": "General"
     },
@@ -1464,33 +1630,17 @@
      "category_label": "General"
     },
     {
-     "title": "UPI MDR kicks in October 15: Why NPCI expects no hit to transaction volumes",
-     "url": "https://www.livemint.com/money/personal-finance/upi-mdr-kicks-in-october-15-why-npci-expects-no-hit-to-transaction-volumes-11790238804386.html",
-     "summary": "NPCI CEO Dilip Asbe said the new Merchant Discount Rate is unlikely to materially affect UPI transaction volumes, with the additional revenue expected to be reinvested in payment infrastructure and technologies such as soundboxes and AI.",
-     "published": "2026-09-24T08:52:34+00:00",
+     "title": "Can you make payments without internet connectivity? RBI’s offline e-rupee initiative explained",
+     "url": "https://www.livemint.com/money/can-you-make-payments-without-internet-connectivity-rbi-s-offline-e-rupee-initiative-explained-11790240976746.html",
+     "summary": "RBI is exploring offline e-rupee transactions using Bluetooth and NFC, allowing digital payments without internet connectivity. Details here.&nbsp;",
+     "published": "2026-09-24T10:07:19+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/24/600x338/INDIA-FINTECH-FEST-93_1790238876607_prRe_1790238884944_Min0_6b5ca6cf-fccd-4b4d-bdff-3bc2fd486261_1ixA.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/24/600x338/no_onternet_1790244183449_hGTr_1790244187439_kmHH_9192ed8e-88d6-4c28-b451-cd3575c3e5ac_Xal8.png",
      "licence": "linkout",
-     "id": "1a9f1922375f",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Bank holidays in October 2026: SBI, HDFC, and other lenders to remain shut for up to 11 days — Check RBI calendar",
-     "url": "https://www.livemint.com/money/personal-finance/bank-holidays-in-october-2026-sbi-hdfc-and-other-lenders-to-remain-shut-for-up-to-11-days-check-rbi-calendar-11790239263257.html",
-     "summary": "Banks in India will close for multiple days in October due to holidays, including national and regional observances. The RBI's holiday calendar outlines numerous non-working days affecting banks across various states.",
-     "published": "2026-09-24T08:48:24+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/24/600x338/bank_1790239428783_prQG_1790239443210_TJ2w_44cb739a-3e80-4cd4-805d-82be8d0e76d0_K7wB.png",
-     "licence": "linkout",
-     "id": "9664e3da0912",
+     "id": "19056aa2eb36",
      "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "11 days — Check RBI calendar"
-     ]
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -1501,23 +1651,41 @@
    "upsc": false,
    "items": [
     {
-     "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-     "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-     "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-     "published": "2026-09-24T07:10:58+00:00",
+     "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+     "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+     "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+     "published": "2026-09-24T14:08:38+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
      "licence": "linkout",
-     "id": "a23f76d1ffbb",
-     "also": [
-      {
-       "source": "timesofindia.indiatimes.com",
-       "title": "'Obviously unacceptable': Australia accuses OpenAI of breaching government website",
-       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTUFsa09NbWo4eDhWUEs3UFdfLXROT1JIbFY1SXFidG1yUDJmaWtVOVd6cG05VjNWSTJjU2pMYjRJVUhjVXRBYXF3QWozUDNuamlYUGU0QkxoMy1uQlVvbmxWbnllV04yV3hhREt4b2U5d19wMERfVDZTbkdGamV6ZU41SXdtWXBlNDR6ZHNLTV9XaFpWazNibTNpQXFOVkRtTVpXbURCXzZaamZsSHJQVk40WkRMbXhvVXFlVTNvY3I5cUpXbzlfTGlDV2FfTG9hVXBHcVFua3NSWWJlbUZfWmxuVFdZTVBFeDZDbnNmVGpwY2fSAfgBQVVfeXFMUDk0US00RHJNbkpYR2FBWE5FRFZQZ002MnFNTWk0RFYxbGNlc3dUbHRPbDU2MDVKTklSUXRpcFEtQV9IRlpqT3VBYzQtSUdmeVBsejJnOWpTVWxFYUlNSEJnblJQNXFrdE0xR2h2LU4ycml3YUxFRzJaWk5FeGNUZ1Rzd0JkUkxYVVZ5QXhNMjdsLTZPamYzT21paUd2ZnlHVmRfbXlQYllxUDJHcEpmb1Aza3pZV2FGdng0cmh6R0NfVzRPVEE3ZlhZbHY5V2tRS29kQVMwa0dnbEVJSVhKV1duMFd5eG1mNktyUEJ4ZHJzUWFHM0lqWmg?oc=5",
-       "summary": "'Obviously unacceptable': Australia accuses OpenAI of breaching government website timesofindia.indiatimes.com"
-      }
-     ],
+     "id": "4ea6410dce1e",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "FBI investigating claim hackers have stolen details of all its agents",
+     "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+     "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+     "published": "2026-09-24T12:23:52+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
+     "licence": "linkout",
+     "id": "439662867936",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Are we back in big tech's 'move fast and break things' era?",
+     "url": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
+     "summary": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
+     "published": "2026-09-24T11:29:20+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f9/live/bf71f270-b801-11f1-97e1-83bf52ec4acd.jpg",
+     "licence": "linkout",
+     "id": "32b490608efb",
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1535,67 +1703,54 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Indians are discovering the thrill of shopping without paying",
-     "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-     "published": "2026-09-23T23:14:10+00:00",
-     "source": "BBC News",
+     "title": "Artificial Intelligence Technology Solutions - Co, Its Subsidiary Announce Hardware Price Increase Across Security Solution Lineup",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZTNtODg4QzF1RVFCZUp4c2JLUXBkV1pNLV80Q2RqZXJwOWU3VUc5SkFlcmd2ck9aeC1leWtEQUR3VU9rYmNOSlpTQ2gwWExOUFE2M0NtaEtORjVYWlMtWnVUUGYxdExEOXp6WkVFN2lzUkFOUm9WbXloRXd2SkI4TzJ6ZEpVRkJheC1wMVQ1cERZbjZ5c0g5VExpNV8yM0haVHNKWXdYaTFoSWNibF9zX3FWcTdfNTJTYmFsb2UwNl9WZWZtcHhyMkFYbnNtWFlNWktwSDdyYXJxeDJJNUJJSlVweHl4VWlCcHFDc0JZSmZjUmlucHVIUk1ObmU2WjJPYmRPb3NFY2ZBUEdOaHFkVU15VDRkZDU5d3pVYnRUMXFSSkU?oc=5",
+     "summary": "Artificial Intelligence Technology Solutions - Co, Its Subsidiary Announce Hardware Price Increase Across Security Solution Lineup tradingview.com",
+     "published": "2026-09-24T10:10:52+00:00",
+     "source": "tradingview.com",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083e/live/e4049770-b732-11f1-9f81-a10976817ca3.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "555d89733dc3",
+     "id": "fc61771f87a0",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "There Is No A.I. “Race”",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxSC1fcGQ2aWJBenVqbmJYdzVZQnhsV3NqQTl0RktBMVVINEhEMjdYelFpVUdyR2p1ZFlQRTNhalRoNWctQm85ZkdOdkprTVZkN2RLd1ZLOXl0cldTT1F0S3lTekV2azdwQXhN?oc=5",
+     "summary": "There Is No A.I. “Race” The New Yorker",
+     "published": "2026-09-24T10:00:00+00:00",
+     "source": "The New Yorker",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "6ade2085987a",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-     "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-     "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-     "published": "2026-09-23T22:35:14+00:00",
-     "source": "BBC News",
+     "title": "The cost of intelligence?",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9adnRnMG1TNVNpWHZ6OHlGRW03cXJFTHNKV2JrQjBVYU9DNHRBLW9SaUh6TEZpeEFibENyc2Nab0RsQTVBb05Ka2NoUThCb3NDaVQwOVlYeTc2V25adkI0c19VX2RlOW5tVWVHNFdVeDBMelE?oc=5",
+     "summary": "The cost of intelligence? cio.com",
+     "published": "2026-09-24T13:02:40+00:00",
+     "source": "cio.com",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "00f03c836310",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "FBI investigates claim by hackers they stole data on all agency staff",
-     "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-     "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
-     "published": "2026-09-23T21:30:22+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
-     "licence": "linkout",
-     "id": "439662867936",
+     "id": "045ea41a2c09",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Trump calls for artificial intelligence to be renamed ‘super intelligence’ in the US",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa25LWWxrdXV5b01qSUs2NDNVbmg1Q0RTczdtQ1Z2N3JvaDhJODFhUHROTHZXejNJMlIxMHNONExPZ19mbFVENGs2WWp2Q0g5ay01QkZHRnlIZlpSMzJXbENXNUhYdUo1XzlUOTJPRDE2WW9XWEtCSlBNb3V6LWl6eGRwREZ4eUhEenNsbjZ2ME1hYkREQVpWbUl2N2ZBRjA2Vmc?oc=5",
-     "summary": "Trump calls for artificial intelligence to be renamed ‘super intelligence’ in the US YourStory.com",
-     "published": "2026-09-24T02:17:10+00:00",
-     "source": "YourStory.com",
+     "title": "Jammu & Kashmir working on establishing Artificial Intelligence centre of excellence",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUmNYdjN4dkQ4Q2M4bEEyWUd1U21OeGRueVphSWQyZnhWWGl1bmRmdjNDVm9uWGx3Q0w4cEMtYVcwZjFlQThjRFZCX0IybUFKN1R1Sk5IQXprdVNQMXlfS09PYk0tN3ZRUnQyOFl0MVVrSElGbzVnV3pFMWpZUEpkbG9NX1B5Nm85YUVEQ3JZN29oS29tMENHT3l5Y1ZBNnFMZ3Z1djNZUzMyeDNrbENPdFB3LU5rRmJ6aks0dldnY3FtN3NzNXVZc0Z4VmY1ZEItbHA1OVJpenk3UWlLdnM2SNIB5gFBVV95cUxNbHplY3RyM1BoMHNGX3pNc2FXanM5dFR2dDlkdHM2My1KanR4YzM3aC1yOHdjVTJpUHhCb1U0b2xNTmRiaXF6OURpTk02MnVmYmpjc0Q4NWV4R0dHcG9nOFFtckhEMy1WSWRwbmNsRHNUUWdhU3dQQ3ZzZXNfUTJCdzhiX0hqYWpUcFJwbzgwNG03SHEzeHg5cVZPZ29VRkkwZDdJMVpMalFoY1JlZHdtN25wWEN0cDBVMm13NXh1S1hmWXhQNHA0ZmJycUx2UXZvQmJjUEFfa0VnTnRMbXBEa25TeFk2QQ?oc=5",
+     "summary": "Jammu & Kashmir working on establishing Artificial Intelligence centre of excellence The Economic Times",
+     "published": "2026-09-24T09:30:33+00:00",
+     "source": "The Economic Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "17dc2436c11a",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Security Council, 10228th Meeting (PM) Artificial Intelligence and International Security",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LSEJvTWFHN3AwODlsTFpON2syOEVnRVJhT3BueFFGbkZsWl9ZbzJHS3ZELUxOdXZSSmNyZUFuM1ZUbHpZMjJCeFFrVnc?oc=5",
-     "summary": "Security Council, 10228th Meeting (PM) Artificial Intelligence and International Security UN Meetings Coverage and Press Releases",
-     "published": "2026-09-23T12:00:00+00:00",
-     "source": "UN Meetings Coverage and Press Releases",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9d5cd87bca17",
+     "id": "b9ff399e0a2c",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1608,80 +1763,82 @@
    "upsc": false,
    "items": [
     {
-     "title": "Asian Games 2026, Day 5 LIVE Updates: Sakshi Chaudhary Starts Round Of 16 Bout, Eyes Quarterfinals Berth",
-     "url": "https://sports.ndtv.com/othersports/asian-games-2026-live-updates-day-5-india-medal-tally-roshibina-devi-aichi-nagoya-japan-live-news-12088910#publisher=newsstand",
-     "summary": "Asian Games 2026 Day 5 LIVE Updates: India's Men's 10m Air Pistol team finishes 4th. In a shock outcome, none of the shooters qualified for the individual final.",
-     "published": "2026-09-24T09:00:15+00:00",
+     "title": "\"Two-Faced And Fake\": Asmongold Calls Out Cinna's Hypocrisy Over Using The R-Word",
+     "url": "https://sports.ndtv.com/us-us-streamers/two-faced-and-fake-asmongold-calls-out-cinnas-hypocrisy-over-using-the-r-word-12092765#publisher=newsstand",
+     "summary": "Asmongold says Cinna went after Lacy for using the R-word and then used it herself. He called her two-faced and said she owes him an apology.",
+     "published": "2026-09-24T14:37:18+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/vr9a94kc_sakshi-getty_625x300_24_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/jtp7bdg4_-asmongold-cinna-_625x300_24_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "2eade7a3e046",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "5 LIVE Updates: Sakshi Chaudhary Starts",
-      "16 Bout , Eyes Quarterfinals Berth",
-      "5 LIVE Updates: India's Men's 10m"
-     ]
-    },
-    {
-     "title": "India VS Panama: A Chance For Players To Gain Experience And Direction As A Footballing Nation",
-     "url": "https://sports.ndtv.com/football/india-vs-panama-a-chance-for-players-to-gain-experience-and-direction-as-a-footballing-nation-12090546#publisher=newsstand",
-     "summary": "The upcoming fortnight starting with an international friendly against world No. 44 Panama on Friday will offer Indian players a chance to gain valuable experience and find a new direction as a footballing nation.",
-     "published": "2026-09-24T08:57:50+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/jnekcl7_getty-_625x300_24_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "546ad16dbadc",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "44 Panama on Friday will offer"
-     ]
-    },
-    {
-     "title": "Dilpreet Singh Shines As India Beat South Korea 8-2 In Asian Games, Men's Hockey Match",
-     "url": "https://sports.ndtv.com/hockey/asian-games-2026-dilpreet-singh-shines-as-indian-mens-hockey-continues-dominant-run-beats-south-korea-12091053#publisher=newsstand",
-     "summary": "The Indian men's hockey team continued their fine run at the ongoing Asian Games with an 8-2 win over South Korea on Thursday.",
-     "published": "2026-09-24T08:54:02+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/b3tjn59g_india-defeat-korea_625x300_24_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "59412a64f73b",
+     "id": "9a276c8b848f",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "MMA Pound-for-Pound Rankings: Joshua Van’s Huge Win Sends Him to No. 3, But Is No. 1 Really Within Reach?",
-     "url": "https://sports.ndtv.com/us-mma/mma-pound-for-pound-rankings-joshua-van-s-huge-win-sends-him-to-no-3-but-is-no-1-really-within-reach-12091244#publisher=newsstand",
-     "summary": "Joshua Van has surged from No. 11 to No. 3 in MMA Fighting’s pound-for-pound rankings after beating Alexandre Pantoja. With only Islam Makhachev and Petr Yan ahead, the UFC flyweight’s next move could be huge.",
-     "published": "2026-09-24T08:49:26+00:00",
+     "title": "Colby Covington Targets Khamzat Chimaev In Wrestling Clash, Cites Cardio And Size As Key Factors",
+     "url": "https://sports.ndtv.com/us-mma/colby-covington-targets-khamzat-chimaev-in-wrestling-clash-cites-cardio-and-size-as-key-factors-12093158#publisher=newsstand",
+     "summary": "Colby Covington says he is ready to confront Khamzat Chimaev in a freestyle wrestling bout under the Real American Freestyle. Covington said that \"he doesn’t have cardio\". Covington also agreed to fight with a non-negotiable condition.",
+     "published": "2026-09-24T14:34:01+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ushfem44_joshua-van_625x300_24_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/7gcc3b3_khamzat-chimaev_625x300_24_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "411840456f4e",
+     "id": "c785003fe8ed",
+     "category": "celebrity",
+     "category_label": "Celebrity"
+    },
+    {
+     "title": "From Viral Videos To A $425 Million Creator Empire: How Steven Bartlett Is Building Beyond YouTube",
+     "url": "https://sports.ndtv.com/us-us-streamers/from-viral-videos-to-a-425-million-creator-empire-how-steven-bartlett-is-building-beyond-youtube-12093099#publisher=newsstand",
+     "summary": "Steven Bartlett wants to put $400 million into creator businesses. His own company is worth $425 million, and his podcast is Spotify's No. 2 in the world.",
+     "published": "2026-09-24T14:29:05+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/346f68s8_steven-bartlett_625x300_24_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "784b6241a447",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "1 Really Within Reach?"
+      "$425 Million Creator Empire: How Steven",
+      "$400 million into creator businesses",
+      "$425 million , and his podcast"
      ]
     },
     {
-     "title": "\"I’m Disgusted\": Ludwig Says Clavicular Is Out Of His Streamer Awards Picks After R*pe Charges Surface",
-     "url": "https://sports.ndtv.com/us-us-streamers/i-m-disgusted-ludwig-says-clavicular-is-out-of-his-streamer-awards-picks-after-r-pe-charges-surface-12090984#publisher=newsstand",
-     "summary": "Ludwig has changed his Streamer Awards 2026 nominations after discussing reported charges against Clavicular, saying “now I’m disgusted” and calling for Kick to take action if the streamer is ultimately convicted.",
-     "published": "2026-09-24T08:49:02+00:00",
+     "title": "Dallas Mavericks Injury Update: 7-Foot-1 Center Dereck Lively Hit With Fresh Concern Before Training Camp",
+     "url": "https://sports.ndtv.com/us-nba/dallas-mavericks-injury-update-7-foot-1-center-dereck-lively-hit-with-fresh-concern-before-training-camp-12092954#publisher=newsstand",
+     "summary": "Dereck Lively II has yet to be cleared for Mavericks training camp as he continues recovering from December foot surgery. There is no reported setback, but his status for opening night remains uncertain.",
+     "published": "2026-09-24T14:27:30+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/evnunv7c_ludwig-and-clavicular_625x300_15_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/aqubasho_dereck-lively-ii-gets-injury-update_625x300_24_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c5aa8b8fa4e3",
+     "id": "73059de6d7eb",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "1 Center Dereck Lively Hit"
+     ]
+    },
+    {
+     "title": "Jared Goff's 'Vultures' Comment Reveals Lions' Mindset After Crushing Bills Defeat As Detroit Quickly Looks Toward Redemption",
+     "url": "https://sports.ndtv.com/us-nfl/jared-goffs-vultures-comment-reveals-lions-mindset-after-crushing-bills-defeat-as-detroit-quickly-looks-toward-redemption-12092846#publisher=newsstand",
+     "summary": "Detroit Lions quarterback Jared Goff had a strong individual performance against the Buffalo Bills in Week 2, throwing for 327 yards and four touchdowns, but the team still fell by 10 points due to a slow start.",
+     "published": "2026-09-24T14:25:32+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/3fesl4bc_jared-goff_625x300_24_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2b4463bddac1",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2, throwing for 327 yards",
+      "327 yards and four touchdowns",
+      "10 points due to a slow"
+     ]
     }
    ]
   },
@@ -1698,7 +1855,7 @@
      "published": "2026-09-24T06:45:25+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9bc/live/e76df9c0-b7f9-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d9/live/de289110-b824-11f1-b1d1-571ed4d7ff2c.jpg",
      "licence": "linkout",
      "id": "ebb83cae560a",
      "category": "general",
@@ -1745,19 +1902,6 @@
      "id": "be6b13bf9af3",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-     "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
-     "published": "2026-09-23T12:22:53+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a68a/live/f463e6c0-b75f-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "ba9c3661c5d7",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
