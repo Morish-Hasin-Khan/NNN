@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T22:53:27.681799+00:00",
+ "generated_at": "2026-09-26T01:00:41.894770+00:00",
  "podcasts_fetched_at": "2026-09-24T10:37:44.261692+00:00",
  "markets": [
   {
@@ -79,20 +79,21 @@
    "value": 84084.0,
    "change": -2519.0,
    "changePct": -2.91,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
-  "Bihar Jamui",
-  "Greater Noida",
+  "Delhi Supreme",
+  "MPSC Drug",
   "Jazeera English",
   "News",
   "Karnataka Dharmasthala",
   "High JKCA",
-  "SPPU Sept",
-  "Congress Chief",
-  "Congo Ebola",
-  "Netanyahu Jazeera"
+  "Asian Games",
+  "Imran Khan",
+  "Iran Tehran",
+  "Trump"
  ],
  "sections": [
   {
@@ -102,32 +103,35 @@
    "upsc": false,
    "items": [
     {
-     "title": "FIR lodged against Bihar CMO staff for posting Jamui victim’s photo on X",
-     "url": "https://www.thehindu.com/news/national/bihar/fir-lodged-against-bihar-cmo-staff-for-posting-jamui-victims-photo-on-x/article71510152.ece",
-     "summary": "Earlier, the Leader of Opposition Tejashwi Yadav had accused the Bihar CM of revealing the identity of the victim, calling it a violation of the Protection of Children from Sexual Offences (POCSO) Act, 2012",
-     "published": "2026-09-25T20:40:58+00:00",
+     "title": "2020 Delhi riots case: Supreme Court relaxes specific bail condition for about-to-be-married accused",
+     "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-supreme-court-relaxes-specific-bail-condition-for-about-to-be-married-accused/article71509648.ece",
+     "summary": "Bench reduces Meeran Haider’s mandatory police station appearances from twice a week to once weekly",
+     "published": "2026-09-26T00:08:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/skk9v/article71511430.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
      "licence": "linkout",
-     "id": "48433af15080",
+     "id": "7d5c9c8fb9e7",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "Greater Noida bus fire: booking manager arrested for negligence",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/greater-noida-bus-fire-booking-manager-arrested-for-negligence/article71509263.ece",
-     "summary": "Police said passengers had called Vikas Kumar about smoke and fire before the blaze but he did not act; three more victims were identified on Friday",
-     "published": "2026-09-25T20:34:24+00:00",
+     "title": "MPSC Drug Inspector paper leak: 4 more arrested, total arrests rise to 11",
+     "url": "https://www.thehindu.com/news/national/maharashtra/mpsc-drug-inspector-paper-leak-4-more-arrested-total-arrests-rise-to-11/article71508883.ece",
+     "summary": "The four were arrested on September 24 by a special investigation team probing the alleged unauthorised circulation of the confidential question paper for financial gain, the Crime Branch said",
+     "published": "2026-09-25T22:42:53+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/q423sq/article71509262.ece/alternates/LANDSCAPE_1200/PTI09_24_2026_RPT037B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/37aszs/article71510547.ece/alternates/LANDSCAPE_1200/iStock-1447145892%201.jpg",
      "licence": "linkout",
-     "id": "3c436549d80b",
+     "id": "17545e9e859c",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National Hotlines"
+     "from_section": "National Hotlines",
+     "figures": [
+      "4 more arrested, total arrests rise"
+     ]
     },
     {
      "title": "Man City found guilty of breaking financial rules",
@@ -147,6 +151,42 @@
      ]
     },
     {
+     "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+     "summary": "Iran's FM says the \"choice rests with the US\" to approve the proposed seven-day proposal to reopen Hormuz.",
+     "published": "2026-09-26T00:00:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26250403856787-1790375983.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "018a3a00472a",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+       "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Iran says it awaits US response on seven-day roadmap to end war",
+     "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+     "summary": "Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.",
+     "published": "2026-09-25T23:52:18+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab6ed9c4927c-1790373276.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "3ecd87367a6e",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
@@ -161,23 +201,29 @@
      "from_section": "Global News"
     },
     {
-     "title": "U.P. Congress leaders clash with police, detained during protest against Chief Election Commissioner",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-leaders-clash-with-police-detained-during-protest-against-chief-election-commissioner/article71509301.ece",
-     "summary": "The Congress leaders, including State Congress chief Ajay Rai and party workers demanding the resignation of the CEC, were stopped and later detained while trying to march towards the Uttar Pradesh Assembly",
-     "published": "2026-09-25T21:48:11+00:00",
+     "title": "Pro-Imran Khan rally delayed amid government closures",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+     "summary": "Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.",
+     "published": "2026-09-26T00:38:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790383101.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "8c84f62fa0f5",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "BJP wins mayor elections at three municipal corporations in Rajasthan",
+     "url": "https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece",
+     "summary": "Prasanna Chand Mehta was elected Mayor of Jodhpur, while Anusuiya Goswami was elected to the position in Kota",
+     "published": "2026-09-25T23:09:39+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6jvv51/article71510535.ece/alternates/LANDSCAPE_1200/PTI09_25_2026_RPT393B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/r8d4e/article71510553.ece/alternates/LANDSCAPE_1200/PTI09_25_2026_000559B.jpg",
      "licence": "linkout",
-     "id": "34da0082a177",
-     "also": [
-      {
-       "source": "DW.com",
-       "title": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzQ5Y0lKaXZPU3pRRDZXc2NRMDV6ajlaUnNtdXdTYTkyN1Nla1BiX3hCeWpFTGlhT0hoYXJaVkZxX012Rno2YnlybVVaUEozX01KTjRETUpUNW5rUDJIOUVMU3Fmd2JfNVZrejBWNjZEVGlkeTFmbVp4clFNcmlKd2ZKd1NBRTJyVThHWDUyb0t6R1VNdmdHbTg4TVNOTEE?oc=5",
-       "summary": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote DW.com"
-      }
-     ],
+     "id": "def066c4c827",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
@@ -197,17 +243,17 @@
      "from_section": "National News"
     },
     {
-     "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-     "summary": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
-     "published": "2026-09-25T21:37:35+00:00",
+     "title": "US court rules against Kalshi, says states can regulate prediction markets",
+     "url": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
+     "summary": "US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.",
+     "published": "2026-09-25T23:56:46+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790372222.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab6f8782d000-1790376056.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "f7c7338005c4",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "b5330636faa6",
+     "category": "money",
+     "category_label": "Money & scams",
      "from_section": "Global News"
     },
     {
@@ -220,73 +266,37 @@
      "image": null,
      "licence": "linkout",
      "id": "7a16d8a1f7f1",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Jammu and Kashmir High Court turns down ED plea to insert fresh charges against Farooq Abdullah in JKCA scam",
-       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-high-court-turns-down-ed-plea-to-insert-fresh-charges-against-farooq-abdullah-in-jkca-scam/article71509206.ece",
-       "summary": "The prayer of the petitioner [the ED] seeking addition of charges under Sections 411 and 424 of the Ranbir Penal Code (RPC) does not merit acceptance on the basis of the material presently available and is, accordingly…"
-      }
-     ],
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "What would a US diesel export ban mean for global fuel prices?",
-     "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
-     "summary": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
-     "published": "2026-09-25T21:28:56+00:00",
-     "source": "Al Jazeera",
+     "title": "Income Tax Act 2025: What crypto investors should know about VDA provisions, TDS and ITR filing rules",
+     "url": "https://www.livemint.com/money/personal-finance/income-tax-act-2025-what-crypto-investors-should-know-about-vda-provisions-tds-and-itr-filing-rules-11790360376855.html",
+     "summary": "The Income-tax Act, 2025 largely retains the existing tax treatment of VDAs, including the 30% tax and 1% TDS. However, section numbers have changed and a new reporting framework for crypto transactions will require investors to maintain detailed transaction and wallet records.",
+     "published": "2026-09-25T19:25:44+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab6bc39f3a4b-1790360634.jpg?resize=1200%2C675",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/25/600x338/crypto_tax_act_1790364040127_iTFK_1790364047521_z00v_3b06ca24-6865-4e97-bdb9-0fd8d7ee0e9e_2jnv.png",
      "licence": "linkout",
-     "id": "28f99005b74e",
+     "id": "991bde8a2108",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Global News"
+     "from_section": "Business"
     },
     {
-     "title": "Jammu and Kashmir High Court turns down ED plea to insert fresh charges against Farooq Abdullah in JKCA scam",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-high-court-turns-down-ed-plea-to-insert-fresh-charges-against-farooq-abdullah-in-jkca-scam/article71509206.ece",
-     "summary": "The prayer of the petitioner [the ED] seeking addition of charges under Sections 411 and 424 of the Ranbir Penal Code (RPC) does not merit acceptance on the basis of the material presently available and is, accordingly, rejected, held justice Sanjay Parihar, in his order",
-     "published": "2026-09-25T20:56:05+00:00",
+     "title": "Odisha Pedestrian Safety Rules, 2026 proposes pedestrian path mandatory",
+     "url": "https://www.thehindu.com/news/national/odisha/odisha-pedestrian-safety-rules-2026-proposes-pedestrian-path-mandatory/article71509089.ece",
+     "summary": "The rules prescribe action against road owning agency, contractor or consultant if a faulty design leads to death or disability or grievous injury of a pedestrians",
+     "published": "2026-09-25T23:47:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/i0rvbv/article71510390.ece/alternates/LANDSCAPE_1200/JK-ASSEMBLY-NC_G4MGIALEF.3.jpg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/p5yv80/article71511409.ece/alternates/LANDSCAPE_1200/20260925180L.jpg",
      "licence": "linkout",
-     "id": "e61c804c967f",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "National News"
-    },
-    {
-     "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-     "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-     "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-     "published": "2026-09-24T23:41:10+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c4/live/d45fc990-b839-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "99f26fe694e8",
+     "id": "84838c298226",
      "category": "celebrity",
      "category_label": "Celebrity",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
-     "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
-     "summary": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
-     "published": "2026-09-25T22:16:35+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab6e4f3-1790371059.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "987b556f2aeb",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
+     "from_section": "National News"
     },
     {
      "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
@@ -303,32 +313,10 @@
      "from_section": "Culture"
     },
     {
-     "title": "CII Madurai Zone submits proposal to State government for establishing Centre of Excellence for Artificial Intelligence",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSUVvQncwdTMyYkN6SjZXNS1Tc3JfcHl5UVM2Z2ZqcExOS1FHTDNZcWdWQmlaLW1fUV8tRGtfSnVoWXQyeDd3VV9ualU0ZXVmMmVRejNvRHVScWFKOFZRRVI3QThCbDBEckc4UXBZaW1lNE90eE5xUlF1REJJVEpmNU5SLUFQVXppTFNKcEtxbVl1b3R5ZlVVN2FCNlhsbXRXbXB4dkpXN09oLURUQ212YWs0cV9sZlMwWFk5UWwybkN2dnMzLVcxMWx6NUxNOXdEMWlfVzlpM1FTRzdlM1ltQms0QkNBQzBUOHNTRVczVlJPcE1tN2RwZVdwZXBwNmN6Nk4yOVV4N2lNR1R4X1pKeFR30gGYAkFVX3lxTE5zZzRvaDE0aGlKNHE5TlhWOC1aRFhRSEtWamRGNVZwdHJKZXpvRWR5UFprTUVkYVpHdDRFSGE2NHJkemtpeHozTDBGQ1hHMWRDTzNvdEE4cXZDTFdqc0tLeU15MXlRa0NSYVRFNGtBRWxJQjY0Wkw2OURHc3dadndkOThXb1JBeGFHdUdqZ1Eya2xTdDRLV0NJNjJPOTAtbWZuZFJ2dkpFY2RJOXpESGNFSnRsZElZcFh5UUxMZEZpSVQzOENYdms0dlRQNmJORUF5TG81MWRoSTR1UEstSWd5cWp2VVhZMFJfak5BYlFMd09pV2xpbl9VM1l6aklNb3pjd0U3aWVGWkZQR25seHl4Z0JwZ0JSTjA?oc=5",
-     "summary": "CII Madurai Zone submits proposal to State government for establishing Centre of Excellence for Artificial Intelligence The Hindu",
-     "published": "2026-09-25T17:26:34+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "bdb1e70f1e95",
-     "also": [
-      {
-       "source": "The Guardian",
-       "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
-       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWjc1MXpFT0FUZjc5REh1eVVhWVNRd3NQLUc1Nzd0TkF1ZmFSNTVJSHRNUkFjYW5IZVZqdnRqOXFZaTZXWjQtb1g2RFVJOThUR1EwTE4zck5yS3MwbmROU1pmYk5UWDlqWnlscWFULTF3d05XMzA1MFB3WjVsY255dDZBcktUcDdQeTNjNW0yWUM0STRpZUptbUdvMHJ1aXgzUzBHaVM5ZHJyLXZDTDFzZjktYko4b3YxVk0ta3ZFNy00M2plTEZFNVRBZw?oc=5",
-       "summary": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma The Guardian"
-      }
-     ],
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-     "published": "2026-09-25T22:43:54+00:00",
+     "published": "2026-09-26T00:09:45+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
@@ -336,7 +324,21 @@
      "id": "d22a199399a3",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Technology"
+     "from_section": "Global News"
+    },
+    {
+     "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+     "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+     "summary": "Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.",
+     "published": "2026-09-25T23:21:52+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab6f342b1d9-1790374722.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1340b50c7c3a",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Global News"
     },
     {
      "title": "Sparc AI Inc. (CN:SPAI): Artificial Intelligence Navigation Technology Expansion Drives Renewed Investor Interest and Market Momentum",
@@ -353,45 +355,66 @@
      "from_section": "Technology"
     },
     {
-     "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
-     "url": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
-     "summary": "Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury.",
-     "published": "2026-09-25T21:32:43+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260925__C9ED39U__v1__MidRes__FblEurNationsTurFra-1790370828.jpg?resize=1200%2C630",
-     "licence": "linkout",
-     "id": "14e263801b42",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
-     "url": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
-     "summary": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico.",
-     "published": "2026-09-25T21:20:05+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26268684723536-1790369778.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "09cc08a7111e",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Morne Morkel Reveals Plan For India's Pace Attack For 2027 World Cup, Sends Message To Prasidh Krishna, Gurnoor Brar",
-     "url": "https://sports.ndtv.com/cricket/morne-morkel-reveals-plan-for-indias-pace-attack-for-2027-world-cup-sends-message-to-prasidh-krishna-gurnoor-brar-12098178#publisher=newsstand",
-     "summary": "India's bowling coach Morne Morkel wants the team management to give second-line bowlers such as Prasidh Krishna and Gurnoor Brar sufficient opportunities in the upcoming ODI series against the West Indies.",
-     "published": "2026-09-25T16:22:57+00:00",
+     "title": "Punishment Manchester City Can Receive If Proven Guilty Of Premier League Charges",
+     "url": "https://sports.ndtv.com/football/man-city-found-guilty-of-premier-league-charges-set-to-appeal-reports-12099281#publisher=newsstand",
+     "summary": "Manchester City have reportedly been found guilty of all but one of 115 Premier League charges for breaching financial regulations.",
+     "published": "2026-09-25T18:19:36+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/2mp4g7kc_gurnoor-brar_625x300_25_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/s4f5544g_manchester-city-afp_625x300_20_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "896fb48cedd5",
+     "id": "7f47ad3bb655",
      "category": "sports",
      "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "115 Premier League charges for breaching"
+     ]
+    },
+    {
+     "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+     "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+     "summary": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+     "published": "2026-09-25T16:00:44+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b69/live/25d24650-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
+     "licence": "linkout",
+     "id": "79852bbd1d8c",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Business",
+     "figures": [
+      "£38.5 m after World Cup",
+      "£85.5 m in dividend payments"
+     ]
+    },
+    {
+     "title": "'A tumour the size of a football saved my life'",
+     "url": "https://www.bbc.co.uk/news/articles/c5m27gzgnmgmo?at_medium=RSS&at_campaign=rss",
+     "summary": "Lisa Carroll, 47, who was diagnosed with rare form of ovarian cancer, urges women to check symptoms.",
+     "published": "2026-09-25T07:05:06+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d33c/live/4afaef20-b836-11f1-b4bc-39c67eb36497.jpg",
+     "licence": "linkout",
+     "id": "5c2a099a0e66",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Health & Science"
+    },
+    {
+     "title": "Deion Sanders Turns To Colorado Legends As Julian Lewis Faces A Tough Leadership Reality Check",
+     "url": "https://sports.ndtv.com/us-nfl/deion-sanders-turns-to-colorado-legends-as-julian-lewis-faces-a-tough-leadership-reality-check-12099534#publisher=newsstand",
+     "summary": "Deion Sanders called on Colorado legends Alfred Williams and Charles Johnson after Northwestern exposed major problems for Julian Lewis and the Buffaloes.",
+     "published": "2026-09-25T18:59:51+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/qt9eh2uk_deion-sanders_625x300_26_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6d4ace43ba39",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
      "from_section": "Sports"
     }
    ]
@@ -408,7 +431,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-25T22:53:16.011492+00:00",
+     "published": "2026-09-26T01:00:28.931940+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -419,7 +442,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-25T22:53:16.011504+00:00",
+     "published": "2026-09-26T01:00:28.931956+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -430,7 +453,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-25T22:53:16.011510+00:00",
+     "published": "2026-09-26T01:00:28.931959+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -441,7 +464,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-25T22:53:16.011514+00:00",
+     "published": "2026-09-26T01:00:28.931961+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -452,7 +475,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-25T22:53:16.011518+00:00",
+     "published": "2026-09-26T01:00:28.931967+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -463,10 +486,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-25T22:53:16.011522+00:00",
+     "published": "2026-09-26T01:00:28.931970+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "Asian Games 2026 LIVE | Men's Marathon final: Sawan Barwal and Kartik Karkera",
+     "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece",
+     "summary": "India won the semi-final match 48-24 and will face Iran or Chinese Taipei in Saturday’s final",
+     "published": "2026-09-25T23:47:14+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/x6toq3/article71510231.ece/alternates/LANDSCAPE_1200/th13-ib-marathoG73FRF5G8.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "59ee02779f74",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -499,14 +536,6 @@
      "image": null,
      "licence": "linkout",
      "id": "7a16d8a1f7f1",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Jammu and Kashmir High Court turns down ED plea to insert fresh charges against Farooq Abdullah in JKCA scam",
-       "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-high-court-turns-down-ed-plea-to-insert-fresh-charges-against-farooq-abdullah-in-jkca-scam/article71509206.ece",
-       "summary": "The prayer of the petitioner [the ED] seeking addition of charges under Sections 411 and 424 of the Ranbir Penal Code (RPC) does not merit acceptance on the basis of the material presently available and is, accordingly…"
-      }
-     ],
      "category": "money",
      "category_label": "Money & scams"
     }
@@ -519,54 +548,43 @@
    "upsc": false,
    "items": [
     {
-     "title": "SPPU students suspend mess fee protest after V-C assurance; decision on hike on Sept 26",
-     "url": "https://www.thehindu.com/news/national/maharashtra/sppu-students-suspend-mess-fee-protest-after-v-c-assurance-decision-on-hike-on-sept-26/article71508902.ece",
-     "summary": "If the circular withdrawing the fee hike is not issued on September 26, the thali march planned for 4 p.m. will go ahead, SFI said in a statement",
-     "published": "2026-09-25T22:49:11+00:00",
+     "title": "2020 Delhi riots case: Supreme Court relaxes specific bail condition for about-to-be-married accused",
+     "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-supreme-court-relaxes-specific-bail-condition-for-about-to-be-married-accused/article71509648.ece",
+     "summary": "Bench reduces Meeran Haider’s mandatory police station appearances from twice a week to once weekly",
+     "published": "2026-09-26T00:08:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/mgi8x2/article71510548.ece/alternates/LANDSCAPE_1200/iStock-1498665317%201.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/skk9v/article71511430.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
      "licence": "linkout",
-     "id": "f8377a07b7c5",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "7d5c9c8fb9e7",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "U.P. Congress leaders clash with police, detained during protest against Chief Election Commissioner",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-leaders-clash-with-police-detained-during-protest-against-chief-election-commissioner/article71509301.ece",
-     "summary": "The Congress leaders, including State Congress chief Ajay Rai and party workers demanding the resignation of the CEC, were stopped and later detained while trying to march towards the Uttar Pradesh Assembly",
-     "published": "2026-09-25T21:48:11+00:00",
+     "title": "Asian Games 2026 LIVE | Men's Marathon final: Sawan Barwal and Kartik Karkera",
+     "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece",
+     "summary": "India won the semi-final match 48-24 and will face Iran or Chinese Taipei in Saturday’s final",
+     "published": "2026-09-25T23:47:14+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6jvv51/article71510535.ece/alternates/LANDSCAPE_1200/PTI09_25_2026_RPT393B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/x6toq3/article71510231.ece/alternates/LANDSCAPE_1200/th13-ib-marathoG73FRF5G8.3.jpg.jpg",
      "licence": "linkout",
-     "id": "34da0082a177",
-     "also": [
-      {
-       "source": "DW.com",
-       "title": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzQ5Y0lKaXZPU3pRRDZXc2NRMDV6ajlaUnNtdXdTYTkyN1Nla1BiX3hCeWpFTGlhT0hoYXJaVkZxX012Rno2YnlybVVaUEozX01KTjRETUpUNW5rUDJIOUVMU3Fmd2JfNVZrejBWNjZEVGlkeTFmbVp4clFNcmlKd2ZKd1NBRTJyVThHWDUyb0t6R1VNdmdHbTg4TVNOTEE?oc=5",
-       "summary": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote DW.com"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "59ee02779f74",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "BJP manufactured narrative and created religious divide ahead of West Bengal polls through YouTubers, says TMC spokesperson",
-     "url": "https://www.thehindu.com/news/national/west-bengal/bjp-manufactured-narrative-and-created-religious-divide-ahead-of-west-bengal-polls-through-youtubers-says-tmc-spokesperson/article71509269.ece",
-     "summary": "Trinamool MLA Kunal Ghosh cited an instance where a city-based YouTuber raised a hue and cry over beef served to him at a Kolkata restaurant; the YouTuber has been paid ₹2.5 lakh by the BJP; details of BJP election expenditure have been revealed",
-     "published": "2026-09-25T21:12:57+00:00",
+     "title": "Odisha Pedestrian Safety Rules, 2026 proposes pedestrian path mandatory",
+     "url": "https://www.thehindu.com/news/national/odisha/odisha-pedestrian-safety-rules-2026-proposes-pedestrian-path-mandatory/article71509089.ece",
+     "summary": "The rules prescribe action against road owning agency, contractor or consultant if a faulty design leads to death or disability or grievous injury of a pedestrians",
+     "published": "2026-09-25T23:47:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6p41w0/article71510392.ece/alternates/LANDSCAPE_1200/PTI07_25_2026_000657B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/p5yv80/article71511409.ece/alternates/LANDSCAPE_1200/20260925180L.jpg",
      "licence": "linkout",
-     "id": "60d09a4de8d8",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹2.5 lakh by the BJP; details"
-     ]
+     "id": "84838c298226",
+     "category": "celebrity",
+     "category_label": "Celebrity"
     },
     {
      "title": "Chief Justice To Inaugurate India's 1st Victim Rights Centre Today In Patna",
@@ -645,95 +663,90 @@
    "upsc": false,
    "items": [
     {
-     "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
-     "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
-     "summary": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
-     "published": "2026-09-25T22:16:35+00:00",
+     "title": "Pro-Imran Khan rally delayed amid government closures",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+     "summary": "Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.",
+     "published": "2026-09-26T00:38:34+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab6e4f3-1790371059.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790383101.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "987b556f2aeb",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-     "summary": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
-     "published": "2026-09-25T21:37:35+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790372222.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "f7c7338005c4",
+     "id": "8c84f62fa0f5",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
-     "url": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
-     "summary": "Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury.",
-     "published": "2026-09-25T21:32:43+00:00",
+     "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+     "summary": "Iran's FM says the \"choice rests with the US\" to approve the proposed seven-day proposal to reopen Hormuz.",
+     "published": "2026-09-26T00:00:00+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260925__C9ED39U__v1__MidRes__FblEurNationsTurFra-1790370828.jpg?resize=1200%2C630",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26250403856787-1790375983.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "14e263801b42",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "018a3a00472a",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+       "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators."
+      }
+     ],
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "Special agents' blood and urine test results stolen in FBI hack",
-     "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-     "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-     "published": "2026-09-25T13:56:16+00:00",
-     "source": "BBC News",
+     "title": "US court rules against Kalshi, says states can regulate prediction markets",
+     "url": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
+     "summary": "US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.",
+     "published": "2026-09-25T23:56:46+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab6f8782d000-1790376056.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "3b0173afb934",
+     "id": "b5330636faa6",
      "category": "money",
      "category_label": "Money & scams"
     },
     {
-     "title": "Pope warns against 'losing humanity' to AI machines",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-     "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-     "published": "2026-09-25T15:06:41+00:00",
+     "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+     "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+     "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+     "published": "2026-09-25T23:38:48+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dd/live/5ddfe0d0-b8c4-11f1-b1d1-571ed4d7ff2c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg",
      "licence": "linkout",
-     "id": "8f316ab13d5e",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-     "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-     "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
-     "published": "2026-09-25T19:13:35+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg",
-     "licence": "linkout",
-     "id": "2acf05538835",
+     "id": "3808196cf27c",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Trump's plans for massive arch move ahead",
-     "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-     "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-     "published": "2026-09-25T18:27:46+00:00",
+     "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+     "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+     "published": "2026-09-25T23:20:48+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1747/live/dc2a8ea0-b85a-11f1-a8b8-8b929801ec51.jpg",
      "licence": "linkout",
-     "id": "c87b54955bb1",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "b354d7719277",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+     "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+     "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+     "published": "2026-09-25T23:05:40+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d538/live/369f0e30-b903-11f1-83cd-2998f68d9572.jpg",
+     "licence": "linkout",
+     "id": "41076836ec24",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -817,72 +830,72 @@
    "upsc": false,
    "items": [
     {
-     "title": "SPPU students suspend mess fee protest after V-C assurance; decision on hike on Sept 26",
-     "url": "https://www.thehindu.com/news/national/maharashtra/sppu-students-suspend-mess-fee-protest-after-v-c-assurance-decision-on-hike-on-sept-26/article71508902.ece",
-     "summary": "If the circular withdrawing the fee hike is not issued on September 26, the thali march planned for 4 p.m. will go ahead, SFI said in a statement",
-     "published": "2026-09-25T22:49:11+00:00",
+     "title": "2020 Delhi riots case: Supreme Court relaxes specific bail condition for about-to-be-married accused",
+     "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-supreme-court-relaxes-specific-bail-condition-for-about-to-be-married-accused/article71509648.ece",
+     "summary": "Bench reduces Meeran Haider’s mandatory police station appearances from twice a week to once weekly",
+     "published": "2026-09-26T00:08:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/mgi8x2/article71510548.ece/alternates/LANDSCAPE_1200/iStock-1498665317%201.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/skk9v/article71511430.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
      "licence": "linkout",
-     "id": "f8377a07b7c5",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "7d5c9c8fb9e7",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "U.P. Congress leaders clash with police, detained during protest against Chief Election Commissioner",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-leaders-clash-with-police-detained-during-protest-against-chief-election-commissioner/article71509301.ece",
-     "summary": "The Congress leaders, including State Congress chief Ajay Rai and party workers demanding the resignation of the CEC, were stopped and later detained while trying to march towards the Uttar Pradesh Assembly",
-     "published": "2026-09-25T21:48:11+00:00",
+     "title": "Asian Games 2026 LIVE | Men's Marathon final: Sawan Barwal and Kartik Karkera",
+     "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece",
+     "summary": "India won the semi-final match 48-24 and will face Iran or Chinese Taipei in Saturday’s final",
+     "published": "2026-09-25T23:47:14+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6jvv51/article71510535.ece/alternates/LANDSCAPE_1200/PTI09_25_2026_RPT393B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/x6toq3/article71510231.ece/alternates/LANDSCAPE_1200/th13-ib-marathoG73FRF5G8.3.jpg.jpg",
      "licence": "linkout",
-     "id": "34da0082a177",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "BJP manufactured narrative and created religious divide ahead of West Bengal polls through YouTubers, says TMC spokesperson",
-     "url": "https://www.thehindu.com/news/national/west-bengal/bjp-manufactured-narrative-and-created-religious-divide-ahead-of-west-bengal-polls-through-youtubers-says-tmc-spokesperson/article71509269.ece",
-     "summary": "Trinamool MLA Kunal Ghosh cited an instance where a city-based YouTuber raised a hue and cry over beef served to him at a Kolkata restaurant; the YouTuber has been paid ₹2.5 lakh by the BJP; details of BJP election expenditure have been revealed",
-     "published": "2026-09-25T21:12:57+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6p41w0/article71510392.ece/alternates/LANDSCAPE_1200/PTI07_25_2026_000657B.jpg",
-     "licence": "linkout",
-     "id": "60d09a4de8d8",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "₹2.5 lakh by the BJP; details"
-     ]
-    },
-    {
-     "title": "Former IAS officer appointed on Maha UCC panel",
-     "url": "https://www.thehindu.com/news/national/maharashtra/former-ias-officer-appointed-on-maha-ucc-panel/article71509943.ece",
-     "summary": "The appointment was after the chairperson of the committee, Ranjana Desai, retired Supreme Court judge, moved a proposal to include him in the panel",
-     "published": "2026-09-25T20:33:22+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "21f047007dbe",
+     "id": "59ee02779f74",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election",
-     "url": "https://www.thehindu.com/news/national/punjab/congress-hopes-for-calm-in-punjab-unit-but-storm-clouds-remain-ahead-of-2027-assembly-election/article71509096.ece",
-     "summary": "",
-     "published": "2026-09-25T20:32:39+00:00",
+     "title": "Odisha Pedestrian Safety Rules, 2026 proposes pedestrian path mandatory",
+     "url": "https://www.thehindu.com/news/national/odisha/odisha-pedestrian-safety-rules-2026-proposes-pedestrian-path-mandatory/article71509089.ece",
+     "summary": "The rules prescribe action against road owning agency, contractor or consultant if a faulty design leads to death or disability or grievous injury of a pedestrians",
+     "published": "2026-09-25T23:47:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5tc24i/article71510388.ece/alternates/LANDSCAPE_1200/PTI09_25_2026_000318B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/p5yv80/article71511409.ece/alternates/LANDSCAPE_1200/20260925180L.jpg",
      "licence": "linkout",
-     "id": "70eb3cf67212",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "84838c298226",
+     "category": "celebrity",
+     "category_label": "Celebrity"
+    },
+    {
+     "title": "Aaditya Thackeray seeks postponement of MPSC State Service Mains pending reform panel report",
+     "url": "https://www.thehindu.com/news/national/maharashtra/aaditya-thackeray-seeks-postponement-of-mpsc-state-service-mains-pending-reform-panel-report/article71509822.ece",
+     "summary": "In his September 25 letter, Mr. Thackeray said the examination should be deferred if the report of the State-appointed committee headed by Additional Chief Secretary V. Radha remains pending and held only after its recommendations are appropriately implemented",
+     "published": "2026-09-25T22:36:50+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/wmj61q/article71510543.ece/alternates/LANDSCAPE_1200/3col_with_2col_G37FE41QH.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "05562fc5c87a",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "25 letter , Mr"
+     ]
+    },
+    {
+     "title": "U.P. focuses on high-yielding disease-resistant sugarcane varieties, scientific sugarcane cultivation practices and mechanization",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-focuses-on-high-yielding-disease-resistant-sugarcane-varieties-scientific-sugarcane-cultivation-practices-and-mechanization/article71509757.ece",
+     "summary": "As land availability becomes increasingly constrained, the future of sugarcane growth depends less on expansion of area and more on gains in productivity, said",
+     "published": "2026-09-25T22:29:00+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/z03h7r/article71510541.ece/alternates/LANDSCAPE_1200/iStock-2123913966.jpg",
+     "licence": "linkout",
+     "id": "bbc847e088bf",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "School assembly news headlines today- September 26: Top national, sports and world news curated for you",
@@ -901,7 +914,7 @@
      "title": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzQ5Y0lKaXZPU3pRRDZXc2NRMDV6ajlaUnNtdXdTYTkyN1Nla1BiX3hCeWpFTGlhT0hoYXJaVkZxX012Rno2YnlybVVaUEozX01KTjRETUpUNW5rUDJIOUVMU3Fmd2JfNVZrejBWNjZEVGlkeTFmbVp4clFNcmlKd2ZKd1NBRTJyVThHWDUyb0t6R1VNdmdHbTg4TVNOTEE?oc=5",
      "summary": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote DW.com",
-     "published": "2026-09-25T14:17:18+00:00",
+     "published": "2026-09-25T09:52:33+00:00",
      "source": "DW.com",
      "byline": "",
      "image": null,
@@ -1021,7 +1034,8 @@
      "category": "general",
      "category_label": "General"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1688,15 +1702,15 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Income Tax Act 2025: What crypto investors should know about VDA provisions, TDS and ITR filing rules",
-     "url": "https://www.livemint.com/money/personal-finance/income-tax-act-2025-what-crypto-investors-should-know-about-vda-provisions-tds-and-itr-filing-rules-11790360376855.html",
-     "summary": "The Income-tax Act, 2025 largely retains the existing tax treatment of VDAs, including the 30% tax and 1% TDS. However, section numbers have changed and a new reporting framework for crypto transactions will require investors to maintain detailed transaction and wallet records.",
-     "published": "2026-09-25T19:25:44+00:00",
-     "source": "Mint",
+     "title": "Special agents' blood and urine test results stolen in FBI hack",
+     "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+     "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+     "published": "2026-09-25T13:56:16+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/25/600x338/crypto_tax_act_1790364040127_iTFK_1790364047521_z00v_3b06ca24-6865-4e97-bdb9-0fd8d7ee0e9e_2jnv.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
      "licence": "linkout",
-     "id": "991bde8a2108",
+     "id": "3b0173afb934",
      "category": "money",
      "category_label": "Money & scams"
     },
@@ -1768,7 +1782,7 @@
      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-     "published": "2026-09-25T22:43:54+00:00",
+     "published": "2026-09-26T00:09:45+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
@@ -1776,6 +1790,19 @@
      "id": "d22a199399a3",
      "category": "tech",
      "category_label": "AI & technology"
+    },
+    {
+     "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+     "url": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+     "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
+     "published": "2026-09-25T23:34:20+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg",
+     "licence": "linkout",
+     "id": "49f58eb8304e",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Special agents' blood and urine test results stolen in FBI hack",
@@ -1791,33 +1818,30 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-     "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-     "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-     "published": "2026-09-25T09:48:33+00:00",
-     "source": "BBC News",
+     "title": "CII Madurai Zone submits proposal to State government for establishing Centre of Excellence for Artificial Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSUVvQncwdTMyYkN6SjZXNS1Tc3JfcHl5UVM2Z2ZqcExOS1FHTDNZcWdWQmlaLW1fUV8tRGtfSnVoWXQyeDd3VV9ualU0ZXVmMmVRejNvRHVScWFKOFZRRVI3QThCbDBEckc4UXBZaW1lNE90eE5xUlF1REJJVEpmNU5SLUFQVXppTFNKcEtxbVl1b3R5ZlVVN2FCNlhsbXRXbXB4dkpXN09oLURUQ212YWs0cV9sZlMwWFk5UWwybkN2dnMzLVcxMWx6NUxNOXdEMWlfVzlpM1FTRzdlM1ltQms0QkNBQzBUOHNTRVczVlJPcE1tN2RwZVdwZXBwNmN6Nk4yOVV4N2lNR1R4X1pKeFR30gGYAkFVX3lxTE5zZzRvaDE0aGlKNHE5TlhWOC1aRFhRSEtWamRGNVZwdHJKZXpvRWR5UFprTUVkYVpHdDRFSGE2NHJkemtpeHozTDBGQ1hHMWRDTzNvdEE4cXZDTFdqc0tLeU15MXlRa0NSYVRFNGtBRWxJQjY0Wkw2OURHc3dadndkOThXb1JBeGFHdUdqZ1Eya2xTdDRLV0NJNjJPOTAtbWZuZFJ2dkpFY2RJOXpESGNFSnRsZElZcFh5UUxMZEZpSVQzOENYdms0dlRQNmJORUF5TG81MWRoSTR1UEstSWd5cWp2VVhZMFJfak5BYlFMd09pV2xpbl9VM1l6aklNb3pjd0U3aWVGWkZQR25seHl4Z0JwZ0JSTjA?oc=5",
+     "summary": "CII Madurai Zone submits proposal to State government for establishing Centre of Excellence for Artificial Intelligence The Hindu",
+     "published": "2026-09-25T17:26:34+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "7ebd7eb2a09f",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "€120 m EU fine against"
-     ]
+     "id": "bdb1e70f1e95",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
-     "title": "X-planes: Are they needed in the new era of drones?",
-     "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-     "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
-     "published": "2026-09-24T23:03:53+00:00",
-     "source": "BBC News",
+     "title": "Anmol Pushjai Goel: Examining India’s Position in Technology and AI Policy",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSXpvb1NXUktVZ0RRVGxrS3JmQTQwYVRxMFc2SF8yRTBfSzhreldmc295UVh4RDFaOUVzV1dmOTBzUUNQY3JhSGlqWjViVy1VUFo3QlZtamVkdmthMTNzQTlkczdzczVzU0NUYjRhU2pDSFBWRnZUbzl2N0RlT29JUjRWQjhfcVQwWkZWekFkR0VwR01Yc3otclJPZWE?oc=5",
+     "summary": "Anmol Pushjai Goel: Examining India’s Position in Technology and AI Policy Pioneer Edge",
+     "published": "2026-09-25T12:36:26+00:00",
+     "source": "Pioneer Edge",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "922e9406515b",
-     "category": "general",
-     "category_label": "General"
+     "id": "bc190d1c39c9",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
      "title": "SCIT Launches New M.B.A. (Artificial Intelligence in Business); Applications Open via SNAP 2026",
@@ -1833,24 +1857,11 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWjc1MXpFT0FUZjc5REh1eVVhWVNRd3NQLUc1Nzd0TkF1ZmFSNTVJSHRNUkFjYW5IZVZqdnRqOXFZaTZXWjQtb1g2RFVJOThUR1EwTE4zck5yS3MwbmROU1pmYk5UWDlqWnlscWFULTF3d05XMzA1MFB3WjVsY255dDZBcktUcDdQeTNjNW0yWUM0STRpZUptbUdvMHJ1aXgzUzBHaVM5ZHJyLXZDTDFzZjktYko4b3YxVk0ta3ZFNy00M2plTEZFNVRBZw?oc=5",
-     "summary": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma The Guardian",
-     "published": "2026-09-25T15:00:00+00:00",
-     "source": "The Guardian",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "61b19b81cc11",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Artificial Intelligence and the Naming Strategy - ASHARQ AL-AWSAT English",
+     "title": "Artificial Intelligence and the Naming Strategy",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2c4SnFyZjlaS3JMWGtQYmlnX3NldmVEUF9jWFZsN3czb2RVSXREeUU4THp3VUZvLXA2YjY1Sjc1bk1BVXhZUk9kOFFoem92aElZNEs3U0p0TlBIdFFnVkE1NGJmUDBNUHY0QWZ1QkU3cnQ3QmFrRzB2MVNEdUNYWjF4WXpGUjFNRml2c1NOSQ?oc=5",
-     "summary": "Artificial Intelligence and the Naming Strategy ASHARQ AL-AWSAT English",
+     "summary": "Artificial Intelligence and the Naming Strategy english.aawsat.com",
      "published": "2026-09-25T11:09:22+00:00",
-     "source": "Google News",
+     "source": "english.aawsat.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1867,89 +1878,80 @@
    "upsc": false,
    "items": [
     {
-     "title": "Morne Morkel Reveals Plan For India's Pace Attack For 2027 World Cup, Sends Message To Prasidh Krishna, Gurnoor Brar",
-     "url": "https://sports.ndtv.com/cricket/morne-morkel-reveals-plan-for-indias-pace-attack-for-2027-world-cup-sends-message-to-prasidh-krishna-gurnoor-brar-12098178#publisher=newsstand",
-     "summary": "India's bowling coach Morne Morkel wants the team management to give second-line bowlers such as Prasidh Krishna and Gurnoor Brar sufficient opportunities in the upcoming ODI series against the West Indies.",
-     "published": "2026-09-25T16:22:57+00:00",
+     "title": "Troy Aikman Faces ESPN Uncertainty After Joe Buck Lands $108M Extension",
+     "url": "https://sports.ndtv.com/us-nfl/troy-aikman-faces-espn-uncertainty-after-joe-buck-lands-108m-extension-12099690#publisher=newsstand",
+     "summary": "Troy Aikman’s ESPN future could stay unresolved until after Super Bowl LXI, despite Joe Buck signing a new $108 million contract.",
+     "published": "2026-09-25T20:34:15+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/2mp4g7kc_gurnoor-brar_625x300_25_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/1vfi19q8_troy-aikman_625x300_26_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "896fb48cedd5",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "India vs Panama Highlights, International Football Friendly: India Secure Thrilling 1-1 Draw vs World-Cuppers Panama",
-     "url": "https://sports.ndtv.com/football/india-vs-panama-live-updates-international-friendly-ind-vs-pan-live-scorecard-12098043#publisher=newsstand",
-     "summary": "India vs Panama Highlights, International Friendly: India secured a stunning 1-1 draw against No. 44-ranked Panama at the Sree Kanteerava Stadium in Bengaluru on Friday.",
-     "published": "2026-09-25T16:10:11+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/2k8f0fi_india-x-indianfootball_625x300_25_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "360cb013d903",
-     "category": "sports",
-     "category_label": "Sports",
+     "id": "8651f42d6884",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "1 Draw vs World-Cuppers Panama",
-      "1 draw against No"
+      "$108 M Extension",
+      "$108 million contract"
      ]
     },
     {
-     "title": "India Coach Reminds Team About \"Standards\", Sets Clear Demand Over 2027 World Cup Preparations",
-     "url": "https://sports.ndtv.com/cricket/india-coach-reminds-team-about-standards-sets-clear-demand-over-2027-world-cup-preparations-12098387#publisher=newsstand",
-     "summary": "India bowling coach Morne Morkel on Friday asserted that preparation for the 2027 Men's ODI World Cup begins immediately through the upcoming series against the West Indies, and urged players to embrace high-pressure situations.",
-     "published": "2026-09-25T16:08:32+00:00",
+     "title": "Deion Sanders Turns To Colorado Legends As Julian Lewis Faces A Tough Leadership Reality Check",
+     "url": "https://sports.ndtv.com/us-nfl/deion-sanders-turns-to-colorado-legends-as-julian-lewis-faces-a-tough-leadership-reality-check-12099534#publisher=newsstand",
+     "summary": "Deion Sanders called on Colorado legends Alfred Williams and Charles Johnson after Northwestern exposed major problems for Julian Lewis and the Buffaloes.",
+     "published": "2026-09-25T18:59:51+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/mogk2f4g_team-india_625x300_25_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/qt9eh2uk_deion-sanders_625x300_26_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "5574471b9c91",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "6d4ace43ba39",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
     },
     {
-     "title": "\"Compete For All-Rounder Spot\": India Coach's Big Message To Nitish Reddy As 2027 World Cup Build-Up Begins",
-     "url": "https://sports.ndtv.com/cricket/compete-for-all-rounder-spot-india-coachs-big-message-to-nitish-reddy-as-2027-world-cup-build-up-begins-12098323#publisher=newsstand",
-     "summary": "India bowling coach Morne Morkel on Friday highlighted the need to manage young seam-bowling all-rounder Nitish Kumar Reddy with care, saying he possesses all the requisite attributes to excel across departments if given a clear role and consistent opportunities.",
-     "published": "2026-09-25T15:56:05+00:00",
+     "title": "Jake Ferguson Appeals $13,611 NFL Fine After Dallas Cowboys Beer Celebration",
+     "url": "https://sports.ndtv.com/us-nfl/jake-ferguson-appeals-13-611-nfl-fine-after-dallas-cowboys-beer-celebration-12099418#publisher=newsstand",
+     "summary": "Jake Ferguson was fined $13,611 by the NFL for a beer celebration after scoring against Washington and is now appealing the penalty.",
+     "published": "2026-09-25T18:31:11+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/o44h7pgc_nitish-reddy_625x300_25_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/mce5d464_jake-ferguson-_625x300_25_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c37bb34f30bb",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Manchester City Guilty Of All 114 Charges? Premier League Club Responds To Shocking Reports",
-     "url": "https://sports.ndtv.com/football/manchester-city-guilty-of-all-114-charges-premier-league-club-responds-to-shocking-reports-12098726#publisher=newsstand",
-     "summary": "Manchester City said Friday its wide-ranging legal case with the Premier League was \"ongoing,\" amid reports the club had been found guilty of nearly all of the financial charges against it.",
-     "published": "2026-09-25T15:40:37+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/ipaopeuo_man-city-getty_625x300_25_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "90f062b706b1",
-     "category": "sports",
-     "category_label": "Sports",
+     "id": "5d38bbc59490",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "114 Charges ? Premier League Club"
+      "$13,611  NFL Fine After Dallas",
+      "$13,611  by the NFL"
      ]
     },
     {
-     "title": "Mind The Game: LeBron James Explains His Decision To Play A 24th NBA Season",
-     "url": "https://sports.ndtv.com/us-nba/mind-the-game-lebron-james-explains-his-decision-to-play-a-24th-nba-season-12098571#publisher=newsstand",
-     "summary": "LeBron James is preparing for his record 24th NBA season with the Philadelphia 76ers after considering retirement and choosing to continue competing for another NBA championship.",
-     "published": "2026-09-25T15:28:48+00:00",
+     "title": "President Droupadi Murmu, PM Narendra Modi Congratulate Medal Winners On Day 6 Of Asian Games 2026",
+     "url": "https://sports.ndtv.com/othersports/president-droupadi-murmu-pm-narendra-modi-congratulate-medal-winners-on-day-6-of-asian-games-2026-12099439#publisher=newsstand",
+     "summary": "Prime Minister Narendra Modi on Friday congratulated Indian athletes Gulveer Singh, Manpreet Kaur and Baranica Elangovan after their medal-winning performances at the Asian Games 2026.",
+     "published": "2026-09-25T18:28:30+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/klgvb1b4_lebron-james-reveals-new-business-venture_625x300_17_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/fb15ssmo_president-droupadi-murmu-narendra-modi_625x300_25_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "1d9836d8e4c7",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "d82029383657",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "A’ja Wilson Accidentally Trucks Woman In Tunnel Before Aces Vs. Mercury Game",
+     "url": "https://sports.ndtv.com/us-nba/a-ja-wilson-accidentally-trucks-woman-in-tunnel-before-aces-vs-mercury-game-12099389#publisher=newsstand",
+     "summary": "A’ja Wilson accidentally collided with a woman before the Aces faced Phoenix, then dropped 34 points as Las Vegas closed the regular season with a win.",
+     "published": "2026-09-25T18:09:27+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/4e3rq5js_aja-wilson_625x300_25_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d420fc6407c8",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "34 points as Las Vegas closed"
+     ]
     }
    ]
   },
@@ -2046,32 +2048,6 @@
      "category_label": "General"
     },
     {
-     "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
-     "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
-     "summary": "Gyms are booming, solitary cardio is out - how workouts are changing.",
-     "published": "2026-09-24T23:46:14+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f7/live/66218770-b2ee-11f1-9c21-0f3ad502fa3d.jpg",
-     "licence": "linkout",
-     "id": "f11e9bc2c6e9",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
-     "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
-     "summary": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
-     "published": "2026-09-24T23:44:00+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92c/live/832e1f80-b8b7-11f1-a430-4d16ee157c41.jpg",
-     "licence": "linkout",
-     "id": "2bc8835cb24b",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "'A tumour the size of a football saved my life'",
      "url": "https://www.bbc.co.uk/news/articles/c5m27gzgnmgmo?at_medium=RSS&at_campaign=rss",
      "summary": "Lisa Carroll, 47, who was diagnosed with rare form of ovarian cancer, urges women to check symptoms.",
@@ -2083,6 +2059,19 @@
      "id": "5c2a099a0e66",
      "category": "sports",
      "category_label": "Sports"
+    },
+    {
+     "title": "How the bare nails trend became a class issue",
+     "url": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
+     "summary": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
+     "published": "2026-09-25T23:31:20+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942b/live/73fb0ed0-8cd2-11f1-a7ab-8b30adf0800a.jpg",
+     "licence": "linkout",
+     "id": "186ac5042b91",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "I want to use my mental health experiences to help others - ex-ref Robathan",
@@ -2107,6 +2096,19 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31f9/live/78e3e7b0-b837-11f1-bc1f-3f186ca4140c.jpg",
      "licence": "linkout",
      "id": "64c77cec34bf",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "FA Cup assistant ref says tumours ended his career",
+     "url": "https://www.bbc.co.uk/news/videos/c687vnevwvw8o?at_medium=RSS&at_campaign=rss",
+     "summary": "Dan Robathan says he needs time to \"grieve\" his career.",
+     "published": "2026-09-25T06:01:07+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dadb/live/05762460-b827-11f1-a430-4d16ee157c41.jpg",
+     "licence": "linkout",
+     "id": "ff929cdcb292",
      "category": "general",
      "category_label": "General"
     }
