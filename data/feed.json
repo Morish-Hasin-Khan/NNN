@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T18:33:37.289559+00:00",
+ "generated_at": "2026-09-27T21:42:36.819282+00:00",
  "podcasts_fetched_at": "2026-09-26T14:37:58.281399+00:00",
  "markets": [
   {
@@ -19,7 +19,8 @@
    "value": 23140.5,
    "change": -273.8,
    "changePct": -1.17,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "banknifty",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Dozens South",
-  "Students Deny",
+  "Alleged Indian",
+  "Deadly Yemen",
   "Jazeera English",
   "News",
   "Karnataka KPSC",
   "OpenAI",
-  "Bank",
-  "Sahil Wakode",
-  "Iran Araghchi",
-  "Mike Waltz"
+  "Kerala High",
+  "Kappan",
+  "Floods Algeria",
+  "Himalayan"
  ],
  "sections": [
   {
@@ -102,35 +103,38 @@
    "upsc": false,
    "items": [
     {
-     "title": "Dozens killed in two mass shootings in South Africa",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
-     "summary": "At least 27 people have been killed in two mass shootings across South Africa.",
-     "published": "2026-09-27T16:58:36+00:00",
+     "title": "Alleged rape on campus sparks violent protest at Indian university",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
+     "summary": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
+     "published": "2026-09-27T21:17:05+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790528303.jpg?resize=1620%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-college-violence-1790543776.png?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "4deec7137bc2",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Two mass shootings in South Africa leave 27 dead",
-       "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-       "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
-      }
-     ],
+     "id": "cddf81a627da",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "27 people have been killed"
-     ]
+     "from_section": "Global News"
+    },
+    {
+     "title": "Deadly strike hits market in Yemen’s Taiz",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
+     "summary": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.",
+     "published": "2026-09-27T21:00:55+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542745.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "ff8f909ba39a",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
     },
     {
      "title": "Students Deny 'Rape' In Video Released By Punjab's Lovely Professional University, Then Call It Scripted",
      "url": "https://www.ndtv.com/india-news/punjab-university-lpu-students-protest-rape-lovely-professional-university-12106376#publisher=newsstand",
      "summary": "The controversy began after students at LPU vandalised parts of the campus and set fire to sections of the building, following a protest over unverified claims that a female student had been sexually assaulted and had later died by suicide.",
-     "published": "2026-09-27T17:45:10+00:00",
+     "published": "2026-09-27T18:58:57+00:00",
      "source": "NDTV",
      "byline": "",
      "image": "https://c.ndtvimg.com/2026-09/3g4e4bdo_lpu_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
@@ -141,29 +145,15 @@
      "from_section": "National News"
     },
     {
-     "title": "India news: Assam Police detain CJP's Ashutosh Ranka",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOelhmb1UyVmo3ZE0wSXFQMUFpUEZVNlJYcV9KaHhuSlZpWHUwUjl0ZlFhMGJqbHB1UGRTV0JNN1VTdzRLVUUzZ0dUMlE4UTZzVUNhcEczcGp1cjlpSk4tQkN2aFJHZloybGQxSGxPbXZaaFlKTXNTaVRVZURrcTdHcUxFWVNFeTN0dnNSZVB0QQ?oc=5",
-     "summary": "India news: Assam Police detain CJP's Ashutosh Ranka dw.com",
-     "published": "2026-09-27T10:38:06+00:00",
-     "source": "dw.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "781a21bf1ee8",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-     "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
-     "published": "2026-09-27T17:46:04+00:00",
+     "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+     "summary": "An Israeli Apache helicopter struck a commercial centre near Mayfadoun in Southern Lebanon.",
+     "published": "2026-09-27T20:57:38+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-IRAN-FM-2709-1790531111.png?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542582.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "134ef26cdd13",
+     "id": "8026adae88d1",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -183,57 +173,15 @@
      "from_section": "Business"
     },
     {
-     "title": "Certain community organisations unable to accept aspirations of Muslim girls, says Minister",
-     "url": "https://www.thehindu.com/news/national/kerala/community-organisations-unable-to-accept-aspirations-of-muslim-girls/article71516357.ece",
-     "summary": "",
-     "published": "2026-09-27T17:51:39+00:00",
-     "source": "The Hindu",
+     "title": "School assembly news headlines today- September 28: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWhhM1dRejhfR3dLN0t1N3ViaG9SdHhHMkdWMktCNGZXSmMxb3U0N1JTdGRyTkctbWNVNHJ6aWZkaXdPMzFGQ1lmalRGSTQySlR4TlVGcWdMYXdoWUY5Z3BTVE5RRTVHb0cxMnpURkxqcVc0SDZnVW0wbGEtMEFyLVoxYnZfNFNXRnBJZ3hIbmVaY01zMk9uWDZUSnNfVTJ0QzI1MTNlWXQzUUwxNTA3QnNPMGtvUmFPYXYwV3RuTEFoY3RxbmVnT2hRMzBHczkzNUE2bUJBNnA0VmdzQTBlREtqajM0Uk1f?oc=5",
+     "summary": "School assembly news headlines today- September 28: Top national, sports and world news curated for you India Today",
+     "published": "2026-09-27T16:05:18+00:00",
+     "source": "India Today",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": null,
      "licence": "linkout",
-     "id": "f01984b7fca4",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "Convoy of former Tripura Chief Minister attacked, opposition blames BJP",
-     "url": "https://www.thehindu.com/news/national/tripura/convoy-of-former-tripura-chief-minister-attacked-opposition-blames-bjp/article71516243.ece",
-     "summary": "Both CPI(M) and Congress described the incident as a “fallout of the BJP’s frustration” as the saffron party is fast losing its support base in the State, also linking the incident with recent controversies concerning the Election Commission of India",
-     "published": "2026-09-27T17:41:02+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/cp7ewy/article71517194.ece/alternates/LANDSCAPE_1200/DSC_2496.jpg",
-     "licence": "linkout",
-     "id": "75cea2b3e5d3",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Pressure Mounts On Chief Poll Officer As Opposition Plans Concerted Action",
-     "url": "https://www.ndtv.com/india-news/pressure-mounts-on-chief-poll-officer-as-opposition-plans-concerted-action-12106352#publisher=newsstand",
-     "summary": "The Congress has convened a meeting of its Working Committee on September 29 to discuss this issue. It would be followed by a meeting of the INDIA alliance the next day, on September 30.",
-     "published": "2026-09-27T17:33:31+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/nct2f61g_gyanesh-kumar_625x300_26_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "fdb929cee336",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
-    },
-    {
-     "title": "3-Day Bank Strike: Will Your September Salary Be Delayed? Here Is What You Need To Know",
-     "url": "https://www.ndtv.com/india-news/3-day-bank-strike-will-your-september-salary-be-delayed-here-is-what-you-need-to-know-12106372#publisher=newsstand",
-     "summary": "Bank Strike September 28-30: The strike has been called by the United Forum of Bank Unions (UFBU). It is set to run from September 28 to September 30.",
-     "published": "2026-09-27T17:43:42+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/46i81608_money_625x300_27_September_26.jpeg",
-     "licence": "linkout",
-     "id": "3cca3b8d7f76",
+     "id": "808235fb7c90",
      "also": [
       {
        "source": "The Indian Express",
@@ -248,15 +196,43 @@
        "summary": "A nationwide bank strike from September 28 to September 30 could disrupt cheque clearing and cash transactions as unions demand a five-day workweek. However, many banking services are expected to remain operational…"
       }
      ],
-     "category": "money",
-     "category_label": "Money & scams",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Embattled Serbian president resigns, paving way for early elections",
+     "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+     "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+     "published": "2026-09-27T20:04:21+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2059/live/af01bc20-baa6-11f1-96c0-052f341a8103.jpg",
+     "licence": "linkout",
+     "id": "dd7f9186901b",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "PM Modi pays tribute to ‘organisational genius’ Ashok Singhal on his birth centenary",
+     "url": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-organisational-genius-ashok-singhal-on-his-birth-centenary/article71515567.ece",
+     "summary": "In an OpEd, Prime Minister recalls his interactions with former VHP leader and highlights his organisational skill, ability to energise youth, and “pivotal” role in Ram Janmabhoomi movement",
+     "published": "2026-09-27T19:15:37+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/avcx3n/article71517286.ece/alternates/LANDSCAPE_1200/HG_3551-038.jpg",
+     "licence": "linkout",
+     "id": "4decfc3a4e1c",
+     "category": "politics",
+     "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
      "title": "Bank unions defer three-day nationwide strike after ‘understandings reached’ with IBA",
      "url": "https://www.thehindu.com/business/Industry/bank-unions-defer-three-day-nationwide-strike-ubfu/article71517225.ece",
      "summary": "A high-level committee of the Indian Banks’ Association and UFBU will be formed immediately to deliberate on the issue of declaring the remaining Saturdays as holidays, the statement said",
-     "published": "2026-09-27T18:28:40+00:00",
+     "published": "2026-09-27T19:08:03+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/nx21zj/article71517223.ece/alternates/LANDSCAPE_1200/20260927279L.jpg",
@@ -264,10 +240,16 @@
      "id": "ce7ab01568d1",
      "also": [
       {
+       "source": "NDTV",
+       "title": "3-Day Bank Strike Deferred After Meeting Between Association, Unions",
+       "url": "https://www.ndtv.com/india-news/3-day-bank-strike-deferred-after-meeting-between-banks-association-unions-12106408#publisher=newsstand",
+       "summary": "The United Forum of Bank Unions (UFBU) has deferred its three-day nationwide strike, which was due to begin on Monday, after talks with the Indian Banks' Association (IBA) on Sunday night."
+      },
+      {
        "source": "Mint",
-       "title": "3-day bank strike deferred after bank union body meet: Will SBI, HDFC Bank remain open on Monday, 28 September?",
-       "url": "https://www.livemint.com/money/personal-finance/3day-bank-strike-deferred-after-bank-union-body-meet-will-sbi-hdfc-bank-remain-open-on-monday-28-september-11790531694476.html",
-       "summary": "The proposed three-day bank strike from September 28 to 30 has been deferred after the IBA and UFBU reached an understanding. SBI and other public sector bank branches are expected to operate normally on Monday, while…"
+       "title": "3-day bank strike deferred: What happened during union body meet? Will SBI, HDFC Bank now remain open 5 days a week?",
+       "url": "https://www.livemint.com/money/3-day-bank-strike-deferred-what-happened-during-iba-ubfu-meet-will-sbi-hdfc-and-o-now-remain-open-5-days-a-week-11790531936213.html",
+       "summary": "The nationwide bank strike scheduled for September 28-30 has been deferred after IBA and UFBU reached an agreement. The decision offers temporary relief to customers of banks such as SBI &amp; HDFC Bank, while…"
       }
      ],
      "category": "money",
@@ -275,37 +257,46 @@
      "from_section": "National News"
     },
     {
-     "title": "CA submitted your tax audit report? The process doesn't end there—here's what you still need to do by 30 September",
-     "url": "https://www.livemint.com/money/personal-finance/ca-submitted-your-tax-audit-report-the-process-doesnt-end-there-heres-what-you-still-need-to-do-by-30-september-11790517369957.html",
-     "summary": "Has your CA submitted your tax audit report? The process does not end there. Taxpayers need to check the report on the income-tax e-filing portal and complete certain steps after submission. Here's what you need to know about accepting and verifying the report.",
-     "published": "2026-09-27T15:45:14+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/09/27/600x338/audd_1790522924864_M4e1_1790522929077_PpeJ_f9e4a15f-680f-4615-b8b4-a18a6b451f3b_FS0K.png",
-     "licence": "linkout",
-     "id": "6a8ad707d8f8",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "3-Day Bank Strike: Will Your September Salary Be Delayed? Here Is What You Need To Know",
-       "url": "https://www.ndtv.com/india-news/3-day-bank-strike-will-your-september-salary-be-delayed-here-is-what-you-need-to-know-12106372#publisher=newsstand",
-       "summary": "Bank Strike September 28-30: The strike has been called by the United Forum of Bank Unions (UFBU). It is set to run from September 28 to September 30."
-      }
-     ],
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Students, Teachers Injured In Clashes At Kolkata Film Institute",
-     "url": "https://www.ndtv.com/india-news/clash-at-kolkatas-ray-film-institute-students-teachers-injured-12106146#publisher=newsstand",
-     "summary": "Members of the \"Akhil Bharatiya Grahak Panchayat (West Bengal Chapter),\" have hit back, claiming that their posters and banners were torn down and they were beaten up, despite having permission to hold the event.",
-     "published": "2026-09-27T17:22:32+00:00",
+     "title": "3-Day Bank Strike Deferred After Meeting Between Association, Unions",
+     "url": "https://www.ndtv.com/india-news/3-day-bank-strike-deferred-after-meeting-between-banks-association-unions-12106408#publisher=newsstand",
+     "summary": "The United Forum of Bank Unions (UFBU) has deferred its three-day nationwide strike, which was due to begin on Monday, after talks with the Indian Banks' Association (IBA) on Sunday night.",
+     "published": "2026-09-27T18:45:05+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/41urpms_ray-institute_625x300_27_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2021-03/6kgvu1kk_bank-strike_625x300_15_March_21.jpg",
      "licence": "linkout",
-     "id": "bde6b1d5774c",
+     "id": "7731d24645a8",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "National News"
+    },
+    {
+     "title": "3-day bank strike deferred: What happened during union body meet? Will SBI, HDFC Bank now remain open 5 days a week?",
+     "url": "https://www.livemint.com/money/3-day-bank-strike-deferred-what-happened-during-iba-ubfu-meet-will-sbi-hdfc-and-o-now-remain-open-5-days-a-week-11790531936213.html",
+     "summary": "The nationwide bank strike scheduled for September 28-30 has been deferred after IBA and UFBU reached an agreement. The decision offers temporary relief to customers of banks such as SBI &amp; HDFC Bank, while discussions will now focus on a five-day banking week and unresolved issues.",
+     "published": "2026-09-27T18:41:55+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/09/27/600x338/images_1790533877326_DVB5_1790533887663_asf5_e8c24479-4cbe-40f3-9328-eadf4b0eead0_1fmX.jpg",
+     "licence": "linkout",
+     "id": "de13eca00280",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "5 days a week?"
+     ]
+    },
+    {
+     "title": "Actor Lakshmipriya booked for allegedly defaming Ansiba Hassan",
+     "url": "https://www.thehindu.com/news/national/kerala/actor-lakshmipriya-booked-for-allegedly-defaming-ansiba-hassan/article71517199.ece",
+     "summary": "",
+     "published": "2026-09-27T19:34:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/b3dyol/article71517290.ece/alternates/LANDSCAPE_1200/Kerala-HC-seeksGV4GB00CJ.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "56d4e51af89e",
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "National News"
@@ -328,6 +319,20 @@
       "21 stars vying to win £100,000",
       "£100,000  for their chosen charity"
      ]
+    },
+    {
+     "title": "Unfortunate that Veerashaiava-Lingayat community which worked for social justice has to seek justice now: Khandre",
+     "url": "https://www.thehindu.com/news/national/karnataka/unfortunate-that-veerashaiava-lingayat-community-which-worked-for-social-justice-has-to-seek-justice-now-khandre/article71516688.ece",
+     "summary": "",
+     "published": "2026-09-27T19:03:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/g47yq7/article71516827.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-27%20at%201.40.52%20PM.JPEG",
+     "licence": "linkout",
+     "id": "4151c4df1594",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "National Hotlines"
     },
     {
      "title": "Two bodies found after avalanche hits Himalayan climbing group",
@@ -364,21 +369,18 @@
      ]
     },
     {
-     "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
-     "summary": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
-     "published": "2026-09-27T17:29:50+00:00",
+     "title": "Floods inundate roads in southeastern Algeria",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
+     "summary": "Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.",
+     "published": "2026-09-27T21:03:47+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790530150.jpg?resize=1621%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542954.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "2fca1ef23e08",
+     "id": "c43e406577be",
      "category": "weather",
      "category_label": "Weather & disaster",
-     "from_section": "Global News",
-     "figures": [
-      "5,285 people remain missing and more"
-     ]
+     "from_section": "Global News"
     },
     {
      "title": "Bangkok roads submerged as flood disaster declared",
@@ -395,6 +397,28 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "OpenAI halts training of latest AI models after agents probe US government websites",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXRwcnIwWFhXZEhzQkpjVE5BdE1NbUdPcjFzREV6eFBBLVRhTzVMNkJscWpCa3BSOUpiSUNlZTMzM2c3TDNzN01oUFhVZFRFaXRRYUMtWE5wbUhXZzRId2dqQmpLcUxfUVplRWNhRDVXNmM0a00yQWZkU1V4VWxaeWZUaDRJajVNb21QSWNlYlpQZjV5dUVNaXNlcERPczhxV1I1a2dsS0NZMXJEbnozd2FwNUo2NGZ0bG04X3ZmZ0dRWUQ4MWNoeFVyTW3SAdIBQVVfeXFMUEV4YjFyZEZDZEpnSktfR0ZoWWtXWkFUSVBSUEc1MGpPTkZNVTBLQVVIbFJTMHJhcHhkalE5eDFOa2hoSHJXTTZ0ZnVCalRqcHFfZ1ZoTnZqb0I0OWRsc2Z1ZGxmNlNHVkY5aXVGRUE5ejNuQXM1QlJQSXM1SUFCak9DNnd2cGQzekNWcTl3R0RyUU85MC1TS2JSaS02UUM5aW5rNGdTejNFekNHTjc0bWlucWZia0wxbHpIMmotRk5QYXBKUlZDbUpjNGF0YzZESVp3?oc=5",
+     "summary": "OpenAI halts training of latest AI models after agents probe US government websites Telegraph India",
+     "published": "2026-09-27T05:16:27+00:00",
+     "source": "Telegraph India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "1ab25508f456",
+     "also": [
+      {
+       "source": "The Guardian",
+       "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
+       "summary": "OpenAI halts training of latest models as reports mount of AI agents going rogue The Guardian"
+      }
+     ],
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Scandals & Investigations"
+    },
+    {
      "title": "Indian-origin executives in demand to helm C-suite AI strategy globally",
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWldjbzZ4S3JZM1Y5am14b2dkZDcyZlo3cnMtbC02ZDZnOFBIR0hPM1dkNEFGRDFOTUZ6dHhEcGxSVm9PQjZST1dhdi10MDJFMU5yNUN4aXFiZnJ4OGNUZ2x5RkRtdDBpbWdycFNxdmJfdGhOMTkzSnNlcFFfM2JZWTBpM2Q4ZjVXV2hoOWhuc0diZ3dMekRWZmpuSEJudnA3Zm9SY0VJVXExNzRrX1d1cS1aX05URkN1bUh0b0NvVTJMSFgwaUNta29LZ1pxTndsaW9OUDVGOUdmd3ZJM2NGZnlpcmVwak12SnBpOV9FNmFmZ9IB9wFBVV95cUxOUTJvajE4ZWM3T2c3aUU0MXhvaG84WTNsbzE4UXQ1c0REa3NPdnVCNHRKbHBzQV9EQ0ViRUdHVk4xM1l6eFo2TWJhdWJtMC1vel92Q3lYUVNQcjRyRmZRXzFiUGIzeTZFX0hZd1BLbUhoX1c4TzM5ZXNHSEdnSjN1NFhlREVxR1RNekxCMGxQRXRTQm0xUElsUElIU2YtckItbS1PbEJ4cHgzLTdONmtqdG5iT0FReEZQN0hlRk1WQ1k3dm1NNVpkRWdkSTY3QUNZTFZIYm95Nkd5MkF2UDgtVGdoOGhCbmFhM1BNcUIyS2NjRjktcnJN?oc=5",
      "summary": "Indian-origin executives in demand to helm C-suite AI strategy globally Business Standard",
@@ -409,71 +433,63 @@
      "from_section": "Technology"
     },
     {
-     "title": "Assessment of Knowledge, Attitudes, and Perceptions Regarding Artificial Intelligence Among Undergraduate Medical Students",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN3ZOZGNlRDRVd3NGWXNqaXdWYlB6ay1yM3o5bi1vOHBGX3NuYVdfSFN3S3NIajd3X1RSNW9nNWtXNzk0eDMteXlNODVWV3JTTjVNbjdnSEhPVzRDT1F6OF9KWlFKXzVMSFFwUUlZRjNzQU96VURTaWJqSGMzUXZORzlMQjBwdVJlQ0JwNkN3SW9qeDJ4Nk9CSDNucjYwZGhmYjdpTURnQzR5eDN2a0NTaFJPQmZ5NUhCR2ZCRk9zVVk5VWNoSjltUVppRFNQTW1IWVFLelNFTzZDWXJKMUtXUjhwYTNHZlItUVBYUF9aU00?oc=5",
-     "summary": "Assessment of Knowledge, Attitudes, and Perceptions Regarding Artificial Intelligence Among Undergraduate Medical Students Cureus",
-     "published": "2026-09-27T08:56:06+00:00",
-     "source": "Cureus",
+     "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
+     "summary": "OpenAI halts training of latest models as reports mount of AI agents going rogue The Guardian",
+     "published": "2026-09-27T10:01:00+00:00",
+     "source": "The Guardian",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "26a2056da4ec",
+     "id": "cf5d70b20bda",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "OpenAI halts training of latest AI models after agents probe US government websites",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXRwcnIwWFhXZEhzQkpjVE5BdE1NbUdPcjFzREV6eFBBLVRhTzVMNkJscWpCa3BSOUpiSUNlZTMzM2c3TDNzN01oUFhVZFRFaXRRYUMtWE5wbUhXZzRId2dqQmpLcUxfUVplRWNhRDVXNmM0a00yQWZkU1V4VWxaeWZUaDRJajVNb21QSWNlYlpQZjV5dUVNaXNlcERPczhxV1I1a2dsS0NZMXJEbnozd2FwNUo2NGZ0bG04X3ZmZ0dRWUQ4MWNoeFVyTW3SAdIBQVVfeXFMUEV4YjFyZEZDZEpnSktfR0ZoWWtXWkFUSVBSUEc1MGpPTkZNVTBLQVVIbFJTMHJhcHhkalE5eDFOa2hoSHJXTTZ0ZnVCalRqcHFfZ1ZoTnZqb0I0OWRsc2Z1ZGxmNlNHVkY5aXVGRUE5ejNuQXM1QlJQSXM1SUFCak9DNnd2cGQzekNWcTl3R0RyUU85MC1TS2JSaS02UUM5aW5rNGdTejNFekNHTjc0bWlucWZia0wxbHpIMmotRk5QYXBKUlZDbUpjNGF0YzZESVp3?oc=5",
-     "summary": "OpenAI halts training of latest AI models after agents probe US government websites Telegraph India",
-     "published": "2026-09-27T05:16:27+00:00",
-     "source": "Telegraph India",
+     "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+     "url": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+     "summary": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.",
+     "published": "2026-09-27T21:02:48+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab982a7784e-1790542503_36e0be-1790542954.jpg?resize=1200%2C630&quality=80",
      "licence": "linkout",
-     "id": "1ab25508f456",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "A silver in Japan sparks wild celebrations in Keralam’s Nattika",
-     "url": "https://www.thehindu.com/news/national/kerala/a-silver-in-japan-sparks-wild-celebrations-in-keralams-nattika/article71516682.ece",
-     "summary": "Though Ancy Sojan had to settle for silver for the second straight Asian Games, pride was writ large on every face at her hometown. Behind the medal lies years of persistence by an athlete and a family that kept choosing sports despite financial constraints",
-     "published": "2026-09-27T17:48:27+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yx0j6n/article71517012.ece/alternates/LANDSCAPE_1200/80688_27_9_2026_20_55_58_3_ANCY_KKN3.JPG",
-     "licence": "linkout",
-     "id": "9832f5a57b09",
+     "id": "689d93541360",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "National Hotlines"
+     "from_section": "Global News",
+     "figures": [
+      "1 Nations League win in Norway"
+     ]
     },
     {
-     "title": "'No Satisfaction': Abhay Singh's Brutally Honest Reaction After Asian Games Silver",
-     "url": "https://sports.ndtv.com/squash/no-satisfaction-abhay-singhs-brutally-honest-reaction-after-asian-games-silver-12106217#publisher=newsstand",
-     "summary": "After winning the silver medal, Abhay spoke to NDTV in an exclusive interview. Here are the excerpts:",
-     "published": "2026-09-27T16:47:34+00:00",
+     "title": "David Miller And Temba Bavuma Tons Earn South Africa 32-Run Win In 2nd ODI vs Australia To Win Series",
+     "url": "https://sports.ndtv.com/cricket/david-miller-and-temba-bavuma-tons-earn-south-africa-32-run-win-in-2nd-odi-vs-australia-to-win-series-12106221#publisher=newsstand",
+     "summary": "David Miller and Temba Bavuma smashed centuries for South Africa as Australia once again was exposed against spinners to lose the second cricket ODI by 32 runs on Sunday.",
+     "published": "2026-09-27T18:45:16+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/9dtrmnks_abhay-singh-pti_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/m1c0q0l8_david-miller-afp_625x300_28_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6527c5ec1f12",
+     "id": "f397b4f80647",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Sports"
+     "from_section": "Sports",
+     "figures": [
+      "32 runs on Sunday"
+     ]
     },
     {
-     "title": "\"Would Have To Settle For Silver Again\": Ancy Sojan After Asian Games Heartbreak",
-     "url": "https://sports.ndtv.com/athletics/would-have-to-settle-for-silver-again-ancy-sojan-after-asian-games-heartbreak-12106194#publisher=newsstand",
-     "summary": "India's Ancy Sojan led for a major part of the competition before settling for the silver medal in the women's long jump competition at the Asian Games on Sunday.",
-     "published": "2026-09-27T16:38:43+00:00",
+     "title": "Pakistan vs Hong Kong Live Score, Asian Games 2026 Men's Cricket Quarter-Final",
+     "url": "https://sports.ndtv.com/cricket/pakistan-vs-hong-kong-live-score-asian-games-2026-mens-cricket-quarter-final-pak-vs-hk-live-updates-12106415#publisher=newsstand",
+     "summary": "Pakistan vs Hong Kong Live Score: Rain threat looms over the first quarterfinal of the Asian Games 2026 men's cricket competition between Pakistan and Hong Kong.",
+     "published": "2026-09-27T18:38:20+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/6a89dp0k_ancy-sojan-edappilly_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-06/n2ujjntg_sahibzada-farhan_625x300_10_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "dc8aff543cc4",
+     "id": "a4fb4f593f6a",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
@@ -534,7 +550,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-27T18:33:25.502074+00:00",
+     "published": "2026-09-27T21:42:23.271523+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -545,7 +561,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-27T18:33:25.502088+00:00",
+     "published": "2026-09-27T21:42:23.271535+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -556,7 +572,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-27T18:33:25.502093+00:00",
+     "published": "2026-09-27T21:42:23.271539+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -567,7 +583,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-27T18:33:25.502098+00:00",
+     "published": "2026-09-27T21:42:23.271544+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -578,7 +594,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-27T18:33:25.502101+00:00",
+     "published": "2026-09-27T21:42:23.271546+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -589,7 +605,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-27T18:33:25.502105+00:00",
+     "published": "2026-09-27T21:42:23.271549+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -625,6 +641,14 @@
      "image": null,
      "licence": "linkout",
      "id": "1ab25508f456",
+     "also": [
+      {
+       "source": "The Guardian",
+       "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
+       "summary": "OpenAI halts training of latest models as reports mount of AI agents going rogue The Guardian"
+      }
+     ],
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -653,36 +677,6 @@
      "id": "41a38997cb33",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "JKCA ‘scam’: HC rejects ED plea to add charges",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObDVWd2RtR1NyMmlaS3paamZoQXNGeXRpUmtrWloyVXJKV3pRNWlERVdmSUcyS00yam1VaWRNREJvTWw4MGtGeExFc0xmNmxFUkQ4QmIwQkdEUktaR1dUa2RDXzNjUk1QVmZERWpsaExWYmY1VDBSWjh5eG5FTkR2ZXpMbEJZeXpfcE9YMU1wd0Q2T3hqcUktLUxMV0xPTEQ4RkpOZGhrc2dYbmMtdWdialdIUWg4UDlZTHdlMklTVDVrTTNFaVNBX9IBzgFBVV95cUxOUkp5WXNhSFFINktaUnJLSWV0OURPVC1pMmEyWUJVc0kyU0JnVnRKdmlReHFxT3FydUFlNEtxYkI3d1Q5S0RnY01BMVNPaXE1TURCMkZUSWFTb1pVLW5mX0o2RWdVWnFmaDFDb1RSWEhybm04QTJ6Q1UtV0s2cXFGQVJVQlcwYmlqQmpVOWVZU09Gb0hHc1RkN0lUeThyS2FqM3FOQnFSY3NpeElPaWdTNFRySG5YMWJBYVBlOXEtbEZnZ0o5OVAzU2NlaWtKQQ?oc=5",
-     "summary": "JKCA ‘scam’: HC rejects ED plea to add charges The Times of India",
-     "published": "2026-09-26T18:43:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "38ea063eaf80",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "APK files used in three cyber fraud cases, Chandigarh residents lose over Rs 6 lakh",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUWJqa1hNblEybmZ0b2lUdEpPQmxLejhLcWZiZ3VSUHBsT1dhanYxVHZkaHJOM3VwMjBwanYyZUVjUjBQWURUa1VhbFBwTGgyc2xxaHF2Sm5iWVNYZC1IUUY2Q0NOUjl3aXBHWVFvQi14VXlGLUNQTy12NjNjelk2Z21Ed0lrMng4YWtVdkpTazY5REp0MUV3Z3FHYkVuTmhzWFlMcUVuR0NFLVJYTVJZdFA0UDdvdEdDOTdiWnJfZDhPVFVudzMwZlZlcVVXbUM5TVFiSXJZNjZBUElSak84MmRFVjVSNDVoa2VsQlRJdXBnZ9IB9wFBVV95cUxPaWVKNDJuS3k0UkxkeEVxeVRmVDYwZ3VmbkpoNjJOMTJHUUVxb3R3Tldvaks3Mmd2b0xfR19zWHZRbEpfRm1EbUNNcGUzanBKSE1hby1JTjBMSmwwb181NU5DNmI3elBaU1NieHV1SG15cTJNcjJSZ2VlUHp5Ny1Ic0FkX0pSSExZb0ZFTDl1Nld0dkwzcDl6THNxQ19FT2lyazlqNGFuZFNFaEJ6amFXSTVtRE55TWxOMlV4QTZxTEE5cVdMamxfYWhKWXc4NkNwSFVfNExmZkdKbEZESHJMSzZaZXptbWo2ckdYVDlLX1AzMVo1VDZB?oc=5",
-     "summary": "APK files used in three cyber fraud cases, Chandigarh residents lose over Rs 6 lakh The Times of India",
-     "published": "2026-09-26T19:27:00+00:00",
-     "source": "The Times of India",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4a53ddacd511",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "Rs 6 lakh",
-      "Rs 6 lakh The Times of India"
-     ]
     }
    ]
   },
@@ -693,88 +687,84 @@
    "upsc": false,
    "items": [
     {
-     "title": "Bank unions defer three-day nationwide strike after ‘understandings reached’ with IBA",
-     "url": "https://www.thehindu.com/business/Industry/bank-unions-defer-three-day-nationwide-strike-ubfu/article71517225.ece",
-     "summary": "A high-level committee of the Indian Banks’ Association and UFBU will be formed immediately to deliberate on the issue of declaring the remaining Saturdays as holidays, the statement said",
-     "published": "2026-09-27T18:28:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nx21zj/article71517223.ece/alternates/LANDSCAPE_1200/20260927279L.jpg",
-     "licence": "linkout",
-     "id": "ce7ab01568d1",
-     "also": [
-      {
-       "source": "Mint",
-       "title": "3-day bank strike deferred after bank union body meet: Will SBI, HDFC Bank remain open on Monday, 28 September?",
-       "url": "https://www.livemint.com/money/personal-finance/3day-bank-strike-deferred-after-bank-union-body-meet-will-sbi-hdfc-bank-remain-open-on-monday-28-september-11790531694476.html",
-       "summary": "The proposed three-day bank strike from September 28 to 30 has been deferred after the IBA and UFBU reached an understanding. SBI and other public sector bank branches are expected to operate normally on Monday, while…"
-      }
-     ],
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Sahil Wakode’s death can’t be seen in isolation, IIT Bombay alumni write to Director",
-     "url": "https://www.thehindu.com/news/cities/mumbai/sahil-wakodes-death-cant-be-seen-in-isolation-iit-bombay-alumni-write-to-director/article71517078.ece",
-     "summary": "Four student deaths in one year, an increasingly ‘militarised campus’ during exam are some of the concerns raised by alumni of the institute",
-     "published": "2026-09-27T18:18:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8ykxy/article71517209.ece/alternates/LANDSCAPE_1200/PTI09_24_2026_000514B.jpg",
-     "licence": "linkout",
-     "id": "4f5db587da65",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "T.N. government steps up support for enterprises headed by women",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-steps-up-support-for-enterprises-headed-by-women/article71516736.ece",
-     "summary": "Under the ‘Vetri Magalir Thozhilmunaivor Membattu Thittam’, eligible women entrepreneurs can avail themselves of loans ranging from ₹10 lakh to ₹5 crore through the Tamil Nadu Industrial Investment Corporation",
-     "published": "2026-09-27T18:11:01+00:00",
+     "title": "Kerala High Court directs State to ensure adequate facilities at POCSO courts",
+     "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-ensure-adequate-facilities-at-pocso-courts/article71509475.ece",
+     "summary": "",
+     "published": "2026-09-27T19:45:30+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "72a6e9411a12",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹10 lakh to ₹5 crore through",
-      "₹5 crore through the Tamil Nadu"
-     ]
+     "id": "2f8c588a784a",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "E.V. Velu, others booked for illegal excavation of lake bed to level venue for party event",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/ev-velu-others-booked-for-illegal-excavation-of-lake-bed-to-level-venue-for-party-event/article71517084.ece",
-     "summary": "Approximately 45,72,058 cubic feet of lake-bed sand was alleged to have been transported from about 8 acres of the waterbody, resulting in an estimated loss of ₹8.22 crore to the T.N. exchequer",
-     "published": "2026-09-27T18:05:49+00:00",
+     "title": "Kappan says HC has no jurisdiction over disqualification plea",
+     "url": "https://www.thehindu.com/news/national/kerala/kappan-says-hc-has-no-jurisdiction-over-disqualification-plea/article71509602.ece",
+     "summary": "",
+     "published": "2026-09-27T19:41:37+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/d5biem/article71517082.ece/alternates/LANDSCAPE_1200/9712_19_9_2024_10_57_1_1__DSC6531.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "fe7f491457d3",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "45,72,058 cubic feet of lake-bed sand",
-      "8 acres of the waterbody, resulting",
-      "₹8.22 crore to the T"
-     ]
+     "id": "c4696eab41fa",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "2 Suffocate To Death After Inhaling Toxic Chemical In Mumbai Public Toilet",
-     "url": "https://www.ndtv.com/india-news/2-suffocate-to-death-after-inhaling-toxic-chemical-in-mumbai-public-toilet-12106355#publisher=newsstand",
-     "summary": "According to Brihanmumbai Municipal Corporation (BMC) officials, the incident occurred in the early hours at a public toilet near the Parsi Panchayat Gate close to Mrunaltai Bridge in the Ram Mandir East area.",
-     "published": "2026-09-27T17:34:12+00:00",
+     "title": "Actor Lakshmipriya booked for allegedly defaming Ansiba Hassan",
+     "url": "https://www.thehindu.com/news/national/kerala/actor-lakshmipriya-booked-for-allegedly-defaming-ansiba-hassan/article71517199.ece",
+     "summary": "",
+     "published": "2026-09-27T19:34:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/b3dyol/article71517290.ece/alternates/LANDSCAPE_1200/Kerala-HC-seeksGV4GB00CJ.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "56d4e51af89e",
+     "category": "celebrity",
+     "category_label": "Celebrity"
+    },
+    {
+     "title": "Amritpal Singh's Waris Punjab De A New Challenge For Akali Dal Ahead Of Polls",
+     "url": "https://www.ndtv.com/india-news/amritpal-singhs-waris-punjab-de-a-new-challenge-for-akali-dal-ahead-of-polls-12106559#publisher=newsstand",
+     "summary": "SAD president Sukhbir Singh Badal has repeatedly targeted Amritpal Singh and Waris Punjab De at political rallies, making the group a prominent target of his campaign.",
+     "published": "2026-09-27T19:12:29+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://w.ndtvimg.com/sites/3/2019/02/18110957/marine-drive-toilet_ndtv.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/2kccltb8_sukhbir-badal-amritpal-singh_625x300_28_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "82fa7f67e3f2",
+     "id": "e49cf597f6b6",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Suvendu Adhikari Says Bengal Will Protect Cows, Jail People Who Insult Monks",
+     "url": "https://www.ndtv.com/india-news/suvendu-adhikari-says-bengal-will-protect-cows-jail-people-who-insult-monks-12106533#publisher=newsstand",
+     "summary": "Addressing a Bhagavad Gita recital event organised by the Bangur Jagaran Mancha at the Netaji Indoor Stadium here, Suvendu Adhikari said there was nothing to fear while following or promoting a faith.",
+     "published": "2026-09-27T18:55:06+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-05/sfktl1n_suvendu-adhikari_625x300_01_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "856813013816",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "In Rajasthan Civic Polls, BJP Scoops Up 204 Boards, Congress Trails With 96",
+     "url": "https://www.ndtv.com/india-news/in-rajasthan-civic-polls-bjp-scoops-up-204-boards-congress-trails-with-96-12106532#publisher=newsstand",
+     "summary": "The BJP's performance has suprised many, especially in the tribal belt.In the nine urban local bodies across the tribal-dominated districts of Banswara, Dungarpur and Pratapgarh, the BJP has formed boards in seven.",
+     "published": "2026-09-27T18:52:15+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/vcrsav38_rajasthan-polls_625x300_08_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "f9493e78d5c0",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "2 Suffocate To Death After Inhaling"
+      "204 Boards , Congress Trails"
      ]
     }
    ]
@@ -786,59 +776,46 @@
    "upsc": false,
    "items": [
     {
-     "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-     "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
-     "published": "2026-09-27T17:46:04+00:00",
+     "title": "Alleged rape on campus sparks violent protest at Indian university",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
+     "summary": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
+     "published": "2026-09-27T21:17:05+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-IRAN-FM-2709-1790531111.png?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-college-violence-1790543776.png?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "134ef26cdd13",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "cddf81a627da",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
-     "url": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
-     "summary": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
-     "published": "2026-09-27T17:42:45+00:00",
+     "title": "Floods inundate roads in southeastern Algeria",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
+     "summary": "Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.",
+     "published": "2026-09-27T21:03:47+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab940f720ef-1790525687.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542954.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "aa93907cd830",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
-     "summary": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
-     "published": "2026-09-27T17:29:50+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790530150.jpg?resize=1621%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "2fca1ef23e08",
+     "id": "c43e406577be",
      "category": "weather",
-     "category_label": "Weather & disaster",
-     "figures": [
-      "5,285 people remain missing and more"
-     ]
+     "category_label": "Weather & disaster"
     },
     {
-     "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-     "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
-     "summary": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
-     "published": "2026-09-27T17:07:33+00:00",
+     "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+     "url": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+     "summary": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.",
+     "published": "2026-09-27T21:02:48+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab94d9b75868-1790528923.jpg?resize=1643%2C1080",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab982a7784e-1790542503_36e0be-1790542954.jpg?resize=1200%2C630&quality=80",
      "licence": "linkout",
-     "id": "97c6947e011b",
-     "category": "general",
-     "category_label": "General"
+     "id": "689d93541360",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "1 Nations League win in Norway"
+     ]
     },
     {
      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
@@ -852,19 +829,6 @@
      "id": "f453a8e0ddb5",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-     "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-     "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-     "published": "2026-09-26T23:04:08+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c63/live/9ec92970-b8de-11f1-b1d1-571ed4d7ff2c.jpg",
-     "licence": "linkout",
-     "id": "310ab98e9db8",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Four killed in helicopter crash near Montreal",
@@ -938,58 +902,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Bank unions defer three-day nationwide strike after ‘understandings reached’ with IBA",
-     "url": "https://www.thehindu.com/business/Industry/bank-unions-defer-three-day-nationwide-strike-ubfu/article71517225.ece",
-     "summary": "A high-level committee of the Indian Banks’ Association and UFBU will be formed immediately to deliberate on the issue of declaring the remaining Saturdays as holidays, the statement said",
-     "published": "2026-09-27T18:28:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/nx21zj/article71517223.ece/alternates/LANDSCAPE_1200/20260927279L.jpg",
-     "licence": "linkout",
-     "id": "ce7ab01568d1",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Sahil Wakode’s death can’t be seen in isolation, IIT Bombay alumni write to Director",
-     "url": "https://www.thehindu.com/news/cities/mumbai/sahil-wakodes-death-cant-be-seen-in-isolation-iit-bombay-alumni-write-to-director/article71517078.ece",
-     "summary": "Four student deaths in one year, an increasingly ‘militarised campus’ during exam are some of the concerns raised by alumni of the institute",
-     "published": "2026-09-27T18:18:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/8ykxy/article71517209.ece/alternates/LANDSCAPE_1200/PTI09_24_2026_000514B.jpg",
-     "licence": "linkout",
-     "id": "4f5db587da65",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "T.N. government steps up support for enterprises headed by women",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-steps-up-support-for-enterprises-headed-by-women/article71516736.ece",
-     "summary": "Under the ‘Vetri Magalir Thozhilmunaivor Membattu Thittam’, eligible women entrepreneurs can avail themselves of loans ranging from ₹10 lakh to ₹5 crore through the Tamil Nadu Industrial Investment Corporation",
-     "published": "2026-09-27T18:11:01+00:00",
+     "title": "Kerala High Court directs State to ensure adequate facilities at POCSO courts",
+     "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-ensure-adequate-facilities-at-pocso-courts/article71509475.ece",
+     "summary": "",
+     "published": "2026-09-27T19:45:30+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "72a6e9411a12",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹10 lakh to ₹5 crore through",
-      "₹5 crore through the Tamil Nadu"
-     ]
+     "id": "2f8c588a784a",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Renowned Sanskrit scholar Mahamahopadhyaya R. Krishnamurthy Shastri passes away in Chennai",
-     "url": "https://www.thehindu.com/news/cities/chennai/renowned-sanskrit-scholar-mahamahopadhyaya-r-krishnamurthy-shastri-passes-away-in-chennai/article71516977.ece",
+     "title": "Kappan says HC has no jurisdiction over disqualification plea",
+     "url": "https://www.thehindu.com/news/national/kerala/kappan-says-hc-has-no-jurisdiction-over-disqualification-plea/article71509602.ece",
      "summary": "",
-     "published": "2026-09-27T17:46:23+00:00",
+     "published": "2026-09-27T19:41:37+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/hmgc8h/article71517068.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-27%20at%2010.12.04%20PM.jpeg",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "20db88f9f76b",
+     "id": "c4696eab41fa",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Actor Lakshmipriya booked for allegedly defaming Ansiba Hassan",
+     "url": "https://www.thehindu.com/news/national/kerala/actor-lakshmipriya-booked-for-allegedly-defaming-ansiba-hassan/article71517199.ece",
+     "summary": "",
+     "published": "2026-09-27T19:34:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/b3dyol/article71517290.ece/alternates/LANDSCAPE_1200/Kerala-HC-seeksGV4GB00CJ.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "56d4e51af89e",
+     "category": "celebrity",
+     "category_label": "Celebrity"
+    },
+    {
+     "title": "Govt. to build ‘Karnataka Mantapa’ modeled after ‘Bharat Mandapam’: CM Shivakumar",
+     "url": "https://www.thehindu.com/news/national/karnataka/govt-to-build-karnataka-mantapa-modeled-after-bharat-mandapam-cm-shivakumar/article71516720.ece",
+     "summary": "",
+     "published": "2026-09-27T19:03:42+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hj2xfr/article71517221.ece/alternates/LANDSCAPE_1200/IMG_7876.jpeg",
+     "licence": "linkout",
+     "id": "4c8e9441fdd6",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Form 26 and the statutory mandate",
+     "url": "https://www.thehindu.com/opinion/op-ed/form-26-and-the-statutory-mandate/article71516242.ece",
+     "summary": "The case involving Meenakshi Natarajan raises important questions about the scope of the disclosure obligations imposed on electoral candidates and the constitutional remedies available when nomination papers are rejected",
+     "published": "2026-09-27T18:52:07+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/pnlxlg/article71517220.ece/alternates/LANDSCAPE_1200/CONGRESS%20PC%20NATRAJAN%20DELHI_12_06_24.jpg",
+     "licence": "linkout",
+     "id": "dff0a3d9570d",
      "category": "general",
      "category_label": "General"
     },
@@ -1827,28 +1800,15 @@
     {
      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5",
-     "summary": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The New York Times",
+     "summary": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind nytimes.com",
      "published": "2026-09-27T09:01:20+00:00",
-     "source": "The New York Times",
+     "source": "nytimes.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "6de0efa96e17",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Costa Rica Seeks to Attract New Global Service, Technology, and Artificial Intelligence Centers from India",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONUgzR2F4WEc4SVgzckVpTm5oRzVjdDNWZC1Ca2JudkdaellqOHNtaE9lcXRBQ0VCNG1hc2I5VldsazRQVWlYY1M5RmotQ2c4WlYzOVJuaktRZlg0LWVzX0FiUnd6Ny10T1ZFUEZNQlNMNkNuMnZ4WTZLV2xvVzhyN09BVXd5QjZrZkdiNlJ3dDhxTlZmbU1hbVRQOFpFVEdEbnJEVDd4TUVXQ2U3SmhnejFvYkdfbVJIN2o0c1I5dnVQT0J6akhmXzhJeUpkODg?oc=5",
-     "summary": "Costa Rica Seeks to Attract New Global Service, Technology, and Artificial Intelligence Centers from India thecostaricanews.com",
-     "published": "2026-09-26T20:44:30+00:00",
-     "source": "thecostaricanews.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "6569874e1fa9",
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
@@ -1859,82 +1819,91 @@
    "upsc": false,
    "items": [
     {
-     "title": "'No Satisfaction': Abhay Singh's Brutally Honest Reaction After Asian Games Silver",
-     "url": "https://sports.ndtv.com/squash/no-satisfaction-abhay-singhs-brutally-honest-reaction-after-asian-games-silver-12106217#publisher=newsstand",
-     "summary": "After winning the silver medal, Abhay spoke to NDTV in an exclusive interview. Here are the excerpts:",
-     "published": "2026-09-27T16:47:34+00:00",
+     "title": "Colin Simmons’ Act In Front Of Trump Sparks Steve Sarkisian’s 'Death Penalty’ Remark",
+     "url": "https://sports.ndtv.com/us-nfl/colin-simmons-act-in-front-of-trump-sparks-steve-sarkisian-s-death-penalty-remark-12106566#publisher=newsstand",
+     "summary": "Steve Sarkisian addressed Colin Simmons’ unusual celebration after Texas’ win over Tennessee in front of Donald Trump.",
+     "published": "2026-09-27T19:23:53+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/9dtrmnks_abhay-singh-pti_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/ebnhb2t4_colin-simmons_625x300_28_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6527c5ec1f12",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Tom Kim Leaves Presidents Cup Early For Asian Games Opportunity",
-     "url": "https://sports.ndtv.com/us-golf/tom-kim-leaves-presidents-cup-early-for-asian-games-opportunity-12105998#publisher=newsstand",
-     "summary": "Tom Kim will leave the Presidents Cup for the Asian Games, where a gold medal could give the South Korean star a military service exemption.",
-     "published": "2026-09-27T16:38:43+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/5pqbb8ig_golf_625x300_09_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "fd33387f2138",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "\"Would Have To Settle For Silver Again\": Ancy Sojan After Asian Games Heartbreak",
-     "url": "https://sports.ndtv.com/athletics/would-have-to-settle-for-silver-again-ancy-sojan-after-asian-games-heartbreak-12106194#publisher=newsstand",
-     "summary": "India's Ancy Sojan led for a major part of the competition before settling for the silver medal in the women's long jump competition at the Asian Games on Sunday.",
-     "published": "2026-09-27T16:38:43+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/6a89dp0k_ancy-sojan-edappilly_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "dc8aff543cc4",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Tyrese Haliburton Gets Full Health Clearance From Indiana Pacers",
-     "url": "https://sports.ndtv.com/us-nba/tyrese-haliburton-gets-full-health-clearance-from-indiana-pacers-12106013#publisher=newsstand",
-     "summary": "Tyrese Haliburton is cleared without restrictions as the Pacers prepare for his return after a year away following Achilles surgery.",
-     "published": "2026-09-27T16:38:23+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/dj5nbbts_pacers-make-key-decision-that-helps-tyrese-haliburton_625x300_23_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4663990cb069",
+     "id": "8f0d3cd3f3db",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "A’ja Wilson Opens Up About Mental Health Before Indiana Fever Playoff Clash",
-     "url": "https://sports.ndtv.com/us-nba/a-ja-wilson-opens-up-about-mental-health-before-indiana-fever-playoff-clash-12106033#publisher=newsstand",
-     "summary": "A’ja Wilson opens up about stepping away from social media, improving her mental space and preparing for the Fever playoff clash.",
-     "published": "2026-09-27T16:38:03+00:00",
+     "title": "David Miller And Temba Bavuma Tons Earn South Africa 32-Run Win In 2nd ODI vs Australia To Win Series",
+     "url": "https://sports.ndtv.com/cricket/david-miller-and-temba-bavuma-tons-earn-south-africa-32-run-win-in-2nd-odi-vs-australia-to-win-series-12106221#publisher=newsstand",
+     "summary": "David Miller and Temba Bavuma smashed centuries for South Africa as Australia once again was exposed against spinners to lose the second cricket ODI by 32 runs on Sunday.",
+     "published": "2026-09-27T18:45:16+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/db0pagqk_caitlin-clark-has-a-special-gift-waiting-for-fever-teammate_625x300_17_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/m1c0q0l8_david-miller-afp_625x300_28_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "50bbdc5fa25d",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "f397b4f80647",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "32 runs on Sunday"
+     ]
     },
     {
-     "title": "LeBron James Draws Frustration Over Philadelphia 76ers Decision On Mind The Game",
-     "url": "https://sports.ndtv.com/us-nba/lebron-james-draws-frustration-over-philadelphia-76ers-decision-on-mind-the-game-12106048#publisher=newsstand",
-     "summary": "LeBron James explained why he chose Philadelphia, but Brendon Kleen wanted more detail about why Cleveland, Miami and Golden State missed out.",
-     "published": "2026-09-27T16:37:40+00:00",
+     "title": "Pakistan vs Hong Kong Live Score, Asian Games 2026 Men's Cricket Quarter-Final",
+     "url": "https://sports.ndtv.com/cricket/pakistan-vs-hong-kong-live-score-asian-games-2026-mens-cricket-quarter-final-pak-vs-hk-live-updates-12106415#publisher=newsstand",
+     "summary": "Pakistan vs Hong Kong Live Score: Rain threat looms over the first quarterfinal of the Asian Games 2026 men's cricket competition between Pakistan and Hong Kong.",
+     "published": "2026-09-27T18:38:20+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/8i4evpns_lebron-james_625x300_26_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-06/n2ujjntg_sahibzada-farhan_625x300_10_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "df66830c3af4",
+     "id": "a4fb4f593f6a",
+     "category": "sports",
+     "category_label": "Sports"
+    },
+    {
+     "title": "David Pastrnak Named Bruins Captain As He Steps Into A Role Held By Boston Legends",
+     "url": "https://sports.ndtv.com/us-nhl/david-pastrnak-named-bruins-captain-as-he-steps-into-a-role-held-by-boston-legends-12106458#publisher=newsstand",
+     "summary": "David Pastrnak is now the Boston Bruins’ 28th captain, taking over the role after Brad Marchand and joining some of the biggest names in franchise history.",
+     "published": "2026-09-27T18:19:52+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/lg8u1u3o_david-pastrnak_625x300_27_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ccf047ec04e6",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Indian Women's Football Team To Make Historic Kolkata Debut Against Russia",
+     "url": "https://sports.ndtv.com/football/indian-womens-fotball-team-to-make-historic-kolkata-debut-against-russia-12105789#publisher=newsstand",
+     "summary": "The Indian women's national team will play their first-ever international matches in Kolkata, taking on Russia in two friendlies at the Kishore Bharati Krirangan on October 8 and 11, during the FIFA women's international match window.",
+     "published": "2026-09-27T18:16:40+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2020-08/180il97_football-generic-afp_625x300_27_August_20.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "5233f2b79d27",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "11, during the FIFA women's international"
+     ]
+    },
+    {
+     "title": "Virat Kohli Scripts History, Breaks Sachin Tendulkar's All-Time ODI Record",
+     "url": "https://sports.ndtv.com/cricket/virat-kohli-scripts-history-breaks-sachin-tendulkar-all-time-odi-record-12105904#publisher=newsstand",
+     "summary": "Entering the match, Virat Kohli needed 59 runs to leapfrog Sachin Tendulkar for the record.",
+     "published": "2026-09-27T18:15:01+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/7673i1d8_virat-kohli-bcci_625x300_27_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "5b128a185e49",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "59 runs to leapfrog Sachin Tendulkar"
+     ]
     }
    ]
   },
@@ -1960,23 +1929,6 @@
       "rs 2  cast: Who are this",
       "21 stars vying to win £100,000",
       "£100,000  for their chosen charity"
-     ]
-    },
-    {
-     "title": "Radio 2 presenter to take on 'greatest ever distance' in Children in Need challenge",
-     "url": "https://www.bbc.co.uk/news/articles/cqrm99ljprpno?at_medium=RSS&at_campaign=rss",
-     "summary": "Owain Wyn Evans will cycle almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
-     "published": "2026-09-26T19:09:44+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d63/live/adb5c920-b9bf-11f1-9190-07b6ee147cf1.png",
-     "licence": "linkout",
-     "id": "c2ee1a769dd5",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "2 presenter to take on 'greatest",
-      "400 miles , setting off"
      ]
     }
    ]
