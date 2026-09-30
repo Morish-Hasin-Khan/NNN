@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T00:39:04.838511+00:00",
+ "generated_at": "2026-09-30T06:05:49.757543+00:00",
  "podcasts_fetched_at": "2026-09-28T19:44:32.636679+00:00",
  "markets": [
   {
@@ -49,7 +49,8 @@
    "value": 172666.0,
    "change": -4831.0,
    "changePct": -2.72,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "usdinr",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Trump",
-  "Zubeen Garg",
+  "Cloth Bengaluru",
+  "Keralam Gets",
   "Jazeera English",
   "News",
-  "Cong",
-  "Scandals & Investigations",
-  "University Union",
-  "Mamata Delhi",
-  "Iran Trump",
-  "Watch Bangkok"
+  "Shouldn Shivakumar",
+  "Shivakumar Kumaraswamy",
+  "Form States",
+  "India Moody",
+  "Hegseth",
+  "Israel Lapid"
  ],
  "sections": [
   {
@@ -102,186 +103,171 @@
    "upsc": false,
    "items": [
     {
-     "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-     "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
-     "summary": "Accord says companies will implement 'robust internal controls' for their AI systems as concerns mount over safety.",
-     "published": "2026-09-29T23:43:32+00:00",
-     "source": "Al Jazeera",
+     "title": "Cloth tag helps Bengaluru police identify 20-day-old decomposed body of murdered woman",
+     "url": "https://www.thehindu.com/news/cities/bangalore/clothing-tag-helps-bengaluru-police-identify-decomposed-body-of-woman-murdered-about-20-days-earlier/article71507730.ece",
+     "summary": "The accused, identified as Sagar Chandra Rawat, allegedly killed his wife Anusuya Behara, 28, following a fight over a financial matter in their rented house near Sampigehalli on August 11",
+     "published": "2026-09-30T05:52:20+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26272819917838-1790724975.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/kf863m/article71507803.ece/alternates/LANDSCAPE_1200/dowry.jpg",
      "licence": "linkout",
-     "id": "e4cdb8d063c8",
+     "id": "f103676093e2",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News"
+     "from_section": "National Hotlines",
+     "figures": [
+      "28, following a fight over"
+     ]
     },
     {
-     "title": "Zubeen Garg Death Case: 2 Security Officers Get Relief, But Remain In Jail",
-     "url": "https://www.ndtv.com/india-news/zubeen-garg-death-case-2-security-officers-get-relief-but-remain-in-jail-12117275#publisher=newsstand",
-     "summary": "The two had been arrested in the case and were in custody in connection with allegations relating to Garg's property and financial transactions.",
-     "published": "2026-09-29T22:50:15+00:00",
+     "title": "Keralam Man, 76, Gets 13 Years Jail In 1988 Bank Robbery Case",
+     "url": "https://www.ndtv.com/india-news/keralam-man-76-gets-13-years-jail-in-1988-bank-robbery-case-12117666#publisher=newsstand",
+     "summary": "According to police, the robbery took place in the early hours of January 8, 1988, when a six-member gang broke into the bank.",
+     "published": "2026-09-30T04:15:04+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/2utvpa98_zubeen-garg-security-officers_625x300_30_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2024-08/jqjk6bh_jail-generic_625x300_21_August_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "8409b34221e0",
+     "id": "2fd675b4d91b",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News",
      "figures": [
-      "2 Security Officers Get Relief"
+      "76, Gets 13 Years Jail",
+      "13 Years Jail In 1988 Bank"
      ]
     },
     {
-     "title": "South Africa to clean up high-risk areas after 12 women killed",
-     "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-     "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
-     "published": "2026-09-29T22:33:39+00:00",
-     "source": "BBC News",
+     "title": "String of rapes in Delhi triggers social campaign for women’s safety",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/string-of-rapes-in-delhi-triggers-social-campaign-for-womens-safety?traffic_source=rss",
+     "summary": "Women in India’s capital are protesting after a string of rape cases, using bold slogans to demand safer public spaces.",
+     "published": "2026-09-30T03:53:50+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae4/live/d8d527f0-bc11-11f1-bd21-bdf910f2cec6.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-women-protest2909-1790740378.png?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "33b620fafe08",
+     "id": "444704d7e859",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "12 women killed"
-     ]
+     "from_section": "Global News"
     },
     {
-     "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-     "summary": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
-     "published": "2026-09-30T00:00:00+00:00",
-     "source": "Al Jazeera",
+     "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+     "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+     "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+     "published": "2026-09-30T05:02:50+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260929__C9Q98QG__v1__HighRes__776570600-1790720342.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c7/live/7d112a00-bc92-11f1-bc1f-3f186ca4140c.jpg",
      "licence": "linkout",
-     "id": "cbc4d202e4a8",
+     "id": "1249c0ae906f",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
-     "title": "‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza",
-     "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
-     "summary": "Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.",
-     "published": "2026-09-29T23:49:18+00:00",
-     "source": "Al Jazeera",
+     "title": "Plea in Supreme Court seeks SIT probe against CEC Gyanesh Kumar, audit of poll body databases",
+     "url": "https://www.thehindu.com/news/national/plea-in-supreme-court-says-cec-gyanesh-kumar-can-be-probed-and-tried-like-an-ordinary-accused/article71507762.ece",
+     "summary": "“Intentionally manipulating records, committing forgery, or subverting the constitutional electoral process in the course of discharging official duties can under no circumstances be treated as an integral part of those duties,” the petition said",
+     "published": "2026-09-30T05:52:56+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-21T150152Z_455887200_RC2EYLA0D2PL_RTRMADP_3_IRAN-CRISIS-SWISS-MEETING-1787796288.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/ah28i8/article71507923.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_15_17_3_18_08_2025_SUPREME_COURT08.JPG",
      "licence": "linkout",
-     "id": "9c6d0a507495",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "School assembly news headlines September 30: Top India, international, sports and business updates",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZFhZUTVkQlM4RjBieHJuV3p4QlRGLVhyVjFqc2Q5cjNSc2ExTDF0QW9UN1J3TnRHZ1VRMEJ4WEZNZjAyVG0zYTJxbENqRVloZ2R1RnNYblFRSEVQSXBnekNxdXozQUhLSFlpTHpFZDJXcE96TmFOaHNELXpNc2VRYjJVTmQtWGhIYWpjeFJNTGF4eklMbm9ZVEQyUG1UMzRhaC1xdVNRTHNtMlhpWFJQcEVTWmhKQnJtam5aUUxoVW5oTXNXbWV3ZlZqUXNJdnpfenZUT1BwX0xaMkl6YV9BX1RsR1Rfa204RUFaVzN1QUp0bUJhV3pVZnl30gH_AUFVX3lxTE9JNE1EcHVJMVVxVE05VDBQeUdhM2tIMzhHMlRxY2oxRTNQMnBUWG04V2FaTEUzYm1oVlVOZ055T0k3ZWZtOHR2Z1NoVzQxcjgwb1lLT3gwdVZzNXctYkhtUm1ESkRJLThfR1NWdVcyUXhHdEF6c0p0TzdmczI0TnJyeTR6UUR4RnYxMlZRcmtqS0FwcVlWWHE4TGZpWmdUZjVCYnRxWDNmSmhnaE16X0lUSE5QZEw5dXNSb2dzUnIyMHRpNWNTQTdNTHlWb0Rpa3JRaHhsbE9DTkcxWWtoelUxdzdTMWNhUUtaN3BFSEZxQndiLTBFd3cxTWtPdDRGTQ?oc=5",
-     "summary": "School assembly news headlines September 30: Top India, international, sports and business updates The Economic Times",
-     "published": "2026-09-29T13:26:44+00:00",
-     "source": "The Economic Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "74d83d8b7f9a",
+     "id": "d54d6c229370",
      "also": [
       {
-       "source": "India Today",
-       "title": "School assembly news headlines today- September 30: Top national, sports and world news curated for you",
-       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZjZxRVhXc1BPeWRSS2U4M3ppVzJ4UmlxbzNoS1FMMkZhUlNyWklxOE9pVEo5U2YtZ3NRZ2o3Z05IT1N1d0hRTEwzYW9vNmQ0YzNjaGFhV3M1S3gtVmdtNFlzRl9SX0l3LU1XV290ZnozMmFQa043VUdVaC1uR1hreG81YU56OW9xVlREX2pTeDZtMVM5RzQ2bGRZclF3LWMwVTdoX2preE1VcDhDZ2U2U2R6YVRQTG5nTFlpcGpaWnpvUVpmdWxHSW1VeGJQVGhCUjVVVHVXZVVBYU9xVkplcXlpNUVBWi1N?oc=5",
-       "summary": "School assembly news headlines today- September 30: Top national, sports and world news curated for you India Today"
+       "source": "NDTV",
+       "title": "INDIA Meet On 'Op Gyanesh Kumar' Today, Sources Reject Attacks On Poll Panel",
+       "url": "https://www.ndtv.com/india-news/election-commission-sir-india-alliance-meet-on-gyanesh-kumar-today-sources-reject-attacks-on-poll-panel-12117788#publisher=newsstand",
+       "summary": "The meeting is taking place a day after the Congress Working Committee demanded Gyanesh Kumar's removal, calling him a \"puppet\" of the BJP."
       }
      ],
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "from_section": "National News"
     },
     {
-     "title": "Trump says he plans to campaign for 32 days before midterm elections",
-     "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-     "summary": "US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.",
-     "published": "2026-09-29T23:53:08+00:00",
-     "source": "Al Jazeera",
+     "title": "Democracy without choice: how unopposed Maharashtra rural polls silence dissent",
+     "url": "https://www.thehindu.com/news/national/maharashtra/democracy-without-choice-how-unopposed-maharashtra-rural-polls-silence-dissent/article71524112.ece",
+     "summary": "The culture of unopposed elections has taken root in hundreds of villages across Maharashtra.",
+     "published": "2026-09-30T05:55:13+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abc3b1e-1790720798.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/v4o42v/article71525636.ece/alternates/LANDSCAPE_1200/grampanchayat.jpg",
      "licence": "linkout",
-     "id": "035837c181d2",
+     "id": "9caa2d0aaa4e",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News",
-     "figures": [
-      "32 days before midterm elections"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "Household energy bills forecast to see biggest rise in four years",
-     "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-     "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-     "published": "2026-09-29T23:03:13+00:00",
-     "source": "BBC News",
+     "title": "INDIA bloc meeting: Ahead of INDIA meet, hoardings target Opposition leaders; BJP questions Rahul's leadership",
+     "url": "https://www.thehindu.com/news/national/india-bloc-meeting-delhi-on-election-commission-september-30-2026-live-updates/article71526972.ece",
+     "summary": "ECI withdraws SIR declaration from Form 6 in States where the exercise is over",
+     "published": "2026-09-30T05:52:28+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b79a/live/9a0501e0-bc24-11f1-bd53-1b67dc8fba34.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/6co385/article71526997.ece/alternates/LANDSCAPE_1200/TH29-Phukan-WhGSJGJLQ7V.4.jpg.jpg",
      "licence": "linkout",
-     "id": "c515b49eeedf",
+     "id": "4670c133bbe2",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Business",
-     "figures": [
-      "£1,999  from January, based"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "Six of inter-state cyber gang arrested for cheating many of Rs 11 crore in over 100 matrimonial fraud cas",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQS3VLMUV3U2NEUEF4Sk9GSmtOVkNiU2Y2VGM2WmlObHEza3Q3NWtkT01Qb0x1QVRLMFJUajFVR3JndFdTWHpKN1JKVEtvckZoWnBxLUE3eWpaX3ljczJjM3JVRm03SU5CVHlZd0k0d0dLMW9JQ1owb19SY1N6dWcwZllXLTdId0VveHlvS3VBZW5KSlNQcmdzUDRDY016RVFBVkF6TlJhQjdPVDJZb0JHRGU1MXkwbVc0N2ctN2Z1NlVXOFRZTGVvUE0xdVZmQ1gzbHFzazBCMVdvV0ZLd2JuYWdnUDhUVWlpM2psdkg3N3RQYXRfdnllbVRnWkZPbVFFbFQwaUVYVHRIMmNLSEHSAZMCQVVfeXFMTVdlNUpFTWp1MHRJNnE0dUxESTRPejJ2a252MWxQVHRNUWxNNTRhOElhNjloWlh0RkFBaVA1cElnenFnRXlXN2h5ZTVkUERkaVpsX0xiNHZBR2hHSmptR2l1UUktQ25lcDA3U3pMWEs3bDRRQzZianpQbkN4My1aNmRDdHRHY3d6eDhzT0VTdlBtU0wtdzVreDkwdzBxTkUyNDE0OU9qVTZ4REFhUTRsT1g5cHk3TkFLT3duWXBGVEwzcUdseFozZFdtRFNZSEtzMGtmQ3lLZTBYVjhldU5pMk5MbTJVcEVwWFVqVGsxdXI4a21rRWV4cjQ0aGsybFZfcHUxSjBJeW9SRmVPOVJCUXBVSEE?oc=5",
-     "summary": "Six of inter-state cyber gang arrested for cheating many of Rs 11 crore in over 100 matrimonial fraud cas The Times of India",
-     "published": "2026-09-29T19:20:00+00:00",
-     "source": "The Times of India",
+     "title": "‘Shouldn’t I own property?’: Shivakumar responds to Kumaraswamy’s scam charge",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2t4VG4zc3pMdXlvWGRrUU80VXpKcF9maHNtOVBhV0xHVjlvYXhjRTZ1cWhiUklXN0lHOVpUV2ZtV2tZa2V0OVR6X0VxNmpvaGV5THQ3c2t1bzVFbWpuWHN2bmRwQmt5NDBBU01CN3BjdTdlSkxJTlRiNFlHaGZMS0NqR01mNEExV3ZSLU4yck05bTk0M25fak5BWXNVRFhLVlJfcGRvWERrY2pNZWd1clVza2JYTDJLTG9pUNIBwwFBVV95cUxQZmIwV0FMb213TFJGalZPVy1mSWgxR19JdzJFNzRlSXlSZjlaNzN3akFzN3N3SnpIYkQ2azAtTXZLcEM1OEtnZlVYU3dqVnI4d2NCMDFSMTV2NFViblpLM3V2REgteWFyN1hzbU1wMkl2Z2tXbFVBUEV0Znp4ckdPakw5MUlZczhGRW51dlZ1Q2hvYTRrMTBoZktzZjFhN0RUS0szQ0ZnZEdDeVhuNDZPMzZWbEVQZjZDTy1pbG5uRVB2TU0?oc=5",
+     "summary": "‘Shouldn’t I own property?’: Shivakumar responds to Kumaraswamy’s scam charge The Indian Express",
+     "published": "2026-09-30T03:06:56+00:00",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "d36bd2ba145a",
+     "id": "56323c764636",
+     "also": [
+      {
+       "source": "India Today",
+       "title": "Can't I own property? DK Shivakumar hits back at Kumaraswamy's scam charge",
+       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQWlJOMUhZcGFrQ21kblVTMUhDN2NIWGJlTWR1ZDhoVm0xVGxMTlR2VVl6OXVraF9HVUJpU1VGTE5UUjc2Y3pLdkZVWXNBVGlVQ2wwOUJjV1I4d2VycUF5RjFrN3d6azVDOVpEQjRsZXZNdGVMVHo2ZERJWVhjQXdUOUdRa0pXeThld3V3OEdNaDNxYVBsVVNWWkZoaWs0Mlgyb3NjZnFTdDJNZ3cxMTVYVzZYOUZzYURqWkFIRDRDVnpaMVVGUTBzdWZtRzF2dmx1REV5a0hia0tVbHR5eTVmcmJ5TGJLaXk5cXg2ak02dTFacVBycWl2a0NMMFlEdXlWYlJPYS1CaF83RExSejk4SWY0Nnc5c3B2YUd0WWhXcGzSAaYCQVVfeXFMT3NkV1NmZHhjbHJXb29GZHd6RTVrM1UyY0lsN3pROUpOdXVCQlRrblpWNWZqSUVnNmZEUDE1Zi14bFdIdGhfUlo2VWJOQ0ktdmI1cUo3MDlvS2FLQWtHY19jamZIek1UbkxuWUZNVGxrYTlmQ001bV85VEhtdWJWazBlcHdRdm13d2gwMXAzZmQ4ZmRMaWNqbGJ4TXg2YnVucndSNDlxNC14dEo4Q2czQ3JEY3BJLTd1VmRIdzhoREUxMWxleDc4WmticFo2ejdxbFNha09jMHcyWlNGV3VMODBBT2ItbkEwMS1sMUxPbFFNMy1tSng2d0JnUlhYU0o0YjhITlFFSXBoTl9JQVlOZEw0TzRybWt1YkF5UFdlYVhZZnh4bTFR?oc=5",
+       "summary": "Can't I own property? DK Shivakumar hits back at Kumaraswamy's scam charge India Today"
+      }
+     ],
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Scandals & Investigations",
-     "figures": [
-      "Rs 11 crore in over 100 matrimonial",
-      "100 matrimonial fraud cas",
-      "100 matrimonial fraud cas The Times"
-     ]
+     "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Oura pulls $15bn stock market listing days after announcement",
-     "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
-     "summary": "The wearable technology company had been expected to list its shares in the US.",
-     "published": "2026-09-29T17:17:07+00:00",
-     "source": "BBC News",
+     "title": "Can't I own property? DK Shivakumar hits back at Kumaraswamy's scam charge",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQWlJOMUhZcGFrQ21kblVTMUhDN2NIWGJlTWR1ZDhoVm0xVGxMTlR2VVl6OXVraF9HVUJpU1VGTE5UUjc2Y3pLdkZVWXNBVGlVQ2wwOUJjV1I4d2VycUF5RjFrN3d6azVDOVpEQjRsZXZNdGVMVHo2ZERJWVhjQXdUOUdRa0pXeThld3V3OEdNaDNxYVBsVVNWWkZoaWs0Mlgyb3NjZnFTdDJNZ3cxMTVYVzZYOUZzYURqWkFIRDRDVnpaMVVGUTBzdWZtRzF2dmx1REV5a0hia0tVbHR5eTVmcmJ5TGJLaXk5cXg2ak02dTFacVBycWl2a0NMMFlEdXlWYlJPYS1CaF83RExSejk4SWY0Nnc5c3B2YUd0WWhXcGzSAaYCQVVfeXFMT3NkV1NmZHhjbHJXb29GZHd6RTVrM1UyY0lsN3pROUpOdXVCQlRrblpWNWZqSUVnNmZEUDE1Zi14bFdIdGhfUlo2VWJOQ0ktdmI1cUo3MDlvS2FLQWtHY19jamZIek1UbkxuWUZNVGxrYTlmQ001bV85VEhtdWJWazBlcHdRdm13d2gwMXAzZmQ4ZmRMaWNqbGJ4TXg2YnVucndSNDlxNC14dEo4Q2czQ3JEY3BJLTd1VmRIdzhoREUxMWxleDc4WmticFo2ejdxbFNha09jMHcyWlNGV3VMODBBT2ItbkEwMS1sMUxPbFFNMy1tSng2d0JnUlhYU0o0YjhITlFFSXBoTl9JQVlOZEw0TzRybWt1YkF5UFdlYVhZZnh4bTFR?oc=5",
+     "summary": "Can't I own property? DK Shivakumar hits back at Kumaraswamy's scam charge India Today",
+     "published": "2026-09-30T04:25:35+00:00",
+     "source": "India Today",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc0e/live/21da3ca0-bc1d-11f1-a9cf-939723882d7f.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "6c23dfafec5e",
+     "id": "07f3c817f0c3",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Technology",
-     "figures": [
-      "$15bn stock market listing days"
-     ]
+     "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Watch: Bangkok locals create floating market during floods",
-     "url": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
-     "summary": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between the makeshift stalls to buy their groceries.",
-     "published": "2026-09-29T06:15:25+00:00",
-     "source": "BBC News",
+     "title": "Rs 2.7 Crore Plot, Farm Lands Surface In Hyderabad Doctor Corruption Case",
+     "url": "https://www.ndtv.com/india-news/2-crores-plot-agricultural-land-surface-in-hyderabad-nims-additional-medical-superintendent-nori-lakshmi-bhasker-corruption-case-12117817#publisher=newsstand",
+     "summary": "During the searches, officials reportedly recovered Rs 4.94 lakh in cash from the residence of Dhanraj, a barber working at NIMS Government Hospital.",
+     "published": "2026-09-30T04:21:53+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569b/live/93362e00-bbcc-11f1-bd21-bdf910f2cec6.jpg",
+     "image": "https://c.ndtvimg.com/2026-09/ggf5hfj_nims-offcial_625x300_23_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "1b69fc148a17",
+     "id": "d556684de891",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Global Hotline"
+     "from_section": "National News",
+     "figures": [
+      "Rs 2.7 Crore Plot, Farm Lands Surface",
+      "Rs 4.94 lakh in cash"
+     ]
     },
     {
      "title": "Michael Sheen says being an actor will be a disadvantage on Celebrity Traitors",
@@ -312,10 +298,38 @@
      "from_section": "Culture"
     },
     {
+     "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+     "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+     "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+     "published": "2026-09-30T04:01:52+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
+     "licence": "linkout",
+     "id": "b4989f4ae871",
+     "also": [
+      {
+       "source": "Open Magazine",
+       "title": "Artificial No More, Donald Trump Renames AI ‘Super Intelligence’",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnJ3MEJPYUZXc3NTa3dmUUpWVF9KWVcxam8td2xlM2lVNlRqbVpxV2tDWE9hMGxwZFhxSDViYkJ4UlNxS0pIOHU4TE5HZjRUWWZPdDNXeEd4SS1wN3hraHNMYmZQVmlIZWtiU01wQ1RjOW9vNllUeXZRd3hMOElsWHRpNEw5bGh6cTRIQUJMeWtTOGRoWmJ3Tld1dw?oc=5",
+       "summary": "Artificial No More, Donald Trump Renames AI ‘Super Intelligence’ Open Magazine"
+      },
+      {
+       "source": "Telangana Today",
+       "title": "Trump plans to rename artificial intelligence ‘Super Intelligence’",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjJQS1Y2aGZiM3ZNVm9VNGpMYzkycFQ2WEdJdUotOHNnbEpFY2hUdFFFeEJSUmFnN3diWGNwd01FejdCZ3dhYkVvREFhUHBrbUxZSHd3ZlBVSDdIczJJMlM1MDZlYmtZMzdpWEVnQjFyZmVyVm5sakRpRTFYNS16aHI1R2dsX3ZIWFRsTFdVRXFQU3lRSUE?oc=5",
+       "summary": "Trump plans to rename artificial intelligence ‘Super Intelligence’ Telangana Today"
+      }
+     ],
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Global News"
+    },
+    {
      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
      "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-     "published": "2026-09-29T23:47:10+00:00",
+     "published": "2026-09-30T05:18:13+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181a/live/455d3af0-bc41-11f1-bc1f-3f186ca4140c.jpg",
@@ -326,77 +340,67 @@
      "from_section": "Technology"
     },
     {
-     "title": "Chinese AI tool told researchers how to make bioweapons",
-     "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-     "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-     "published": "2026-09-29T23:15:29+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
-     "licence": "linkout",
-     "id": "a2a851085959",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Trump orders federal government to replace ‘artificial intelligence’ with ‘super intelligence’",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzhIdXJCMFJtR3ZaRnI3RTJEY19rUXhiUXQ5a3dkQnVKRDJlTm5kVzNxbmQ4N1RxdFh5OWItZnhpX3VJcXpEa3FzZ2VWLTFtVzNsVllNUm5peG03MXM1Vkt4MWcwMnlIa0oyRWd6cWlUaTMyLWpuNHNMbmdVenBwYXV0aDR3S0lWWTNUVmVSMlJSSmg0ZFozUWdvSG15SDM3Q1Y0X2pyX1JIZFpyazJWZ1Y2MmtDdkF3MVc1QUxiWnN4VEJOWENHemN3YkRSUQ?oc=5",
-     "summary": "Trump orders federal government to replace ‘artificial intelligence’ with ‘super intelligence’ Anadolu Ajansı",
-     "published": "2026-09-29T23:06:57+00:00",
-     "source": "Anadolu Ajansı",
+     "title": "US government’s new order replaces ‘artificial intelligence’ with ‘Super Intelligence’; federal agencies",
+     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNLWJFNm9vZHBLRS1sRlo4cDhlamZCcG8yUE9LR3lnUmJYS1hpcXIyVWVoSzZJRTNUdkFBWTZJa1Yya1ZWMndnTnpzTGsxb2FuYmhuQlkwTzBJRjMyTTlBbjJfSmZUcExQdjZTX25pdFB3MjlRRkNwazZCYWNNYkNnTk9hWVhnal92NFdTNU1PdWpFWXVjSXVGVk5XaEstbWVwSWRpem1vaEFNQTRWRUlDSGpGSGpuMjdrektpV2hiOTJtWEE4WnpFR1Bna2lHNWNxUEFpc1N3VGZTcHM2bjNWWW1NS09vcC1vWDNqb2VPdGE5eFdTOGk3LTVyLXRWeWxTcmJ6SFRVUHkxLW1uUEpUZVRtaWlCc0xfYXBRb0F4bHV5OVlOSkhrOEtJUFdsRHfSAbQCQVVfeXFMUHRzMzVCVEdKRGRlWlI0VVN3eS1wNi1QczN5ZHA2WXVzQXdTVldUZ3BMWHlIcjNydXpBbEJsSG5BZ1hkNXFDMk9GZ1hXRnRnTnNMR3ZCOU10dGktMzZjME04R0hOc0hrQXBkNF9fOVQ5aXhMQldVQm83NjQ2QVVBd0R4ckxWbC1wYUlQVGZ2T0E0eFdNRnoxM2lWZVozMnJqblh3cWhaZzB0bUdBQlBXaEg4UkQ3ZndLdUJJLUdjS0tVUVZ5b2xpbTFBWEk2OGFweS1jVDVoeXRndTNYTEJpbjFHdjVsbTBCOHNKd2VTWFEtRnVvcXNEVll5N1JUTmN2dFA3SFc1OHBPWEp5UzhKdEtiVnczTDRfWkxid0wtamNsajdpSnRLMWNpa2h6MFg0dXk4UzY?oc=5",
+     "summary": "US government’s new order replaces ‘artificial intelligence’ with ‘Super Intelligence’; federal agencies timesofindia.indiatimes.com",
+     "published": "2026-09-30T03:57:00+00:00",
+     "source": "timesofindia.indiatimes.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "f49060e59f7d",
+     "id": "5d68afbaeded",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "MR Poovamma Gets Emotional After Historic Gold, Reveals Family's Sacrifices",
-     "url": "https://sports.ndtv.com/athletics/mr-poovamma-gets-emotional-after-historic-gold-reveals-familys-sacrifices-12116365#publisher=newsstand",
-     "summary": "After winning her Asian Games medal, MR Poovamma spoke to NDTV in an exclusive interview. Here are the excerpts:",
-     "published": "2026-09-29T18:48:35+00:00",
-     "source": "NDTV Sports",
+     "title": "CISF constable guns down four colleagues in J&K’s Kathua",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/four-cisf-personnel-killed-in-fratricide-incident-in-kathua-accused-held/article71525156.ece",
+     "summary": "The incident took place at around 7.30 p.m. at the Sewa-III hydroelectric power project located at Mashka village in Basohli, near the border with Himachal Pradesh, the officials said",
+     "published": "2026-09-30T05:49:17+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/6vijm72k_poovamma-_625x300_29_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/1vajfn/article71525218.ece/alternates/LANDSCAPE_1200/20260921107L.jpg",
      "licence": "linkout",
-     "id": "857093386e3c",
+     "id": "57b4b06c410e",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Sports"
+     "from_section": "National Hotlines"
     },
     {
-     "title": "Madhya Pradesh Ranji Trophy Team Announced; Shubham Sharma To Lead in Absence Of Rajat Patidar",
-     "url": "https://sports.ndtv.com/cricket/madhya-pradesh-ranji-trophy-team-announced-shubham-sharma-to-lead-in-absence-of-rajat-patidar-12116720#publisher=newsstand",
-     "summary": "The Madhya Pradesh Cricket Association (MPCA) on Tuesday announced a 17-member squad for the 2026-27 Ranji Trophy season with middleorder batter Shubham Sharma as the captain.",
-     "published": "2026-09-29T18:42:24+00:00",
+     "title": "Asian Games 2026 Day 11 LIVE Updates: Archers Strike Gold Again, India's Compound Mixed Team Triumphant",
+     "url": "https://sports.ndtv.com/othersports/asian-games-2026-day-11-live-updates-12116809#publisher=newsstand",
+     "summary": "Asian Games 2026 Day 11 LIVE: Archers earned India two gold medals on Day 11, as both the women's team and the mixed team finished on top of the podium. The mixed team, courtesy of their triumph in the final, also confirmed its qualification for the LA 2028 Olympic Games.",
+     "published": "2026-09-30T04:23:00+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2021-11/p0m0bcqg_cricket-generic_625x300_08_November_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/a4e16284_archery-la-2028_625x300_30_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "dbc930ff6980",
+     "id": "f022cbcd6476",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports",
      "figures": [
-      "27 Ranji Trophy season with middleorder"
+      "11 LIVE Updates: Archers Strike Gold",
+      "11 LIVE : Archers earned India"
      ]
     },
     {
-     "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
-     "url": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
-     "summary": "Former US special counsel rejects claims that his probes improperly targeted Republicans and conservative groups.",
-     "published": "2026-09-29T23:28:47+00:00",
-     "source": "Al Jazeera",
+     "title": "Spain Brush Aside Croatia In Nations League, England Down Czech Republic",
+     "url": "https://sports.ndtv.com/football/spain-brush-aside-croatia-in-nations-league-england-down-czech-republic-12117214#publisher=newsstand",
+     "summary": "Lamine Yamal netted a brace as world champions Spain continued their winning start to the UEFA Nations League with a 4-1 success in Seville against Croatia on Tuesday.",
+     "published": "2026-09-30T03:15:03+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abc22919399-1790714513.jpg?resize=1920%2C1440",
+     "image": "https://c.ndtvimg.com/2026-09/hs46puo_lamine-yamal-getty_625x300_30_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "2f8fdb980282",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Global News"
+     "id": "8f2f26b49e97",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "1 success in Seville against Croatia"
+     ]
     }
    ]
   },
@@ -412,7 +416,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-09-30T00:38:53.202839+00:00",
+     "published": "2026-09-30T06:05:32.726610+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -423,7 +427,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-09-30T00:38:53.202860+00:00",
+     "published": "2026-09-30T06:05:32.726618+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -434,7 +438,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-09-30T00:38:53.202867+00:00",
+     "published": "2026-09-30T06:05:32.726622+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -445,7 +449,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-09-30T00:38:53.202872+00:00",
+     "published": "2026-09-30T06:05:32.726624+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -456,7 +460,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-09-30T00:38:53.202878+00:00",
+     "published": "2026-09-30T06:05:32.726626+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -467,10 +471,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-09-30T00:38:53.202882+00:00",
+     "published": "2026-09-30T06:05:32.726629+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMFg1cl9HcGJBVWJMdFVkc3VWN1VzVkFqTzVtMTg4TjhudHF2V1NnN2NaVVJ5VWl2WU1NWkJLeUdQQUw1TlBYdWJ4R3M?oc=5",
+     "summary": "NDTV Live TV, Live English News Channel, Free Live Streaming Online, Watch Live News NDTV",
+     "published": "2026-09-30T03:38:04+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "94b7155dc077",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -481,24 +499,45 @@
    "upsc": false,
    "items": [
     {
-     "title": "Raj Cong chief seeks election commission probe into govt bias in urban polls",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMkNEZmpDYmN4MWM1YXpmZFhwdVpVZndyaUhsczBfb0Z6S2RCN1NRWF9MODkyRGNLSmFJTlJUVXEzNDJnZjQycjM4c2tmQ2Fvb1kwUXVYMGlhS2VvZnl6U2Vkelk4T0lraFJ2YnR4WHNYT1ZBZHZ4QWlvWkV6eWplakM0QzBVdEZPVFkzSUl2ejBPUzhmZmc0d1BEYjhkQ0tGTDIwVFNtZGlkaHlRbEVXVDJPVzJNREZyd1dzWjhqV2ZYS3Bna18zemFhNnV3a1JiM0cxbGNXNWd6V1lRMmtVeDdjMjnSAeoBQVVfeXFMTWZ2RHVqelpqOWRSS2RDSDFTR0NRLWpRX2hMZWEtUzBjMnFHa3ZWZVNxdFdxZU9UMlRqLWRmRV9DVzlYVllHZkd5aEVxN1pMNDN1VjJWS1dtc3VjUVoxekhLVktmVENEVzZaSEpBMHZNeUptWFFiUHMybndDTUtBSHNLbDBhLXNNMDhYU3IxUXE2dEt1LUNfZXRYenhuRkI0eEhTNFJBTXl6UDFXRk5EdFN6WW16cDhsNTA0UUVxODdMV0l3RHVxbXhWQWNlcFVJbTJWZ0ZKNDYxQWpXTGpldDAxZThfOGtmR3Nn?oc=5",
-     "summary": "Raj Cong chief seeks election commission probe into govt bias in urban polls The Times of India",
-     "published": "2026-09-29T16:03:00+00:00",
-     "source": "The Times of India",
+     "title": "‘Shouldn’t I own property?’: Shivakumar responds to Kumaraswamy’s scam charge",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2t4VG4zc3pMdXlvWGRrUU80VXpKcF9maHNtOVBhV0xHVjlvYXhjRTZ1cWhiUklXN0lHOVpUV2ZtV2tZa2V0OVR6X0VxNmpvaGV5THQ3c2t1bzVFbWpuWHN2bmRwQmt5NDBBU01CN3BjdTdlSkxJTlRiNFlHaGZMS0NqR01mNEExV3ZSLU4yck05bTk0M25fak5BWXNVRFhLVlJfcGRvWERrY2pNZWd1clVza2JYTDJLTG9pUNIBwwFBVV95cUxQZmIwV0FMb213TFJGalZPVy1mSWgxR19JdzJFNzRlSXlSZjlaNzN3akFzN3N3SnpIYkQ2azAtTXZLcEM1OEtnZlVYU3dqVnI4d2NCMDFSMTV2NFViblpLM3V2REgteWFyN1hzbU1wMkl2Z2tXbFVBUEV0Znp4ckdPakw5MUlZczhGRW51dlZ1Q2hvYTRrMTBoZktzZjFhN0RUS0szQ0ZnZEdDeVhuNDZPMzZWbEVQZjZDTy1pbG5uRVB2TU0?oc=5",
+     "summary": "‘Shouldn’t I own property?’: Shivakumar responds to Kumaraswamy’s scam charge The Indian Express",
+     "published": "2026-09-30T03:06:56+00:00",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "8785e7ec7e99",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "56323c764636",
+     "also": [
+      {
+       "source": "India Today",
+       "title": "Can't I own property? DK Shivakumar hits back at Kumaraswamy's scam charge",
+       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQWlJOMUhZcGFrQ21kblVTMUhDN2NIWGJlTWR1ZDhoVm0xVGxMTlR2VVl6OXVraF9HVUJpU1VGTE5UUjc2Y3pLdkZVWXNBVGlVQ2wwOUJjV1I4d2VycUF5RjFrN3d6azVDOVpEQjRsZXZNdGVMVHo2ZERJWVhjQXdUOUdRa0pXeThld3V3OEdNaDNxYVBsVVNWWkZoaWs0Mlgyb3NjZnFTdDJNZ3cxMTVYVzZYOUZzYURqWkFIRDRDVnpaMVVGUTBzdWZtRzF2dmx1REV5a0hia0tVbHR5eTVmcmJ5TGJLaXk5cXg2ak02dTFacVBycWl2a0NMMFlEdXlWYlJPYS1CaF83RExSejk4SWY0Nnc5c3B2YUd0WWhXcGzSAaYCQVVfeXFMT3NkV1NmZHhjbHJXb29GZHd6RTVrM1UyY0lsN3pROUpOdXVCQlRrblpWNWZqSUVnNmZEUDE1Zi14bFdIdGhfUlo2VWJOQ0ktdmI1cUo3MDlvS2FLQWtHY19jamZIek1UbkxuWUZNVGxrYTlmQ001bV85VEhtdWJWazBlcHdRdm13d2gwMXAzZmQ4ZmRMaWNqbGJ4TXg2YnVucndSNDlxNC14dEo4Q2czQ3JEY3BJLTd1VmRIdzhoREUxMWxleDc4WmticFo2ejdxbFNha09jMHcyWlNGV3VMODBBT2ItbkEwMS1sMUxPbFFNMy1tSng2d0JnUlhYU0o0YjhITlFFSXBoTl9JQVlOZEw0TzRybWt1YkF5UFdlYVhZZnh4bTFR?oc=5",
+       "summary": "Can't I own property? DK Shivakumar hits back at Kumaraswamy's scam charge India Today"
+      }
+     ],
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Can't I own property? DK Shivakumar hits back at Kumaraswamy's scam charge",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQWlJOMUhZcGFrQ21kblVTMUhDN2NIWGJlTWR1ZDhoVm0xVGxMTlR2VVl6OXVraF9HVUJpU1VGTE5UUjc2Y3pLdkZVWXNBVGlVQ2wwOUJjV1I4d2VycUF5RjFrN3d6azVDOVpEQjRsZXZNdGVMVHo2ZERJWVhjQXdUOUdRa0pXeThld3V3OEdNaDNxYVBsVVNWWkZoaWs0Mlgyb3NjZnFTdDJNZ3cxMTVYVzZYOUZzYURqWkFIRDRDVnpaMVVGUTBzdWZtRzF2dmx1REV5a0hia0tVbHR5eTVmcmJ5TGJLaXk5cXg2ak02dTFacVBycWl2a0NMMFlEdXlWYlJPYS1CaF83RExSejk4SWY0Nnc5c3B2YUd0WWhXcGzSAaYCQVVfeXFMT3NkV1NmZHhjbHJXb29GZHd6RTVrM1UyY0lsN3pROUpOdXVCQlRrblpWNWZqSUVnNmZEUDE1Zi14bFdIdGhfUlo2VWJOQ0ktdmI1cUo3MDlvS2FLQWtHY19jamZIek1UbkxuWUZNVGxrYTlmQ001bV85VEhtdWJWazBlcHdRdm13d2gwMXAzZmQ4ZmRMaWNqbGJ4TXg2YnVucndSNDlxNC14dEo4Q2czQ3JEY3BJLTd1VmRIdzhoREUxMWxleDc4WmticFo2ejdxbFNha09jMHcyWlNGV3VMODBBT2ItbkEwMS1sMUxPbFFNMy1tSng2d0JnUlhYU0o0YjhITlFFSXBoTl9JQVlOZEw0TzRybWt1YkF5UFdlYVhZZnh4bTFR?oc=5",
+     "summary": "Can't I own property? DK Shivakumar hits back at Kumaraswamy's scam charge India Today",
+     "published": "2026-09-30T04:25:35+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "07f3c817f0c3",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "Six of inter-state cyber gang arrested for cheating many of Rs 11 crore in over 100 matrimonial fraud cas",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQS3VLMUV3U2NEUEF4Sk9GSmtOVkNiU2Y2VGM2WmlObHEza3Q3NWtkT01Qb0x1QVRLMFJUajFVR3JndFdTWHpKN1JKVEtvckZoWnBxLUE3eWpaX3ljczJjM3JVRm03SU5CVHlZd0k0d0dLMW9JQ1owb19SY1N6dWcwZllXLTdId0VveHlvS3VBZW5KSlNQcmdzUDRDY016RVFBVkF6TlJhQjdPVDJZb0JHRGU1MXkwbVc0N2ctN2Z1NlVXOFRZTGVvUE0xdVZmQ1gzbHFzazBCMVdvV0ZLd2JuYWdnUDhUVWlpM2psdkg3N3RQYXRfdnllbVRnWkZPbVFFbFQwaUVYVHRIMmNLSEHSAZMCQVVfeXFMTVdlNUpFTWp1MHRJNnE0dUxESTRPejJ2a252MWxQVHRNUWxNNTRhOElhNjloWlh0RkFBaVA1cElnenFnRXlXN2h5ZTVkUERkaVpsX0xiNHZBR2hHSmptR2l1UUktQ25lcDA3U3pMWEs3bDRRQzZianpQbkN4My1aNmRDdHRHY3d6eDhzT0VTdlBtU0wtdzVreDkwdzBxTkUyNDE0OU9qVTZ4REFhUTRsT1g5cHk3TkFLT3duWXBGVEwzcUdseFozZFdtRFNZSEtzMGtmQ3lLZTBYVjhldU5pMk5MbTJVcEVwWFVqVGsxdXI4a21rRWV4cjQ0aGsybFZfcHUxSjBJeW9SRmVPOVJCUXBVSEE?oc=5",
-     "summary": "Six of inter-state cyber gang arrested for cheating many of Rs 11 crore in over 100 matrimonial fraud cas The Times of India",
+     "summary": "Six of inter-state cyber gang arrested for cheating many of Rs 11 crore in over 100 matrimonial fraud cas timesofindia.indiatimes.com",
      "published": "2026-09-29T19:20:00+00:00",
-     "source": "The Times of India",
+     "source": "timesofindia.indiatimes.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -508,7 +547,7 @@
      "figures": [
       "Rs 11 crore in over 100 matrimonial",
       "100 matrimonial fraud cas",
-      "100 matrimonial fraud cas The Times"
+      "100 matrimonial fraud cas timesofindia"
      ]
     }
    ]
@@ -520,131 +559,91 @@
    "upsc": false,
    "items": [
     {
-     "title": "T.N. government proposes memorial for 5 icons on University Union Grounds at Chetpet in Chennai, sports teachers object",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-proposes-memorial-for-5-icons-on-university-union-grounds-at-chepet-in-chennai-sports-teachers-object/article71525294.ece",
-     "summary": "The State government plans to build the memorial complex for 5 icons on a portion of the University Union Grounds in Chetpet belonging to the University of Madras",
-     "published": "2026-09-30T00:25:01+00:00",
+     "title": "EC reverts to allowing Form 6 submission without attached declaration in non-SIR States",
+     "url": "https://www.thehindu.com/news/national/ec-reverts-to-allowing-form-6-submission-without-attached-declaration-in-non-sir-states/article71525571.ece",
+     "summary": "While Form 6 is normally used for new voter registrations, during the SIR process, it was also used for re-enlisting those who had been deleted during the enumeration phase. A separate declaration had been added to the physical form regarding the mapping of self or parents with electoral rolls from the period of the previous SIR",
+     "published": "2026-09-29T19:15:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/ngrsku/article71525611.ece/alternates/LANDSCAPE_1200/DSC7096.jpg",
      "licence": "linkout",
-     "id": "a6b8d50d0d77",
+     "id": "0c57d9c6c34d",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "5 icons on University Union Grounds",
-      "5 icons on a portion"
+      "6 submission without attached declaration"
      ]
     },
     {
-     "title": "Mamata in Delhi to participate in INDIA bloc meetings, Suvendu takes a dig",
-     "url": "https://www.thehindu.com/news/national/west-bengal/mamata-in-delhi-to-participate-in-india-bloc-meetings-suvendu-takes-a-dig/article71524694.ece",
-     "summary": "Our target is the Chief Election Commissioner and his full software team, who cheated and betrayed the people, former West Bengal Chief Minister Mamata Banerjee said",
-     "published": "2026-09-29T22:42:12+00:00",
+     "title": "India to have more elderly people later this century as fertility falls, age structure shifts: Moody’s",
+     "url": "https://www.thehindu.com/news/national/india-to-have-more-elderly-people-later-this-century-as-fertility-falls-age-structure-shifts-moodys/article71526967.ece",
+     "summary": "Moody’s Ratings says India’s fertility has already fallen below replacement level, as the global fertility rate has declined from 4.9 to about 2.2 children per woman since 1950",
+     "published": "2026-09-30T05:56:53+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vagzgy/article71525794.ece/alternates/LANDSCAPE_1200/PTI09_29_2026_000273B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/bwkih0/article71527015.ece/alternates/LANDSCAPE_1200/IMG_iStock-2234446045_2_1_KTGIOIHT.jpg",
      "licence": "linkout",
-     "id": "3595dd4a5e1c",
+     "id": "a5bf256194c2",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2.2 children per woman since 1950"
+     ]
+    },
+    {
+     "title": "Democracy without choice: how unopposed Maharashtra rural polls silence dissent",
+     "url": "https://www.thehindu.com/news/national/maharashtra/democracy-without-choice-how-unopposed-maharashtra-rural-polls-silence-dissent/article71524112.ece",
+     "summary": "The culture of unopposed elections has taken root in hundreds of villages across Maharashtra.",
+     "published": "2026-09-30T05:55:13+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/v4o42v/article71525636.ece/alternates/LANDSCAPE_1200/grampanchayat.jpg",
+     "licence": "linkout",
+     "id": "9caa2d0aaa4e",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues",
-     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-announces-odisha-bandh-on-october-8-over-new-mining-law-other-issues/article71523588.ece",
-     "summary": "The bloc demanded the repeal of the MMDR Amendment Act, 2026, and the resignation of Chief Election Commissioner Gyanesh Kumar, after protesters clashed with police near the Chief Minister’s residence",
-     "published": "2026-09-29T22:26:20+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jezqp8/article71523610.ece/alternates/LANDSCAPE_1200/20260928543L.jpg",
-     "licence": "linkout",
-     "id": "15d877b65509",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "8 over new mining law, other"
-     ]
-    },
-    {
-     "title": "Activists caution against efforts to revive bauxite mining in Odisha’s Niyamgiri hills",
-     "url": "https://www.thehindu.com/news/national/odisha/activists-caution-against-efforts-to-revive-bauxite-mining-in-odishas-niyamgiri-hills/article71524085.ece",
-     "summary": "Vedanta Group chairman Anil Agarwal put out a statement recently that the Niyamgiri bauxite reserve should be reopened for mining and that it would create jobs for the local tribal population",
-     "published": "2026-09-29T20:10:50+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Delhi/ollnrw/article71525649.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-     "licence": "linkout",
-     "id": "1d4c68b4f9b2",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Rajasthan HC cancels FIR against Independent MLA arrested during local body polls",
-     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-hc-cancels-fir-against-independent-mla-arrested-during-local-body-polls/article71524919.ece",
-     "summary": "",
-     "published": "2026-09-29T20:00:22+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "4976eacf993a",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "5 New Sites Added To India's UNESCO Tentative List For World Heritage",
-     "url": "https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand",
-     "summary": "The Udaigiri hill in Madhya Pradesh contains a rock-cut sacred ensemble developed primarily under Gupta patronage between the late 4th and early 5th centuries, according to the UNESCO website.",
-     "published": "2026-09-29T20:48:04+00:00",
+     "title": "IIT Roorkee Opens PhD Admissions For Spring 2026-27 Semester, Check Details",
+     "url": "https://www.ndtv.com/education/iit-roorkee-opens-phd-admissions-for-spring-2026-27-semester-check-details-12117830#publisher=newsstand",
+     "summary": "IIT Roorkee PhD Admissions: The Sakuntala fellowship is available to female candidates possessing a BTech/BE/BArch/BDes degree from Ministry of Education-funded technical institutions, with a CGPA of 8.5 or above on a 10-point scale.",
+     "published": "2026-09-30T04:20:48+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/0mtb2d2c_ginnorgarh-fort_625x300_30_September_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-09/7un3vj0c_iit-roorkee-_625x300_30_September_26.jpeg",
      "licence": "linkout",
-     "id": "720794cce663",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Local Shiv Sena (UBT) Leader Dies In Thane After Firing By Unidentified Men",
-     "url": "https://www.ndtv.com/india-news/local-shiv-sena-ubt-leader-pradeep-purnekar-dies-in-thane-after-firing-by-unidentified-men-12117002#publisher=newsstand",
-     "summary": "Purnekar was the Thane 'vibhag pramukh' or division head of the Uddhav Thackeray-led party, a Sena (UBT) leader said.",
-     "published": "2026-09-29T19:21:25+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/erk79n3g_pradeep-purnekar_625x300_30_September_26.jpeg",
-     "licence": "linkout",
-     "id": "6b47fdcb2448",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "No Mother-Child Photo On Baby Food Packets, Orders Team Tukaram Mundhe",
-     "url": "https://www.ndtv.com/india-news/no-mother-child-photo-on-baby-food-packets-orders-team-tukaram-mundhe-12116965#publisher=newsstand",
-     "summary": "Tukaram Mundhe, who made headlines with his crackdown on restaurants over food quality and hygiene, has ordered baby food manufacturers to carry the \"Mother's Milk Is Best\" message on all their packages.",
-     "published": "2026-09-29T19:04:48+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/92372ofc_tukaram-mundhe_625x300_25_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "dd750033e138",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Delhi Bans Bus Strikes For 6 Months, Commuters Get Relief",
-     "url": "https://www.ndtv.com/india-news/delhi-bans-bus-strikes-agitations-for-6-months-commuters-get-relief-12116939#publisher=newsstand",
-     "summary": "The Delhi government has invoked the Essential Services Maintenance Act (ESMA), which allows strikes in essential services to be prohibited.",
-     "published": "2026-09-29T18:57:55+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://i.ndtvimg.com/i/2017-11/dtc_650x400_51510307851.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "995657eaf018",
+     "id": "e32be722494c",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "6 Months , Commuters Get Relief"
+      "27 Semester , Check Details"
      ]
+    },
+    {
+     "title": "Bihar Board 10th, 12th Marksheet, Documents Available On Digilocker: Here's How To Check",
+     "url": "https://www.ndtv.com/education/bihar-board-10th-12th-marksheet-documents-available-on-digilocker-heres-how-to-check-12117800#publisher=newsstand",
+     "summary": "BSEB 10th, 12th Marksheet: According to the official notification, students will now be free from the problem of documents getting lost, damaged, or being fake.",
+     "published": "2026-09-30T04:13:16+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/cbfkvkug_bihar-board_625x300_30_September_26.jpeg",
+     "licence": "linkout",
+     "id": "129d3b1235f9",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "INDIA Meet On 'Op Gyanesh Kumar' Today, Sources Reject Attacks On Poll Panel",
+     "url": "https://www.ndtv.com/india-news/election-commission-sir-india-alliance-meet-on-gyanesh-kumar-today-sources-reject-attacks-on-poll-panel-12117788#publisher=newsstand",
+     "summary": "The meeting is taking place a day after the Congress Working Committee demanded Gyanesh Kumar's removal, calling him a \"puppet\" of the BJP.",
+     "published": "2026-09-30T04:11:02+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/mhnk1pn_india_625x300_30_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "e12c49394585",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -655,93 +654,97 @@
    "upsc": false,
    "items": [
     {
-     "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-     "summary": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
-     "published": "2026-09-30T00:00:00+00:00",
+     "title": "Hegseth to cut number of US general and admiral positions by 20%",
+     "url": "https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss",
+     "summary": "Pentagon official says the plan will be announced in the defence secretary's 'State of the Force' address in Virginia.",
+     "published": "2026-09-30T05:05:35+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260929__C9Q98QG__v1__HighRes__776570600-1790720342.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-18T142412Z_868763563_RC2QLNA8UB9B_RTRMADP_3_USA-DEFENSE-POWS-1790732538_0a62cb-1790743505.jpg?resize=1200%2C630&quality=80",
      "licence": "linkout",
-     "id": "cbc4d202e4a8",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Trump says he plans to campaign for 32 days before midterm elections",
-     "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-     "summary": "US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.",
-     "published": "2026-09-29T23:53:08+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abc3b1e-1790720798.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "035837c181d2",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "32 days before midterm elections"
-     ]
-    },
-    {
-     "title": "‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza",
-     "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
-     "summary": "Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.",
-     "published": "2026-09-29T23:49:18+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-21T150152Z_455887200_RC2EYLA0D2PL_RTRMADP_3_IRAN-CRISIS-SWISS-MEETING-1787796288.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9c6d0a507495",
-     "category": "conflict",
-     "category_label": "War & conflict"
-    },
-    {
-     "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-     "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-     "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-     "published": "2026-09-29T16:23:58+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
-     "licence": "linkout",
-     "id": "5eba141f3348",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "30 days"
-     ]
-    },
-    {
-     "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
-     "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
-     "summary": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
-     "published": "2026-09-29T22:33:13+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220d/live/ab8024a0-bc55-11f1-8053-53e939fa7624.jpg",
-     "licence": "linkout",
-     "id": "8269364aa4c8",
+     "id": "7bc83d9cf7ab",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "360 degrees"
-     ]
+     "category_label": "General"
     },
     {
-     "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
-     "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
-     "summary": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
-     "published": "2026-09-29T12:43:04+00:00",
+     "title": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
+     "url": "https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss",
+     "summary": "Opposition leader dismisses Netanyahu's warning of possible attacks during next month's general election.",
+     "published": "2026-09-30T04:51:01+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6abc6c76c1-1790733430.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "537b7b519b7a",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "South African president orders action on femicide after killings",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss",
+     "summary": "South Africa’s President Cyril Ramaphosa has announced new measures to combat femicide and gender-based violence.",
+     "published": "2026-09-30T04:39:34+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790743124.jpg?resize=1435%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "b711723038de",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Democrats hope anger at Trump enough to get young people to vote",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss",
+     "summary": "Political strategist Celinda Lake says that young voters don’t usually cast their ballots in midterm elections.",
+     "published": "2026-09-30T04:36:27+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790742907.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "7135644cd72f",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Chinese AI tool told researchers how to make bioweapons",
+     "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+     "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+     "published": "2026-09-29T23:15:29+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/681a/live/874ab620-bbf8-11f1-bd21-bdf910f2cec6.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
      "licence": "linkout",
-     "id": "bc508e364267",
+     "id": "a2a851085959",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+     "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+     "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+     "published": "2026-09-30T05:24:52+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1795/live/6e65f480-bc7f-11f1-8f6a-cb544b8fa0f7.jpg",
+     "licence": "linkout",
+     "id": "1afaed8adc57",
      "category": "general",
-     "category_label": "General",
+     "category_label": "General"
+    },
+    {
+     "title": "South Africa to clean up high-risk areas after 12 women killed",
+     "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+     "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+     "published": "2026-09-29T22:33:39+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae4/live/d8d527f0-bc11-11f1-bd21-bdf910f2cec6.jpg",
+     "licence": "linkout",
+     "id": "33b620fafe08",
+     "category": "crime",
+     "category_label": "Crime",
      "figures": [
-      "16 months in Russian jail"
+      "12 women killed"
      ]
     }
    ]
@@ -752,6 +755,32 @@
    "title": "Global Hotline",
    "upsc": false,
    "items": [
+    {
+     "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
+     "summary": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea.",
+     "published": "2026-09-30T04:21:11+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c90/live/65be9d30-bc81-11f1-a200-b9459c1e297a.jpg",
+     "licence": "linkout",
+     "id": "dc4087d2a219",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+     "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+     "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+     "published": "2026-09-30T05:24:52+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1795/live/6e65f480-bc7f-11f1-8f6a-cb544b8fa0f7.jpg",
+     "licence": "linkout",
+     "id": "1afaed8adc57",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Watch: Bangkok locals create floating market during floods",
      "url": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
@@ -806,32 +835,6 @@
      "figures": [
       "5,000 returnees could face violence, persecution"
      ]
-    },
-    {
-     "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
-     "url": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
-     "summary": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
-     "published": "2026-09-29T00:50:19+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b076/live/c65ef8b0-baf6-11f1-a831-2d69d9b13247.jpg",
-     "licence": "linkout",
-     "id": "78ca1955e19a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Lost songs from iconic Australian rockstar found in garage",
-     "url": "https://www.bbc.co.uk/news/articles/cmrl6ylzy4zxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Divinyls frontwoman Chrissy Amphlett recorded the songs with Split Enz's Tim Finn in 1998.",
-     "published": "2026-09-29T01:33:29+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c2/live/9c628ea0-bbdc-11f1-bc1f-3f186ca4140c.jpg",
-     "licence": "linkout",
-     "id": "1341e3f98128",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -842,100 +845,76 @@
    "upsc": false,
    "items": [
     {
-     "title": "T.N. government proposes memorial for 5 icons on University Union Grounds at Chetpet in Chennai, sports teachers object",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-proposes-memorial-for-5-icons-on-university-union-grounds-at-chepet-in-chennai-sports-teachers-object/article71525294.ece",
-     "summary": "The State government plans to build the memorial complex for 5 icons on a portion of the University Union Grounds in Chetpet belonging to the University of Madras",
-     "published": "2026-09-30T00:25:01+00:00",
+     "title": "EC reverts to allowing Form 6 submission without attached declaration in non-SIR States",
+     "url": "https://www.thehindu.com/news/national/ec-reverts-to-allowing-form-6-submission-without-attached-declaration-in-non-sir-states/article71525571.ece",
+     "summary": "While Form 6 is normally used for new voter registrations, during the SIR process, it was also used for re-enlisting those who had been deleted during the enumeration phase. A separate declaration had been added to the physical form regarding the mapping of self or parents with electoral rolls from the period of the previous SIR",
+     "published": "2026-09-29T19:15:00+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/ngrsku/article71525611.ece/alternates/LANDSCAPE_1200/DSC7096.jpg",
      "licence": "linkout",
-     "id": "a6b8d50d0d77",
+     "id": "0c57d9c6c34d",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "5 icons on University Union Grounds",
-      "5 icons on a portion"
+      "6 submission without attached declaration"
      ]
     },
     {
-     "title": "Mamata in Delhi to participate in INDIA bloc meetings, Suvendu takes a dig",
-     "url": "https://www.thehindu.com/news/national/west-bengal/mamata-in-delhi-to-participate-in-india-bloc-meetings-suvendu-takes-a-dig/article71524694.ece",
-     "summary": "Our target is the Chief Election Commissioner and his full software team, who cheated and betrayed the people, former West Bengal Chief Minister Mamata Banerjee said",
-     "published": "2026-09-29T22:42:12+00:00",
+     "title": "India to have more elderly people later this century as fertility falls, age structure shifts: Moody’s",
+     "url": "https://www.thehindu.com/news/national/india-to-have-more-elderly-people-later-this-century-as-fertility-falls-age-structure-shifts-moodys/article71526967.ece",
+     "summary": "Moody’s Ratings says India’s fertility has already fallen below replacement level, as the global fertility rate has declined from 4.9 to about 2.2 children per woman since 1950",
+     "published": "2026-09-30T05:56:53+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/vagzgy/article71525794.ece/alternates/LANDSCAPE_1200/PTI09_29_2026_000273B.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/bwkih0/article71527015.ece/alternates/LANDSCAPE_1200/IMG_iStock-2234446045_2_1_KTGIOIHT.jpg",
      "licence": "linkout",
-     "id": "3595dd4a5e1c",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues",
-     "url": "https://www.thehindu.com/news/national/odisha/india-bloc-announces-odisha-bandh-on-october-8-over-new-mining-law-other-issues/article71523588.ece",
-     "summary": "The bloc demanded the repeal of the MMDR Amendment Act, 2026, and the resignation of Chief Election Commissioner Gyanesh Kumar, after protesters clashed with police near the Chief Minister’s residence",
-     "published": "2026-09-29T22:26:20+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/jezqp8/article71523610.ece/alternates/LANDSCAPE_1200/20260928543L.jpg",
-     "licence": "linkout",
-     "id": "15d877b65509",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "8 over new mining law, other"
-     ]
-    },
-    {
-     "title": "Rajasthan first State in northern India to complete digital identification of farmers",
-     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-first-state-in-northern-india-to-complete-digital-identification-of-farmers/article71524561.ece",
-     "summary": "",
-     "published": "2026-09-29T20:00:08+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "1b7606425386",
+     "id": "a5bf256194c2",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "2.2 children per woman since 1950"
+     ]
     },
     {
-     "title": "Hundreds of fishermen protest against Secretariat proposal at Foreshore Estate",
-     "url": "https://www.thehindu.com/news/cities/chennai/hundreds-of-fishermen-protest-against-secretariat-proposal-at-foreshore-estate/article71525230.ece",
-     "summary": "Community leader K. Bharathi, who has been spearheading the movement, pointed out that Minister Aadhav Arjuna had said that if asked to choose between fishermen and the secretariat, the Chief Minister would choose the welfare of the fishermen",
-     "published": "2026-09-29T19:51:42+00:00",
+     "title": "Democracy without choice: how unopposed Maharashtra rural polls silence dissent",
+     "url": "https://www.thehindu.com/news/national/maharashtra/democracy-without-choice-how-unopposed-maharashtra-rural-polls-silence-dissent/article71524112.ece",
+     "summary": "The culture of unopposed elections has taken root in hundreds of villages across Maharashtra.",
+     "published": "2026-09-30T05:55:13+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/mjkdnr/article71525431.ece/alternates/LANDSCAPE_1200/FISHDEMOA8.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/v4o42v/article71525636.ece/alternates/LANDSCAPE_1200/grampanchayat.jpg",
      "licence": "linkout",
-     "id": "8a3926f023ff",
+     "id": "9caa2d0aaa4e",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Highly educated professionals are vulnerable to financial cybercrime, finds IIT-Madras study",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/highly-educated-professionals-are-vulnerable-to-financial-cybercrime-finds-iit-madras-study/article71524692.ece",
-     "summary": "The researchers found that victims were often targeted during periods of stress or life disruption, including illness in the family, retirement, job searches, or workplace pressure",
-     "published": "2026-09-29T19:49:11+00:00",
+     "title": "Jaishankar meets UN chief Guterres, discusses ongoing conflicts, impact on Global South countries",
+     "url": "https://www.thehindu.com/news/national/jaishankar-meets-un-chief-guterres-discusses-ongoing-conflicts-impact-on-global-south-countries/article71526924.ece",
+     "summary": "During a conversation at Asia Society, Jaishankar said he held meetings with about 85-90 counterparts through a “really very frantic week”",
+     "published": "2026-09-30T05:47:23+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/wfdlo3/article71525645.ece/alternates/LANDSCAPE_1200/iStock-1157124920.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/t6lv49/article71526973.ece/alternates/LANDSCAPE_1200/PTI09_29_2026_000053B.jpg",
      "licence": "linkout",
-     "id": "e773fe4692ef",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "dd9553493f5f",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "90 counterparts through a “really very"
+     ]
     },
     {
-     "title": "School assembly news headlines today- September 30: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZjZxRVhXc1BPeWRSS2U4M3ppVzJ4UmlxbzNoS1FMMkZhUlNyWklxOE9pVEo5U2YtZ3NRZ2o3Z05IT1N1d0hRTEwzYW9vNmQ0YzNjaGFhV3M1S3gtVmdtNFlzRl9SX0l3LU1XV290ZnozMmFQa043VUdVaC1uR1hreG81YU56OW9xVlREX2pTeDZtMVM5RzQ2bGRZclF3LWMwVTdoX2preE1VcDhDZ2U2U2R6YVRQTG5nTFlpcGpaWnpvUVpmdWxHSW1VeGJQVGhCUjVVVHVXZVVBYU9xVkplcXlpNUVBWi1N?oc=5",
-     "summary": "School assembly news headlines today- September 30: Top national, sports and world news curated for you India Today",
-     "published": "2026-09-29T12:39:14+00:00",
-     "source": "India Today",
+     "title": "School assembly news headlines September 30: Top India, international, sports and business updates",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZFhZUTVkQlM4RjBieHJuV3p4QlRGLVhyVjFqc2Q5cjNSc2ExTDF0QW9UN1J3TnRHZ1VRMEJ4WEZNZjAyVG0zYTJxbENqRVloZ2R1RnNYblFRSEVQSXBnekNxdXozQUhLSFlpTHpFZDJXcE96TmFOaHNELXpNc2VRYjJVTmQtWGhIYWpjeFJNTGF4eklMbm9ZVEQyUG1UMzRhaC1xdVNRTHNtMlhpWFJQcEVTWmhKQnJtam5aUUxoVW5oTXNXbWV3ZlZqUXNJdnpfenZUT1BwX0xaMkl6YV9BX1RsR1Rfa204RUFaVzN1QUp0bUJhV3pVZnl30gH_AUFVX3lxTE9JNE1EcHVJMVVxVE05VDBQeUdhM2tIMzhHMlRxY2oxRTNQMnBUWG04V2FaTEUzYm1oVlVOZ055T0k3ZWZtOHR2Z1NoVzQxcjgwb1lLT3gwdVZzNXctYkhtUm1ESkRJLThfR1NWdVcyUXhHdEF6c0p0TzdmczI0TnJyeTR6UUR4RnYxMlZRcmtqS0FwcVlWWHE4TGZpWmdUZjVCYnRxWDNmSmhnaE16X0lUSE5QZEw5dXNSb2dzUnIyMHRpNWNTQTdNTHlWb0Rpa3JRaHhsbE9DTkcxWWtoelUxdzdTMWNhUUtaN3BFSEZxQndiLTBFd3cxTWtPdDRGTQ?oc=5",
+     "summary": "School assembly news headlines September 30: Top India, international, sports and business updates The Economic Times",
+     "published": "2026-09-29T13:26:44+00:00",
+     "source": "The Economic Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "a77ca45c076e",
+     "id": "74d83d8b7f9a",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -948,10 +927,69 @@
    "upsc": true,
    "items": [
     {
+     "title": "Scheduled Banks’ Statement of Position in India as on September 15, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63693",
+     "summary": "",
+     "published": "2026-09-30T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "1e05eeed73ea",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on September 30, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63692",
+     "summary": "",
+     "published": "2026-09-30T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "70cc5f70fc03",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "VRRR"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Money Market Operations as on September 29, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63691",
+     "summary": "",
+     "published": "2026-09-30T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "10e9bc9e84a3",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 30, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63690",
      "summary": "",
-     "published": "2026-09-29T00:00:00+00:00",
+     "published": "2026-09-30T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -974,7 +1012,7 @@
      "title": "Report of the Advisory Committee on Ways and Means Advances to State Governments",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63689",
      "summary": "",
-     "published": "2026-09-29T00:00:00+00:00",
+     "published": "2026-09-30T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -990,68 +1028,8 @@
      },
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "State Government Securities - Full Auction Result",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63688",
-     "summary": "",
-     "published": "2026-09-29T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "927303668bf8",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Result of Yield/Price Based Auction of State Government Securities",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63687",
-     "summary": "",
-     "published": "2026-09-29T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "a1842d68e98b",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on September 29, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63686",
-     "summary": "",
-     "published": "2026-09-29T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "85814216b5c2",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [
-       "VRRR"
-      ],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "id": "editorial",
@@ -1098,6 +1076,158 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
+     "url": "https://globalvoices.org/2026/09/30/who-can-speak-on-behalf-of-the-people-the-new-frontiers-of-protest-in-the-sahel/",
+     "summary": "In central Sahel's countries military juntas claim to restore popular sovereignty. Political parties are dissolved in all three countries, over a thousand civil society organizations have been suspended.",
+     "published": "2026-09-30T03:37:48+00:00",
+     "source": "Global Voices",
+     "byline": "Jean Sovon",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/09/Sahel-protests-1-800x450.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "Can a democracy exist without the right to disagree?"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "Demonstrations in the Sahel: (left) Mali, (center) Niger, and (right) Burkina Faso. Screenshots via YouTube."
+      },
+      {
+       "kind": "p",
+       "text": "This post is part of Global Voices’ September 2026 Spotlight series, “Protest in Democracy.” With this Spotlight, we seek to explore the many forms of protest, the tactics states use to delegitimize and suppress them, and the complex relationship between protest and democracy. You can support this coverage by donating here."
+      },
+      {
+       "kind": "p",
+       "text": "In the countries of the central Sahel, Mali, Burkina Faso, and Niger, military juntas present themselves as the voices of restored popular sovereignty. At the same time, political parties have been dissolved in all three countries, more than a thousand civil society organizations have been suspended in Burkina Faso, and labor unions are under attack in Niger. What becomes of the right to protest when those in power claim to embody the very people on whose behalf the protests are being held?"
+      },
+      {
+       "kind": "p",
+       "text": "On the night of August 28–29, 2026, heavy gunfire and explosions rang out in Niamey, Niger. An attempted military mutiny targeting the presidency, the airport, and national television was repelled by General Abdourahamane Tiani’s regime, with the support of Russian forces. The incident served as yet another reminder of the fragility of the military regimes that have been in power in the Sahel since 2020 and the ease with which every upheaval — whether it comes from within the military or from civil society — is then used to justify a further crackdown on civic space."
+      },
+      {
+       "kind": "p",
+       "text": "On June 30, 2026, the Office of the United Nations High Commissioner for Human Rights announced the permanent closure of its office in Burkina Faso, after authorities had suspended its activities in February. On July 29, 2026, CIVICUS added Burkina Faso to its international watch list, documenting at least 1,174 civil society organizations that had been suspended or dissolved since the beginning of the year."
+      },
+      {
+       "kind": "h",
+       "text": "Three countries, one institutional path"
+      },
+      {
+       "kind": "p",
+       "text": "Before the military took power, thousands of citizens had already taken to the streets in Mali, Burkina Faso, and Niger to protest poor governance, insecurity, and corruption. In Mali, the 2020 protests contributed to the context in which the army overthrew President Ibrahim Boubacar Keïta. In Burkina Faso, the two coups of 2022 occurred amid widespread frustration over insecurity. In Niger, the ouster of elected President Mohamed Bazoum in July 2023 was also followed by a military statement emphasizing national sovereignty."
+      },
+      {
+       "kind": "p",
+       "text": "In all three cases, the military then set about methodically dismantling the pluralism they had promised to revitalize."
+      },
+      {
+       "kind": "p",
+       "text": "In Mali, a national consultation, boycotted by a large portion of the political class, recommended in late April 2025 the dissolution of political parties and the installation of General Assimi Goïta as president for a five-year term. The decree dissolving the parties was signed on May 13, 2025, despite two protests organized in early May in Bamako by political parties and civil society organizations to oppose it. These were the first opposition demonstrations in Bamako since 2020, according to a regional situation report. Independent UN experts warned that the measure paved the way for the criminalization of all political activity."
+      },
+      {
+       "kind": "p",
+       "text": "On July 3, 2025, Goïta’s term was set at five years, renewable “as many times as necessary,” according to France 24. Since early May 2026, Malian authorities have also intensified their crackdown on the political opposition through arbitrary arrests, documented by a recurring pattern of abductions attributed to the National Agency for State Security."
+      },
+      {
+       "kind": "p",
+       "text": "As of September 30, 2022, political activities were suspended in Burkina Faso, and all political parties were formally dissolved on January 29, 2026, a move described as “definitive” by CIVICUS. On April 15, 2026, 118 civil society organizations active in human rights, health, or education were dissolved under a July 2025 law on freedom of association. When asked about this situation, Binta Sidibé Gascon, President of the Kisal Observatory, told Human Rights Watch:"
+      },
+      {
+       "kind": "p",
+       "text": "La dissolution massive des organisations de la société civile n’est que le dernier acte de la junte du Burkina Faso pour faire taire la dissidence et éviter toute analyse de son bilan peu reluisant en matière de droits humains. Cette décision renforce un climat de peur qui paralyse l'activité civique indépendante."
+      },
+      {
+       "kind": "p",
+       "text": "The mass dissolution of civil society organizations is merely the latest move by the Burkina Faso junta to silence dissent and prevent any scrutiny of its dismal human rights record. This decision reinforces a climate of fear that paralyzes independent civic activity."
+      },
+      {
+       "kind": "p",
+       "text": "In Niger, on March 26, 2025, President Abdourahamane Tiani signed a decree dissolving all political parties, which had already been suspended since the July 2023 coup. In August 2025, several labor unions representing legal professionals were in turn dissolved, prompting condemnation from the Niger Bar Association and a two-day general strike by lawyers, according to Human Rights Watch. In its July 2026 report, HRW lists several restrictive measures taken by the military authorities. These include dissolving political parties and independent unions, detaining journalists under a cybercrime law, revoking citizenship from opponents, announcing a withdrawal from the International Criminal Court, and extending the transition period with no prospect of elections."
+      },
+      {
+       "kind": "h",
+       "text": "Who speaks for the people?"
+      },
+      {
+       "kind": "p",
+       "text": "The three juntas justify these measures using the same rhetoric: sovereignty, national renewal, and the fight against foreign interference. Amnesty International formalized this observation in a statement presented to the UN Human Rights Council: in Mali, Niger, and Burkina Faso, military regimes are gradually restricting freedoms in the name of the fight against imperialism and the protection of national sovereignty, with laws being enforced by decree, without parliamentary oversight or constitutional review."
+      },
+      {
+       "kind": "p",
+       "text": "This situation raises a simple question that is rarely asked so directly: If part of the population supports the new authorities, does that mean those who criticize them are no longer part of the people?"
+      },
+      {
+       "kind": "p",
+       "text": "This is the situation facing the few journalists who continue to work in the three countries. Amnesty International collected testimonies from three of them, using pseudonyms, in a report published on April 30, 2026. One, identified as Mohamed C., believes that:"
+      },
+      {
+       "kind": "p",
+       "text": "I think the crackdown is most severe in Burkina Faso, but in all three countries, there’s been a major setback. Quality media outlets, with history and tradition, are at risk of disappearing (…)."
+      },
+      {
+       "kind": "p",
+       "text": "The same report notes that Amnesty had already documented the crackdown on the media in Niger in a March 2025 report, before launching a campaign in October 2025 dedicated to the situation of activists and journalists in the three countries."
+      },
+      {
+       "kind": "h",
+       "text": "When political parties and unions disappear"
+      },
+      {
+       "kind": "p",
+       "text": "The disappearance of organized structures does not mean the disappearance of dissent. It changes its form and often its scale."
+      },
+      {
+       "kind": "p",
+       "text": "In Burkina Faso, on May 26, 2026, the arrest of Imam Mohamed Ishaq Kindo, a critic of a bill regulating religious practices, sparked outrage among his followers, who protested in the capital, Ouagadougou, before being dispersed by law enforcement. This serves as proof that the streets remain a possible outlet, even if only sporadically and at great risk, in a country where political parties no longer exist. In Niger, it was lawyers, through their professional association, who led the protest following the dissolution of the judicial unions in 2025, another form of institutional resistance rather than street protest, as documented by HRW."
+      },
+      {
+       "kind": "p",
+       "text": "Elsewhere, protest has taken refuge in less visible spaces: social media, satirical content, private messaging groups, and campaigns led by the diaspora. These forms are, by their very nature, harder to gauge and therefore harder to suppress entirely, but they are also less capable of producing lasting political organization."
+      },
+      {
+       "kind": "h",
+       "text": "Security as a barrier to protest"
+      },
+      {
+       "kind": "p",
+       "text": "Any analysis of protest in the Sahel must take into account a factor that distinguishes it from other authoritarian contexts: war. Mali, Burkina Faso, and Niger are facing armed groups linked to Al-Qaeda (JNIM) and the Islamic State. Civilians are the primary victims: In Burkina Faso, Amnesty International documented that between March 10 and 11, 2026, the army and its VDP auxiliaries unlawfully killed at least 58 unarmed civilians in and around Solenzo."
+      },
+      {
+       "kind": "p",
+       "text": "This security situation serves as a recurring justification for restrictions on civic space. HRW notes that in all three countries, governments have continued to restrict freedom of expression, dissent, and the media while pursuing their disengagement from regional and international bodies — effective withdrawal from the Economic Community of West African States (ECOWAS) and all three countries’ withdrawal from the International Criminal Court."
+      },
+      {
+       "kind": "p",
+       "text": "For observers of the Central Sahel, the major challenge lies in determining where legitimate protection of the population ends and where the manipulation of fear to stifle dissent begins."
+      },
+      {
+       "kind": "h",
+       "text": "Can a democracy exist without the right to disagree?"
+      },
+      {
+       "kind": "p",
+       "text": "Although they share the same context, the three countries have not followed identical paths. The levels of popular support for the authorities differ, as does the intensity of the armed conflict. But one phenomenon is common across recent reports: the systematic shrinking of civic space, barely a year after the juntas promised to give the people a voice."
+      },
+      {
+       "kind": "p",
+       "text": "A citizen may support breaking away from former colonial powers and, at the same time, demand that the new authorities be held accountable. They may have approved a coup and now ask why political parties are banned, why labor unions are dissolved, and why journalists are being prosecuted. From the perspective of citizen oversight of public action, these positions are complementary rather than contradictory: Being part of the people does not mean agreeing with those who govern in their name."
+      },
+      {
+       "kind": "p",
+       "text": "While this new configuration in the central Sahel positions military authorities as those who speak on behalf of the people, it raises one of the region’s most significant democratic questions. Do those who govern on behalf of the people still accept hearing a portion of that people respond to them in the streets or from exile, saying, “We do not agree”?"
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "3bf5fe2b008b",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -1267,7 +1397,7 @@
      "title": "Household energy bills forecast to see biggest rise in four years",
      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
      "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-     "published": "2026-09-29T23:03:13+00:00",
+     "published": "2026-09-30T05:27:23+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b79a/live/9a0501e0-bc24-11f1-bd53-1b67dc8fba34.jpg",
@@ -1291,6 +1421,19 @@
      "id": "8fad0e89c24d",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+     "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+     "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+     "published": "2026-09-30T04:01:52+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
+     "licence": "linkout",
+     "id": "b4989f4ae871",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
      "title": "'I like proving people wrong': The women taking up DIY and plumbing",
@@ -1330,12 +1473,25 @@
      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
      "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-     "published": "2026-09-29T23:47:10+00:00",
+     "published": "2026-09-30T05:18:13+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181a/live/455d3af0-bc41-11f1-bc1f-3f186ca4140c.jpg",
      "licence": "linkout",
      "id": "079a25e8596f",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+     "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+     "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+     "published": "2026-09-30T04:01:52+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
+     "licence": "linkout",
+     "id": "b4989f4ae871",
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1366,15 +1522,44 @@
      "category_label": "General"
     },
     {
-     "title": "OpenAI scraps rollout of new model over safety concerns",
-     "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-     "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-     "published": "2026-09-29T09:14:13+00:00",
+     "title": "Oura pulls $15bn stock market listing days after announcement",
+     "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+     "summary": "The wearable technology company had been expected to list its shares in the US.",
+     "published": "2026-09-29T17:17:07+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc0e/live/21da3ca0-bc1d-11f1-a9cf-939723882d7f.jpg",
      "licence": "linkout",
-     "id": "fb9c5ac6a0fc",
+     "id": "6c23dfafec5e",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$15bn stock market listing days"
+     ]
+    },
+    {
+     "title": "Artificial No More, Donald Trump Renames AI ‘Super Intelligence’",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnJ3MEJPYUZXc3NTa3dmUUpWVF9KWVcxam8td2xlM2lVNlRqbVpxV2tDWE9hMGxwZFhxSDViYkJ4UlNxS0pIOHU4TE5HZjRUWWZPdDNXeEd4SS1wN3hraHNMYmZQVmlIZWtiU01wQ1RjOW9vNllUeXZRd3hMOElsWHRpNEw5bGh6cTRIQUJMeWtTOGRoWmJ3Tld1dw?oc=5",
+     "summary": "Artificial No More, Donald Trump Renames AI ‘Super Intelligence’ Open Magazine",
+     "published": "2026-09-30T01:07:11+00:00",
+     "source": "Open Magazine",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "3f47aa723d89",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Trump plans to rename artificial intelligence ‘Super Intelligence’",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjJQS1Y2aGZiM3ZNVm9VNGpMYzkycFQ2WEdJdUotOHNnbEpFY2hUdFFFeEJSUmFnN3diWGNwd01FejdCZ3dhYkVvREFhUHBrbUxZSHd3ZlBVSDdIczJJMlM1MDZlYmtZMzdpWEVnQjFyZmVyVm5sakRpRTFYNS16aHI1R2dsX3ZIWFRsTFdVRXFQU3lRSUE?oc=5",
+     "summary": "Trump plans to rename artificial intelligence ‘Super Intelligence’ Telangana Today",
+     "published": "2026-09-30T02:39:04+00:00",
+     "source": "Telangana Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "151c326f21ee",
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1407,36 +1592,6 @@
       "$6 Trillion Buildout",
       "$6 Trillion Buildout Bain & Company"
      ]
-    },
-    {
-     "title": "Artificial Intelligence: An Introduction",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeEpkS25KeGlUNVByZTd1VXh6bS1NY1lFT1BRcmVXZVVuWGhWUjA4VEw3Z1dDQUEzSzNyMmFCemlNdVAzd3RlNVJaMV9ZR19FcG1zX09kaXk5WlFLdEUzT1JJWTRVUlFlbHBNRzlrV2o0VTQyZU5wcnNtbFBiZkF1WHZGSXFIcXUy?oc=5",
-     "summary": "Artificial Intelligence: An Introduction The Kashmir Horizon",
-     "published": "2026-09-29T19:22:43+00:00",
-     "source": "The Kashmir Horizon",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "633c043400ac",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "AI slashes cost of launching cyberattack to under $3, says Mastercard",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0NRanU0MlltVkZBNF9NbE1qLWRmWW0wMG52OENxZHBPakRDeEFXUmtDNTRGbzl6dllaWmtiQ1dvQzF3UWNSdGRTSkZNSFFISndpMjl1NzlIeHBKWEt6bkJ0cXYxNDVnQlNaa0FUS2pNSnluOHppOVV3b2EybV9DWFJjYkVjLTRfNGxOSWdkSWRjdVdma1U3ZExERTJMYmpVMTJTWEdoV0Fna09Hel9hbS1NOVlhbFFoanBKYXJfZVhoenZ1eTVLS1dUaG5NajhyVU44NmotRVFHaC1ObXRqN2Y4YWsyb1hZeXRuWdIB8gFBVV95cUxQQ1R2bTh2SDF5dmJuU204NXR5dzVUNEx6XzBfNWRoUEpNUzFZYUVBUWhTRHd0bDBqcU9LdW9qSjZ2bEdyNjJpTkpQRTV5eWNMU0ZWR0JyVkxCdExfXy1QM0tIYkRkWDQ5Y1RxanVzajRLNk9rUGRkblM2aXpJSTZ3bzNwMEZ6OHlyUkFkSjNWY1FNYkdMd29mLTVoRVBwcjQ0QnBvMWF5am9lZ2pWdWtWN01xaWRjYmhxcnl3MzMxWThFR1dwZXBydXNrTXNJRVYzNVpzM0FZMEw0LXpVanRwUFhiYkRYbGdUVmstcDZPOVZhUQ?oc=5",
-     "summary": "AI slashes cost of launching cyberattack to under $3, says Mastercard Business Standard",
-     "published": "2026-09-29T18:44:04+00:00",
-     "source": "Business Standard",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "74a80190be0e",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "$3,  says Mastercard",
-      "$3,  says Mastercard Business Standard"
-     ]
     }
    ]
   },
@@ -1447,60 +1602,82 @@
    "upsc": false,
    "items": [
     {
-     "title": "LeBron James, Joel Embiid, Tyrese Maxey and Jaylen Brown: Can the 76ers’ New Star Quartet Coexist?",
-     "url": "https://sports.ndtv.com/us-nba/lebron-james-embiid-maxey-and-brown-can-the-76ers-star-quartet-coexist-12117031#publisher=newsstand",
-     "summary": "LeBron James joins Joel Embiid, Tyrese Maxey and Jaylen Brown in Philadelphia, creating a star-studded 76ers lineup with big questions about fit, roles and chemistry.",
-     "published": "2026-09-29T20:16:12+00:00",
+     "title": "Asian Games 2026 Day 11 LIVE Updates: Archers Strike Gold Again, India's Compound Mixed Team Triumphant",
+     "url": "https://sports.ndtv.com/othersports/asian-games-2026-day-11-live-updates-12116809#publisher=newsstand",
+     "summary": "Asian Games 2026 Day 11 LIVE: Archers earned India two gold medals on Day 11, as both the women's team and the mixed team finished on top of the podium. The mixed team, courtesy of their triumph in the final, also confirmed its qualification for the LA 2028 Olympic Games.",
+     "published": "2026-09-30T04:23:00+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/8i4evpns_lebron-james_625x300_26_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/a4e16284_archery-la-2028_625x300_30_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "1fd425317181",
-     "category": "general",
-     "category_label": "General"
+     "id": "f022cbcd6476",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "11 LIVE Updates: Archers Strike Gold",
+      "11 LIVE : Archers earned India"
+     ]
     },
     {
-     "title": "Thomas Chabot Named 11th Captain In Ottawa Senators Franchise History After Brady Tkachuk Trade",
-     "url": "https://sports.ndtv.com/us-nhl/thomas-chabot-named-11th-captain-in-ottawa-senators-franchise-history-after-brady-tkachuk-trade-12116964#publisher=newsstand",
-     "summary": "Thomas Chabot has been named the Ottawa Senators’ new captain after Brady Tkachuk’s trade to Florida, becoming the 11th captain in franchise history.",
-     "published": "2026-09-29T19:05:39+00:00",
+     "title": "Eli Raridon And Wife Anna Share Heartbreaking Message After Newborn Son Peter James Dies Following Fatal Diagnosis",
+     "url": "https://sports.ndtv.com/us-nfl/eli-raridon-and-wife-anna-share-heartbreaking-message-after-newborn-son-peter-james-dies-following-fatal-diagnosis-12117629#publisher=newsstand",
+     "summary": "Patriots tight end Eli Raridon and wife Anna are mourning newborn son Peter James, who died shortly after birth on September 11 following an anencephaly diagnosis revealed during their 20-week anatomy scan.",
+     "published": "2026-09-30T03:47:57+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/hrj5to1s_thomas-chabot_625x300_30_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-09/v3jsb9gs_nfl_625x300_30_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "fdb6a6436ec9",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Ben Golliver Calls Kawhi Leonard A Big Offseason Winner After Toronto Raptors Return",
-     "url": "https://sports.ndtv.com/us-nba/ben-golliver-calls-kawhi-leonard-a-big-offseason-winner-after-toronto-raptors-return-12116907#publisher=newsstand",
-     "summary": "ESPN’s Ben Golliver praised Kawhi Leonard’s return to Toronto, while Brian Windhorst highlighted the Raptors’ stronger roster and new direction around Scottie Barnes.",
-     "published": "2026-09-29T19:04:59+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-07/r3kinc5g_kawhi-leonard_625x300_10_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "7345ea84cb42",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Matthew Schaefer Named New York Islanders Alternate Captain At 19, Becomes Youngest In Franchise History",
-     "url": "https://sports.ndtv.com/us-nhl/matthew-schaefer-named-new-york-islanders-alternate-captain-at-19-becomes-youngest-in-franchise-history-12116842#publisher=newsstand",
-     "summary": "Matthew Schaefer will wear an “A” for the Islanders at 19, becoming the youngest official alternate captain in franchise history after winning the Calder Trophy.",
-     "published": "2026-09-29T18:23:31+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/atmso01s_matthew-schaefer_625x300_29_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "427fc53f5d52",
+     "id": "51ed383d01b8",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "19, Becomes Youngest In Franchise History",
-      "19, becoming the youngest official alternate"
+      "11 following an anencephaly diagnosis revealed"
      ]
+    },
+    {
+     "title": "Nick Wright Points Out 2 Chiefs Weaknesses While Backing Patrick Mahomes For Another Super Bowl",
+     "url": "https://sports.ndtv.com/us-nfl/nick-wright-points-out-2-chiefs-weaknesses-while-backing-patrick-mahomes-for-another-super-bowl-12117636#publisher=newsstand",
+     "summary": "Nick Wright backed the Chiefs for another Super Bowl but pointed to two concerns that could test Patrick Mahomes and Kansas City Chiefs later this season.",
+     "published": "2026-09-30T03:18:40+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/ea3h5vmc_patrick-mahomes_625x300_30_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a14783f2911a",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2 Chiefs Weaknesses While Backing Patrick"
+     ]
+    },
+    {
+     "title": "Travis Kelce’s $200 Million Six Flags Investment Hit By X2 Ride Closure",
+     "url": "https://sports.ndtv.com/us-nfl/travis-kelce-s-200-million-six-flags-investment-hit-by-x2-ride-closure-12117440#publisher=newsstand",
+     "summary": "Travis Kelce’s Six Flags deal faces a new twist as X2 is retired after injury lawsuits, while falling attendance and major losses put the company under pressure.",
+     "published": "2026-09-30T03:18:13+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/t7mmm5ck_travis-kelce_625x300_30_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "e276e2306ec6",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "$200 Million Six Flags Investment Hit"
+     ]
+    },
+    {
+     "title": "India Women's Squash Team Assures Medal With Win Over Singapore In Quarterfinals",
+     "url": "https://sports.ndtv.com/squash/asian-games-2026-india-womens-squash-team-assures-medal-with-win-over-singapore-in-quarterfinals-12117552#publisher=newsstand",
+     "summary": "India sealed the tie comfortably as Tanvi Khanna and Anahat Singh won the first two singles matches to confirm the team's place on the podium.",
+     "published": "2026-09-30T03:06:31+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/q4op4hro_anahat-singh_625x300_30_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "182422bc27ea",
+     "category": "sports",
+     "category_label": "Sports"
     }
    ]
   },
@@ -1566,17 +1743,17 @@
      "category_label": "General"
     },
     {
-     "title": "Blue Lights: The police drama hitting home in Northern Ireland",
-     "url": "https://www.bbc.co.uk/news/articles/c6grvpppvw5eo?at_medium=RSS&at_campaign=rss",
-     "summary": "As the award winning series returns, it highlights tensions between police and communities in Northern Ireland.",
-     "published": "2026-09-29T03:24:39+00:00",
+     "title": "Booker Prize nominee praises his school teachers",
+     "url": "https://www.bbc.co.uk/news/articles/cq7702rr830lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Luke Kennard, who grew up in Chard, is shortlisted for the award for his novel Black Bag.",
+     "published": "2026-09-29T14:44:05+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e10/live/67448000-b5d5-11f1-8c16-65d8f060d73f.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74aa/live/b722ead0-bc15-11f1-937d-7774786f350e.jpg",
      "licence": "linkout",
-     "id": "6112be59b5e8",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "34b439f9a1cb",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1586,6 +1763,32 @@
    "title": "Health & Science",
    "upsc": false,
    "items": [
+    {
+     "title": "Family told to call locksmith over mental health fears",
+     "url": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo?at_medium=RSS&at_campaign=rss",
+     "summary": "A force should have flagged mental health services after a family called about their son, IOPC says.",
+     "published": "2026-09-30T04:57:25+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75a/live/f0ed5a90-b0f1-11f1-9707-2187f52634c5.jpg",
+     "licence": "linkout",
+     "id": "343b76c08bcb",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Hidden habits that make your social anxiety worse - and how to break them",
+     "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
+     "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
+     "published": "2026-09-30T00:44:50+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/3c0bf2f0-bc8e-11f1-bc1f-3f186ca4140c.jpg",
+     "licence": "linkout",
+     "id": "89b9de81310b",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
      "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
@@ -1613,28 +1816,28 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "How Lindsay Clancy's return to court after mistrial unfolded",
-     "url": "https://www.bbc.co.uk/news/videos/c64gvn7v1401o?at_medium=RSS&at_campaign=rss",
-     "summary": "The BBC's Ione Wells describes what happened in court, as the US mother's defence for the first time argued there was not enough evidence to prove Clancy killed her children.",
-     "published": "2026-09-29T20:09:23+00:00",
+     "title": "The Irish international rugby 'trailblazer' and her legacy of cancer awareness",
+     "url": "https://www.bbc.co.uk/news/articles/crkgwek13y2no?at_medium=RSS&at_campaign=rss",
+     "summary": "Rosie Stewart played for Ireland and was a founding member of Ulster Women's Rugby but died after being diagnosed with breast cancer.",
+     "published": "2026-09-30T05:33:08+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4aa/live/ae5d8790-bc40-11f1-bc1f-3f186ca4140c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c9/live/07ca0b30-b842-11f1-aeab-cbd1b7662429.jpg",
      "licence": "linkout",
-     "id": "6af5c6ff23e3",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "bcae1c9a3330",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "All in the Mind",
-     "url": "https://www.bbc.co.uk/sounds/play/m003241r?at_medium=RSS&at_campaign=rss",
-     "summary": "Plus, we reveal the All in the Mind Awards judging panel.",
-     "published": "2026-09-29T09:00:00+00:00",
+     "title": "'They disgust me': The fight for smaller breasts",
+     "url": "https://www.bbc.co.uk/news/articles/cm624v28plz7o?at_medium=RSS&at_campaign=rss",
+     "summary": "Charlotte Howard has been turned down for breast reduction surgery by the NHS, despite daily pain.",
+     "published": "2026-09-30T05:32:41+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1xjlg.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da9/live/f0f12220-bb18-11f1-97b0-3f86b3abbccc.jpg",
      "licence": "linkout",
-     "id": "d931941986ad",
+     "id": "3ff644bcd2b8",
      "category": "general",
      "category_label": "General"
     }
