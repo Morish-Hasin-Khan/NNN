@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-02T20:12:52.485357+00:00",
- "podcasts_fetched_at": "2026-09-30T22:25:32.398423+00:00",
+ "generated_at": "2026-10-02T23:52:44.832367+00:00",
+ "podcasts_fetched_at": "2026-10-02T23:52:31.774965+00:00",
  "markets": [
   {
    "key": "sensex",
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Flydubai Incident",
-  "Woman Cornell",
+  "Flydubai Indian",
+  "Riot France",
   "Jazeera English",
   "News",
   "Scandals & Investigations",
   "IDFC First",
-  "Tamil Nadu",
-  "Swadeshi",
-  "Arab Israeli",
-  "Trump Europe"
+  "India Ladakh",
+  "Rules",
+  "Carney Canada",
+  "Flydubai"
  ],
  "sections": [
   {
@@ -103,29 +103,23 @@
    "upsc": false,
    "items": [
     {
-     "title": "Flydubai Incident Highlights: Israel Minister Calls For Naming Lounge At Main Airport After Smit Machchhar",
-     "url": "https://www.ndtv.com/world-news/flydubai-flight-fz1073-incident-live-updates-indian-pilot-smit-machchhar-omani-co-pilot-crash-attempt-tabuk-landing-dubai-uae-netanyahu-trump-iran-war-12128203#publisher=newsstand",
-     "summary": "Flydubai Flight FZ1073 Incident Highlights: The co-pilot, an Omani national, had stabbed Captain Smit Machchhar during a flydubai flight on Wednesday.",
-     "published": "2026-10-02T18:39:43+00:00",
-     "source": "NDTV",
+     "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+     "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+     "summary": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.",
+     "published": "2026-10-02T22:50:23+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/sglmqrng_flydubai_625x300_01_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac0255b54b1-1790977371.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "1ae287fb1feb",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-     "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-     "published": "2026-10-02T17:44:08+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d36/live/09d5ba60-be7c-11f1-a64c-550be9e3c66b.jpg",
-     "licence": "linkout",
-     "id": "90d653249898",
+     "id": "22c620cd3960",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+       "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+       "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
@@ -133,30 +127,60 @@
     {
      "title": "Riot police clash with students as education protests rage in France",
      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-     "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
-     "published": "2026-10-02T17:43:10+00:00",
+     "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+     "published": "2026-10-02T21:13:27+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
      "licence": "linkout",
      "id": "dc6e5aedc5cf",
+     "also": [
+      {
+       "source": "BBC Global News Podcast",
+       "title": "France rocked by student protests",
+       "url": "http://www.bbc.co.uk/programmes/p0pdkxtf",
+       "summary": "French students set fire to bins and erected blockades outside schools, as they protest against overcrowded classrooms, teacher shortages and crumbling facilities. Hundreds of people have been arrested and dozens…"
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News",
      "figures": [
-      "600 schools have faced disruption"
+      "735 schools have faced disruption"
      ]
     },
     {
-     "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-     "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-     "summary": "Sudanese Armed Forces reportedly retake al-Mazroub, advancing the army's goal of cutting the RSF’s supply lines.",
-     "published": "2026-10-02T18:51:54+00:00",
+     "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+     "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+     "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+     "published": "2026-10-02T11:52:04+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/861f/live/112640e0-bda1-11f1-babe-4199b0e7ccea.jpg",
+     "licence": "linkout",
+     "id": "8bc663610baa",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+       "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+       "summary": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global Hotline"
+    },
+    {
+     "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+     "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+     "summary": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible 'maybe a year earlier'.",
+     "published": "2026-10-02T21:53:17+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP25199749467891-1790689918.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac01956-1790974294.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "5c73ed424c41",
+     "id": "5e43737bd274",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -174,50 +198,6 @@
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
-    },
-    {
-     "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
-     "summary": "US President Donald Trump says Europe agreed to release a ‘massive amount’ of diesel from emergency stockpiles.",
-     "published": "2026-10-02T19:01:45+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790967623.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "4af50e767b26",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-       "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "'Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra",
-     "url": "https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand",
-     "summary": "Aradhna Misra, the daughter of Congress MP Pramod Tiwari, will have the onerous task of advancing seat-sharing talks with Yadav's party for the upcoming assembly elections.",
-     "published": "2026-10-02T18:47:38+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/v0g30v08_up_625x300_03_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "beb614bc2149",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Aradhana Misra Mona appointed as new chief of Uttar Pradesh Congress",
-       "url": "https://www.thehindu.com/news/national/uttar-pradesh/aradhana-misra-mona-appointed-as-new-chief-of-uttar-pradesh-congress/article71538200.ece",
-       "summary": "Imran Masood, Saharanpur MP, appointed Working President; the appointments, coming months before the Assembly polls, are seen as an attempt to forge a social coalition of Brahmin-Muslim-Dalit communities"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
     },
     {
      "title": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
@@ -242,10 +222,42 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "Deleted, and left in limbo",
+     "url": "https://www.thehindu.com/news/national/deleted-and-left-in-limbo/article71538194.ece",
+     "summary": "Across Bihar and West Bengal, lakhs of voters were deleted from the electoral rolls during the Special Intensive Revision (SIR) exercise, leaving them unable to vote in the 2025 and 2026 Assembly elections. Over 47 lakh names were deleted in Bihar and nearly 91 lakh in West Bengal. Shrabana Chatterjee and Senjuti Sengupta met some of those affected, documenting the uncertainty, paperwork, and repeated attempts to prove their citizenship and eligibility that followed the deletions",
+     "published": "2026-10-02T20:07:21+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/nmwold/article71538326.ece/alternates/LANDSCAPE_1200/BIHAR%20ELECTION%20SPECIAL%20INVESTIGATION%20REVISIONSIR%20%20to%20electoral%20roll%20%203.jpg",
+     "licence": "linkout",
+     "id": "7229c95fa629",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "47 lakh names were deleted",
+      "91 lakh in West Bengal"
+     ]
+    },
+    {
+     "title": "CPI(M) urges Tamil Nadu government to boycott High-Level Committee on Demographic Changes",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-tamil-nadu-government-to-boycott-high-level-committee-on-demographic-changes/article71537726.ece",
+     "summary": "",
+     "published": "2026-10-02T20:00:27+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "82d21d8c1a2c",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
      "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-     "published": "2026-10-02T19:36:25+00:00",
+     "published": "2026-10-02T20:25:19+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg",
@@ -253,7 +265,7 @@
      "id": "55bcc6863564",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business",
+     "from_section": "Global News",
      "figures": [
       "100 million barrels of oil"
      ]
@@ -287,38 +299,24 @@
      "from_section": "Business"
     },
     {
-     "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-     "url": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss",
-     "summary": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival.",
-     "published": "2026-10-02T09:28:32+00:00",
+     "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
+     "url": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Parton's niece Jada Star and Welsh singer Bronwen Lewis say the country artist was proud to sing in Welsh.",
+     "published": "2026-10-02T14:00:38+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4eb/live/28f7e520-be28-11f1-bc2e-018d645d8d21.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07c1/live/0f993500-be61-11f1-b36c-81ad410b221e.jpg",
      "licence": "linkout",
-     "id": "3556a18b67b9",
+     "id": "d77ea37ad102",
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
     },
     {
-     "title": "Three minors rescued from brick kilns in Konaseema",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-minors-rescued-from-brick-kilns-in-konaseema/article71537468.ece",
-     "summary": "",
-     "published": "2026-10-02T19:52:06+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "87303d88fe08",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "National News"
-    },
-    {
      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Make a Big Move in October (Hint: It’s Not Micron)",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFpwQng5aGE4VmZfd2o5NDhhRlNrT1lvaXFndWxzUEQ1YkZKXzZVckE3UzNrRXRPRjNTMXBwdkhjU2tueFFVQkRncHc0ZVJ1VFRiZmFmZnYtQjF6eUxEalJHTnR3dHREcnc2LWQwTkxDWjZfNERtY0RLOW0ySVI5dTYtZnhFT2F4UmctRXFiWXJ0dnJJMWNRTmgxMmQ3c09hR25sdkNDekF4VUdVckp2TEY3clpzYmNmYmZWdldoeGsyclBscHRzZHU3ZlpSSGtsVnMtVnMyRDA5WktXY1Z4WXAxOA?oc=5",
      "summary": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Make a Big Move in October (Hint: It’s Not Micron) The Motley Fool",
-     "published": "2026-10-02T19:32:20+00:00",
+     "published": "2026-10-02T19:58:00+00:00",
      "source": "The Motley Fool",
      "byline": "",
      "image": null,
@@ -345,9 +343,9 @@
     {
      "title": "Tokayev addresses AI & Digital Bridge 2026",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVVOb01aalZXay14NjRqVEtheDhNOHZqY1c0OGZnQmFvOHA3cDVyM0NmNmlTR2JrM3hKMHJIVkFiQTlaR0g1OG02cVZXYldHWGtka1MxRG96MlFSa2hEOWNlWFJSY05PazVXSk1LVFVnZXhWWnNHMlZZUHJ5ZWdwcE96Y1hLbWhEaVZGbmhSZFRFVmo2Vmw5Wkpvem9qbm9KY2ZuRUtVRkVNSURQYWdNSHhtVQ?oc=5",
-     "summary": "Tokayev addresses AI & Digital Bridge 2026 EU Reporter",
+     "summary": "Tokayev addresses AI & Digital Bridge 2026 eureporter.co",
      "published": "2026-10-02T09:29:24+00:00",
-     "source": "EU Reporter",
+     "source": "eureporter.co",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -355,6 +353,20 @@
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
+    },
+    {
+     "title": "Croatia vs England: UEFA Nations League – Kane, Modric, teams, form",
+     "url": "https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss",
+     "summary": "Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.",
+     "published": "2026-10-02T21:59:26+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Modric-Kane-1790930944_f02491-1790931154.png?resize=1200%2C630&quality=80",
+     "licence": "linkout",
+     "id": "6a0f0b5faaad",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Global News"
     },
     {
      "title": "England Pacer Brydon Carse In Fresh Trouble As Cricket Regulator Acts",
@@ -386,23 +398,6 @@
      "figures": [
       "406 with 8",
       "8.3 overs to spare"
-     ]
-    },
-    {
-     "title": "India's Schedule At Asian Games 2026, October 3: Pranavi Urs, India vs Pakistan Cricket And Hockey Finals In Focus",
-     "url": "https://sports.ndtv.com/othersports/indias-schedule-at-asian-games-2026-october-3-pranavi-urs-india-vs-pakistan-cricket-final-and-hockey-in-focus-12131368#publisher=newsstand",
-     "summary": "The nation has already secured 76 medals and will aim to add more to its tally and finish the Games on a high.",
-     "published": "2026-10-02T16:19:43+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/subupnso_pranavi-urs-getty_625x300_02_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "8c611d5c6ad5",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "76 medals and will aim"
      ]
     },
     {
@@ -450,7 +445,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-10-02T20:12:38.839709+00:00",
+     "published": "2026-10-02T23:52:31.774461+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -461,7 +456,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-10-02T20:12:38.839717+00:00",
+     "published": "2026-10-02T23:52:31.774472+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -472,7 +467,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-10-02T20:12:38.839721+00:00",
+     "published": "2026-10-02T23:52:31.774481+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -483,7 +478,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-10-02T20:12:38.839723+00:00",
+     "published": "2026-10-02T23:52:31.774486+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -494,7 +489,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-10-02T20:12:38.839725+00:00",
+     "published": "2026-10-02T23:52:31.774491+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -505,10 +500,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-10-02T20:12:38.839728+00:00",
+     "published": "2026-10-02T23:52:31.774495+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "Flydubai Incident Highlights: Israel Minister Calls For Naming Lounge At Main Airport After Smit Machchhar",
+     "url": "https://www.ndtv.com/world-news/flydubai-flight-fz1073-incident-live-updates-indian-pilot-smit-machchhar-omani-co-pilot-crash-attempt-tabuk-landing-dubai-uae-netanyahu-trump-iran-war-12128203#publisher=newsstand",
+     "summary": "Flydubai Flight FZ1073 Incident Highlights: The co-pilot, an Omani national, had stabbed Captain Smit Machchhar during a flydubai flight on Wednesday.",
+     "published": "2026-10-02T18:39:43+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/sglmqrng_flydubai_625x300_01_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "1ae287fb1feb",
+     "kind": "liveblog",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -561,56 +570,76 @@
    "upsc": false,
    "items": [
     {
-     "title": "CPI(M) urges Tamil Nadu government to boycott High-Level Committee on Demographic Changes",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-tamil-nadu-government-to-boycott-high-level-committee-on-demographic-changes/article71537726.ece",
-     "summary": "",
-     "published": "2026-10-02T20:00:27+00:00",
+     "title": "India standardises names of 28 places in Ladakh",
+     "url": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece",
+     "summary": "The list in Ladakh includes 11 peaks, five mountains, six land areas, two glaciers, two passes, one valley, one river, one lake and one other water body",
+     "published": "2026-10-02T21:26:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/h88671/article71538507.ece/alternates/LANDSCAPE_1200/20260925187L_VLkvjyJ.jpg",
      "licence": "linkout",
-     "id": "82d21d8c1a2c",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "6803e200462f",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "28 places in Ladakh",
+      "11 peaks , five mountains, six"
+     ]
     },
     {
-     "title": "Swadeshi products can strengthen self-reliance, says BJP",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/swadeshi-products-can-strengthen-self-reliance-says-bjp/article71536795.ece",
-     "summary": "Khadi Santa marks Gadhi Jayanti celebrations in Vijayawada",
-     "published": "2026-10-02T19:52:49+00:00",
+     "title": "Rules framed to standardise appointment of heads, members of various tribunals",
+     "url": "https://www.thehindu.com/news/national/rules-framed-to-standardise-appointment-of-heads-members-of-various-tribunals/article71538109.ece",
+     "summary": "According to the Union Law Ministry, the rules will enable the newly-created National Tribunals Commission appoint chairpersons and members to 16 tribunals and appellate bodies",
+     "published": "2026-10-02T20:31:34+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/texyek/article71538419.ece/alternates/LANDSCAPE_1200/vjkvg-bjp%203.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/m2ri3e/article71538502.ece/alternates/LANDSCAPE_1200/iStock-1483489085%204.jpg",
      "licence": "linkout",
-     "id": "46bf6e9230aa",
+     "id": "e29ea6d50228",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "16 tribunals and appellate bodies"
+     ]
+    },
+    {
+     "title": "NC legislator alleges bodyguard ‘attacked him’; police accuse him of ‘assault’",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/nc-legislator-alleges-bodyguard-attacked-him-police-accuse-him-of-assault/article71538086.ece",
+     "summary": "Conversely the policeman has accused Mr. Kaloo and another NC leader of “assault”. The J&K Police have reportedly filed an FIR against the legislator.",
+     "published": "2026-10-02T20:28:36+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lkctp0/article71538501.ece/alternates/LANDSCAPE_1200/12205_14_9_2024_17_43_10_1_14_NC_ELECTION_RALLY_SGR_14_09_2024.JPG",
+     "licence": "linkout",
+     "id": "fefa4b1cd795",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Foreign buyers impressed by experiential tourism avenues in Keralam",
+     "url": "https://www.thehindu.com/news/national/kerala/foreign-buyers-impressed-by-experiential-tourism-avenues-in-keralam/article71509052.ece",
+     "summary": "Buyers at the 13th edition of the Kerala Travel Mart highlight the State diverse culture, wellness offerings and potential as an experiential tourism destination",
+     "published": "2026-10-02T20:22:44+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/hhbs34/article71509968.ece/alternates/LANDSCAPE_1200/KTM%201.jpg",
+     "licence": "linkout",
+     "id": "6f98f6c35673",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "A.P. government to note media commission proposal: Minister Kondapalli Srinivas",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-government-to-note-media-commission-proposal-minister-kondapalli-srinivas/article71537245.ece",
-     "summary": "",
-     "published": "2026-10-02T19:52:30+00:00",
-     "source": "The Hindu",
+     "title": "'Will Strengthen Alliance With Samajwadi Party': New UP Congress Chief Aradhana Misra",
+     "url": "https://www.ndtv.com/india-news/will-strengthen-alliance-with-samajwadi-party-new-up-congress-chief-aradhana-mishra-12131812#publisher=newsstand",
+     "summary": "Aradhna Misra, the daughter of Congress MP Pramod Tiwari, will have the onerous task of advancing seat-sharing talks with Yadav's party for the upcoming assembly elections.",
+     "published": "2026-10-02T18:47:38+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://c.ndtvimg.com/2026-10/v0g30v08_up_625x300_03_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f0cea25a17b1",
+     "id": "beb614bc2149",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "Nellimarla former MLA likely to take announce his future political plan today",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellimarla-former-mla-likely-to-take-announce-his-future-political-plan-today/article71537613.ece",
-     "summary": "",
-     "published": "2026-10-02T19:51:05+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "ce777ae0e805",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Two Definitions Of Poverty In Jammu And Kashmir Fuel A Row Over Job Quotas",
@@ -668,103 +697,90 @@
    "upsc": false,
    "items": [
     {
-     "title": "Arab party leader withdraws from Israeli elections",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
-     "summary": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.",
-     "published": "2026-10-02T19:10:23+00:00",
+     "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+     "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+     "summary": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.",
+     "published": "2026-10-02T22:50:23+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790967266.jpg?resize=1620%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac0255b54b1-1790977371.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "44c4d6c71913",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
-     "summary": "US President Donald Trump says Europe agreed to release a ‘massive amount’ of diesel from emergency stockpiles.",
-     "published": "2026-10-02T19:01:45+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790967623.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "4af50e767b26",
+     "id": "22c620cd3960",
      "also": [
       {
        "source": "BBC News",
-       "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-       "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
+       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+       "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+       "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
       }
      ],
-     "category": "politics",
-     "category_label": "Political controversy"
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-     "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-     "summary": "Sudanese Armed Forces reportedly retake al-Mazroub, advancing the army's goal of cutting the RSF’s supply lines.",
-     "published": "2026-10-02T18:51:54+00:00",
+     "title": "Why Carney’s economic overhaul is clashing with Canada’s unions",
+     "url": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
+     "summary": "Unions say proposed changes to Canada's labour laws could weaken workers’ right to strike.",
+     "published": "2026-10-02T22:14:34+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP25199749467891-1790689918.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab5a69e4c6d-1790289566.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "5c73ed424c41",
-     "category": "conflict",
-     "category_label": "War & conflict"
+     "id": "e6625b79334a",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-     "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-     "summary": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
-     "published": "2026-10-02T18:18:42+00:00",
+     "title": "Croatia vs England: UEFA Nations League – Kane, Modric, teams, form",
+     "url": "https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss",
+     "summary": "Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.",
+     "published": "2026-10-02T21:59:26+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Residents-of-Ras-al-Ahmar-were-forced-to-transport-milk-at-night-on-donkeys-away-from-the-eyes-of-soldiers-and-settlers.-Photo-by-Moath-Ghannam.-1790960307.jpg?resize=1200%2C630",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Modric-Kane-1790930944_f02491-1790931154.png?resize=1200%2C630&quality=80",
      "licence": "linkout",
-     "id": "4a14d1039484",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "6a0f0b5faaad",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
-     "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-     "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-     "summary": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
-     "published": "2026-10-02T18:11:37+00:00",
+     "title": "Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss",
+     "summary": "Newly released bodycam footage shows police arresting and searching Luigi Mangione at a McDonald’s in Altoona in 2024.",
+     "published": "2026-10-02T21:59:11+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6abfed1f-1790962975.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790978334.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "b554a5020577",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "2903d7421b2f",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-     "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-     "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-     "published": "2026-10-02T09:08:06+00:00",
+     "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+     "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+     "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+     "published": "2026-10-02T20:32:07+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8316/live/441b8c40-be3b-11f1-a64c-550be9e3c66b.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg",
      "licence": "linkout",
-     "id": "ff7dcb8efe76",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "69e326080f67",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-     "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-     "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-     "published": "2026-10-02T15:30:12+00:00",
+     "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+     "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+     "published": "2026-10-02T17:44:08+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/a7710370-be62-11f1-b36c-81ad410b221e.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d36/live/09d5ba60-be7c-11f1-a64c-550be9e3c66b.jpg",
      "licence": "linkout",
-     "id": "6c33452b7380",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "90d653249898",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -820,19 +836,6 @@
      "id": "f75627dbaace",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-     "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-     "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-     "published": "2026-10-02T11:52:04+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/861f/live/112640e0-bda1-11f1-babe-4199b0e7ccea.jpg",
-     "licence": "linkout",
-     "id": "8bc663610baa",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -843,17 +846,50 @@
    "upsc": false,
    "items": [
     {
-     "title": "CPI(M) urges Tamil Nadu government to boycott High-Level Committee on Demographic Changes",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/cpim-urges-tamil-nadu-government-to-boycott-high-level-committee-on-demographic-changes/article71537726.ece",
-     "summary": "",
-     "published": "2026-10-02T20:00:27+00:00",
+     "title": "India standardises names of 28 places in Ladakh",
+     "url": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece",
+     "summary": "The list in Ladakh includes 11 peaks, five mountains, six land areas, two glaciers, two passes, one valley, one river, one lake and one other water body",
+     "published": "2026-10-02T21:26:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/h88671/article71538507.ece/alternates/LANDSCAPE_1200/20260925187L_VLkvjyJ.jpg",
      "licence": "linkout",
-     "id": "82d21d8c1a2c",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "6803e200462f",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "28 places in Ladakh",
+      "11 peaks , five mountains, six"
+     ]
+    },
+    {
+     "title": "Rules framed to standardise appointment of heads, members of various tribunals",
+     "url": "https://www.thehindu.com/news/national/rules-framed-to-standardise-appointment-of-heads-members-of-various-tribunals/article71538109.ece",
+     "summary": "According to the Union Law Ministry, the rules will enable the newly-created National Tribunals Commission appoint chairpersons and members to 16 tribunals and appellate bodies",
+     "published": "2026-10-02T20:31:34+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/m2ri3e/article71538502.ece/alternates/LANDSCAPE_1200/iStock-1483489085%204.jpg",
+     "licence": "linkout",
+     "id": "e29ea6d50228",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "16 tribunals and appellate bodies"
+     ]
+    },
+    {
+     "title": "NC legislator alleges bodyguard ‘attacked him’; police accuse him of ‘assault’",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/nc-legislator-alleges-bodyguard-attacked-him-police-accuse-him-of-assault/article71538086.ece",
+     "summary": "Conversely the policeman has accused Mr. Kaloo and another NC leader of “assault”. The J&K Police have reportedly filed an FIR against the legislator.",
+     "published": "2026-10-02T20:28:36+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/lkctp0/article71538501.ece/alternates/LANDSCAPE_1200/12205_14_9_2024_17_43_10_1_14_NC_ELECTION_RALLY_SGR_14_09_2024.JPG",
+     "licence": "linkout",
+     "id": "fefa4b1cd795",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "Swadeshi products can strengthen self-reliance, says BJP",
@@ -882,49 +918,10 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "CJP announces Jantar Mantar protest on October 10 if CEC Gyanesh Kumar does not resign",
-     "url": "https://www.thehindu.com/news/national/cjp-announces-jantar-mantar-protest-on-october-10-if-cec-gyanesh-kumar-does-not-resign/article71538481.ece",
-     "summary": "He added that it is up to the government and the Delhi Police whether they “respect our right to peaceful protest or repeat the brutality we witnessed on July 20”.",
-     "published": "2026-10-02T19:34:45+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/lb2fv3/article71538482.ece/alternates/LANDSCAPE_1200/India_Cockroach_Protests_85968.jpg",
-     "licence": "linkout",
-     "id": "d1bc10a724b9",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Aradhana Misra Mona appointed as new chief of Uttar Pradesh Congress",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/aradhana-misra-mona-appointed-as-new-chief-of-uttar-pradesh-congress/article71538200.ece",
-     "summary": "Imran Masood, Saharanpur MP, appointed Working President; the appointments, coming months before the Assembly polls, are seen as an attempt to forge a social coalition of Brahmin-Muslim-Dalit communities",
-     "published": "2026-10-02T19:30:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/71verj/article71538483.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-03%20005558.png",
-     "licence": "linkout",
-     "id": "9f1076b7495f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Senior IAF officer reviews fifth Gen fighter programme in Bengaluru",
-     "url": "https://www.thehindu.com/news/national/karnataka/senior-iaf-officer-reviews-fifth-gen-fighter-programme-in-bengaluru/article71534233.ece",
-     "summary": "",
-     "published": "2026-10-02T19:27:00+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "916c8c977c58",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "India news: Delhi protesters turn up heat on election chief, police tightens security",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5",
      "summary": "India news: Delhi protesters turn up heat on election chief, police tightens security DW.com",
-     "published": "2026-10-02T10:08:37+00:00",
+     "published": "2026-10-02T07:58:38+00:00",
      "source": "DW.com",
      "byline": "",
      "image": null,
@@ -934,17 +931,17 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "DT Next News Recap: What are the top headlines of today, October 2, 2026?",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkt3aVZNcU93a085SDROQ28xWnpPNEgteG55SnJLSUdCSENzNUhBX1hpMjlNVk5TX25TeTN3WThzTDFDaUFQVmc0V3B2MGxBUXpzNHNDejNtbURjOEZKSEMxS3BOb0dSaFdvak5EWkxBN21vRDU3RUxaUnJzTWkxUGc2VVBVMFFEQnktdFJ3R2dpbUhCdjZVRXZtRG9JVjTSAawBQVVfeXFMUHNGaTF2NkItNmVnaV9yNHNSNlljRGMxNHRnWDllWWhLbjJPcF82aXkwV1FRbEZVdnBRUVFENnFlTE85N3Q5Zks2bEQzb2RRUDgwaWc3Q3gtbHREX1ZvdnpjRWFlb2tNX05IckhNY3JOWjFTdXJmQ3g2aWJqZ2RpTnkyZk1VTm5hSW5TbG1oTWU3MURYMExzXzlrcnNwVTIzTzZiUkJyakVhRXFaZg?oc=5",
-     "summary": "DT Next News Recap: What are the top headlines of today, October 2, 2026? DT Next",
-     "published": "2026-10-02T14:21:57+00:00",
-     "source": "DT Next",
+     "title": "School assembly news headlines for October 3, 2026: Top National, International, Business and Sports Updates",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOV1NDcWdjVk51Mm1XR25Qc2U0Z05BMHpMSE5ZaVlBYzdYRWpMaUtDRHJiVTFKYlNiZHZ3OEU2bVlfNXNrTlRJLW1GZ3dhTHpTTnJ4WjJoeXZHd0RPMmc4alZMbV9aZ2pSSVhhSzdwa3R3NndlNkQzbnpZZkh5WF9neGdUT29nX3VUWXZ3OFU3c2RKQ1dVMVVVOGlpcjVhNE44WkV6UTJoYTNGWjVtZ1RETXZLTzFuOTZ2eG9fY1JVTFMtT19rdEkyc2hUWlNBS0ZzY1RraDc5Q0pEYzAtVGNtMW5pR2N3UHpnZ2RXV2ZySXV2a0NzS25tVldR?oc=5",
+     "summary": "School assembly news headlines for October 3, 2026: Top National, International, Business and Sports Updates Education Times",
+     "published": "2026-10-02T15:00:00+00:00",
+     "source": "Education Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "fda3ed38a4c2",
-     "category": "general",
-     "category_label": "General"
+     "id": "118c6bd0640e",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -1215,242 +1212,6 @@
       "1 Labor Day",
       "4.0 This post is part"
      ]
-    },
-    {
-     "title": "The sound of resistance",
-     "url": "https://globalvoices.org/2026/10/01/the-sound-of-resistance/",
-     "summary": "As part of Global Voices’ September Spotlight, “Protest in Democracy,” members of our community will be sharing examples of protest music past and present from their communities in this collaborative article.",
-     "published": "2026-10-01T20:45:32+00:00",
-     "source": "Global Voices",
-     "byline": "Sydney Allen",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/09/Untitled-Design-30-800x450.webp",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "A collaborative piece about different forms of protest music across time and geography"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "Image courtesy of Sydney Allen. Made via Canva Pro."
-      },
-      {
-       "kind": "p",
-       "text": "This post is part of Global Voices’ September 2026 Spotlight series, “Protest in Democracy.” With this Spotlight, we seek to explore the many forms of protest, the tactics states use to delegitimize and suppress them, and the complex relationship between protest and democracy. You can support this coverage by donating here."
-      },
-      {
-       "kind": "p",
-       "text": "For nearly as long as there have been governments and a ruling class, there has been music aimed at mocking them, demanding change, and airing grievances. Music can be a powerful form of resistance — particularly in anti-democratic contexts where direct action can be risky. Music offers people a way to subvert those in power, connect with others on an emotional level, and a catchy, memorable tune can spread faster than any political speech or slogan."
-      },
-      {
-       "kind": "p",
-       "text": "While most people consider protest music a relatively modern phenomenon — songs against racial injustice and violence throughout the 20th century, anti-war anthems of the 1960s, independence ballads — these are only the latest examples in a long history of humans using music to voice their discontent."
-      },
-      {
-       "kind": "p",
-       "text": "As early as the 1st century BC, Roman texts reference “bards,” as esteemed members of Gaulish society. These figures were respected, learned musicians who used verse, music, and satire to share stories as well as songs of praise and mockery. They had immense power to sway public opinion — even for or against the ruling monarchs and chieftains — which caused fear among those in power and, after an intense persecution campaign, nearly caused them to be wiped out altogether by the 6th century AD. However, the tradition persisted and continued to be an important form of resistance during colonial times in later centuries."
-      },
-      {
-       "kind": "p",
-       "text": "Anti-slavery hymns, shared orally by enslaved peoples, are another form of musical resistance that dates far beyond the modern musical era. Though these songs and genres were highly varied throughout the diaspora — Kaiso in Trinidad and the Caribbean, Spirituals in the Southern United States, Capoeira in Brazil, to name a few — all had elements of coded messaging, cultural preservation, and criticizing slave owners while promoting hope for freedom."
-      },
-      {
-       "kind": "p",
-       "text": "As one researcher, Professor Alan Finlayson, who has been investigating protest songs throughout history, said in an interview with the University of East Anglia:"
-      },
-      {
-       "kind": "p",
-       "text": "“One thing we found across the centuries was people complaining about those in charge: monarchs, military commanders and MPs. For over 400 years people have been singing about their rulers’ self-indulgence, laziness and lack of concern for ‘ordinary’ people.”"
-      },
-      {
-       "kind": "p",
-       "text": "This trend — people using song to critique those in power — is just as, if not more powerful today, as social media and streaming platforms allow protest music to reach new audiences all over the world. As part of Global Voices’ September Spotlight, “Protest in Democracy,” members of our community will be sharing examples of protest music past and present from their communities in this collaborative article."
-      },
-      {
-       "kind": "h",
-       "text": "Improviser poets in Kyrgyzstan speak out on behalf of the people"
-      },
-      {
-       "kind": "p",
-       "text": "In a similar vein of the bards of Ireland, in September 2026, Kyrgyzstan’s online space became filled with discussions of censorship by the government, after one of the most famous and prolific tokmo akyns, a specific type of Kyrgyz improvisational poet, Aaly Tutkuchev, claimed that he had been removed from a concert celebrating the country’s independence day in the northwestern city of Talas."
-      },
-      {
-       "kind": "p",
-       "text": "He explained that he was initially invited by local officials and agreed to perform at the festivities, but was told that his name was removed from the list of artists after interference by the central authorities at the last moment. The governor of Talas later explained that Tutkuchev was removed from the program because of a new conceptual direction for the concert that did not involve tokmo akyns, not because of censorship."
-      },
-      {
-       "kind": "p",
-       "text": "Following the public outrage and support, Tutkuchev thanked people and shared that he has “grown used to being crossed out [by the government],” and that he only prays that God does not cross him “out of people’s hearts.”"
-      },
-      {
-       "kind": "p",
-       "text": "In Kyrgyzstan, where people have lived as nomads for thousands of years and oral literature has been a central part of culture, tokmo akyns like Tutkuchev hold a special place in the nation’s social and political life, making them close to ordinary people. They also step up in times of crisis and grief, producing songs that unite people and help them get through difficult days."
-      },
-      {
-       "kind": "p",
-       "text": "A perfect example of this is a farewell song called “Chyngyz olbos bolsochu” (If Chyngyz could be immortal), performed in 2008 by Elmirbek Imanaliyev at the funeral of the most famous Kyrgyz writer, Chyngyz Aitmatov, which helped people deal with the loss of arguably the most accomplished and beloved Kyrgyz writer."
-      },
-      {
-       "kind": "p",
-       "text": "For centuries, tokmo akyns have both entertained folks with their songs, which they make up on the go, and acted as their spokespersons in front of rulers and governments, raising problems and condemning injustice."
-      },
-      {
-       "kind": "p",
-       "text": "Tutkuchev himself did so on two occasions in the last six years, which led to the most recent incident. In 2020, whilst performing in the capital, Bishkek, in front of the former president on Independence Day, Tutkuchev went off script and sang about endemic corruption in courts, customs service, and high-level officials, prompting organizers to repeatedly signal to him to end his performance."
-      },
-      {
-       "kind": "p",
-       "text": "Here is a YouTube video with the song."
-      },
-      {
-       "kind": "p",
-       "text": "In 2022, after the government started jailing activists for their posts on social media, Tutkuchev performed a song about how the government has become paranoid and started detaining young people and elderly women, making the situation worse and undermining peace and unity in the country. The arrested people spoke against handing over the Kempir-Abad water reservoir as part of the border delimitation agreement with Uzbekistan."
-      },
-      {
-       "kind": "p",
-       "text": "Here is a YouTube video with the song."
-      },
-      {
-       "kind": "p",
-       "text": "Tutkuchev’s stature and popularity most likely saved him from detention, but some of his lesser-known colleagues did not fare so well under Kyrgyzstan’s current political regime, which came to power in 2020 and steered the country toward authoritarianism. Among them is Bolot Nazarov, a tokmo akyn who worked with a team of investigative journalists and turned their corruption-investigation findings into songs in Kyrgyz."
-      },
-      {
-       "kind": "p",
-       "text": "Here is a YouTube video with Nazarov’s song addressed to Tashiyev."
-      },
-      {
-       "kind": "p",
-       "text": "Nazarov was detained in 2022 and 2023 on fabricated charges, which claimed he distributed drugs and stole a horse. He was eventually acquitted but had to spend several months in temporary detention. The arrests took place against the backdrop of the investigations Nazarov covered in his songs about corruption schemes involving the family members of the former security chief Kamchybek Tashiyev, who was in office at the time."
-      },
-      {
-       "kind": "p",
-       "text": "This literary form of protest allows tokmo akyns to serve as a bridge between the government and the people, channeling public sentiment in an artistic, non-violent way. Their popularity among people and their status as living symbols of national culture can provide a degree of immunity from persecution and make government officials more receptive to criticism that might otherwise be easily dismissed."
-      },
-      {
-       "kind": "h",
-       "text": "Songs of protest down under"
-      },
-      {
-       "kind": "p",
-       "text": "Australia has a long history of songs of protest and resistance going back to early colonial convict days."
-      },
-      {
-       "kind": "p",
-       "text": "Amnesty International Australia has posted 10 songs of social change with brief summaries, including YouTube versions. They include Indigenous classics such as Yothu Yindi’s “Treaty,” Paul Kelly/Kev Carmody’s “From Little Things Big Things Grow,” and Midnight Oil’s “Beds Are Burning.”"
-      },
-      {
-       "kind": "p",
-       "text": "Helen Reddy’s 1971 feminist anthem “I Am Woman” is also one of their picks. Others not on the list include anti-war ballads Eric Bogle’s World War One ballad “The Band Played Waltzing Matilda” and Red Gum’s Vietnam song “I Was Only 19.” Many Aussies would also add Cold Chisel’s “The Sanh” to that list, a pro-peace anthem about an Australian veteran returning home after fighting in Vietnam."
-      },
-      {
-       "kind": "h",
-       "text": "The revolutionary song of Nepal"
-      },
-      {
-       "kind": "p",
-       "text": "“Gaun Gaun Bat Utha,” meaning rise from every village, is a song of protest that used to be performed at democratic campaigns during the party-less Panchayat regime in Nepal (1961–1990)."
-      },
-      {
-       "kind": "p",
-       "text": "Composed by Shyam Tamot and sung by the duo of Raamesh and Raayan, the song served as an anthem during student protests."
-      },
-      {
-       "kind": "p",
-       "text": "The group of four youngsters, including Raamesh, Raayan, Manjul, and Arim, called Ralfa, toured Nepal singing “Gaun Gaun Bat Utha” and “Gariba ko Chameli,” protesting against the Panchayat regime. The songs talked about social inequalities and injustice."
-      },
-      {
-       "kind": "h",
-       "text": "Rapper in Togo triggered a nationwide movement"
-      },
-      {
-       "kind": "p",
-       "text": "In Togo, rapper Aamron (Tchala Essowè Narcisse) became one of the faces of the 2025 protest movement. Active on social media, particularly TikTok, he had been sharply critical of Togo President Faure Gnassingbé's government."
-      },
-      {
-       "kind": "p",
-       "text": "On May 26, he called, ironically, for people to “celebrate” the president’s birthday on June 6. He was arrested at his home in Lomé that same day. On June 5, he reappeared in a video apologizing to the president and saying he had been placed in a psychiatric hospital, a version rejected by his family and the opposition."
-      },
-      {
-       "kind": "p",
-       "text": "His arrest was one of the triggers of the 2025 protests of June 5–6, which were met with repression, violence, and further demonstrations on June 26–28, which left at least seven people dead according to civil society groups."
-      },
-      {
-       "kind": "p",
-       "text": "Aamron was released on June 21, but arrested again on September 19 and placed under judicial supervision, with his passport confiscated. Beyond Aamron’s individual case, his arrest illustrates the traditional role of rap music and performance as a form of resistance in a semi-authoritarian context."
-      },
-      {
-       "kind": "h",
-       "text": "Misha shares his story and songs"
-      },
-      {
-       "kind": "p",
-       "text": "As part of Global Voices video podcasts, we recorded an interview with Russian activist Misha, who is currently seeking asylum in Spain. Misha, a trans person, poet, and musician, has recorded a number of protest songs, as well as an album titled Everybody is Free. He explains that the music is helping him work through the trauma he has experienced as a queer Russian peace activist."
-      },
-      {
-       "kind": "p",
-       "text": "One of his songs, “Fuck the war,” is a tribute to what never was: the Tatu girl band, who were instructed by their producer to “act queer” on stage, and who for a while became a symbol of hope for the Russian (and, at that time, even global) LGBTQ+ community. Since Russia began its full-scale invasion of Ukraine in February 2022, Tatu has done a complete 180 politically. They have gone from a pro-LGBTQ+ symbol to a homophobic group supporting Putin’s regime and the war with Ukraine."
-      },
-      {
-       "kind": "p",
-       "text": "Below is the link to the single “Fuck the war”:"
-      },
-      {
-       "kind": "p",
-       "text": "In a way, their switch illustrates the path Russia has taken since the early 2000s (embracing all “western” culture deemed “cool” or trendy, including queerness) to denying and repressing all dissent and proclaiming themselves as beacons of “traditional” Russian values, which exclude and reject LGBTQ+ people."
-      },
-      {
-       "kind": "p",
-       "text": "And here is the link to the full interview:"
-      },
-      {
-       "kind": "h",
-       "text": "From black sarees to silent studios: The story of protest music in Pakistan"
-      },
-      {
-       "kind": "p",
-       "text": "Protest music in Pakistan has never respected who’s in charge."
-      },
-      {
-       "kind": "p",
-       "text": "If we look at the history of Pakistani pop culture, General Ayub Khan’s government gave Pakistan an early lesson in what happens when an artist says no. In 1965, the actress and dancer Neelo was summoned by the Governor of West Pakistan to perform before the visiting Shah of Iran. She refused, was forcibly brought to the Governor’s House, and, accounts differ on the details, collapsed or attempted suicide rather than comply."
-      },
-      {
-       "kind": "p",
-       "text": "The leftist poet Habib Jalib turned the episode into verse almost immediately, and the line raqs zanjeer pehen kar bhi kiya jata hai (“dance can be performed even in chains”) became a shorthand slogan for protesting. When Neelo’s husband, filmmaker Riaz Shahid, cast her in the 1969 film Zarqa, Jalib’s poem was set to music and folded into the script almost unchanged, turning a private act of refusal into a song every Pakistani of a certain generation can still hum. Find the full song “Raqs zanjeer pehn kr b kiya jata h” below."
-      },
-      {
-       "kind": "p",
-       "text": "Two decades on, under a far harsher dictator, came Pakistan’s most iconic act of musical defiance. On February 13, 1986, classical singer Iqbal Bano walked onto a Lahore stage in a black saree banned by General Zia-ul-Haq as un-Islamic — and sang Faiz Ahmed Faiz’s outlawed poem “Hum Dekhenge” to 50,000 people. The government cut the sound system; bootleg cassettes carried it forward anyway."
-      },
-      {
-       "kind": "p",
-       "text": "Repression didn't end with military rule, though. In 1996, under an elected government, state television banned Junoon’s “Ehtesaab,” widely read as an attack on Benazir Bhutto’s administration."
-      },
-      {
-       "kind": "p",
-       "text": "During the 2007–2009 Lawyers’ Movement, the band Laal set Faiz and Jalib’s poetry to music and became the movement's soundtrack. This was an introduction to the legendary poets for many young people."
-      },
-      {
-       "kind": "p",
-       "text": "By 2011, protest music had moved to YouTube: Beygairat Brigade’s “Aalu Anday” mocked politicians and generals by name and went viral, prompting the state to block the sites hosting it."
-      },
-      {
-       "kind": "p",
-       "text": "There's a second, quieter danger worth naming: Musicians silenced by militants rather than governments. In Khyber Pakhtunkhwa, as the Taliban gained ground through the 2000s, at least thirteen Pashto artists were murdered between 2008 and 2017. In 2016, celebrated Sufi qawwal Amjad Sabri was shot dead in Karachi; a Pakistani Taliban faction claimed responsibility, citing alleged blasphemy."
-      },
-      {
-       "kind": "p",
-       "text": "Today, new political protest music is rarer, not for lack of grievances but because the list of actors capable of punishing a song has grown, and the cost of being heard has risen with it."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "ff26ed8296a2",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -1461,53 +1222,53 @@
    "upsc": false,
    "items": [
     {
-     "title": "Israel-bound flight diverted after fight between pilots",
-     "url": "http://www.bbc.co.uk/programmes/p0pd6wf5",
-     "summary": "An Israel-bound flight with about 170 people on board has landed safely in Saudi Arabia after a fight broke out between pilots, triggering a hijacking alert. Two Israeli officials said the co-pilot is believed to have stabbed the captain and tried to crash the plane. Officials from Tabuk airport, where the Flydubai flight landed, say they are being treated in hospital. Also; Russia has carried out another massive overnight attack on Ukraine's Kyiv region, hitting energy infrastructure and residential buildings. President Zelensky says seven people have been killed and 24 injured across Ukraine in the latest drone and missile strikes. Africa's richest man has launched the construction of a giant oil refinery on Kenya's coast, describing it as a new chapter in the continent's industrial journey, and we find out the winner of the 2026 Fat Bear Week in Katmai National Park in Alaska, a contest in which 16 bears took part with two million votes cast from 100 countries around the world. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent…",
-     "published": "2026-09-30T14:57:00+00:00",
+     "title": "Hero pilot tells his story from hospital bed",
+     "url": "http://www.bbc.co.uk/programmes/p0pdpprq",
+     "summary": "An Indian pilot, Smit Machchhar, says he fought to open the cockpit door of the stricken Flydubai airliner because he was determined to save the lives of his passengers and crew. Also: Washington urges European countries to start using their diesel reserves. We look at the student demonstrations against school conditions in France, where there have been more violent clashes. Kenya is at a crossroads, as its young people challenge the political elites who've governed the country for decades. The English football club, Manchester City, files an appeal against an independent commission's ruling that found it guilty of serious breaches of the Premier League's financial rules. London's Kew Gardens prepares to undergo a major refurbishment. Starbucks opens two branches in the Chinese region of Xinjiang - but the move is criticised by US congressman, John Moolenaar; and the attempt to free a large shark trapped in a canal in the South Korean city of Busan is halted. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories.…",
+     "published": "2026-10-02T15:12:00+00:00",
      "source": "BBC Global News Podcast",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pd6wn6.jpg",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pdpps7.jpg",
      "licence": "linkout",
      "kind": "podcast",
      "show": "BBC Global News Podcast",
      "show_url": "https://www.bbc.co.uk/programmes/p02nq0gn",
-     "id": "1a18ba255be2"
+     "id": "e0c82bddbc17"
     },
     {
-     "title": "Cheques and the City: Premier League disgrace",
-     "url": "https://shows.acast.com/theintelligencepodcast/episodes/cheques-and-the-city-premier-league-disgrace",
-     "summary": "An independent commission has found Manchester City guilty of breaching over 100 rules. What penalty will the Premier League exact? Russia’s increasingly brazen attempts to provoke and undermine Europe. And why cute Chiikawa , star of a Japanese blockbuster, gives comfort in anxious times. Subscribers can listen to “ Kidulting ” on “The Weekend Intelligence” Guests and host: Sonny Loughran, Britain correspondent Jonathan Rosenthal, international correspondent Moeka Iida, East Asia reporter Rosie Blau, co-host of “The Intelligence” Jason Palmer, co-host of “The Intelligence” Topics covered: Man City, Abu Dhabi, Premier League Russia, Europe, grey-zone, drone Chiikawa, kawaii, manga Listen to what matters most, from global politics and business to science and technology— subscribe to The Economist . Hosted on Acast. See acast.com/privacy for more information.",
-     "published": "2026-09-30T09:47:23+00:00",
+     "title": "Coffer stop: AI may shrink tax base",
+     "url": "https://shows.acast.com/theintelligencepodcast/episodes/coffer-stop-ai-may-shrink-tax-base",
+     "summary": "If Artificial Intelligence results in job losses or lower salaries, government revenues will fall. Our correspondent explains how best to tax the windfalls from AI. Paint is a surprisingly cheap way to cool buildings. And remembering the life of Stanislas Hutin , who revealed France’s barbarity in Algeria. Watch extended clips from Insider here Guests and host: Callum Williams, senior economics writer Nikita Ostrovsky, science writer Ann Wroe, obituaries editor Rosie Blau, co-host of “The Intelligence” Topics covered: AI, tax, wealth tax, consumption tax Climate change, paint, adaptation Stanislas Hutin, Algeria, France, war crimes Listen to what matters most, from global politics and business to science and technology— subscribe to The Economist . Hosted on Acast. See acast.com/privacy for more information.",
+     "published": "2026-10-02T10:05:49+00:00",
      "source": "The Intelligence",
      "byline": "",
-     "image": "https://open-images.acast.com/shows/62e286a934d4d93d6587424a/1790760183531-0572cb7c-e552-4cea-8be8-408ac807f1a2.jpeg?height=315",
+     "image": "https://open-images.acast.com/shows/62e286a934d4d93d6587424a/1790935280126-f295acdf-27d2-42b6-bea4-6b384132a317.jpeg?height=315",
      "licence": "linkout",
      "kind": "podcast",
      "show": "The Intelligence",
      "show_url": "https://shows.acast.com/theintelligencepodcast",
-     "id": "b092bb53cdb8"
+     "id": "45ecab1f9dca"
     },
     {
-     "title": "AI bosses sign self-regulation accord",
-     "url": "http://www.bbc.co.uk/programmes/p0pd3pkd",
-     "summary": "After talks with AI industry executives at the White House, President Trump says they've signed a deal to police themselves which is \"morally binding\". Meanwhile, he has ruled out a joint venture with China on Artificial Intelligence, saying it would amount to \"giving away secrets\" to Ameria's main economic rival. Also: South Africa's president Cyril Ramaphosa addresses the nation amid growing alarm about violence against women. The English Premier League confirms Manchester City have been found guilty of serious breaches of its financial rules. A man who spent 41 years on death row in the US for murder is released on bail after newly analysed DNA evidence did not link him to the crime. The UK's Prime Minister Andy Burnham sets out an ambitious agenda in a major speech to his party. A rare painting of Rome by the renowned artist William Turner returns to the eternal city. And a week-long dance-a-thon in Nigeria. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get…",
-     "published": "2026-09-30T04:53:00+00:00",
+     "title": "France rocked by student protests",
+     "url": "http://www.bbc.co.uk/programmes/p0pdkxtf",
+     "summary": "French students set fire to bins and erected blockades outside schools, as they protest against overcrowded classrooms, teacher shortages and crumbling facilities. Hundreds of people have been arrested and dozens injured. Fires have broken out at some schools that are being blockaded. President Macron said concerns over funding and studying conditions were legitimate but do not justify violence. Also, from the US: the family of Renee Good, who was killed by an ICE agent in Minneapolis, is suing the Trump administration. The Tennessee prisoner who survived a botched execution, Christa Pike, is critically ill in hospital. New York's Attorney General Letitia James is appointed to investigate the alleged Cornell University gang rape. British scientists launch a clinical trial for a vaccine to protect against lung cancer. And Cristiano Ronaldo walks away from the Portugal football team. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch…",
+     "published": "2026-10-02T04:48:00+00:00",
      "source": "BBC Global News Podcast",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pd3plk.jpg",
+     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pdkxxn.jpg",
      "licence": "linkout",
      "kind": "podcast",
      "show": "BBC Global News Podcast",
      "show_url": "https://www.bbc.co.uk/programmes/p02nq0gn",
-     "id": "2c88a072518f"
+     "id": "497a93d0feef"
     },
     {
      "title": "In Our Time",
      "url": "https://www.bbc.co.uk/programmes/b006qykl",
      "summary": "BBC — history and ideas",
      "source": "In Our Time",
-     "published": "2026-09-30T22:25:22.565981+00:00",
+     "published": "2026-10-02T23:52:22.979232+00:00",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p7k696.jpg",
      "licence": "linkout",
@@ -1521,7 +1282,7 @@
      "url": "https://www.aljazeera.com/podcasts/",
      "summary": "The Take and others",
      "source": "Al Jazeera Podcasts",
-     "published": "2026-09-30T22:25:24.238608+00:00",
+     "published": "2026-10-02T23:52:25.586492+00:00",
      "byline": "",
      "image": "https://www.omnycontent.com/d/programs/9c074afa-3313-47e8-b802-a9f900789975/162e23ca-cdc2-49a0-b237-b47700b53a7c/image.jpg?t=1784721640&size=Small",
      "licence": "linkout",
@@ -1531,11 +1292,25 @@
      "id": "b0053dbfdcdc"
     },
     {
+     "title": "Today in Focus",
+     "url": "https://www.theguardian.com/news/series/todayinfocus",
+     "summary": "The Guardian, daily",
+     "source": "Today in Focus",
+     "published": "2026-10-02T23:52:23.164238+00:00",
+     "byline": "",
+     "image": "https://i.guim.co.uk/img/media/540f78a4cd0cff46f41d1fc5f54e03ba15672c84/1103_0_6552_5241/master/6552.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+     "licence": "linkout",
+     "kind": "show",
+     "show": "Today in Focus",
+     "show_url": "https://www.theguardian.com/news/series/todayinfocus",
+     "id": "c74f33068397"
+    },
+    {
      "title": "ANI Podcast with Smita Prakash",
      "url": "https://www.youtube.com/@ANIPodcastwithSmitaPrakash",
      "summary": "Long-form interviews — politics, policy, foreign affairs",
      "source": "ANI Podcast with Smita Prakash",
-     "published": "2026-09-30T22:25:21.893598+00:00",
+     "published": "2026-10-02T23:52:22.721468+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1549,7 +1324,7 @@
      "url": "https://www.youtube.com/@CarvakaPodcast",
      "summary": "Kushal Mehra — philosophy, Indic thought, debate",
      "source": "The Cārvāka Podcast",
-     "published": "2026-09-30T22:25:21.893855+00:00",
+     "published": "2026-10-02T23:52:22.721733+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1563,7 +1338,7 @@
      "url": "https://www.youtube.com/results?search_query=The+Bigger+Picture+Podcast",
      "summary": "Set the exact channel URL in PODCAST_SOURCES",
      "source": "The Bigger Picture Podcast",
-     "published": "2026-09-30T22:25:21.893874+00:00",
+     "published": "2026-10-02T23:52:22.721752+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1577,7 +1352,7 @@
      "url": "https://www.youtube.com/@AjeetBharti",
      "summary": "Commentary and long-form discussion",
      "source": "Ajeet Bharti",
-     "published": "2026-09-30T22:25:21.894973+00:00",
+     "published": "2026-10-02T23:52:22.721899+00:00",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1585,20 +1360,6 @@
      "show": "Ajeet Bharti",
      "show_url": "https://www.youtube.com/@AjeetBharti",
      "id": "accc0ef3373c"
-    },
-    {
-     "title": "PBD Podcast",
-     "url": "https://www.youtube.com/@PBDPodcast",
-     "summary": "Valuetainment — business and current affairs",
-     "source": "PBD Podcast",
-     "published": "2026-09-30T22:25:21.894991+00:00",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "kind": "show",
-     "show": "PBD Podcast",
-     "show_url": "https://www.youtube.com/@PBDPodcast",
-     "id": "39db7ac74cb5"
     }
    ]
   },
@@ -1612,7 +1373,7 @@
      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
      "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-     "published": "2026-10-02T19:36:25+00:00",
+     "published": "2026-10-02T20:25:19+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg",
@@ -1654,33 +1415,33 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-     "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-     "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-     "published": "2026-10-01T23:00:06+00:00",
+     "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
+     "summary": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
+     "published": "2026-10-02T10:47:07+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/166e/live/9297b320-bcd4-11f1-9f83-d9975ff80416.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d82/live/328104a0-bd9c-11f1-a64c-550be9e3c66b.jpg",
      "licence": "linkout",
-     "id": "4fbd3a8c9f46",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "£10 k but I need"
-     ]
+     "id": "b911c3591e79",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-     "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-     "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-     "published": "2026-10-01T23:32:59+00:00",
+     "title": "Why UK diesel prices have breached the £2 per litre mark",
+     "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+     "summary": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
+     "published": "2026-10-02T13:38:22+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca3a/live/a79a57d0-be2a-11f1-bc2e-018d645d8d21.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
      "licence": "linkout",
-     "id": "b1bbfe46d167",
-     "category": "general",
-     "category_label": "General"
+     "id": "99e72daa6921",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "£2  per litre mark"
+     ]
     },
     {
      "title": "Equity mutual funds: September 2026 returns—how did large, mid, small and flexi-cap fare over 3, 5 and 10 years?",
@@ -1746,19 +1507,6 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-     "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-     "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-     "published": "2026-10-01T23:45:06+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
-     "licence": "linkout",
-     "id": "57d5fed87067",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Funding Plan for Artificial Intelligence-based Technology Innovation Projects (Vietnam)",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNk14SXNTU3RIWV9TS2NmclJxSXhXdS1TSnpiRlRMTE5TaXhFV3ZRdUNyN091czREM29yanhZczFsUXVLMERTUm05UmxwUmdvUjIwQVo0bk1nb0hBcmRRQnpUWXRtelRVZ0ZjaG5rb0doSnlzUmFaLWxGXzVLUDZPWG81LTN2VHdHcDMxVmMzM2ZFM0F5WVNwM2JSUGdyTkFQN29qcC11VWdhUzBuSy1ESGVpWmNPNEt3RS0zREFia0IxRmVCdEHSAcsBQVVfeXFMT1RzUnRyOHRhenBOV1BWSUZ1WTdCWUhBTWxNc3JKc1BHQmJINWgwLWUzYWVkS0dubHhRMkQ4UEJ5Q19vbFdVR3FraUZNN1JOUGlCM0dlZ2xPamw4WFktOG1RYXZOdVViOFhnR3MxY1hTeHhfUklUTnM4a2lyaG1qWjN5UWJITkpqbUxKNHBfZl91MnpKY2d0MTJKTW9SbUE2UWxSOUYwaGE3cHN1NVI5eHBBeGpNZExxWDMydzhYaTV1c01Vd2l5Q2FWUVU?oc=5",
      "summary": "Funding Plan for Artificial Intelligence-based Technology Innovation Projects (Vietnam) fundsforNGOs",
@@ -1774,9 +1522,9 @@
     {
      "title": "Sovereign AI Becomes Russia’s New Technology Priority- Spherical Insights Analysis",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGxlN3ZxMS1HcjRJUjlhWngyRk5KX09OWFlHbVVkVENZTkV1ZDJFTERJRTAtZjE3THBrTzd1YWpyMHRra2NEcHlnZUxlWDhjdDF0M01qcXlMSU5BeVBzRFFLWE9USUllRzVSZldPMTBWZHRaV0RBMjczMERkTFQ5QmlRTE9aSmdXQmV0U0pSY3piOUJPWktiNQ?oc=5",
-     "summary": "Sovereign AI Becomes Russia’s New Technology Priority- Spherical Insights Analysis Spherical Insights",
+     "summary": "Sovereign AI Becomes Russia’s New Technology Priority- Spherical Insights Analysis sphericalinsights.com",
      "published": "2026-10-02T07:45:34+00:00",
-     "source": "Spherical Insights",
+     "source": "sphericalinsights.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
@@ -1845,6 +1593,22 @@
      "category_label": "Political controversy"
     },
     {
+     "title": "India's Schedule At Asian Games 2026, October 3: Pranavi Urs, India vs Pakistan Cricket And Hockey Finals In Focus",
+     "url": "https://sports.ndtv.com/othersports/indias-schedule-at-asian-games-2026-october-3-pranavi-urs-india-vs-pakistan-cricket-final-and-hockey-in-focus-12131368#publisher=newsstand",
+     "summary": "The nation has already secured 76 medals and will aim to add more to its tally and finish the Games on a high.",
+     "published": "2026-10-02T16:19:43+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/subupnso_pranavi-urs-getty_625x300_02_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8c611d5c6ad5",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "76 medals and will aim"
+     ]
+    },
+    {
      "title": "'Not Something You Want To Hear Before A Series': West Indies Coach Daren Sammy On Player Pay Cuts",
      "url": "https://sports.ndtv.com/cricket/not-something-you-want-to-hear-before-a-series-west-indies-coach-daren-sammy-on-player-pay-cuts-12130544#publisher=newsstand",
      "summary": "West Indies head coach Daren Sammy said the news of players having to take a pay cut was \"not what you want to hear before a series\" but acknowledged that Cricket West Indies (CWI) has to find ways to stay afloat financially.",
@@ -1866,6 +1630,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+     "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+     "summary": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+     "published": "2026-10-02T23:31:37+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da4/live/555d3890-bea5-11f1-babe-4199b0e7ccea.jpg",
+     "licence": "linkout",
+     "id": "4d313342af2a",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
      "title": "Alison Hammond has heart check-up in hospital after rushing off This Morning while on air",
      "url": "https://www.bbc.co.uk/news/articles/c60rlwgx9n9go?at_medium=RSS&at_campaign=rss",
      "summary": "The host says she is \"fine\" but getting checked after leaving midway through Friday's This Morning.",
@@ -1877,19 +1654,6 @@
      "id": "99271a6341fb",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
-     "url": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss",
-     "summary": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival.",
-     "published": "2026-10-02T09:28:32+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4eb/live/28f7e520-be28-11f1-bc2e-018d645d8d21.jpg",
-     "licence": "linkout",
-     "id": "3556a18b67b9",
-     "category": "celebrity",
-     "category_label": "Celebrity"
     },
     {
      "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
@@ -1932,19 +1696,6 @@
      "figures": [
       "30 minutes"
      ]
-    },
-    {
-     "title": "Bill Nighy wins best host at British Podcast Awards",
-     "url": "https://www.bbc.co.uk/news/articles/cvrl6l0klw1go?at_medium=RSS&at_campaign=rss",
-     "summary": "The actor has become an agony uncle in what award organisers called an \"irresistibly endearing series\".",
-     "published": "2026-10-01T21:30:29+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dab/live/98d9de50-bda3-11f1-8373-27235719cf2a.jpg",
-     "licence": "linkout",
-     "id": "e8d85578bf87",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
