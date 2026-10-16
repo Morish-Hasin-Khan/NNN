@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T00:52:12.927827+00:00",
+ "generated_at": "2026-10-16T05:13:52.220628+00:00",
  "podcasts_fetched_at": "2026-10-15T10:55:46.468724+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Front Page",
-  "Uttarakhand Ankita",
+  "Peshawar",
+  "Pakistan",
   "Jazeera English",
   "News",
+  "Uttarakhand Ankita",
   "Swift Action",
   "National News",
-  "Surveillance Tiruvallur",
-  "Iraq Zaidi",
-  "Iran Saudi",
-  "Pakistan"
+  "Kochi What",
+  "Infantino FIFA",
+  "China Israel"
  ],
  "sections": [
   {
@@ -103,29 +103,53 @@
    "upsc": false,
    "items": [
     {
-     "title": "At least 4, including 3 children, killed in US elementary school shooting",
-     "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-     "summary": "Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.",
-     "published": "2026-10-15T22:51:56+00:00",
+     "title": "Peshawar mourns children killed in school roof collapse",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+     "summary": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
+     "published": "2026-10-16T02:01:43+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26288796036302-1792102181.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792115992.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "d86b43fad5c0",
+     "id": "562506cbfeaf",
      "also": [
       {
        "source": "BBC News",
-       "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-       "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-       "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say."
+       "title": "Three children and teacher killed in US primary school shooting",
+       "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+       "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said."
       }
      ],
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News",
      "figures": [
-      "4, including 3 children, killed",
-      "3 children , killed in US"
+      "34 children"
+     ]
+    },
+    {
+     "title": "At the scene of a school roof collapse in Pakistan",
+     "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+     "summary": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+     "published": "2026-10-15T20:31:02+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de6/live/4303b8f0-c8d6-11f1-9a39-31b474234113.jpg",
+     "licence": "linkout",
+     "id": "702027aafe12",
+     "also": [
+      {
+       "source": "Al Jazeera",
+       "title": "Peshawar mourns children killed in school roof collapse",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+       "summary": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global Hotline",
+     "figures": [
+      "33 pupils and a teacher were"
      ]
     },
     {
@@ -151,34 +175,6 @@
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-     "summary": "Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.",
-     "published": "2026-10-16T00:02:37+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad1569d9dbe-1792104093.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "7593721356d2",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-     "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-     "summary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
-     "published": "2026-10-15T21:57:58+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad134ad9b-1792095405.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "77b262294725",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
@@ -193,101 +189,110 @@
      "from_section": "Global News"
     },
     {
-     "title": "School assembly news headlines today- October 16: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkNWQTZ5d044SjRaSUoycFFFMnd4TkRIUUJsWWtLUUhDMWxuNlVmdEFodENLY3N1R21kV21JZExSeVNMNXpTVmtTZkNiaUF1a1liMTFFem1FclFxNk5rMVhaZ0JUVl9UWmRXREtScXNPQ3ZjdXdwWVZzNWNNWURQSzBtaWNLTEVhaGpVMEZqZm9yQmdyY3RkTENVNFA2TnZ2N3NaQUIwQ2JqMmRxSzAwbGxFVE9JS1A4OEF1aFdGQ3dSVmhNVXFKYnZnWEFqOWRWWnVZejdXLW5udHZCdmVISGdtSTF2UQ?oc=5",
-     "summary": "School assembly news headlines today- October 16: Top national, sports and world news curated for you India Today",
-     "published": "2026-10-15T12:40:41+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "b2bbb41a8d00",
-     "also": [
-      {
-       "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, October 16, 2026: Ex-IAS officer Divya Mittal launches her political party ‘Jan Neeti Bharat’",
-       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVE9DWV9IaTlxa0NZSE9XQVlvaFRfZTFFYzV0RmR0WlFENWZNTHp5WS0zd0ROeFpNUzJnNDVlLXZLWi1kNXBlZnN0Zm9MdUhPUVVoZTE1OHhqOFpKalI4eFhsM2tFVjl0Ym9CdW5sV3dNbjFwS19uOUk3QUhZZ0pVV2dFSi11RlpSM01WdVRTNkFMSTZ2ZG14VWo4Qk1oYUFMZW10OHJtZnYzbjRxZnVPUlB4bXA1TXctYmdQTTVLcFM5ZTBuN3RPNTFxeUd4QUw1UWxMZm9yTnBOc2liZnhMcEJvQkoxMGRqVFJaeVRWSmotNnB5OW03TFlUcDlNZ3l2aTE2TzdjVVBXSER4NmpYMUNn0gGYAkFVX3lxTE5sNFhwdDN4NTdrcnd0cnFqZ3lWclV5c1cxRGdlVUtBZkJzMWF3YWFkZ3hlSnBpWmJ2ZVk5aVhMbF9jaHQ0cTFKc0MzSzM4N0ZPR3Y0M3RLRDRmankzSWgwbnRsWlZjMkp4cklrd1NGaTJqQzBJWWFza19VNEVlT2R1YjhZZFJqUlFhMV9VTjNDZU9GcWtsbWlXLUxEcEFxRjRlSjBodGFOcWdvdk1Ick5TTzFYbEhKbkNWZnFuQXc1M25PdXVzZEN6V3VLbUZkdlhWWklTNDBpRFNwYy1vWjAzaUNPeVZ0ZTg4YWg1akF4eWpIejZFS00ydGJEN2lPbmxRY2JJVVk5bmJHTmd0R3JCZWpuNkJaY20?oc=5",
-       "summary": "Today News Headlines for School Assembly, October 16, 2026: Ex-IAS officer Divya Mittal launches her political party ‘Jan Neeti Bharat’ The Indian Express"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-     "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-     "summary": "Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.",
-     "published": "2026-10-16T00:31:18+00:00",
+     "title": "Infantino apologises amid calls for him to quit as FIFA president",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
+     "summary": "Infantino spoke at FIFA’s long-awaited executive board meeting in Zurich.",
+     "published": "2026-10-16T04:45:24+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad148b5-1792100533.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792125819.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "2ea9722d109b",
+     "id": "c72e640fcb9d",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "Global News"
     },
     {
-     "title": "Muziris to be made international heritage tourism destination, says Satheesan",
-     "url": "https://www.thehindu.com/news/national/kerala/muziris-to-be-made-international-heritage-tourism-destination-says-satheesan/article71544613.ece",
-     "summary": "The Chief Minister says the government is planning to expand water taxi and kayak services to Ezhikkara, Kottappuram and Azheekode as part of the Muziris Heritage Project",
-     "published": "2026-10-16T00:27:49+00:00",
-     "source": "The Hindu",
+     "title": "Free Entry For Female Spectators For India-Zimbabwe Women's T20Is In Raipur",
+     "url": "https://sports.ndtv.com/cricket/free-entry-for-female-spectators-for-india-zimbabwe-women-s-t20is-in-raipur-12191910#publisher=newsstand",
+     "summary": "Female spectators will be allowed free entry to the three women's T20Is between India and Zimbabwe, starting at the Shaheed Veer Narayan Singh International Cricket Stadium in Raipur, following a suggestion from the state's Chief Minister Vishnu Deo Sai.",
+     "published": "2026-10-16T04:43:43+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/rl8c66/article71544711.ece/alternates/LANDSCAPE_1200/KSRTC03.JPG",
+     "image": "https://c.ndtvimg.com/2026-10/p3or69vc_smriti-mandhana-getty_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "095073830f13",
+     "id": "1de997d4089b",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "from_section": "Sports"
     },
     {
-     "title": "\"His Own Empire\": VD Satheesan On Pinarayi Vijayan's Infra Board Irregularities",
-     "url": "https://www.ndtv.com/india-news/his-own-empire-vd-satheesan-on-pinarayi-vijayans-infra-board-irregularities-12192264#publisher=newsstand",
-     "summary": "The 106-page report reveals that KIIFB expanded its workforce from just 40 sanctioned posts to 498 employees without the required government approval, spent Rs 203.72 crore on publicity in a single financial year and effectively approved its own borrowing guarantees",
-     "published": "2026-10-15T19:15:38+00:00",
-     "source": "NDTV",
+     "title": "IAS officer’s foul language against female officer during meeting goes viral online, sparks protest from J&K officers",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ias-officers-foul-language-against-female-officer-during-meeting-goes-viral-online-sparks-protest-from-jk-officers/article71589435.ece",
+     "summary": "Mr. Ranjan could be seen directing his subordinate staff to type a “suspension order of the female officer” over her alleged remarks",
+     "published": "2026-10-16T04:31:36+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/pki5vjn4_satheesan-pinarayi_625x300_16_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "9f677f1d520d",
+     "id": "e122a9465f48",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Owner of Tacoma grocery store, who fled when indicted for food stamp fraud, returned from India to face charges",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnlzSUtxQnlIcmdHNFZ2by1MdF9id0gxUnpZLXFPRWstZkZLdjBmSnVIdnZVOTl4Qy01WWZicE03bVlwc3A0NVMxcmkwTHR1YTYwTnNkYlNxVVd1RWZLajlOMGxsd3FUUERKM3hGbHU4bklLSXRmVDNveHVTOUlvTTlva202SWxrdmRYVlZtOC16MU1NeWFpSEhDaGExemhtVVQyU05oOUx2aHdleU8wVUNmcnhxOWVuUGNVTEZCU04?oc=5",
+     "summary": "Owner of Tacoma grocery store, who fled when indicted for food stamp fraud, returned from India to face charges Department of Justice (.gov)",
+     "published": "2026-10-15T21:29:30+00:00",
+     "source": "Department of Justice (.gov)",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "0faf840243d2",
+     "also": [
+      {
+       "source": "The Tribune",
+       "title": "“Back in the US”: FBI chief Kash Patel says fugitive Manjit Singh Bedi returned to face fraud charges",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3VfVTdUY3ZwX3N3ODhPOUMwNW1HcE1jQnNIQ0ZqamJmNV84QmFKVkFoOUE2dU52clg0NkVYYmphS3o2ZTZDUFhrYlBsWEFlLXJLLW9qX3o2WllhN2N5NEt1X19oX0NZcm9TaWZYQ21zSUNzVHlYeHJoVUF0SGs2QkxxdTZLd0Z6M1FwR09sY3pKYnFEOEI1MWMyN2JHQ0gxY012NzgzTFJQRzlBbkE1U2llcFM3ZnFqRVRjaDV1UGtKN0xFaEYzRHBfZXBKczR6TC1Ua282ZjFld9IB3gFBVV95cUxPWkZKT2VkcnhURDhvX1dSNFlhdDNFeDNKWkctY1JQMTVQckdTd0JGLWV0ZzZpR3RmOGF3YzFGSU5pN3lRSHZISkVhdzV5ZkhscXY4SmEwenI5ZjNUM1JmS0dfa2RZbDc1WWVXcHpWMk56eEx4dTB4bmJueUpjYzJfTGktUWRjcWpGcXBaR0ZQbzJTY1lISTh4R091OUtmNW1NYWxxbkNXVjJaemxOUGtHcDRCWHRRa2I5TnlnN2tlajJDLUh2MVo1SXJSTDNQZGp6Z2tfYk9VZGQ5aHhWOGc?oc=5",
+       "summary": "“Back in the US”: FBI chief Kash Patel says fugitive Manjit Singh Bedi returned to face fraud charges The Tribune"
+      },
+      {
+       "source": "Hindustan Times",
+       "title": "Defence firm SMPP may face suspension over corruption charges | India News",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXNyclQ2Zlo2bEVfekJEc3NCdGhBNnU5dm5zTW5jV0xZWFZnSFhwODNTMWhkWFdlWnZDSEFSNkJVZXhwVHZLOEl3c1VLRS1VLTRlejNhNU1KazkwRkpFM0JFcjVLNkdiSWtkMjN0bzV4X0ZhTXJnbS1PdGxLNXJ3UERNaFQ5Wng0SDFDQjVYeE5KTVk0cXlYUHNleHptS3NPbUdMcTF2S0dFUDFnYUNsc2g4WnlleHozeUk4ZGxwMGd3UdIBxwFBVV95cUxNaTQ5UXVlRndRcTBOSDJPOV90eDUyR1lCTTdDY05PYTB5U0hiaE9wNWJMNTVCaTExcks5VjJCUzcwTUktazhiRUJZVVhiLWVNdkp0OFlQNlpIeERJRFFhRjZBVldXZVJ4U2p4dUxGRnYxUlZPNWl0OEpISFY3YnA2QXZvdzlObGRkQUQ5NVpTeVBOYlR3UV9kNE5zSXBoY0d4WnhNODlTeEtZWGZzcm5YYVVFMmxGaEFLRWlXNndfZUVtZWcxMk9z?oc=5",
+       "summary": "Defence firm SMPP may face suspension over corruption charges | India News Hindustan Times"
+      }
+     ],
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National News",
+     "from_section": "Scandals & Investigations"
+    },
+    {
+     "title": "WWE SmackDown Hits A Number It Hasn't Seen Since August After Money In The Bank 2026 Takes Center Stage",
+     "url": "https://sports.ndtv.com/us-wwe/wwe-smackdown-hits-a-number-it-hasnt-seen-since-august-after-money-in-the-bank-2026-takes-center-stage-12193169#publisher=newsstand",
+     "summary": "WWE SmackDown drew 1.352 million viewers on October 9, with its 18-49 rating climbing to 0.32. The Money in the Bank go-home show also recorded strong year-over-year gains in both key ratings categories.",
+     "published": "2026-10-16T04:22:43+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-09/o5ru50ic_wwe-arena_625x300_30_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8215ebcb94dc",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Sports",
      "figures": [
-      "40 sanctioned posts to 498 employees",
-      "498 employees without the required government",
-      "Rs 203.72 crore on publicity"
+      "1.352 million viewers on October 9",
+      "9, with its 18-49 rating climbing",
+      "49 rating climbing to 0"
      ]
     },
     {
-     "title": "Millions hit by data breach in Japan: How cyber insurance can protect you against such risks — check costs, coverage",
-     "url": "https://www.livemint.com/money/millions-hit-by-data-breach-in-japan-how-cyber-insurance-can-protect-you-against-such-risks-check-costs-coverage-11792083873978.html",
-     "summary": "Rising cyberattacks and online fraud underscore the risks of identity theft and financial loss. Personal cyber insurance may cover eligible incidents, including phishing and unauthorised transactions. Here's all you need to know.",
-     "published": "2026-10-15T18:37:56+00:00",
-     "source": "Mint",
+     "title": "'Onion cartel' in Philippines fined $28m for price shock",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyvwyp9dgro?at_medium=RSS&at_campaign=rss",
+     "summary": "Onions were worth more than the daily minimum wage at the height of the price surge in 2022.",
+     "published": "2026-10-16T04:20:21+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/15/600x338/3a28d0b1-a547-4b4b-9c19-5ce664249080_1792089352438_j4d5_1792089356992_X70Q_976bed86-6340-4c17-b245-e528d19d6b7b_LZqL.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4702/live/e0433ae0-c913-11f1-8fd2-6ff42d342874.jpg",
      "licence": "linkout",
-     "id": "74dfc495929b",
+     "id": "9cf8f5781e57",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Larsa Pippen Reveals Scottie Pippen’s Reaction To Her Relationship With Marcus Jordan And Why They Split",
-     "url": "https://sports.ndtv.com/us-nba/larsa-pippen-reveals-scottie-pippen-s-reaction-to-her-relationship-with-marcus-jordan-and-why-they-split-12192165#publisher=newsstand",
-     "summary": "Larsa Pippen reveals Scottie Pippen’s reaction to her relationship with Marcus Jordan, explains why their romance ended, and shares how her children helped her move forward.",
-     "published": "2026-10-15T18:37:48+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-06/la825f0o_scottie-pippen_625x300_02_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "0961c6bb0f23",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Sports"
+     "from_section": "Global Hotline",
+     "figures": [
+      "$28 m for price shock"
+     ]
     },
     {
      "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
@@ -296,7 +301,7 @@
      "published": "2026-10-15T23:01:49+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/718c/live/00b0e6b0-c8e7-11f1-8fce-870ed9afa8a0.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f9/live/eadcb880-c901-11f1-9943-e1428cb923d3.png",
      "licence": "linkout",
      "id": "b9392d54cb8c",
      "category": "celebrity",
@@ -318,6 +323,39 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "Simons Foundation, Anthropic, OpenAI Commit Rs 142 Crore To Help Mathematicians Navigate AI",
+     "url": "https://www.ndtv.com/education/simons-foundation-anthropic-openai-commit-rs-142-crore-to-help-mathematicians-navigate-ai-12192888#publisher=newsstand",
+     "summary": "OpenAI committed $5 million (Rs 47.39) to the Simons Foundation's initiative to help mathematicians examine, understand, and build on results produced by AI, including results recently published by OpenAI.",
+     "published": "2026-10-16T03:45:56+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/coaunb1o_ai-in-time-of-mathematicians-_625x300_16_October_26.jpeg",
+     "licence": "linkout",
+     "id": "779ecbe82ce2",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "National News",
+     "figures": [
+      "Rs 142 Crore To Help Mathematicians Navigate",
+      "$5 million (Rs 47",
+      "Rs 47.39 ) to the Simons"
+     ]
+    },
+    {
+     "title": "Artificial intelligence enters the corporate sphere: how can companies turn it into an opportunity?",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVloX0pKemVYMk1iVFBBaXRHUHI3RU8yTG9SRUpzMlkyS2h2LXBlZ2l4czZTOHNNOTJPN3A5NDI2WVBJUXA2MUUxeDJkM3MzQXo2MWdfckRmNWNJNG1fSEw5UXhyZVNIRkZtSzhPXzJBTWs1N1lkZ0c3cmJVRzJkbTliRnJzQkhOTmN3bEhJeW9Qd0gtZk5LM0lvTlpvUVNJZEE?oc=5",
+     "summary": "Artificial intelligence enters the corporate sphere: how can companies turn it into an opportunity? The New Barcelona Post",
+     "published": "2026-10-16T03:30:00+00:00",
+     "source": "The New Barcelona Post",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "45269a4c0bd4",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
      "title": "Better Artificial Intelligence Stock for 2026: Astera Labs vs. Marvell Technology",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ09YdXhZODVVRHVSNW90UVFTM2hndHJDdXg0aVo0bE9QdXYzRktxYUxZOEVTZWRuQzJrX2I3cHdNcnJOZUo3TVBaYmRBaEpJNWwyNTBwbmhld2xLQlRNdEtlU3d5SXJfRkM1MEdRVTlTRFRicXA3bm4tX1hoaHZCdm1vd2VCcWljcGh1V2NyQlFweEpRYTE0WVZZMXM4Vk9OMXRsY0R2WW1BcTBwbUhmRFFhNWZWb2dFQ2w4ZUpkUlpad3QyVllLcGZKQUE?oc=5",
      "summary": "Better Artificial Intelligence Stock for 2026: Astera Labs vs. Marvell Technology The Motley Fool",
@@ -327,58 +365,36 @@
      "image": null,
      "licence": "linkout",
      "id": "d1e3a9c66834",
-     "also": [
-      {
-       "source": "Stock Titan",
-       "title": "Artificial Intelligence Technology Solutions Inc. SEC Filing (Oct 15, 2026)",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelUyUy1qV1NHcGNSYm1lU3lzMGltb1E0SlpyRXVUMHc3VlJqRGUzSzFxSGEwNTBsODhwaExyZFZodGxkam5jR1dQTVVpN0RTaUw0eDQxSG5OYU9fMU01N2x3T2ZrRVhqMm5rcWc4UWZkZE4zQlhzUWw0SUNlT2JQWkRYMFI4VlJiUktVSGJIdHpaWk9KbHVZa2c1UDZUOFZ3SW9vTDhyejBaVFBtd05xZ0NhQ0U4aUhyNHdqTGtJUzN5SDU1d1hLNA?oc=5",
-       "summary": "Artificial Intelligence Technology Solutions Inc. SEC Filing (Oct 15, 2026) Stock Titan"
-      }
-     ],
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "Artificial Intelligence Technology Solutions Inc. SEC Filing (Oct 15, 2026)",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelUyUy1qV1NHcGNSYm1lU3lzMGltb1E0SlpyRXVUMHc3VlJqRGUzSzFxSGEwNTBsODhwaExyZFZodGxkam5jR1dQTVVpN0RTaUw0eDQxSG5OYU9fMU01N2x3T2ZrRVhqMm5rcWc4UWZkZE4zQlhzUWw0SUNlT2JQWkRYMFI4VlJiUktVSGJIdHpaWk9KbHVZa2c1UDZUOFZ3SW9vTDhyejBaVFBtd05xZ0NhQ0U4aUhyNHdqTGtJUzN5SDU1d1hLNA?oc=5",
-     "summary": "Artificial Intelligence Technology Solutions Inc. SEC Filing (Oct 15, 2026) Stock Titan",
-     "published": "2026-10-15T21:02:49+00:00",
-     "source": "Stock Titan",
+     "title": "Gunther Retired John Cena, Goldberg And AJ Styles, But WWE’s Plans For Him Have Raised New Questions",
+     "url": "https://sports.ndtv.com/us-wwe/gunther-retired-john-cena-goldberg-and-aj-styles-but-wwe-s-plans-for-him-have-raised-new-questions-12193099#publisher=newsstand",
+     "summary": "Gunther’s WWE direction is facing new questions after a report described frustration and confusion around his SmackDown role. He has targeted Sami Zayn’s Undisputed WWE Championship, but a title opportunity is far from guaranteed.",
+     "published": "2026-10-16T04:14:01+00:00",
+     "source": "NDTV Sports",
      "byline": "",
-     "image": null,
+     "image": "https://c.ndtvimg.com/2026-06/5gqh1r3c_gunther-and-cody-rhodes_625x300_20_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c6cb2c10200d",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "GlobalLogic is opening an artificial intelligence lab at Technical University of Cluj-Napoca",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelNBQmVCS0ZqY2l4QTIxX1RhejZ1ZjdGeUZEcFdRWVo1MXMyT1V2OWM1QjNXWFJFUmRwSEx6X3VEVm0tZk93SnZrUEV4R3gya0phTWpkZGxXTVdYSkFVUzFDVENOV2RLamtXOUJoU1AxVTgwcUNpa05LQk16dndRZDVUeVZFdEdSQUZYeDVJZHJGeHlTZXktb1BRd0wxOWV0aVNVUnIyb2ZHQ2JTSVRJUWZSSmdTeWF1SnJMSTc5ZGFkVU5IZHBybGk0VUU3V2M?oc=5",
-     "summary": "GlobalLogic is opening an artificial intelligence lab at Technical University of Cluj-Napoca Business Review",
-     "published": "2026-10-15T15:51:06+00:00",
-     "source": "Business Review",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "c722511f68b2",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "A national record, three medals and a proud homecoming for Coimbatore’s Vithya Ramraj",
-     "url": "https://www.thehindu.com/news/cities/Coimbatore/a-national-record-three-medals-and-a-proud-homecoming-for-coimbatores-vithya-ramraj/article71543625.ece",
-     "summary": "",
-     "published": "2026-10-16T00:30:33+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/gqn9qf/article71543880.ece/alternates/LANDSCAPE_1200/2085_4_10_2026_18_29_28_2_IMG_20261004_WA0018.JPG",
-     "licence": "linkout",
-     "id": "a62fdcd34469",
+     "id": "a20ee3e869c7",
      "category": "sports",
      "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
+     "title": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
+     "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
+     "summary": "\"The batch is divided into two parts, one is the northeast Delhi riots, and another is for Jamia Millia riots,\" the bench said while pronouncing the verdict",
+     "published": "2026-10-16T04:20:00+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/54v7zw/article71545998.ece/alternates/LANDSCAPE_1200/iStock-1385496478.jpg",
+     "licence": "linkout",
+     "id": "a2cc24929e66",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
      "from_section": "National Hotlines"
     },
     {
@@ -409,7 +425,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-10-16T00:51:59.179923+00:00",
+     "published": "2026-10-16T05:13:37.443319+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -420,7 +436,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-10-16T00:51:59.179941+00:00",
+     "published": "2026-10-16T05:13:37.443340+00:00",
      "image": "https://static.dw.com/image/69105246_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -431,7 +447,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-10-16T00:51:59.179945+00:00",
+     "published": "2026-10-16T05:13:37.443345+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -442,7 +458,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-10-16T00:51:59.179949+00:00",
+     "published": "2026-10-16T05:13:37.443349+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -453,7 +469,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-10-16T00:51:59.179953+00:00",
+     "published": "2026-10-16T05:13:37.443352+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -464,10 +480,41 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-10-16T00:51:59.179956+00:00",
+     "published": "2026-10-16T05:13:37.443356+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "CJP Tiranga protest LIVE | Delhi Police allows flag-waving by select group, urges public to stay away",
+     "url": "https://www.thehindu.com/news/national/cjp-delhi-tiranga-march-oct-16-2026-live-updates/article71590925.ece",
+     "summary": "The Delhi High Court refused to restrain the CJP from holding the proposed 'Tiranga Lehrao' protest in the national capital",
+     "published": "2026-10-16T04:24:38+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/xu77nh/article71590929.ece/alternates/LANDSCAPE_1200/STUDENT%20PROTEST%20TIRANGA%20MARCH%20DELHI%20CEC%2023.JPG",
+     "licence": "linkout",
+     "id": "084667256c53",
+     "kind": "liveblog",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "CBSE Class 10, 12 Timetable 2027 LIVE: Board Exam Date Sheet PDF Download Link, Reporting Time, Subject-Wise Schedule Soon",
+     "url": "https://www.ndtv.com/education/cbse-class-10-12-timetable-2027-live-board-exam-date-sheet-pdf-download-link-reporting-time-subject-wise-schedule-12187440#publisher=newsstand",
+     "summary": "CBSE Date Sheet 2027 Live Updates: Candidates set to appear for the CBSE board exam 2027 will be able to download their exam timetable from the official website, cbse.gov.in.",
+     "published": "2026-10-16T03:37:01+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-03/g6gnr0hc_cbse-board-exams-2026_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "97eb0da2cc2e",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "12 Timetable 2027 LIVE: Board Exam"
+     ]
     }
    ]
   },
@@ -525,19 +572,6 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Defence firm SMPP may face suspension over corruption charges | India News",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXNyclQ2Zlo2bEVfekJEc3NCdGhBNnU5dm5zTW5jV0xZWFZnSFhwODNTMWhkWFdlWnZDSEFSNkJVZXhwVHZLOEl3c1VLRS1VLTRlejNhNU1KazkwRkpFM0JFcjVLNkdiSWtkMjN0bzV4X0ZhTXJnbS1PdGxLNXJ3UERNaFQ5Wng0SDFDQjVYeE5KTVk0cXlYUHNleHptS3NPbUdMcTF2S0dFUDFnYUNsc2g4WnlleHozeUk4ZGxwMGd3UdIBxwFBVV95cUxNaTQ5UXVlRndRcTBOSDJPOV90eDUyR1lCTTdDY05PYTB5U0hiaE9wNWJMNTVCaTExcks5VjJCUzcwTUktazhiRUJZVVhiLWVNdkp0OFlQNlpIeERJRFFhRjZBVldXZVJ4U2p4dUxGRnYxUlZPNWl0OEpISFY3YnA2QXZvdzlObGRkQUQ5NVpTeVBOYlR3UV9kNE5zSXBoY0d4WnhNODlTeEtZWGZzcm5YYVVFMmxGaEFLRWlXNndfZUVtZWcxMk9z?oc=5",
-     "summary": "Defence firm SMPP may face suspension over corruption charges | India News Hindustan Times",
-     "published": "2026-10-15T06:50:11+00:00",
-     "source": "Hindustan Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5340c4ee9bdf",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Singareni Scam Row Sparks Mega Political Clash: BRS Demands Probe, Congress & BJP Trade Charges - India Today",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTlQtSHZTMER0ZGdPMUExNWlmM3BkNUxLM0JiWWl2WVpnamdKTXRERHBaNktzZE5rZVRma1k3OUtHSlotaFhaZzhKVUxrVUFySkZqNEZrVUhQMkVqU0JVdnBVVXFlbVV6cFJzTzY1a05uSG1zeTJuRlZHZElQRWhaQ0RxVVh3eVRhX0V6RVIzX1VKMlZldklUWVNnTXJ3dW1PSEFRQ21LdDZaSjJaZVp6d2cwZ0RKeDhKN09abUR2cFdCN0twaF9sN0xYQ0Yzby0xV3hxYWZ4S2F6N1dKakx0c0tGNS1OTTdu0gHuAUFVX3lxTE9hQW45enA1ZmVYaEFwdTVkZFd3WVQzTHRvSnI2dXgtanp5S3BIRmFpS3FwR0xtczlUbE5EQ203dk5vdHpkZ0E5allMU2YyblZqVWFFZXgxREFtbmtocS1WbU1fVmVna0tRelgtWFZKZXk0TTlJcEdnbnJ2d0p4djZhZkRPa2lmVjdDbHFkWjJISXVmTWNpa2RjX2RtT0JuSzA4YTFKNEloQmd2V3dEMi1uTm5zSEVoNDB3NEZLTjNfc3RvVnF5TWdtblRDME9zd0lZQmk1OEZqQzhiTGxSUXRyam1sbDJqSXNIaVJ6X3c?oc=5",
      "summary": "Singareni Scam Row Sparks Mega Political Clash: BRS Demands Probe, Congress & BJP Trade Charges - India Today India Today",
@@ -551,17 +585,43 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "ACB closes two corruption cases against police officials after govt denies prosecution sanction",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRXE2eUxWNjkyZGxRVHBhWkl2NFUtUk41LVd4VG4yT0pGXzhQZ1JSWnktVDlyV2ktVlF2emFHVzlhaW9haFlzcURYc1g4WHlYT3JIdWVfY2REbVRuTkNOWlFNOVEtejFkelVLTGxaYnlja3J5RXZTakVBTE9relVwOTdpWEdLa2lvTjJxNmJDS1BsaWwxcjBmbWJ6SDNGNU0zaTB4UVJIRnhQRGszODVNcFVrcE82WHhRbFh1QmJtbHVtbEdaRC15el9WejZJTHJuR21OLXdQY3ZWNFJoTlpxejdNMkNCY3plNm9XVXoxTmR0MXdRQlUzOGJETWNYVnpUakHSAYcCQVVfeXFMUGxPcGJ6WF8ya1FTb1NzcDRabjJjRU93d05XM0h2NzNreUYwWFozYkFZTFhNSVBWQlhJUUVIR3p0YWlxVHNpTDBmTTJhemhuckhCYVZxc04wa1haTV8xT20zUTBYaTFqQ21ib244NjYwaFlxU2ZNWHhqMzN0Y2wyYjUzRGdyZTJUUjRBVnpoek4tN0QtZnJlN2s1NTM0aWtRaVZWemZEZ3FlRWNBb2ozc0NSXzNQYTRuSWVxaFhEU3duUTNrazNiaDg0Zk91YWZ1SHVEd0R6RU5CNnBMREF5WGl3NWFWM0NkWjhVQktHZUpfaVhzTE1iRGlpbUxyYU0wUWdvUGRGR0E?oc=5",
-     "summary": "ACB closes two corruption cases against police officials after govt denies prosecution sanction The Times of India",
-     "published": "2026-10-15T04:30:00+00:00",
-     "source": "The Times of India",
+     "title": "ED files charge sheet against FIITJEE, two directors over fee fraud | India News",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1M2NUxfaDJXS1hEQWlBdFR1QXlzdXZQcGowSFpwUEZ4Wjd0aEdURnd4WGxGUFZkVGFCbDY4UGhxaDRXQUFRdEcyMmZGY3R4WExzbHg2YVRsaEtNMHhUX0JjcjkzMXZvbGlzZjJqU0xoc3VSaWc5NGpDbk01UTlRMk1OSkF5Umo4NWwwQVQ1bXVWZkpSTE56WnotSjBaV1pyX0pJRmtPbU5jZVNoWmt1QWh3OHI5eHNLQjBmRDJzdHY2TGp1SVAyTNIBzgFBVV95cUxPZkxiV3FQX3UzQUhBZEJONjlEWFRlOXZZZ1ZmQWZHMXNJczhnTEZJSGRKTURtc1FJbEFjY2RoQkJmQWtqbWp5ZUNVVDJyTjF5Nkh2bXF4V0pxOWpDcWkzRy0tMXZzTTJJWFMwUE1KbE5MakpWYkppekNBQ1JfaU9aYl81Y1RXeHZlSUVTUFdwVDdMdFdjQzdCX2ZtZGdicWRBeFN0ODV5MEZYV0VIQjVvSmRHTG9PTTFoc0JUMnNfemFQa0FiMTVWM2M3VW4zUQ?oc=5",
+     "summary": "ED files charge sheet against FIITJEE, two directors over fee fraud | India News Hindustan Times",
+     "published": "2026-10-16T02:17:20+00:00",
+     "source": "Hindustan Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "d00f8031ebb5",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "d5218f35bd41",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "“Back in the US”: FBI chief Kash Patel says fugitive Manjit Singh Bedi returned to face fraud charges",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3VfVTdUY3ZwX3N3ODhPOUMwNW1HcE1jQnNIQ0ZqamJmNV84QmFKVkFoOUE2dU52clg0NkVYYmphS3o2ZTZDUFhrYlBsWEFlLXJLLW9qX3o2WllhN2N5NEt1X19oX0NZcm9TaWZYQ21zSUNzVHlYeHJoVUF0SGs2QkxxdTZLd0Z6M1FwR09sY3pKYnFEOEI1MWMyN2JHQ0gxY012NzgzTFJQRzlBbkE1U2llcFM3ZnFqRVRjaDV1UGtKN0xFaEYzRHBfZXBKczR6TC1Ua282ZjFld9IB3gFBVV95cUxPWkZKT2VkcnhURDhvX1dSNFlhdDNFeDNKWkctY1JQMTVQckdTd0JGLWV0ZzZpR3RmOGF3YzFGSU5pN3lRSHZISkVhdzV5ZkhscXY4SmEwenI5ZjNUM1JmS0dfa2RZbDc1WWVXcHpWMk56eEx4dTB4bmJueUpjYzJfTGktUWRjcWpGcXBaR0ZQbzJTY1lISTh4R091OUtmNW1NYWxxbkNXVjJaemxOUGtHcDRCWHRRa2I5TnlnN2tlajJDLUh2MVo1SXJSTDNQZGp6Z2tfYk9VZGQ5aHhWOGc?oc=5",
+     "summary": "“Back in the US”: FBI chief Kash Patel says fugitive Manjit Singh Bedi returned to face fraud charges The Tribune",
+     "published": "2026-10-16T01:40:49+00:00",
+     "source": "The Tribune",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "61096cc56d99",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "Defence firm SMPP may face suspension over corruption charges | India News",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXNyclQ2Zlo2bEVfekJEc3NCdGhBNnU5dm5zTW5jV0xZWFZnSFhwODNTMWhkWFdlWnZDSEFSNkJVZXhwVHZLOEl3c1VLRS1VLTRlejNhNU1KazkwRkpFM0JFcjVLNkdiSWtkMjN0bzV4X0ZhTXJnbS1PdGxLNXJ3UERNaFQ5Wng0SDFDQjVYeE5KTVk0cXlYUHNleHptS3NPbUdMcTF2S0dFUDFnYUNsc2g4WnlleHozeUk4ZGxwMGd3UdIBxwFBVV95cUxNaTQ5UXVlRndRcTBOSDJPOV90eDUyR1lCTTdDY05PYTB5U0hiaE9wNWJMNTVCaTExcks5VjJCUzcwTUktazhiRUJZVVhiLWVNdkp0OFlQNlpIeERJRFFhRjZBVldXZVJ4U2p4dUxGRnYxUlZPNWl0OEpISFY3YnA2QXZvdzlObGRkQUQ5NVpTeVBOYlR3UV9kNE5zSXBoY0d4WnhNODlTeEtZWGZzcm5YYVVFMmxGaEFLRWlXNndfZUVtZWcxMk9z?oc=5",
+     "summary": "Defence firm SMPP may face suspension over corruption charges | India News Hindustan Times",
+     "published": "2026-10-15T06:50:11+00:00",
+     "source": "Hindustan Times",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "5340c4ee9bdf",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -572,127 +632,98 @@
    "upsc": false,
    "items": [
     {
-     "title": "CM alleges KCR drawing water ‘illegally’ to his farmhouse",
-     "url": "https://www.thehindu.com/news/national/telangana/cm-alleges-kcr-drawing-water-illegally-to-his-farmhouse/article71589632.ece",
-     "summary": "",
-     "published": "2026-10-16T00:35:17+00:00",
+     "title": "IAS officer’s foul language against female officer during meeting goes viral online, sparks protest from J&K officers",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ias-officers-foul-language-against-female-officer-during-meeting-goes-viral-online-sparks-protest-from-jk-officers/article71589435.ece",
+     "summary": "Mr. Ranjan could be seen directing his subordinate staff to type a “suspension order of the female officer” over her alleged remarks",
+     "published": "2026-10-16T04:31:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "d08ac937cce4",
+     "id": "e122a9465f48",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Kochi synagogue arson case: What happened, and history of over 800-year-old structure",
+     "url": "https://www.thehindu.com/news/national/kerala/kochi-synagogue-arson-case-what-happened-latest-updates-history-ernakulam/article71586909.ece",
+     "summary": "A fire was deliberately set at Blossom Nursery, located in front of the historic Kadavumbhagam Synagogue in Ernakulam, around 2.40 a.m. on October 12, 2026",
+     "published": "2026-10-16T04:29:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-kerala/klttaw/article71586084.ece/alternates/LANDSCAPE_1200/SIT-formed-to-pG80GLQ30G.3.jpg.jpg",
+     "licence": "linkout",
+     "id": "0476819b5df9",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Surveillance strengthened on paddy movement in Tiruvallur",
-     "url": "https://www.thehindu.com/news/cities/chennai/surveillance-strengthened-on-paddy-movement-in-tiruvallur/article71544540.ece",
-     "summary": "Farmers have alleged that traders, including a few from neighbouring States, submit papers belonging to farmers and sell procured paddy",
-     "published": "2026-10-16T00:32:03+00:00",
+     "title": "Heavy rain snarls traffic, ride-hailing fares surge in Bengaluru",
+     "url": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-snarls-traffic-ride-hailing-fares-surge-in-bengaluru/article71589436.ece",
+     "summary": "Slow-moving traffic due to waterlogging was also reported on M.G. Road, Commissionerate Road, Acharya Layout Road, Anand Rao Circle, R.P. Road towards P.G. Halli, Mehkri Circle, and Jayamahal, among other locations",
+     "published": "2026-10-16T04:28:55+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/nyt1wg/article71544632.ece/alternates/LANDSCAPE_1200/paddy%20kavitha.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/77dp8/article71591113.ece/alternates/LANDSCAPE_1200/ALL_8033.JPG",
      "licence": "linkout",
-     "id": "ff23d61e7d6e",
+     "id": "bb89e09a55bc",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "HC directs State to issue instructions to all departments to scrupulously adhere to prescribed timelines for receipt, consideration and disposal of representations",
-     "url": "https://www.thehindu.com/news/cities/Madurai/hc-directs-state-to-issue-instructions-to-all-departments-to-scrupulously-adhere-to-prescribed-timelines-for-receipt-consideration-and-disposal-of-representations/article71541721.ece",
-     "summary": "",
-     "published": "2026-10-16T00:30:45+00:00",
+     "title": "ASDD bulk deletions effected by ECI without due procedure through autogenerated Form-7s signed by EROs",
+     "url": "https://www.thehindu.com/news/national/telangana/asdd-bulk-deletions-effected-by-eci-without-due-procedure-through-autogenerated-form-7s-signed-by-eros/article71587728.ece",
+     "summary": "Form-7s were auto-generated for lakhs of voters, with ERO in place of the objector. Deletions were effected without notice period",
+     "published": "2026-10-16T04:22:01+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/news/national/77z3zt/article71591100.ece/alternates/LANDSCAPE_1200/Form7.jpg",
      "licence": "linkout",
-     "id": "39c0501a5aa6",
+     "id": "dd6d09ffec0b",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Dengue testing stepped up in Chennai, over 4,500 cases recorded this year",
-     "url": "https://www.thehindu.com/news/cities/chennai/dengue-testing-stepped-up-in-chennai-over-4500-cases-recorded-this-year/article71543756.ece",
-     "summary": "The number of cases recorded in September was 1,293. More than 100 medical camps were being held every day, and 3,703 mosquito eradication workers had been deployed",
-     "published": "2026-10-16T00:30:44+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/a7hddg/article71543741.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-04%20at%2016.47.53.jpg",
-     "licence": "linkout",
-     "id": "88b0cf321a84",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "4,500 cases recorded this year",
-      "1,293. More than 100 medical camps",
-      "100 medical camps were being held",
-      "3,703 mosquito eradication workers had been"
-     ]
-    },
-    {
-     "title": "U.P. releases new sugarcane varieties eyeing increasing production",
-     "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-releases-new-sugarcane-varieties-eyeing-increasing-production/article71544504.ece",
-     "summary": "",
-     "published": "2026-10-16T00:30:40+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/k1xwyw/article71544888.ece/alternates/LANDSCAPE_1200/2026-08-10T103559Z_965047290_RC2MVMA88BXW_RTRMADP_3_INDIA-FUEL-ETHANOL-SUGAR.JPG",
-     "licence": "linkout",
-     "id": "26efa4b60226",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "\"Do Not Panic\": Indian Envoy Issues Message Amid Attacks In Saudi Arabia",
-     "url": "https://www.ndtv.com/india-news/indian-envoy-vipul-issues-message-amid-attacks-in-saudi-arabia-12192604#publisher=newsstand",
-     "summary": "Ambassador Vipul said India had condemned attacks on civilian facilities and infrastructure in Saudi Arabia and expressed solidarity with the country's people and leadership.",
-     "published": "2026-10-15T23:40:42+00:00",
+     "title": "Prashant Bhushan's 'Want Regime Change' Call, BJP Says We Told You So",
+     "url": "https://www.ndtv.com/india-news/sir-protests-cjp-prashant-bhushans-want-regime-change-call-bjp-says-we-told-you-so-12193127#publisher=newsstand",
+     "summary": "Prashant Bhushan also said spreading \"disaffection\" against a government is not a crime in a democracy, adding that the struggle is now \"really for a regime change\".",
+     "published": "2026-10-16T04:07:39+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/qrnin0h4_envoy-vipul_625x300_16_October_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-10/518fb1pc_bhushan_625x300_16_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "aa5d3a3c136a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Two Chain Snatchers Injured In Police Firing In Guwahati",
-     "url": "https://www.ndtv.com/india-news/two-chain-snatchers-injured-in-police-firing-in-guwahati-12192292#publisher=newsstand",
-     "summary": "According to DCP Pegu, the two men were remanded in police custody for two days. During interrogation, they allegedly provided vital information about the gang's modus operandi and agreed to help investigators apprehend other members.",
-     "published": "2026-10-15T21:10:17+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/4u2diias_guwahati-police-generic_625x300_27_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "79b84cb00d7f",
+     "id": "1bf7f1a1eda2",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "Kolkata Film Institute Vice Chancellor Allegedly Manhandled Amid Protest",
-     "url": "https://www.ndtv.com/india-news/kolkata-film-institute-vice-chancellor-allegedly-manhandled-amid-protest-12192408#publisher=newsstand",
-     "summary": "The VC's office was vandalised on Wednesday night, causing extensive damage. Stones were allegedly thrown at the office, shattering windows, while water and air-conditioning lines were cut, the institute said in the statement.",
-     "published": "2026-10-15T20:48:09+00:00",
+     "title": "All About Samarthak, First Multi-Purpose 'Make in India' Warship",
+     "url": "https://www.ndtv.com/india-news/all-about-samarthak-first-multi-purpose-make-in-india-warship-12193061#publisher=newsstand",
+     "summary": "The commissioning will mark another significant milestone in India's drive towards defence self-reliance and she will form an important component of the Navy's future and ideal \"utility\" ship for strategically important operations.",
+     "published": "2026-10-16T03:53:39+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/ajmgrpuo_santosh-ajmera_625x300_16_October_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-10/s20ou0ag_warship-samarthak_625x300_16_October_26.jpeg",
      "licence": "linkout",
-     "id": "f4f922bc4d5c",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "dab2f5db844d",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "\"Rahul Gandhi Thinks Mobocracy Is The Way\": Smriti Irani To NDTV",
-     "url": "https://www.ndtv.com/india-news/rahul-gandhi-thinks-mobocracy-is-the-way-smriti-irani-to-ndtv-12192153#publisher=newsstand",
-     "summary": "\"Who ensures a vibrant democracy in our country? The Election Commission of India. Who does Rahul Gandhi incessantly attack? The Election Commission of India,\" she said.",
-     "published": "2026-10-15T19:17:00+00:00",
+     "title": "'El Nino Worst In Decades': Revanth Reddy Urges Farmers To Defer One Crop Cycle",
+     "url": "https://www.ndtv.com/india-news/el-nino-worst-in-decades-telangana-revanth-reddy-urges-farmers-to-defer-one-crop-12193039#publisher=newsstand",
+     "summary": "The Chief Minister also flagged mounting pressure on electricity supplies. Daily power demand, typically around 15,000 megawatts in October, had exceeded 20,000 MW.",
+     "published": "2026-10-16T03:50:40+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/bi5d2qgc_smriti-irani-_625x300_15_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/r6el1i6k_revanth-reddy_625x300_16_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6a6c78888329",
+     "id": "af780d887bb2",
      "category": "politics",
-     "category_label": "Political controversy"
+     "category_label": "Political controversy",
+     "figures": [
+      "15,000 megawatts in October, had exceeded"
+     ]
     }
    ]
   },
@@ -703,43 +734,98 @@
    "upsc": false,
    "items": [
     {
-     "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-     "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-     "summary": "Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.",
-     "published": "2026-10-16T00:31:18+00:00",
+     "title": "Infantino apologises amid calls for him to quit as FIFA president",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
+     "summary": "Infantino spoke at FIFA’s long-awaited executive board meeting in Zurich.",
+     "published": "2026-10-16T04:45:24+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad148b5-1792100533.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792125819.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "2ea9722d109b",
+     "id": "c72e640fcb9d",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-     "summary": "Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.",
-     "published": "2026-10-16T00:02:37+00:00",
+     "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+     "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+     "summary": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.",
+     "published": "2026-10-16T02:56:21+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad1569d9dbe-1792104093.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaa7e7bce-1789558395.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "7593721356d2",
+     "id": "4e18d79e3a98",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Residents douse workers with flaming gasoline during eviction in Peru",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss",
+     "summary": "A bystander has filmed residents of a condemned building in Peru throwing flaming gasoline on eviction workers.",
+     "published": "2026-10-16T02:35:57+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792117976.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "e62ae7a4d163",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Argentine students protest on campus over Milei’s austerity",
+     "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+     "summary": "Judge fines the government for failing to fund universities as protests over Milei's cuts turn violent.",
+     "published": "2026-10-16T02:11:33+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/DDD9A9EB-2406-4A43-857E-28D4E8ED7B5B_1_102_o-1792110589.jpeg?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "5d6e9e47326f",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Three children and teacher killed in US primary school shooting",
+     "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+     "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+     "published": "2026-10-16T03:45:09+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
+     "licence": "linkout",
+     "id": "ec13367c2ac3",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-     "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-     "summary": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
-     "published": "2026-10-15T23:35:26+00:00",
-     "source": "Al Jazeera",
+     "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+     "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+     "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+     "published": "2026-10-16T01:36:45+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad14bc3c7-1792101315.jpg?resize=1920%2C1440",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
      "licence": "linkout",
-     "id": "55c2ac02c0da",
+     "id": "8e8aea70dcb1",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+     "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+     "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+     "published": "2026-10-16T05:00:17+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
+     "licence": "linkout",
+     "id": "3cb35e61d8ec",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "12 vessels were struck"
+     ]
     },
     {
      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -756,51 +842,6 @@
      "figures": [
       "60 years"
      ]
-    },
-    {
-     "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-     "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-     "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-     "published": "2026-10-15T22:37:21+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4526/live/ca62a180-c8ea-11f1-8e7c-9b1d04b5a9dd.png",
-     "licence": "linkout",
-     "id": "00114a70b39a",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "19 injured"
-     ]
-    },
-    {
-     "title": "Maduro pleads not guilty to new torture-related charges in New York",
-     "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-     "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
-     "published": "2026-10-15T16:52:44+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ed/live/681f85b0-c8b8-11f1-bdfb-e3788aeae9ec.jpg",
-     "licence": "linkout",
-     "id": "4251365e091b",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-     "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-     "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-     "published": "2026-10-15T15:26:16+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg",
-     "licence": "linkout",
-     "id": "4dfeead038ca",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "33 pupils and teacher killed"
-     ]
     }
    ]
   },
@@ -811,54 +852,44 @@
    "upsc": false,
    "items": [
     {
-     "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-     "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-     "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-     "published": "2026-10-15T15:26:16+00:00",
+     "title": "'Onion cartel' in Philippines fined $28m for price shock",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyvwyp9dgro?at_medium=RSS&at_campaign=rss",
+     "summary": "Onions were worth more than the daily minimum wage at the height of the price surge in 2022.",
+     "published": "2026-10-16T04:20:21+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4702/live/e0433ae0-c913-11f1-8fd2-6ff42d342874.jpg",
      "licence": "linkout",
-     "id": "4dfeead038ca",
+     "id": "9cf8f5781e57",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$28 m for price shock"
+     ]
+    },
+    {
+     "title": "At the scene of a school roof collapse in Pakistan",
+     "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+     "summary": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+     "published": "2026-10-15T20:31:02+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de6/live/4303b8f0-c8d6-11f1-9a39-31b474234113.jpg",
+     "licence": "linkout",
+     "id": "702027aafe12",
      "also": [
       {
        "source": "Al Jazeera",
-       "title": "At least 4, including 3 children, killed in US elementary school shooting",
-       "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-       "summary": "Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack."
+       "title": "Peshawar mourns children killed in school roof collapse",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+       "summary": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children."
       }
      ],
      "category": "crime",
      "category_label": "Crime",
      "figures": [
-      "33 pupils and teacher killed"
+      "33 pupils and a teacher were"
      ]
-    },
-    {
-     "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
-     "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
-     "summary": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
-     "published": "2026-10-15T15:05:29+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1c8/live/c7113d20-c8a9-11f1-9a39-31b474234113.jpg",
-     "licence": "linkout",
-     "id": "d12483a34204",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Actor Imran Khan ordered to leave India after participating in protest",
-     "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
-     "published": "2026-10-15T08:17:07+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f633/live/f4307ee0-c86f-11f1-971b-634f423608e9.jpg",
-     "licence": "linkout",
-     "id": "be4ddbbaaa39",
-     "category": "celebrity",
-     "category_label": "Celebrity"
     },
     {
      "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
@@ -878,28 +909,31 @@
      ]
     },
     {
-     "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
-     "summary": "The body was recovered from a large blue plastic storage container - locally called a drum.",
-     "published": "2026-10-15T07:25:54+00:00",
+     "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+     "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+     "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+     "published": "2026-10-15T15:26:16+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/16b3fb40-c857-11f1-8965-5da449ed1a42.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg",
      "licence": "linkout",
-     "id": "443851b1cdac",
+     "id": "4dfeead038ca",
      "category": "crime",
-     "category_label": "Crime"
+     "category_label": "Crime",
+     "figures": [
+      "33 pupils and teacher killed"
+     ]
     },
     {
-     "title": "Desperate to clear toxic haze, Indonesia douses its skies with dry ice",
-     "url": "https://www.bbc.co.uk/news/articles/ck1l3djr5d5do?at_medium=RSS&at_campaign=rss",
-     "summary": "Authorities in South East Asia have turned to weather modification as fires blanket the region in smog.",
-     "published": "2026-10-15T03:59:56+00:00",
+     "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+     "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+     "summary": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
+     "published": "2026-10-15T15:05:29+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/154d/live/ba327820-c873-11f1-971b-634f423608e9.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1c8/live/c7113d20-c8a9-11f1-9a39-31b474234113.jpg",
      "licence": "linkout",
-     "id": "9a72adf72422",
+     "id": "d12483a34204",
      "category": "general",
      "category_label": "General"
     }
@@ -912,67 +946,93 @@
    "upsc": false,
    "items": [
     {
-     "title": "CM alleges KCR drawing water ‘illegally’ to his farmhouse",
-     "url": "https://www.thehindu.com/news/national/telangana/cm-alleges-kcr-drawing-water-illegally-to-his-farmhouse/article71589632.ece",
-     "summary": "",
-     "published": "2026-10-16T00:35:17+00:00",
+     "title": "IAS officer’s foul language against female officer during meeting goes viral online, sparks protest from J&K officers",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ias-officers-foul-language-against-female-officer-during-meeting-goes-viral-online-sparks-protest-from-jk-officers/article71589435.ece",
+     "summary": "Mr. Ranjan could be seen directing his subordinate staff to type a “suspension order of the female officer” over her alleged remarks",
+     "published": "2026-10-16T04:31:36+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "d08ac937cce4",
-     "category": "general",
-     "category_label": "General"
+     "id": "e122a9465f48",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Surveillance strengthened on paddy movement in Tiruvallur",
-     "url": "https://www.thehindu.com/news/cities/chennai/surveillance-strengthened-on-paddy-movement-in-tiruvallur/article71544540.ece",
-     "summary": "Farmers have alleged that traders, including a few from neighbouring States, submit papers belonging to farmers and sell procured paddy",
-     "published": "2026-10-16T00:32:03+00:00",
+     "title": "Kochi synagogue arson case: What happened, and history of over 800-year-old structure",
+     "url": "https://www.thehindu.com/news/national/kerala/kochi-synagogue-arson-case-what-happened-latest-updates-history-ernakulam/article71586909.ece",
+     "summary": "A fire was deliberately set at Blossom Nursery, located in front of the historic Kadavumbhagam Synagogue in Ernakulam, around 2.40 a.m. on October 12, 2026",
+     "published": "2026-10-16T04:29:48+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/nyt1wg/article71544632.ece/alternates/LANDSCAPE_1200/paddy%20kavitha.jpeg",
+     "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-kerala/klttaw/article71586084.ece/alternates/LANDSCAPE_1200/SIT-formed-to-pG80GLQ30G.3.jpg.jpg",
      "licence": "linkout",
-     "id": "ff23d61e7d6e",
+     "id": "0476819b5df9",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "HC directs State to issue instructions to all departments to scrupulously adhere to prescribed timelines for receipt, consideration and disposal of representations",
-     "url": "https://www.thehindu.com/news/cities/Madurai/hc-directs-state-to-issue-instructions-to-all-departments-to-scrupulously-adhere-to-prescribed-timelines-for-receipt-consideration-and-disposal-of-representations/article71541721.ece",
-     "summary": "",
-     "published": "2026-10-16T00:30:45+00:00",
+     "title": "Heavy rain snarls traffic, ride-hailing fares surge in Bengaluru",
+     "url": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-snarls-traffic-ride-hailing-fares-surge-in-bengaluru/article71589436.ece",
+     "summary": "Slow-moving traffic due to waterlogging was also reported on M.G. Road, Commissionerate Road, Acharya Layout Road, Anand Rao Circle, R.P. Road towards P.G. Halli, Mehkri Circle, and Jayamahal, among other locations",
+     "published": "2026-10-16T04:28:55+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/77dp8/article71591113.ece/alternates/LANDSCAPE_1200/ALL_8033.JPG",
      "licence": "linkout",
-     "id": "39c0501a5aa6",
+     "id": "bb89e09a55bc",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Koder House fire may have originated in adjacent building, says Electrical Inspectorate",
-     "url": "https://www.thehindu.com/news/national/kerala/koder-house-fire-may-have-originated-in-adjacent-building-finds-electrical-inspectorate/article71543124.ece",
-     "summary": "CCTV footage and mobile phone videos show flames spreading from the terrace of the adjacent building to Koder House. Officials suspect a short circuit in an AC unit may have sparked the blaze, but a detailed scientific examination is needed to establish the exact cause.",
-     "published": "2026-10-16T00:27:47+00:00",
+     "title": "Colours of life: How this eight hearing-impaired women stitched a new future through skill training in Malappuram",
+     "url": "https://www.thehindu.com/news/national/kerala/eight-hearing-impaired-women-stitch-a-new-future-through-skill-training-in-malappuram/article71588949.ece",
+     "summary": "Sabna V.K., Ramya A., Afeefa K., Sameena M.K., Nimmy N., Rajeena P., Salma V.P., and Sajeena C. began ‘Colours’ after completing a assistant dress maker course under Jan Shikshan Sansthan",
+     "published": "2026-10-16T04:21:25+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5mmg9b/article71544060.ece/alternates/LANDSCAPE_1200/Kodder_house_02.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/s1q2kz/article71588932.ece/alternates/LANDSCAPE_1200/Colours.jpeg",
      "licence": "linkout",
-     "id": "c006c3f9074b",
+     "id": "6c23ec8113ac",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Today News Headlines for School Assembly, October 16, 2026: Ex-IAS officer Divya Mittal launches her political party ‘Jan Neeti Bharat’",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVE9DWV9IaTlxa0NZSE9XQVlvaFRfZTFFYzV0RmR0WlFENWZNTHp5WS0zd0ROeFpNUzJnNDVlLXZLWi1kNXBlZnN0Zm9MdUhPUVVoZTE1OHhqOFpKalI4eFhsM2tFVjl0Ym9CdW5sV3dNbjFwS19uOUk3QUhZZ0pVV2dFSi11RlpSM01WdVRTNkFMSTZ2ZG14VWo4Qk1oYUFMZW10OHJtZnYzbjRxZnVPUlB4bXA1TXctYmdQTTVLcFM5ZTBuN3RPNTFxeUd4QUw1UWxMZm9yTnBOc2liZnhMcEJvQkoxMGRqVFJaeVRWSmotNnB5OW03TFlUcDlNZ3l2aTE2TzdjVVBXSER4NmpYMUNn0gGYAkFVX3lxTE5sNFhwdDN4NTdrcnd0cnFqZ3lWclV5c1cxRGdlVUtBZkJzMWF3YWFkZ3hlSnBpWmJ2ZVk5aVhMbF9jaHQ0cTFKc0MzSzM4N0ZPR3Y0M3RLRDRmankzSWgwbnRsWlZjMkp4cklrd1NGaTJqQzBJWWFza19VNEVlT2R1YjhZZFJqUlFhMV9VTjNDZU9GcWtsbWlXLUxEcEFxRjRlSjBodGFOcWdvdk1Ick5TTzFYbEhKbkNWZnFuQXc1M25PdXVzZEN6V3VLbUZkdlhWWklTNDBpRFNwYy1vWjAzaUNPeVZ0ZTg4YWg1akF4eWpIejZFS00ydGJEN2lPbmxRY2JJVVk5bmJHTmd0R3JCZWpuNkJaY20?oc=5",
-     "summary": "Today News Headlines for School Assembly, October 16, 2026: Ex-IAS officer Divya Mittal launches her political party ‘Jan Neeti Bharat’ The Indian Express",
-     "published": "2026-10-15T12:05:41+00:00",
-     "source": "The Indian Express",
+     "title": "Abandon Pattinapakkam Assembly-cum-Secretariat complex project, insists PIL plea before Madras High Court",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/abandon-pattinapakkam-assembly-cum-secretariat-complex-project-insists-a-pil-plea-before-madras-high-court/article71542928.ece",
+     "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan would be hearing the case on October 5, 2026",
+     "published": "2026-10-16T04:19:44+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/paydcb/article71546001.ece/alternates/LANDSCAPE_1200/DJI_20260828102048_0946_D.JPG",
+     "licence": "linkout",
+     "id": "39c2d13f0790",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Top news of the day: October 15, 2026",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2V2ajFOam1wM2tkVTgxdXJCbXBjbzNVdlU3R3VRUGlFREFWOGZKM0hmVGZCeXVHcmRobGlyRExCYkNxTlU0d2F4eHNYdHIxbzRpSTJYaHpwX290cF9tYWhCaEVHVW4xM0RBd1hxcTZlQVhMYU5LTVZzTlhycGZtSnRnOUl5N2lDUUU0ZWpn0gGUAUFVX3lxTE5BMXZXSS1Gd1FwTkFBNTIydFpTZWFoMzNnX1QycGd2U1VTdjRjNjdKRzd5YUpHNUN5V3AwQ3ozcTV2eklZRkhoUXJaTWg5R1FDNy1XREpGR1ZDTy14eFR2S0hoVkZxUUdFdHMzUGJ2ZE9PbGVkbUcyaE1jT21wYklqRk9UMVhEM1NBU29saV8wVlRNX3M?oc=5",
+     "summary": "Top news of the day: October 15, 2026 The Hindu",
+     "published": "2026-10-15T13:17:32+00:00",
+     "source": "The Hindu",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "cdee039f86f1",
+     "id": "67043fd30d07",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "School assembly news headlines today- October 16: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkNWQTZ5d044SjRaSUoycFFFMnd4TkRIUUJsWWtLUUhDMWxuNlVmdEFodENLY3N1R21kV21JZExSeVNMNXpTVmtTZkNiaUF1a1liMTFFem1FclFxNk5rMVhaZ0JUVl9UWmRXREtScXNPQ3ZjdXdwWVZzNWNNWURQSzBtaWNLTEVhaGpVMEZqZm9yQmdyY3RkTENVNFA2TnZ2N3NaQUIwQ2JqMmRxSzAwbGxFVE9JS1A4OEF1aFdGQ3dSVmhNVXFKYnZnWEFqOWRWWnVZejdXLW5udHZCdmVISGdtSTF2UQ?oc=5",
+     "summary": "School assembly news headlines today- October 16: Top national, sports and world news curated for you India Today",
+     "published": "2026-10-15T12:40:41+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "b2bbb41a8d00",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -985,10 +1045,48 @@
    "upsc": true,
    "items": [
     {
+     "title": "Result of Underwriting Auction conducted on October 16, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63816",
+     "summary": "",
+     "published": "2026-10-16T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "8e4ecf8075c8",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Money Market Operations as on October 15, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63815",
+     "summary": "",
+     "published": "2026-10-16T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "c681d04582cc",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Auction of State Government Securities",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63814",
      "summary": "",
-     "published": "2026-10-15T00:00:00+00:00",
+     "published": "2026-10-16T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1007,7 +1105,7 @@
      "title": "Developments in India’s Balance of Payments for the Month of August 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63813",
      "summary": "",
-     "published": "2026-10-15T00:00:00+00:00",
+     "published": "2026-10-16T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1026,7 +1124,7 @@
      "title": "RBI issues Frequently Asked Questions on Foreign Exchange Risk Reserve",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63812",
      "summary": "",
-     "published": "2026-10-15T00:00:00+00:00",
+     "published": "2026-10-16T00:00:00+00:00",
      "source": "Reserve Bank of India",
      "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
@@ -1042,50 +1140,8 @@
      },
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63811",
-     "summary": "",
-     "published": "2026-10-15T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "56c0edba019b",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹34,000 crore on October 16, 2026"
-     ]
-    },
-    {
-     "title": "Scheduled Banks’ Statement of Position in India as on September 30, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63810",
-     "summary": "",
-     "published": "2026-10-15T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "5588527239b5",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "general",
-     "category_label": "General"
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "id": "editorial",
@@ -1132,6 +1188,78 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Hong Kong police launch AI-powered national security platform for school pupils",
+     "url": "https://globalvoices.org/2026/10/16/hong-kong-police-launch-ai-powered-national-security-platform-for-school-pupils/",
+     "summary": "The tech allows students to generate personalized stories on China’s “holistic approach to national security” – a framework advocated by President Xi Jinping covering areas from politics and economy to ecology and technology.",
+     "published": "2026-10-16T05:03:29+00:00",
+     "source": "Global Voices",
+     "byline": "Hong Kong Free Press",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/10/Screenshot-2026-10-13-10.21.50-AM-800x450.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "‘May the seeds of national security take root and sprout in the hearts of the pupils…’"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "Hong Kong police launch an AI-powered national security education platform for the city’s pupils during a ceremony on October 6, 2026. Photo: HKPF, via Facebook. Used with permission."
+      },
+      {
+       "kind": "p",
+       "text": "This article was originally published by Hong Kong Free Press on October 13, 2026. The following version is republished on Global Voices under a content partnership agreement. It is also part of Global Voices’ October 2026 Spotlight series, “Big Tech and Authoritarianism.” You can support this coverage by donating here."
+      },
+      {
+       "kind": "p",
+       "text": "Hong Kong police have launched an artificial intelligence-powered national security education platform for young students."
+      },
+      {
+       "kind": "p",
+       "text": "The NSmarties AI Interactive Platform was officially launched on October 6, 2026, at a ceremony at Precious Blood Primary School in Ap Lei Chau, with about 700 pupils attending, police said in a Facebook post:"
+      },
+      {
+       "kind": "p",
+       "text": "【 NSmarties童心護港AI互動平台 • 正式啟動 】 國家安全，由童心出發！ 由警務處國家安全處主辦的「NSmarties童心護港AI互動平台」今日（6日）於海怡寶血小學正式啟動！ 警務處處長周一鳴、警務處副處長（國家安全）江學禮、寶血會總會長區綺雯修女等一眾嘉賓，聯同約700位同學一同見證這個重要時刻。 啟動禮圓滿結束，標誌着國安教育以創新科技走進校園的新里程！ 願國安種子在同學心裏生根發芽，茁壯成長！"
+      },
+      {
+       "kind": "p",
+       "text": "[ NSmarties: Children’s Hearts Protect Hong Kong AI Interactive Platform • Officially Launched ] National security begins with the hearts of children! Organized by the National Security Department of the Hong Kong Police Force, the ‘NSmarties: Children’s Hearts Protect Hong Kong AI Interactive Platform’ was officially launched today (6th) at Sea View Precious Blood Primary School! Distinguished guests, including Commissioner of Police Joe Chow Yat-ming, Deputy Commissioner of Police (National Security) Kelvin Kong Hok-lai, and Sister Au Yee-man, President of the Precious Blood Society, joined some 700 pupils in witnessing this momentous occasion. The successful launch ceremony marks a new milestone in bringing national security education into schools through innovative technology! May the seeds of national security take root and sprout in the hearts of the pupils, and grow strong!"
+      },
+      {
+       "kind": "p",
+       "text": "The platform, jointly developed by police and Hong Kong Qianfan Technology, lets students generate personalized stories centered on China’s “holistic approach to national security” — a framework pushed by Chinese President Xi Jinping that covers areas from politics and the economy to ecology and technology."
+      },
+      {
+       "kind": "p",
+       "text": "It also features the voices of Chow and security chief Chris Tang, who explain the city’s national security laws and security information."
+      },
+      {
+       "kind": "p",
+       "text": "The ceremony marked a “milestone” in bringing national security education into the city’s schools through innovative technologies, police said."
+      },
+      {
+       "kind": "p",
+       "text": "The NSmarties platform was first unveiled on National Security Education Day in April, but it was not fully launched to the public at that time."
+      },
+      {
+       "kind": "p",
+       "text": "Hong Kong has strengthened national security education alongside a crackdown since Beijing imposed a national security law in 2020 following the 2019 protests and unrest."
+      },
+      {
+       "kind": "p",
+       "text": "Beijing inserted national security legislation directly into Hong Kong’s mini-constitution in June 2020 following a year of pro-democracy protests and unrest. It criminalized subversion, secession, collusion with foreign forces and terrorist acts — broadly defined to include disruption to transport and other infrastructure. The move gave police sweeping new powers and led to hundreds of arrests amid new legal precedents, while dozens of civil society groups disappeared. The authorities say it restored stability and peace to the city, rejecting criticism from trade partners, the UN and NGOs."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "c74355b200d5",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
      "title": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Amazon wildfires",
@@ -1210,254 +1338,6 @@
      "category_label": "Weather & disaster",
      "figures": [
       "200,000 from their homes and led"
-     ]
-    },
-    {
-     "title": "How authoritarian states are building an international market for digital surveillance",
-     "url": "https://globalvoices.org/2026/10/15/how-authoritarian-states-are-building-an-international-market-for-digital-surveillance/",
-     "summary": "Digital authoritarianism is not developing in isolation, but through the international exchange of technologies, standards, and practices.",
-     "published": "2026-10-15T04:00:07+00:00",
-     "source": "Global Voices",
-     "byline": "Daria Dergacheva",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/10/Снимок-экрана-549-800x450.webp",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "The main danger of AI in authoritarian regimes is the ability to suppress any protest"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "Moscow subway cameras are connected to a facial recognition system. Screenshot taken from the YouTube video “Facial recognition cameras help detain dissidents in the Moscow metro” by the DW YouTube channel; fair use."
-      },
-      {
-       "kind": "p",
-       "text": "Sonya, from Stavropol Krai, Russia, is 15 years old. In June 2026, she was sentenced to 70 hours of compulsory labor, connected to a February 2026 incident in which she had written the surname “Navalny” on a bus stop. That stop happened to be in a district that was being monitored by officers from the Center for Combating Extremism, commonly called Center E. Similarly, Yuri, a pensioner from Astrakhan who was also identified from surveillance footage, was given three years of restricted freedom for writing “No to War” in red marker on buildings."
-      },
-      {
-       "kind": "p",
-       "text": "Authoritarian regimes are increasingly using artificial intelligence (AI) as a technology of political survival. Cameras with facial recognition, video analytics, biometric databases, digital IDs, social media monitoring, Deep Packet Inspection (DPI) systems, and public service platforms are gradually merging into a single infrastructure of control."
-      },
-      {
-       "kind": "p",
-       "text": "Such a system makes it possible not only to observe citizens in real time, but also to reconstruct their past movements, connections, habits, communications, and political activity. The main risk is that AI and related technologies make repression faster and less visible: the state no longer needs to constantly demonstrate force if citizens know they can be identified retroactively."
-      },
-      {
-       "kind": "p",
-       "text": "Modern digital authoritarianism is not developing in isolation, but through the international exchange of technologies, standards, and practices. China, Russia, Iran, Belarus, Venezuela, countries in Africa, Western and Central Asia, and companies connected to them, sell and exchange AI infrastructure tools that are being used for the purpose of repression. Western technologies are also being bought and exchanged within authoritarian regimes."
-      },
-      {
-       "kind": "h",
-       "text": "Large language models"
-      },
-      {
-       "kind": "p",
-       "text": "In early June 2026, Sberbank Deputy Chairman Alexander Vedyakhin told Reuters that the company was offering countries in the Global South access to Russian AI models that would take “local values” into account. Vedyakhin was referring to specific large language models (LLMs) — GigaChat and YandexGPT — which Russia had been trying to develop since 2019."
-      },
-      {
-       "kind": "p",
-       "text": "However, as IT expert Alexander Isavnin told journalists at the podcast Zhivoy Gvozd, Russian generative AI models lag behind American and Chinese models and cannot even generate text in Cyrillic. Yet, new national and sovereign AI models are supposed to reflect traditional values, including patriotism, service to the Fatherland and responsibility for its fate, a strong family, historical memory and continuity between generations, and unity of the peoples of Russia. These models are expected to be trained on domestic, authentically Russian material."
-      },
-      {
-       "kind": "p",
-       "text": "It is reasonable to assume that in countries like those in Western Asia, Russian AI models will reflect adherence to Islamic traditions, while in Argentina, perhaps, they will reflect respect for football from an early age. Developers, meanwhile, do not understand how people with no idea about how any of this works can write AI laws: “In places, the document reads as if it was written by people who had only ever seen LLMs in local news.” From the perspective of global democracy, however, this illiteracy among Russian lawmakers suggests that Russia is unlikely to supply LLMs to autocracies around the world."
-      },
-      {
-       "kind": "p",
-       "text": "China, by contrast — unlike American developers — makes its language models open in principle, meaning that anyone can take the code and modify it for their own needs. In China, all LLMs are controlled and tightly regulated by the state, so party censorship is written into the code from the start — for example, you cannot get an answer about the Tiananmen Square protests. However, the models are distributed as open source, which is why more than 50 percent of Chinese model users come from developers, including those in the Global South."
-      },
-      {
-       "kind": "p",
-       "text": "At the same time, the U.S.-based ChatGPT can easily replicate AI-generated Iranian propaganda videos, in which the main characters are Lego figures. Only once, a France 24 investigation showed, did the chatbot alert the journalist that he might be inadvertently reproducing propaganda, but desisted when he said it was only satire."
-      },
-      {
-       "kind": "h",
-       "text": "Mass surveillance systems"
-      },
-      {
-       "kind": "p",
-       "text": "AI also includes other tech developments, like the so-called “smart city” systems which, in the Chinese version, imply comprehensive surveillance of a state’s own citizens. This can include video surveillance, wiretapping, internet censorship, facial recognition systems, ethnic profiling, and so on. In supplying such systems to the Global South, China has overtaken Russia."
-      },
-      {
-       "kind": "p",
-       "text": "Yet, Russia is not lagging behind in the use of AI to surveil its own citizens. State media write that Moscow has long moved beyond the threshold implied by the concept of a “smart city.” Today, it includes a complex digital urban ecosystem made up of video surveillance, AI, big data, and the “internet of things.”"
-      },
-      {
-       "kind": "p",
-       "text": "According to estimates by Comparitech, two of the ten cities outside China with the highest number of cameras per person are Russian: Moscow and St. Petersburg. The list also includes four Indian cities, Seoul in South Korea, Baghdad in Iraq, Kabul in Afghanistan, and Singapore. In China itself, the number of cameras has practically reached a ratio of one camera for every two people: the largest mass-surveillance system in the world."
-      },
-      {
-       "kind": "p",
-       "text": "Russia has sold, and in some cases, continues to supply its surveillance software products to other authoritarian states, while remaining technologically dependent on China. In 2024, up to 80 percent of all cameras used in Russia were made in China and sold under Russian brands."
-      },
-      {
-       "kind": "p",
-       "text": "China has built one of the most sophisticated domestic systems of digital control; it has also turned the export of digital infrastructure into part of its foreign policy via the Digital Silk Road, launched back in 2017. Through the initiative, China promotes digital infrastructure, technological cooperation, standards, and solutions for countries in Asia, Africa, and Latin America. Formally, these projects are described as support for the digital transformation of developing states, but they deepen partners’ dependence on Chinese technologies and create channels for the spread of AI systems, especially mass-surveillance technologies."
-      },
-      {
-       "kind": "p",
-       "text": "Experts from the Carnegie Endowment, the European Parliament, and Freedom House agree that the main danger of AI in authoritarian regimes is the ability to suppress any protest before it has even properly materialized. AI systems can help authorities detect early signals: unusual online activity, preparations, movement patterns, and links between activists."
-      },
-      {
-       "kind": "p",
-       "text": "All of this has, among other things, already been done in the digital Gulag that Moscow has built. As journalist Andrei Zakharov writes in his new book “Russian Cyberpunk,” Moscow authorities have been collecting comprehensive data on Muscovites since as early as 2014, and have been using AI to bring information from different agencies into a single database. After the 2021 protests, activists were arrested using facial recognition systems. According to Zakharov, in Moscow in 2023, there were already more than 220,000 video devices connected to a unified data storage and processing center."
-      },
-      {
-       "kind": "p",
-       "text": "Now, against the backdrop of sentences of ten-plus years for publishing an article in a foreign journal, for example, the sentences handed down in 2021 to people prosecuted after the so-called “Palace Case” seem small — but this was the first instance in which people in Russia were arrested as a result of video surveillance analysis. Police came to Yevgeny Yesenov’s apartment and arrested him the day after the rally; he became the first prisoner in the case and was sentenced to four years in a penal colony, though he was released on parole after a year and a half. While things like this happened in pre-war Russia, now, as a result of organized surveillance by the “smart city” system, anyone’s address can be found using their face."
-      },
-      {
-       "kind": "p",
-       "text": "After the start of the full-scale invasion of Ukraine, people were arrested in the same way for anti-war graffiti or for setting fire to military enlistment offices — any forms of protest that had been captured and analyzed by the country’s AI surveillance system."
-      },
-      {
-       "kind": "p",
-       "text": "As T-Invariant writes, Russia is also developing AI for drones and cryptography at Moscow State University under the leadership of Putin’s daughter, using Chinese and American gray-market chips and open Western AI technologies. It is also sharing such technologies with China and North Korea."
-      },
-      {
-       "kind": "h",
-       "text": "China and Western Asia"
-      },
-      {
-       "kind": "p",
-       "text": "Chinese participation in “smart city” projects in Western Asia is unfolding in a region where, according to the EIU Democracy Index for 2023, 16 out of 20 territories are classified as authoritarian regimes. These projects are most highly concentrated in the Gulf states: the UAE has 11 projects, while Saudi Arabia has seven. Outside this bloc, Turkey plays the most visible role with five projects, while the remaining projects are distributed among Algeria, Egypt, Iraq, Iran, Morocco, and Tunisia."
-      },
-      {
-       "kind": "p",
-       "text": "The latest Chinese concept of the “smart city,” from 2022, involves real-time information monitoring across virtually all aspects of urban life. This technology makes it possible to establish continuous real-time digital monitoring of a city, giving the government the ability to multiply its control over citizens."
-      },
-      {
-       "kind": "h",
-       "text": "China and Russia’s links with Iran"
-      },
-      {
-       "kind": "p",
-       "text": "In February 2026, research by the civil society organization Article 19 found that the architecture of internet control in Iran relies heavily on Chinese technologies. The report said that China supplied Iran with facial recognition technologies, internet filtering equipment, and surveillance tools from companies such as Huawei, ZTE, Hikvision, Tiandy, as well as smaller Chinese suppliers."
-      },
-      {
-       "kind": "p",
-       "text": "At the same time, an investigation by Le Monde and Forbidden Stories showed that Iran acquired the Russian facial recognition system FindFace, developed by NtechLab, through Iranian intermediary companies. The software was resold to entities linked to the Iranian state, including the Islamic Revolutionary Guard Corps (IRGC) and the Ministry of Intelligence."
-      },
-      {
-       "kind": "p",
-       "text": "As early as 2019, when Iranian women began receiving fines by mail for not wearing the hijab while in a car, citizens have been talking about their government’s use of digital surveillance. In December 2025, Iran and Russia signed a cooperation agreement in the fields of AI, cybersecurity, the digital economy, blockchain, fintech, and partnerships with the private sector."
-      },
-      {
-       "kind": "p",
-       "text": "Surveillance of people in authoritarian regimes is organized by both cameras and control of internet traffic. The Russian company Protei, headquartered in Jordan but rooted in St. Petersburg, has reportedly supported Iran’s efforts to introduce systems for interception, monitoring, and traffic management, as well as to integrate DPI into network architecture. Its clients include MTN Irancell, Iran’s largest telecom provider, as well as operators and government entities in Tajikistan, Uzbekistan, Pakistan, Kenya, Namibia, Qatar, and other countries."
-      },
-      {
-       "kind": "p",
-       "text": "Taraneh M., an artist living in Iran who was detained during the “Woman, Life, Freedom” protests, said that in 2022 she had prepared for the possibility of arrest by securing her devices, deleting confidential information, and setting self-destruct timers for personal chats. Nevertheless, investigators presented her with a thick dossier of her social media posts, some of which dated back five years. Although she has been released, Taraneh is now afraid to speak on the phone lest she is being monitored."
-      },
-      {
-       "kind": "h",
-       "text": "The China-Russia relationship"
-      },
-      {
-       "kind": "p",
-       "text": "Although AI development in China has surpassed Russia’s, cooperation exists in the supply of Chinese technologies, as well as scientific development."
-      },
-      {
-       "kind": "p",
-       "text": "In January 2025, on the heels of Russia’s attempts to create a network of AI alliances with BRICS and other non-Western partners, Vladimir Putin instructed the Russian government and Sberbank to deepen cooperation with China, especially with regard to AI “technological research and development.”"
-      },
-      {
-       "kind": "p",
-       "text": "The immediate stimulus was sanctions, Russia’s access to advanced chips and AI equipment was restricted after its invasion of Ukraine, but its dependence on China has persisted in recent years. Supplies for new servers, for example, which Russia does not manufacture, came from China through intermediary firms."
-      },
-      {
-       "kind": "p",
-       "text": "As T-Invariant discovered, however, joint developments are being conducted in two areas: training AI for drones and mass surveillance of people. In November 2025, the creation of two joint laboratories was announced: one for nano-structured optoelectronic materials and devices, and another for AI algorithms and their applications."
-      },
-      {
-       "kind": "h",
-       "text": "North Korea gets involved"
-      },
-      {
-       "kind": "p",
-       "text": "Russia and North Korea are cooperating in testing AI in military operations: North Korea supplies weapons that are tested in Russia’s war on Ukraine, and data that may improve North Korean systems, including AI-guided systems, is passed back to North Korea. In May 2026, North Korea tested high-precision cruise missiles and artillery systems with AI guidance."
-      },
-      {
-       "kind": "p",
-       "text": "According to analysts, “AI” likely refers to automatic target recognition and terminal-stage guidance, although the level of technological sophistication remains unclear."
-      },
-      {
-       "kind": "p",
-       "text": "Since late 2023, North Korea has supplied Russia with ballistic missiles and artillery rockets, and their use on the battlefield in Ukraine is believed to have given Pyongyang, and likely Russia, valuable operational data."
-      },
-      {
-       "kind": "h",
-       "text": "The China-Venezuela-Belarus triangle"
-      },
-      {
-       "kind": "p",
-       "text": "In Venezuela, authoritarian digital control is being built through international supply chains. Regimes do not necessarily create such systems themselves. Instead, they buy cameras, servers, video analytics platforms, DPI systems, algorithms, and software, often from countries also experiencing digital authoritarianism."
-      },
-      {
-       "kind": "p",
-       "text": "China’s Dahua, despite being added to the U.S. Entity List in 2019 because of its involvement in repression in Xinjiang, retained access to the Venezuelan market and discussed the integration of AI into surveillance systems with the authorities. Possible participation by Huawei, ZTE, and China CAMC in projects is also mentioned, although their role remains unspecified."
-      },
-      {
-       "kind": "p",
-       "text": "Between 2021 and 2023, the Venezuelan interior ministry also held talks with the Belarusian company Synesis, which is under U.S. sanctions for technologies that Belarusian authorities used to identify and arrest protesters. The Kipod software offered to Venezuela included facial recognition; searches for specific people and routes; license plate recognition; detection of weapons, abandoned objects, smoke, and crowds; perimeter control; and monitoring of traffic violations."
-      },
-      {
-       "kind": "h",
-       "text": "Countries on the African continent"
-      },
-      {
-       "kind": "p",
-       "text": "A 2026 Institute of Development Studies (IDS) report on surveillance in “smart cities” in Africa showed the spread of Chinese AI-surveillance systems in 11 countries, including Algeria, Egypt, Kenya, Rwanda, Senegal, and Zimbabwe."
-      },
-      {
-       "kind": "p",
-       "text": "Carnegie’s study on the global use of AI in human surveillance predicted that the adoption of such technologies in Africa is likely to grow. Chinese exports of surveillance systems are being used in authoritarian contexts — including in Uganda and Myanmar, often through companies such as Huawei, Hikvision, and Dahua."
-      },
-      {
-       "kind": "p",
-       "text": "As in Western Asia, China-Africa cooperation in AI may look like assistance in developing “smart cities,” but its repressive use is connected with control over citizens."
-      },
-      {
-       "kind": "h",
-       "text": "Central Asia included"
-      },
-      {
-       "kind": "p",
-       "text": "Governments in Central Asia have actively purchased Chinese digital public-security systems. A report by the Caspian Policy Center says that in 2013, Tajikistan cooperated with Huawei to create a safe city surveillance system in Dushanbe worth about 22 million USD, largely financed by a Chinese loan."
-      },
-      {
-       "kind": "p",
-       "text": "Other publications note that Chinese companies occupy leading positions in “safe” and “smart city” projects across Eurasia, especially because the region offers relatively open markets for Chinese technologies."
-      },
-      {
-       "kind": "p",
-       "text": "Chinese censorship systems and related tools have also appeared in Kazakhstan, Pakistan, and Ethiopia, but cooperation between China and Central Asia mainly represents the export of AI surveillance technologies under the rhetoric of crime prevention."
-      },
-      {
-       "kind": "h",
-       "text": "What can be done?"
-      },
-      {
-       "kind": "p",
-       "text": "Even supposedly democratic states have employed surveillance technologies to spy on their citizens. One of the most functional proposals to hinder the development of such authoritarian digital tools is to make Western technologies open source, and move digital strategies away from sovereignty and towards inclusion of the majority world : not as territories of extraction for the energy and water to run powerful data centers that serving Western AI models, but as actual participants in digital strategies and AI governance."
-      },
-      {
-       "kind": "p",
-       "text": "Such an approach would include sustainable development and practical concerns like agriculture, healthcare, education, transport, urban planning, adaptation to climate change, and many more human-centered priorities."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "3822f8d7d378",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "15 years old",
-      "70 hours of compulsory labor, connected"
      ]
     }
    ]
@@ -1685,68 +1565,76 @@
      "category_label": "General"
     },
     {
-     "title": "Centre approves 30-day bonus for government employees: Check eligibility, ₹6,908 payout and service rules",
-     "url": "https://www.livemint.com/money/personal-finance/centre-approves-30-day-bonus-for-government-employees-check-eligibility-6-908-payout-and-service-rules-11792087560806.html",
-     "summary": "The Centre has approved a 30-day ad-hoc bonus for eligible Central government employees for 2025-26. The payout can reach ₹6,908 under the ₹7,000 monthly calculation ceiling, with pro-rata payments for shorter service and separate eligibility rules for casual labourers.",
-     "published": "2026-10-15T18:21:09+00:00",
+     "title": "8th pay commission: Constituted in November 2025 — Almost a year later, check key updates so far",
+     "url": "https://www.livemint.com/money/8th-pay-commission-constituted-november-2025-almost-year-later-key-updates-recommendations-may-2026-employees-da-salary-11792121849642.html",
+     "summary": "The 8th CPC is consulting employees, pensioners and other stakeholders before submitting recommendations on pay, allowances, benefits and pensions. Its report is due by May 2027. A year since constitution, here are the key updates…&nbsp;",
+     "published": "2026-10-16T04:46:03+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/15/600x338/Gemini_Generatd_Image_qnt6mcqnt6mcqnt6_179208807_1792088084728_1fOH_1792088084876_sLjB_292368a9-67a2-4097-9b03-87ff7228e2ec_9O2d.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/16/600x338/8th_CPC_Mumbai_meet_1790086995574_LZCN_17900870065_1792125799861_W9QD_1792125799978_LxKW_5711df61-38a6-4511-baba-2f447767f9eb_L6uQ.png",
      "licence": "linkout",
-     "id": "77fcbc2482c0",
+     "id": "3479d9c639a9",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "PRIM mutual fund route explained: How the new PMS option works, ₹25 lakh minimum investment and contract renewal rules",
+     "url": "https://www.livemint.com/money/personal-finance/prim-mutual-fund-route-explained-how-the-new-pms-option-works-25-lakh-minimum-investment-and-contract-renewal-rules-11792117307421.html",
+     "summary": "SEBI’s PRIM route lowers the minimum investment for portfolio management services to ₹25 lakh from ₹50 lakh under the conventional PMS route. But renewals are treated as fresh investments, raising questions about investors whose portfolios fall below the threshold.&nbsp;",
+     "published": "2026-10-16T04:12:32+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/16/600x338/primrr_1792119699203_tqqJ_1792119704083_ce3T_3286a302-fb12-44aa-a4c0-40883c3069fe_AZRW.png",
+     "licence": "linkout",
+     "id": "c7f5076256b6",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "₹6,908  payout and service rules",
-      "₹6,908  under the ₹7,000 monthly",
-      "₹7,000  monthly calculation ceiling"
+      "₹25 lakh minimum investment and contract",
+      "₹25 lakh from ₹50 lakh under",
+      "₹50 lakh under the conventional PMS"
      ]
     },
     {
-     "title": "Retired before April 2023? ITAT allows LIC employee to claim tax exemption on ₹9.04 lakh leave encashment",
-     "url": "https://www.livemint.com/money/personal-finance/retired-before-april-2023-itat-allows-lic-employee-to-claim-tax-exemption-on-9-04-lakh-leave-encashment-11792084621339.html",
-     "summary": "A retired LIC employee won ITAT Jaipur relief on ₹9.04 lakh in leave encashment after the tax department restricted her exemption to ₹3 lakh. The ruling examines whether the enhanced ₹25 lakh limit introduced in 2023 can benefit employees who retired earlier.",
-     "published": "2026-10-15T17:33:46+00:00",
+     "title": "Gold, silver prices today, 16 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+     "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-16-october-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11792083769665.html",
+     "summary": "Gold and silver prices today, 16 October: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+     "published": "2026-10-16T04:04:24+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/15/600x338/Gemini_Geneated_Image_h56k7lh56k7lh56k_1792084848_1792084855546_Nsuq_1792084855726_eXoF_c2beb101-e417-4e64-9064-4fc30ea67655_kunZ.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/15/600x338/gold_and_silver_1792083853962_KZA2_1792083854089_YUXs_8f8eae76-03e7-4df2-8dbe-c53702b49624_BXnn.png",
      "licence": "linkout",
-     "id": "6193fa247d5d",
+     "id": "db8ab8cf2abf",
      "category": "money",
      "category_label": "Money & scams",
      "figures": [
-      "₹9.04 lakh leave encashment",
-      "₹9.04 lakh in leave encashment",
-      "₹3 lakh",
-      "₹25 lakh limit introduced in 2023"
+      "999 silver in Delhi, Mumbai",
+      "999 silver retail rates across Delhi"
      ]
     },
     {
-     "title": "Gold price forecast: Why investors expect record highs within 2 years",
-     "url": "https://www.livemint.com/money/personal-finance/gold-price-forecast-why-investors-expect-record-highs-within-2-years-11792080726706.html",
-     "summary": "For now, investors &nbsp;see continued central bank buying and demand for safe-haven assets as key supports for bullion. However, predictions of fresh record highs remain forecasts rather than guarantees.",
-     "published": "2026-10-15T17:32:10+00:00",
+     "title": "DA news: Himachal Pradesh to release dearness allowance installment for Diwali? CM Sukhu says...",
+     "url": "https://www.livemint.com/money/da-news-himachal-pradesh-release-dearness-allowance-installment-diwali-2026-cm-sukhu-welfare-state-government-employees-11792116895722.html",
+     "summary": "DA news update: Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu said the state government is considering releasing a Dearness Allowance (DA) instalment on Diwali this year. Here's what we know…&nbsp;",
+     "published": "2026-10-16T03:35:44+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/15/600x338/photo-8442328_1791648405977_CwLN_1791648421_1792085221765_oZpg_1792085221917_m2a4_c8386137-8d9d-4d79-9e3e-c24cc465c580_mYj2.jpeg",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/16/600x338/Untitled_design_1788183583774_1788183593272_36b23994-8230-4e2f-9d6b-889dc0337296_1792121205446_mWc0_1d1330a8-e198-4540-9e6b-9a00fa50ecfb_StGU.png",
      "licence": "linkout",
-     "id": "940accbce29a",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "2 years"
-     ]
+     "id": "7bea0b4526e3",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Sundaram Finance hikes interest rates on fixed deposits; offers up to 8% returns — check details and effective date",
-     "url": "https://www.livemint.com/money/personal-finance/sundaram-finance-hikes-interest-rates-on-fixed-deposits-offers-up-to-8-returns-check-details-and-effective-date-11792079598334.html",
-     "summary": "Sundaram Finance has raised fixed deposit rates from October 16, 2026. Check revised rates across different tenures.&nbsp;",
-     "published": "2026-10-15T16:59:43+00:00",
+     "title": "Bandhan AMC’s Suyash Choudhary on RBI rate hikes, bond yields, and debt strategy",
+     "url": "https://www.livemint.com/money/personal-finance/rbi-rate-hikes-suyash-choudhary-bandhan-amc-fixed-income-bond-yields-debt-mutual-funds-11791994802619.html",
+     "summary": "Bandhan AMC’s Suyash Choudhary explains how rising rates affect savers, why investors should keep debt portfolio duration short, and how to balance yield, credit quality and currency risk.",
+     "published": "2026-10-16T03:30:23+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/15/600x338/budget_4_-mutual_fund_1729323707643_1792083467309_40du_fb67b1d5-95ae-4d10-96ea-5d2d49fafa3e_VkZG.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/15/600x338/Suyash-Choudhary_1792041893733_H5oO_1792041893923_qN6d_0a2a0ee7-f3a4-4217-90b4-a8f62b015276_1o3y.JPG",
      "licence": "linkout",
-     "id": "f70883e605ea",
+     "id": "8bc503158913",
      "category": "general",
      "category_label": "General"
     }
@@ -1811,6 +1699,19 @@
      "category_label": "AI & technology"
     },
     {
+     "title": "GlobalLogic is opening an artificial intelligence lab at Technical University of Cluj-Napoca",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelNBQmVCS0ZqY2l4QTIxX1RhejZ1ZjdGeUZEcFdRWVo1MXMyT1V2OWM1QjNXWFJFUmRwSEx6X3VEVm0tZk93SnZrUEV4R3gya0phTWpkZGxXTVdYSkFVUzFDVENOV2RLamtXOUJoU1AxVTgwcUNpa05LQk16dndRZDVUeVZFdEdSQUZYeDVJZHJGeHlTZXktb1BRd0wxOWV0aVNVUnIyb2ZHQ2JTSVRJUWZSSmdTeWF1SnJMSTc5ZGFkVU5IZHBybGk0VUU3V2M?oc=5",
+     "summary": "GlobalLogic is opening an artificial intelligence lab at Technical University of Cluj-Napoca Business Review",
+     "published": "2026-10-15T15:51:06+00:00",
+     "source": "Business Review",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "c722511f68b2",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "Artificial intelligence may create more jobs than it replaces in India: Piyush Goyal",
      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNR3IyLTJXYi0yRG5zakdIeGRHaUZ1aHdUMHVfRTFWdGgtNkltTWcwTVZXQThIMV9RTy01X1lQODR1UHhRclJ2OS1kaEFQRlA1YmlHbjJVcHkzYVViVE12UmMwRndrcUZqajdMckhqZll5bmswenREYXVqVkdrRUU2ekkwM1FzLTJEb3liOG5tQlhPdlQtU0ROdlNPWFVYZUp5RFVSaHplR25iX29URUJyWlJWdHpqUjVSQXNlSWRUdklXNHVEOHN5VkpoUHUzckgtdTNpajVHTDF3VWlnNk16UEYtMC02RWlvWkxiblNKVXZGTEVYYzBmNHdaYmFOZ0JBTnFPT0lESUFERUpGdWNlNmhMSHFnTHpZOXlPTEl0R3JTM25YS3QzadIB5gFBVV95cUxOWFJUUnhwcERaNlU4Ujh3anhVVDAzYTl5amMycWNWM1FLUFJBQlptUkFqU2t0elZrN2oxR0V3VzR0MWNyVjE4cjZKR2VIa3NILW56Zy1FUXBTWFNrU0twaG1tdTNjSUpxRThjalFBSEJWY29zOG1BVUtTUTBQY3B1NVc1VGdHVnZlby02U1J6VEpxc29qOWc2YmJILXFQcENQdnZ3Zy1tYlc5WGJLWjVPTEJ4Wl9yQlVrMVdHbE81aktsM0RwOVAtNmhQQzhTaUsxNmNpbnd3OHlnVWNEN05iSnJiandHdw?oc=5",
      "summary": "Artificial intelligence may create more jobs than it replaces in India: Piyush Goyal ETHRWorld.com",
@@ -1832,73 +1733,59 @@
    "upsc": false,
    "items": [
     {
-     "title": "Donald Trump’s Sophie Cunningham Post Divides WNBA Fans After Ohio Rally Remarks",
-     "url": "https://sports.ndtv.com/us-nba/donald-trump-s-sophie-cunningham-post-divides-wnba-fans-after-ohio-rally-remarks-12192314#publisher=newsstand",
-     "summary": "Donald Trump shared Sophie Cunningham’s viral pointing photo on Truth Social, prompting mixed WNBA fan reactions after his Ohio rally remarks about the Indiana Fever guard.",
-     "published": "2026-10-15T19:57:02+00:00",
+     "title": "Free Entry For Female Spectators For India-Zimbabwe Women's T20Is In Raipur",
+     "url": "https://sports.ndtv.com/cricket/free-entry-for-female-spectators-for-india-zimbabwe-women-s-t20is-in-raipur-12191910#publisher=newsstand",
+     "summary": "Female spectators will be allowed free entry to the three women's T20Is between India and Zimbabwe, starting at the Shaheed Veer Narayan Singh International Cricket Stadium in Raipur, following a suggestion from the state's Chief Minister Vishnu Deo Sai.",
+     "published": "2026-10-16T04:43:43+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/69oq5hl8_donald-trump-and-sophie-cunningham_625x300_14_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/p3or69vc_smriti-mandhana-getty_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4e81467bdaf1",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Paige Bueckers’ Unselfish Play Could Be Holding Her Back? Alysha Clark Explains The Dallas Wings Star’s Next Step",
-     "url": "https://sports.ndtv.com/us-nba/paige-bueckers-unselfish-play-could-be-holding-her-back-alysha-clark-explains-the-dallas-wings-star-s-next-step-12192259#publisher=newsstand",
-     "summary": "Paige Bueckers averaged 20.9 points and 5.9 assists for Dallas in 2026, while teammate Alysha Clark believes learning when to take control could unlock another level.",
-     "published": "2026-10-15T19:13:20+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/p6qeup5o_paige-bueckers-_625x300_27_September_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "c865dd6005f9",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "20.9 points and 5",
-      "5.9 assists for Dallas in 2026"
-     ]
-    },
-    {
-     "title": "Kendrick Perkins Apologises To Tyrese Haliburton After Calling Him Overrated",
-     "url": "https://sports.ndtv.com/us-nba/kendrick-perkins-apologises-to-tyrese-haliburton-after-calling-him-overrated-12192238#publisher=newsstand",
-     "summary": "Kendrick Perkins apologised to Tyrese Haliburton on ESPN after calling him overrated, praising his leadership and clutch play as the Indiana Pacers guard returns from an Achilles injury.",
-     "published": "2026-10-15T19:05:24+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-06/ogp3g99_kendrick-perkins_625x300_20_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a4a343104ca6",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Bill Simmons Questions LeBron James’ Sacrifice As Philadelphia 76ers Face A Star-Role Problem",
-     "url": "https://sports.ndtv.com/us-nba/bill-simmons-questions-lebron-james-sacrifice-as-philadelphia-76ers-face-a-star-role-problem-12192229#publisher=newsstand",
-     "summary": "Bill Simmons questions whether LeBron James will willingly sacrifice his role as the Philadelphia 76ers bring together several stars, raising concerns about team chemistry, shared responsibility and championship hopes.",
-     "published": "2026-10-15T19:05:05+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/j5ijccnk_lebron-james-reveals-winning-formula-for-knicks_625x300_15_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a7648e896784",
+     "id": "1de997d4089b",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "NBA Hall Of Famer Amar’e Stoudemire Joins Miami-Dade Schools Police Department After Graduation",
-     "url": "https://sports.ndtv.com/us-nba/nba-hall-of-famer-amar-e-stoudemire-joins-miami-dade-schools-police-department-after-graduation-12192193#publisher=newsstand",
-     "summary": "Amar’e Stoudemire has graduated from Miami Dade College’s law enforcement academy and will join the Miami-Dade Schools Police Department, fulfilling a childhood dream inspired by his family.",
-     "published": "2026-10-15T18:38:11+00:00",
+     "title": "BCCI Sent Urgent Plea By Ex-Chief Selector On Bowlers' Behalf Ahead of 5th India vs West Indies T20I",
+     "url": "https://sports.ndtv.com/cricket/bcci-sent-urgent-plea-by-ex-chief-selector-chetan-sharma-on-bowlers-behalf-ahead-of-5th-india-vs-west-indies-t20i-12192717#publisher=newsstand",
+     "summary": "Ex-chief selector's remarks came against the backdrop of the ongoing five-match T20I series between India and West Indies, which has largely become a nightmare for bowlers.",
+     "published": "2026-10-16T04:41:53+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/fkjl87m8_amare-stoudemire_625x300_16_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/e7vv45r8_team-india-afp_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "ca2288df116d",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "a5ef7ed3da1f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Eric Bieniemy Breaks Silence On Heated Exchange With Patrick Mahomes",
+     "url": "https://sports.ndtv.com/us-nfl/eric-bieniemy-breaks-silence-on-heated-exchange-with-patrick-mahomes-12193175#publisher=newsstand",
+     "summary": "Eric Bieniemy addressed his heated sideline exchange with Patrick Mahomes, explaining why he welcomes player frustration as the Kansas City Chiefs prepare for their next game.",
+     "published": "2026-10-16T04:25:07+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/3bclar1g_patrick-mahomes_625x300_16_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8ea3a5a749cb",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "NFL Trade Rumors: Brian Thomas Jr., Jerry Jeudy And Quentin Johnston Emerge As WR Targets Before Deadline",
+     "url": "https://sports.ndtv.com/us-nfl/nfl-trade-rumors-brian-thomas-jr-jerry-jeudy-and-quentin-johnston-emerge-as-wr-targets-before-deadline-12193112#publisher=newsstand",
+     "summary": "Various popular WRs, including Brian Thomas Jr., Jerry Jeudy and Quentin Johnston headline the wide receivers who could attract trade interest before the NFL's November 10 deadline.",
+     "published": "2026-10-16T04:14:30+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/o5c09u5s_brian-thomas-jr_625x300_16_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3ddf16b05256",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "10 deadline"
+     ]
     }
    ]
   },
@@ -1915,7 +1802,7 @@
      "published": "2026-10-15T23:01:49+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/718c/live/00b0e6b0-c8e7-11f1-8fce-870ed9afa8a0.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f9/live/eadcb880-c901-11f1-9943-e1428cb923d3.png",
      "licence": "linkout",
      "id": "b9392d54cb8c",
      "category": "celebrity",
