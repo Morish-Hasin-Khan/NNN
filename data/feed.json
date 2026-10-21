@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T21:45:51.681506+00:00",
+ "generated_at": "2026-10-21T00:13:11.237698+00:00",
  "podcasts_fetched_at": "2026-10-19T15:11:05.761433+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
+  "More People",
   "Zelensky Trump",
-  "Delhi Police",
   "Jazeera English",
   "News",
   "Punjab Announces",
   "Nobody Indian",
-  "Bengal",
-  "Haryana",
-  "Trump Canadian",
-  "Trump Congress"
+  "Left Durga",
+  "Dasara Singareni",
+  "Iran Tehran",
+  "Moment"
  ],
  "sections": [
   {
@@ -102,6 +102,24 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "4 More People, Including 2 Women, Arrested In Tiger Shroff Shooting Case",
+     "url": "https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand",
+     "summary": "Radha and Babita were arrested at the New Delhi Railway Station, while Kunal and Sumit were arrested in Sonipat, Haryana.",
+     "published": "2026-10-20T23:10:00+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/dkarvd4k_shroff_240x180_20_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "abc1c6302044",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "4 More People, Including 2 Women",
+      "2 Women , Arrested In Tiger"
+     ]
+    },
     {
      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
@@ -117,43 +135,43 @@
      "from_section": "Global News"
     },
     {
-     "title": "Delhi Police Transfers CJP Leaders' Case To Crime Branch Ahead Of Hearing",
-     "url": "https://www.ndtv.com/india-news/delhi-police-transfers-cjp-leaders-saurav-das-ashutosh-ranka-case-to-crime-branch-ahead-of-hearing-12212544#publisher=newsstand",
-     "summary": "The Crime Branch will now investigate two cases against the CJP leaders. The other case linked to Das and Ranka allegedly entering the Jantar Mantar area was transferred to the Crime Branch on Monday.",
-     "published": "2026-10-20T19:28:31+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/iiu93rg8_ashutosh-ranka-saurav-das_625x300_19_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b611a11d2bf6",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "One dead, few injured in firing inside SGNP",
-     "url": "https://www.thehindu.com/news/cities/mumbai/one-dead-few-injured-in-firing-inside-sgnp/article71605463.ece",
-     "summary": "The incident occurred in the SGNP's Chena beat in the Yeoor Range, Thane, police said. After being alerted, forest department personnel along with police teams rushed to the spot for inspection",
-     "published": "2026-10-20T19:18:04+00:00",
+     "title": "Chennai Mayor alleges online harassment; lodges complaint with police",
+     "url": "https://www.thehindu.com/news/cities/chennai/chennai-mayor-alleges-online-harassment-lodges-complaint-with-police/article71605434.ece",
+     "summary": "",
+     "published": "2026-10-20T19:42:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/ywamhm/article71605473.ece/alternates/LANDSCAPE_1200/iStock-871380072%209.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/74y2gv/article71605456.ece/alternates/LANDSCAPE_1200/MAYOR_PRIYA_INTERVIEW_3.jpg",
      "licence": "linkout",
-     "id": "583b18ab71e1",
+     "id": "b1a312547bf2",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "Why the war on Iran could backfire on US regime-change goals",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
-     "summary": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
-     "published": "2026-10-20T20:23:52+00:00",
+     "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+     "summary": "Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.",
+     "published": "2026-10-21T00:00:00+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792527825.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260618__B7HW7UM__v1__HighRes__IranUsIsraelWarTransportHormuz-1792534509.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "68221c160ee2",
+     "id": "3c19cd940bc9",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+     "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+     "summary": "The US president's remarks come amid a deepening feud with Ukraine's President Volodymyr Zelenskyy.",
+     "published": "2026-10-20T22:20:13+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad7cfb4afdad-1792528308.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "dadd66fbb976",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
@@ -182,6 +200,12 @@
        "summary": "2 Indians among 28 green card holders charged with election fraud in US The Indian Express"
       },
       {
+       "source": "Firstpost",
+       "title": "Two Indian nationals among 28 charged in US election fraud crackdown",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaWhMRDJFWGh4dDlQUDF1bVl2NThycXF3clQtbHMwMzN6TkRtOHVrLW1zY3pKZ0lzSHNJOXhoUGt1dGIyYTAxZTZSU1lGZG11MXF4RFpJUzM4Yml6NmZwdnl4cGFtTzltWWpSSkFZcDB5U2hZMTJfWllOaHRWcjJKazJQd0dLUW85N3M1VElRUno3SVFWSjN0NVdlUnRpczN4OW1qcUNNbGNKTEQ2dHhOSEdCbTZTU0xhZ0hqRW5yZ1FuNWV6RDFDbjJB0gHPAUFVX3lxTE12al9OUjlRbDhyVzJuYnFtTHhaWXlacGdlVFhXUWJDSDJrbHJOUUpvWWpfOElKVWJVdlhpQlFzNWw2Y3pMMEMzZWI1TUpGclc4QUtkRDJQanBBalhmeGpjU05fdklITWlnZmtBdzJWMmdSeVBvY0FmMVowdjhNOFRfcTJKdmhSX25KNjB3TGFZNUktZ0xoM1ZqQW5seUJxYjNjNV92YVdKUllYOGhkaW11c21TWjdiRzh4czRyRV9TWjkzdlJrU3oxekR2VERLUQ?oc=5",
+       "summary": "Two Indian nationals among 28 charged in US election fraud crackdown Firstpost"
+      },
+      {
        "source": "India Weekly",
        "title": "Two Indian nationals among 28 green card holders charged with election fraud in California",
        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDI3Z1NvaC1XN2lJSE5WMEg5YkRWMzNqSXFJYm9sQ0puZ3J1ck1oVkJGRzUxSjAyMVM4QTBtRl9XRTBhX2dNVVlkejdpVGxGb0NUU3FNcUp2LTNFSzY5M3UwODJwcTBaWl96Qk8yLXpkVjR1dkt3cEVZV3VXM0xPa0VBS3had1NvcXQ0SHVFS0NETDcxQ3F6NDF0LVBvNUxuTDY4?oc=5",
@@ -192,12 +216,6 @@
        "title": "Two Indian-Origin Green Card Holders Among 28 Charged In US Election Fraud Case",
        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1VWV3J1Q3ZXT3MwY1RhZVVzY0VMVUdVZjZhUXZmaVhKdGNQUG95Z0VMR3JIS3Bpa1FldTBBc2F4UENFUXJZeFBVUFFqYlF6LThhUkZOTXl5aTUzZ2Nlb2FWeWdTWEtLWWJEZ3NkaVZSNUFlNHhGaEREMVJQMFRiTmw2QWplZkhiNlQ1WWxyaVNfUk9KT2k5WFFWcUdzSnhVQldBYlF0YmdvRjdpdVF3UkRQRmlLd3JlUHFVNXB3?oc=5",
        "summary": "Two Indian-Origin Green Card Holders Among 28 Charged In US Election Fraud Case News Mobile"
-      },
-      {
-       "source": "The Week",
-       "title": "US voter fraud crackdown: Who are the two Indians charged with election crimes in California?",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSV9aYXkwN3Bwc0hYTC1SRGJXWlNrWGZUM0pSSnNWTktMcTBCMENKN1BFWS11UUgzWlI5b2xiSF85S1dheWQ2enZwbzBFYl9mb240d3IxY3RUT2psUk52c1VQNmVOSXNCU09UeEJDNXBiRWlsdHJydEpPZzdsRG9GWHN3dUhEQXA4aS1xVVlGdUcyNXBoTG4zV3NVaXliZjk1S3ROamhwTmFfM3Z6VHFaOUtxOUlHVmZTU3FPUmZ0RmN4NlBhWXdHd2lOcVNkYU1qN191YmJTSU7SAd4BQVVfeXFMUHBPd0VoMGE4NnktUzhaVGtDYlpiZFhkRGhDYXl6UmU2V1p4Uk9QV1dCSC1lWUU3cmJMTUxfRllsMWlXZ21VQmRWX2NYa1pfbjFQTHZnNk5xUmZ6cEtXNnl6X1BuenRqb0sxWUk1dm9yMWwtUXY0SGR4MHRaTElIaDBPQjhBM18wWjlscEh3Mnpjd01RZ3A0TUd6ZktQQjhLZnE1RUdwYThFYk9pTk5aZFVtVFVyM3ptUmVtQXA4MDY4cmk5SnVrRWM0VHZHOTh4T1FvMlVLVVVNWlhMNTFn?oc=5",
-       "summary": "US voter fraud crackdown: Who are the two Indians charged with election crimes in California? The Week"
       }
      ],
      "category": "politics",
@@ -217,9 +235,9 @@
      "also": [
       {
        "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, October 21, 2026: Chhattisgarh’s Sirpur in UNESCO’s heritage list; US Secretary Marco Rubio visits India",
+       "title": "Today News Headlines for School Assembly, October 21, 2026: Prince Harry looks to reconcile with Royal Family, Marco Rubio in India",
        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPN2Ntd0VHVnllMFFfdnllOEtyQlppRXQ1R181SlJNRm1rQTNoX19KWW9xRE1yZ0hOWGUyTGVSZ3lNVzJ4c1J6Q1pKcTZEcFNsY2JKdTNTVGZQM3NDNkVBUmstM1Y0a1VUbm9aczJCY3JGZlo4TXdwWlVTeWFiT0lpbEZYTFFoWnFNSWozWk9oRnFzbnZ5X1o5MWZiYW1tOGR0cXp5NS1nNHZxWU13ajNXbV9aUnc2X3Q3WTVWWF9xUE5RMFRITDBjcklOeC1tMEpVLWp6QW5HYTUzU0w3OFlSbDQzS0Q5bldKX2NrbS0wTVlieVNja1VyX2JlSWUxRzl5WmZVOGhlRHpTZmxNNG1GMF8yQXdnZlotUWQ5dTRrQdIBpgJBVV95cUxNSlpnT19FRUhPdFFGb3Jtc0kzTlBkZEhUNlJacXNvak5ja1lkS0tsVEhTM3VkSGZvQktQeW52MGJkTm5hNGRIOEVzZGpRamMzSEFwWktxNXF4S1pWTjlycUt5Y1d5U1NZMXRDeXRQQkxnUHpHeUVfWFdrMGVyTS1UcmR2UGZ0VnBmUllsOTJZM3R5dDZ3YVM0NkEycDN0RWpxSjJzWjdMVHZtS3NmTWRLa0REeENNVmFpcmNnLXRoeS1mOU9vT0s5MmR3ZEdWaVBJeEVLcUNHallMdjhnT21jeWxHbEJLMXRxMENBc0VEV2JZNC1Ma0x1QnVSMVJwVmkzRzN4dE1FdS1vM2JDUUdWQWwxUGRJTURSeDF2YWhDcVdtaExSbFE?oc=5",
-       "summary": "Today News Headlines for School Assembly, October 21, 2026: Chhattisgarh’s Sirpur in UNESCO’s heritage list; US Secretary Marco Rubio visits India The Indian Express"
+       "summary": "Today News Headlines for School Assembly, October 21, 2026: Prince Harry looks to reconcile with Royal Family, Marco Rubio in India The Indian Express"
       }
      ],
      "category": "politics",
@@ -227,43 +245,18 @@
      "from_section": "National News"
     },
     {
-     "title": "Haryana power staff call 3-day strike against giving licence to private discom",
-     "url": "https://www.thehindu.com/news/national/haryana/haryana-power-staff-call-3-day-strike-against-giving-licence-to-private-discom/article71605055.ece",
-     "summary": "HERC grants Eleven Power 25-year licence to distribute power in Gurugram, Nuh; Power Minister says State will contest move before tribunal; staff allege decision will ‘undermine’ State-owned firm",
-     "published": "2026-10-20T19:29:28+00:00",
+     "title": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+     "url": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece",
+     "summary": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
+     "published": "2026-10-20T23:16:25+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Delhi/ww96mz/article71605477.ece/alternates/LANDSCAPE_1200/20_BM_HERC.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/7d68q1/article71605663.ece/alternates/LANDSCAPE_1200/20261020395L.jpg",
      "licence": "linkout",
-     "id": "a0073a093b92",
+     "id": "c5205b267c1d",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
-    },
-    {
-     "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-     "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-     "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
-     "published": "2026-10-20T21:19:12+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad7d2eb-1792529131.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "21e37893902c",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Trump sued over Canadian tariffs in latest legal challenge",
-       "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-       "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
-      }
-     ],
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News",
-     "figures": [
-      "50 percent tariffs on Canadian goods"
-     ]
     },
     {
      "title": "Second Labour MP suspended over Covid loan repayments",
@@ -294,18 +287,25 @@
      "from_section": "Business"
     },
     {
-     "title": "On paddy field conservation in Keralam",
-     "url": "https://www.thehindu.com/opinion/op-ed/on-paddy-field-conservation-in-keralam/article71605301.ece",
-     "summary": "Neglecting paddy fields as a socio-ecological system that regulates local biodiversity, the hydrological cycle, and microclimate constitutes a grave failure, amid rising food insecurity and floods",
-     "published": "2026-10-20T18:43:33+00:00",
-     "source": "The Hindu",
+     "title": "Bought a ₹50 lakh LIC policy on ₹4.81 lakh income? Why ITAT rejected the woman’s claim and upheld the tax addition",
+     "url": "https://www.livemint.com/money/personal-finance/bought-a-50-lakh-lic-policy-on-4-81-lakh-income-why-itat-rejected-the-woman-s-claim-and-upheld-the-tax-addition-11792516737533.html",
+     "summary": "A woman who declared ₹4.81 lakh income invested ₹50 lakh in an LIC policy, claiming the money came from her late husband’s HUF. ITAT rejected her explanation for lack of evidence and upheld the ₹50 lakh addition as unexplained investment.",
+     "published": "2026-10-20T17:29:55+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/flnyxa/article71605437.ece/alternates/LANDSCAPE_1200/Paddy_4.JPG",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/20/600x338/Gemini_Generated_Image_2iqg5f2iqg5f2iq_179251708_1792517093658_xnSL_1792517093779_bSnG_15cac271-9893-4f1c-858a-b5591e83e3cd_HUu1.png",
      "licence": "linkout",
-     "id": "1a2080c96f77",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National Hotlines"
+     "id": "bbc6406eaa57",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
+     "figures": [
+      "₹50 lakh LIC policy on ₹4",
+      "₹4.81 lakh income? Why ITAT rejected",
+      "₹4.81 lakh income invested ₹50 lakh",
+      "₹50 lakh in an LIC policy",
+      "₹50 lakh addition as unexplained investment"
+     ]
     },
     {
      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
@@ -322,15 +322,15 @@
      "from_section": "Health & Science"
     },
     {
-     "title": "Tech Life",
-     "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
-     "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-     "published": "2026-10-20T19:45:00+00:00",
-     "source": "BBC News",
+     "title": "Artificial Intelligence, Critical Minerals, and the Financial Abandonment of American Manufacturing",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVJWUGNkbUltd19TYkhuWHQ2cDBSRVZUTUtoM1NDWGYweGEzZ1MzcUREMUx0aTdwUlZvVkZWb3JTWjZqTjVOSnZIUGFmRlpBaEdIUzN0SnhJbW5RdUg3S1VHclVuellLamUxSnVpUUNxdnFzZ01kakNxVXpIMlFOeHg2cG11aFRtQjAzNDdFQkFVV1o4dVpTQm02SEJQbXVSeXNyZVUtZHlCbGZHbXZDMm5XVFJNZEttajdpVGJRbmlMZDN5Zk5DZTFhSmZqSHhQNVBGaA?oc=5",
+     "summary": "Artificial Intelligence, Critical Minerals, and the Financial Abandonment of American Manufacturing InvestorNews",
+     "published": "2026-10-20T21:07:41+00:00",
+     "source": "InvestorNews",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0phptg2.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "5281351ee503",
+     "id": "79e5b126f3d2",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
@@ -350,32 +350,18 @@
      "from_section": "Technology"
     },
     {
-     "title": "How Artificial Intelligence is Transforming Cybersecurity Into a Continuous, Automated Cat-and-Mouse Game",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVpXczNWdDNiNFNVWXpzR2hQN01VU1Y0NnhzNFB6N0JJcTJZOGR1Y1o2WE8wMTZMWkJrUG5qT0VlQkJRYVFCdmt1MDk3N0E1WE5mUmtKNXNEOVZ3UjNuX3hNVzdJdzdoUHdqYjFZMExMZDVKQ1pHek1oUjhlOU1kUGF4cExjQ3VZUEl3cDJGLXd0TzFkeUhyc2hVaHYzS3dxdnpFUlVwdHcteDhLY2tDTUZXUXVQM2hYRjJZbFZsbmc2OUN6bkFHNDVHWFY0a0hGWl92VFFVRkVtcWJt?oc=5",
-     "summary": "How Artificial Intelligence is Transforming Cybersecurity Into a Continuous, Automated Cat-and-Mouse Game OODA Loop",
-     "published": "2026-10-20T16:12:15+00:00",
-     "source": "OODA Loop",
+     "title": "Amulya Vishwanath: Physical Artificial Intelligence is in the LEGO Era",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeGQxeHI2MUpJQnNRUXAtOHRidDFDU1VnU1k5NkFYZUs3MEIyRTN1V1R3dXJPOVdFY0ZENkswUnM5Q0Y3QmE0NDFYaUlZTXlFUVE0cUxfN3gyRWNQZVlSSlBmMDYtcm1Ba3lkNzZ3V3hLWEF6N3I4eXZTQzVSRjRMX2t3aGxfNHR5QTd6Y3Z1dy1NUFktbEFZMFcyeU1QUQ?oc=5",
+     "summary": "Amulya Vishwanath: Physical Artificial Intelligence is in the LEGO Era Nacionale",
+     "published": "2026-10-20T17:43:45+00:00",
+     "source": "Nacionale",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "9151a4caacdb",
+     "id": "05342a708b5c",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
-    },
-    {
-     "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
-     "summary": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform.",
-     "published": "2026-10-20T20:49:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-21.42.25-1792529264.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "af16a6710a78",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
     },
     {
      "title": "\"Miss That Dude Every Day\" - Stephen Curry On Klay Thompson’s Miami Heat Move As Golden State Warriors’ Legacy Lives On",
@@ -406,20 +392,6 @@
      "from_section": "Business"
     },
     {
-     "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
-     "summary": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home.",
-     "published": "2026-10-20T20:32:29+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792528338.jpg?resize=1620%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "830d7dd0ff57",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Global News"
-    },
-    {
      "title": "Covid failings in care homes: What the inquiry says",
      "url": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
      "summary": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
@@ -447,7 +419,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-10-20T21:45:37.115056+00:00",
+     "published": "2026-10-21T00:12:58.081905+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -458,7 +430,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-10-20T21:45:37.115079+00:00",
+     "published": "2026-10-21T00:12:58.081914+00:00",
      "image": "https://static.dw.com/image/43844019_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -469,7 +441,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-10-20T21:45:37.115082+00:00",
+     "published": "2026-10-21T00:12:58.081918+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -480,7 +452,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-10-20T21:45:37.115084+00:00",
+     "published": "2026-10-21T00:12:58.081920+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -491,7 +463,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-10-20T21:45:37.115087+00:00",
+     "published": "2026-10-21T00:12:58.081922+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -502,7 +474,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-10-20T21:45:37.115089+00:00",
+     "published": "2026-10-21T00:12:58.081924+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -552,6 +524,12 @@
        "summary": "2 Indians among 28 green card holders charged with election fraud in US The Indian Express"
       },
       {
+       "source": "Firstpost",
+       "title": "Two Indian nationals among 28 charged in US election fraud crackdown",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaWhMRDJFWGh4dDlQUDF1bVl2NThycXF3clQtbHMwMzN6TkRtOHVrLW1zY3pKZ0lzSHNJOXhoUGt1dGIyYTAxZTZSU1lGZG11MXF4RFpJUzM4Yml6NmZwdnl4cGFtTzltWWpSSkFZcDB5U2hZMTJfWllOaHRWcjJKazJQd0dLUW85N3M1VElRUno3SVFWSjN0NVdlUnRpczN4OW1qcUNNbGNKTEQ2dHhOSEdCbTZTU0xhZ0hqRW5yZ1FuNWV6RDFDbjJB0gHPAUFVX3lxTE12al9OUjlRbDhyVzJuYnFtTHhaWXlacGdlVFhXUWJDSDJrbHJOUUpvWWpfOElKVWJVdlhpQlFzNWw2Y3pMMEMzZWI1TUpGclc4QUtkRDJQanBBalhmeGpjU05fdklITWlnZmtBdzJWMmdSeVBvY0FmMVowdjhNOFRfcTJKdmhSX25KNjB3TGFZNUktZ0xoM1ZqQW5seUJxYjNjNV92YVdKUllYOGhkaW11c21TWjdiRzh4czRyRV9TWjkzdlJrU3oxekR2VERLUQ?oc=5",
+       "summary": "Two Indian nationals among 28 charged in US election fraud crackdown Firstpost"
+      },
+      {
        "source": "India Weekly",
        "title": "Two Indian nationals among 28 green card holders charged with election fraud in California",
        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDI3Z1NvaC1XN2lJSE5WMEg5YkRWMzNqSXFJYm9sQ0puZ3J1ck1oVkJGRzUxSjAyMVM4QTBtRl9XRTBhX2dNVVlkejdpVGxGb0NUU3FNcUp2LTNFSzY5M3UwODJwcTBaWl96Qk8yLXpkVjR1dkt3cEVZV3VXM0xPa0VBS3had1NvcXQ0SHVFS0NETDcxQ3F6NDF0LVBvNUxuTDY4?oc=5",
@@ -562,12 +540,6 @@
        "title": "Two Indian-Origin Green Card Holders Among 28 Charged In US Election Fraud Case",
        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1VWV3J1Q3ZXT3MwY1RhZVVzY0VMVUdVZjZhUXZmaVhKdGNQUG95Z0VMR3JIS3Bpa1FldTBBc2F4UENFUXJZeFBVUFFqYlF6LThhUkZOTXl5aTUzZ2Nlb2FWeWdTWEtLWWJEZ3NkaVZSNUFlNHhGaEREMVJQMFRiTmw2QWplZkhiNlQ1WWxyaVNfUk9KT2k5WFFWcUdzSnhVQldBYlF0YmdvRjdpdVF3UkRQRmlLd3JlUHFVNXB3?oc=5",
        "summary": "Two Indian-Origin Green Card Holders Among 28 Charged In US Election Fraud Case News Mobile"
-      },
-      {
-       "source": "The Week",
-       "title": "US voter fraud crackdown: Who are the two Indians charged with election crimes in California?",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSV9aYXkwN3Bwc0hYTC1SRGJXWlNrWGZUM0pSSnNWTktMcTBCMENKN1BFWS11UUgzWlI5b2xiSF85S1dheWQ2enZwbzBFYl9mb240d3IxY3RUT2psUk52c1VQNmVOSXNCU09UeEJDNXBiRWlsdHJydEpPZzdsRG9GWHN3dUhEQXA4aS1xVVlGdUcyNXBoTG4zV3NVaXliZjk1S3ROamhwTmFfM3Z6VHFaOUtxOUlHVmZTU3FPUmZ0RmN4NlBhWXdHd2lOcVNkYU1qN191YmJTSU7SAd4BQVVfeXFMUHBPd0VoMGE4NnktUzhaVGtDYlpiZFhkRGhDYXl6UmU2V1p4Uk9QV1dCSC1lWUU3cmJMTUxfRllsMWlXZ21VQmRWX2NYa1pfbjFQTHZnNk5xUmZ6cEtXNnl6X1BuenRqb0sxWUk1dm9yMWwtUXY0SGR4MHRaTElIaDBPQjhBM18wWjlscEh3Mnpjd01RZ3A0TUd6ZktQQjhLZnE1RUdwYThFYk9pTk5aZFVtVFVyM3ptUmVtQXA4MDY4cmk5SnVrRWM0VHZHOTh4T1FvMlVLVVVNWlhMNTFn?oc=5",
-       "summary": "US voter fraud crackdown: Who are the two Indians charged with election crimes in California? The Week"
       }
      ],
      "category": "politics",
@@ -607,6 +579,22 @@
      ]
     },
     {
+     "title": "Two Indian nationals among 28 charged in US election fraud crackdown",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaWhMRDJFWGh4dDlQUDF1bVl2NThycXF3clQtbHMwMzN6TkRtOHVrLW1zY3pKZ0lzSHNJOXhoUGt1dGIyYTAxZTZSU1lGZG11MXF4RFpJUzM4Yml6NmZwdnl4cGFtTzltWWpSSkFZcDB5U2hZMTJfWllOaHRWcjJKazJQd0dLUW85N3M1VElRUno3SVFWSjN0NVdlUnRpczN4OW1qcUNNbGNKTEQ2dHhOSEdCbTZTU0xhZ0hqRW5yZ1FuNWV6RDFDbjJB0gHPAUFVX3lxTE12al9OUjlRbDhyVzJuYnFtTHhaWXlacGdlVFhXUWJDSDJrbHJOUUpvWWpfOElKVWJVdlhpQlFzNWw2Y3pMMEMzZWI1TUpGclc4QUtkRDJQanBBalhmeGpjU05fdklITWlnZmtBdzJWMmdSeVBvY0FmMVowdjhNOFRfcTJKdmhSX25KNjB3TGFZNUktZ0xoM1ZqQW5seUJxYjNjNV92YVdKUllYOGhkaW11c21TWjdiRzh4czRyRV9TWjkzdlJrU3oxekR2VERLUQ?oc=5",
+     "summary": "Two Indian nationals among 28 charged in US election fraud crackdown Firstpost",
+     "published": "2026-10-20T04:23:51+00:00",
+     "source": "Firstpost",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "cbad1c20588d",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "28 charged in US election fraud"
+     ]
+    },
+    {
      "title": "Two Indian nationals among 28 green card holders charged with election fraud in California",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDI3Z1NvaC1XN2lJSE5WMEg5YkRWMzNqSXFJYm9sQ0puZ3J1ck1oVkJGRzUxSjAyMVM4QTBtRl9XRTBhX2dNVVlkejdpVGxGb0NUU3FNcUp2LTNFSzY5M3UwODJwcTBaWl96Qk8yLXpkVjR1dkt3cEVZV3VXM0xPa0VBS3had1NvcXQ0SHVFS0NETDcxQ3F6NDF0LVBvNUxuTDY4?oc=5",
      "summary": "Two Indian nationals among 28 green card holders charged with election fraud in California India Weekly",
@@ -637,19 +625,6 @@
      "figures": [
       "28 Charged In US Election Fraud"
      ]
-    },
-    {
-     "title": "US voter fraud crackdown: Who are the two Indians charged with election crimes in California?",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSV9aYXkwN3Bwc0hYTC1SRGJXWlNrWGZUM0pSSnNWTktMcTBCMENKN1BFWS11UUgzWlI5b2xiSF85S1dheWQ2enZwbzBFYl9mb240d3IxY3RUT2psUk52c1VQNmVOSXNCU09UeEJDNXBiRWlsdHJydEpPZzdsRG9GWHN3dUhEQXA4aS1xVVlGdUcyNXBoTG4zV3NVaXliZjk1S3ROamhwTmFfM3Z6VHFaOUtxOUlHVmZTU3FPUmZ0RmN4NlBhWXdHd2lOcVNkYU1qN191YmJTSU7SAd4BQVVfeXFMUHBPd0VoMGE4NnktUzhaVGtDYlpiZFhkRGhDYXl6UmU2V1p4Uk9QV1dCSC1lWUU3cmJMTUxfRllsMWlXZ21VQmRWX2NYa1pfbjFQTHZnNk5xUmZ6cEtXNnl6X1BuenRqb0sxWUk1dm9yMWwtUXY0SGR4MHRaTElIaDBPQjhBM18wWjlscEh3Mnpjd01RZ3A0TUd6ZktQQjhLZnE1RUdwYThFYk9pTk5aZFVtVFVyM3ptUmVtQXA4MDY4cmk5SnVrRWM0VHZHOTh4T1FvMlVLVVVNWlhMNTFn?oc=5",
-     "summary": "US voter fraud crackdown: Who are the two Indians charged with election crimes in California? The Week",
-     "published": "2026-10-20T04:36:52+00:00",
-     "source": "The Week",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e007a2a2d387",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -659,6 +634,48 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+     "url": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece",
+     "summary": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
+     "published": "2026-10-20T23:16:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/7d68q1/article71605663.ece/alternates/LANDSCAPE_1200/20261020395L.jpg",
+     "licence": "linkout",
+     "id": "c5205b267c1d",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Dasara gift for Singareni officers, Dy CM fulfils long-pending demand",
+     "url": "https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece",
+     "summary": "Singareni management issued orders on evening of October 19 implementing the revised pay structure after securing the approval of the company’s Board. The orders were issued by Director (Personnel) Gautam Potru",
+     "published": "2026-10-20T23:04:31+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/h6nfv0/article71604602.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-19%20at%205.40.04%20PM.jpeg",
+     "licence": "linkout",
+     "id": "2fbaf0587db2",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "19 implementing the revised pay structure"
+     ]
+    },
+    {
+     "title": "Rubio pushes for India to buy more U.S., Venezuelan oil",
+     "url": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece",
+     "summary": "S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity",
+     "published": "2026-10-20T22:27:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/vx5qot/article71604274.ece/alternates/LANDSCAPE_1200/2026-10-20T101555Z_837607218_RC2Y6OAT2HJR_RTRMADP_3_USA-RUBIO-INDIA.JPG",
+     "licence": "linkout",
+     "id": "44d84f4e319b",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Bengal CM defends decision to shift stampede injured to private hospital, cites better care",
      "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-defends-decision-to-shift-stampede-injured-to-private-hospital-cites-better-care/article71605499.ece",
@@ -674,6 +691,276 @@
      "figures": [
       "25 injured in the stampede"
      ]
+    },
+    {
+     "title": "'Thank You For Free Publicity': Abhijeet Dipke On Cockroach Effigy In Delhi",
+     "url": "https://www.ndtv.com/india-news/abhijeet-dipke-on-cockroach-effigy-in-delhi-thank-you-for-free-publicity-12212474#publisher=newsstand",
+     "summary": "While the Shri Keshav Ramlila Committee in Pitampura maintained that the cockroach symbolised filth and that it sought to promote cleanliness under the Swachh Bharat and Swachh Delhi campaigns, both the internet and Dipke were convinced it was a dig at the pressure group.",
+     "published": "2026-10-20T23:39:26+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/9erjea3_cockroacj_625x300_21_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "8ed8f51c954b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Delhi Police Transfers CJP Leaders' Case To Crime Branch Ahead Of Hearing",
+     "url": "https://www.ndtv.com/india-news/delhi-police-transfers-cjp-leaders-saurav-das-ashutosh-ranka-case-to-crime-branch-ahead-of-hearing-12212544#publisher=newsstand",
+     "summary": "The Crime Branch will now investigate two cases against the CJP leaders. The other case linked to Das and Ranka allegedly entering the Jantar Mantar area was transferred to the Crime Branch on Monday.",
+     "published": "2026-10-20T19:28:31+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/iiu93rg8_ashutosh-ranka-saurav-das_625x300_19_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "b611a11d2bf6",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Ex-AAP Sarpanch Arrested In Punjab Over Links To Cop Caught With 15 kg Heroin",
+     "url": "https://www.ndtv.com/india-news/ex-aap-sarpanch-arrested-in-punjab-over-links-to-cop-caught-with-15-kg-heroin-12212498#publisher=newsstand",
+     "summary": "Constable Karandeep Singh was attached to the Punjab Police's anti-drone unit.",
+     "published": "2026-10-20T19:05:33+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/poiam6sg_1_625x300_21_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "628bc30f1468",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "15 kg Heroin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "global-news",
+   "eyebrow": "05 — Beyond borders",
+   "title": "Global News",
+   "upsc": false,
+   "items": [
+    {
+     "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+     "summary": "Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.",
+     "published": "2026-10-21T00:00:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260618__B7HW7UM__v1__HighRes__IranUsIsraelWarTransportHormuz-1792534509.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "3c19cd940bc9",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Moment plane crashes on a busy highway in the US",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss",
+     "summary": "Moment plane crashes on a busy highway in the US",
+     "published": "2026-10-20T23:54:50+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/plane-crash-horizontal-thumb-1792540443.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "27309c19d92c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+     "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+     "summary": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+     "published": "2026-10-20T23:19:52+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad7e5888d08-1792533896.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "fb99c86dcf71",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
+     "url": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+     "summary": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.",
+     "published": "2026-10-20T22:51:35+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad7df6c90a0b-1792532332.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1d83a3789308",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "$2.5 m from the sale"
+     ]
+    },
+    {
+     "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+     "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+     "published": "2026-10-20T12:08:06+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a834/live/7aae38a0-cc89-11f1-bed8-c51b95c602ec.jpg",
+     "licence": "linkout",
+     "id": "82c3ec01485f",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Elon Musk says Tesla-SpaceX merger being considered",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+     "published": "2026-10-20T23:24:47+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+     "licence": "linkout",
+     "id": "b17a25d8c48a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Man charged with attack on Australia MP to face court",
+     "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+     "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+     "published": "2026-10-20T11:25:35+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg",
+     "licence": "linkout",
+     "id": "dfd1847033fe",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "20 years"
+     ]
+    },
+    {
+     "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+     "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+     "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+     "published": "2026-10-20T20:00:57+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png",
+     "licence": "linkout",
+     "id": "6d5bacfecc60",
+     "category": "general",
+     "category_label": "General"
+    }
+   ]
+  },
+  {
+   "id": "global-hotline",
+   "eyebrow": "06 — Essential global read",
+   "title": "Global Hotline",
+   "upsc": false,
+   "items": [
+    {
+     "title": "Borneo is burning - living on the frontline of Asia's toxic haze",
+     "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+     "summary": "Months of fires in Indonesia have cloaked Southeast Asia in haze and made hundreds of thousands of people sick.",
+     "published": "2026-10-20T23:51:43+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e48/live/4edd0c70-cc9c-11f1-9a39-31b474234113.jpg",
+     "licence": "linkout",
+     "id": "acc13d6c5577",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Is Donald Trump ready to do business with Myanmar?",
+     "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+     "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+     "published": "2026-10-20T23:21:39+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/9dc70340-c7a6-11f1-a624-a3d8608fc192.jpg",
+     "licence": "linkout",
+     "id": "fd4582eba657",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+     "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+     "published": "2026-10-20T11:45:49+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg",
+     "licence": "linkout",
+     "id": "f8a02d95c692",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "King Charles sends Aung San Suu Kyi books, says Myanmar government",
+     "url": "https://www.bbc.co.uk/news/articles/c6rryj7z0jzro?at_medium=RSS&at_campaign=rss",
+     "summary": "Nay Pyi Taw has released rare photographs of Suu Kyi receiving the books along with a sealed letter.",
+     "published": "2026-10-20T03:45:47+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/796a/live/b24b5350-cc35-11f1-80e1-0b704274f993.jpg",
+     "licence": "linkout",
+     "id": "0198b4fd4693",
+     "category": "general",
+     "category_label": "General"
+    }
+   ]
+  },
+  {
+   "id": "national-hotlines",
+   "eyebrow": "07 — Essential national read",
+   "title": "National Hotlines",
+   "upsc": false,
+   "items": [
+    {
+     "title": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+     "url": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece",
+     "summary": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
+     "published": "2026-10-20T23:16:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/7d68q1/article71605663.ece/alternates/LANDSCAPE_1200/20261020395L.jpg",
+     "licence": "linkout",
+     "id": "c5205b267c1d",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Dasara gift for Singareni officers, Dy CM fulfils long-pending demand",
+     "url": "https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece",
+     "summary": "Singareni management issued orders on evening of October 19 implementing the revised pay structure after securing the approval of the company’s Board. The orders were issued by Director (Personnel) Gautam Potru",
+     "published": "2026-10-20T23:04:31+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/telangana/h6nfv0/article71604602.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-19%20at%205.40.04%20PM.jpeg",
+     "licence": "linkout",
+     "id": "2fbaf0587db2",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "19 implementing the revised pay structure"
+     ]
+    },
+    {
+     "title": "Rubio pushes for India to buy more U.S., Venezuelan oil",
+     "url": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece",
+     "summary": "S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity",
+     "published": "2026-10-20T22:27:35+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/vx5qot/article71604274.ece/alternates/LANDSCAPE_1200/2026-10-20T101555Z_837607218_RC2Y6OAT2HJR_RTRMADP_3_USA-RUBIO-INDIA.JPG",
+     "licence": "linkout",
+     "id": "44d84f4e319b",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Haryana power staff call 3-day strike against giving licence to private discom",
@@ -718,317 +1005,6 @@
      ]
     },
     {
-     "title": "Kashmir clerics, including Mirwaiz, say eviction of Delhi’s historic Race Course mosque ‘deeply disturbing’",
-     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-clerics-including-mirwaiz-say-eviction-of-delhis-historic-race-course-mosque-deeply-disturbing/article71605010.ece",
-     "summary": "“If even a legally recognised mosque cannot be protected, what safeguards remain for others?” says Mirwaiz",
-     "published": "2026-10-20T19:08:02+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/y7z9p/article71605459.ece/alternates/LANDSCAPE_1200/20260918252L.jpg",
-     "licence": "linkout",
-     "id": "a98e89a9114d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "4 More People, Including 2 Women, Arrested In Tiger Shroff Shooting Case",
-     "url": "https://www.ndtv.com/india-news/4-more-people-including-2-women-arrested-in-tiger-shroff-shooting-case-12212352#publisher=newsstand",
-     "summary": "Radha and Babita were arrested at the New Delhi Railway Station, while Kunal and Sumit were arrested in Sonipat, Haryana.",
-     "published": "2026-10-20T19:11:59+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/dkarvd4k_shroff_240x180_20_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "abc1c6302044",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "4 More People, Including 2 Women",
-      "2 Women , Arrested In Tiger"
-     ]
-    },
-    {
-     "title": "Ex-AAP Sarpanch Arrested In Punjab Over Links To Cop Caught With 15 kg Heroin",
-     "url": "https://www.ndtv.com/india-news/ex-aap-sarpanch-arrested-in-punjab-over-links-to-cop-caught-with-15-kg-heroin-12212498#publisher=newsstand",
-     "summary": "Constable Karandeep Singh was attached to the Punjab Police's anti-drone unit.",
-     "published": "2026-10-20T19:05:33+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/poiam6sg_1_625x300_21_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "628bc30f1468",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "15 kg Heroin"
-     ]
-    },
-    {
-     "title": "'Thank You For Free Publicity': Abhijeet Dipke On Cockroach Effigy In Delhi",
-     "url": "https://www.ndtv.com/india-news/abhijeet-dipke-on-cockroach-effigy-in-delhi-thank-you-for-free-publicity-12212474#publisher=newsstand",
-     "summary": "While the Shri Keshav Ramlila Committee in Pitampura maintained that the cockroach symbolised filth and that it sought to promote cleanliness under the Swachh Bharat and Swachh Delhi campaigns, both the internet and Dipke were convinced it was a dig at the pressure group.",
-     "published": "2026-10-20T18:53:00+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/9erjea3_cockroacj_625x300_21_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "8ed8f51c954b",
-     "category": "general",
-     "category_label": "General"
-    }
-   ]
-  },
-  {
-   "id": "global-news",
-   "eyebrow": "05 — Beyond borders",
-   "title": "Global News",
-   "upsc": false,
-   "items": [
-    {
-     "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-     "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-     "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
-     "published": "2026-10-20T21:19:12+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad7d2eb-1792529131.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "21e37893902c",
-     "also": [
-      {
-       "source": "BBC News",
-       "title": "Trump sued over Canadian tariffs in latest legal challenge",
-       "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-       "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
-      }
-     ],
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "50 percent tariffs on Canadian goods"
-     ]
-    },
-    {
-     "title": "Why do the US midterms matter for Trump and Congress?",
-     "url": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
-     "summary": "Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office.",
-     "published": "2026-10-20T21:00:42+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-20T174856Z_1170868734_RC2Q4OAD5P1Y_RTRMADP_3_USA-ELECTION-FLORIDA-RETIREES-1792525920.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9ceb10188648",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
-     "summary": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform.",
-     "published": "2026-10-20T20:49:00+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-21.42.25-1792529264.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "af16a6710a78",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-     "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-     "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
-     "published": "2026-10-20T12:08:06+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a834/live/7aae38a0-cc89-11f1-bed8-c51b95c602ec.jpg",
-     "licence": "linkout",
-     "id": "82c3ec01485f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Man charged with attack on Australia MP to face court",
-     "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-     "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
-     "published": "2026-10-20T11:25:35+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg",
-     "licence": "linkout",
-     "id": "dfd1847033fe",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "20 years"
-     ]
-    },
-    {
-     "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-     "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-     "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-     "published": "2026-10-20T20:00:57+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png",
-     "licence": "linkout",
-     "id": "6d5bacfecc60",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-     "published": "2026-10-20T16:59:06+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg",
-     "licence": "linkout",
-     "id": "a6390fdb63a3",
-     "category": "general",
-     "category_label": "General"
-    }
-   ]
-  },
-  {
-   "id": "global-hotline",
-   "eyebrow": "06 — Essential global read",
-   "title": "Global Hotline",
-   "upsc": false,
-   "items": [
-    {
-     "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-     "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-     "published": "2026-10-20T11:45:49+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg",
-     "licence": "linkout",
-     "id": "f8a02d95c692",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Man charged with attack on Australia MP to face court",
-     "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-     "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
-     "published": "2026-10-20T11:25:35+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg",
-     "licence": "linkout",
-     "id": "dfd1847033fe",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "20 years"
-     ]
-    },
-    {
-     "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-     "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
-     "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
-     "published": "2026-10-19T23:04:08+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf1/live/af489e70-cbe4-11f1-a64c-550be9e3c66b.jpg",
-     "licence": "linkout",
-     "id": "65511d913502",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "King Charles sends Aung San Suu Kyi books, says Myanmar government",
-     "url": "https://www.bbc.co.uk/news/articles/c6rryj7z0jzro?at_medium=RSS&at_campaign=rss",
-     "summary": "Nay Pyi Taw has released rare photographs of Suu Kyi receiving the books along with a sealed letter.",
-     "published": "2026-10-20T03:45:47+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/796a/live/b24b5350-cc35-11f1-80e1-0b704274f993.jpg",
-     "licence": "linkout",
-     "id": "0198b4fd4693",
-     "category": "general",
-     "category_label": "General"
-    }
-   ]
-  },
-  {
-   "id": "national-hotlines",
-   "eyebrow": "07 — Essential national read",
-   "title": "National Hotlines",
-   "upsc": false,
-   "items": [
-    {
-     "title": "Bengal CM defends decision to shift stampede injured to private hospital, cites better care",
-     "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-defends-decision-to-shift-stampede-injured-to-private-hospital-cites-better-care/article71605499.ece",
-     "summary": "\"We moved those injured to private hospitals because we realised that the best treatment could be provided there so that there is no more loss of life. I am happy to announce that there was no death among the 25 injured in the stampede. We decided on the spot. There is nothing controversial behind this,\" says West Bengal CM",
-     "published": "2026-10-20T20:02:06+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/yhn436/article71605500.ece/alternates/LANDSCAPE_1200/PTI10_20_2026_000179B.jpg",
-     "licence": "linkout",
-     "id": "ec4d3bfde70d",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "25 injured in the stampede"
-     ]
-    },
-    {
-     "title": "Haryana power staff call 3-day strike against giving licence to private discom",
-     "url": "https://www.thehindu.com/news/national/haryana/haryana-power-staff-call-3-day-strike-against-giving-licence-to-private-discom/article71605055.ece",
-     "summary": "HERC grants Eleven Power 25-year licence to distribute power in Gurugram, Nuh; Power Minister says State will contest move before tribunal; staff allege decision will ‘undermine’ State-owned firm",
-     "published": "2026-10-20T19:29:28+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/cities/Delhi/ww96mz/article71605477.ece/alternates/LANDSCAPE_1200/20_BM_HERC.jpg",
-     "licence": "linkout",
-     "id": "a0073a093b92",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "One dead, few injured in firing inside SGNP",
-     "url": "https://www.thehindu.com/news/cities/mumbai/one-dead-few-injured-in-firing-inside-sgnp/article71605463.ece",
-     "summary": "The incident occurred in the SGNP's Chena beat in the Yeoor Range, Thane, police said. After being alerted, forest department personnel along with police teams rushed to the spot for inspection",
-     "published": "2026-10-20T19:18:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/ywamhm/article71605473.ece/alternates/LANDSCAPE_1200/iStock-871380072%209.jpg",
-     "licence": "linkout",
-     "id": "583b18ab71e1",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "The ECI’s unfinished lessons",
-     "url": "https://www.thehindu.com/opinion/op-ed/the-ecis-unfinished-lessons/article71605299.ece",
-     "summary": "While the ECI need not accept every allegation made by political parties, constitutional authority cannot substitute for verifiable evidence",
-     "published": "2026-10-20T18:57:25+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2ruq1g/article71605449.ece/alternates/LANDSCAPE_1200/iStock-1287044295.jpg",
-     "licence": "linkout",
-     "id": "7d89b2e2ba9a",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "At Dussehra rally, Uddhav bats for 'regime change', promises 'acche din' after ousting BJP",
-     "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece",
-     "summary": "Addressing the annual Dussehra rally at Shivaji Park in Mumbai, Mr. Thackeray insisted that staging a protest is the right of youth because 'vote chori' (vote theft) is happening with everyone, especially new voters",
-     "published": "2026-10-20T18:41:19+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/y5v8sw/article71605435.ece/alternates/LANDSCAPE_1200/20261020480L.jpg",
-     "licence": "linkout",
-     "id": "58ef0f94a131",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
      "title": "Top news of the day on October 20, 2026",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZTZJNHhxRDR0X001RmtMMDVlOEFXbExGamxwOUtHc1dIMFFNSkNsRzVjb3c1akxCaUxOZlkyRk1ZNmdNSFhycnZ2OEZXNGJadGd6MjNxUmtYbXkzYjBiZ2xSNnJqYkp0dXlUOUJnQ09Ud2x1emdKZzc4RmxMNmhmcmdLMHVUWWFIWjdQVHk4NFNOd9IBmAFBVV95cUxQYUN0RW1KMW1VZ1hjaFJYUndkLVowR1ByUEowZkFJbzNpQmNXWElKU3FzTXdzSndZZWM2dXlSaG02d1U0N3lrb1c4RUNWb1dhY1pRZHB3REhNVmRiTzd2VWJZQTQ1blYzRVFIcG00X2F5OG5oalJzMnBvT2hDcVJvbVNDdmFYdVZoaXh4Si16Wnp4QmVRdS1rNA?oc=5",
      "summary": "Top news of the day on October 20, 2026 The Hindu",
@@ -1042,9 +1018,9 @@
      "category_label": "General"
     },
     {
-     "title": "Today News Headlines for School Assembly, October 21, 2026: Chhattisgarh’s Sirpur in UNESCO’s heritage list; US Secretary Marco Rubio visits India",
+     "title": "Today News Headlines for School Assembly, October 21, 2026: Prince Harry looks to reconcile with Royal Family, Marco Rubio in India",
      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPN2Ntd0VHVnllMFFfdnllOEtyQlppRXQ1R181SlJNRm1rQTNoX19KWW9xRE1yZ0hOWGUyTGVSZ3lNVzJ4c1J6Q1pKcTZEcFNsY2JKdTNTVGZQM3NDNkVBUmstM1Y0a1VUbm9aczJCY3JGZlo4TXdwWlVTeWFiT0lpbEZYTFFoWnFNSWozWk9oRnFzbnZ5X1o5MWZiYW1tOGR0cXp5NS1nNHZxWU13ajNXbV9aUnc2X3Q3WTVWWF9xUE5RMFRITDBjcklOeC1tMEpVLWp6QW5HYTUzU0w3OFlSbDQzS0Q5bldKX2NrbS0wTVlieVNja1VyX2JlSWUxRzl5WmZVOGhlRHpTZmxNNG1GMF8yQXdnZlotUWQ5dTRrQdIBpgJBVV95cUxNSlpnT19FRUhPdFFGb3Jtc0kzTlBkZEhUNlJacXNvak5ja1lkS0tsVEhTM3VkSGZvQktQeW52MGJkTm5hNGRIOEVzZGpRamMzSEFwWktxNXF4S1pWTjlycUt5Y1d5U1NZMXRDeXRQQkxnUHpHeUVfWFdrMGVyTS1UcmR2UGZ0VnBmUllsOTJZM3R5dDZ3YVM0NkEycDN0RWpxSjJzWjdMVHZtS3NmTWRLa0REeENNVmFpcmNnLXRoeS1mOU9vT0s5MmR3ZEdWaVBJeEVLcUNHallMdjhnT21jeWxHbEJLMXRxMENBc0VEV2JZNC1Ma0x1QnVSMVJwVmkzRzN4dE1FdS1vM2JDUUdWQWwxUGRJTURSeDF2YWhDcVdtaExSbFE?oc=5",
-     "summary": "Today News Headlines for School Assembly, October 21, 2026: Chhattisgarh’s Sirpur in UNESCO’s heritage list; US Secretary Marco Rubio visits India The Indian Express",
+     "summary": "Today News Headlines for School Assembly, October 21, 2026: Prince Harry looks to reconcile with Royal Family, Marco Rubio in India The Indian Express",
      "published": "2026-10-20T11:26:06+00:00",
      "source": "The Indian Express",
      "byline": "",
@@ -1164,7 +1140,8 @@
      "category": "general",
      "category_label": "General"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1601,6 +1578,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Elon Musk says Tesla-SpaceX merger being considered",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+     "published": "2026-10-20T23:24:47+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+     "licence": "linkout",
+     "id": "b17a25d8c48a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Google resolves cloud outage affecting UK banks and websites",
      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
@@ -1627,35 +1617,6 @@
      "category_label": "General"
     },
     {
-     "title": "Trump sued over Canadian tariffs in latest legal challenge",
-     "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-     "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-     "published": "2026-10-20T19:30:05+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg",
-     "licence": "linkout",
-     "id": "ed215accf7d3",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-     "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-     "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
-     "published": "2026-10-20T15:53:13+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826e/live/4d1d92e0-cc80-11f1-9a39-31b474234113.jpg",
-     "licence": "linkout",
-     "id": "ece38309c00f",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "1,400 jobs and blames betting tax"
-     ]
-    },
-    {
      "title": "Small-cap mutual funds: Should you pick funds with high index overlap? What one-year returns show",
      "url": "https://www.livemint.com/money/personal-finance/smallcap-mutual-funds-should-you-pick-funds-with-high-index-overlap-what-one-year-returns-show-11792518662358.html",
      "summary": "Small-cap mutual funds with higher benchmark overlap did not necessarily deliver better returns. Value Research data shows one-year returns ranging from -0.1% to 29.1% across 10 schemes, highlighting why investors should look beyond portfolio overlap when choosing funds.",
@@ -1669,26 +1630,6 @@
      "category_label": "General",
      "figures": [
       "10 schemes , highlighting why investors"
-     ]
-    },
-    {
-     "title": "Bought a ₹50 lakh LIC policy on ₹4.81 lakh income? Why ITAT rejected the woman’s claim and upheld the tax addition",
-     "url": "https://www.livemint.com/money/personal-finance/bought-a-50-lakh-lic-policy-on-4-81-lakh-income-why-itat-rejected-the-woman-s-claim-and-upheld-the-tax-addition-11792516737533.html",
-     "summary": "A woman who declared ₹4.81 lakh income invested ₹50 lakh in an LIC policy, claiming the money came from her late husband’s HUF. ITAT rejected her explanation for lack of evidence and upheld the ₹50 lakh addition as unexplained investment.",
-     "published": "2026-10-20T17:29:55+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/20/600x338/Gemini_Generated_Image_2iqg5f2iqg5f2iq_179251708_1792517093658_xnSL_1792517093779_bSnG_15cac271-9893-4f1c-858a-b5591e83e3cd_HUu1.png",
-     "licence": "linkout",
-     "id": "bbc6406eaa57",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹50 lakh LIC policy on ₹4",
-      "₹4.81 lakh income? Why ITAT rejected",
-      "₹4.81 lakh income invested ₹50 lakh",
-      "₹50 lakh in an LIC policy",
-      "₹50 lakh addition as unexplained investment"
      ]
     },
     {
@@ -1739,6 +1680,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Elon Musk says Tesla-SpaceX merger being considered",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+     "published": "2026-10-20T23:24:47+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+     "licence": "linkout",
+     "id": "b17a25d8c48a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "The tech helping crack decades-old cold cases",
+     "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+     "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+     "published": "2026-10-20T23:13:24+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d033/live/5b8c8300-c16c-11f1-babe-4199b0e7ccea.jpg",
+     "licence": "linkout",
+     "id": "688b51f07c5a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
@@ -1750,19 +1717,6 @@
      "id": "2209ec40a2a3",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "Google resolves cloud outage affecting UK banks and websites",
-     "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-     "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-     "published": "2026-10-20T18:03:19+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fb/live/5e172460-ccc3-11f1-951b-8fbc7a9ea030.jpg",
-     "licence": "linkout",
-     "id": "18342e179d45",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "UK asks Apple to widen access to its payment tech",
@@ -1815,19 +1769,6 @@
      "id": "16756b86c369",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Artificial intelligence technology that refines voices and restores speech clarity despite noise and echo",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdnV4SDBNYzRyNHBkTHpQVkNkRTc1ODhKaE56WHBuN2JKdjkyelpCX1lHOGpVNFE2Rzhha2ZzQmJQNGU0aHNHUjhhVU00Vm9HQ0pBOWRQbnlSWmVkdldIMVJacXhoNTJSeXBPV2F3bFVCN2txZnJWbXl3YTQ5enJCZUtnNEprWjdNWmpiSnNvNXEydk9aZDhmd2JiNldCTE1sbGQybjdxNG1sRTRYLTQ5cVlna2ptNUItTFpNWVoyUlRBZGxoMXBfeVpKbENkbkplSHphVzJSQ292dndlSHhZdkc4YlVOMzQ5SHI1Y21hOF9nVEcy?oc=5",
-     "summary": "Artificial intelligence technology that refines voices and restores speech clarity despite noise and echo صوت الإمارات",
-     "published": "2026-10-20T06:54:45+00:00",
-     "source": "صوت الإمارات",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "3f7ce65cde84",
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
@@ -2014,6 +1955,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
+     "url": "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o?at_medium=RSS&at_campaign=rss",
+     "summary": "There will be restrictions on who can carry out procedures and fines for those who flout the law, in England in 2027.",
+     "published": "2026-10-20T23:06:07+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ad/live/de1f5220-cc84-11f1-9a39-31b474234113.jpg",
+     "licence": "linkout",
+     "id": "d95249e8be9c",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Second Labour MP suspended over Covid loan repayments",
      "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
      "summary": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
@@ -2040,19 +1994,6 @@
      "category_label": "Weather & disaster"
     },
     {
-     "title": "Covid failings in care homes: What the inquiry says",
-     "url": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
-     "summary": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
-     "published": "2026-10-20T12:16:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82be/live/c47cd320-cc79-11f1-bed8-c51b95c602ec.jpg",
-     "licence": "linkout",
-     "id": "abc230b24f90",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
      "title": "Can a simple photo of your face reveal how ill you are?",
      "url": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo?at_medium=RSS&at_campaign=rss",
      "summary": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
@@ -2075,19 +2016,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6e5/live/080df960-cbc7-11f1-a64c-550be9e3c66b.jpg",
      "licence": "linkout",
      "id": "00f0e2112fc3",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "'I started ketamine at 14 and needed nappies at 22'",
-     "url": "https://www.bbc.co.uk/news/videos/cq3djrny2xz3o?at_medium=RSS&at_campaign=rss",
-     "summary": "For the last two years Megan has been in agony and unable to stand straight because of her ketamine use.",
-     "published": "2026-10-20T11:37:37+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f810/live/9fbfb940-cc78-11f1-9a39-31b474234113.jpg",
-     "licence": "linkout",
-     "id": "8bc1eb3dcafb",
      "category": "general",
      "category_label": "General"
     }
