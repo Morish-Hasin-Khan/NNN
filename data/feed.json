@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T06:30:32.411775+00:00",
+ "generated_at": "2026-10-26T13:28:39.100588+00:00",
  "podcasts_fetched_at": "2026-10-25T18:29:32.660690+00:00",
  "markets": [
   {
@@ -39,7 +39,8 @@
    "value": 112405.0,
    "change": -3675.0,
    "changePct": -3.17,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   },
   {
    "key": "silver",
@@ -83,16 +84,16 @@
   }
  ],
  "topics": [
-  "Australian Vegemite",
-  "Jamia Millia",
+  "Tiger Shroff",
+  "Nurse Ebola",
   "Jazeera English",
   "News",
   "France",
   "Punjab",
-  "Drunk Hyderabad",
-  "Fatal Keralam",
-  "French",
-  "China Communist"
+  "Cyclone Arnab",
+  "Israel West",
+  "Israeli Netanyahu",
+  "China"
  ],
  "sections": [
   {
@@ -102,202 +103,194 @@
    "upsc": false,
    "items": [
     {
-     "title": "Australian murderer loses bid to eat Vegemite in prison",
-     "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-     "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
-     "published": "2026-10-26T04:05:28+00:00",
-     "source": "BBC News",
+     "title": "Tiger Shroff attack: Police custody of 4 extended till October 28; voice samples needed, say cops",
+     "url": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+     "summary": "Kunal (21) and Sumit (19), residents of Haryana's Sonipat district, and Radha (23) and Babita (23), both from Uttar Pradesh, are among the 11 people arrested in the case",
+     "published": "2026-10-26T13:21:53+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bc0/live/da50eaa0-c44c-11f0-86a7-5d9864ba6ed6.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/gocci6/article71627275.ece/alternates/LANDSCAPE_1200/20261023404L.jpg",
      "licence": "linkout",
-     "id": "b06ee7809909",
+     "id": "d18782bda1ac",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Jamia Millia Islamia Files Police Complaint Against Congress MPs For Trespassing During Stir",
-     "url": "https://www.ndtv.com/india-news/jamia-millia-islamia-files-police-complaint-against-congress-mps-for-trespassing-during-student-stir-12235450#publisher=newsstand",
-     "summary": "There was no response from the Delhi Police to the complaint or the allegations that several students were detained outside Gate 7.",
-     "published": "2026-10-26T02:50:20+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/85frnck4_imran-masood-jamia-millia-islamia-protest_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "349da57f5a9a",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National News"
-    },
-    {
-     "title": "2 killed in Punjab shooting, opposition targets AAP government over law and order",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTGlHRFVob05QSmJwVW5FVVZaQXdSRENZOW93dTI0cnFXRE5hdVlabmNpS0R5cmlPSkRZUWQtMjlBSlZHUzRNc3FSQm45WHF5bzdCNWFKY0t0bEwyZ08zWFZjeUp5Y2tXUXBOSkZleFJIdmVwdFJWcGpManc2V19FYkpMc1pVRmtVY0VRdEtGaS13bWl6YXB1ZnR5Wk45NXBHZjdiR2Jmc1RRYzBTa21tYWhQQVlFQThJcm4tRlhEY09HUVp6N0ZIN2pUMGF2Snc0blBmbVZhYXY5ZFh0ck9mUkZsX1JuZFdFS2tuTF930gHzAUFVX3lxTE1LR3ZqbjV3RERNTXdmS2JFMG9nRlh5N2Vhc2FPVnVnZ05peUlHRXM2ZWlTR3RYNkpUVWhuSkMwRkhPQWlWaGRPREI3UzZSc3pXLXgtbUJfcnpUcGdEeGZ6SjBHdkZ4QTdCeXhFWW45bS03TC1UN05DQkY3bGE0eV9IZUxhREVEY1g0R1RDNFFiRmNoSzlpbUlBSWJiR2JrNE1BMzRuMENxQml0aWpvclc2MTk2SW8xdTN4ZUkwMFUzS0JOV1RsSVg2NDlTck9GQ0taZHRVQ1VJZUxZODRxN3lnWTFCeXFOYzJKZVVjYk4ta21QTQ?oc=5",
-     "summary": "2 killed in Punjab shooting, opposition targets AAP government over law and order India Today",
-     "published": "2026-10-25T18:25:06+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "54af81f9766b",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Scandals & Investigations",
+     "from_section": "National News",
      "figures": [
-      "2 killed in Punjab shooting, opposition"
+      "4 extended till October 28; voice",
+      "11 people arrested in the case"
      ]
     },
     {
-     "title": "Dana White Praises Both Petr Yan And Merab Dvalishvili In Trilogy Fight Worthy Of Year-End Honors",
-     "url": "https://sports.ndtv.com/us/mma/dana-white-praises-both-petr-yan-and-merab-dvalishvili-in-trilogy-fight-worthy-of-year-end-honors-12235979#publisher=newsstand",
-     "summary": "Petr Yan came from behind to win a five-round war against Merab Dvalishvili at UFC 333, and Dana White left the arena calling it a fight worthy of year-end honors. The bantamweight division delivered the night’s hardest shift.",
-     "published": "2026-10-26T05:46:33+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/6evoh6vk_dana-white-praises-both-petr-yan-and-merab-dvalishvili-_625x300_26_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "af58ae4964a9",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Sports"
-    },
-    {
-     "title": "'Why we think Milton Keynes can be a City of Culture'",
-     "url": "https://www.bbc.co.uk/news/articles/cw073m0z0j89o?at_medium=RSS&at_campaign=rss",
-     "summary": "The spotlight is shining on the post-war city, after it made the UK City of Culture shortlist.",
-     "published": "2026-10-26T05:38:30+00:00",
+     "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+     "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+     "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+     "published": "2026-10-26T12:57:58+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b302/live/4fe5a500-cf1c-11f1-9796-954775b3a434.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b16/live/de274990-d133-11f1-be77-d1864d279cb0.jpg",
      "licence": "linkout",
-     "id": "83aa956e9e00",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Culture"
+     "id": "43a04bab186b",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
     },
     {
-     "title": "Deeply divided Israel braces for pivotal election",
-     "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-     "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-     "published": "2026-10-25T22:11:13+00:00",
-     "source": "BBC News",
+     "title": "Tiger Shroff's Attackers Had A Return Plan For Weapons. It Failed In Surat",
+     "url": "https://www.ndtv.com/india-news/tiger-shroffs-attackers-had-a-return-plan-for-weapons-it-failed-in-surat-12237983#publisher=newsstand",
+     "summary": "The four accused -- Sumit, Kunal, Radha and Babita, who were arrested in Delhi and Haryana last week -- were sent to police custody until October 28 today.",
+     "published": "2026-10-26T12:19:41+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
+     "image": "https://c.ndtvimg.com/2026-10/81mlb9kg_tiger-shroff-attackers_625x300_19_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "d33d24266c27",
+     "id": "e30f7c2e33fb",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "28 today"
+     ]
+    },
+    {
+     "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss",
+     "summary": "Debris fell on the Saudi city of Khamis Mushait after Houthi-fired missiles were intercepted.",
+     "published": "2026-10-26T12:54:05+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793019228.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "69fb4ef61f3a",
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
-     "title": "Deep depression intensifies into cyclonic storm ‘Arnab’; rains continue in Tamil Nadu | LIVE",
-     "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
-     "summary": "Odisha stepped up preparations, mobilising personnel and equipment, while Chief Minister Mohan Charan Majhi deputed eight ministers to vulnerable districts",
-     "published": "2026-10-26T06:07:16+00:00",
-     "source": "The Hindu",
+     "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+     "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
+     "summary": "Brazil's president secured a historic fourth term after overturning a first-round defeat.",
+     "published": "2026-10-26T13:02:22+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/international/iey3tk/article71625630.ece/alternates/LANDSCAPE_1200/Rains.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-26T041240Z_657336273_RC2RAOAIWPIZ_RTRMADP_3_BRAZIL-ELECTION-1793011394.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "aca33e62f34a",
+     "id": "70766a29fca8",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News"
+     "from_section": "Global News"
     },
     {
-     "title": "Keralam plans Bill to regulate high treatment costs in private hospitals",
-     "url": "https://www.thehindu.com/news/national/kerala/keralam-plans-bill-to-regulate-high-treatment-costs-in-private-hospitals/article71625737.ece",
-     "summary": "Health Minister K. Muraleedharan tells Assembly that govt to introduce Bill in next session, says govt agrees in principle to the need to regulate private hospitals, many of which are under management of foreign companies",
-     "published": "2026-10-26T05:59:25+00:00",
-     "source": "The Hindu",
+     "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+     "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+     "published": "2026-10-26T12:52:16+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/kerala/qmpede/article71625770.ece/alternates/LANDSCAPE_1200/K%20Muraleedharan.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg",
      "licence": "linkout",
-     "id": "98ba7fdb80b4",
+     "id": "81bc7b0e59c4",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "from_section": "Global News",
+     "figures": [
+      "12 years says it is \"clear\""
+     ]
     },
     {
-     "title": "Rahul Gandhi’s convoy involved in collision on Purvanchal Expressway; Congress leader safe",
-     "url": "https://www.thehindu.com/news/national/rahul-gandhi-amit-shah-defamation-case-sultanpur-accident-up-verdict-october-26-2026/article71625707.ece",
-     "summary": "Party workers, officials, and several security personnel were injured in the collision. It is reported that the Leader of Opposition in the Lok Sabha is safe",
-     "published": "2026-10-26T05:59:20+00:00",
-     "source": "The Hindu",
+     "title": "DMK Ex-Minister Arrested In Alleged Rs 100-Crore Bribery Case",
+     "url": "https://www.ndtv.com/india-news/dmk-ex-minister-anbil-mahesh-poyyamozhi-arrested-he-allegedly-took-rs-100-crore-bribe-from-schools-12237486#publisher=newsstand",
+     "summary": "The arrest follows an investigation into allegations that money was collected from private educational institutions on the promise of securing government approvals, with investigators identifying 177 schools that they believe were affected by the alleged scheme.",
+     "published": "2026-10-26T12:17:08+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "image": "https://c.ndtvimg.com/2025-06/18454s1g_anbil-mahesh-poyyamozhi_625x300_21_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "2c938df0b146",
+     "id": "abe5b22f30fc",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "from_section": "National News",
+     "figures": [
+      "Rs 100 -Crore Bribery Case",
+      "177 schools that they believe were"
+     ]
     },
     {
-     "title": "Analysis of Edge Artificial Intelligence Chips Market Segment Highlights Significant Growth Opportunities Through 2030",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWjdPSE5HOUVNMmpIRXdFRWpiZXUwclZ4d3p1cnRXVnJjNmhmTXFjNkpGOEZRLWJRQ2FVSlR2T1BTc3hVM0QyRmRZMDFJYzRpZ0pabmlTM1JOYUs3M3g1MTZQeGN5eE9pNEhKQ1RVOXFpT2d1a293ZHAxQXA2VXhCWkRUTkJ6aHdfZUNPU1ZXTmVQckh4S0pZYmtiNGFjUWtvUXRfM1BvWDBpSlVuX3c?oc=5",
-     "summary": "Analysis of Edge Artificial Intelligence Chips Market Segment Highlights Significant Growth Opportunities Through 2030 The National Law Review",
-     "published": "2026-10-26T01:55:06+00:00",
-     "source": "The National Law Review",
+     "title": "Israel expands expulsions in occupied West Bank to cement control",
+     "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+     "summary": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing 'new reality', analysts say.",
+     "published": "2026-10-26T13:11:08+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adcaabfeaed-1792846527.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "fbcb3423d9cb",
-     "also": [
-      {
-       "source": "Business Standard",
-       "title": "Artificial intelligence's next big bottleneck in India is a very small chip",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUVpZT1FuRlAxRDVrNk5xOVoxUGhWUEJhMWRrQ0dOVDVsVUdUdjhVMVJMbXR2MVVwUFJ2OXdkdWxYY0p5bk9TSWhDNjdENFZTWlZfM0pOWGc2djZvdWhDWDF0d3NIY3pCV1dKRXZMMmFGcjVEZTlXVHFjNGNxckpwX0tQaTNzN0E2MUFkWU10b0xLRVg2cnlXWFZLazQyeGdUTGwwX3RyMkV6ZVdGMXAtRnBBckhmcDhIR2hyaktQTUU1MVU1ZXJMVWYycE9HU1I2VTExUHIzSExtVVJzT3pWWWtJTi1kRTZxWktWRi1TYllrQmpTQnc00gH8AUFVX3lxTE9xS25ncTFFdWZIT2ZsTnZVU0l2eC1FXzh6NUlaaTJIRUVhWU4xQTY4UllxS3c2UmRJYmxtZVI5Q0t4dVpYdkpYUHRSSVJLVC0wYlR0ZVdrVWtJRHBTeGpiek9kZ2tlLTFtYXduaTBRUmNwUW9BU0ZNQURZQXJscWk4cXgzLVBGblJSdl9NVy1OazJObjgtUjZlbU5TTXdCbjdPLTlKMHV4RFQwZHVQNk4wbkgzR0FZY1AzSVZlbUxUc0FDTDMyb0w5TTdHTVZ5djItc1BTQnhXMXRCU3J5YmFTNGlmQVhoR09kcjltY0g3SjBJWnkyS201Vmhrbg?oc=5",
-       "summary": "Artificial intelligence's next big bottleneck in India is a very small chip Business Standard"
-      }
-     ],
+     "id": "e8f1bf2957c3",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Technology"
+     "from_section": "Global News"
     },
     {
-     "title": "Paytm, AU Small Finance Bank's RuPay credit card: 2% reward on UPI spends, 5% on Paytm Travel bookings — check benefits",
-     "url": "https://www.livemint.com/money/personal-finance/paytm-au-small-finance-bank-rupay-credit-card-2-pc-upi-reward-points-5-pc-paytm-travel-bookings-lifetime-free-benefits-11792981423273.html",
-     "summary": "Paytm and AU Small Finance Bank have launched a lifetime-free RuPay credit card that offers rewards on eligible Paytm UPI spending and complimentary family airport lounge access on eligible flights booked through Paytm. The card has no joining or annual fee.",
-     "published": "2026-10-26T06:05:10+00:00",
+     "title": "Flight cancellation refund: Can airlines keep the GST charged on your ticket? Here's what the tribunal ruled",
+     "url": "https://www.livemint.com/money/personal-finance/flight-cancellation-refund-can-airlines-keep-the-gst-charged-on-your-ticket-heres-what-the-tribunal-ruled-11793016949344.html",
+     "summary": "The GST tribunal has allowed Singapore Airlines to recover ₹45.92 lakh in GST on cancelled flights after it refunded passengers. Here's what the ruling means for airline ticket refunds, cancellation charges and the GST paid by travellers.",
+     "published": "2026-10-26T12:57:44+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/Paytm_AU_SFB_RuPay_credit_card_1792994601797_AyKR_1792994607243_pcRu_7d7cd5ed-0947-46e3-9684-e1911977143a_vhcz.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/Gmini_Generated_Image_vkybflvkybflvkyb_179301932_1793019333474_p83b_1793019333636_1vQF_d665e4bb-b029-463f-b443-b1689a14c87e_BdrP.png",
      "licence": "linkout",
-     "id": "6fdff363f82c",
+     "id": "f0c03a03d4c4",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
+     "from_section": "Business",
+     "figures": [
+      "₹45.92 lakh in GST on cancelled"
+     ]
     },
     {
-     "title": "HDFC Bank launches electric car loan with separate battery and vehicle repayment tenures – key features",
-     "url": "https://www.livemint.com/money/personal-finance/hdfc-bank-launches-electric-car-loan-with-separate-battery-and-vehicle-repayment-tenures-check-key-features-benefi-11792991320792.html",
-     "summary": "HDFC Bank’s new Flexi (Green) electric car loan lets you finance the car body and battery separately, with a longer battery tenure to lower EMIs. Here’s how it works and what to check before you apply, including the cost of a longer repayment term.",
-     "published": "2026-10-26T05:49:07+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/36a746e5-e2e4-4861-88e2-4da652da8512_1792991722385_aZwr_1792991734556_NbF9_4e7dcc55-bd0d-4924-b257-88c2bc48ec33_2Rd0.png",
-     "licence": "linkout",
-     "id": "c4c1d30edff2",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business"
-    },
-    {
-     "title": "Devdutt Padikkal Robbed Of Double Century By 1 Run, Fumes Over Controversial Dismissal",
-     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/devdutt-padikkal-robbed-of-double-century-by-1-run-fumes-over-controversial-dismissal-12235787#publisher=newsstand",
-     "summary": "Devdutt Padikkal stood firm like a wall and rescued India A on Day 3 of the first unofficial Test against New Zealand A at Bert Sutcliffe Oval in Lincoln.",
-     "published": "2026-10-26T05:59:54+00:00",
+     "title": "Efton Chism Shares Engagement News As Drake Maye’s Wife Sends Heartfelt Message",
+     "url": "https://sports.ndtv.com/us/nfl/efton-chism-shares-engagement-news-as-drake-maye-s-wife-sends-heartfelt-message-12237409#publisher=newsstand",
+     "summary": "New England Patriots wide receiver Efton Chism III is engaged to Devynn Warns. Drake Maye’s wife, Ann Michael, congratulated the couple as fans joined the celebration.",
+     "published": "2026-10-26T12:37:38+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/qplnc84g_devdutt-padikkal-afp_625x300_26_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/ofgnojv4_efton-chism-iii-and-devynn-warns_625x300_26_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4aaf0341937c",
-     "category": "human",
-     "category_label": "Human interest",
+     "id": "404641498129",
+     "category": "money",
+     "category_label": "Money & scams",
      "from_section": "Sports"
     },
     {
-     "title": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
+     "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+     "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+     "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+     "published": "2026-10-25T23:33:19+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8395/live/f35a8d90-d0fc-11f1-9d25-c3fafb2ab4de.jpg",
+     "licence": "linkout",
+     "id": "be0f10ab2a6e",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Culture"
+    },
+    {
+     "title": "Bulgarian Tourist Dies In Himachal Paragliding Crash, Another Rescued",
+     "url": "https://www.ndtv.com/india-news/bulgarian-tourist-dies-in-himachal-pradesh-dharamshala-paragliding-crash-another-rescued-12237996#publisher=newsstand",
+     "summary": "The victim has been identified as Bulgarian citizen Maxim Valentinovich Gavrilichenko. The other man, also a Bulgarian citizen, has been identified as Stephen Antony.",
+     "published": "2026-10-26T12:16:36+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/nq5sihlk_paragliding_625x300_26_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2f713d18be5a",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "National News"
+    },
+    {
+     "title": "Forty Iranian sailors stranded off Sri Lanka coast rescued",
      "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
-     "summary": "The sailors received medical treatment before being flown back to Iran, Sri Lanka authorities said.",
+     "summary": "The sailors received medical treatment before being flown back to Iran, Sri Lankan authorities said.",
      "published": "2026-10-26T03:47:28+00:00",
      "source": "BBC News",
      "byline": "",
@@ -309,108 +302,132 @@
      "from_section": "Global Hotline"
     },
     {
-     "title": "Rosebank: Life on the oil field at the centre of a political storm",
-     "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-     "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-     "published": "2026-10-25T07:15:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-     "licence": "linkout",
-     "id": "78b224c035e9",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Business"
-    },
-    {
-     "title": "HKEX Launches Artificial Intelligence and Semiconductor Indices",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1VRNTZ6NE5zZVc2aTBCY18yYW5JRGE5RnJQQjJ6Tm5xNWxnS2xjSFoyZi1rTGdiQVU0NUhUeDRVNWNMb2kzbjZtaFNkMi1CeUdOalpESFFkdllSbndEY2tzN3ZHNmsyT2FnMjhhWW1aTlNvUUU4YmVULVQ5ZjBheUgtVThLSTlIMFFwektfY1pkaGlZNW13S3VNR05VLTVXN3IzY0w5cnVPckRXdEdZLWRJTFQ0SDNRSHhmOUxzdnN3dw?oc=5",
-     "summary": "HKEX Launches Artificial Intelligence and Semiconductor Indices TradingView",
-     "published": "2026-10-26T05:49:00+00:00",
-     "source": "TradingView",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "489c43f4f18c",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Talent, compute and R&D key to India's AI ambitions: Report",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY0tNWGJMakFQbjVPNko2ZXVGSkp2UGhodF84dGFrcnJBWUQ4dWk3b2VfSE8xd2kwQUFtNjR0RkcwbWlXVmdPTUdseURITUVVbWRGV0tCOFptc3Q2RGhBYWlFUTRickJWdXVjWU5iRXd5b01PSkt3YnhsbndobDQxUGV4cU5NdXN1anByejlkR3g0czM4NXVrT3BtX0ZGd3N0SVNLdzVsY3FheVE0Z1BFWlJrbHNDWDJsU0N1Q245T08xR1pNQ2ZzUWtCaVJmRXVMQ3lyU9IB2gFBVV95cUxQNHktWWQ0Y01DVERRTU8yQnU1SjNSaFphdWUxNlZ1djRsX3ZROURrb1RJalotd3pWWVpHWjU1MUREWkNEUmdiZzE5V1BkSEZhY25mdUx4SVUyRjAzODJFZU9SR3VrazFEdTR3aUg3NzZna2JBNVZudHBuU2t0Mkw1OGNQNXFIZFZjS25TQmM5ZFBIczlrRE56SmFnMnZKUWdSYXQ5alVBMXFZN3RvelNvRXk5SndibTdrUGNfQkozMjNYeDdUVU9tdU1zaUUzOGd1dUc3OXZucEhyUQ?oc=5",
-     "summary": "Talent, compute and R&D key to India's AI ambitions: Report The Economic Times",
-     "published": "2026-10-26T03:23:49+00:00",
-     "source": "The Economic Times",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "c91ba665d3a5",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Bihar Partners With 11 IT Firms To Train Government School Teachers In Artificial Intelligence",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbjlCLVhoVElSOUMwUE5pU2hmb1NsLThCc2dIelNXQW5DMmRfLXJMbktEdEw2ZUZKN3hyaThnYlgweE1lMDNpMUZXMmlxQ0RYdC1YcXAtSkxveWt0aXpxT0FIZG5kT0xWYThhNDRFMzQ5Q1ZTWTRGOXdsZlF1enZIMnFDWVdYTFEwSDBVbFJJTElpbGNqOHRpUkV2b3FxZUhpdnRRRTlEM2ZCdG4zbUNBWE9QcjNmcWVkNHBVZ05DUjcxMmVpYTZ3QlpFQ1BWVmfSAdcBQVVfeXFMTVVBYjJtQVRBWVYyTVMwZG9lY2FFNWx4SzMxdmpmc2RuOEN1WXJod1UtVnpyYlFHUWhTLUNmeG1HUFY4OFpmTkVUVnJUYWE5MVdMZEFMdjlTTVlnbTNKdXlsZF9FWnduakhqTVZaU1VJajJRaFY4MUVMTi1DQ0ZIU0RMT2JQamhCNEJzSDRwLU8yUWltZ3RYN0RnWUh1WEJjOW5HRWwxNDBvaHhKbGoya1lySzJ6RzJOaVFudEY3ajRMN2FrUkhBMC1RNTNMWVRlbURQV08wRnM?oc=5",
-     "summary": "Bihar Partners With 11 IT Firms To Train Government School Teachers In Artificial Intelligence NDTV",
-     "published": "2026-10-26T01:53:09+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "fceedb85d9d2",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "NFL Week 7 Results: Kansas City Chiefs And San Francisco 49ers Lose While Minnesota Vikings Remain Only Unbeaten Team",
-     "url": "https://sports.ndtv.com/us/nfl/nfl-week-7-results-kansas-city-chiefs-and-san-francisco-49ers-lose-while-minnesota-vikings-remain-only-unbeaten-team-12236046#publisher=newsstand",
-     "summary": "The Kansas City Chiefs were shut out until garbage time in Seattle, the San Francisco 49ers lost in Atlanta, and the Minnesota Vikings won again to stay the NFL’s last unbeaten team. Week 7 did not go as expected for the league’s biggest names.",
-     "published": "2026-10-26T05:52:13+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/ab3s3lqg_nfl-week-7-chiefs-and-49ers-lose-while-vikings-remain-unbeaten_625x300_26_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "213b335bf444",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "7 Results : Kansas City Chiefs"
-     ]
-    },
-    {
-     "title": "Jaxon Smith-Njigba Catches Nine Passes For 150 Yards And A Touchdown In Seattle Seahawks Win",
-     "url": "https://sports.ndtv.com/us/nfl/jaxon-smith-njigba-catches-nine-passes-for-150-yards-and-a-touchdown-in-seattle-seahawks-win-12235959#publisher=newsstand",
-     "summary": "Jaxon Smith-Njigba caught nine passes for 150 yards and a touchdown as the Seattle Seahawks dismantled the Kansas City Chiefs 20-3 on Sunday Night Football. It was the kind of performance that leaves no room for debate about where he stands.",
-     "published": "2026-10-26T05:46:37+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/2cjup6i_jaxon-smithnjigba-catches-nine-passes-for-150-yards_625x300_26_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "9d2015259747",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "150 Yards And A Touchdown"
-     ]
-    },
-    {
-     "title": "What was leaked in the Censor Board data breach? | Explained",
-     "url": "https://www.thehindu.com/sci-tech/technology/what-was-leaked-in-the-censor-board-data-breach-explained/article71625769.ece",
-     "summary": "The Hindu reported over the weekend that entire application forms to the censor board by filmmakers, including commercially sensitive distribution agreements, were lying exposed on the Internet Archive",
-     "published": "2026-10-26T06:13:00+00:00",
+     "title": "Cyclone Arnab threat: Naidu orders evacuations, puts Andhra Pradesh on high alert",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece",
+     "summary": "With heavy to extremely heavy rain forecast in 13 districts on October 28 and 29, the government steps up disaster preparedness, shifts 4,711 pregnant women to health facilities and deploys 15 NDRF and SDRF teams; R&B department readies emergency teams to ensure road safety and swift restoration of traffic",
+     "published": "2026-10-26T13:21:48+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/sci-tech/technology/8vcv78/article71625823.ece/alternates/LANDSCAPE_1200/cbfc.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/nh841/article71627286.ece/alternates/LANDSCAPE_1200/20261026424L.jpg",
      "licence": "linkout",
-     "id": "75b5312c32e1",
+     "id": "c29c757bd876",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National News",
+     "figures": [
+      "13 districts on October 28",
+      "4,711 pregnant women to health facilities",
+      "15 NDRF and SDRF teams; R&B"
+     ]
+    },
+    {
+     "title": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 26 October",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZG5iNUw1VTVXYllxTUFfdUdheTJnVEEtR1dCS0J0MGkyUy02QWJQRFVFSDFFQ1ZfeUNOcTdkanFiUFlFMzNFM1dMX3d3ejNyWkFkbE1ZVjVUWkhyTmZkLTNTLWJPT0tvM004YnllMmNXSXRsS2tVaThQT0RvSEphc1JySU5rd0Rva2l1ZGNUa3NtNTQwTjZaLU5QSjJ5dllCSUctQ2wzaFFxX3c3MzBNV1JxdUMza0g5V1UwcERsTjZiaFFKR0EtQ20wWQ?oc=5",
+     "summary": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 26 October Investing.com India",
+     "published": "2026-10-26T10:19:05+00:00",
+     "source": "Investing.com India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "68b71cf2d466",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "India's daily multimodal AI use to nearly double by 2030: Ericsson report",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU0F3MWhIWGxiUVZBdmEtT2FWUDZUTEFjZE9VbElldE5LRWN4bDBvOU4tQUV0UnZxYll1NGVuR2ViRVJpenFWbTRFQnZ0TUczT2xZYU1XM0Z2R1dBLTYxdGVSSmRqU1k0cXVuVE5WaVBSeEFfTTNQSEVLNW9iMnBUU3Zud3ExWG5MbGJqU1RiRUI1d0ExbzJuSHM0cTFXVUhKa3RKc2V1U1duVGRMZFotQnczQUZmZTFUMzd4b0pCTVRKc3BNYXNnVjRGVjFJRXRRNnZpTV9Mdng5QXZfTFJwaHk3TGs5Q0F4VlpFNHFiUVY1M0nSAfgBQVVfeXFMT3J4NFh6UFc4bDFaVkxkLXFEOERYWk14UXhWSlBuQXpFSGZFVHRPU21NX2NaNmQ4X0VzWDlYYWVKa0VZcHR2dnQtT0lrVEdxcEl0NXB3RkRwdHRVdW5kWm9wbjJfM0NNVHBOZU01X2ZuU1dkOU9FSUI4dS1KN2kwM1JVSzMxeVRkOEtpNzBsNEJvc1I1NmFMRTI5R0htdVpCd2paRFM1em9QRnM1QnhUQlNHbFlvT0pteW5LY08zb29uUG1wV0kzb0c2ZUJfblU3YkJELWtIVEZMZHc3eGtoYXNQWVcyQWllZjN0S1RrTGFXcm1tRVNReWk?oc=5",
+     "summary": "India's daily multimodal AI use to nearly double by 2030: Ericsson report Business Standard",
+     "published": "2026-10-26T10:17:58+00:00",
+     "source": "Business Standard",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "a4d1e098bd53",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "Call for Articles: Naval Applications and Dangers of Artificial Intelligence - Center for International Maritime Security",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWhvMlh0NG5XVFBTN0M0NDN2UlJ3dFgzV2NGSjZTYzRfb1F2Q09MRTJyZXV5Y3oxenp1RTVFODlQLXI3T1ZwbWVDNURUUS1JZzRTbkRwdm1XckNSNDJiUmRpVEt5aEVHVmN2c3NadXA3M3NnbEwxcko1d1dTbmNSYl84TGhSdTBMZTFkM1R2SVlIcnpaUE5TTkFPWQ?oc=5",
+     "summary": "Call for Articles: Naval Applications and Dangers of Artificial Intelligence Center for International Maritime Security",
+     "published": "2026-10-26T10:00:51+00:00",
+     "source": "Google News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "0789e0e785fb",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "Brown Calls New York Knicks’ Effort 'Crap’ After 0-3 Start As Jalen Brunson Demands Accountability",
+     "url": "https://sports.ndtv.com/us/nba/brown-calls-new-york-knicks-effort-crap-after-0-3-start-as-jalen-brunson-demands-accountability-12237339#publisher=newsstand",
+     "summary": "Following a 10-point fourth-quarter collapse against the Orlando Magic, coach Mike Brown and captain Jalen Brunson spoke candidly about the struggling, 0-3 defending champion Knicks.",
+     "published": "2026-10-26T12:36:59+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/gd9d23p4_jalen-brunson_625x300_20_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "736290cb075b",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "3 Start As Jalen Brunson Demands",
+      "3 defending champion Knicks"
+     ]
+    },
+    {
+     "title": "IPL 2027 Auction To Take Place On December 16 In Goa, Retention Deadline Is November 15",
+     "url": "https://sports.ndtv.com/cricket/ipl-2027-auction-to-take-place-on-december-16-in-goa-retention-deadline-is-november-15-12237999#publisher=newsstand",
+     "summary": "The Indian Premier League (IPL) 2027 mini-auction will take place in Goa on December 16, with the day-long event scheduled on the same day as the second One-Day International (ODI) between India and Sri Lanka in Bengaluru",
+     "published": "2026-10-26T12:17:49+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/s8j9497_ipl-trophy_625x300_09_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6aca03ed0dfb",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports",
+     "figures": [
+      "16, with the day-long event scheduled"
+     ]
+    },
+    {
+     "title": "\"India Doesn't Have To Look Far\": Lance Klusener Spots 'Next Superstar' After Virat Kohli, Rohit Sharma",
+     "url": "https://sports.ndtv.com/cricket/india-doesnt-have-to-look-far-lance-klusener-spots-next-superstar-after-virat-kohli-rohit-sharma-12237933#publisher=newsstand",
+     "summary": "Lance Klusener believes Indian cricket has the talent to move smoothly into its next era, backing Shubman Gill to lead the team for years while identifying young batter Vaibhav Sooryavanshi as a potential future superstar",
+     "published": "2026-10-26T12:07:58+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2021-10/r7d4i45o_lance-klusener-twitter_625x300_01_October_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "85cd357b96eb",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
+     "title": "Kerala: 224 iPhones bought for Rs 7.16 crore, several missing; vigilance probe ordered",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHJGOW1ZbFVxS2c3Y3ItY3diaFloQlRIMnN4RlN1SXpiWUFpVTBHT0JpY183VTdRVU5ibnJIbS03akE2ODNMUzV5eDQ2a1NLcjJST1pmaGpLdkJzNnJOaXJla3NRaUJlS3hJNWFYcE8yMm05UzZPQmZLVW1tSWJONzVMRFNfV1MwaTBnNFF3MFB3SnhPQ0MxMUtLNTJBU3pBeERRTkNOOHlfbnJWc2lPU2lLMkt0X21TWWZMVmd4bkoybUtJRXdBLVhKdXFhUQ?oc=5",
+     "summary": "Kerala: 224 iPhones bought for Rs 7.16 crore, several missing; vigilance probe ordered The Hans India",
+     "published": "2026-10-26T12:50:25+00:00",
+     "source": "The Hans India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "7aed04ac028c",
      "category": "mystery",
      "category_label": "Mystery & investigation",
-     "from_section": "National News"
+     "from_section": "Scandals & Investigations",
+     "figures": [
+      "224 iPhones bought for Rs 7",
+      "Rs 7.16 crore , several missing; vigilance"
+     ]
     }
    ]
   },
@@ -426,7 +443,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-10-26T06:30:18.734348+00:00",
+     "published": "2026-10-26T13:28:24.383903+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -437,7 +454,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-10-26T06:30:18.734366+00:00",
+     "published": "2026-10-26T13:28:24.383912+00:00",
      "image": "https://static.dw.com/image/43844019_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -448,7 +465,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-10-26T06:30:18.734372+00:00",
+     "published": "2026-10-26T13:28:24.383914+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -459,7 +476,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-10-26T06:30:18.734377+00:00",
+     "published": "2026-10-26T13:28:24.383917+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -470,7 +487,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-10-26T06:30:18.734381+00:00",
+     "published": "2026-10-26T13:28:24.383919+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -481,7 +498,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-10-26T06:30:18.734386+00:00",
+     "published": "2026-10-26T13:28:24.383920+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -527,6 +544,23 @@
      ]
     },
     {
+     "title": "Kerala: 224 iPhones bought for Rs 7.16 crore, several missing; vigilance probe ordered",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHJGOW1ZbFVxS2c3Y3ItY3diaFloQlRIMnN4RlN1SXpiWUFpVTBHT0JpY183VTdRVU5ibnJIbS03akE2ODNMUzV5eDQ2a1NLcjJST1pmaGpLdkJzNnJOaXJla3NRaUJlS3hJNWFYcE8yMm05UzZPQmZLVW1tSWJONzVMRFNfV1MwaTBnNFF3MFB3SnhPQ0MxMUtLNTJBU3pBeERRTkNOOHlfbnJWc2lPU2lLMkt0X21TWWZMVmd4bkoybUtJRXdBLVhKdXFhUQ?oc=5",
+     "summary": "Kerala: 224 iPhones bought for Rs 7.16 crore, several missing; vigilance probe ordered The Hans India",
+     "published": "2026-10-26T12:50:25+00:00",
+     "source": "The Hans India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "7aed04ac028c",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "figures": [
+      "224 iPhones bought for Rs 7",
+      "Rs 7.16 crore , several missing; vigilance"
+     ]
+    },
+    {
      "title": "Two Indian nationals among 28 green card holders charged with US election fraud in California",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbHdQb0JxT0lSMTZSNE43QmRGRi1QMWRwaFBIVkxCSVpfQjBockVHQ05oTC1ieW53WUdoSnBzamtmN3paSEhuU1hCejZ0a3E1UjZGM2piZEEtaEhjdGlFVjVtbnhfMTBQNk14b0drLXlFSExpV0xNOU5iTjQ2WWxVeEpuanNJVUlRMm1CSmhEVW42TlVKUkdVQXRmLXlqRnZnWnZZZUxzcnlXVERyZnNXNk9teThlQmdFQkdOX3Q2MA?oc=5",
      "summary": "Two Indian nationals among 28 green card holders charged with US election fraud in California India Weekly",
@@ -551,114 +585,104 @@
    "upsc": false,
    "items": [
     {
-     "title": "Drunk bike taxi rider bites traffic constable in Hyderabad",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/drunk-bike-taxi-rider-bites-traffic-constable-in-hyderabad/article71624517.ece",
+     "title": "Cyclone Arnab threat: Naidu orders evacuations, puts Andhra Pradesh on high alert",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece",
+     "summary": "With heavy to extremely heavy rain forecast in 13 districts on October 28 and 29, the government steps up disaster preparedness, shifts 4,711 pregnant women to health facilities and deploys 15 NDRF and SDRF teams; R&B department readies emergency teams to ensure road safety and swift restoration of traffic",
+     "published": "2026-10-26T13:21:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nh841/article71627286.ece/alternates/LANDSCAPE_1200/20261026424L.jpg",
+     "licence": "linkout",
+     "id": "c29c757bd876",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "13 districts on October 28",
+      "4,711 pregnant women to health facilities",
+      "15 NDRF and SDRF teams; R&B"
+     ]
+    },
+    {
+     "title": "Tiger Shroff attack: Police custody of 4 extended till October 28; voice samples needed, say cops",
+     "url": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+     "summary": "Kunal (21) and Sumit (19), residents of Haryana's Sonipat district, and Radha (23) and Babita (23), both from Uttar Pradesh, are among the 11 people arrested in the case",
+     "published": "2026-10-26T13:21:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/gocci6/article71627275.ece/alternates/LANDSCAPE_1200/20261023404L.jpg",
+     "licence": "linkout",
+     "id": "d18782bda1ac",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "4 extended till October 28; voice",
+      "11 people arrested in the case"
+     ]
+    },
+    {
+     "title": "Multiple attractions draw visitors to Dasara Exhibition Ground in Mysuru",
+     "url": "https://www.thehindu.com/news/national/karnataka/multiple-attractions-draw-visitors-to-dasara-exhibition-ground-in-mysuru/article71626843.ece",
      "summary": "",
-     "published": "2026-10-26T06:24:15+00:00",
+     "published": "2026-10-26T13:16:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "image": "https://th-i.thgim.com/public/incoming/zbifr3/article71627248.ece/alternates/LANDSCAPE_1200/IMG_2303_24_9_2025_17_4__1_1_81EUOGF6.jpg",
      "licence": "linkout",
-     "id": "2c8d95ff2384",
+     "id": "2836b8eb774a",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Fatal luxury car crash: Keralam judge booked under MV Act as registered owner of vehicle driven by minor son",
-     "url": "https://www.thehindu.com/news/national/kerala/fatal-luxury-car-crash-keralam-judge-booked-under-mv-act-as-registered-owner-of-vehicle-driven-by-minor-son/article71625774.ece",
-     "summary": "Section 199A of Motor Vehicles Act stipulates that where an offence has been committed by a juvenile, the guardian or the owner of the motor vehicle shall be deemed guilty and liable to be proceeded against and punished accordingly",
-     "published": "2026-10-26T06:18:08+00:00",
+     "title": "Supreme Court seeks response from Centre, ECI on plea against MLAs ‘abandoning’ seats to shift loyalty at public expense",
+     "url": "https://www.thehindu.com/news/national/sc-notice-to-centre-ec-on-plea-against-mlas-abandoning-seats-to-shift-loyalty-at-public-expense/article71626367.ece",
+     "summary": "‘When a Member abandons that vote within weeks, not for any compelling cause but to change sides, he does not merely leave a seat. He breaks the trust on which representative democracy rests’",
+     "published": "2026-10-26T13:15:49+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6jhnbr/article71625797.ece/alternates/LANDSCAPE_1200/accident_cheranellur_10.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/54d3pi/article71626460.ece/alternates/LANDSCAPE_1200/20260810309L.jpg",
      "licence": "linkout",
-     "id": "0c608d48d29c",
+     "id": "582ff271ecbf",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "What was leaked in the Censor Board data breach? | Explained",
-     "url": "https://www.thehindu.com/sci-tech/technology/what-was-leaked-in-the-censor-board-data-breach-explained/article71625769.ece",
-     "summary": "The Hindu reported over the weekend that entire application forms to the censor board by filmmakers, including commercially sensitive distribution agreements, were lying exposed on the Internet Archive",
-     "published": "2026-10-26T06:13:00+00:00",
+     "title": "Here are the big stories from Karnataka today",
+     "url": "https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article71627112.ece",
+     "summary": "Welcome to the Karnataka Today newsletter, your guide from The Hindu on the major news stories to follow today. Curated and written by Nalme Nachiyar.",
+     "published": "2026-10-26T13:11:41+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/sci-tech/technology/8vcv78/article71625823.ece/alternates/LANDSCAPE_1200/cbfc.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/x2v8c8/article71627230.ece/alternates/LANDSCAPE_1200/POURAKARMIKA.jpg",
      "licence": "linkout",
-     "id": "75b5312c32e1",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Discipline in water use key to resolving inter-State disputes: G.C. Tallur",
-     "url": "https://www.thehindu.com/news/national/karnataka/discipline-in-water-use-key-to-resolving-inter-state-disputes-gc-tallur/article71623409.ece",
-     "summary": "Farmers and activists from Goa, Karnataka, and Maharashtra discuss issues involving water from Mahadayi and Malaprabha rivers",
-     "published": "2026-10-26T06:11:33+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/c68abr/article71625800.ece/alternates/LANDSCAPE_1200/10215_4_7_2026_18_56_25_2_DSC_3378JPG.JPEG",
-     "licence": "linkout",
-     "id": "558c0c4d094d",
+     "id": "7224051fb022",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "What Would Nikhil Kamath Do If Zerodha Disappeared? His Answer",
-     "url": "https://www.ndtv.com/india-news/ndtv-world-summit-2026-what-would-nikhil-kamath-do-if-zerodha-disappeared-his-answer-12223711#publisher=newsstand",
-     "summary": "Nikhil Kamath said that he would be interested in making content if Zerodha ever vanished.",
-     "published": "2026-10-26T04:02:20+00:00",
+     "title": "'His Father Saving Him': Mercedes Crash Victim's Daughter On Teen Accused",
+     "url": "https://www.ndtv.com/india-news/kerala-hit-and-run-case-his-father-saving-him-mercedes-crash-victims-daughter-on-teen-accused-12237174#publisher=newsstand",
+     "summary": "The father, in whose name the Mercedes is registered, said his 17-year-old son was driving for the first time on that day. Bhadrakeerthi, the victim's daughter, claims that is not true.",
+     "published": "2026-10-26T12:16:09+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/l1bvhbjo_nikhil-kamath-ndtv_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/kcabmp3o_mercedes_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "0ef71f48b6d4",
-     "category": "general",
-     "category_label": "General"
+     "id": "5fbc8f1c8b11",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "NCERT To Organise Five-Day Online Series On Understanding Down Syndrome From October 26",
-     "url": "https://www.ndtv.com/education/ncert-to-organise-five-day-online-series-on-understanding-down-syndrome-from-october-26-12235513#publisher=newsstand",
-     "summary": "The CIET and NCERT are organising a five-day online session titled \"Understanding Down Syndrome\". The programme is set to begin from today, October 26 and will continue till October 30, 2026.",
-     "published": "2026-10-26T03:56:55+00:00",
+     "title": "Mumbai Man Arrested For Jaish Links, Sold Perfume To Avoid Suspicion",
+     "url": "https://www.ndtv.com/india-news/mumbai-rapido-driver-arrested-for-suspected-jaish-links-remarks-against-pm-modi-12228956#publisher=newsstand",
+     "summary": "Mohammad Hasan Abu Sarmad Akhtar, a resident of Mumbai's Mahim, was found near the Mahim Metro Station by the Maharashtra Anti-Terrorism Squad (ATS) following a tip-off.",
+     "published": "2026-10-26T12:04:47+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/unfqolvc_ncert_625x300_26_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/m500mebc_jaish_625x300_24_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "be8080e8f17f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Bihar Board Extends Class 9, 11 Registration Deadline for 2028 Exams",
-     "url": "https://www.ndtv.com/education/bihar-board-extends-class-9-11-registration-deadline-for-2028-exams-12235413#publisher=newsstand",
-     "summary": "Bihar School Examination Board extends registration deadline for 2028 Matric and Intermediate exams to November 6, 2026.",
-     "published": "2026-10-26T02:49:39+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-03/hkgvc9ok_bihar-board-2026_625x300_16_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "fb78d8dd02fe",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "11 Registration Deadline for 2028 Exams"
-     ]
-    },
-    {
-     "title": "Over 340 Voter ID Cards Found On Narmada Riverbank In Madhya Pradesh",
-     "url": "https://www.ndtv.com/india-news/over-340-voter-id-cards-found-on-narmada-riverbank-in-madhya-pradesh-12235441#publisher=newsstand",
-     "summary": "The Congress also sought a search operation in the river through divers to look for more voter ID cards.",
-     "published": "2026-10-26T02:35:52+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/gcteo3n4_maheshwar-voter-id-card_625x300_26_October_26.jpeg",
-     "licence": "linkout",
-     "id": "e04e274caba6",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "340 Voter ID Cards Found"
-     ]
+     "id": "4445d75cc502",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -669,85 +693,56 @@
    "upsc": false,
    "items": [
     {
-     "title": "The French government is hiding behind a ‘riots’ narrative",
-     "url": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
-     "summary": "It is much easier to fearmonger and try to delegitimise the protests than to address students' demands.",
-     "published": "2026-10-26T05:56:04+00:00",
+     "title": "Israel expands expulsions in occupied West Bank to cement control",
+     "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+     "summary": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing 'new reality', analysts say.",
+     "published": "2026-10-26T13:11:08+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T171927Z_979418966_RC2R9OA80KSF_RTRMADP_3_FRANCE-PROTEST-1792906814.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adcaabfeaed-1792846527.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "3084ac86d423",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "e8f1bf2957c3",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "China’s political elite gather for talks on Communist Party discipline",
-     "url": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
-     "summary": "The four-day meeting is being watched closely for clues as to the country's direction and future leadership.",
-     "published": "2026-10-26T05:38:41+00:00",
+     "title": "Who are the Israeli candidates trying to unseat Netanyahu?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
+     "summary": "Who are the Israeli candidates trying to unseat Netanyahu?",
+     "published": "2026-10-26T13:02:29+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-30T031457Z_497103776_RC2DTNAHPEY5_RTRMADP_3_CHINA-ANNIVERSARY-1792987682.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-25T190127Z_1634526228_RC2IAOAKPNCJ_RTRMADP_3_ISRAEL-ELECTION-EISENKOT-1-1793019704.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "41f94125c4c6",
+     "id": "1328bd0c6f2f",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-     "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-     "summary": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
-     "published": "2026-10-26T05:24:59+00:00",
+     "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+     "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
+     "summary": "Brazil's president secured a historic fourth term after overturning a first-round defeat.",
+     "published": "2026-10-26T13:02:22+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adde5c816be3-1792927176.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-26T041240Z_657336273_RC2RAOAIWPIZ_RTRMADP_3_BRAZIL-ELECTION-1793011394.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "31d7afd6c41d",
+     "id": "70766a29fca8",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
-     "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-     "summary": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change.",
-     "published": "2026-10-26T05:18:00+00:00",
+     "title": "Has Pakistan reopened its border with Iran for trade?",
+     "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
+     "summary": "Traders say some exports are crossing border after a weeklong halt, but Tehran says its cargo is not getting through.",
+     "published": "2026-10-26T13:01:16+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/He-follows-proceedings-on-his-computer-1788798143.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adf2e419e72-1793011265.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "a4cc77532cf9",
+     "id": "04ec39fc67c2",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Israel’s election: Five key things to know",
-     "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-     "summary": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
-     "published": "2026-10-26T05:16:38+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ac7339d5de8-1791439773.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "be4621eee0f1",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-     "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-     "published": "2026-10-26T01:07:05+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg",
-     "licence": "linkout",
-     "id": "81bc7b0e59c4",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "12 years says it is \"clear\""
-     ]
     },
     {
      "title": "Venezuelan opposition leader María Machado returns after months in exile",
@@ -756,24 +751,40 @@
      "published": "2026-10-26T05:20:19+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dcf/live/679d8fc0-d0a0-11f1-87fa-c1809f43a7a8.jpg",
      "licence": "linkout",
      "id": "b4c30b6342df",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-     "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-     "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-     "published": "2026-10-25T15:32:51+00:00",
+     "title": "Australian murderer loses bid to eat Vegemite in prison",
+     "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+     "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+     "published": "2026-10-26T04:05:28+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1263/live/4ad06900-d12a-11f1-b441-2b33b063138f.jpg",
      "licence": "linkout",
-     "id": "fa795b3ffb0b",
+     "id": "b06ee7809909",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+     "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+     "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+     "published": "2026-10-26T06:16:15+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/0257f500-d100-11f1-9d25-c3fafb2ab4de.jpg",
+     "licence": "linkout",
+     "id": "38147ee7df7f",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "46. Bauza had voiced a number"
+     ]
     }
    ]
   },
@@ -784,9 +795,22 @@
    "upsc": false,
    "items": [
     {
-     "title": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
+     "title": "China's big political meeting could see Xi 'tighten discipline' in party",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+     "summary": "The highly secretive four-day Plenum starts Monday in Beijing.",
+     "published": "2026-10-26T07:40:57+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db8/live/b9600940-d100-11f1-9d25-c3fafb2ab4de.jpg",
+     "licence": "linkout",
+     "id": "db652c8b9dce",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Forty Iranian sailors stranded off Sri Lanka coast rescued",
      "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
-     "summary": "The sailors received medical treatment before being flown back to Iran, Sri Lanka authorities said.",
+     "summary": "The sailors received medical treatment before being flown back to Iran, Sri Lankan authorities said.",
      "published": "2026-10-26T03:47:28+00:00",
      "source": "BBC News",
      "byline": "",
@@ -805,80 +829,118 @@
    "upsc": false,
    "items": [
     {
-     "title": "Drunk bike taxi rider bites traffic constable in Hyderabad",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/drunk-bike-taxi-rider-bites-traffic-constable-in-hyderabad/article71624517.ece",
+     "title": "Cyclone Arnab threat: Naidu orders evacuations, puts Andhra Pradesh on high alert",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-threat-naidu-orders-evacuations-puts-andhra-pradesh-on-high-alert/article71627074.ece",
+     "summary": "With heavy to extremely heavy rain forecast in 13 districts on October 28 and 29, the government steps up disaster preparedness, shifts 4,711 pregnant women to health facilities and deploys 15 NDRF and SDRF teams; R&B department readies emergency teams to ensure road safety and swift restoration of traffic",
+     "published": "2026-10-26T13:21:48+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/nh841/article71627286.ece/alternates/LANDSCAPE_1200/20261026424L.jpg",
+     "licence": "linkout",
+     "id": "c29c757bd876",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "13 districts on October 28",
+      "4,711 pregnant women to health facilities",
+      "15 NDRF and SDRF teams; R&B"
+     ]
+    },
+    {
+     "title": "Tiger Shroff attack: Police custody of 4 extended till October 28; voice samples needed, say cops",
+     "url": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+     "summary": "Kunal (21) and Sumit (19), residents of Haryana's Sonipat district, and Radha (23) and Babita (23), both from Uttar Pradesh, are among the 11 people arrested in the case",
+     "published": "2026-10-26T13:21:53+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/gocci6/article71627275.ece/alternates/LANDSCAPE_1200/20261023404L.jpg",
+     "licence": "linkout",
+     "id": "d18782bda1ac",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "4 extended till October 28; voice",
+      "11 people arrested in the case"
+     ]
+    },
+    {
+     "title": "Multiple attractions draw visitors to Dasara Exhibition Ground in Mysuru",
+     "url": "https://www.thehindu.com/news/national/karnataka/multiple-attractions-draw-visitors-to-dasara-exhibition-ground-in-mysuru/article71626843.ece",
      "summary": "",
-     "published": "2026-10-26T06:24:15+00:00",
+     "published": "2026-10-26T13:16:46+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/th-online/account-page-arrow.svg",
+     "image": "https://th-i.thgim.com/public/incoming/zbifr3/article71627248.ece/alternates/LANDSCAPE_1200/IMG_2303_24_9_2025_17_4__1_1_81EUOGF6.jpg",
      "licence": "linkout",
-     "id": "2c8d95ff2384",
+     "id": "2836b8eb774a",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Fatal luxury car crash: Keralam judge booked under MV Act as registered owner of vehicle driven by minor son",
-     "url": "https://www.thehindu.com/news/national/kerala/fatal-luxury-car-crash-keralam-judge-booked-under-mv-act-as-registered-owner-of-vehicle-driven-by-minor-son/article71625774.ece",
-     "summary": "Section 199A of Motor Vehicles Act stipulates that where an offence has been committed by a juvenile, the guardian or the owner of the motor vehicle shall be deemed guilty and liable to be proceeded against and punished accordingly",
-     "published": "2026-10-26T06:18:08+00:00",
+     "title": "Kerala University confers honorary doctorates on K. Radhakrishnan, Sreekumaran Thampi, Madhu and P.R. Sreejesh",
+     "url": "https://www.thehindu.com/news/national/kerala/kerala-university-confers-honorary-doctorates-onk-radhakrishnan-sreekumaran-thampi-madhu-and-pr-sreejesh/article71626818.ece",
+     "summary": "Speaking on the occasion, Keralam Governor and University Chancellor Om Prakash Mathur calls upon universities to promote multidisciplinary research, innovation and entrepreneurship, strengthen links with industry and society and prepare students to become responsible citizens and sensitive human beings",
+     "published": "2026-10-26T13:10:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6jhnbr/article71625797.ece/alternates/LANDSCAPE_1200/accident_cheranellur_10.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/f5oprq/article71627172.ece/alternates/LANDSCAPE_1200/PTI10_26_2026_000260B.jpg",
      "licence": "linkout",
-     "id": "0c608d48d29c",
+     "id": "9ede7ce5dbac",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "What was leaked in the Censor Board data breach? | Explained",
-     "url": "https://www.thehindu.com/sci-tech/technology/what-was-leaked-in-the-censor-board-data-breach-explained/article71625769.ece",
-     "summary": "The Hindu reported over the weekend that entire application forms to the censor board by filmmakers, including commercially sensitive distribution agreements, were lying exposed on the Internet Archive",
-     "published": "2026-10-26T06:13:00+00:00",
+     "title": "Telangana Graduate MLC polls | Nearly five lakh voter enrollment applications pending verification",
+     "url": "https://www.thehindu.com/news/national/telangana/telangana-graduate-mlc-polls-nearly-five-lakh-voter-enrollment-applications-pending-verification/article71626935.ece",
+     "summary": "BRS submits representation to extend deadline for Form 18 submission from November to December 6",
+     "published": "2026-10-26T13:10:26+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/sci-tech/technology/8vcv78/article71625823.ece/alternates/LANDSCAPE_1200/cbfc.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/msz6p1/article71627188.ece/alternates/LANDSCAPE_1200/27hyng_MLC%20byelection%2015.jpg",
      "licence": "linkout",
-     "id": "75b5312c32e1",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
+     "id": "f814b36b5cc1",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "18 submission from November to December"
+     ]
     },
     {
-     "title": "Stage set for counting of votes in Karnataka Council polls on October 27",
-     "url": "https://www.thehindu.com/news/national/karnataka/stage-set-for-counting-of-votes-in-council-polls-today/article71623614.ece",
-     "summary": "It is expected that counting will go on for more than one round and the official announcement can come late in the evening or at midnight",
-     "published": "2026-10-26T06:00:16+00:00",
+     "title": "KSOG organises vitamin D3 awareness rally in Kalaburagi",
+     "url": "https://www.thehindu.com/news/national/karnataka/ksog-organises-vitamin-d3-awareness-rally-in-kalaburagi/article71623778.ece",
+     "summary": "",
+     "published": "2026-10-26T13:10:20+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/k6xgcp/article71623912.ece/alternates/LANDSCAPE_1200/2699_24_10_2026_20_21_41_1_25HUBLICOUNTINGTRAINING.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/6jxk8i/article71627214.ece/alternates/LANDSCAPE_1200/10258_25_10_2026_19_59_22_1_KLB_KSOG_BIKE_RALLY_1.JPEG",
      "licence": "linkout",
-     "id": "00810fef0dc5",
+     "id": "68d403c6bbae",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "The Hindu's top news of the day for October 25, 2026",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnFZQV9ueWpDMF9NZkI5T3c2OXNZZjZpM1d0NncyWC0xR21SVTlvd1Y4TE5aY3c1aVV3MUstZW5IUUNCOGJ2RkRVa1BJMmIxdWpLWHNkMnJLTHE0T2hmY2lNS0Z4VUdTXzBQczQ2cWNGTmNIMXhmak5jTjBzVFpuOXI5OWZvV25QNDRsTjRn0gGUAUFVX3lxTE9jVlgzcVZocHNGUnRnVVROMjB2M05vR05IelRWWk5iNWpwbVQ0ODVnZVppdGxVdG9Sa3hOWjhwUTZ6bEZ4YUJnME1DM2cweHdLY25CSmxkMU0zLUQ5QU5YVUxYSzRaMWZoTC0tR0UtamVDelZzRks3TGpKc0JKZ05EWjZlUUVvc0prWlE2TWNJOUJncXg?oc=5",
-     "summary": "The Hindu's top news of the day for October 25, 2026 The Hindu",
-     "published": "2026-10-25T12:19:39+00:00",
-     "source": "The Hindu",
+     "title": "India news: BJP to protest nationwide over opposition's Modi remark",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5",
+     "summary": "India news: BJP to protest nationwide over opposition's Modi remark DW.com",
+     "published": "2026-10-26T07:21:00+00:00",
+     "source": "DW.com",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "d904a82fa8ed",
-     "category": "general",
-     "category_label": "General"
+     "id": "ad08852c3564",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "School assembly news headlines today- October 26: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTdmOVNyUmI5T1VqYkxRSlRrUXhYZ3hZQ0pNVjJiMjhUN3gzQ05SWDZnSWdNYUlmWWI2TGJzY3ZPRldSNThnWmVJZjRTTDktRVZIbUFKWS01cmxpVXNaNm9kRXJyOE9GWUIydmU5UWNxemkyd04takRYeFpVbnRiR0FSMXZYVjdmLU03WUYyNU05YXdtUWJqcXJVUjZqZmd5aENtN2oydktyWi1IeWFqcXRmWkhhaGd6d1lYejB5a21JMUhTa0pwcTN6U0JjaVdUQTZUM0lTN3NOTUxMQWJrcW5kSERQZw?oc=5",
-     "summary": "School assembly news headlines today- October 26: Top national, sports and world news curated for you India Today",
-     "published": "2026-10-25T17:06:39+00:00",
+     "title": "School assembly news headlines today- October 27: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUwwT1RRTHB4OU04dFVWMXpRTUh6ak12c1dBT1o5QTFsc0RLNllJR3Bxek95M2NueUNOWExJVmtEUGNnYmg4UUtNUFd5dm5PQ2Jidm15Z1ppNVROU2g0ZXp5NUQ1WDhOakozX2FUMDVXeUNWUG5XSUUwT0VhV1pjODVtaDBybEw2SkZUbFNoaGJvbGl2SXhxQmhhbzNWUlFZRVNVU3RvMmEzWkxPS0lpWmt3LTZaOFhBQnR0N2VsMUtOVC1ic1RxU1A5ZHRBN1JXYU8wbGJmTU56NDY4RktOWVctMGpfQQ?oc=5",
+     "summary": "School assembly news headlines today- October 27: Top national, sports and world news curated for you India Today",
+     "published": "2026-10-26T11:04:52+00:00",
      "source": "India Today",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "8275224b0374",
+     "id": "ed01652508cd",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -890,6 +952,44 @@
    "title": "UPSC Current Affairs",
    "upsc": true,
    "items": [
+    {
+     "title": "Auction of Government of India Dated Securities",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63868",
+     "summary": "",
+     "published": "2026-10-26T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "a58e46faa937",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Overseas Direct Investment for September 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63867",
+     "summary": "",
+     "published": "2026-10-26T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "3f3b87b33a27",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Money Market Operations as on October 25, 2026",
      "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63866",
@@ -948,45 +1048,6 @@
      },
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Money Market Operations as on October 23, 2026",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63863",
-     "summary": "",
-     "published": "2026-10-26T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "50ebcd68dcb0",
-     "upsc": {
-      "papers": [
-       "GS-II — Governance"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
-     },
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Hon’ble Prime Minister of India inaugurates the Reserve Bank of India’s Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha",
-     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=63862",
-     "summary": "",
-     "published": "2026-10-26T00:00:00+00:00",
-     "source": "Reserve Bank of India",
-     "image": "https://rbi.org.in/images/Twitter_New.png",
-     "licence": "linkout",
-     "id": "f6f3435eb2b2",
-     "upsc": {
-      "papers": [
-       "GS-III — Economy",
-       "GS-III — Security"
-      ],
-      "terms": [],
-      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
-     },
-     "category": "tech",
-     "category_label": "AI & technology"
     }
    ]
   },
@@ -1035,6 +1096,178 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Vote young yet govern much later: West African youth’s struggle for power",
+     "url": "https://globalvoices.org/2026/10/26/vote-young-yet-govern-much-later-west-african-youths-struggle-for-power/",
+     "summary": "Young people are deemed mature enough to elect their leaders, yet not to replace them. They drive political movements forward by voting, advocating, campaigning, and protesting, yet cannot run for office themselves.",
+     "published": "2026-10-26T08:30:41+00:00",
+     "source": "Global Voices",
+     "byline": "Laura",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/10/Capture-decran-2026-10-19-093701-800x450.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "In all of West Africa, te voting age is 18, but presidential eligibility ages vary widely"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "Youth mobilized in Africa. Screenshot from DW Africa's YouTube channel"
+      },
+      {
+       "kind": "p",
+       "text": "In West Africa, young people can vote for the first time at 18. In some states, they are eligible to serve in parliament by age 25. However, depending on the country, they must wait until they are 35, 40, or even 50 years old before being eligible to run for the highest office. Although these age limits are beginning to shift, the real challenges often lie deeper in the electoral structure."
+      },
+      {
+       "kind": "p",
+       "text": "Young people are deemed mature enough to elect their leaders, yet not to replace them. They drive political movements forward by voting, advocating, campaigning, and protesting, yet cannot run for office themselves. The question is, can democracy really be called inclusive when it gives young people the right to elect but not to be elected?"
+      },
+      {
+       "kind": "h",
+       "text": "Age: A shifting barrier"
+      },
+      {
+       "kind": "p",
+       "text": "Across the region, the voting age is 18. However, presidential eligibility ages vary widely. In Gambia, it’s 30; in Senegal, Nigeria, and Côte d’Ivoire, it’s 35; and in Benin, Ghana, and Guinea, it’s 40. In the legislative assemblies, the bar is even lower. In Togo, Benin, Senegal, and Nigeria’s House of Representatives, it’s 25, while in Ghana it’s 21."
+      },
+      {
+       "kind": "p",
+       "text": "The situation in Togo requires closer inspection. On May 6, 2024, the country legally became a parliamentary republic. Under the 2024 Constitution, the eligibility age for President of the Republic is 50. Parliament also now elects the president, whose powers are limited. Authority now rests with the President of the Council of Ministers, who must be at least 40 and is not elected in public presidential elections. Faure Gnassingbé has held this position since May 3, 2025, the day parliament also elected the country’s oldest-ever incoming president of the Republic, Jean-Lucien Savi de Tové, 86."
+      },
+      {
+       "kind": "p",
+       "text": "However, the country’s legal age limit is hardly set in stone. In 2002, the National Assembly lowered it from 45 to 35 — a reform the opposition called tailor-made for Faure Gnassingbé."
+      },
+      {
+       "kind": "p",
+       "text": "More recently, in Ghana’s capital, Accra, on July 30, 2026, the Ghanaian government agreed in principle to lower the minimum presidential eligibility age from 40 to 35, defying the Constitutional Review Committee’s recommendation of 30. This legislation will ultimately go to a referendum, requiring a 40 percent turnout and a 75 percent approval."
+      },
+      {
+       "kind": "p",
+       "text": "In 2018, Nigeria set a regional precedent. Under pressure from the youth-led Not Too Young To Run campaign, the law lowered the presidential eligibility age from 40 to 35 and the House of Representatives’ eligibility age from 30 to 25."
+      },
+      {
+       "kind": "p",
+       "text": "According to data from the Inter-Parliamentary Union, lowering the minimum presidential age leads to younger parliaments. However, Côte d’Ivoire tells a very different story. In 2016, after removing the maximum age limit of 75 to run for office, incumbent President Alassane Ouattara, 83, ran for another term in 2025. The law rarely protects younger generations."
+      },
+      {
+       "kind": "h",
+       "text": "Youths particularly active in street movements"
+      },
+      {
+       "kind": "p",
+       "text": "Even though young people have the right to vote across the continent, that does not mean all young people exercise that right. In August 2025, an Afrobarometer survey found that those aged 18 to 35 were less active than their elders in almost all traditional means of political participation. Overall across the continent, they trailed by 18 percentage points in voting, but by a record 29 points in Senegal. Protests were the only exception."
+      },
+      {
+       "kind": "p",
+       "text": "In Togo’s capital of Lomé, the June 6 Movement, sparked by the rapper Aamron’s arrest, brought thousands of people onto the streets. According to the Media Foundation for West Africa, the subsequent crackdown, for which the International Federation for Human Rights (FIDH) blamed government-backed militiamen, left seven dead."
+      },
+      {
+       "kind": "p",
+       "text": "Similarly, in Madagascar, the September 2025 protests toppled President Andry Rajoelina’s government, resulting in a military takeover. According to the Center for Strategic and International Studies (CSIS), the overthrown president himself came to power in 2019 on the back of a protest, at just 34 years old."
+      },
+      {
+       "kind": "p",
+       "text": "Comparably, in Kenya, street protests forced the withdrawal of the 2024 Finance Bill. Meanwhile, in Morocco, youth-led protests prompted the authorities to announce youth candidacy incentives and prosecute specific ringleaders."
+      },
+      {
+       "kind": "p",
+       "text": "Although leaderless movements wrest concessions, they rarely last without political parties or trade unions to sustain them."
+      },
+      {
+       "kind": "h",
+       "text": "The gap between participation and representation"
+      },
+      {
+       "kind": "p",
+       "text": "The Inter-Parliamentary Report, published on April 9, 2026, found that elected officials aged 30 and under account for just 2.8 percent of all parliamentarians worldwide. Since 2023, progress has stalled for the first time since 2014. More than a third (37.1 percent) of legislative houses have no parliamentarians in this age group."
+      },
+      {
+       "kind": "p",
+       "text": "The lack of youth representation and participation is a significant challenge considering young people under 35 account for roughly 70 percent of West Africa’s population, according to the West Africa Youth Democracy Conference."
+      },
+      {
+       "kind": "p",
+       "text": "According to data from the Inter-Parliamentary Union (IPU), at the start of Ghana’s 2025 parliamentary term, despite the legal minimum age of 21, no parliamentarians were aged 30 or under. What’s more, those aged 31 to 40 held just 46 of the 269 parliamentary seats, or 17.1 percent. After Senegal’s 2024 legislative elections, the National Assembly had only five members under 30, accounting for just 3 percent. Although almost 38 percent of registered voters were aged 18 to 35, the Assembly’s average age was 47. Elected at just 44, the country’s youngest-ever president, Bassirou Diomaye Faye, only became an official candidate after his mentor, Ousmane Sonko, was disqualified."
+      },
+      {
+       "kind": "p",
+       "text": "In Nigeria, International IDEA, an intergovernmental organization that supports sustainable democracy worldwide, reported that in 2015, only three of the 360 members of the House of Representatives were between the ages of 18–25, rising to 14 in 2019 — a positive but modest development."
+      },
+      {
+       "kind": "p",
+       "text": "In Dakar, the head of Yiaga Africa, the organization behind the Not Too Young to Run campaign, summed up the situation, stating that the political arena is more open on paper than in reality."
+      },
+      {
+       "kind": "p",
+       "text": "However, Afrobarometer has identified a paradox. While young people do vote less than their elders, they are also excluded from seats of power and the polls. This representation gap is anything but passive; it breeds disengagement. The IPU warns that young people’s absence from parliamentary assemblies undermines institutional legitimacy and jeopardizes trust in democracy. Senegal, listed in the 2026 IPU report as one of the countries where parliament grew younger in the most recent elections, shows that rejuvenation is possible when a political agenda empowers a generation."
+      },
+      {
+       "kind": "h",
+       "text": "Rewriting the deal: money, parties, obstacles"
+      },
+      {
+       "kind": "p",
+       "text": "High age limit proponents demand experience. Across the 34 countries that Afrobarometer surveyed, citizens favor an average leadership age of 39. Those calling for a lower age limit seek proven engagement measures, such as lowering the eligibility age, quotas, and forums for young parliamentarians. However, as Nigeria shows, often, the main obstacle is financial."
+      },
+      {
+       "kind": "p",
+       "text": "Nigeria’s ruling party, the All Progressives Congress (APC), has set the total cost of its 2027 presidential nomination and expression-of-interest forms at NGN 100 million (USD 75,000), NGN 30 million (USD 22,521) for the expression of interest, and NGN 70 million (USD 52,550) for the nomination. The Senate will cost NGN 20 million (USD 15,014) and the House of Representatives NGN 10 million (USD 7,507)."
+      },
+      {
+       "kind": "p",
+       "text": "Young people will receive a 50 percent discount only on nomination fees, leaving the presidential bill at NGN 65 million (USD 48,789). A Nigerian civil society group calculated that workers earning the minimum wage, NGN 70,000 (USD 52) per month, would have to work for more than a century to buy some of these forms."
+      },
+      {
+       "kind": "p",
+       "text": "The Electoral Act, 2026, signed on February 18, also doubled the presidential candidate’s campaign spending limit to NGN 10 billion (USD 7.5 million) and tripled that of governorship candidates to NGN 3 billion (USD 2.2 million)."
+      },
+      {
+       "kind": "p",
+       "text": "At the initiative of ECOWAS and the youth-led advocacy organization Legis360, delegates from 12 countries gathered in Dakar to bring these obstacles to the forefront. In their communiqué, they launched the West Africa Youth Observer Network (WAYON) and called for youth quotas, reduced candidate fees, and spending limits. ECOWAS later announced it would deploy youth-only election observers for Nigeria’s upcoming presidential election on January 16, 2027."
+      },
+      {
+       "kind": "p",
+       "text": "Other countries exemplify how laws can directly impact nominations. According to the IPU, Ecuador owes much of its progress to a 2022 law, which required 25 percent of its candidates to be young adults. Countries with term limits also have considerably more young parliamentarians than the global average. In 2023, the IPU also noted that limited youth funding and a lack of spending limits contributed to aging parliamentary assemblies."
+      },
+      {
+       "kind": "p",
+       "text": "Elsewhere, the obstacles are political. Take, for example, Benin. After disqualifying the main opposition candidate (Les Démocrates) for failing to meet election requirements, current President Romuald Wadagni faced only one opponent (Paul Hounkpe). On April 12, 2026, Wadagni subsequently won the presidential election with 94.27 percent of the vote. In 2024, a constitutional reform that extended the presidential term from five to seven years also raised the minimum vote threshold for securing seats in the National Assembly from 10 percent of parliamentary election votes to 20 percent. This regulation far outweighs a candidate’s date of birth when they have no party machine behind them."
+      },
+      {
+       "kind": "p",
+       "text": "Another example is Burkina Faso. In January 2026, the military junta dissolved all political parties. Meanwhile, in The Gambia, President Barrow will run for a third term in the December 5 presidential election."
+      },
+      {
+       "kind": "h",
+       "text": "Inclusive voting, but flawed representation"
+      },
+      {
+       "kind": "p",
+       "text": "Is a system that gives young people the right to elect their leader but impedes their ability to become one themselves fully inclusive? The findings speak for themselves. Although Nigeria has lowered its age limits and Ghana has committed to doing the same, these limits are more a symptom than a cause. Age is not the sole contributing factor."
+      },
+      {
+       "kind": "p",
+       "text": "Critics argue that lowering age limits without also addressing nomination costs, party regulations, and the openness of the political arena would only be the first step on a seemingly endless staircase. What stands between young people and decision-making positions are exceedingly high costs, restrictive nomination practices, candidate exclusions, and even the lack of parties."
+      },
+      {
+       "kind": "p",
+       "text": "Until street movements have credible institutional representatives, they will continue to wrest temporary concessions or, as seen in Madagascar, give way to powers other than those they had hoped for. The primary challenge of the West African Democratic Pact is making young people not only the promised future of politics, but also an active part of today’s representation."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "73441945bec7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "25. However , depending",
+      "50 years old before being eligible"
+     ]
     },
     {
      "title": "Between two shores: The ‘Monhés,’ nationality, and a sense of belonging in Mozambique",
@@ -1155,149 +1388,6 @@
      "id": "96cc8fecbe9f",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Queer mediums of the cult of María Lionza are redefining the gender binary in Venezuela’s sacred mountain",
-     "url": "https://globalvoices.org/2026/10/25/queer-mediums-of-the-cult-of-maria-lionza-are-redefining-the-gender-binary-in-venezuelas-sacred-mountain/",
-     "summary": "An ethnographic look at Venezuela's María Lionza cult, examining how LGBTQ+ mediums challenge traditional gender roles and face discrimination while channeling diverse spiritual entities",
-     "published": "2026-10-25T09:23:17+00:00",
-     "source": "Global Voices",
-     "byline": "Freisy González",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-12.47.21-AM-800x450.webp",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "Gender diversity, resistance and ritual cross-dressing in Venezuela's sacred cult"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "Portrait of Wander Rodríguez, part of the María Dolores Rodríguez Caravan and its powers, and the LGBTIQ+ community. Sorte (Yaracuy, Venezuela). October 12. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "In Venezuela, Spiritism as a religion is part of the collective imagination, of our identity; popular beliefs and ritual practices that take us back to our ancestors in colonial times. Over the years, Spiritism has evolved into a vibrant, contemporary national cult centered on the figure of María Lionza as the principal protector of waters and the charms of nature, a figure who challenges the notions of the patriarchal state and opposes monotheistic religions."
-      },
-      {
-       "kind": "p",
-       "text": "This religious system has been studied in depth by anthropologists in our country (Daisy Barreto, Angelina Pollak-Eltz, Michelle Asencio, Francisco Ferrándiz, Cesar Escalona, among others), which I had read about and found interesting at the time, but which I later witnessed for the first time in its most important sites, such as Quibayo and Sorte, in the state of Yaracuy, Venezuela."
-      },
-      {
-       "kind": "p",
-       "text": "Altar to María Lionza in Quibayo (Yaracuy, Venezuela). October 11. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "These sites are part of the Cerro María Lionza Natural Monument, popularly known as the Montaña de Sorte, and they represent the most prominent expressions of this cult nationwide, so they are visited year-round by practitioners or “caravans” (as these groups are commonly called),"
-      },
-      {
-       "kind": "p",
-       "text": "But few days are as important as October 11 and 12, when thousands of people flock there to celebrate the Day of Indigenous Resistance in Venezuela."
-      },
-      {
-       "kind": "p",
-       "text": "These dates offer an opportunity for ethnographic and cultural observation, specifically how oral histories and our ethnic origins are reclaimed; including those of Indigenous peoples, some of them warriors who fought against Spanish colonization, and African populations — enslaved people and maroons [AN: this will need context] — as we can understand through the figure of the Three Powers: Queen María Lionza as the central figure of the cult, the leader, accompanied by El Indio Guaicaipuro and El Negro Felipe."
-      },
-      {
-       "kind": "p",
-       "text": "Altar to Queen María Lionza in Quibayo (Yaracuy, Venezuela). October 11. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "For this celebration families gather among the trees and along the banks of the Yaracuy River, which runs through the entire mountain, setting up lavish altars to the various deities of Venezuelan spiritualism, which embody the sacred rituals characteristic of the Marialioncero cult."
-      },
-      {
-       "kind": "p",
-       "text": "The figure of María Lionza is profound, and I believe it is risky to oversimplify her, as she is regarded as a Queen, a Goddess, a mother, and a guardian, yet there are also aspects linked to her sensuality, as evidenced by the iconographic representations of her that have emerged -naked or clothed, for example-."
-      },
-      {
-       "kind": "p",
-       "text": "In this regard, I draw upon the writings of Francisco Ferrándiz and César Escalona from the perspective of Venezuelan anthropology, combining them with my own observations and field interviews, to address issues related to gender and sexual diversity that are essential to the fascinating debate within the cult on its various courts — such as the Black Court, the Viking Court, the Malandra Court, the Chamarrera Court, and the Medical Court, among others — and entities."
-      },
-      {
-       "kind": "p",
-       "text": "Detail of flowers and bottles of the Baile del vidrio (Glass Dance Ritual) in Sorte (Yaracuy, Venezuela). October 12. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "h",
-       "text": "Gender diversity, gender discrimination"
-      },
-      {
-       "kind": "p",
-       "text": "The Sorte Mountain is a setting where gender stereotypes are called into question, and I believe they undermine androcentric perspectives and rigid notions of masculinity and femininity found within Christianity, since the entities pose a challenge due to their wide spectrum in terms of strength, height, voice, attire, and other details of the mediums who embody them, as well as the particular characteristics of each spirit."
-      },
-      {
-       "kind": "p",
-       "text": "Strenght between banks and Viking Court entity. Baile del vidrio (Glass Dance Ritual) in Sorte (Yaracuy, Venezuela). October 12. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "In his ethnographies and writings, Ferrandíz offers interesting reflections on the body and masculinity in this religion, and how male mediums (from a position of stigmatized masculinity) resisted possession by female spirits, something that did not occur as frequently among female spiritualists."
-      },
-      {
-       "kind": "p",
-       "text": "That is why my encounter in Sorte with the María Dolores Rodríguez Caravan and its powers — led by Osmer Padrón and his godchildren — allowed me to also explore these aspects."
-      },
-      {
-       "kind": "p",
-       "text": "Osmer Padrón embodies the spirit of María Dolores. Sorte (Yaracuy, Venezuela). October 12. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "Osmer Padrón, Wander Rodríguez, and Jhonaiker Díaz are all male mediums that belong to the LGBTQ+ community, and are part of this caravan that channels female entities from the Black Court, such as María Dolores Rodríguez, Francisca Martínez, Rita Encarnación, and La Negra Tomasa; but in Osmer’s case, he also channels Mister Piter, a male entity from the Viking Court, a warrior and healer."
-      },
-      {
-       "kind": "p",
-       "text": "Wander tells me that in the LGBTQ+ spiritualist community, “there’s a lot of discrimination, both inside and outside the mountain [of Sorte], but Queen María Lionza is love and affection, and as many spiritual beings have said, we are all deeply cherished by her. We are here first and foremost to fulfill a mandate from Goddess and our Majesty María Lionza. Nothing else matters.”"
-      },
-      {
-       "kind": "p",
-       "text": "Portraits of Jhonaiker Díaz (who works with the spirit of La Negra Tomasa) and José Rojas. They are part of the LGBTIQ+ community. Sorte (Yaracuy, Venezuela). October 12. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "Regarding the practice of channeling female entities from the Black Court, Rodríguez tells me:"
-      },
-      {
-       "kind": "p",
-       "text": "Most of us spiritualists in the LGBTQ+ community dress up in dresses — or find ourselves transported into that state — not because we want to… Right now, there’s a lot of talk from people saying that men who want to be women channel Black Court entities just to wear dresses, but that’s not the case. When a spiritual entity is a woman or was a woman, she always seeks to be fully covered, to cover her breasts, and why? Because she feels exposed; she feels alive. There are many spiritual entities, such as the Negra I work with — who is Rita Encarnación Martínez Chávez — as well as María Dolores Rodríguez Rodríguez, Francisca Martínez Martínez, and Negra Tomasa, who have their dresses made for them. It’s not because we want to wear dresses; if they were our own bodies, we’d walk around shirtless, but no, they always… Spirituality always seeks to feel alive; that’s why they put on their dress, their turban, and some even seek out a flower."
-      },
-      {
-       "kind": "p",
-       "text": "Dresses for female entities from the Black Court: Francisca Martínez, Francisca Palacios, María Dolores Rodríguez, Negra Tomasa and Rita Encarnación. Sorte (Yaracuy, Venezuela). October 12. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "There are curious details regarding what the entities ask of their “banks” —people who also care for the physical forms of the entities — such as tobacco and aguardiente; but in the case of the black women, just as they ask for their dresses, they also ask for makeup and make gestures as if looking at themselves in a mirror."
-      },
-      {
-       "kind": "p",
-       "text": "Wander tells me that, in the case of Rita Encarnación, “her favorite flower is the cayena, since it was the flower with which she learned to perform her magic, while she labels “other flowers as hypocrites, since those other flowers remain alive for many days after being plucked from nature, whereas the cayena once plucked from nature wilt immediately.”"
-      },
-      {
-       "kind": "p",
-       "text": "Altar to Las Tres Potencias (The Three Powers), in Quibayo (Yaracuy, Venezuela). October 11. Freisy González Portales. Used with permission."
-      },
-      {
-       "kind": "p",
-       "text": "All of this demonstrates that Venezuelan spiritism must be examined through a gender lens, from a feminist perspective, reflecting on the power dynamics established between men and women, the presence of ritual cross-dressing during trance and possession rituals, and other aspects that enrich our understanding of this important Venezuelan religion."
-      },
-      {
-       "kind": "p",
-       "text": "Wander Rodríguez enters a trance to receive the spirit of Rita Encarnación. Sorte (Yaracuy, Venezuela). October 12. Freisy González Portales. Used with permission."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "ec90dd200151",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "12. Freisy González Portales"
-     ]
     }
    ]
   },
@@ -1456,6 +1546,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Healey to shield low-income pensioners from income tax in the Budget",
+     "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+     "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+     "published": "2026-10-26T10:28:12+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d71/live/21ebf010-c606-11f1-a64c-550be9e3c66b.jpg",
+     "licence": "linkout",
+     "id": "f5a40f153c17",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
@@ -1469,7 +1572,7 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+     "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
      "published": "2026-10-25T23:44:34+00:00",
@@ -1480,19 +1583,6 @@
      "id": "226eb026b7b0",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "Will a new code end 'rip-off parking charges'?",
-     "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
-     "summary": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
-     "published": "2026-10-25T07:05:30+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e375/live/494eded0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
-     "licence": "linkout",
-     "id": "082b47e0b3a1",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "What is the Budget and what could be in it?",
@@ -1508,55 +1598,81 @@
      "category_label": "General"
     },
     {
-     "title": "DA, wage hike: 4,000 MCD workers to get ₹18,000 salary, dearness allowance under ‘equal pay for equal work’",
-     "url": "https://www.livemint.com/money/da-wage-hike-4000-mcd-public-health-workers-delhi-municipal-corporation-rs-18000-salary-dearness-allowance-get-equal-pay-11792983229291.html",
-     "summary": "Delhi MCD wage hike: Around 4,000 public health workers will receive a minimum monthly salary of ₹18,000 plus dearness allowance (DA) under the equal pay for equal work principle. The pay revision will cost ₹52 crore, with increased wages transferred directly to workers’ bank accounts.",
-     "published": "2026-10-26T04:52:53+00:00",
+     "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+     "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+     "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+     "published": "2026-10-26T10:48:46+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9f/live/05bfe810-d114-11f1-921d-7d7921390179.jpg",
+     "licence": "linkout",
+     "id": "acae8c3ce471",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Home loan restructuring: How to reduce your EMI, eligibility rules and impact on credit score explained",
+     "url": "https://www.livemint.com/money/personal-finance/home-loan-restructuring-how-to-reduce-your-emi-eligibility-rules-and-impact-on-credit-score-explained-11793013844734.html",
+     "summary": "Home loan restructuring can help borrowers struggling with EMIs by reducing monthly payments or extending the repayment tenure. However, it may increase total interest costs and affect credit scores. Here's how it works and what RBI rules say.",
+     "published": "2026-10-26T11:36:49+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/3-0-100372714-newru1-khwD--621x414-LiveMint-0_1679853997899_1792990073282_lFy7_15986064-685d-4cca-a429-59aa058ce384_PheI.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/Gemini_enerated_Image_q72lx5q72lx5q72l_179301433_1793014341182_3JYF_1793014341448_t8Xc_9bd0fffd-fba9-4bec-ba55-c1cfc11a15a7_grYE.png",
      "licence": "linkout",
-     "id": "324c0c78fe2c",
+     "id": "28f2b042308b",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "₹1 crore life insurance policy: Thinking of exiting before maturity? Check your surrender value before you take decision",
+     "url": "https://www.livemint.com/money/personal-finance/1-crore-life-insurance-policy-thinking-of-exiting-before-maturity-check-your-surrender-value-before-you-take-decision-11793012231850.html",
+     "summary": "Surrendering a ₹1 crore life insurance policy before maturity could mean losing your premiums. Here's how surrender values differ for term plans, ULIPs and traditional policies, and how IRDAI's revised rules affect early exit payouts.",
+     "published": "2026-10-26T11:04:56+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/GeminiGenerated_Image_qr80zsqr80zsqr80_179301262_1793012629582_rhwn_1793012629683_E8pJ_89e4941b-b866-4953-9341-946ca0071fee_swM4.png",
+     "licence": "linkout",
+     "id": "11d21360b72d",
      "category": "money",
      "category_label": "Money & scams",
      "figures": [
-      "₹18,000  salary, dearness allowance under",
-      "4,000 public health workers will receive",
-      "₹18,000  plus dearness allowance (DA)",
-      "₹52 crore , with increased wages"
+      "₹1 crore life insurance policy: Thinking"
      ]
     },
     {
-     "title": "Gold, silver prices today, 26 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-     "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-26-october-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11792975534298.html",
-     "summary": "Gold and silver prices today, 26 October: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-     "published": "2026-10-26T04:02:07+00:00",
+     "title": "₹2 crore retirement corpus: How long will it last once you stop earning? Here’s the maths",
+     "url": "https://www.livemint.com/money/personal-finance/rs-2-crore-retirement-corpus-how-long-will-it-last-once-you-stop-earning-here-s-the-maths-11792998978650.html",
+     "summary": "Can a ₹2 crore retirement corpus really fund your retirement and give you the financial freedom you need? Here's a look at how long your retirement corpus will last based on your monthly expenses, inflation, and returns on invested corpus.",
+     "published": "2026-10-26T11:03:13+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/gold_1792975959351_aVTh_1792975959504_FSNO_2a153307-4405-4678-9a30-506d2f590d29_y8U6.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/Retirement_1792999647395_sSJu_1792999735686_fVqv_780e1691-d81a-4cce-b09e-79f7d1644c4a_OVxS.png",
      "licence": "linkout",
-     "id": "6f31538fc0d2",
+     "id": "28ce84fa19a7",
      "category": "money",
      "category_label": "Money & scams",
      "figures": [
-      "999 silver in Delhi, Mumbai",
-      "999 silver retail rates across Delhi"
+      "₹2 crore retirement corpus: How long",
+      "₹2 crore retirement corpus really fund"
      ]
     },
     {
-     "title": "Using a credit card for foreign transactions? 5 key things to know about fees, exchange rates and charges | Full list",
-     "url": "https://www.livemint.com/money/personal-finance/using-a-credit-card-for-foreign-transactions-5-key-things-to-know-about-fees-exchange-rates-and-charges-full-list-11792982285232.html",
-     "summary": "Using a credit card abroad can easily cost more than the foreign-currency price shown. Forex markup fees of 1% to 3.5%, GST on those fees, exchange rate changes and dynamic currency conversion all add to your bill. Here are 5 things to know about credit card charges on international transactions.",
-     "published": "2026-10-26T03:19:04+00:00",
+     "title": "₹50 lakh FD for 5 years: How much more can your senior citizen father earn than you in small finance bank? Check returns",
+     "url": "https://www.livemint.com/money/personal-finance/50-lakh-fd-for-5-years-how-much-more-can-your-senior-citizen-father-earn-than-you-in-small-finance-bank-check-returns-11793007590733.html",
+     "summary": "A ₹50 lakh fixed deposit for five years could earn a senior citizen around ₹1.09 lakh more than a regular depositor at Suryoday Small Finance Bank's cited rates. Compare estimated FD returns, taxation, deposit insurance and key investment considerations before investing.",
+     "published": "2026-10-26T10:32:10+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/2-0-1304990259-online-purchase8-0_1679588997542_1792982679333_o9Qe_df15f9dd-773a-4704-ad60-3263b0b91294_acu8.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/26/600x338/invest__1759927070803_1759927074232_1793008278574_g6a5_770eeee2-731f-4d3b-a936-4a4af0426e0e_jPdM.jpg",
      "licence": "linkout",
-     "id": "7dce33a52fea",
+     "id": "ac5bfe979ff0",
      "category": "money",
      "category_label": "Money & scams",
      "figures": [
-      "5 things to know about credit"
+      "₹50 lakh FD for 5 years",
+      "5 years : How much more",
+      "₹50 lakh fixed deposit for five",
+      "₹1.09 lakh more than a regular"
      ]
     }
    ]
@@ -1568,7 +1684,7 @@
    "upsc": false,
    "items": [
     {
-     "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+     "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
      "published": "2026-10-25T23:44:34+00:00",
@@ -1577,6 +1693,19 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
      "licence": "linkout",
      "id": "226eb026b7b0",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 26 October",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZG5iNUw1VTVXYllxTUFfdUdheTJnVEEtR1dCS0J0MGkyUy02QWJQRFVFSDFFQ1ZfeUNOcTdkanFiUFlFMzNFM1dMX3d3ejNyWkFkbE1ZVjVUWkhyTmZkLTNTLWJPT0tvM004YnllMmNXSXRsS2tVaThQT0RvSEphc1JySU5rd0Rva2l1ZGNUa3NtNTQwTjZaLU5QSjJ5dllCSUctQ2wzaFFxX3c3MzBNV1JxdUMza0g5V1UwcERsTjZiaFFKR0EtQ20wWQ?oc=5",
+     "summary": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 26 October Investing.com India",
+     "published": "2026-10-26T10:19:05+00:00",
+     "source": "Investing.com India",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "68b71cf2d466",
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1594,36 +1723,15 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Analysis of Edge Artificial Intelligence Chips Market Segment Highlights Significant Growth Opportunities Through 2030",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWjdPSE5HOUVNMmpIRXdFRWpiZXUwclZ4d3p1cnRXVnJjNmhmTXFjNkpGOEZRLWJRQ2FVSlR2T1BTc3hVM0QyRmRZMDFJYzRpZ0pabmlTM1JOYUs3M3g1MTZQeGN5eE9pNEhKQ1RVOXFpT2d1a293ZHAxQXA2VXhCWkRUTkJ6aHdfZUNPU1ZXTmVQckh4S0pZYmtiNGFjUWtvUXRfM1BvWDBpSlVuX3c?oc=5",
-     "summary": "Analysis of Edge Artificial Intelligence Chips Market Segment Highlights Significant Growth Opportunities Through 2030 The National Law Review",
-     "published": "2026-10-26T01:55:06+00:00",
-     "source": "The National Law Review",
+     "title": "Childhood’s Future Will Not Be Decided by Artificial Intelligence: We Will Decide It - Observatory",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVldYWE9wX1A4dnBmSXljSHRPXzhHalF3WWxfTU4zZkhZcjI5VWtWZ2R6bGVHUnZMUEF1RXNMaVdZMEo0dWpGRUhUeVZJdGxEOHBESE1vV2tPTWVTYmI0NmJFWnJaN2ZaTzJpZElCUDFGdnNBUVg0dUYzTEtXbTdfRW9ZdVk0WW5rMUcyZTFJLVFMaXNmQllhY3o3dF8yUlhPXzc5RFN6ekZ3UEtaM2xsaGRIWVcyUDhfZ0Ew?oc=5",
+     "summary": "Childhood’s Future Will Not Be Decided by Artificial Intelligence: We Will Decide It Observatory - Institute for the Future of Education",
+     "published": "2026-10-26T07:35:26+00:00",
+     "source": "Institute for the Future of Education",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "fbcb3423d9cb",
-     "also": [
-      {
-       "source": "Business Standard",
-       "title": "Artificial intelligence's next big bottleneck in India is a very small chip",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUVpZT1FuRlAxRDVrNk5xOVoxUGhWUEJhMWRrQ0dOVDVsVUdUdjhVMVJMbXR2MVVwUFJ2OXdkdWxYY0p5bk9TSWhDNjdENFZTWlZfM0pOWGc2djZvdWhDWDF0d3NIY3pCV1dKRXZMMmFGcjVEZTlXVHFjNGNxckpwX0tQaTNzN0E2MUFkWU10b0xLRVg2cnlXWFZLazQyeGdUTGwwX3RyMkV6ZVdGMXAtRnBBckhmcDhIR2hyaktQTUU1MVU1ZXJMVWYycE9HU1I2VTExUHIzSExtVVJzT3pWWWtJTi1kRTZxWktWRi1TYllrQmpTQnc00gH8AUFVX3lxTE9xS25ncTFFdWZIT2ZsTnZVU0l2eC1FXzh6NUlaaTJIRUVhWU4xQTY4UllxS3c2UmRJYmxtZVI5Q0t4dVpYdkpYUHRSSVJLVC0wYlR0ZVdrVWtJRHBTeGpiek9kZ2tlLTFtYXduaTBRUmNwUW9BU0ZNQURZQXJscWk4cXgzLVBGblJSdl9NVy1OazJObjgtUjZlbU5TTXdCbjdPLTlKMHV4RFQwZHVQNk4wbkgzR0FZY1AzSVZlbUxUc0FDTDMyb0w5TTdHTVZ5djItc1BTQnhXMXRCU3J5YmFTNGlmQVhoR09kcjltY0g3SjBJWnkyS201Vmhrbg?oc=5",
-       "summary": "Artificial intelligence's next big bottleneck in India is a very small chip Business Standard"
-      }
-     ],
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Artificial intelligence's next big bottleneck in India is a very small chip",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUVpZT1FuRlAxRDVrNk5xOVoxUGhWUEJhMWRrQ0dOVDVsVUdUdjhVMVJMbXR2MVVwUFJ2OXdkdWxYY0p5bk9TSWhDNjdENFZTWlZfM0pOWGc2djZvdWhDWDF0d3NIY3pCV1dKRXZMMmFGcjVEZTlXVHFjNGNxckpwX0tQaTNzN0E2MUFkWU10b0xLRVg2cnlXWFZLazQyeGdUTGwwX3RyMkV6ZVdGMXAtRnBBckhmcDhIR2hyaktQTUU1MVU1ZXJMVWYycE9HU1I2VTExUHIzSExtVVJzT3pWWWtJTi1kRTZxWktWRi1TYllrQmpTQnc00gH8AUFVX3lxTE9xS25ncTFFdWZIT2ZsTnZVU0l2eC1FXzh6NUlaaTJIRUVhWU4xQTY4UllxS3c2UmRJYmxtZVI5Q0t4dVpYdkpYUHRSSVJLVC0wYlR0ZVdrVWtJRHBTeGpiek9kZ2tlLTFtYXduaTBRUmNwUW9BU0ZNQURZQXJscWk4cXgzLVBGblJSdl9NVy1OazJObjgtUjZlbU5TTXdCbjdPLTlKMHV4RFQwZHVQNk4wbkgzR0FZY1AzSVZlbUxUc0FDTDMyb0w5TTdHTVZ5djItc1BTQnhXMXRCU3J5YmFTNGlmQVhoR09kcjltY0g3SjBJWnkyS201Vmhrbg?oc=5",
-     "summary": "Artificial intelligence's next big bottleneck in India is a very small chip Business Standard",
-     "published": "2026-10-25T16:40:09+00:00",
-     "source": "Business Standard",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "9a401c479b11",
+     "id": "19b638c6718a",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1636,59 +1744,49 @@
    "upsc": false,
    "items": [
     {
-     "title": "Watch: Haris Rauf Clashes With Will Jacks, Tension Escalates In Pakistan vs England Match",
-     "url": "https://sports.ndtv.com/cricket/haris-rauf-clashes-with-will-jacks-tension-escalates-in-pakistan-vs-england-match-watch-12235541#publisher=newsstand",
-     "summary": "The tri-series clash between England and Pakistan turned into a heated affair on Sunday after Haris Rauf was involved in a verbal altercation with all-rounder Will Jacks.",
-     "published": "2026-10-26T06:02:37+00:00",
+     "title": "Efton Chism Shares Engagement News As Drake Maye’s Wife Sends Heartfelt Message",
+     "url": "https://sports.ndtv.com/us/nfl/efton-chism-shares-engagement-news-as-drake-maye-s-wife-sends-heartfelt-message-12237409#publisher=newsstand",
+     "summary": "New England Patriots wide receiver Efton Chism III is engaged to Devynn Warns. Drake Maye’s wife, Ann Michael, congratulated the couple as fans joined the celebration.",
+     "published": "2026-10-26T12:37:38+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/arstdh3k_heated-argument-_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/ofgnojv4_efton-chism-iii-and-devynn-warns_625x300_26_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "4eb2d1b5bbd3",
+     "id": "404641498129",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "4-Time WWE Champion Reveals How COVID-19 Nearly Ended His Wrestling Career",
+     "url": "https://sports.ndtv.com/us/wwe/4-time-wwe-champion-reveals-how-covid-19-nearly-ended-his-wrestling-career-12237390#publisher=newsstand",
+     "summary": "Former WWE United States Champion Kalisto reveals he nearly died after contracting COVID-19 and spent two and a half months in hospital. He considered retirement, but a charity event with a young fan helped him rediscover his passion for wrestling.",
+     "published": "2026-10-26T12:37:23+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/s0bep7ps_wwe-arena_625x300_24_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "3bcfb539fce2",
      "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Devdutt Padikkal Robbed Of Double Century By 1 Run, Fumes Over Controversial Dismissal",
-     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/devdutt-padikkal-robbed-of-double-century-by-1-run-fumes-over-controversial-dismissal-12235787#publisher=newsstand",
-     "summary": "Devdutt Padikkal stood firm like a wall and rescued India A on Day 3 of the first unofficial Test against New Zealand A at Bert Sutcliffe Oval in Lincoln.",
-     "published": "2026-10-26T05:59:54+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/qplnc84g_devdutt-padikkal-afp_625x300_26_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "4aaf0341937c",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "NFL Week 7 Results: Kansas City Chiefs And San Francisco 49ers Lose While Minnesota Vikings Remain Only Unbeaten Team",
-     "url": "https://sports.ndtv.com/us/nfl/nfl-week-7-results-kansas-city-chiefs-and-san-francisco-49ers-lose-while-minnesota-vikings-remain-only-unbeaten-team-12236046#publisher=newsstand",
-     "summary": "The Kansas City Chiefs were shut out until garbage time in Seattle, the San Francisco 49ers lost in Atlanta, and the Minnesota Vikings won again to stay the NFL’s last unbeaten team. Week 7 did not go as expected for the league’s biggest names.",
-     "published": "2026-10-26T05:52:13+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/ab3s3lqg_nfl-week-7-chiefs-and-49ers-lose-while-vikings-remain-unbeaten_625x300_26_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "213b335bf444",
-     "category": "sports",
-     "category_label": "Sports",
+     "category_label": "General",
      "figures": [
-      "7 Results : Kansas City Chiefs"
+      "19 Nearly Ended His Wrestling Career"
      ]
     },
     {
-     "title": "Marlon And Lacy's IRL Livestream Takes A Tense Turn After A Group Challenges Their \"Free Palestine\" Comments",
-     "url": "https://sports.ndtv.com/us/us-streamers/f-k-palestine-marlon-and-lacy-s-irl-livestream-takes-a-tense-turn-after-a-group-challenges-their-free-palestine-comments-12236037#publisher=newsstand",
-     "summary": "Marlon and Lacy faced a heated sidewalk exchange with a group of young people carrying an Israeli flag after voicing support for “Free Palestine.” Clips show Marlon defending his beliefs as the confrontation circulates across X.",
-     "published": "2026-10-26T05:51:35+00:00",
+     "title": "George Kittle Reveals Why The San Francisco 49ers’ First Loss Could Make Them More Dangerous After The Break",
+     "url": "https://sports.ndtv.com/us/nfl/george-kittle-reveals-why-the-san-francisco-49ers-first-loss-could-make-them-more-dangerous-after-the-break-12237359#publisher=newsstand",
+     "summary": "The San Francisco 49ers fell 29-20 to the Atlanta Falcons, and George Kittle says the sting of that loss could be the spark his 6-1 team needs after the bye.",
+     "published": "2026-10-26T12:37:10+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/75m84rfg_marlon-and-lacy_625x300_26_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/v5lil2lk_george-kittle_625x300_26_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "c03ea660220e",
+     "id": "3fa1516c11a5",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "1 team needs after the bye"
+     ]
     }
    ]
   },
@@ -1699,6 +1797,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+     "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+     "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+     "published": "2026-10-26T13:25:29+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779f/live/eeff3f60-d120-11f1-b441-2b33b063138f.jpg",
+     "licence": "linkout",
+     "id": "c9833fcbd131",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
      "url": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
      "summary": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
@@ -1708,19 +1819,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16e/live/016ed620-cde2-11f1-8443-776dd2459391.jpg",
      "licence": "linkout",
      "id": "340c6fafa1cf",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
-     "url": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
-     "summary": "The single is the second posthumous release from Parton - who was of Welsh descent.",
-     "published": "2026-10-26T06:15:09+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/434d/live/ce9d10e0-ce0e-11f1-9f55-cdc56e9c248c.jpg",
-     "licence": "linkout",
-     "id": "7bfd3109ca89",
      "category": "general",
      "category_label": "General"
     },
@@ -1741,17 +1839,30 @@
      ]
     },
     {
-     "title": "Sam Fender calls out ticket prices ahead of tour",
-     "url": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Geordie singer appears to have lowered ticket prices ahead of his upcoming tour.",
-     "published": "2026-10-25T09:21:25+00:00",
+     "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
+     "url": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
+     "summary": "The single is the second posthumous release from Parton - who was of Welsh descent.",
+     "published": "2026-10-26T06:15:09+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff12/live/ac827310-8d38-11ef-b02c-ad97e00e3915.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e8/live/7cdbd990-d114-11f1-a701-fddedf244c16.jpg",
      "licence": "linkout",
-     "id": "2be5266701b1",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "7bfd3109ca89",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Excitement grows for new ACOTAR book",
+     "url": "https://www.bbc.co.uk/news/articles/ck4g1vgj6q39o?at_medium=RSS&at_campaign=rss",
+     "summary": "Dozens will be gathering at Wolverhampton Arts Centre to celebrate the series' newest release.",
+     "published": "2026-10-26T12:49:57+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c857/live/c8b6b9d0-d13b-11f1-8d4e-ef1672a07d66.jpg",
+     "licence": "linkout",
+     "id": "044feda01d90",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1761,6 +1872,32 @@
    "title": "Health & Science",
    "upsc": false,
    "items": [
+    {
+     "title": "Consultant doctors in England to strike next month",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&at_campaign=rss",
+     "summary": "Senior doctors to stage 48-hour walkout, beginning on 25 November, in dispute over pay and pensions.",
+     "published": "2026-10-26T11:45:48+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/c9798c10-d124-11f1-9a61-7b8d75492b97.png",
+     "licence": "linkout",
+     "id": "157c68a61daa",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Can you tell ferritin levels from your face?",
+     "url": "https://www.bbc.co.uk/news/videos/c8040gkq5563o?at_medium=RSS&at_campaign=rss",
+     "summary": "Some creators are claiming they can spot \"ferritin face\". Doctors aren't so sure.",
+     "published": "2026-10-26T10:29:34+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/effc/live/07d109b0-ce33-11f1-9a39-31b474234113.jpg",
+     "licence": "linkout",
+     "id": "d69df261921d",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
      "url": "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&at_campaign=rss",
@@ -1775,15 +1912,28 @@
      "category_label": "General"
     },
     {
-     "title": "Hospital deemed 'dangerous' and 'dreadful' online claims to be among safest in the country",
+     "title": "On frontline at hospital denying online claims it is 'dangerous' and 'dreadful'",
      "url": "https://www.bbc.co.uk/news/articles/cq33xpvgned7o?at_medium=RSS&at_campaign=rss",
      "summary": "Grange University Hospital has faced criticism over long delays, overcrowding and staff shortages.",
-     "published": "2026-10-26T06:11:55+00:00",
+     "published": "2026-10-26T10:57:49+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061a/live/635ce100-cdfc-11f1-97f7-a7674fb562de.jpg",
      "licence": "linkout",
      "id": "57a8e5d80e0a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "'We're very busy' - Inside Wales' newest hospital",
+     "url": "https://www.bbc.co.uk/news/videos/cmwyvpxpj8lno?at_medium=RSS&at_campaign=rss",
+     "summary": "BBC Wales correspondent Owain Clarke visited the Grange Hospital following concerns about its safety.",
+     "published": "2026-10-26T10:29:40+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/838c/live/ffc540f0-cef6-11f1-93e1-3b657b665bcf.jpg",
+     "licence": "linkout",
+     "id": "2bc326adca92",
      "category": "general",
      "category_label": "General"
     },
@@ -1794,43 +1944,11 @@
      "published": "2026-10-25T15:11:52+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5f/live/1abdaaa0-cc9f-11f1-a64c-550be9e3c66b.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a20/live/f802e780-d11e-11f1-a701-fddedf244c16.jpg",
      "licence": "linkout",
      "id": "404a1b66c1c4",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Health board still paying for research despite criticism over patient benefit",
-     "url": "https://www.bbc.co.uk/news/articles/c9m26vk0yxx5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Betsi Cadwaladr University Health Board was due to pay Bangor University £110,686 for two researchers.",
-     "published": "2026-10-25T13:31:07+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8605/live/6ae04150-cf24-11f1-b8f0-99ad639f25e6.jpg",
-     "licence": "linkout",
-     "id": "c60b8532ac6e",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "£110,686  for two researchers"
-     ]
-    },
-    {
-     "title": "My 93-year-old mother waited 10 hours on the floor for an ambulance",
-     "url": "https://www.bbc.co.uk/news/articles/cm9dzj60z2pqo?at_medium=RSS&at_campaign=rss",
-     "summary": "Graham Anthony says his mum Margaret Owen was asking for help \"and sometimes screaming in pain\".",
-     "published": "2026-10-25T07:21:36+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3103/live/b8cddc00-c958-11f1-8879-9d9deeb686e1.jpg",
-     "licence": "linkout",
-     "id": "f0ebd6f9efae",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "10 hours on the floor"
-     ]
     }
    ]
   }
