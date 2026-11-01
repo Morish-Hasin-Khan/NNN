@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T20:39:08.942578+00:00",
+ "generated_at": "2026-11-01T23:59:48.399904+00:00",
  "podcasts_fetched_at": "2026-10-31T23:29:49.723500+00:00",
  "markets": [
   {
@@ -84,16 +84,16 @@
   }
  ],
  "topics": [
-  "Police Portugal",
   "Killed Manipur",
+  "Killed After",
   "Jazeera English",
   "News",
   "Rajasthan Amid",
   "Order Kumaraswamy",
+  "National News",
   "Even India",
-  "Slow ISRO",
-  "Jazeera",
-  "India"
+  "Nine Learjet",
+  "Global News"
  ],
  "sections": [
   {
@@ -102,20 +102,6 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
-    {
-     "title": "Police clash with housing crisis protesters in Portugal",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
-     "summary": "Police clash with housing crisis protesters in Portugal",
-     "published": "2026-11-01T20:31:17+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/portugal-protests-horizontal-thumb-1793565007.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "45a4b151f12c",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
     {
      "title": "5 Killed In Manipur: Protests In Kangpokpi As 2 Bodies Found, 3 Shot In Noney",
      "url": "https://www.ndtv.com/india-news/5-killed-in-manipur-protests-in-kangpokpi-after-two-bodies-found-3-shot-in-noney-12268493#publisher=newsstand",
@@ -153,82 +139,113 @@
      ]
     },
     {
-     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-     "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-     "summary": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-     "published": "2026-11-01T19:48:17+00:00",
+     "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+     "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+     "published": "2026-11-01T17:56:47+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg",
      "licence": "linkout",
-     "id": "e630747aaad9",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
+     "id": "1a07280e2088",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global Hotline"
     },
     {
-     "title": "How will the Iran war shape the outcome of the US midterm vote?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-     "summary": "The conflict has become a central issue ahead of Tuesday's polls.",
-     "published": "2026-11-01T19:00:32+00:00",
+     "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+     "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+     "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+     "published": "2026-11-01T22:15:14+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793556339.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae7ab5a84eb-1793567578.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "7a63247dca30",
+     "id": "9edc0868d52c",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+       "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+       "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
+      }
+     ],
      "category": "conflict",
      "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
-     "title": "School assembly news headlines today- November 2: Top national, sports and world news curated for you",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYXRwRFgta2xRNHVzTTdTM1Z2SEZQTTcxUDBZSmpaWDg0alFUbHJaSDEzeXJ0VTc4LVJRMzd2Tzhfb2pQYmRqSHdWZTlkV2pUX0JaMWV1dEdTNzQxRGF0cXRWWm9mOVBhbC1HOFExT1RzY1AwYXg1dC04VHJ6dEh2NnNlalhuT3NXTHRzWkttU2lIMVpZdXQ1UDJUcEpyWkdEZnpJSXl1Wk9VSjcxeWgyRTgtRlBCcVlmNVl3TFIzeWdrMTA0RGQ5cjUxUzFuSElvX3VPODA0NVlWQjRqWkNyUTZSU3RkQQ?oc=5",
-     "summary": "School assembly news headlines today- November 2: Top national, sports and world news curated for you India Today",
-     "published": "2026-11-01T14:58:06+00:00",
-     "source": "India Today",
+     "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+     "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+     "summary": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+     "published": "2026-11-01T23:19:51+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": null,
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20201125__8VV7Z4__v2__HighRes__MoroccoUnMauritaniaWsaharaConflict-1793570486.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "c92fc8c89403",
-     "also": [
-      {
-       "source": "Education Times",
-       "title": "School assembly news headlines for 2nd November 2026: Top Indian, International, Sports and Business News",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORXJGNHpQVTBhb1NoVEFrbFNrTnZEWFlxdlhQZGFZY3RvMHhZQzh2QS01V2F6bWxYOFFqa1hEQUkxLWpYbTdJZkw5X2RFSUE1bEhGcUlXVnAwRVB4V19zalFhbTQ5a1U5dEFLT0luWVI4OFpJUHp5T2ZmUmUzb0pHWGtnQmpSNFRDTnpiQVZvZzBPNjFBdVl3OVJNb3dhT0VqWWM4ZVVyX0JFS0ZPWU92R0dOVk5jaFdBQjNtaG45VERRSU9YcVM2ZU1ZU0s2c2ppaU1zMm4wNGZmVXVscWo5U1J4M2ZjeHV3VDZ6VHZuTHRodFdib0Uw?oc=5",
-       "summary": "School assembly news headlines for 2nd November 2026: Top Indian, International, Sports and Business News Education Times"
-      }
-     ],
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "id": "100871a6f9ff",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
-     "title": "Rebel leaders of AIADMK do not take part in district secretaries’ meeting chaired by Palaniswami",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/rebel-leaders-of-aiadmk-do-not-take-part-in-district-secretaries-meeting-chaired-by-palaniswami/article71652853.ece",
-     "summary": "The party’s performance in the recent bypoll in Dharapuram and Madurantakam Assembly constituencies, and preparations for its general council and executive committee meetings, expected to be conducted in December this year, were among the issues discussed at the meeting",
-     "published": "2026-11-01T19:04:20+00:00",
-     "source": "The Hindu",
+     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+     "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+     "published": "2026-11-01T22:38:24+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/noockr/article71653114.ece/alternates/LANDSCAPE_1200/UMS_9187.JPG",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
      "licence": "linkout",
-     "id": "b8e2fe3cf75d",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News"
+     "id": "5916ec6e788c",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
     },
     {
-     "title": "BJP alleges rift between Rahul, Priyanka; accuses LoP of sidelining sister at INDIA bloc protests",
-     "url": "https://www.thehindu.com/news/national/bjp-alleges-rift-between-rahul-priyanka-accuses-lop-of-sidelining-sister-at-india-bloc-protests/article71654117.ece",
-     "summary": "‘Yesterday, during the mock Parliament organised by the Congress party and led by Rahul Gandhi, I observed one thing: Priyanka Vadra was not given an opportunity to speak by Rahul Gandhi or the Congress party,’ said Sambit Patra",
-     "published": "2026-11-01T18:55:18+00:00",
-     "source": "The Hindu",
+     "title": "Why governors’ races are important in the 2026 US midterms",
+     "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+     "summary": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+     "published": "2026-11-01T23:24:56+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/uzp8ii/article71654216.ece/alternates/LANDSCAPE_1200/20261101534L.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae38437129fc-1793295415.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "7361be127414",
+     "id": "a24f76a5f52d",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "from_section": "Global News"
+    },
+    {
+     "title": "AMU’s wants women on campus, not at the ballot box",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
+     "summary": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, finds A. M. Jigeesh",
+     "published": "2026-11-01T23:10:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/h409vl/article71653241.ece/alternates/LANDSCAPE_1200/Aligarh%20Muslim%20University%20Election%20SPOTLIGHT%205.JPG",
+     "licence": "linkout",
+     "id": "e9e4083f15d7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News",
+     "figures": [
+      "4,000 women students at AMU’s Women’s"
+     ]
+    },
+    {
+     "title": "High-ranking US Democratic senator suffers stroke",
+     "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+     "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
+     "published": "2026-11-01T22:32:54+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/murphy-1790357086.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "1ada51851a16",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
     },
     {
      "title": "Thailand tourist scam? Why Indian tourist faced ₹75k credit card charge after agreeing to buy ₹1000 herbal product",
@@ -282,20 +299,6 @@
      ]
     },
     {
-     "title": "Gavin and Stacey actor hopes his band will be 'the next Stereophonics'",
-     "url": "https://www.bbc.co.uk/news/articles/cmkgq0v87z8zo?at_medium=RSS&at_campaign=rss",
-     "summary": "Oscar Hartland, who played Neil the Baby, says he's on a \"mission to create a new modern sound for Wales\".",
-     "published": "2026-11-01T17:01:06+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b279/live/63ebaee0-d5d0-11f1-a701-fddedf244c16.jpg",
-     "licence": "linkout",
-     "id": "09ccfedfade7",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "Culture"
-    },
-    {
      "title": "Sir Tom Jones mentors Welsh singer to victory on The Voice UK",
      "url": "https://www.bbc.co.uk/news/articles/c8y56vp10075o?at_medium=RSS&at_campaign=rss",
      "summary": "Cate McHugh was congratulated by her coach Sir Tom Jones after she was crowned winner on Saturday.",
@@ -324,24 +327,10 @@
      "from_section": "Culture"
     },
     {
-     "title": "Video captures house collapsing due to Ecuador floods",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
-     "summary": "Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N",
-     "published": "2026-11-01T19:56:47+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793562992.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "4efb61f7c5e3",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "Global News"
-    },
-    {
      "title": "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
      "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
      "summary": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of Visakhapatnam, according to IMD.",
-     "published": "2026-11-01T19:08:22+00:00",
+     "published": "2026-11-01T22:51:05+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/223q8c/article71654225.ece/alternates/LANDSCAPE_1200/BVR_1617.JPG",
@@ -453,6 +442,20 @@
      ]
     },
     {
+     "title": "India liquor firms alarmed over Scotch import probe",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjgxajV5Q2NvVEhCQ1EzSjhFeUZRMzBlcUNYcDB4Y3QzbWdaN3ZwQVZqSjQyYW1fR1ozclRxSDJUR3hxZ0VwTXRyOFBObVladENaZ1V0akpfbDJlRDVJUUo2eVFrTjlXX0xOZkJBTldSZWxJd2dqd2FUSGhINUxCdkNqNzFITmV4aUlTbDRLRnp4dTJvVW5YcW5Lb3MtZVJ5S1JiaGEwS2hNaVRZTmxOTENZcXIxNU1NQTBWNEVhSmtBQdIBxwFBVV95cUxPNHpHU2phQzhmNWpuYXRwSVVOYTNJdUU5SUlnM0tMOEUxVFp0RlgzQ3VyZ1RsU2VCR2t6djdwMndabFE1dmpzc2V3QS1CQ20yRXlpX1QtWFp5aDBURkJ4VDFtX1pEd3Q3T1FUVC1fMmZQQ2ljbTlZaDFZNzJMUHJIb25QRGNacFUtZ0JQWEt0U0NnY1hFTVBfQlpXZDQzOG9ZMk9wMmxLQlcxa3h0QkhGXzNiYkZvcnE0b3hsUzEwbEs4X2R1ZjlB?oc=5",
+     "summary": "India liquor firms alarmed over Scotch import probe The Manila Times",
+     "published": "2026-11-01T20:43:32+00:00",
+     "source": "The Manila Times",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "911c7e1f4b98",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Scandals & Investigations"
+    },
+    {
      "title": "UP Priest Jailed For Luring Girls Inside Temple, Selling Their Videos Abroad",
      "url": "https://www.ndtv.com/india-news/up-priest-jailed-for-luring-girls-inside-temple-selling-their-videos-abroad-12268502#publisher=newsstand",
      "summary": "Investigation revealed that the priest would lure girls visiting the temple into a room on the pretext of offering them 'prasad'. Once they were inside the room, he would engage in obscene acts with them and record videos.",
@@ -479,24 +482,6 @@
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-     "published": "2026-11-01T13:11:37+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-     "licence": "linkout",
-     "id": "641fcec3e146",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Business",
-     "figures": [
-      "rs 90 % of losses",
-      "$6.3bn hack"
-     ]
     }
    ]
   },
@@ -512,7 +497,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-11-01T20:38:55.425088+00:00",
+     "published": "2026-11-01T23:59:34.803822+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -523,7 +508,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-11-01T20:38:55.425098+00:00",
+     "published": "2026-11-01T23:59:34.803835+00:00",
      "image": "https://static.dw.com/image/43844019_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -534,7 +519,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-11-01T20:38:55.425101+00:00",
+     "published": "2026-11-01T23:59:34.803841+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -545,7 +530,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-11-01T20:38:55.425103+00:00",
+     "published": "2026-11-01T23:59:34.803846+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -556,7 +541,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-11-01T20:38:55.425105+00:00",
+     "published": "2026-11-01T23:59:34.803850+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -567,7 +552,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-11-01T20:38:55.425107+00:00",
+     "published": "2026-11-01T23:59:34.803854+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -637,36 +622,6 @@
      "category_label": "Mystery & investigation"
     },
     {
-     "title": "After Rajasthan IAS officer, IPS wife removed from post amid corruption probe",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYWZTcEoycDhManh6OHdhSlFiTnk1MGtQLXMxMHYwTzRRY1BwNzczZWVmM0s1bV91SjVmallOY0xXeGgzTVlyaXkyeXl1NWk5ZmNMaVFwb1NhdHlOT1lfT0dkQUk2WVR6bkJ0bGR4ZU5aend0RTJlVThFSWRsNEhMYXhhZnhYYW5UcUZuU3RnSjNFcFdrYTZCTGxjTE16MExVUWhpeVR6alRIYi1YSFRWR2ZNa2d3Sm1QZ0xiclFNYmZ4VzA0OVNMNHB1NmRXWVpBalVpdtIB2wFBVV95cUxOMzV0X2ZyQ1hIZFdHLTFfS1gwN0pSLVJQbVp5NW1mN0hmX0dCZjdDeDhHRUotMmtRbnZLSmtFSU5IUG52dHZhbnoxZVRfY001V09yc0ItR3I4WTF6ZkV3aFRqVWVWNkpObnRBQ0F4MDZ3WVpDZXJBaEdBZ21jNkpTLVFNbVd0VGlWX0dJaVFoVjBfbzQ4Yi1WcDU2UENhVmNBRFd0T1RmbGpJcTA2Rldxa1pEUUFEeXNuY3JsNHR5NE9XTzFyOVJVSXAxSmZtejlFU09pZmZacnBiVjA?oc=5",
-     "summary": "After Rajasthan IAS officer, IPS wife removed from post amid corruption probe The Indian Express",
-     "published": "2026-10-31T23:11:00+00:00",
-     "source": "The Indian Express",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "155788030499",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Haryana 6-yr-old assault: Govt orders probe, 2 teachers suspended",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlNkZEhtXzFwdmRZSDg1NHZfSGp4M3RlRXBnbkNmU2xYUUNDa3dNQ2ZvWDlnRG5WSE5jMGJSVFoyekdBYzF2YVRkY3hHaGxqdlhDUGIzdjAybm1TT3FvM1R4TlJZbkhheGtXQjcteUNocGxFMDNBMzEtTnQ2M3l3d2dtcFlFa3Y1Nmhma1A2N3JydFJWUjZrWjNrMNIBoAFBVV95cUxPWTYwaEhNbV9salFuV1ZhY20zVUVqM0t5UlFZMFN2LVk1MXZiR2pOZTM0dDA5eWlDc3RNWmtDdjh4VWVhMzI3bUZzRUR3dU1Na1QtSUlLNkRLRkNkVlV5Vk9sU2xHOElWai1wVXdEcFoxYXBHbjVKZElmTmZ2R3drcENVTUxGNlV6dHJsWlBjbjlOMWNaRldXLTNacXcxdGV2?oc=5",
-     "summary": "Haryana 6-yr-old assault: Govt orders probe, 2 teachers suspended The Siasat Daily",
-     "published": "2026-11-01T10:30:21+00:00",
-     "source": "The Siasat Daily",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "23685b1870ee",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "2 teachers suspended",
-      "2 teachers suspended The Siasat Daily"
-     ]
-    },
-    {
      "title": "‘Free money’ scheme fraud hits Indians in US",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPb200aWQ4ZC1oc2xJRy1pak9GZFBfYWp0SzhqOTRmMVctQmMzLWVWSGFsbElVOUFzSW1WZ3RkeEFfekhEN09DUEE5N09KcXZkelZ1YjdQMWVpWmJrMzg3c3pVejdFVGxHSVJFQkhIMXkyaDI3aWp1Wg?oc=5",
      "summary": "‘Free money’ scheme fraud hits Indians in US Telangana Today",
@@ -688,10 +643,26 @@
    "upsc": false,
    "items": [
     {
+     "title": "AMU’s wants women on campus, not at the ballot box",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
+     "summary": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, finds A. M. Jigeesh",
+     "published": "2026-11-01T23:10:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/h409vl/article71653241.ece/alternates/LANDSCAPE_1200/Aligarh%20Muslim%20University%20Election%20SPOTLIGHT%205.JPG",
+     "licence": "linkout",
+     "id": "e9e4083f15d7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "4,000 women students at AMU’s Women’s"
+     ]
+    },
+    {
      "title": "Even as unemployment falls, lack of ‘decent work’ in India",
      "url": "https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece",
      "summary": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
-     "published": "2026-11-01T19:27:03+00:00",
+     "published": "2026-11-01T23:07:19+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/opinion/op-ed/8vu6ku/article70948084.ece/alternates/LANDSCAPE_1200/iStock-1362787882.jpg",
@@ -699,6 +670,27 @@
      "id": "852485dc3938",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
+     "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+     "summary": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of Visakhapatnam, according to IMD.",
+     "published": "2026-11-01T22:51:05+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/223q8c/article71654225.ece/alternates/LANDSCAPE_1200/BVR_1617.JPG",
+     "licence": "linkout",
+     "id": "1fd8bb30afde",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "350 km east of Chennai, 400",
+      "400 km east-southeast of Nellore, 430",
+      "430 km southeast of Machilipatnam, 420",
+      "420 km east-southeast of Kavali, 450",
+      "450 km southeast of Ongole",
+      "520 km south of Visakhapatnam, according"
+     ]
     },
     {
      "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
@@ -765,54 +757,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Police clash with housing crisis protesters in Portugal",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
-     "summary": "Police clash with housing crisis protesters in Portugal",
-     "published": "2026-11-01T20:31:17+00:00",
+     "title": "Nine people dead after Learjet crashes in Florida",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+     "summary": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida.",
+     "published": "2026-11-01T23:29:48+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/portugal-protests-horizontal-thumb-1793565007.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793575722.jpg?resize=1920%2C1067&quality=80",
      "licence": "linkout",
-     "id": "45a4b151f12c",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Al Jazeera celebrates 30th anniversary",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
-     "summary": "Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide.",
-     "published": "2026-11-01T20:21:05+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-20.17.54-1793564385.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "fe4eb9048407",
+     "id": "7caaf7864a06",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Video captures house collapsing due to Ecuador floods",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
-     "summary": "Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N",
-     "published": "2026-11-01T19:56:47+00:00",
+     "title": "Why governors’ races are important in the 2026 US midterms",
+     "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+     "summary": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+     "published": "2026-11-01T23:24:56+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793562992.jpg?resize=1200%2C675",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae38437129fc-1793295415.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "4efb61f7c5e3",
-     "category": "weather",
-     "category_label": "Weather & disaster"
+     "id": "a24f76a5f52d",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Arsenal go top after narrow win at Liverpool",
-     "url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
-     "summary": "Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City",
-     "published": "2026-11-01T19:09:18+00:00",
+     "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+     "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+     "summary": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+     "published": "2026-11-01T23:19:51+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-01T165338Z_1331376320_UP1EMB11ATV9Y_RTRMADP_3_SOCCER-ENGLAND-LIV-ARS-1793558089.jpg?resize=1893%2C1080",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20201125__8VV7Z4__v2__HighRes__MoroccoUnMauritaniaWsaharaConflict-1793570486.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "15252ed0d100",
+     "id": "100871a6f9ff",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+     "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+     "published": "2026-11-01T21:55:01+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+     "licence": "linkout",
+     "id": "e630747aaad9",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+     "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+     "published": "2026-11-01T21:16:45+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
+     "licence": "linkout",
+     "id": "f5b6d367ab3d",
      "category": "general",
      "category_label": "General"
     },
@@ -841,32 +846,6 @@
      "id": "01ed4024208e",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Shops looted as German cost-of-living protests turn violent",
-     "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-     "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-     "published": "2026-11-01T11:57:48+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
-     "licence": "linkout",
-     "id": "de77300dcc63",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-     "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-     "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-     "published": "2026-11-01T17:56:47+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg",
-     "licence": "linkout",
-     "id": "1a07280e2088",
-     "category": "crime",
-     "category_label": "Crime"
     }
    ]
   },
@@ -890,30 +869,17 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Why did this Korean content creator throw a divorce ceremony?",
-     "url": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss",
-     "summary": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
-     "published": "2026-10-31T22:01:39+00:00",
+     "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+     "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+     "published": "2026-11-01T17:56:47+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b8/live/2b5b2bb0-d430-11f1-b441-2b33b063138f.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg",
      "licence": "linkout",
-     "id": "c6fc08f3ab9d",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-     "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-     "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
-     "published": "2026-10-31T23:06:13+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef77/live/2c7e9f50-d5ec-11f1-bfdd-73f39e6db31d.jpg",
-     "licence": "linkout",
-     "id": "5f84f1aafe10",
-     "category": "general",
-     "category_label": "General"
+     "id": "1a07280e2088",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -924,10 +890,26 @@
    "upsc": false,
    "items": [
     {
+     "title": "AMU’s wants women on campus, not at the ballot box",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
+     "summary": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to be included in the university-wide electoral process has brought renewed scrutiny to the separate-union rules and the barriers women face in campus politics, finds A. M. Jigeesh",
+     "published": "2026-11-01T23:10:26+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/h409vl/article71653241.ece/alternates/LANDSCAPE_1200/Aligarh%20Muslim%20University%20Election%20SPOTLIGHT%205.JPG",
+     "licence": "linkout",
+     "id": "e9e4083f15d7",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "4,000 women students at AMU’s Women’s"
+     ]
+    },
+    {
      "title": "Even as unemployment falls, lack of ‘decent work’ in India",
      "url": "https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece",
      "summary": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
-     "published": "2026-11-01T19:27:03+00:00",
+     "published": "2026-11-01T23:07:19+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/opinion/op-ed/8vu6ku/article70948084.ece/alternates/LANDSCAPE_1200/iStock-1362787882.jpg",
@@ -937,30 +919,38 @@
      "category_label": "General"
     },
     {
-     "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
-     "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
-     "summary": "ISRO needs more human and material resources to fulfil its mandate",
-     "published": "2026-11-01T19:23:27+00:00",
+     "title": "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
+     "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+     "summary": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of Visakhapatnam, according to IMD.",
+     "published": "2026-11-01T22:51:05+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/static/content/images/20260921062859/editorialLeadImg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/223q8c/article71654225.ece/alternates/LANDSCAPE_1200/BVR_1617.JPG",
      "licence": "linkout",
-     "id": "72a136600c6b",
-     "category": "general",
-     "category_label": "General"
+     "id": "1fd8bb30afde",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "figures": [
+      "350 km east of Chennai, 400",
+      "400 km east-southeast of Nellore, 430",
+      "430 km southeast of Machilipatnam, 420",
+      "420 km east-southeast of Kavali, 450",
+      "450 km southeast of Ongole",
+      "520 km south of Visakhapatnam, according"
+     ]
     },
     {
-     "title": "Dwindling support: On the U.S. and the Cuban embargo",
-     "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece",
-     "summary": "India and the world must stand up against the bullying of Cuba by the U.S.",
-     "published": "2026-11-01T19:16:50+00:00",
+     "title": "Rebel leaders of AIADMK do not take part in district secretaries’ meeting chaired by Palaniswami",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/rebel-leaders-of-aiadmk-do-not-take-part-in-district-secretaries-meeting-chaired-by-palaniswami/article71652853.ece",
+     "summary": "The party’s performance in the recent bypoll in Dharapuram and Madurantakam Assembly constituencies, and preparations for its general council and executive committee meetings, expected to be conducted in December this year, were among the issues discussed at the meeting",
+     "published": "2026-11-01T19:04:20+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/static/content/images/20260921062859/editorialLeadImg.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/noockr/article71653114.ece/alternates/LANDSCAPE_1200/UMS_9187.JPG",
      "licence": "linkout",
-     "id": "73b04d67ffd4",
-     "category": "general",
-     "category_label": "General"
+     "id": "b8e2fe3cf75d",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Litigants will not be entitled to refund of court fees if disputes get settled out of court after commencement of trial, rules Madras High Court",
@@ -976,28 +966,41 @@
      "category_label": "General"
     },
     {
-     "title": "NTK cadre want Seeman to seek AIADMK, DMK support for Ambasamudram byelection",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/ntk-cadre-want-seeman-to-seek-aiadmk-dmk-support-for-ambasamudram-byelection/article71653213.ece",
-     "summary": "His decision to contest is being seen as ‘bold’ and has reportedly energised the cadre after a disappointing showing in this year’s Assembly elections",
-     "published": "2026-11-01T18:54:25+00:00",
+     "title": "BJP alleges rift between Rahul, Priyanka; accuses LoP of sidelining sister at INDIA bloc protests",
+     "url": "https://www.thehindu.com/news/national/bjp-alleges-rift-between-rahul-priyanka-accuses-lop-of-sidelining-sister-at-india-bloc-protests/article71654117.ece",
+     "summary": "‘Yesterday, during the mock Parliament organised by the Congress party and led by Rahul Gandhi, I observed one thing: Priyanka Vadra was not given an opportunity to speak by Rahul Gandhi or the Congress party,’ said Sambit Patra",
+     "published": "2026-11-01T18:55:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/oj8qlb/article71654230.ece/alternates/LANDSCAPE_1200/Seeman%206.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/uzp8ii/article71654216.ece/alternates/LANDSCAPE_1200/20261101534L.jpg",
      "licence": "linkout",
-     "id": "25f6d3b014e8",
+     "id": "7361be127414",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "School assembly news headlines for 2nd November 2026: Top Indian, International, Sports and Business News",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORXJGNHpQVTBhb1NoVEFrbFNrTnZEWFlxdlhQZGFZY3RvMHhZQzh2QS01V2F6bWxYOFFqa1hEQUkxLWpYbTdJZkw5X2RFSUE1bEhGcUlXVnAwRVB4V19zalFhbTQ5a1U5dEFLT0luWVI4OFpJUHp5T2ZmUmUzb0pHWGtnQmpSNFRDTnpiQVZvZzBPNjFBdVl3OVJNb3dhT0VqWWM4ZVVyX0JFS0ZPWU92R0dOVk5jaFdBQjNtaG45VERRSU9YcVM2ZU1ZU0s2c2ppaU1zMm4wNGZmVXVscWo5U1J4M2ZjeHV3VDZ6VHZuTHRodFdib0Uw?oc=5",
-     "summary": "School assembly news headlines for 2nd November 2026: Top Indian, International, Sports and Business News Education Times",
-     "published": "2026-11-01T10:35:00+00:00",
-     "source": "Education Times",
+     "title": "Top news of the day: November 1 2026",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFZPWjFFLUtQblVsVnRyRVk1Sm1DWElNVkJfUmdOLUllbDAyZnFjOFNIM2tBR0puNzA2WTRvYXYxa0lkR3lhckt5bU5QZ09CWWN6VFpPVVFGc3pXdllIT1RkeGFxSUV5RFFjaTBJc1BLbVdFVk90MWtZVTFnenFIOWZ1UHBTdHdpek9rdm8xUjVEaHUwT3hEb1pZVdIBogFBVV95cUxPSnRWdVh6dlhEV0l2djkyVmZBOC1wS2FicUd3VVlDRERmbDVxSjRHS01QNm40ZVp3cENmUnc3VFZXZEpsbEZSTi1tdS15R3JSdFJPaGpvNm9BTjZ2d1hzR1JCUEpPWS03VTZIcFZTVl9idVB2NTBZUkFidHdNNTFJZUFDcm1haVphdEt4SEtQd0pVNG5qRDdiSEhXaDFRb0hBbEE?oc=5",
+     "summary": "Top news of the day: November 1 2026 The Hindu",
+     "published": "2026-11-01T12:32:38+00:00",
+     "source": "The Hindu",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "63fadee5ca0d",
+     "id": "8c4412fec547",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "School assembly news headlines today- November 2: Top national, sports and world news curated for you",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYXRwRFgta2xRNHVzTTdTM1Z2SEZQTTcxUDBZSmpaWDg0alFUbHJaSDEzeXJ0VTc4LVJRMzd2Tzhfb2pQYmRqSHdWZTlkV2pUX0JaMWV1dEdTNzQxRGF0cXRWWm9mOVBhbC1HOFExT1RzY1AwYXg1dC04VHJ6dEh2NnNlalhuT3NXTHRzWkttU2lIMVpZdXQ1UDJUcEpyWkdEZnpJSXl1Wk9VSjcxeWgyRTgtRlBCcVlmNVl3TFIzeWdrMTA0RGQ5cjUxUzFuSElvX3VPODA0NVlWQjRqWkNyUTZSU3RkQQ?oc=5",
+     "summary": "School assembly news headlines today- November 2: Top national, sports and world news curated for you India Today",
+     "published": "2026-11-01T14:58:06+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "c92fc8c89403",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -1316,6 +1319,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Don't get caught out by new Buy Now Pay Later rules",
+     "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+     "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+     "published": "2026-11-01T23:34:49+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+     "licence": "linkout",
+     "id": "a8062c895b5b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Thousands of jobs at Virgin Media O2 to be cut",
      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
      "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
@@ -1357,19 +1373,6 @@
       "rs 90 % of losses",
       "$6.3bn hack"
      ]
-    },
-    {
-     "title": "Energy bills help 'doesn't go far enough'",
-     "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
-     "summary": "Families in the West Midlands say they are worried about paying winter energy bills.",
-     "published": "2026-11-01T07:15:06+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26db/live/70c13820-d471-11f1-9dda-1ba6fcc7d159.jpg",
-     "licence": "linkout",
-     "id": "acb8fbeef0ef",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Small-cap funds were the worst-performing equity category in October. Which funds held up and which lagged behind?",
@@ -1465,17 +1468,21 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "The global race to develop artificial intelligence is delivering a maj",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3gwbEI0YXBRWEl1bXNpazI1V3VwS1VVNnJid3hobXNrMHVfZGRud3k1TW01bUk0eWVFRUN1NjlmeE9PMUM5U0hMNnQ2MXRnbDZILWxlRUk2WVMydzBUNFBCOWVESWJVRW1HekJrTGxPSXplOW82WEp6SThOcndfeUJCVmFBVVdMRzJzeHh0QUM1Tll6Tmc?oc=5",
-     "summary": "The global race to develop artificial intelligence is delivering a maj News of Bahrain",
-     "published": "2026-11-01T09:05:39+00:00",
-     "source": "News of Bahrain",
+     "title": "An Israeli company is being sold for $420 million",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGlSRlFraElrcGhXend1T2ljVkMxWThnX0xqZ24ybnEzcEswN1BuX2gxTEVQbnRqX0owVjNMQmFQMkplSWtDS3BtSXo4QWkwU3RHc21ISHZHU0ZOTWhvdWZyTWpFM0Y1RktBNU45a0kxZS1YRjg5d0xCckJLUWo5dTJ0NWpUdw?oc=5",
+     "summary": "An Israeli company is being sold for $420 million The Jerusalem Post",
+     "published": "2026-11-01T13:15:00+00:00",
+     "source": "The Jerusalem Post",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "d520ee6eef77",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "id": "6c15cc9530a4",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "$420 million",
+      "$420 million The Jerusalem Post"
+     ]
     },
     {
      "title": "Best Artificial Intelligence Stocks To Watch Today - November 1st",
@@ -1607,6 +1614,19 @@
      "category_label": "Celebrity"
     },
     {
+     "title": "From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks",
+     "url": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o?at_medium=RSS&at_campaign=rss",
+     "summary": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
+     "published": "2026-11-01T08:09:26+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946c/live/79b0d500-d5cd-11f1-82ae-81055b9ae1cd.jpg",
+     "licence": "linkout",
+     "id": "1f4047ae4f0f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Sir Tom Jones mentors Welsh singer to victory on The Voice UK",
      "url": "https://www.bbc.co.uk/news/articles/c8y56vp10075o?at_medium=RSS&at_campaign=rss",
      "summary": "Cate McHugh was congratulated by her coach Sir Tom Jones after she was crowned winner on Saturday.",
@@ -1618,19 +1638,6 @@
      "id": "a228ed2ffcd8",
      "category": "celebrity",
      "category_label": "Celebrity"
-    },
-    {
-     "title": "Gavin and Stacey actor hopes his band will be 'the next Stereophonics'",
-     "url": "https://www.bbc.co.uk/news/articles/cmkgq0v87z8zo?at_medium=RSS&at_campaign=rss",
-     "summary": "Oscar Hartland, who played Neil the Baby, says he's on a \"mission to create a new modern sound for Wales\".",
-     "published": "2026-11-01T17:01:06+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b279/live/63ebaee0-d5d0-11f1-a701-fddedf244c16.jpg",
-     "licence": "linkout",
-     "id": "09ccfedfade7",
-     "category": "celebrity",
-     "category_label": "Celebrity"
     }
    ]
   },
@@ -1640,6 +1647,32 @@
    "title": "Health & Science",
    "upsc": false,
    "items": [
+    {
+     "title": "'I felt ostracised due to cleft lip'",
+     "url": "https://www.bbc.co.uk/news/videos/ckz652g7093go?at_medium=RSS&at_campaign=rss",
+     "summary": "Emily Evans says her cleft lip made her feel \"ostracised\" growing up,",
+     "published": "2026-11-01T22:17:35+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c7/live/263fa120-d45c-11f1-a701-fddedf244c16.jpg",
+     "licence": "linkout",
+     "id": "1c3f79550cda",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Cleft lip filler 'boosts confidence' - but expert warns of exploitation risk",
+     "url": "https://www.bbc.co.uk/news/articles/c9vgrkvv006xo?at_medium=RSS&at_campaign=rss",
+     "summary": "Two women from Wales are among the growing number of people having lip filler after cleft lip and palate surgery.",
+     "published": "2026-11-01T22:06:46+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ca/live/44706e00-8a7d-11f1-82f1-411b076ec7a9.jpg",
+     "licence": "linkout",
+     "id": "0762d1da5adc",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Cancer patients 'deteriorating' due to staff shortages, radiologists warn",
      "url": "https://www.bbc.co.uk/news/articles/cmly0xle2rddo?at_medium=RSS&at_campaign=rss",
