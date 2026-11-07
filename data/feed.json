@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T21:39:52.244054+00:00",
+ "generated_at": "2026-11-07T01:22:23.251912+00:00",
  "podcasts_fetched_at": "2026-11-05T07:04:22.268045+00:00",
  "markets": [
   {
@@ -76,24 +76,23 @@
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 78671.0,
-   "change": -1353.0,
-   "changePct": -1.69,
-   "decimals": 0,
-   "stale": true
+   "value": 75794.0,
+   "change": -1551.0,
+   "changePct": -2.01,
+   "decimals": 0
   }
  ],
  "topics": [
-  "Meghan Markle",
-  "Bengaluru",
+  "Paraguay Santiago",
+  "Killed Several",
   "Jazeera English",
   "News",
-  "Tamil Nadu",
   "Karnataka India",
-  "West Bengal",
-  "Agasthyamalai",
-  "Protesters Microsoft",
-  "Trump Stephen"
+  "Tamil Nadu",
+  "Disallowed Friday",
+  "Biman Basu",
+  "Miller Wiles",
+  "Indian"
  ],
  "sections": [
   {
@@ -103,18 +102,35 @@
    "upsc": false,
    "items": [
     {
-     "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-     "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
-     "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
-     "published": "2026-11-06T20:28:07+00:00",
+     "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+     "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+     "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+     "published": "2026-11-07T00:31:41+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee2c4940d7-1793993801.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee659d-1794008477.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "28fd1f853fc8",
+     "id": "7dc48da8a353",
      "category": "crime",
      "category_label": "Crime",
      "from_section": "Global News"
+    },
+    {
+     "title": "5 Killed, Several Injured In Road Accident In UP: Cops",
+     "url": "https://www.ndtv.com/india-news/5-killed-several-injured-in-road-accident-in-ups-sitapur-12295117#publisher=newsstand",
+     "summary": "Five persons were killed and several others sustained injuries in a fatal road accident involving a tractor-trolley in Uttar Pradesh's Sitapur district, a senior police official said here on Saturday.",
+     "published": "2026-11-06T22:23:36+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-05/cg62aus8_road-accident-generic_625x300_05_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d6a576a5a8c5",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National News",
+     "figures": [
+      "5 Killed , Several Injured"
+     ]
     },
     {
      "title": "A missing persons complaint that unravelled Bengaluru’s seven murders",
@@ -128,71 +144,66 @@
      "id": "604974a13bf0",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News"
+     "from_section": "National Hotlines"
     },
     {
-     "title": "Did all the murders happen in the small house on the terrace?",
-     "url": "https://www.thehindu.com/news/national/karnataka/did-all-the-murders-happen-in-the-small-house-on-the-terrace/article71675859.ece",
-     "summary": "",
-     "published": "2026-11-06T19:34:40+00:00",
+     "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+     "summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+     "published": "2026-11-07T00:00:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AA-20261103-42953182-42953164-GIANT_POSTER_AGAINST_US_AND_ISRAEL_HUNG_IN_TEHRAN-1794004328.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "b763a4725b59",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+     "summary": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
+     "published": "2026-11-07T00:21:49+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794010901.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "a19b947a3262",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "CPI(M) leader Biman Basu retracts after holding Jyoti Basu responsible for LF government’s industrial policy",
+     "url": "https://www.thehindu.com/news/national/west-bengal/cpim-leader-biman-basu-retracts-after-holding-jyoti-basu-responsible-for-lf-governments-industrial-policy/article71675588.ece",
+     "summary": "Chief Minister Suvendu Adhikari on November 5 blamed the policy of forcible land acquisition during the regime of former Chief Minister Buddhadeb Bhattacharjee for decline in industrial prospects of the State.",
+     "published": "2026-11-06T21:32:57+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/eao93s/article71676069.ece/alternates/LANDSCAPE_1200/_JAI7269.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/l0okox/article71676091.ece/alternates/LANDSCAPE_1200/2.jpg",
      "licence": "linkout",
-     "id": "1645dedb8b8e",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "School Assembly News Today, November 6, 2026: Top Headlines, Thought, Word of the Day & 5 GK Questions",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFAtakdESk5TZzR6ZlYyNmFmS2hGVTZLYmFWU0Zsd0pFRktCWmQ1M29JSFdXV2RmLTc0eU4yM2c5TjJVVm05QzZIQnlNbE81Y1dnVTFTb3lFWHI4UXJuNDRUMmtla1hDQkFqbEttWHF2SGV1a001WnljRVN1WVlxci1YdENSa3VoUVdudTFRMC1ZV0RSTllYOGtmZ0J0emVZV05yQXUyZ3NBQ2I2WW1BTEpndHp5b093MnhHOWRfUi1GT3BPS0ZKcXQ4WGdjNkh3Qnk3btIB4gFBVV95cUxNOWktOTVEVDFIWWVXZHRGbThWNmNmZmJPdGU2ZWNwdjlwS2RReUd0a05NeFQwN2JNU3JrS2FUdzZrODc5ZVBRMFNWeElFek9xUTN6N2xOQjQ4OE41OGE5UG1oMm1NenpRd3hwNzE4YVg0YlkzbGRQaWh4ZXI5WnFpd1ZJMjJBellDSmNGZGY4bnB2Qm9CeVg1R0s2ZXdjeW1nY2JVU1R6Rjhfa0FQdFBDZFBDb0pBV3U2ZUcyRE9JdmlTRDVSWFlGUjV5NG8wU0M0aGFhX29fMFVyVVRGRTdNSWNn?oc=5",
-     "summary": "School Assembly News Today, November 6, 2026: Top Headlines, Thought, Word of the Day & 5 GK Questions EdexLive",
-     "published": "2026-11-05T23:30:00+00:00",
-     "source": "EdexLive",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "495d9ac28b34",
-     "also": [
-      {
-       "source": "Times Now",
-       "title": "School Assembly News Headlines Today (Nov 6): Top National, International & Sports Updates + Thought of the Da",
-       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVdScHVqejBhYWc5UXdIU3Y1TzRJR3M2NmhsaEZTZ2FvM3gwaW9OamhtSV8wRkQ1UnRHY2UxYVlLUUhDM05MUVFMbV8wbXhqaUJlWnFwQTRzbFg0NHp5cU5UYWxQeHNNVF9FUnAwclBOcVpsX3lwUlpyNm1WV0dqTFVPZ0hVSnZFd0FwRXZPc1piblVRUkJGdG5vS1JfZFJzMGhYMWRCYmlUWWxQa0NRWkNxaUFGcDl4QlZPeE50RHY1Z2ZNRkkwblVvbGpMdkNOVG12VVNPXzdVZmtJaGtiTk5aMTdXS0tvWTNvQTlBRm04UdIB9wFBVV95cUxQRWRWZjloZGYtTmNjTVl5dlUtcWZJcHhIdGlWQnlScGMxdUJBanFIcnQ5TTBxNWZFdFFTcGdwQnpIRElUX0hvVER2amZFUzA1YkN4TGdOZGJzcjVyb2ZKX3JMVXVkRFg1dlphVUlXaHpyRnV4b3FHeEtLQVh4Z0JTMG54Z3AwMHpRX2NPZmlnVTVmbjNCRHRGTVowaGVVRGdxTDE5emFGRjhHTlUtR1RPX2p4ci1FcGp4V251dU9Qall0VllCeFZLbFVZNnFGaU5NcGxrVkFXYVdwWGhoQ1ZGM29TODV1ckktaURDdkRkUFRwbkliei1j?oc=5",
-       "summary": "School Assembly News Headlines Today (Nov 6): Top National, International & Sports Updates + Thought of the Da Times Now"
-      }
-     ],
+     "id": "b52e6fc306ac",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National Hotlines"
+     "from_section": "National News",
+     "figures": [
+      "5 blamed the policy of forcible"
+     ]
     },
     {
-     "title": "Protesters break into Microsoft data centre site in Amsterdam",
-     "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-     "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
-     "published": "2026-11-06T21:04:40+00:00",
-     "source": "Al Jazeera",
+     "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
+     "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
+     "summary": "The former top poll official also reinstated that the Election Commission of India is supposed to make decisions based on a majority",
+     "published": "2026-11-06T20:27:48+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee37531362-1793996627.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/nbyo7g/article71676078.ece/alternates/LANDSCAPE_1200/In-India-votinG4TG7AQV3.3.jpg.jpg",
      "licence": "linkout",
-     "id": "43e42c428382",
+     "id": "5a1cde92887f",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
-     "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
-     "published": "2026-11-06T20:48:25+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793998094.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "260071dd7bd7",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
+     "from_section": "National News"
     },
     {
      "title": "AI errors, inflated prices: Tamil Nadu govt orders probe into Periyar library books",
@@ -223,28 +234,6 @@
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "AI stocks climb after trillions wiped from market values",
-     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-     "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-     "published": "2026-11-06T21:06:25+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
-     "licence": "linkout",
-     "id": "8fc8e90c6b31",
-     "also": [
-      {
-       "source": "BBC",
-       "title": "AI stocks bounce back after trillions wiped from market values",
-       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5",
-       "summary": "AI stocks bounce back after trillions wiped from market values BBC"
-      }
-     ],
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Global News"
-    },
-    {
      "title": "Periyar Library Book Scam: TN Govt Orders Probe, Kamal Haasan Demands Action - India Today",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRHRRaUhtOE5jb19PYUZqSVI4ZzZaTmZZRGMyWUdVQmFWS05Xb1ZNVE9rclZUZnRVUjRxNGV2bHJTdHNrMlhfdFM3SzFLSWp3bmdjMlFtSF9NVV9mR1Y2VFdxVTViQzl1NkVyMjdLVnpzWVV1a0QySERxYkpoTi1IZk5CR1NDZ3pINTc3b0tXYkl2Y3RMMGpjcEhGcHFvZExqTS1sUFRUNWp6SFdpYk1TSVpYVG9VeGNPdy13aFF4dUZvYWlJQ3lYWktCT2NJcEV4OUpYd0JrNNIB1wFBVV95cUxNRHRRaUhtOE5jb19PYUZqSVI4ZzZaTmZZRGMyWUdVQmFWS05Xb1ZNVE9rclZUZnRVUjRxNGV2bHJTdHNrMlhfdFM3SzFLSWp3bmdjMlFtSF9NVV9mR1Y2VFdxVTViQzl1NkVyMjdLVnpzWVV1a0QySERxYkpoTi1IZk5CR1NDZ3pINTc3b0tXYkl2Y3RMMGpjcEhGcHFvZExqTS1sUFRUNWp6SFdpYk1TSVpYVG9VeGNPdy13aFF4dUZvYWlJQ3lYWktCT2NJcEV4OUpYd0JrNA?oc=5",
      "summary": "Periyar Library Book Scam: TN Govt Orders Probe, Kamal Haasan Demands Action - India Today India Today",
@@ -267,35 +256,38 @@
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
-     "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
-     "published": "2026-11-06T20:27:09+00:00",
-     "source": "Al Jazeera",
+     "title": "Diwali 2026: Ankur Warikoo explains 5 money habits that could be keeping you poor and how to change them",
+     "url": "https://www.livemint.com/money/personal-finance/diwali-2026-ankur-warikoo-explains-5-money-habits-that-could-be-keeping-you-poor-and-how-to-change-them-11793430595165.html",
+     "summary": "Ankur Warikoo highlights five money habits that can keep you poor, from improper budgeting and high-interest debt to lifestyle inflation and delayed investing. Learn how to fix them this Diwali to strengthen savings and build long-term wealth.",
+     "published": "2026-11-07T01:05:46+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793996751.jpg?resize=1558%2C1080&quality=80",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/31/600x338/PTI09-19-2025-000090A-0_1762360252773_1762360285331_1793430721948_XFr7_8cf63fb6-f08b-4521-b454-efac29e0a04b_FaNX.jpg",
      "licence": "linkout",
-     "id": "58512176fa1c",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News",
+     "id": "7ee987ed561e",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Business",
      "figures": [
-      "3,200 migrants were rescued"
+      "5 money habits that could be"
      ]
     },
     {
-     "title": "GPF disbursal rules: Who gets a deceased govt employee’s money if there is no nominee? Which family members are excluded",
-     "url": "https://www.livemint.com/money/gpf-disbursal-rules-who-gets-a-deceased-govt-employee-s-money-if-there-is-no-nominee-which-family-members-are-excluded-11793975851846.html",
-     "summary": "Central government employees’ GPF savings are distributed under rules governing nominations and eligible family members. Here's who can claim the funds if no nominee exists.",
-     "published": "2026-11-06T16:02:40+00:00",
-     "source": "Mint",
+     "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly334rem5do?at_medium=RSS&at_campaign=rss",
+     "summary": "Extraordinary scenes of audiences crying leaving theatres after watching the film have been shared on social media.",
+     "published": "2026-11-06T22:59:54+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/06/600x338/513a22ab-9270-4fef-a4ae-9e769a2d0227_1793980910789_xDI7_1793980915759_ngV5_818a7647-7ff6-45f6-8775-520a57d619d1_FxMZ.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1489/live/c9303e00-d9eb-11f1-bbe5-797ee05bee69.jpg",
      "licence": "linkout",
-     "id": "2c9b964efbcd",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Business"
+     "id": "de520f20779b",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Global Hotline",
+     "figures": [
+      "18 awards later"
+     ]
     },
     {
      "title": "Watch: Moment woman rescues young koala from large snake",
@@ -312,6 +304,34 @@
      "from_section": "Global Hotline"
     },
     {
+     "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+     "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+     "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
+     "published": "2026-11-06T23:33:28+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/GettyImages-2167861901-1763972164.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "349660b67248",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+     "published": "2026-11-06T21:49:50+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+     "licence": "linkout",
+     "id": "af31ad637890",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Business"
+    },
+    {
      "title": "Why the US midterms sparked an AI stock selloff",
      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
@@ -326,32 +346,18 @@
      "from_section": "Business"
     },
     {
-     "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-     "published": "2026-11-06T13:25:50+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d1/live/49c24750-d9d0-11f1-9e5a-c30c5e3d8c85.jpg",
-     "licence": "linkout",
-     "id": "c0beb4b56091",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Could next-gen artificial intelligence help map out future space outposts?",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVJ3dUxYLUVtODIwWXctWVlvUXNaVGNoRG9LYWRhZGt6VWFHMVg5WVF0V08zV2NkU0x0T1UwVmE5bWZhQ1o2MDFRUVhNZE5YN3c1WnEwNnFtbzhzdDZNOE1KaF80bnlrMlRWZXFteUY0UFRTaFNrQWM4UGhGMVZzTzJHV0FaSngyTkN2RHpvUk9qRWljVk45VkF1ZGtEYVNZTWFUeHlxUkRRTkhCQnhKQkxB?oc=5",
-     "summary": "Could next-gen artificial intelligence help map out future space outposts? Technology Org",
-     "published": "2026-11-06T11:00:00+00:00",
-     "source": "Technology Org",
+     "title": "Nisha Bhagat suicide case: BJP demands probe, seeks action against those named in Facebook Live",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFhXNVQzaTJHa19yYzRjR3FvWDI0THNQNDJDNlJJSW1RVVA1V2RCQ0xIdTFSZTJFNy1xb3R2WnJiY0JmZms0LU5ETEJnMDlycEFGOXl0YkRENjFpbUpTT0w0UG1CSklMYlh6RkZ0YlB1SHBCbVkzaEpkZnUzb2xLV0RWZEN2dVROYTFDQjJ1NGtZWHU2eTdYNjN6dG5IR0dUZUl1dXp0Sjg4Uk9xYTVfMUwyZldqUmM4dEtvbVJYNTNQalluY0E?oc=5",
+     "summary": "Nisha Bhagat suicide case: BJP demands probe, seeks action against those named in Facebook Live The Hawk",
+     "published": "2026-11-06T13:44:39+00:00",
+     "source": "The Hawk",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "2796b66a9c09",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
+     "id": "5f606ca7ce8f",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Scandals & Investigations"
     },
     {
      "title": "Karnataka government flags petrol with ethanol blend over E20 limit, seeks investigation - India Today",
@@ -363,28 +369,6 @@
      "image": null,
      "licence": "linkout",
      "id": "e2835fa6cdd7",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Oil Companies Reject Karnataka Minister's '30% Ethanol' Charge Over E20 Petrol, Question Testing Method",
-       "url": "https://www.ndtv.com/india-news/oil-companies-reject-karnataka-ministers-30-ethanol-charge-on-e20-petrol-question-testing-method-12294591#publisher=newsstand",
-       "summary": "Indian Oil, Bharat Petroleum, and Hindustan Petroleum said the claims, as reported, were \"not supported by testing conducted in accordance with the prescribed statutory and technical procedures\"."
-      }
-     ],
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
-    },
-    {
-     "title": "Nisha Bhagat suicide case: BJP demands probe, seeks action against those named in Facebook Live",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFhXNVQzaTJHa19yYzRjR3FvWDI0THNQNDJDNlJJSW1RVVA1V2RCQ0xIdTFSZTJFNy1xb3R2WnJiY0JmZms0LU5ETEJnMDlycEFGOXl0YkRENjFpbUpTT0w0UG1CSklMYlh6RkZ0YlB1SHBCbVkzaEpkZnUzb2xLV0RWZEN2dVROYTFDQjJ1NGtZWHU2eTdYNjN6dG5IR0dUZUl1dXp0Sjg4Uk9xYTVfMUwyZldqUmM4dEtvbVJYNTNQalluY0E?oc=5",
-     "summary": "Nisha Bhagat suicide case: BJP demands probe, seeks action against those named in Facebook Live The Hawk",
-     "published": "2026-11-06T13:44:39+00:00",
-     "source": "The Hawk",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5f606ca7ce8f",
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Scandals & Investigations"
@@ -417,7 +401,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-11-06T21:39:37.693107+00:00",
+     "published": "2026-11-07T01:22:11.941941+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -428,7 +412,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-11-06T21:39:37.693116+00:00",
+     "published": "2026-11-07T01:22:11.941951+00:00",
      "image": "https://static.dw.com/image/47219195_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -439,7 +423,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-11-06T21:39:37.693119+00:00",
+     "published": "2026-11-07T01:22:11.941954+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -450,7 +434,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-11-06T21:39:37.693121+00:00",
+     "published": "2026-11-07T01:22:11.941957+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -461,7 +445,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-11-06T21:39:37.693124+00:00",
+     "published": "2026-11-07T01:22:11.941960+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -472,27 +456,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-11-06T21:39:37.693129+00:00",
+     "published": "2026-11-07T01:22:11.941963+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
     },
     {
-     "title": "India A vs New Zealand A Live Score, 3rd Unofficial Test Day 1 Updates",
-     "url": "https://sports.ndtv.com/cricket/india-a-vs-new-zealand-a-live-score-3rd-unofficial-test-day-1-live-updates-yashasvi-jaiswal-jasprit-bumrah-ravindra-jadeja-12294328#publisher=newsstand",
-     "summary": "India A vs New Zealand A Live Score, 3rd Unofficial Test: The first two games ended in draws.",
-     "published": "2026-11-06T18:18:04+00:00",
+     "title": "India vs New Zealand LIVE Score, 2nd ODI: Focus On Rohit Sharma, Virat Kohli Amid Massive Rain Threat",
+     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-2nd-odi-live-score-ind-vs-nz-cricket-match-live-updates-scorecard-virat-kohli-rohit-sharma-shubman-gill-12294744#publisher=newsstand",
+     "summary": "IND vs NZ 2nd ODI LIVE Score Updates: Shubman Gill-led India are aiming to double their series lead, heading into the second ODI against hosts New Zealand in Wellington.",
+     "published": "2026-11-07T00:51:44+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-04/okii52l_jasprit-bumrah-afp_625x300_23_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/2pghpvdg_india-vs-new-zealand_625x300_07_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "713ce6ab3215",
+     "id": "794c854cc506",
      "kind": "liveblog",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "1 Updates"
-     ]
+     "category_label": "General"
     }
    ]
   },
@@ -502,6 +483,19 @@
    "title": "Scandals & Investigations",
    "upsc": false,
    "items": [
+    {
+     "title": "Karnataka government flags petrol with ethanol blend over E20 limit, seeks investigation - India Today",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3FUX0FNSXhSRC1NWXVCWTRBSmh6MGotNDd3SkNwY09Wa0R1S2FsdG11SmpwQzFmOGc5MC14RFY5MlBLWVVZdmNZeWUxV0lnSnBSamN2WGE4Y0Y5bDh4YS1uQUk0VkNqM0ZIa0FFb0NfRXJTbENYeXJjS3dHZUlJeWNMMUo3WkJVdkFWRm5IZTk3eWlxXzR1bnlDQ2t3QnhBSDlHSzZNVkJRZWFtbDg4YnU4QVZXejZWOXYwR3Y2YVc2aldEM0RYWm1yZG5Yd3FBamw00gHTAUFVX3lxTE5LcVRfQU1JeFJELU1ZdUJZNEFKaHowai00N3dKQ3BjT1ZrRHVLYWx0bXVKanBDMWY4ZzkwLXhEVjkyUEtZVVl2Y1l5ZTFXSWdKcFJqY3ZYYThjRjlsOHhhLW5BSTRWQ2ozRkhrQUVvQ19FclNsQ1h5cmNLd0dlSUl5Y0wxSjdaQlV2QVZGbkhlOTd5aXFfNHVueUNDa3dCeEFIOUdLNk1WQlFlYW1sODhidThBVld6NlY5djBHdjZhVzZqV0QzRFhabXJkblh3cUFqbDQ?oc=5",
+     "summary": "Karnataka government flags petrol with ethanol blend over E20 limit, seeks investigation - India Today India Today",
+     "published": "2026-11-06T13:38:15+00:00",
+     "source": "India Today",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "e2835fa6cdd7",
+     "category": "mystery",
+     "category_label": "Mystery & investigation"
+    },
     {
      "title": "AI errors, inflated prices: Tamil Nadu govt orders probe into Periyar library books",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONTMtZWNVeVZOT2NvdmhtRzgzY0tGVEFXSUlCLTd0REdLaHB2UWdZcDRMUU9VNGFZaF9kT0hSV0l1VDRULWZua09id2Y3MkIyQWFFZld0UWpOSlhMb2J6anFsYlFDdWh0eWpjcXdpWlYxWTNZeThLVmdBMDB6TFZFYmJmSkt0WTE1T2xvU1o2YUtfN2lCVGFlTTdMbDNJRUNPemM1REVHb1NrN2RRWXNDcEROaEZ2VEVWMlhoLXc1UGFVWVZ2SFloSkVaN3NsenhfWkNPWmJHU3ExbjNWa3Bj0gHkAUFVX3lxTE5uTm9HM2Y4bzc1Mzc3eER2R3JJRWJqY1NxYnI1N3pNN0NsUEtCWEJ3VExkMFhVTTZyTUdJNGpmdVphUVh5SEdZdkd4LUhTM3R2VTFxZ2pUNE5rc3NWLVJQeDI3Y3cyVFBvQlhqT3M5SmRQSXZZQ1AwOExMYUROZDhZMnpzTENJX1JLd1ZjSmxSRGxjckJOZEcwY2lrbUJ2NVlsTDdrRy1oWnd1RWtzWHRqTEdZaHdxQVVwOVRTVzJ4X3owZmt4U29NZkJhaHlvckpSQlFFdmowVEdZYUo1YzhXQTBQeg?oc=5",
@@ -528,27 +522,6 @@
      ],
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Karnataka government flags petrol with ethanol blend over E20 limit, seeks investigation - India Today",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3FUX0FNSXhSRC1NWXVCWTRBSmh6MGotNDd3SkNwY09Wa0R1S2FsdG11SmpwQzFmOGc5MC14RFY5MlBLWVVZdmNZeWUxV0lnSnBSamN2WGE4Y0Y5bDh4YS1uQUk0VkNqM0ZIa0FFb0NfRXJTbENYeXJjS3dHZUlJeWNMMUo3WkJVdkFWRm5IZTk3eWlxXzR1bnlDQ2t3QnhBSDlHSzZNVkJRZWFtbDg4YnU4QVZXejZWOXYwR3Y2YVc2aldEM0RYWm1yZG5Yd3FBamw00gHTAUFVX3lxTE5LcVRfQU1JeFJELU1ZdUJZNEFKaHowai00N3dKQ3BjT1ZrRHVLYWx0bXVKanBDMWY4ZzkwLXhEVjkyUEtZVVl2Y1l5ZTFXSWdKcFJqY3ZYYThjRjlsOHhhLW5BSTRWQ2ozRkhrQUVvQ19FclNsQ1h5cmNLd0dlSUl5Y0wxSjdaQlV2QVZGbkhlOTd5aXFfNHVueUNDa3dCeEFIOUdLNk1WQlFlYW1sODhidThBVld6NlY5djBHdjZhVzZqV0QzRFhabXJkblh3cUFqbDQ?oc=5",
-     "summary": "Karnataka government flags petrol with ethanol blend over E20 limit, seeks investigation - India Today India Today",
-     "published": "2026-11-06T13:38:15+00:00",
-     "source": "India Today",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e2835fa6cdd7",
-     "also": [
-      {
-       "source": "NDTV",
-       "title": "Oil Companies Reject Karnataka Minister's '30% Ethanol' Charge Over E20 Petrol, Question Testing Method",
-       "url": "https://www.ndtv.com/india-news/oil-companies-reject-karnataka-ministers-30-ethanol-charge-on-e20-petrol-question-testing-method-12294591#publisher=newsstand",
-       "summary": "Indian Oil, Bharat Petroleum, and Hindustan Petroleum said the claims, as reported, were \"not supported by testing conducted in accordance with the prescribed statutory and technical procedures\"."
-      }
-     ],
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
     },
     {
      "title": "Periyar Library Book Scam: TN Govt Orders Probe, Kamal Haasan Demands Action - India Today",
@@ -585,28 +558,15 @@
      "category_label": "Mystery & investigation"
     },
     {
-     "title": "Kerala Vigilance probe adds new dimension to Congress campaign against CEC",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGlTU01YLXdYX2FNOE43V2UtbGU1SV9RNHd4MERsWWs5Q1lveUR1emNsXy01LW1MX210RVFWaWVqSTh4cUp3U3NiZndMVkVqVnBDTXBEOG9wendLd3lNWmZtSXN4dlVUNUFqbXA3ODdfSG5EZzFCZWpnUmxnWWdyRXJmVDBnQkVhdWJJTERuMWItYWJVLTFPVUJFQXlKMm80dnRWR2dmT3kxUFNN?oc=5",
-     "summary": "Kerala Vigilance probe adds new dimension to Congress campaign against CEC The Hawk",
-     "published": "2026-11-06T05:34:37+00:00",
-     "source": "The Hawk",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e89b78426529",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Businessman Kishore Biyani Charged In Rs 904-Crore SBI Fraud Case",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXpBOUFwZFl6VDc1LU9UdTY1NnZoYXk2N05wSnk5dFJlVGRUa2xrMDkyQmZIVUxwRHFhampIQjg2ZFptTDlQVDM0bHZnaHZiUzVqYUVUNXFfbF9uODZZdnd1bUdqcUppN0xuNjRvYVlNalNnNm5xWm1nTkhoczZ0NDF4UW5OWDExWEJnVFF0U2lfN3pqbDRBVW1GOUFXUHBIMlM4NUFlWk5xS3NTVzNnTlBrSGwzWVZaTVN5ZdIBxAFBVV95cUxPaE9yNEJDcUFzUGVSMHZzZGJBWW5qallieUhBSnQyTVlWQ0t4Zk1oQUdfQXdoQ21XTEt3d1J3NVJ2X0t0VzFhQWZQRGt2cnJET243X0lfcjl6aG9US0NNem1fRGdIWGxPSnU5SUhSVXZ5VkJicWRLcDZGb2laeHY1Vy00MndyYURsTXlnV0EtTEhLVnV3Q2MwdVRVYlprZHhjeTVCbGMwb012M1ozeEx3eUF4RS1LZmtOcHVIalNnMmpVUHZh?oc=5",
-     "summary": "Businessman Kishore Biyani Charged In Rs 904-Crore SBI Fraud Case NDTV",
+     "title": "Future Retail Businessman Kishore Biyani Charged In Rs 904-Crore SBI Fraud Case",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXpBOUFwZFl6VDc1LU9UdTY1NnZoYXk2N05wSnk5dFJlVGRUa2xrMDkyQmZIVUxwRHFhampIQjg2ZFptTDlQVDM0bHZnaHZiUzVqYUVUNXFfbF9uODZZdnd1bUdqcUppN0xuNjRvYVlNalNnNm5xWm1nTkhoczZ0NDF4UW5OWDExWEJnVFF0U2lfN3pqbDRBVW1GOUFXUHBIMlM4NUFlWk5xS3NTVzNnTlBrSGwzWVZaTVN5ZQ?oc=5",
+     "summary": "Future Retail Businessman Kishore Biyani Charged In Rs 904-Crore SBI Fraud Case NDTV",
      "published": "2026-11-06T15:39:57+00:00",
      "source": "NDTV",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "f489f1a848b0",
+     "id": "fee8cdf1469e",
      "category": "money",
      "category_label": "Money & scams",
      "figures": [
@@ -645,6 +605,19 @@
       "$650 million debt",
       "$650 million debt scanx"
      ]
+    },
+    {
+     "title": "Israeli election results set for certification, fraud charge rejected",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1o5Wm1WRHEybzZYOXZUNUtXanZXVGpNeDVUZVc5RUVDZi1DQV9UWi0tVWpkUWFxVHZELUQ3Z2hoNTZMZkEtTXNlSXBEa2pNMDl0MGs4UkRNWFJDVXUxQXU0bnBNVG9reFNFb0h4MDVtVUZDcnRtU2ktOGgzSkFITVc1ZWFJejg5YjVMTnd0Y20xdUhkMlA2NlB6QlBmRmMxU0doaVUyZHI2UlNMa1JJ?oc=5",
+     "summary": "Israeli election results set for certification, fraud charge rejected India's News.Net",
+     "published": "2026-11-06T19:44:00+00:00",
+     "source": "India's News.Net",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "b52b69d8f5d9",
+     "category": "politics",
+     "category_label": "Political controversy"
     }
    ]
   },
@@ -654,6 +627,35 @@
    "title": "National News",
    "upsc": false,
    "items": [
+    {
+     "title": "Disallowed Friday prayers, under house detention for 6th day: Mirwaiz",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/disallowed-friday-prayers-under-house-detention-for-6thday-mirwaiz/article71675173.ece",
+     "summary": "On the previous Friday, the Mirwaiz mentioned in his sermon the findings of the International Crisis Group report on Jammu and Kashmir and highlighted the concerns over political prisoners, civil liberties and the need for meaningful political engagement and reconciliation",
+     "published": "2026-11-06T22:03:59+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/3733pw/article71676240.ece/alternates/LANDSCAPE_1200/20260918252L.jpg",
+     "licence": "linkout",
+     "id": "4f5596aa1ff2",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "CPI(M) leader Biman Basu retracts after holding Jyoti Basu responsible for LF government’s industrial policy",
+     "url": "https://www.thehindu.com/news/national/west-bengal/cpim-leader-biman-basu-retracts-after-holding-jyoti-basu-responsible-for-lf-governments-industrial-policy/article71675588.ece",
+     "summary": "Chief Minister Suvendu Adhikari on November 5 blamed the policy of forcible land acquisition during the regime of former Chief Minister Buddhadeb Bhattacharjee for decline in industrial prospects of the State.",
+     "published": "2026-11-06T21:32:57+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/l0okox/article71676091.ece/alternates/LANDSCAPE_1200/2.jpg",
+     "licence": "linkout",
+     "id": "b52e6fc306ac",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "5 blamed the policy of forcible"
+     ]
+    },
     {
      "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
@@ -696,19 +698,6 @@
       "23, Bhagwant Mann had",
       "27 questioning whether he would be"
      ]
-    },
-    {
-     "title": "Supreme Court decision on BBMB arrears a victory for Himachal, says CM Sukhu",
-     "url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
-     "summary": "The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects",
-     "published": "2026-11-06T20:00:58+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/fuxivu/article71676074.ece/alternates/LANDSCAPE_1200/20261023191L.jpg",
-     "licence": "linkout",
-     "id": "a96529499789",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Biryani By Kilo, D-Mart Face Action In Maharashtra Crackdown Ahead Of Diwali",
@@ -764,19 +753,6 @@
      "id": "498d5af8b8d2",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "Oil Companies Reject Karnataka Minister's '30% Ethanol' Charge Over E20 Petrol, Question Testing Method",
-     "url": "https://www.ndtv.com/india-news/oil-companies-reject-karnataka-ministers-30-ethanol-charge-on-e20-petrol-question-testing-method-12294591#publisher=newsstand",
-     "summary": "Indian Oil, Bharat Petroleum, and Hindustan Petroleum said the claims, as reported, were \"not supported by testing conducted in accordance with the prescribed statutory and technical procedures\".",
-     "published": "2026-11-06T17:35:46+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-08/5n49k7kk_e20-fuel-row-_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "1b5e15ac6af8",
-     "category": "politics",
-     "category_label": "Political controversy"
     }
    ]
   },
@@ -787,56 +763,69 @@
    "upsc": false,
    "items": [
     {
-     "title": "Protesters break into Microsoft data centre site in Amsterdam",
-     "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-     "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
-     "published": "2026-11-06T21:04:40+00:00",
+     "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+     "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+     "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+     "published": "2026-11-07T00:31:41+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee37531362-1793996627.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee659d-1794008477.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "43e42c428382",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
-     "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
-     "published": "2026-11-06T20:48:25+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793998094.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "260071dd7bd7",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-     "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
-     "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
-     "published": "2026-11-06T20:28:07+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee2c4940d7-1793993801.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "28fd1f853fc8",
+     "id": "7dc48da8a353",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
-     "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
-     "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
-     "published": "2026-11-06T20:22:22+00:00",
+     "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+     "summary": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
+     "published": "2026-11-07T00:21:49+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee2ac44bf6-1793993412.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794010901.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "98a6805b713d",
+     "id": "a19b947a3262",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+     "summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+     "published": "2026-11-07T00:00:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AA-20261103-42953182-42953164-GIANT_POSTER_AGAINST_US_AND_ISRAEL_HUNG_IN_TEHRAN-1794004328.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "b763a4725b59",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "New Zealanders head to polls on final day of voting",
+     "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+     "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+     "published": "2026-11-06T23:48:01+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee4c91-1794002065.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "d6e7a1b5404a",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "AI stocks climb after trillions wiped from market values",
+     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+     "published": "2026-11-06T21:06:25+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+     "licence": "linkout",
+     "id": "8fc8e90c6b31",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "Four midterms takeaways for 2028 White House race",
@@ -902,6 +891,22 @@
    "upsc": false,
    "items": [
     {
+     "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly334rem5do?at_medium=RSS&at_campaign=rss",
+     "summary": "Extraordinary scenes of audiences crying leaving theatres after watching the film have been shared on social media.",
+     "published": "2026-11-06T22:59:54+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1489/live/c9303e00-d9eb-11f1-bbe5-797ee05bee69.jpg",
+     "licence": "linkout",
+     "id": "de520f20779b",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "figures": [
+      "18 awards later"
+     ]
+    },
+    {
      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
      "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
@@ -924,19 +929,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg",
      "licence": "linkout",
      "id": "b0bc61ca0b43",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-     "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-     "published": "2026-11-05T23:16:53+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg",
-     "licence": "linkout",
-     "id": "927ac1fd8263",
      "category": "general",
      "category_label": "General"
     },
@@ -978,6 +970,35 @@
    "upsc": false,
    "items": [
     {
+     "title": "Disallowed Friday prayers, under house detention for 6th day: Mirwaiz",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/disallowed-friday-prayers-under-house-detention-for-6thday-mirwaiz/article71675173.ece",
+     "summary": "On the previous Friday, the Mirwaiz mentioned in his sermon the findings of the International Crisis Group report on Jammu and Kashmir and highlighted the concerns over political prisoners, civil liberties and the need for meaningful political engagement and reconciliation",
+     "published": "2026-11-06T22:03:59+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/3733pw/article71676240.ece/alternates/LANDSCAPE_1200/20260918252L.jpg",
+     "licence": "linkout",
+     "id": "4f5596aa1ff2",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "CPI(M) leader Biman Basu retracts after holding Jyoti Basu responsible for LF government’s industrial policy",
+     "url": "https://www.thehindu.com/news/national/west-bengal/cpim-leader-biman-basu-retracts-after-holding-jyoti-basu-responsible-for-lf-governments-industrial-policy/article71675588.ece",
+     "summary": "Chief Minister Suvendu Adhikari on November 5 blamed the policy of forcible land acquisition during the regime of former Chief Minister Buddhadeb Bhattacharjee for decline in industrial prospects of the State.",
+     "published": "2026-11-06T21:32:57+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/l0okox/article71676091.ece/alternates/LANDSCAPE_1200/2.jpg",
+     "licence": "linkout",
+     "id": "b52e6fc306ac",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "5 blamed the policy of forcible"
+     ]
+    },
+    {
      "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
      "summary": "The former top poll official also reinstated that the Election Commission of India is supposed to make decisions based on a majority",
@@ -991,76 +1012,30 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton cultivators not eligible for protection under FRA Act",
-     "url": "https://www.thehindu.com/news/national/agasthyamalai-conservation-case-sc-directs-temporary-and-non-resident-silk-cotton-cultivators-not-eligible-for-protection-under-fra-act/article71675811.ece",
-     "summary": "",
-     "published": "2026-11-06T20:17:51+00:00",
+     "title": "Supreme Court decision on BBMB arrears a victory for Himachal, says CM Sukhu",
+     "url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
+     "summary": "The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects",
+     "published": "2026-11-06T20:00:58+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/fuxivu/article71676074.ece/alternates/LANDSCAPE_1200/20261023191L.jpg",
      "licence": "linkout",
-     "id": "f92d54100b41",
+     "id": "a96529499789",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Pakistan says willing to issue visa to Punjab CM Bhagwant Mann for visit",
-     "url": "https://www.thehindu.com/news/national/punjab/pakistan-says-willing-to-issue-visa-to-punjab-cm-bhagwant-mann-for-visit/article71676075.ece",
-     "summary": "On October 23, Bhagwant Mann had said that he had been invited to attend the World Punjabi Conference in Lahore on November 27 questioning whether he would be allowed to travel to Pakistan",
-     "published": "2026-11-06T20:10:09+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6dftmh/article71676076.ece/alternates/LANDSCAPE_1200/20261104137L.jpg",
-     "licence": "linkout",
-     "id": "b47e714d6a46",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "23, Bhagwant Mann had",
-      "27 questioning whether he would be"
-     ]
-    },
-    {
-     "title": "Bamboo shelters, cool roofs to climate-proof Telangana cities",
-     "url": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
-     "summary": "The State is drawing up a ₹20,000-crore project pipeline and a series of policy measures to prepare its cities for rising temperatures and erratic rainfall. The plan, which also includes waste reclamation, sewage treatment and digital monitoring of water supply, seeks to build climate resilience across urban local bodies",
-     "published": "2026-11-06T19:31:21+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/5g1sz0/article71676068.ece/alternates/LANDSCAPE_1200/hy06bamboo_bus_shelter.jpg",
-     "licence": "linkout",
-     "id": "465563497bbd",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "₹20,000 -crore project pipeline"
-     ]
-    },
-    {
-     "title": "Karnataka CM ridicules BJP leaders for trying to take credit for PM’s visit",
-     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-ridicules-bjp-leaders-for-trying-to-take-credit-for-pms-visit/article71675717.ece",
+     "title": "Did all the murders happen in the small house on the terrace?",
+     "url": "https://www.thehindu.com/news/national/karnataka/did-all-the-murders-happen-in-the-small-house-on-the-terrace/article71675859.ece",
      "summary": "",
-     "published": "2026-11-06T19:25:50+00:00",
+     "published": "2026-11-06T19:34:40+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/y70je0/article71676061.ece/alternates/LANDSCAPE_1200/ALL_9104A.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/eao93s/article71676069.ece/alternates/LANDSCAPE_1200/_JAI7269.JPG",
      "licence": "linkout",
-     "id": "4ae8cff62559",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "School Assembly News Headlines Today (Nov 6): Top National, International & Sports Updates + Thought of the Da",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVdScHVqejBhYWc5UXdIU3Y1TzRJR3M2NmhsaEZTZ2FvM3gwaW9OamhtSV8wRkQ1UnRHY2UxYVlLUUhDM05MUVFMbV8wbXhqaUJlWnFwQTRzbFg0NHp5cU5UYWxQeHNNVF9FUnAwclBOcVpsX3lwUlpyNm1WV0dqTFVPZ0hVSnZFd0FwRXZPc1piblVRUkJGdG5vS1JfZFJzMGhYMWRCYmlUWWxQa0NRWkNxaUFGcDl4QlZPeE50RHY1Z2ZNRkkwblVvbGpMdkNOVG12VVNPXzdVZmtJaGtiTk5aMTdXS0tvWTNvQTlBRm04UdIB9wFBVV95cUxQRWRWZjloZGYtTmNjTVl5dlUtcWZJcHhIdGlWQnlScGMxdUJBanFIcnQ5TTBxNWZFdFFTcGdwQnpIRElUX0hvVER2amZFUzA1YkN4TGdOZGJzcjVyb2ZKX3JMVXVkRFg1dlphVUlXaHpyRnV4b3FHeEtLQVh4Z0JTMG54Z3AwMHpRX2NPZmlnVTVmbjNCRHRGTVowaGVVRGdxTDE5emFGRjhHTlUtR1RPX2p4ci1FcGp4V251dU9Qall0VllCeFZLbFVZNnFGaU5NcGxrVkFXYVdwWGhoQ1ZGM29TODV1ckktaURDdkRkUFRwbkliei1j?oc=5",
-     "summary": "School Assembly News Headlines Today (Nov 6): Top National, International & Sports Updates + Thought of the Da Times Now",
-     "published": "2026-11-06T00:30:15+00:00",
-     "source": "Times Now",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5a31ac789d37",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "1645dedb8b8e",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -1173,7 +1148,8 @@
      "category": "general",
      "category_label": "General"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1784,19 +1760,6 @@
      "category_label": "General"
     },
     {
-     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-     "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-     "published": "2026-11-06T09:57:04+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
-     "licence": "linkout",
-     "id": "af31ad637890",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
      "title": "Investors lose ₹100 cr in Stockal Securities scam; how to file a complain and can you recover the money?",
      "url": "https://www.livemint.com/money/investors-lose-100-cr-in-stockal-securities-scam-how-to-file-a-complain-and-can-you-recover-the-money-11793988016170.html",
      "summary": "Nearly 30 Indian investors reportedly lost more than ₹100 crore after their Stockal Securities accounts were allegedly accessed without authorization. How to file a complain.&nbsp;",
@@ -1869,6 +1832,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+     "published": "2026-11-06T21:49:50+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+     "licence": "linkout",
+     "id": "af31ad637890",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "AI stocks climb after trillions wiped from market values",
      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
@@ -1908,17 +1884,17 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "The engine parts that 'fight the laws of the universe'",
-     "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-     "published": "2026-11-06T00:06:06+00:00",
-     "source": "BBC News",
+     "title": "Latin America Makes Progress in Data Governance for Ethical and Inclusive Artificial Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzFEa1hFWlJCR044b1N5RTA4R1pHQ0FyYi1JWVBYd3V1dGtNdnpwQ0hMNkVKQk1CekJMV3pyckxnTVE1Z3RuT2dMR25XeWc2UE9jaGUxdlBiRGJEMDY0eUpnek9uaWFsaWtXakZqVDZDbGdXZmF2LTQyMlZfdUNIVVAyNGJ1YVZWVXZNRTlCcFppMEpMMERJekRuSTVXMHdwc0k2dk1DRkFMNUhlRGVjc1NCWXpfV1BRMEVGUTdvWFMyY2c?oc=5",
+     "summary": "Latin America Makes Progress in Data Governance for Ethical and Inclusive Artificial Intelligence UNESCO",
+     "published": "2026-11-06T16:55:37+00:00",
+     "source": "UNESCO",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6023/live/c7b8cb20-d9e9-11f1-93e1-3b657b665bcf.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "ec3e64150f1c",
-     "category": "general",
-     "category_label": "General"
+     "id": "5027f726ab8b",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
      "title": "Top 10 Best Artificial Intelligence Companies In India In 2027",
@@ -1937,17 +1913,30 @@
      ]
     },
     {
-     "title": "AI stocks bounce back after trillions wiped from market values",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5",
-     "summary": "AI stocks bounce back after trillions wiped from market values BBC",
-     "published": "2026-11-06T21:06:25+00:00",
-     "source": "BBC",
+     "title": "Could next-gen artificial intelligence help map out future space outposts?",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVJ3dUxYLUVtODIwWXctWVlvUXNaVGNoRG9LYWRhZGt6VWFHMVg5WVF0V08zV2NkU0x0T1UwVmE5bWZhQ1o2MDFRUVhNZE5YN3c1WnEwNnFtbzhzdDZNOE1KaF80bnlrMlRWZXFteUY0UFRTaFNrQWM4UGhGMVZzTzJHV0FaSngyTkN2RHpvUk9qRWljVk45VkF1ZGtEYVNZTWFUeHlxUkRRTkhCQnhKQkxB?oc=5",
+     "summary": "Could next-gen artificial intelligence help map out future space outposts? Technology Org",
+     "published": "2026-11-06T11:00:00+00:00",
+     "source": "Technology Org",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "95d4bf6f1331",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "2796b66a9c09",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Opinion: Artificial intelligence and technological convenience is killing the human experience",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd0ZjbFpWNFoxRFRleUlnT1VyU2FmejJ1bUxaSnZxMTBJSUVXS3dfenNiRU8zSmZtVTlWal9TYXVZWjR4dWJVTHdqX3dUTHNwVWJVamVNUUM3dkpRc1JqTTBOdThhbml2a0NTM0R4N3JIRWhIejVvYlh2UnZzRVA4ZUR1SWxqaTJycDRpNWxHaGtENTJwN3JhS0dIaWY?oc=5",
+     "summary": "Opinion: Artificial intelligence and technological convenience is killing the human experience The Reveille, LSU's student newspaper",
+     "published": "2026-11-06T12:03:11+00:00",
+     "source": "The Reveille, LSU's student newspaper",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "d05455256e11",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
      "title": "Artificial intelligence has begun to accelerate its own development — study",
@@ -1961,19 +1950,6 @@
      "id": "619233499fb6",
      "category": "tech",
      "category_label": "AI & technology"
-    },
-    {
-     "title": "Kerala Law Academy Invites Papers For 33rd International Seminar On Good Governance And Artificial...",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbzMyeDNYZzJ6MzVEZHV4eVpEc0hncGliblkzYmdjOGJ0SGk1by1Ra2w2Y0lOSlNnaWdYb3ZkX284X1Z2RG1IUHVlS0xrYVNRRGMySDZ5WlhaLXVFRXVHYjJGUVhkcE12UDVmaGZEbnBxNVAwOUJ1NTRhQk41TEVybExJZHpPODFmTkJfa01kQkRpWExOcFZac3A1WXQ5RWNlQjZhOWw1Y3k4d0RLVk9XZVlwZ3UzTUo2ZV9ZdS0xTjR2VUlWTUVpb0E4Y2FwNWl6ckJqeHgxYzdXVDRsNk5PNnhzOVVaclBfVW5EaU41MzZLR1lwemNvS3lqZVFLY2Zablg3NDNrSnh1c0nSAZACQVVfeXFMTXhKQU5hektEMTBxQkxDZUc2RkZxdU51ZVdrUnpqcnRwODA3OEJVVXBSSUhYc0QzclNLeFJySERnZlFjWVViYVp4RGtvNWdlV2hMQUV4QjNMelpRVVZRb2RLQV82azlYQVRlUFVGQmZjckxfaGlFZ3MtZHBrVk9ZNkliVDZ4UUs1d0RKdkpEbExTbFFpbmptcWFqdDdEQ0xfVVF2Wm9jU1docWZKOEJYeGFvZ0xOWGNpZEdwajFUdEJSR21EZEg2V3JWNEFnaUdxVFBObF9aWHI2MGhWVVZnVEluV3I4QkYyUTJMNk91UWZNWHkxdmlPQmg1TkUxN2lRcThqcEhjWFA0TWc5OUJFeU4?oc=5",
-     "summary": "Kerala Law Academy Invites Papers For 33rd International Seminar On Good Governance And Artificial... Live Law",
-     "published": "2026-11-06T05:31:54+00:00",
-     "source": "Live Law",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "d6cddb375986",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1983,6 +1959,19 @@
    "title": "Sports",
    "upsc": false,
    "items": [
+    {
+     "title": "India vs New Zealand LIVE Score, 2nd ODI: Focus On Rohit Sharma, Virat Kohli Amid Massive Rain Threat",
+     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-2nd-odi-live-score-ind-vs-nz-cricket-match-live-updates-scorecard-virat-kohli-rohit-sharma-shubman-gill-12294744#publisher=newsstand",
+     "summary": "IND vs NZ 2nd ODI LIVE Score Updates: Shubman Gill-led India are aiming to double their series lead, heading into the second ODI against hosts New Zealand in Wellington.",
+     "published": "2026-11-07T00:51:44+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/2pghpvdg_india-vs-new-zealand_625x300_07_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "794c854cc506",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Joel Embiid Injury Update: Philadelphia 76ers Star Available Against Cleveland Cavaliers After Plantar Fasciitis Scare?",
      "url": "https://sports.ndtv.com/us/nba/joel-embiid-injury-update-76ers-star-available-against-cavaliers-after-plantar-fasciitis-scare-12294586#publisher=newsstand",
@@ -2079,7 +2068,7 @@
      "published": "2026-11-06T16:49:31+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a3b/live/5a892120-d9f4-11f1-bb10-cdca6001fbcf.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c4/live/0ca7fd10-da2f-11f1-a701-fddedf244c16.jpg",
      "licence": "linkout",
      "id": "3f901a6541c6",
      "category": "general",
@@ -2112,19 +2101,6 @@
      "category_label": "Crime"
     },
     {
-     "title": "'We had no idea how ill she was': Bono on recording Dolly Parton's last song",
-     "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
-     "summary": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
-     "published": "2026-11-06T00:50:24+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5886/live/de8b6570-d9ed-11f1-b441-2b33b063138f.jpg",
-     "licence": "linkout",
-     "id": "fb135d517b3c",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
      "title": "Olivia Rodrigo's Christmas song sounds familiar... on purpose",
      "url": "https://www.bbc.co.uk/news/articles/crje55yzjw47o?at_medium=RSS&at_campaign=rss",
      "summary": "The pop star sought permission from cult 80s band The Waitresses before releasing her festive single.",
@@ -2136,6 +2112,22 @@
      "id": "d161c25ed230",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "'We have our own fair playing field': 1Xtra launches first ever UK rap chart",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyymd3533o?at_medium=RSS&at_campaign=rss",
+     "summary": "The top 20 best selling UK rap tracks will be celebrated each week on Radio 1Xtra with DJ Kenny Allstar.",
+     "published": "2026-11-06T12:37:58+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/daf49310-d93d-11f1-95ea-8df9a040b6bf.jpg",
+     "licence": "linkout",
+     "id": "497c06ae31c8",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "20 best selling UK rap tracks"
+     ]
     }
    ]
   },
@@ -2145,19 +2137,6 @@
    "title": "Health & Science",
    "upsc": false,
    "items": [
-    {
-     "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
-     "url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
-     "summary": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
-     "published": "2026-11-06T00:42:05+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c01/live/8242d1d0-d9f8-11f1-b441-2b33b063138f.jpg",
-     "licence": "linkout",
-     "id": "8b2cc53b183c",
-     "category": "general",
-     "category_label": "General"
-    },
     {
      "title": "Should energy drinks be banned for under-16s?",
      "url": "https://www.bbc.co.uk/news/videos/c6wyrrvw22edo?at_medium=RSS&at_campaign=rss",
