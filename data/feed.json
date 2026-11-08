@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T22:24:43.845425+00:00",
+ "generated_at": "2026-11-08T01:36:17.713011+00:00",
  "podcasts_fetched_at": "2026-11-07T07:23:41.572223+00:00",
  "markets": [
   {
@@ -84,15 +84,15 @@
   }
  ],
  "topics": [
-  "Police France",
+  "Polish Krakow",
   "What Krakow",
   "Jazeera English",
   "News",
   "Scandals & Investigations",
   "Keralam Health",
-  "Presidency University",
-  "Ambedkar University",
-  "Israeli President",
+  "National News",
+  "Ahead Deepavali",
+  "Iran Blasts",
   "Zealand"
  ],
  "sections": [
@@ -102,6 +102,34 @@
    "title": "Front Page",
    "upsc": false,
    "items": [
+    {
+     "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+     "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+     "published": "2026-11-08T00:50:28+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794099019.jpg?resize=1918%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "ae905b2cfb5f",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "What we know so far after Krakow gun attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+     "published": "2026-11-07T22:58:49+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+     "licence": "linkout",
+     "id": "10a11a207755",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
     {
      "title": "Police clash with protesters as anti-government rallies sweep France",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
@@ -117,124 +145,105 @@
      "from_section": "Global News"
     },
     {
-     "title": "What we know so far after Krakow gun attack",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-     "published": "2026-11-07T21:13:24+00:00",
-     "source": "BBC News",
+     "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+     "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+     "published": "2026-11-08T00:00:56+00:00",
+     "source": "Al Jazeera",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aefb55c-1794094428.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "10a11a207755",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "99179248bf96",
+     "category": "conflict",
+     "category_label": "War & conflict",
      "from_section": "Global News"
     },
     {
-     "title": "Locals burn effigy of Christian priests at Basanti in WB",
-     "url": "https://www.thehindu.com/news/national/west-bengal/locals-burn-effigy-of-christian-priests-at-basanti-in-wb/article71678867.ece",
-     "summary": "Father Parimal Kanji, the priest-in-charge at Basanti, stated that the alleged perpetrators were outsiders and not local residents and confirmed that a written complaint had been submitted to the police.",
-     "published": "2026-11-07T21:05:10+00:00",
+     "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+     "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+     "published": "2026-11-07T23:45:45+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794095115.jpg?resize=1918%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "c9a2b72565b6",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+       "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+       "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+     "published": "2026-11-07T22:19:59+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+     "licence": "linkout",
+     "id": "6f06cf85fa11",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "Global News"
+    },
+    {
+     "title": "RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
+     "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
+     "summary": "Mr. Yadav said that Mr. Ragi used the abusive language against Yadav community on behest of Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Janata Party (BJP).",
+     "published": "2026-11-07T22:06:02+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "50c6f112ed16",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "ddfa306dabc8",
+     "category": "politics",
+     "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Rajnath Singh warns of evolving threats, calls for highest military readiness",
-     "url": "https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece",
-     "summary": "Addressing personnel at key airbase near China frontier, Defence Minister warns of adversaries exploiting ‘vulnerabilities’; he also reviews Army’s LAC infrastructure, operational preparedness and lauds initiatives aimed at strengthening ties with local communities",
-     "published": "2026-11-07T20:49:58+00:00",
-     "source": "The Hindu",
+     "title": "Diwali gift tax rules 2026: Will gifts worth over ₹50,000 from friends attract tax on the entire amount? Expert explains",
+     "url": "https://www.livemint.com/money/personal-finance/diwali-gift-tax-rules-2026-will-gifts-worth-over-50-000-from-friends-attract-tax-on-the-entire-amount-expert-explains-11793736589287.html",
+     "summary": "Diwali gifts worth over ₹50,000 from friends can attract income tax on the entire amount. CA Swati Jain explains the ₹50,000 annual exemption, tax rules for gifts from relatives and employers, and how recipients can avoid unexpected tax liabilities. Read on to learn more.&nbsp;",
+     "published": "2026-11-08T00:56:19+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pbwlnc/article71678971.ece/alternates/LANDSCAPE_1200/20261107212L.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/03/600x338/1dcfa471-95f4-402b-9118-938c46cf5fae_1793737059567_XhXl_1793737063432_8gHK_32d599c4-098d-4c7e-a475-dbc482e7b97a_eBXu.png",
      "licence": "linkout",
-     "id": "cdea2bba6105",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "National News"
-    },
-    {
-     "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-     "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
-     "published": "2026-11-07T20:44:34+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-20.39.33-1794084102.png?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "4e070b16673e",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Mélenchon promises action against Israeli annexation if elected President",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
-     "summary": "Mélenchon promises action against Israeli annexation if elected President",
-     "published": "2026-11-07T20:53:47+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794084815.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "c8d41d697ede",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
-     "summary": "As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050; TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh",
-     "published": "2026-11-07T20:50:38+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/1y18y3/article71678993.ece/alternates/LANDSCAPE_1200/DSC_9342.JPG",
-     "licence": "linkout",
-     "id": "38bcc7f9888d",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "229 ZPTCs and 4,823 MPTCs, JSP",
-      "4,823 MPTCs , JSP 36"
-     ]
-    },
-    {
-     "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-     "summary": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
-     "published": "2026-11-07T20:26:58+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-27T234936Z_337143780_RC2ZBOAVPW2L_RTRMADP_3_ISRAEL-ELECTION-1794082454.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "4a32102f2942",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News",
-     "figures": [
-      "28 days to secure 61 Knesset",
-      "61 Knesset seats and replace Netanyahu"
-     ]
-    },
-    {
-     "title": "Who is behind Europe’s suspected hybrid attacks?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-     "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
-     "published": "2026-11-07T20:48:58+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794082718.jpg?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "75c705f6b4d2",
+     "id": "2408fe5d85c6",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Global News"
+     "from_section": "Business",
+     "figures": [
+      "₹50,000  from friends attract tax",
+      "₹50,000  from friends can attract",
+      "₹50,000  annual exemption, tax rules"
+     ]
+    },
+    {
+     "title": "Travis Kelce And Patrick Mahomes Face Backlash Over Rashee Rice’s $3.45M Bankruptcy",
+     "url": "https://sports.ndtv.com/us/nfl/travis-kelce-and-patrick-mahomes-face-backlash-over-rashee-rice-s-3-45m-bankruptcy-12298717#publisher=newsstand",
+     "summary": "Travis Kelce and Patrick Mahomes face criticism from Craig Carton over Rashee Rice’s $3.45 million bankruptcy, with the host questioning why wealthy Chiefs teammates haven't helped him.",
+     "published": "2026-11-08T00:50:08+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/gcq792dk_travis-kelce-patrick-mahomes_625x300_08_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "10856d51d0ae",
+     "category": "money",
+     "category_label": "Money & scams",
+     "from_section": "Sports",
+     "figures": [
+      "$3.45 M Bankruptcy",
+      "$3.45 million bankruptcy, with the host"
+     ]
     },
     {
      "title": "Sold property but received money in instalments? ITAT explains when you must pay income tax on capital gains",
@@ -253,23 +262,6 @@
       "₹2.45 crore capital gains addition",
       "₹25 lakh in the relevant year",
       "₹2.86 crore appearing in Form 26AS"
-     ]
-    },
-    {
-     "title": "Exchanging old gold for new jewellery this Diwali? 6 things to check before accepting your jeweller’s valuation | Guide",
-     "url": "https://www.livemint.com/money/personal-finance/exchanging-old-gold-for-new-jewellery-this-diwali-6-things-to-check-before-accepting-your-jeweller-s-valuation-guide-11794066226811.html",
-     "summary": "Exchanging old gold for new jewellery this Diwali? Check six things before accepting your jeweller’s offer, including gold purity, net weight, market rates, melting deductions, making charges and exchange terms to avoid losing money.",
-     "published": "2026-11-07T16:31:26+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/07/600x338/GeminiGenerated_Image_lv2l96lv2l96lv2l_179406636_1794066376307_PrOU_1794066376564_o2B6_60b80984-e95b-488b-bb6b-1008b7742bce_m5C5.png",
-     "licence": "linkout",
-     "id": "2e8c3869214e",
-     "category": "money",
-     "category_label": "Money & scams",
-     "from_section": "Business",
-     "figures": [
-      "6 things to check before accepting"
      ]
     },
     {
@@ -343,6 +335,20 @@
      "from_section": "Technology"
     },
     {
+     "title": "Pavel Chatterjee's Book Encourages Us to Think, Question and Explore the Unknown on Humanity, Artificial Intelligence and the Mysteries of the Universe",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRzVjSnF0MGRTS3R3b2JlN3daS0xuZnJzblkwa0hZVnEwX3BCYVlfbDVGYmlJbDYwMXVYVmNkSGhZSGdtbnVrUDRIZ2pyVGlab0dUT3BQcWRPN004NXZVN3JaWDRGVUlBM291M3pRY3I4Wk9IOTc4RTM4d2JPQ2U4WkZBajZpX2tRbElGeDFadHpsZW9fdjdQRzRxX2JCM2NOSHJERU9xdjl6ZlRpbU9WR1dXUS1SRkE1Z1JyZVNwSzNndURCdVpHRG13cjl4RXc3QmdLWUplLTNpSXl4ZzE3a1cxRnluT0NWUnhlMkVaeVJHN01IZjZ2cmxScU1VTGwzZlRVYjRIVWtTMzhY?oc=5",
+     "summary": "Pavel Chatterjee's Book Encourages Us to Think, Question and Explore the Unknown on Humanity, Artificial Intelligence and the Mysteries of the Universe IBG News",
+     "published": "2026-11-07T17:16:11+00:00",
+     "source": "IBG News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "c7bbeaee5c41",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
      "title": "Theatre in age of Artificial Intelligence: Can technology help human creativity? (1-2)",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUJjWkxEcWdOejF5OFdabk9YNGNXMUdHVXp5SVAtRDV6bkJPeW00RnRSbVhrTW50bjg4cEpXaFhMMkE5V3VCckJZUnpMTlkwM2FzNGYzcFhtUlVSa25wVDNUMTh0ZnI4UGxMc0hPNXlWeDY5NnBWMF9NYTdhS1JtYWxSdUk1NW5zcThqQjdxWGlIdnVUcU1SelowV3o2TkczVm0tSmNpd3Yta2doVWdrc2UxNWQ3d0dncXc?oc=5",
      "summary": "Theatre in age of Artificial Intelligence: Can technology help human creativity? (1-2) Egyptian Gazette",
@@ -357,63 +363,15 @@
      "from_section": "Technology"
     },
     {
-     "title": "3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTm5mRGZwVVMtUUkxczVrcTBMRmt6eVk3N0VBM0NRZWV0Q1VLZjdvUmtCYVM4bG9ic285SHlDdFRsMnRfV19sdFF0N0ZiS1NObEJMZmpuSkhySXdqcWVuOE9lSEpjdmdlQWJrYXVsNmc4MWNqUWRoU29UU0d0bW4xaE9mT2hDeEZMV0YweExQRnlBRHdqcS03SFRDcTRKX1dYV0JIQmFmUFJabXU3M2x4N3o5TDNETmVJWS04a0xjWmQ?oc=5",
-     "summary": "3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash The Motley Fool",
-     "published": "2026-11-07T14:30:00+00:00",
-     "source": "The Motley Fool",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "4e7db6243046",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "3 Artificial Intelligence (AI) Stocks I’d"
-     ]
-    },
-    {
-     "title": "Arsenal Edge Past Hull To Stretch Premier League Lead",
-     "url": "https://sports.ndtv.com/english-premier-league/arsenal-edge-past-hull-to-stretch-premier-league-lead-12298295#publisher=newsstand",
-     "summary": "Arsenal beat stubborn Hull 1-0 to stretch their lead at the top of the Premier League to six points on Saturday while Tottenham's recent revival was halted by Leeds.",
-     "published": "2026-11-07T18:43:25+00:00",
+     "title": "Tom Brady Faces Furious New England Patriots Fans After Missing Super Bowl LI Reunion",
+     "url": "https://sports.ndtv.com/us/nfl/tom-brady-faces-furious-new-england-patriots-fans-after-missing-super-bowl-li-reunion-12298711#publisher=newsstand",
+     "summary": "Tom Brady faces backlash from Patriots fans after being excluded from the Super Bowl LI reunion, with supporters questioning his loyalty and accusing him of breaking his retirement promise.",
+     "published": "2026-11-08T00:50:37+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/3vanrrik_arsenal-afp_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/k3c2ltvs_tom-brady_625x300_08_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "a6446e7dbfd4",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
-     "title": "East Bengal Become First Indian Club To Reach AFC Women's Champions League Knockouts",
-     "url": "https://sports.ndtv.com/football/east-bengal-become-first-indian-club-to-reach-afc-womens-champions-league-knockouts-12298302#publisher=newsstand",
-     "summary": "East Bengal FC suffered a 2-0 defeat against North Korean side 4.25 SC in their final Group B fixture of the AFC Women's Champions League 2026-27 in Kolkata on Saturday but secured a historic place in the quarter-finals.",
-     "published": "2026-11-07T18:37:10+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/oaq5iufk_east-bengal-x-eastbengalfc_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "ff738d2824ea",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "0 defeat against North Korean side"
-     ]
-    },
-    {
-     "title": "Carolina Hurricanes’ Jordan Staal Says \"I Would Like To Try\" After Returning To Practice",
-     "url": "https://sports.ndtv.com/us/nhl/carolina-hurricanes-jordan-staal-says-i-would-like-to-try-after-returning-to-practice-12298345#publisher=newsstand",
-     "summary": "Jordan Staal has returned to the ice with the Carolina Hurricanes after missing nearly a month with a torn calf muscle. He hopes to play against the Seattle Kraken in Finland but wants to test his recovery in team practices before making a decision.",
-     "published": "2026-11-07T19:32:53+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/21nvbh6c_jordan-staal-_625x300_08_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "de0b4bf7cd8d",
+     "id": "d5d77b72925a",
      "category": "mystery",
      "category_label": "Mystery & investigation",
      "from_section": "Sports"
@@ -460,7 +418,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-11-07T22:24:30.672907+00:00",
+     "published": "2026-11-08T01:36:03.865560+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -471,7 +429,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-11-07T22:24:30.672921+00:00",
+     "published": "2026-11-08T01:36:03.865573+00:00",
      "image": "https://static.dw.com/image/47219195_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -482,7 +440,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-11-07T22:24:30.672926+00:00",
+     "published": "2026-11-08T01:36:03.865575+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -493,7 +451,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-11-07T22:24:30.672930+00:00",
+     "published": "2026-11-08T01:36:03.865578+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -504,7 +462,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-11-07T22:24:30.672934+00:00",
+     "published": "2026-11-08T01:36:03.865579+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -515,7 +473,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-11-07T22:24:30.672938+00:00",
+     "published": "2026-11-08T01:36:03.865581+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -632,6 +590,65 @@
    "upsc": false,
    "items": [
     {
+     "title": "A bridge between past and present",
+     "url": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
+     "summary": "A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contribution to the development of Indian civilization",
+     "published": "2026-11-07T23:12:10+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/szt7h6/article71678332.ece/alternates/LANDSCAPE_1200/6744_7_11_2026_16_33_50_1_01_BIHAR_MUSEUM.JPG",
+     "licence": "linkout",
+     "id": "e38ead8a3e48",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
+     "url": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
+     "summary": "Four young men on Saturday (November 7, 2026), from Bengaluru, travelled about 2,200 km riding on an old auto-rickshaw to reach Areraj town, in East Champaran",
+     "published": "2026-11-07T22:23:43+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "0a340da45144",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "2,200 km riding on an old"
+     ]
+    },
+    {
+     "title": "RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
+     "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
+     "summary": "Mr. Yadav said that Mr. Ragi used the abusive language against Yadav community on behest of Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Janata Party (BJP).",
+     "published": "2026-11-07T22:06:02+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "ddfa306dabc8",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "42 days of SRFTI protest; classes suspended till December 11",
+     "url": "https://www.thehindu.com/news/national/west-bengal/42-days-of-srfti-protest-classes-suspended-till-december-11/article71678513.ece",
+     "summary": "Students send message of resistance and fight for justice on Deepavali",
+     "published": "2026-11-07T21:59:57+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "ac9444ab9ad9",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "figures": [
+      "42 days of SRFTI protest; classes",
+      "11. Students send message of resistance"
+     ]
+    },
+    {
      "title": "Presidency University expels student for allegedly defacing Vivekananda poster",
      "url": "https://www.thehindu.com/news/cities/kolkata/presidency-universityexpels-student-for-allegedly-defacing-vivekananda-poster/article71678327.ece",
      "summary": "The university also barred an ex-student from the campus; SFI condemns expulsion, ABVP welcomes authority action",
@@ -643,32 +660,6 @@
      "id": "66522a76edad",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "T.N. government to withdraw G.O. promoting Dr. Ambedkar Law University Registrar as temporary Director of Legal Studies",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-withdraw-go-promoting-dr-ambedkar-law-university-registrar-as-temporary-director-of-legal-studies/article71677470.ece",
-     "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan record the submission that the vacancy would now be filled up as per regular process",
-     "published": "2026-11-07T21:13:02+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/l7kdqf/article71679488.ece/alternates/LANDSCAPE_1200/Entire-texture-G49GKQN04.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "03055fbeda4f",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Locals burn effigy of Christian priests at Basanti in WB",
-     "url": "https://www.thehindu.com/news/national/west-bengal/locals-burn-effigy-of-christian-priests-at-basanti-in-wb/article71678867.ece",
-     "summary": "Father Parimal Kanji, the priest-in-charge at Basanti, stated that the alleged perpetrators were outsiders and not local residents and confirmed that a written complaint had been submitted to the police.",
-     "published": "2026-11-07T21:05:10+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "50c6f112ed16",
-     "category": "crime",
-     "category_label": "Crime"
     },
     {
      "title": "Bengal Minor Gives Birth In Nursing Home Toilet, Throws Baby Out Of Window",
@@ -734,43 +725,64 @@
    "upsc": false,
    "items": [
     {
-     "title": "Police clash with protesters as anti-government rallies sweep France",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
-     "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
-     "published": "2026-11-07T21:24:10+00:00",
+     "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+     "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+     "published": "2026-11-08T00:50:28+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794086597.jpg?resize=1620%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794099019.jpg?resize=1918%2C1080&quality=80",
      "licence": "linkout",
-     "id": "d16142210881",
+     "id": "ae905b2cfb5f",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "Mélenchon promises action against Israeli annexation if elected President",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
-     "summary": "Mélenchon promises action against Israeli annexation if elected President",
-     "published": "2026-11-07T20:53:47+00:00",
+     "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+     "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+     "published": "2026-11-08T00:00:56+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794084815.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aefb55c-1794094428.jpg?resize=1920%2C1440",
      "licence": "linkout",
-     "id": "c8d41d697ede",
+     "id": "99179248bf96",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+     "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+     "published": "2026-11-07T23:45:45+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794095115.jpg?resize=1918%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "c9a2b72565b6",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+       "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+       "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+      }
+     ],
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Who is behind Europe’s suspected hybrid attacks?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-     "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
-     "published": "2026-11-07T20:48:58+00:00",
+     "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+     "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+     "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
+     "published": "2026-11-07T22:21:58+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794082718.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aef9e3dd485-1794088509_9270c3-1794090101.jpg?resize=1200%2C630&quality=80",
      "licence": "linkout",
-     "id": "75c705f6b4d2",
-     "category": "money",
-     "category_label": "Money & scams"
+     "id": "7010193096d3",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "No clear winner after tight New Zealand general election",
@@ -788,7 +800,7 @@
     {
      "title": "US offers $20m reward for information about Iran's nuclear programme",
      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-     "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+     "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
      "published": "2026-11-07T18:14:38+00:00",
      "source": "BBC News",
      "byline": "",
@@ -816,19 +828,6 @@
      "figures": [
       "25 killed in Saudi air strike"
      ]
-    },
-    {
-     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-     "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-     "published": "2026-11-07T15:19:35+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
-     "licence": "linkout",
-     "id": "154908852b78",
-     "category": "money",
-     "category_label": "Money & scams"
     }
    ]
   },
@@ -839,9 +838,48 @@
    "upsc": false,
    "items": [
     {
+     "title": "No clear winner after tight New Zealand general election",
+     "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+     "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+     "published": "2026-11-07T15:56:28+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
+     "licence": "linkout",
+     "id": "6627ae0c0218",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+     "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+     "published": "2026-11-07T21:36:16+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+     "licence": "linkout",
+     "id": "6e31703fcb81",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+     "published": "2026-11-07T23:02:35+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
+     "licence": "linkout",
+     "id": "878739531247",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "New Zealand election 'too close to call' - so who will be next PM?",
      "url": "https://www.bbc.co.uk/news/videos/c6kgl7m1g9m1o?at_medium=RSS&at_campaign=rss",
-     "summary": "With the New Zealand election too tight to call the BBC's Tiffanie Turnbull reports from a Labour Party gathering after an inconclusive night.",
+     "summary": "With the New Zealand election too tight to call, the BBC's Tiffanie Turnbull reports from a Labour Party gathering after an inconclusive night.",
      "published": "2026-11-07T12:40:38+00:00",
      "source": "BBC News",
      "byline": "",
@@ -850,22 +888,6 @@
      "id": "33a0d77ab551",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
-     "url": "https://www.bbc.co.uk/news/articles/c6ly334rem5do?at_medium=RSS&at_campaign=rss",
-     "summary": "Extraordinary scenes of audiences crying leaving theatres after watching the film have been shared on social media.",
-     "published": "2026-11-06T22:59:54+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1489/live/c9303e00-d9eb-11f1-bbe5-797ee05bee69.jpg",
-     "licence": "linkout",
-     "id": "de520f20779b",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "figures": [
-      "18 awards later"
-     ]
     }
    ]
   },
@@ -876,17 +898,46 @@
    "upsc": false,
    "items": [
     {
-     "title": "Presidency University expels student for allegedly defacing Vivekananda poster",
-     "url": "https://www.thehindu.com/news/cities/kolkata/presidency-universityexpels-student-for-allegedly-defacing-vivekananda-poster/article71678327.ece",
-     "summary": "The university also barred an ex-student from the campus; SFI condemns expulsion, ABVP welcomes authority action",
-     "published": "2026-11-07T21:25:09+00:00",
+     "title": "A bridge between past and present",
+     "url": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
+     "summary": "A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contribution to the development of Indian civilization",
+     "published": "2026-11-07T23:12:10+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/szt7h6/article71678332.ece/alternates/LANDSCAPE_1200/6744_7_11_2026_16_33_50_1_01_BIHAR_MUSEUM.JPG",
+     "licence": "linkout",
+     "id": "e38ead8a3e48",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
+     "url": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
+     "summary": "Four young men on Saturday (November 7, 2026), from Bengaluru, travelled about 2,200 km riding on an old auto-rickshaw to reach Areraj town, in East Champaran",
+     "published": "2026-11-07T22:23:43+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "66522a76edad",
+     "id": "0a340da45144",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "2,200 km riding on an old"
+     ]
+    },
+    {
+     "title": "RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi",
+     "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece",
+     "summary": "Mr. Yadav said that Mr. Ragi used the abusive language against Yadav community on behest of Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Janata Party (BJP).",
+     "published": "2026-11-07T22:06:02+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "licence": "linkout",
+     "id": "ddfa306dabc8",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "T.N. government to withdraw G.O. promoting Dr. Ambedkar Law University Registrar as temporary Director of Legal Studies",
@@ -915,52 +966,27 @@
      "category_label": "Crime"
     },
     {
-     "title": "Nallur toll plaza on Kolkata National Highway to be moved to Durainallur",
-     "url": "https://www.thehindu.com/news/cities/chennai/nallur-toll-plaza-on-kolkata-nh-to-be-moved-to-durainallur/article71678789.ece",
-     "summary": "",
-     "published": "2026-11-07T20:09:14+00:00",
+     "title": "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
+     "summary": "As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050; TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh",
+     "published": "2026-11-07T20:50:38+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/1y18y3/article71678993.ece/alternates/LANDSCAPE_1200/DSC_9342.JPG",
      "licence": "linkout",
-     "id": "c8c8c79bda82",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Ten of 11 stations on Kochi metro’s Pink Line to have entry/exit from both sides of road",
-     "url": "https://www.thehindu.com/news/national/kerala/ten-of-11-stations-on-kochi-metros-pink-line-to-have-entryexit-from-both-sides-of-road/article71678672.ece",
-     "summary": "Terminal station at Smart City to have entry/exit only on the right hand side; foot overbridge mulled for members of the public to access the station",
-     "published": "2026-11-07T19:56:28+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/j8zzrr/article71678903.ece/alternates/LANDSCAPE_1200/20261103_175903.jpg",
-     "licence": "linkout",
-     "id": "da3770781507",
-     "category": "general",
-     "category_label": "General",
+     "id": "38bcc7f9888d",
+     "category": "politics",
+     "category_label": "Political controversy",
      "figures": [
-      "11 stations on Kochi metro’s Pink"
+      "229 ZPTCs and 4,823 MPTCs, JSP",
+      "4,823 MPTCs , JSP 36"
      ]
-    },
-    {
-     "title": "Water released from Shenbagathoppu dam due to rain",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/water-released-from-shenbagathoppu-dam-due-to-rain/article71678323.ece",
-     "summary": "Tiruvannamalai Collector Vandhana Garg has warned residents in Cheyyar, Arani, Vandavasi, and Polur towns along Kamandalam Naganathi river against crossing the waterbody as the waterflow in the river is on the rise",
-     "published": "2026-11-07T19:30:13+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/tgpmbv/article71678776.ece/alternates/LANDSCAPE_1200/dam-9.jpeg",
-     "licence": "linkout",
-     "id": "b5a00b10849d",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV8yUXhQblE5d3k0d21Ud0tHRWJ1OHk0Vl9FTDBXQ3B5dWJPRnFzalR4VkNzZ2FnRlpxd2kyS1MzYzJjNjhtUkNpaHVyU1ZBM0tfRm1STHlsRktndzE1cVBXeUt5QmNyQVdZaE9qdDhoU2MzbDFGWk5obEtTNi1Vcm1qcERpcnlSTTJkSjQ4NjBZakNUeVJqUlVGcndBcGZVUjh3?oc=5",
      "summary": "India news: Vehicles major cause of Delhi pollution, top court says DW.com",
-     "published": "2026-11-07T18:56:57+00:00",
+     "published": "2026-11-07T07:32:20+00:00",
      "source": "DW.com",
      "byline": "",
      "image": null,
@@ -1080,7 +1106,8 @@
      "category": "general",
      "category_label": "General"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1461,17 +1488,30 @@
    "upsc": false,
    "items": [
     {
-     "title": "Can New Zealand's new government win over disillusioned voters?",
+     "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+     "published": "2026-11-07T23:02:35+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
+     "licence": "linkout",
+     "id": "878739531247",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-     "summary": "Polling shows the mood among Kiwis is low, with faith in politics even lower - with voters deserting the main parties at the polls.",
+     "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
      "published": "2026-11-07T21:36:16+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
      "licence": "linkout",
      "id": "6e31703fcb81",
-     "category": "general",
-     "category_label": "General"
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
@@ -1503,6 +1543,22 @@
      "category_label": "General"
     },
     {
+     "title": "Exchanging old gold for new jewellery this Diwali? 6 things to check before accepting your jeweller’s valuation | Guide",
+     "url": "https://www.livemint.com/money/personal-finance/exchanging-old-gold-for-new-jewellery-this-diwali-6-things-to-check-before-accepting-your-jeweller-s-valuation-guide-11794066226811.html",
+     "summary": "Exchanging old gold for new jewellery this Diwali? Check six things before accepting your jeweller’s offer, including gold purity, net weight, market rates, melting deductions, making charges and exchange terms to avoid losing money.",
+     "published": "2026-11-07T16:31:26+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/07/600x338/GeminiGenerated_Image_lv2l96lv2l96lv2l_179406636_1794066376307_PrOU_1794066376564_o2B6_60b80984-e95b-488b-bb6b-1008b7742bce_m5C5.png",
+     "licence": "linkout",
+     "id": "2e8c3869214e",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "6 things to check before accepting"
+     ]
+    },
+    {
      "title": "Got salary bonus this Diwali? 5 smart ways to strengthen your finances instead of spending it all - Top ideas to follow",
      "url": "https://www.livemint.com/money/personal-finance/got-salary-bonus-this-diwali-5-smart-ways-to-strengthen-your-finances-instead-of-spending-it-all-top-ideas-to-follow-11794065273833.html",
      "summary": "A Diwali salary bonus can do more than fund festive shopping. From strengthening insurance cover and preparing for upcoming expenses to boosting retirement savings and investing in skills, here are five ways to put the extra money to work.",
@@ -1530,22 +1586,6 @@
      "id": "b17657e6f93f",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "Meghalaya HC denies pension to ex-Assam Rifles rifleman, says voluntary discharge leads to forfeiture of past service",
-     "url": "https://www.livemint.com/money/personal-finance/meghalaya-hc-denies-pension-to-ex-assam-rifles-rifleman-says-voluntary-discharge-leads-to-forfeiture-of-past-service-11794052829928.html",
-     "summary": "The court clarified that an employee cannot claim pensionary benefits under Rule 49(2) merely because he has completed 10 years of qualifying service if Rule 26(1), which provides for forfeiture of past service upon resignation, applies to his case",
-     "published": "2026-11-07T13:39:49+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/07/600x338/pension3_1794057233853_wWNd_1794057233969_1Fqk_fe567cd3-f27d-4cae-baa6-1462c071e289_VOMr.jpg",
-     "licence": "linkout",
-     "id": "15433140d408",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "10 years of qualifying service if"
-     ]
     }
    ]
   },
@@ -1556,6 +1596,19 @@
    "upsc": false,
    "items": [
     {
+     "title": "Can the Zelda remake capture the magic of the original?",
+     "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+     "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+     "published": "2026-11-08T00:37:45+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
+     "licence": "linkout",
+     "id": "b0a43b071977",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Theatre in age of Artificial Intelligence: Can technology help human creativity? (1-2)",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUJjWkxEcWdOejF5OFdabk9YNGNXMUdHVXp5SVAtRDV6bkJPeW00RnRSbVhrTW50bjg4cEpXaFhMMkE5V3VCckJZUnpMTlkwM2FzNGYzcFhtUlVSa25wVDNUMTh0ZnI4UGxMc0hPNXlWeDY5NnBWMF9NYTdhS1JtYWxSdUk1NW5zcThqQjdxWGlIdnVUcU1SelowV3o2TkczVm0tSmNpd3Yta2doVWdrc2UxNWQ3d0dncXc?oc=5",
      "summary": "Theatre in age of Artificial Intelligence: Can technology help human creativity? (1-2) Egyptian Gazette",
@@ -1565,6 +1618,19 @@
      "image": null,
      "licence": "linkout",
      "id": "8be546cabca2",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Pavel Chatterjee's Book Encourages Us to Think, Question and Explore the Unknown on Humanity, Artificial Intelligence and the Mysteries of the Universe",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRzVjSnF0MGRTS3R3b2JlN3daS0xuZnJzblkwa0hZVnEwX3BCYVlfbDVGYmlJbDYwMXVYVmNkSGhZSGdtbnVrUDRIZ2pyVGlab0dUT3BQcWRPN004NXZVN3JaWDRGVUlBM291M3pRY3I4Wk9IOTc4RTM4d2JPQ2U4WkZBajZpX2tRbElGeDFadHpsZW9fdjdQRzRxX2JCM2NOSHJERU9xdjl6ZlRpbU9WR1dXUS1SRkE1Z1JyZVNwSzNndURCdVpHRG13cjl4RXc3QmdLWUplLTNpSXl4ZzE3a1cxRnluT0NWUnhlMkVaeVJHN01IZjZ2cmxScU1VTGwzZlRVYjRIVWtTMzhY?oc=5",
+     "summary": "Pavel Chatterjee's Book Encourages Us to Think, Question and Explore the Unknown on Humanity, Artificial Intelligence and the Mysteries of the Universe IBG News",
+     "published": "2026-11-07T17:16:11+00:00",
+     "source": "IBG News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "c7bbeaee5c41",
      "category": "tech",
      "category_label": "AI & technology"
     },
@@ -1585,30 +1651,20 @@
      ]
     },
     {
-     "title": "«Chernobyl» through the lens of AI: Hinton warns of a global crisis",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWRmWElXUTdpSkV2QXpuMm1YZ2d1SmVBdU05U24xVTFkeS05NFdWUXJiNjI4WlFLTjFKMnhPVVJVdWFTbEVxX210OTduYm02cUh1cHp2NG0zbTEzbzFydktEaWxzNTRQQVg0bUJDeGg0b3F5a1paZVhLb1hSMG54OUxlR1NTVWlu?oc=5",
-     "summary": "«Chernobyl» through the lens of AI: Hinton warns of a global crisis UkrMedia News",
-     "published": "2026-11-07T17:23:58+00:00",
-     "source": "UkrMedia News",
+     "title": "3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTm5mRGZwVVMtUUkxczVrcTBMRmt6eVk3N0VBM0NRZWV0Q1VLZjdvUmtCYVM4bG9ic285SHlDdFRsMnRfV19sdFF0N0ZiS1NObEJMZmpuSkhySXdqcWVuOE9lSEpjdmdlQWJrYXVsNmc4MWNqUWRoU29UU0d0bW4xaE9mT2hDeEZMV0YweExQRnlBRHdqcS03SFRDcTRKX1dYV0JIQmFmUFJabXU3M2x4N3o5TDNETmVJWS04a0xjWmQ?oc=5",
+     "summary": "3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash The Motley Fool",
+     "published": "2026-11-07T14:30:00+00:00",
+     "source": "The Motley Fool",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "81429c346c0e",
+     "id": "4e7db6243046",
      "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Environmental groups embrace AI, even as they warn of data center impacts",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn?oc=5",
-     "summary": "Environmental groups embrace AI, even as they warn of data center impacts Reuters",
-     "published": "2026-11-07T06:07:00+00:00",
-     "source": "Reuters",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "b62efdb7a211",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "category_label": "AI & technology",
+     "figures": [
+      "3 Artificial Intelligence (AI) Stocks I’d"
+     ]
     }
    ]
   },
@@ -1619,88 +1675,60 @@
    "upsc": false,
    "items": [
     {
-     "title": "Carolina Hurricanes’ Jordan Staal Says \"I Would Like To Try\" After Returning To Practice",
-     "url": "https://sports.ndtv.com/us/nhl/carolina-hurricanes-jordan-staal-says-i-would-like-to-try-after-returning-to-practice-12298345#publisher=newsstand",
-     "summary": "Jordan Staal has returned to the ice with the Carolina Hurricanes after missing nearly a month with a torn calf muscle. He hopes to play against the Seattle Kraken in Finland but wants to test his recovery in team practices before making a decision.",
-     "published": "2026-11-07T19:32:53+00:00",
+     "title": "Justin Herbert's Future Takes A Turn As Los Angeles Chargers Reject Trade Offers Amid 0-7 Collapse",
+     "url": "https://sports.ndtv.com/us/nfl/justin-herberts-future-takes-a-turn-as-los-angeles-chargers-reject-trade-offers-amid-0-7-collapse-12298786#publisher=newsstand",
+     "summary": "At 0-7, the Los Angeles Chargers could cash out before the Nov. 10 deadline. Instead, Jim Harbaugh and Joe Hortiz are keeping Justin Herbert, Ladd McConkey and Khalil Mack. Here is why that bet is so bold.",
+     "published": "2026-11-08T01:06:48+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/21nvbh6c_jordan-staal-_625x300_08_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/abmcu14g_justin-herbert_625x300_08_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "de0b4bf7cd8d",
-     "category": "mystery",
-     "category_label": "Mystery & investigation"
-    },
-    {
-     "title": "Arsenal Edge Past Hull To Stretch Premier League Lead",
-     "url": "https://sports.ndtv.com/english-premier-league/arsenal-edge-past-hull-to-stretch-premier-league-lead-12298295#publisher=newsstand",
-     "summary": "Arsenal beat stubborn Hull 1-0 to stretch their lead at the top of the Premier League to six points on Saturday while Tottenham's recent revival was halted by Leeds.",
-     "published": "2026-11-07T18:43:25+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/3vanrrik_arsenal-afp_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "a6446e7dbfd4",
-     "category": "sports",
-     "category_label": "Sports"
-    },
-    {
-     "title": "East Bengal Become First Indian Club To Reach AFC Women's Champions League Knockouts",
-     "url": "https://sports.ndtv.com/football/east-bengal-become-first-indian-club-to-reach-afc-womens-champions-league-knockouts-12298302#publisher=newsstand",
-     "summary": "East Bengal FC suffered a 2-0 defeat against North Korean side 4.25 SC in their final Group B fixture of the AFC Women's Champions League 2026-27 in Kolkata on Saturday but secured a historic place in the quarter-finals.",
-     "published": "2026-11-07T18:37:10+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/oaq5iufk_east-bengal-x-eastbengalfc_625x300_08_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "ff738d2824ea",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "0 defeat against North Korean side"
-     ]
-    },
-    {
-     "title": "Derek Fisher Compares Luka Doncic To Kobe Bryant After Los Angeles Lakers Star's 53-Point Game",
-     "url": "https://sports.ndtv.com/us/nba/derek-fisher-compares-luka-doncic-to-kobe-bryant-after-los-angeles-lakers-stars-53-point-game-12298278#publisher=newsstand",
-     "summary": "Derek Fisher praises Luka Doncic after his 53-point game against the Portland Trail Blazers, comparing the Lakers star’s skills to Kobe Bryant, Elgin Baylor and Jerry West.",
-     "published": "2026-11-07T18:30:15+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/gga56o1k_luka-doncic-reacts-during-the-lakers-win-over-the-miami-heat_625x300_04_November_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "ffc26212df66",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "What Happened To James Hagens? Boston Bruins Rookie Lands On Injured Reserve",
-     "url": "https://sports.ndtv.com/us/nhl/what-happened-to-james-hagens-boston-bruins-rookie-lands-on-injured-reserve-12298205#publisher=newsstand",
-     "summary": "Boston Bruins rookie James Hagens lands on injured reserve after a back injury suffered in their 6-2 win over Pittsburgh on November 5. The team has recalled Michael Eyssimont from AHL Providence with no return timeline set.",
-     "published": "2026-11-07T18:29:38+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/u95s0afo_james-hagens_625x300_07_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "913d079b0bdc",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Connor McDavid Is \"On A Mission To Win A Stanley Cup,\" Wayne Gretzky Says While Praising Oilers Captain",
-     "url": "https://sports.ndtv.com/us/nhl/connor-mcdavid-is-on-a-mission-to-win-a-stanley-cup-wayne-gretzky-says-while-praising-oilers-captain-12298195#publisher=newsstand",
-     "summary": "Wayne Gretzky praised Connor McDavid’s historic start, as the Edmonton Oilers captain is on pace for 217 points, potentially breaking Gretzky’s NHL record of 215.",
-     "published": "2026-11-07T18:29:06+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/2c5e6lu_wayne-gretzky_625x300_07_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "bd41054bd5cd",
+     "id": "0de6fabf20c4",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "217 points , potentially breaking Gretzky’s"
+      "7 Collapse",
+      "10 deadline"
      ]
+    },
+    {
+     "title": "Tyrese Haliburton Injury Update: Rick Carlisle Offers Encouraging Sign as Indiana Pacers Await All-Star's Return",
+     "url": "https://sports.ndtv.com/us/nba/tyrese-haliburton-injury-update-rick-carlisle-shares-latest-on-pacers-star-s-recovery-12298661#publisher=newsstand",
+     "summary": "Tyrese Haliburton remains sidelined with a left hamstring strain, but Rick Carlisle has offered an encouraging update on the Indiana Pacers star’s recovery as he continues rehabilitation in Indianapolis.",
+     "published": "2026-11-08T00:51:34+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-10/a100udgc_tyrese-haliburton-is-out-against-heat_625x300_30_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "07044e464345",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Taylor Swift And Travis Kelce Set Aside Family Rivalry For Their First Christmas Together",
+     "url": "https://sports.ndtv.com/us/nfl/taylor-swift-and-travis-kelce-set-aside-family-rivalry-for-their-first-christmas-together-12298708#publisher=newsstand",
+     "summary": "Taylor Swift and Travis Kelce face their first Christmas dilemma as newlyweds, with the couple reportedly planning to bring both families together to avoid choosing sides.",
+     "published": "2026-11-08T00:51:05+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/qbjdqc8s_travis-kelce-taylor-swift_625x300_08_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "11543259e014",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Hailee Steinfeld Drops Unexpected Josh Allen Bombshell After Halloween Bash",
+     "url": "https://sports.ndtv.com/us/nfl/hailee-steinfeld-drops-unexpected-josh-allen-bombshell-after-halloween-bash-12298722#publisher=newsstand",
+     "summary": "Hailee Steinfeld playfully called out Josh Allen in her newsletter, revealing why they waited until marriage to dress as the King and Queen of Hearts at their Halloween party.",
+     "published": "2026-11-08T00:49:38+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/jj8rng2_hailee-steinfeld-josh-allen_625x300_08_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "2293cd727218",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
