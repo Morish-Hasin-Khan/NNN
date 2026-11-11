@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T23:48:11.467952+00:00",
+ "generated_at": "2026-11-11T03:25:38.972908+00:00",
  "podcasts_fetched_at": "2026-11-09T10:30:27.370496+00:00",
  "markets": [
   {
@@ -69,7 +69,8 @@
    "value": 91.82,
    "change": -6.47,
    "changePct": -6.58,
-   "decimals": 2
+   "decimals": 2,
+   "stale": true
   },
   {
    "key": "btc",
@@ -78,20 +79,21 @@
    "value": 73691.0,
    "change": -2056.0,
    "changePct": -2.71,
-   "decimals": 0
+   "decimals": 0,
+   "stale": true
   }
  ],
  "topics": [
-  "Arrested Raping",
-  "House Republicans",
+  "Army President",
+  "Meghan Thomas",
   "Jazeera English",
   "News",
   "Scandals & Investigations",
   "State Dept",
-  "Producers",
-  "Bombay High",
-  "Fire Iran",
-  "Massive Israeli"
+  "Akali Waris",
+  "Salvador Haitian",
+  "House Epstein",
+  "Malaysia"
  ],
  "sections": [
   {
@@ -101,41 +103,35 @@
    "upsc": false,
    "items": [
     {
-     "title": "Man Arrested For Raping Woman, Filming Incident In UP: Cops",
-     "url": "https://www.ndtv.com/india-news/man-arrested-for-raping-woman-filming-incident-in-ups-vrindavan-cops-12310322#publisher=newsstand",
-     "summary": "Police have arrested man for allegedly raping a woman and filming the act on his mobile phone in the Vrindavan Kotwali area of Mathura district after promising to secure her a house under the Pradhan Mantri Awas Yojana, officials said on Tuesday.",
-     "published": "2026-11-10T23:10:56+00:00",
-     "source": "NDTV",
+     "title": "Army jawan posted with President’s Bodyguard shot in U.P.; condition stable",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/army-jawan-posted-with-presidents-bodyguard-shot-in-up-condition-stable/article71688180.ece",
+     "summary": "Incident took place on Deepavali night in Baghpat; efforts on by three police teams to nab two accused who remain at large",
+     "published": "2026-11-11T03:09:25+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2024-07/oia0qjtg_police-generic_625x300_30_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "5fa61c43b1e6",
+     "id": "c128cc893fda",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "President's Bodyguard Jawan Shot In Head Over Firecracker Dispute In UP",
+       "url": "https://www.ndtv.com/india-news/presidents-bodyguard-jawan-shot-in-head-over-firecracker-dispute-in-up-baghpat-12310488#publisher=newsstand",
+       "summary": "Saurabh, 26, was recruited into the Army in 2021 and is currently posted at the Rashtrapati Bhavan as part of the President's Bodyguard, the oldest and senior-most cavalry regiment in the Indian Army."
+      }
+     ],
      "category": "crime",
      "category_label": "Crime",
      "from_section": "National News"
     },
     {
-     "title": "US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
-     "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-     "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
-     "published": "2026-11-10T22:36:14+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af39ab1-1794349745.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "a0a5f902d6ab",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-     "published": "2026-11-10T22:17:45+00:00",
+     "published": "2026-11-11T02:41:16+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
      "licence": "linkout",
      "id": "c8155dccf0da",
      "category": "crime",
@@ -143,80 +139,124 @@
      "from_section": "Global News"
     },
     {
-     "title": "Russia expels Moldovan diplomat in tit-for-tat move",
-     "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
-     "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
-     "published": "2026-11-10T22:41:07+00:00",
-     "source": "Al Jazeera",
+     "title": "Van Dyke threatens to ‘reveal shocking details’ of his arrest, incarceration in India, blames Russia",
+     "url": "https://www.thehindu.com/news/national/van-dyke-threatens-to-reveal-shocking-details-of-arrest-with-6-ukrainians-in-india-blames-russia/article71686582.ece",
+     "summary": "MEA declines comment, says courts still hearing case; Mr. Van Dyke was arrested in March along with six Ukrainians, who crossed from Myanmar to Mizoram after allegedly training ethnic armed groups there",
+     "published": "2026-11-11T01:47:05+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251202__86U23WE__v1__MidRes__RussiaUkraineConflictUs-1764818605.jpg?resize=1200%2C630",
+     "image": "https://th-i.thgim.com/public/incoming/jf5moo/article71686689.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
      "licence": "linkout",
-     "id": "f19028c7366b",
+     "id": "74c831b6bedd",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "‘Ramayana’ movie battle sequence triggers viral interest in Keralam’s Jatayu Earth Center",
+     "url": "https://www.thehindu.com/news/national/kerala/ramayana-movie-battle-sequence-triggers-viral-interest-in-keralams-jatayu-earth-center/article71686108.ece",
+     "summary": "The spectacular depiction of Ravana-Jatayu war in Ramayana: Part 1 has sparked global interest, turning Chadayamangalam’s Jatayu Earth Center into a viral trending destination across social media and travel vlogs",
+     "published": "2026-11-11T03:07:55+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/kferci/article71686178.ece/alternates/LANDSCAPE_1200/11tvko-%20Jatayu%201.jpg",
+     "licence": "linkout",
+     "id": "7a35543dbbe4",
      "category": "conflict",
      "category_label": "War & conflict",
-     "from_section": "Global News"
+     "from_section": "National News"
     },
     {
-     "title": "French far-right author Zemmour launches second presidential bid",
-     "url": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-     "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
-     "published": "2026-11-10T23:23:12+00:00",
+     "title": "El Salvador fires missiles on Haitian gang hideout",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
+     "summary": "El Salvador’s military fired rockets at a compound allegedly belonging to the leader of Haiti’s 400 Mawozo gang.",
+     "published": "2026-11-11T03:00:23+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af399abae-1794349483.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794365983.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "f52aa4165c94",
+     "id": "46e7df034c98",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News",
+     "figures": [
+      "400 Mawozo gang"
+     ]
+    },
+    {
+     "title": "Coco Gauff Upset At WTA Finals, Jessica Pegula Back On Track",
+     "url": "https://sports.ndtv.com/tennis/gauff-upset-at-wta-finals-pegula-back-on-track-12310352#publisher=newsstand",
+     "summary": "Wimbledon champion Linda Noskova upset Coco Gauff to storm into the last four of the WTA Finals at Indian Wells on Tuesday as Jessica Pegula reignited her challenge with victory over Ukraine's Marta Kostyuk.",
+     "published": "2026-11-11T02:42:45+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/ljnma0e_coco-gauff-getty_625x300_11_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "e8388bcb656e",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Sports"
+    },
+    {
+     "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+     "summary": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
+     "published": "2026-11-11T02:12:22+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794363073.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "860cf1862783",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "Global News"
     },
     {
-     "title": "Bihar Cabinet hikes 3% DA for employees, pensioners",
-     "url": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece",
-     "summary": "The Cabinet approved the “Bihar Ki Beti Startup Challenge Scheme”, under which, 2,100 female students may be provided benefits beginning from the current financial year",
-     "published": "2026-11-10T21:42:24+00:00",
-     "source": "The Hindu",
+     "title": "Poll Body Rejects Rigging Claims In 2024 Haryana, Maharashtra Elections",
+     "url": "https://www.ndtv.com/india-news/poll-body-rejects-rigging-claims-in-2024-haryana-maharashtra-elections-12310498#publisher=newsstand",
+     "summary": "The Election Commission of India (ECI) sources have firmly rejected allegations of vote mismatches and possible rigging in the 2024 Haryana Assembly elections.",
+     "published": "2026-11-11T01:45:30+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://c.ndtvimg.com/2026-02/1gjn1meg_election-commission-of-india_625x300_27_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "203f6914eda4",
+     "id": "f7f9af1592c9",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "2,100 female students may be provided"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "Hemant Soren recommends CBI probe into Nisha Bhagat’s death case",
-     "url": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-recommends-cbi-probe-into-nisha-bhagats-death-case/article71687391.ece",
-     "summary": "Leader of the Opposition in Jharkhand Legislative Assembly Babulal Marandi on November 7 demanded a CBI investigation into the death of social activist Nisha Bhagat",
-     "published": "2026-11-10T21:37:28+00:00",
-     "source": "The Hindu",
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+     "published": "2026-11-11T01:14:40+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
      "licence": "linkout",
-     "id": "dfee279ccb7b",
+     "id": "fb5573ea532c",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "7 demanded a CBI investigation into"
-     ]
+     "from_section": "Global News"
     },
     {
-     "title": "Producers welcome proposal for minimum sustainable price for tea",
-     "url": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece",
-     "summary": "Tea Board of India has recommended a proposal to the Ministry of Commerce to implement minimum sustainable price (MSP) for tea. Several stake holders said that MSP is essential for long-term sustainability of the industry",
-     "published": "2026-11-10T22:30:20+00:00",
-     "source": "The Hindu",
+     "title": "Bank holiday today November 11 Wednesday: Branches closed in these 5 states — Full list and reasons behind no banking",
+     "url": "https://www.livemint.com/money/personal-finance/bank-holiday-today-november-11-wednesday-branches-closed-in-these-5-states-full-list-and-reasons-behind-no-banking-11794357208229.html",
+     "summary": "Bank branches will remain closed in 6 cities across five states on 11 November due to regional festivals. Check the complete list of affected cities, the reasons behind the closures and which banking services customers can access today.",
+     "published": "2026-11-11T01:07:24+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/11/600x338/bank_holdi_1794358638995_s1nL_1794358648907_Afbr_f01355fc-824b-43e4-8356-857a0672e5c1_ZO2c.png",
      "licence": "linkout",
-     "id": "e6afb538bb64",
+     "id": "2662dbc94cbe",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "National News"
+     "from_section": "Business",
+     "figures": [
+      "11 Wednesday : Branches closed",
+      "5 states — Full list",
+      "6 cities across five states"
+     ]
     },
     {
      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -250,6 +290,48 @@
      ]
     },
     {
+     "title": "8th Pay Commission: Will central government employees get salary hike in 2027? What 1 January 2026 effective date means",
+     "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-central-government-employees-get-salary-hike-in-2027-what-1-january-2026-effective-date-means-11794360983589.html",
+     "summary": "The 8th Pay Commission has until May 2027, to submit its recommendations. But will central government employees receive revised salaries in 2027? Know the expected timeline, government approval process, possible 1 January 2026 effective date and fitment factor.",
+     "published": "2026-11-11T02:24:39+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/11/600x338/eight_1794363685904_pnlK_1794363692768_2xe7_0db53df5-a073-4ab8-a441-7f1ecd356e41_V7hp.png",
+     "licence": "linkout",
+     "id": "5cac0297dcba",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Business"
+    },
+    {
+     "title": "Taylor Swift And Travis Kelce Reportedly Struggle With First Christmas Decision As Newlyweds",
+     "url": "https://sports.ndtv.com/us/nfl/taylor-swift-and-travis-kelce-reportedly-struggle-with-first-christmas-decision-as-newlyweds-12310344#publisher=newsstand",
+     "summary": "Taylor Swift and Travis Kelce reportedly face a Christmas dilemma as newlyweds but may have found a way to keep both families happy during their first holiday together.",
+     "published": "2026-11-11T01:52:04+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/588srm0g_travis-kelce-taylor-swift_625x300_11_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "227a434c218e",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Sports"
+    },
+    {
+     "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+     "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+     "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+     "published": "2026-11-11T00:02:07+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+     "licence": "linkout",
+     "id": "e6d5fed90ea7",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Business"
+    },
+    {
      "title": "Cerys Matthews pays tribute to her family as she receives OBE",
      "url": "https://www.bbc.co.uk/news/articles/cqp8g8gl1y7ro?at_medium=RSS&at_campaign=rss",
      "summary": "Matthews was behind the Welsh rock band Catatonia who shot to fame during the \"Cool Cymru\" movement of the 1990s.",
@@ -264,136 +346,91 @@
      "from_section": "Culture"
     },
     {
-     "title": "Amber alert as Scotland faces blood donation shortages",
-     "url": "https://www.bbc.co.uk/news/articles/c678p8yz0k38o?at_medium=RSS&at_campaign=rss",
-     "summary": "An amber alert has been issued after stockpiles of blood fell below target several times in recent months",
-     "published": "2026-11-10T11:30:32+00:00",
+     "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+     "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+     "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+     "published": "2026-11-11T00:18:07+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2cf/live/342559b0-dcf4-11f1-9ef0-4b5930e2f80e.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg",
      "licence": "linkout",
-     "id": "5c3a9b721ad5",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Health & Science"
+     "id": "7afea9ada6dd",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Global News"
     },
     {
-     "title": "I almost died after a toothache led to sepsis and a rare heart condition",
-     "url": "https://www.bbc.co.uk/news/articles/ckr5ypqrjj32o?at_medium=RSS&at_campaign=rss",
-     "summary": "Doctors told Danny Ellis it was a \"miracle\" he was alive after his first heart surgery failed.",
-     "published": "2026-11-10T05:59:20+00:00",
+     "title": "Robot vessels take on the dangerous work of mine hunting",
+     "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+     "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+     "published": "2026-11-11T00:19:13+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a446/live/11099240-d478-11f1-9dda-1ba6fcc7d159.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
      "licence": "linkout",
-     "id": "ec63c511f5eb",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Health & Science"
-    },
-    {
-     "title": "Top 5 Artificial Intelligence Applications in the FinTech Industry",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGhWWl9lTkJIQm1IeVVXejY1T2RkUW1pT0U3MXdQR0JocWtBSTdIX3dJZjBWY1RMcU9rdEg1Z2JaRHNtSm9YbTV5ZFFpQVNZUF9hamFLUThYcURZYWlyLU9HNHYwMUduUlN3S0hnUHdxOFkzeVIxcXFjQ20yTHowbUx4dTcxUnYtM2c3aFJscmFfWW1GUW4tRUp4eXQtQVBCT1RoSjF3?oc=5",
-     "summary": "Top 5 Artificial Intelligence Applications in the FinTech Industry Nasscom",
-     "published": "2026-11-10T09:54:51+00:00",
-     "source": "Nasscom",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "a51352540506",
-     "also": [
-      {
-       "source": "صوت الإمارات",
-       "title": "Macron calls for a ban on artificial intelligence applications that threaten children's mental health",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnBnNjh2MGRwRUVHZnM1eU1na05PTmRvNFRmSlVNSnhXeWZFNXdWLWdSRDZBMGI4SVU3VmNReEloWlRHV3l1ZG1KLVE2Yjh1QmxTUFhxY2VHMUVmVFlfcHF4VU5oSWlhSGtuUUZ1UHd5ZUViTHJyalNuajUzQ2ZYNG5JZEx0MGhTelNSMXA4YWt3RFRxTkt0cUFCR0h6eVBwSVROM3MtSC1tM3dMVUJ5YlpYVVFtVjVCOTNNbmFuZVBTSUFjVi0zanRCUlQ0Nmt2UGRCcExaTXItWkFkTTFBaG5iTXhEaVU?oc=5",
-       "summary": "Macron calls for a ban on artificial intelligence applications that threaten children's mental health صوت الإمارات"
-      }
-     ],
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology",
-     "figures": [
-      "5 Artificial Intelligence Applications"
-     ]
-    },
-    {
-     "title": "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
-     "summary": "Directorate of Traffic Management and Road Safety to be set up at Mangalagiri; ₹31,387-crore green integrated AI data centre proposed by AM Intelligence at Amanam in Visakhapatnam district cleared",
-     "published": "2026-11-10T21:19:51+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/389odw/article71686788.ece/alternates/LANDSCAPE_1200/10745_10_11_2026_19_42_22_1_IMG_20261110_WA0067.JPG",
-     "licence": "linkout",
-     "id": "529f2258df2d",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "National News",
-     "figures": [
-      "₹31,387 -crore green integrated AI"
-     ]
-    },
-    {
-     "title": "Macron calls for a ban on artificial intelligence applications that threaten children's mental health",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnBnNjh2MGRwRUVHZnM1eU1na05PTmRvNFRmSlVNSnhXeWZFNXdWLWdSRDZBMGI4SVU3VmNReEloWlRHV3l1ZG1KLVE2Yjh1QmxTUFhxY2VHMUVmVFlfcHF4VU5oSWlhSGtuUUZ1UHd5ZUViTHJyalNuajUzQ2ZYNG5JZEx0MGhTelNSMXA4YWt3RFRxTkt0cUFCR0h6eVBwSVROM3MtSC1tM3dMVUJ5YlpYVVFtVjVCOTNNbmFuZVBTSUFjVi0zanRCUlQ0Nmt2UGRCcExaTXItWkFkTTFBaG5iTXhEaVU?oc=5",
-     "summary": "Macron calls for a ban on artificial intelligence applications that threaten children's mental health صوت الإمارات",
-     "published": "2026-11-10T19:27:40+00:00",
-     "source": "صوت الإمارات",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "d5729f668d96",
+     "id": "87a3474e76dd",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "R Praggnanandhaa Exclusive: No Favourites In Total Chess, New Format Puts Everyone On Equal Footing",
-     "url": "https://sports.ndtv.com/chess/r-praggnanandhaa-exclusive-no-favourites-in-total-chess-new-format-puts-everyone-on-equal-footing-12309959#publisher=newsstand",
-     "summary": "Eight of World's top 10 players are competing in this week's Total Chess tournament in Budapest, an initiative of Norway Chess to find the best player in the World",
-     "published": "2026-11-10T18:39:09+00:00",
-     "source": "NDTV Sports",
+     "title": "Darbar Move: A Visionless Step in the Age of IT and Artificial Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjNZRXF1UXBvRUVvSGw2UDhMYThualExa1U2TURxTXlzamR6d3lpN25lcDE3NWpnREhPcVNpLWtydkpfTkp6UmExczlpTmtPLWhDbGVhT0tXOFFPV3hLb25PdzZwOHpPZldkcG0wVGgtV013WHhuSGRDZlJSbnl0MXIxNEdfdTB3dERwVjk1c25uRl9pV3gxVFdWdlgwX3hIbXJpcFluWS1kcUpDSVE?oc=5",
+     "summary": "Darbar Move: A Visionless Step in the Age of IT and Artificial Intelligence Kashmir News Service",
+     "published": "2026-11-10T16:51:30+00:00",
+     "source": "Kashmir News Service",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/mnuv7n44_praggnanandhaa_625x300_05_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": null,
      "licence": "linkout",
-     "id": "02f1b0ecf5b7",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "10 players are competing in this"
-     ]
+     "id": "a18bcac4de2f",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
     },
     {
-     "title": "Boxers Lairenlakpam Ambekar Meetei, Gunjan Assure India Of Medal At Youth Olympics",
-     "url": "https://sports.ndtv.com/boxing/lairenlakpam-ambekar-meetei-assures-india-of-medal-at-youth-olympics-12308708#publisher=newsstand",
-     "summary": "Boxer Lairenlakpam Ambekar Meetei on Tuesday assured India of a medal in the Youth Olympic Games here, defeating Namibia's Abraham Kalenga to advance to the semifinals of the men's 50kg category.",
-     "published": "2026-11-10T18:24:25+00:00",
-     "source": "NDTV Sports",
+     "title": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 10 November By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUUNOU254bzhYNm55bXJwampMdlZwVTMxaHNRMmlmMjdULWI1dGhiUFJIUXNlNE5MLW1WZkJmYlNXb1BFZ2EtRVY2bHBfc0pJQTZ5dVNweVRZM1NxenFFcTV0dVU4dndScTBTU055UjVwY3NUbml5YmpZRTRLblZHRDNQNWI3ZzJsbGtybElOWTh6MFl6ckF6S0dXOEFKMmJ5R1YxMWE5NkFGT1Zmb0MzVmg1Y21iN3BHc3Y0NzhONDJnS0EtWDBtelZJRkc3TjFZY2hHcUpLcnRxblhPeW5RamtBa0JIaEQ5VFBUX0RRSHg3OVNMaWFoYjNEUnd5UURZS1ZVTG9wNnhGZjQ?oc=5",
+     "summary": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 10 November By Investing.com Investing.com India",
+     "published": "2026-11-10T13:34:42+00:00",
+     "source": "Investing.com India",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/q6ladl6k_-lairenlakpam-ambekar-meetei_625x300_10_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": null,
      "licence": "linkout",
-     "id": "afcf8dca0aa1",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports",
-     "figures": [
-      "50kg category"
-     ]
+     "id": "26480dbb4a36",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
     },
     {
-     "title": "Sunil Gavaskar Rejects Early 2027 World Cup Talk Amid Mohammed Siraj Debate",
-     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/sunil-gavaskars-blunt-take-on-buzz-around-indias-2027-world-cup-squad-we-are-making-the-mistake-that-happens-in-england-always-12308701#publisher=newsstand",
-     "summary": "In the playing XI for the 3rd ODI against New Zealand, Anshul Kamboj, Auqib Nabi, Gurnoor Brar, and Arshdeep Singh were the pacers. Mohammed Siraj is also part of the squad",
-     "published": "2026-11-10T17:57:41+00:00",
+     "title": "'True Great' Harry Kane Set To Break England Appearance Record",
+     "url": "https://sports.ndtv.com/football/true-great-kane-set-to-break-england-appearance-record-12310586#publisher=newsstand",
+     "summary": "England captain Harry Kane is set to cap his golden year by breaking the Three Lions' appearance record in Thursday's Nations League clash with Croatia.",
+     "published": "2026-11-11T02:56:19+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/3qlsbfgs_sunil-gavaskar_625x300_05_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/9aamuen_harry-kane-getty_625x300_11_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "2f90c3b03774",
+     "id": "b7496ca9b349",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
+    },
+    {
+     "title": "Over 74 lakh voters missing from Tamil Nadu electoral rolls, says citizens’ collective",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/over-74-lakh-voters-missing-from-tamil-nadu-electoral-rolls-says-citizens-collective/article71685695.ece",
+     "summary": "The collective has announced a rally on Anna Salai on November 26, as part of a nationwide day of action against the Special Intensive Revision of electoral rolls",
+     "published": "2026-11-11T02:03:46+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/h18pfa/article71686959.ece/alternates/LANDSCAPE_1200/4871_10_11_2026_17_27_33_1_DSC_5508.JPG",
+     "licence": "linkout",
+     "id": "9e5c7330a621",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "National Hotlines",
+     "figures": [
+      "74 lakh voters missing from Tamil"
+     ]
     },
     {
      "title": "DGTR suo motu initiates probe into dumping of aluminium products from China, Malaysia, Vietnam",
@@ -437,7 +474,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-11-10T23:47:59.646712+00:00",
+     "published": "2026-11-11T03:25:24.296828+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -448,7 +485,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-11-10T23:47:59.646725+00:00",
+     "published": "2026-11-11T03:25:24.296842+00:00",
      "image": "https://static.dw.com/image/47219195_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -459,7 +496,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-11-10T23:47:59.646729+00:00",
+     "published": "2026-11-11T03:25:24.296844+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -470,7 +507,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-11-10T23:47:59.646732+00:00",
+     "published": "2026-11-11T03:25:24.296847+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -481,7 +518,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-11-10T23:47:59.646735+00:00",
+     "published": "2026-11-11T03:25:24.296848+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -492,7 +529,7 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-11-10T23:47:59.646738+00:00",
+     "published": "2026-11-11T03:25:24.296850+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -545,29 +582,8 @@
      "image": null,
      "licence": "linkout",
      "id": "e67f89c38415",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Hemant Soren recommends CBI probe into Nisha Bhagat’s death case",
-       "url": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-recommends-cbi-probe-into-nisha-bhagats-death-case/article71687391.ece",
-       "summary": "Leader of the Opposition in Jharkhand Legislative Assembly Babulal Marandi on November 7 demanded a CBI investigation into the death of social activist Nisha Bhagat"
-      }
-     ],
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Health department to probe allegations of medical negligence at North Paravur Government Taluk Hospital",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa21KYVZ1UXZvUnJPMHlnYzlDVVR4enhISURRUVR5QW1CeTV0MElkOTRvVnFTYnVLSGNxS05ISTJ3THp1Rmh4eGE3cDBuTm5ocm9lcWFIUTNHTlhaSGd4eWU2WWdISjhxYTBwTDZVUFNnODN6Zzdsc0I5U0I3TXFuX0NicVBENlBNUFFScUI1MXNUSUJvbWI0dzlFdzFzX3h6Z0laWThiODZrN1ZsbHV3TkNzRlZlbUdwWXh4Y0VRWjlBRlctS0duYWdMcWRRUlBnRG5aaS1Vb0p4NTZnb1gwa3lWLUp5QVA5ZWpOM1lxdjl3TWpJaUxzVzNBSUFQQdIBhAJBVV95cUxNb29WNWdrN1pVam1CMmFoRHdyZFRybHVMZVJEdE5iLW5URlNXM3NEOGJzbkI2cVZrU05RcmhHRzlyZ1NZNWZQZ3JCaTNjS2hkYXV2WjFzcHc4NGprRmtBamdUQUpCcWxSSFAyQ0JzeVhPb1o5VG5KanBoWFBtamhMUmR0LU5DRkNLZEtYVktJdmhkOTBKYU9TajdGOHBTa2xNOTJXRTdrY3QwWkdFYmdfLXR3WkxMMjRLMWFOWHJyMzJmUWQzdmw1TFNUR2prVl9QcC1ZT1A3U2FrM3NqSzg0T25mSXVqQnVmMjZLRHBJZHR3Nzd6TjRwOUdEWE9sbTZwWWNiUQ?oc=5",
-     "summary": "Health department to probe allegations of medical negligence at North Paravur Government Taluk Hospital The Hindu",
-     "published": "2026-11-10T13:44:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "57a674d0ffbb",
-     "category": "politics",
-     "category_label": "Political controversy"
     },
     {
      "title": "Nvidia-Megaspeed ties face scrutiny over reported 50,000-chip gap",
@@ -596,6 +612,19 @@
      "category_label": "Political controversy"
     },
     {
+     "title": "Sanskrit University appointments row: After Kerala govt's audit, Governor's intervention sought",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG9ZbVc3eThCN2ZVNFNnMXZxbFR2ME16ald0VWNydlZSR1FmczZ1MmVMSHI1LVdnMWRfUnhiTmlwSUYwTXN1UmFKcXplaUZxN0wyaHdRWXRwNnI0VzNKWlpzbVhta0JraFNNcTNWTmJRS1A3anlZcF9FemE3WVkyV2l4dnQ5TFk5VVFNelRaeHlLSk5hSG90aWlSejdjS3FXYjhWWjlhdWpieUZiMklCYmhYUlpqSDVhT0hHU0tkUDRhd3QtczNtZjZDckdlcG1FRVFxSkxQLUM?oc=5",
+     "summary": "Sanskrit University appointments row: After Kerala govt's audit, Governor's intervention sought The Hawk",
+     "published": "2026-11-10T05:37:34+00:00",
+     "source": "The Hawk",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "94aa52db2449",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "109 arrested in cyber fraud cases in Karnal; over Rs 3.54 crore returned to victims",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGdGNHJ5anE3d1RvLWh4b2k4SHFNOWJ3YUJOR01TMS1sc3dlTkt6YktwSEg1TlYzX0paRmpMeDNZM1l0Uk9Pci1sa1BKR2M0NUp5cmVsSVZRUnNNVmhvWXdIRVk4cTRWZWtwVWlseE1jOUdmZ3EzRzM0Z3RGNGNEN1pJOXRRS1pKRVdfSURlWFpGeDZpMWh2RjJmczlWV0M3Q1ducFFiNFV3SC1oVlQyMGNZdVlVZndCRXBkckdHTmxRaVnSAccBQVVfeXFMTWRvLUNIYVRaN2VYTHBQWlBQTU10Y3B3elNsQldQVF8zVUlsYnMzZFM0VlRXZmdDVC0yMFY3cDRiSloyVUktUkFLZzZMWTBjTDc4OE1RZW1Xa3QyUmtScVVkUlIwcnVuRW1JQV9wVzFFMkg0aTR6QklOVU01bmkxU3ljS0VZNzczck9EajFUanZNVlJrQ2dXSWNNSG9zZnRNYTYtcWk0aGo0eXVBN2NoVmdVbmNNTjI3MGJXaExRdlh1eEd3TVJrOA?oc=5",
      "summary": "109 arrested in cyber fraud cases in Karnal; over Rs 3.54 crore returned to victims The Tribune",
@@ -621,96 +650,132 @@
    "upsc": false,
    "items": [
     {
-     "title": "Producers welcome proposal for minimum sustainable price for tea",
-     "url": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece",
-     "summary": "Tea Board of India has recommended a proposal to the Ministry of Commerce to implement minimum sustainable price (MSP) for tea. Several stake holders said that MSP is essential for long-term sustainability of the industry",
-     "published": "2026-11-10T22:30:20+00:00",
+     "title": "ECI got grave, sensitive objection on registration of Akali Dal (Waris Punjab De), Delhi HC told",
+     "url": "https://www.thehindu.com/news/national/punjab/eci-got-grave-sensitive-objection-on-registration-of-akali-dal-waris-punjab-de-delhi-hc-told/article71688179.ece",
+     "summary": "The ECI said when the commission issued reminders to the CEO, Punjab to expedite the field verification reports, the CEO submitted a positive verification report in April which was under active consideration",
+     "published": "2026-11-11T03:22:20+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/csio3e/article71688215.ece/alternates/LANDSCAPE_1200/20261008394L.jpg",
      "licence": "linkout",
-     "id": "e6afb538bb64",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation",
-     "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
-     "summary": "",
-     "published": "2026-11-10T22:24:48+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d1c9b066dc52",
+     "id": "57ef095b1796",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Bihar Cabinet hikes 3% DA for employees, pensioners",
-     "url": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece",
-     "summary": "The Cabinet approved the “Bihar Ki Beti Startup Challenge Scheme”, under which, 2,100 female students may be provided benefits beginning from the current financial year",
-     "published": "2026-11-10T21:42:24+00:00",
+     "title": "Army jawan posted with President’s Bodyguard shot in U.P.; condition stable",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/army-jawan-posted-with-presidents-bodyguard-shot-in-up-condition-stable/article71688180.ece",
+     "summary": "Incident took place on Deepavali night in Baghpat; efforts on by three police teams to nab two accused who remain at large",
+     "published": "2026-11-11T03:09:25+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "203f6914eda4",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "c128cc893fda",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "President's Bodyguard Jawan Shot In Head Over Firecracker Dispute In UP",
+       "url": "https://www.ndtv.com/india-news/presidents-bodyguard-jawan-shot-in-head-over-firecracker-dispute-in-up-baghpat-12310488#publisher=newsstand",
+       "summary": "Saurabh, 26, was recruited into the Army in 2021 and is currently posted at the Rashtrapati Bhavan as part of the President's Bodyguard, the oldest and senior-most cavalry regiment in the Indian Army."
+      }
+     ],
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "‘Ramayana’ movie battle sequence triggers viral interest in Keralam’s Jatayu Earth Center",
+     "url": "https://www.thehindu.com/news/national/kerala/ramayana-movie-battle-sequence-triggers-viral-interest-in-keralams-jatayu-earth-center/article71686108.ece",
+     "summary": "The spectacular depiction of Ravana-Jatayu war in Ramayana: Part 1 has sparked global interest, turning Chadayamangalam’s Jatayu Earth Center into a viral trending destination across social media and travel vlogs",
+     "published": "2026-11-11T03:07:55+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/kferci/article71686178.ece/alternates/LANDSCAPE_1200/11tvko-%20Jatayu%201.jpg",
+     "licence": "linkout",
+     "id": "7a35543dbbe4",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Delhi SIR: Why BJP BLAs’ voter deletion applications in Mustafabad focused on three neighbourhoods",
+     "url": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-why-bjp-blas-voter-deletion-applications-in-mustafabad-focused-on-three-neighbourhoods/article71685998.ece",
+     "summary": "796 Form 7 applications against Muslims, filed by 20 BJP BLAs, concentrated on the rolls of 25 polling booths in Mustafabad. However, BJP claims it has not directed the filing of these applications",
+     "published": "2026-11-11T02:22:54+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/6au36q/article71688155.ece/alternates/LANDSCAPE_1200/265424.jpg",
+     "licence": "linkout",
+     "id": "0ee6e23f0402",
+     "category": "general",
+     "category_label": "General",
      "figures": [
-      "2,100 female students may be provided"
+      "796 Form 7 applications against Muslims",
+      "7 applications against Muslims, filed",
+      "25 polling booths in Mustafabad"
      ]
     },
     {
-     "title": "IndiGo Extends Suspensions Of Saudi Flights Amid Security Concerns",
-     "url": "https://www.ndtv.com/india-news/indigo-extends-suspensions-of-saudi-arabia-flights-amid-security-concerns-12310204#publisher=newsstand",
-     "summary": "The airline stated that the operational adjustments were made following a comprehensive review of the security environment to ensure the safety of passengers and aircraft personnel.",
-     "published": "2026-11-10T21:08:19+00:00",
-     "source": "NDTV",
+     "title": "Domestic rooftop solar installations in T.N. remain low due to policy challenges, say consumers",
+     "url": "https://www.thehindu.com/news/cities/Coimbatore/domestic-rooftop-solar-installations-in-tn-remain-low-due-to-policy-challenges-say-consumers/article71686375.ece",
+     "summary": "A.D. Thirumurthi, advisor of the National Solar Energy Federation of India, says the consumers should be exempted from network charges for rooftop solar",
+     "published": "2026-11-11T02:09:49+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/17h56oto_i-indigo-flight_625x300_24_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://th-i.thgim.com/public/incoming/gphaym/article71686443.ece/alternates/LANDSCAPE_1200/Solart%201.jpg",
      "licence": "linkout",
-     "id": "e0212693d0a2",
+     "id": "15b654785744",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Suvendu Adhikari Visits Kali Puja Of Mamata Banerjee's Estranged brother",
-     "url": "https://www.ndtv.com/india-news/suvendu-adhikari-visits-kali-puja-of-mamata-banerjees-estranged-brother-12309736#publisher=newsstand",
-     "summary": "Since the political shift in Bengal, Babun Banerjee has consistently maintained that he remains aligned with the BJP.",
-     "published": "2026-11-10T19:19:16+00:00",
+     "title": "Post-Mortem Confirms Punjab Man Died Of Drug Overdose, Akali Dal Slams AAP",
+     "url": "https://www.ndtv.com/india-news/post-mortem-confirms-punjab-man-died-of-drug-overdose-akali-dal-slams-aap-12310576#publisher=newsstand",
+     "summary": "Daljit Singh lived in Bhamme Kalan village and was found dead in fields near Ramanandi. Since the news of his death broke, his family suspected that he died of a drug overdose",
+     "published": "2026-11-11T02:24:08+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/irl36hbo_suvendu-adhikari_625x300_11_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/8liq6soo_drug-punjab-mansa_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "be489dc49247",
+     "id": "63f39c19d6c2",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "\"Blatantly Political\": India Rejects US Body's Remarks On Gurdwara Attacks",
-     "url": "https://www.ndtv.com/india-news/blatantly-political-india-rejects-us-body-uscirf-remarks-on-gurdwara-attacks-12308202#publisher=newsstand",
-     "summary": "USCIRF Commissioner David Anderson had said on social media: \"Over the last several weeks, Sikh gurdwaras in India have been targeted with vigilante attacks, including attempts to harm religious leaders.\"",
-     "published": "2026-11-10T18:57:28+00:00",
+     "title": "Bihar Board Opens Registration For Free JEE, NEET Coaching 2027; Apply By November 19",
+     "url": "https://www.ndtv.com/education/bihar-board-opens-registration-for-free-jee-neet-coaching-2027-apply-by-november-19-12310572#publisher=newsstand",
+     "summary": "JEE Main 2027 Session one is scheduled for January twenty to twenty eight in thirteen languages; NEET 2027 exam date is yet to be announced.",
+     "published": "2026-11-11T02:22:06+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-09/n3hfui4o_randhir-jaiswal_625x300_18_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-03/ic14t73s_bihar-board_625x300_23_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "b2dc5abef92d",
+     "id": "13ce2fae73a0",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Central Pollution Body Explains Data Gaps On Diwali Night",
-     "url": "https://www.ndtv.com/india-news/central-pollution-body-explains-data-gaps-on-diwali-night-12309990#publisher=newsstand",
-     "summary": "The CPCB has now broken its silence and issued a clarification on the core mechanics of India's National Air Quality Index (NAQI) framework, its design methodology, and its international alignment.",
-     "published": "2026-11-10T18:53:12+00:00",
+     "title": "President's Bodyguard Jawan Shot In Head Over Firecracker Dispute In UP",
+     "url": "https://www.ndtv.com/india-news/presidents-bodyguard-jawan-shot-in-head-over-firecracker-dispute-in-up-baghpat-12310488#publisher=newsstand",
+     "summary": "Saurabh, 26, was recruited into the Army in 2021 and is currently posted at the Rashtrapati Bhavan as part of the President's Bodyguard, the oldest and senior-most cavalry regiment in the Indian Army.",
+     "published": "2026-11-11T01:46:21+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2024-11/5g7geo38_delhi-air-quality_625x300_18_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/2c9u7d6c_baghpat_625x300_11_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "e3df0f89a83e",
+     "id": "230d671b9238",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "National Education Day 2026: From IITs To UGC, Institutions That Reflect Azad's Education Vision",
+     "url": "https://www.ndtv.com/education/national-education-day-2026-from-iits-to-ugc-institutions-that-reflect-azads-education-vision-12310487#publisher=newsstand",
+     "summary": "Azad established key institutions like IIT Kharagpur, UGC, and cultural academies to promote technical education, higher learning, and Indian arts.",
+     "published": "2026-11-11T01:41:46+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://i.ndtvimg.com/i/2017-11/maulana-azad_650x400_61510396500.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "d07fb67fed6f",
      "category": "general",
      "category_label": "General"
     }
@@ -723,95 +788,98 @@
    "upsc": false,
    "items": [
     {
-     "title": "Fire contained on platform in Iran’s South Pars gas field",
-     "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
-     "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
-     "published": "2026-11-10T23:38:02+00:00",
+     "title": "El Salvador fires missiles on Haitian gang hideout",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
+     "summary": "El Salvador’s military fired rockets at a compound allegedly belonging to the leader of Haiti’s 400 Mawozo gang.",
+     "published": "2026-11-11T03:00:23+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69bae61f9014-1773856287.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794365983.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "b576f5730f2a",
+     "id": "46e7df034c98",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "figures": [
+      "400 Mawozo gang"
+     ]
+    },
+    {
+     "title": "GOP-led House report slams systemic failures in handling of Epstein case",
+     "url": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case?traffic_source=rss",
+     "summary": "Decades of preferential treatment shielded Epstein and his associates, GOP-led report finds.",
+     "published": "2026-11-11T02:58:26+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a71f9c1bd757-1785854401.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "c19995010058",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Massive fire as Israeli settlers burn down business near Nablus",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
-     "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
-     "published": "2026-11-10T23:33:43+00:00",
+     "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+     "summary": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
+     "published": "2026-11-11T02:12:22+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794353598.jpg?resize=1916%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794363073.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "51ed04411cf0",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "French far-right author Zemmour launches second presidential bid",
-     "url": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-     "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
-     "published": "2026-11-10T23:23:12+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af399abae-1794349483.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "f52aa4165c94",
+     "id": "860cf1862783",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-     "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-     "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-     "published": "2026-11-10T18:33:51+00:00",
+     "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+     "url": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+     "summary": "Lebanese authorities investigate the killing after al-Alwani's body is found in an apartment in Beirut.",
+     "published": "2026-11-11T02:07:15+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/62-1794337008-1794364004.webp?resize=1200%2C675",
+     "licence": "linkout",
+     "id": "8e882e417485",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+     "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+     "summary": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+     "published": "2026-11-11T01:44:21+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af3b22d-1794355757.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "145a77caf8dd",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+     "published": "2026-11-11T01:01:20+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg",
      "licence": "linkout",
-     "id": "b28769c11df0",
+     "id": "45d5c49f84da",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "US Army soldier suspected of spying for Russia arrested in UK",
+     "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+     "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+     "published": "2026-11-10T20:20:04+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
+     "licence": "linkout",
+     "id": "dd0db016b7b3",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "Israel's new parliament sworn in as leaders compete to form government",
-     "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-     "published": "2026-11-10T17:03:16+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-     "licence": "linkout",
-     "id": "71ab83aa7760",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-     "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-     "published": "2026-11-10T19:26:42+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png",
-     "licence": "linkout",
-     "id": "58032ebc9a06",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Spain's king and queen attend memorial service for rail crash victims",
-     "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-     "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-     "published": "2026-11-10T20:46:40+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg",
-     "licence": "linkout",
-     "id": "89584a7f0f4d",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -861,33 +929,30 @@
      "category_label": "Political controversy"
     },
     {
-     "title": "'Cruise for life' ship seized in Singapore",
-     "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-     "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-     "published": "2026-11-10T01:49:06+00:00",
+     "title": "Why are these purple flowers shutting down streets in Sydney?",
+     "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+     "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+     "published": "2026-11-10T18:03:52+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efd/live/81d21790-dcca-11f1-93e1-3b657b665bcf.jpg",
      "licence": "linkout",
-     "id": "27ddbd1e156f",
+     "id": "fd50be03f47d",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-     "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-     "published": "2026-11-10T01:55:22+00:00",
+     "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+     "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+     "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+     "published": "2026-11-11T00:26:02+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/bb3e8330-dbf6-11f1-8471-ffe15ac7c066.jpg",
      "licence": "linkout",
-     "id": "9b6cbbc69269",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "850 local jobs with most roles"
-     ]
+     "id": "61c8704b89d7",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Why does Australia want Brits to swap Sydney for the outback?",
@@ -911,83 +976,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Producers welcome proposal for minimum sustainable price for tea",
-     "url": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece",
-     "summary": "Tea Board of India has recommended a proposal to the Ministry of Commerce to implement minimum sustainable price (MSP) for tea. Several stake holders said that MSP is essential for long-term sustainability of the industry",
-     "published": "2026-11-10T22:30:20+00:00",
+     "title": "ECI got grave, sensitive objection on registration of Akali Dal (Waris Punjab De), Delhi HC told",
+     "url": "https://www.thehindu.com/news/national/punjab/eci-got-grave-sensitive-objection-on-registration-of-akali-dal-waris-punjab-de-delhi-hc-told/article71688179.ece",
+     "summary": "The ECI said when the commission issued reminders to the CEO, Punjab to expedite the field verification reports, the CEO submitted a positive verification report in April which was under active consideration",
+     "published": "2026-11-11T03:22:20+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/csio3e/article71688215.ece/alternates/LANDSCAPE_1200/20261008394L.jpg",
      "licence": "linkout",
-     "id": "e6afb538bb64",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation",
-     "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
-     "summary": "",
-     "published": "2026-11-10T22:24:48+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
-     "licence": "linkout",
-     "id": "d1c9b066dc52",
+     "id": "57ef095b1796",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Bihar Cabinet hikes 3% DA for employees, pensioners",
-     "url": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-hikes-3-da-for-employees-pensioners/article71687144.ece",
-     "summary": "The Cabinet approved the “Bihar Ki Beti Startup Challenge Scheme”, under which, 2,100 female students may be provided benefits beginning from the current financial year",
-     "published": "2026-11-10T21:42:24+00:00",
+     "title": "Army jawan posted with President’s Bodyguard shot in U.P.; condition stable",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/army-jawan-posted-with-presidents-bodyguard-shot-in-up-condition-stable/article71688180.ece",
+     "summary": "Incident took place on Deepavali night in Baghpat; efforts on by three police teams to nab two accused who remain at large",
+     "published": "2026-11-11T03:09:25+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "203f6914eda4",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "2,100 female students may be provided"
-     ]
-    },
-    {
-     "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
-     "url": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
-     "summary": "",
-     "published": "2026-11-10T20:34:46+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/qeboio/article71687429.ece/alternates/LANDSCAPE_1200/Expired-drugs-pG3TGNRL4S.3.jpg.jpg",
-     "licence": "linkout",
-     "id": "7cb5e32f267f",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
-     "url": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece",
-     "summary": "",
-     "published": "2026-11-10T19:56:07+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/6w1r4o/article71687417.ece/alternates/LANDSCAPE_1200/2501_10_11_2026_10_39_52_2_DSC_7626.JPEG",
-     "licence": "linkout",
-     "id": "fb307da07d3a",
+     "id": "c128cc893fda",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
-     "summary": "",
-     "published": "2026-11-10T19:33:58+00:00",
+     "title": "‘Ramayana’ movie battle sequence triggers viral interest in Keralam’s Jatayu Earth Center",
+     "url": "https://www.thehindu.com/news/national/kerala/ramayana-movie-battle-sequence-triggers-viral-interest-in-keralams-jatayu-earth-center/article71686108.ece",
+     "summary": "The spectacular depiction of Ravana-Jatayu war in Ramayana: Part 1 has sparked global interest, turning Chadayamangalam’s Jatayu Earth Center into a viral trending destination across social media and travel vlogs",
+     "published": "2026-11-11T03:07:55+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/4f00ti/article71686995.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-10%20at%207.42.13%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/news/national/kerala/kferci/article71686178.ece/alternates/LANDSCAPE_1200/11tvko-%20Jatayu%201.jpg",
      "licence": "linkout",
-     "id": "556262914e90",
+     "id": "7a35543dbbe4",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Explained | What did the Supreme Court clarify on the OBC creamy layer?",
+     "url": "https://www.thehindu.com/news/national/explained-what-did-the-supreme-court-clarify-on-the-obc-creamy-layer/article71685709.ece",
+     "summary": "Can parental salary alone disqualify a candidate from claiming OBC reservation benefits? What role do the 1993 Office Memorandum and the 2004 clarification play in determining creamy-layer status?",
+     "published": "2026-11-11T01:51:23+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/60oldi/article71685841.ece/alternates/LANDSCAPE_1200/2026-10-27T064334Z_26851738_RC260X96BHOI_RTRMADP_3_INDIA-MEDIA-PRIVACY-LAW.JPG",
+     "licence": "linkout",
+     "id": "0a55ab958a9a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "top news of the day november 10 2026",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONktoYzYyZ2diYmdWYkg4UVJyTklPYU9lS09nakVwVjROYThONlNKTW9qZW4wampqMUZnME5IV1Jvb09nb1NobFVvVFpyQTdJMHFfRUhoUFA4QS1QZjNPSTk5UURIb0hIU0tLYVYyU0c5emxwcWtkbUZyZ0dHdHFLU0J1Um1WRUFLU3U2MWh5VdIBlgFBVV95cUxNWjFTTnotUGdicFVUZDA0WlEyWWp6eU5rNXEySWhtNTEtVEhLcUtoWnBkSzdZTUdsMk9YSUo3dG1DRlhPbEplTWRGVHp2NFZQRDdCM0NEQ3F3VG51THhqNVZGNExvR05EcTlLb1FzVk11aHpObk9nZlVZQzZKcEQ0Q0VjMExBbmcyUzJYeDJNRlMteUYwZ1E?oc=5",
+     "summary": "top news of the day november 10 2026 The Hindu",
+     "published": "2026-11-10T13:07:03+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "7b4e90d1e11f",
      "category": "general",
      "category_label": "General"
     },
@@ -1003,19 +1052,6 @@
      "id": "b44c2c7e7c93",
      "category": "politics",
      "category_label": "Political controversy"
-    },
-    {
-     "title": "India news: Delhi air quality level 'severe' after Diwali as firecracker ban is defied",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5",
-     "summary": "India news: Delhi air quality level 'severe' after Diwali as firecracker ban is defied DW.com",
-     "published": "2026-11-09T23:52:52+00:00",
-     "source": "DW.com",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e560afc81d9d",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1121,7 +1157,8 @@
      "category": "money",
      "category_label": "Money & scams"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1168,6 +1205,161 @@
      "id": "23252798e3da",
      "category": "money",
      "category_label": "Money & scams"
+    },
+    {
+     "title": "Restoring social media access comes at a cost in Gabon",
+     "url": "https://globalvoices.org/2026/11/11/estoring-social-media-access-comes-at-a-cost-in-gabon/",
+     "summary": "After more than eight months, Gabon has restored its social media access. But it has come at a cost.",
+     "published": "2026-11-11T00:14:49+00:00",
+     "source": "Global Voices",
+     "byline": "Laura",
+     "image": "https://globalvoices.org/wp-content/uploads/2026/11/Capture-decran-2026-10-19-093015-800x450-1.webp",
+     "licence": "cc-by",
+     "body": [
+      {
+       "kind": "p",
+       "text": "Citizens in Gabon went 248 days without access to Facebook, Instagram, TikTok, or YouTube"
+      },
+      {
+       "kind": "p",
+       "text": "Originally published on Global Voices"
+      },
+      {
+       "kind": "p",
+       "text": "Image of a smartphone showing the Facebook, Instagram, WhatsApp, YouTube, and Messenger apps. Screenshot from the DW Afrique YouTube channel."
+      },
+      {
+       "kind": "p",
+       "text": "After more than eight months of government blockage, Gabon has restored its social media access. But it has come at a cost. This reinstatement comes with a tighter regulatory framework and an unprecedented cooperation between the government and various tech giants, raising serious concerns about freedom of expression and privacy."
+      },
+      {
+       "kind": "p",
+       "text": "On February 17, 2026, Gabon’s media regulator, the High Communication Authority (HAC), suspended major social media networks, including Facebook, Instagram, TikTok, and YouTube, “until further notice.” According to the regulator, quoted in the daily newspaper L’Essentiel, this measure targeted not only content “undermining national security” but also content involving defamation, cyberbullying, hate speech, and threats to social cohesion."
+      },
+      {
+       "kind": "p",
+       "text": "At first, the suspension had no real impact, with presidential spokesperson Jennyfer Mélodie Sambat claiming it would solely target Meta platforms. However, according to Gabon Media Time, several influencers, content creators, and citizens later experienced access disruptions on YouTube and TikTok, sometimes rendering connections impossible without a bypass tool, such as a virtual private network (VPN)."
+      },
+      {
+       "kind": "p",
+       "text": "The global data platform Internet Society Pulse confirmed this observation, revealing major anomalies for Meta, Telegram, TikTok, and YouTube, but not X (formerly Twitter). The online news portal Le360 Afrique consequently reported a surge in VPN usage in the months that followed."
+      },
+      {
+       "kind": "p",
+       "text": "For 248 days, more than 1.84 million individuals, or 71.9 percent of the country’s population of over 2.5 million, were denied regular access to some of the world’s most popular digital platforms."
+      },
+      {
+       "kind": "p",
+       "text": "On October 24, 2026, the HAC lifted this suspension, with Africanews stressing that this ruling didn’t necessarily mean a return to business as usual. It, therefore, remains to be seen whether Gabon, where Brice Clotaire Oligui Nguema has been president since September 2023, will restore digital freedoms or establish a new state-controlled online model instead."
+      },
+      {
+       "kind": "h",
+       "text": "From bypassing the suspension to tighter regulatory frameworks"
+      },
+      {
+       "kind": "p",
+       "text": "A new legal framework, enacted on February 26, 2026, underpins this reinstatement. According to Gabon Media Time, Ordinance No. 0011/PR/2026 establishes a regulatory framework for digital platform usage, while Ordinance No. 0013/PR/2026 amends the HAC Reorganization Act."
+      },
+      {
+       "kind": "p",
+       "text": "The HAC also invokes a law, enacted on October 5, that ratifies the social media ordinance and establishes a regulatory framework for AI-generated and AI-amplified content, according to reporting by Gabon Review."
+      },
+      {
+       "kind": "p",
+       "text": "What’s more, available data shows that these regulations have introduced joint liability for those who create and share illegal content and require all social media users to provide personal identification information. Purported as tools to combat abuse, these regulations have raised serious concerns about anonymity, personal data protection, and their stifling effect on public debate."
+      },
+      {
+       "kind": "p",
+       "text": "In a country where criticizing public institutions is politically sensitive, the threat of prosecution for posting online could discourage users from expressing dissent."
+      },
+      {
+       "kind": "p",
+       "text": "The issue here isn’t whether the state should combat cyberbullying, disinformation, or hate speech, but rather how. While these are valid concerns, the real worry is whether its measures are transparent, proportionate, and subject to independent scrutiny."
+      },
+      {
+       "kind": "h",
+       "text": "Tech giants enter the regulatory mix"
+      },
+      {
+       "kind": "p",
+       "text": "The most decisive development in this saga was undoubtedly the unprecedented cooperation between the government and Big Tech companies. On July 13, 2026, after a meeting at the AI for Good/WSIS summit in Geneva, Gabonese Minister of Digital Economy Mark-Alexandre Doumba announced an agreement with TikTok. Both parties signed a 12-month cooperation agreement, ensuring the platform’s compliance with Gabon’s new regulatory framework."
+      },
+      {
+       "kind": "p",
+       "text": "At the meeting, TikTok presented its Q1 2026 content moderation results, revealing that it had removed more than 23,500 pieces of sensitive content in Gabon."
+      },
+      {
+       "kind": "p",
+       "text": "Meanwhile, the HAC confirmed that it had established an “active cooperation” with TikTok, Meta, and YouTube to “improve content moderation.” The regulator added that, during the suspension, it also held direct discussions with these companies. However, neither the technical details of these exchanges nor the practical operation of the authorities’ reporting tools has been specified."
+      },
+      {
+       "kind": "p",
+       "text": "Find the HAC spokesperson’s full statement here:"
+      },
+      {
+       "kind": "p",
+       "text": "These agreements reflect tech companies’ growing influence in digital platform governance. These platforms are also no longer satisfied with merely hosting exchanges between their users; they now shape decisions about what content remains accessible and what does not."
+      },
+      {
+       "kind": "p",
+       "text": "For governments, partnerships with digital platforms provide a direct channel to deal with content they consider harmful, illegal, or threatening to their regime. For tech companies, complying with the state’s requests and distinguishing legitimate moderation from politically motivated censorship poses a significant challenge."
+      },
+      {
+       "kind": "h",
+       "text": "Cooperation is no substitute for transparency"
+      },
+      {
+       "kind": "p",
+       "text": "Working alongside digital platforms isn’t inherently problematic. Tech companies ultimately have a responsibility to deal with credible threats, protect vulnerable users, and enforce their own rules."
+      },
+      {
+       "kind": "p",
+       "text": "However, problems arise when the state has direct access to reporting mechanisms — particularly if the public remains unaware of these partnerships. What criteria determine which content is flagged? How are HAC requests processed? Can users challenge a post removal? Are there any safeguards to protect journalists, activists, and government critics?"
+      },
+      {
+       "kind": "p",
+       "text": "The line between harmful content and legitimate political expression is often blurred. Without clear procedures, independent monitoring, and an appeals process, critics say these measures risk becoming tools of influence over public debate."
+      },
+      {
+       "kind": "p",
+       "text": "The situation in Gabon represents a much broader trend. As various African states tighten their grip on digital platforms, tech companies face escalating pressure to comply with new national regulations to maintain key market access. The balance of power between governments and tech giants has ultimately become a defining factor in the future of digital rights."
+      },
+      {
+       "kind": "h",
+       "text": "Beyond Gabon: Who is accountable for digital freedom?"
+      },
+      {
+       "kind": "p",
+       "text": "Restoring social media access was imperative for Gabonese citizens, journalists, businesspeople, and content creators alike, all of whom suffered under this suspension."
+      },
+      {
+       "kind": "p",
+       "text": "However, access alone doesn’t guarantee freedom. The real test will be whether internet users can participate in online discussions, criticize public policy, and share information without fear of arbitrary sanctions or disproportionate restrictions."
+      },
+      {
+       "kind": "p",
+       "text": "It also depends on Meta, TikTok, and YouTube demonstrating how their cooperation with the Gabonese government complies with international human rights standards, especially freedom of expression, privacy, and access to information."
+      },
+      {
+       "kind": "p",
+       "text": "The current situation in Gabon illustrates how authoritarian control over the digital sphere evolves. Restrictions don’t necessarily end when platform accessibility is restored. Instead, they become regulatory frameworks, personal identification requirements, and tighter government cooperation with private tech companies."
+      },
+      {
+       "kind": "p",
+       "text": "The challenge, therefore, isn’t just about reconnecting citizens to social media, but also about ensuring the digital spaces they return to remain open to criticism, independent information, and public debate."
+      },
+      {
+       "kind": "p",
+       "text": "Although tech giants can negotiate conditions allowing citizens to regain access to digital platforms, they must also ensure those conditions don’t compromise their fundamental freedoms."
+      }
+     ],
+     "publisher": "Global Voices",
+     "id": "5b8d10fc557c",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "248 days without access to Facebook"
+     ]
     },
     {
      "title": "In Ukraine, youth are finding their voices in the digital democracy",
@@ -1617,6 +1809,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+     "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+     "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+     "published": "2026-11-11T00:02:07+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+     "licence": "linkout",
+     "id": "e6d5fed90ea7",
+     "category": "human",
+     "category_label": "Human interest"
+    },
+    {
+     "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+     "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+     "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+     "published": "2026-11-11T00:16:44+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+     "licence": "linkout",
+     "id": "ecff39d99ac5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
@@ -1661,33 +1879,17 @@
      "category_label": "General"
     },
     {
-     "title": "US inflation higher than expected in October - here's what is happening with prices",
-     "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-     "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-     "published": "2026-11-10T14:45:46+00:00",
-     "source": "BBC News",
+     "title": "A financial report card from the future",
+     "url": "https://www.livemint.com/money/personal-finance/a-financial-report-card-from-the-future-11794320828023.html",
+     "summary": "A conversation with his 80-year-old self forces Mohit to confront the long-term consequences of his financial choices—and rethink the decisions he makes today.",
+     "published": "2026-11-11T00:31:01+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/10/600x338/retirement_fund_investment_strategy_money_PF_1747645814265_1794323909387_9jVI_f08253c7-5e2c-4fd8-b377-dc5b20335afd_VHXK.jpg",
      "licence": "linkout",
-     "id": "928277f3a9d0",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-     "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-     "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-     "published": "2026-11-10T17:04:55+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
-     "licence": "linkout",
-     "id": "e7fbb349c958",
+     "id": "e7f15173a77f",
      "category": "general",
-     "category_label": "General",
-     "figures": [
-      "$148  advent calendar after backlash"
-     ]
+     "category_label": "General"
     },
     {
      "title": "NSE EGRs: Want to invest in gold without buying jewellery or coins? Check how to buy electronic gold receipts online",
@@ -1718,58 +1920,6 @@
       "₹5 lakh to your sister? Know",
       "₹5 lakh gift from a brother"
      ]
-    },
-    {
-     "title": "20 years of service recognised: Retired woman IAF officer wins 15-year legal battle for pension as AFT alters ruling",
-     "url": "https://www.livemint.com/money/personal-finance/20-years-of-service-recognised-retired-woman-iaf-officer-wins-15-year-legal-battle-for-pension-as-aft-alters-ruling-11794325229711.html",
-     "summary": "AFT's Chandigarh Bench rules that Wing Commander Chandi is entitled to pension and other retirement benefits after modification of its 2015 judgment.",
-     "published": "2026-11-10T17:03:20+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/10/600x338/pension3_1794327763171_bsuA_1794327789989_IA0A_797cc512-9814-4307-a5c2-a57f9f07ed9e_xpV6.jpg",
-     "licence": "linkout",
-     "id": "ea316420be41",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "20 years of service recognised: Retired"
-     ]
-    },
-    {
-     "title": "SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-yr data reveals what worked better",
-     "url": "https://www.livemint.com/money/personal-finance/sip-vs-lump-sum-which-strategy-delivers-higher-mutual-fund-returns-global-30-yr-data-reveals-what-worked-better-11794329719716.html",
-     "summary": "SIP investments outperformed lump-sum investing in six of 10 major global equity markets over 30 years, according to DSP Mutual Fund. Japan recorded the biggest SIP advantage, while Brazil delivered higher returns through lump-sum investments.",
-     "published": "2026-11-10T17:01:22+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/10/600x338/Gemin_Generated_Image_iwvosoiwvosoiwvo_179432995_1794329966657_YrQq_1794329966780_NGT5_af14413d-41d7-49d2-a0b4-2f8a60252459_SFQI.png",
-     "licence": "linkout",
-     "id": "9de228a23721",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "10 major global equity markets over",
-      "30 years , according to DSP"
-     ]
-    },
-    {
-     "title": "7th Pay Commission: Level 5 salary rises to ₹62,224 with 63% DA—here’s why your place of posting alters final figure",
-     "url": "https://www.livemint.com/money/personal-finance/7th-pay-commission-level-5-salary-rises-to-rs-62-224-with-63-da-here-s-why-your-place-of-posting-alters-final-figure-11794322914582.html",
-     "summary": "Basic pay of ₹29,200, Dearness Allowance, HRA and Transport Allowance determine monthly gross salary; annual earnings reach approximately ₹7.47 lakh in X-class cities.",
-     "published": "2026-11-10T16:15:47+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/10/600x338/pay_1794323754141_XeBF_1794323770151_z5gr_57b95677-1bb3-4caf-b4db-efae12ad9c20_trHn.jpg",
-     "licence": "linkout",
-     "id": "fd2be8c0a43e",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "5 salary rises to ₹62,224",
-      "₹62,224  with 63% DA—here’s why",
-      "₹29,200,  Dearness Allowance, HRA",
-      "₹7.47 lakh in X-class cities"
-     ]
     }
    ]
   },
@@ -1779,6 +1929,19 @@
    "title": "Technology",
    "upsc": false,
    "items": [
+    {
+     "title": "Robot vessels take on the dangerous work of mine hunting",
+     "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+     "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+     "published": "2026-11-11T00:19:13+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
+     "licence": "linkout",
+     "id": "87a3474e76dd",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
     {
      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
@@ -1806,24 +1969,6 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-     "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-     "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-     "published": "2026-11-10T17:56:12+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-     "licence": "linkout",
-     "id": "adf593f41910",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$1.3 tn stock market debut",
-      "$70  and $78, which is",
-      "$78,  which is lower than"
-     ]
-    },
-    {
      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
@@ -1837,41 +1982,31 @@
      "category_label": "General"
     },
     {
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-     "published": "2026-11-10T08:23:21+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
-     "licence": "linkout",
-     "id": "2eeebfe27c6a",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 10 November By Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUUNOU254bzhYNm55bXJwampMdlZwVTMxaHNRMmlmMjdULWI1dGhiUFJIUXNlNE5MLW1WZkJmYlNXb1BFZ2EtRVY2bHBfc0pJQTZ5dVNweVRZM1NxenFFcTV0dVU4dndScTBTU055UjVwY3NUbml5YmpZRTRLblZHRDNQNWI3ZzJsbGtybElOWTh6MFl6ckF6S0dXOEFKMmJ5R1YxMWE5NkFGT1Zmb0MzVmg1Y21iN3BHc3Y0NzhONDJnS0EtWDBtelZJRkc3TjFZY2hHcUpLcnRxblhPeW5RamtBa0JIaEQ5VFBUX0RRSHg3OVNMaWFoYjNEUnd5UURZS1ZVTG9wNnhGZjQ?oc=5",
-     "summary": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 10 November By Investing.com Investing.com India",
-     "published": "2026-11-10T13:34:42+00:00",
-     "source": "Investing.com India",
+     "title": "Top 5 Artificial Intelligence Applications in the FinTech Industry",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGhWWl9lTkJIQm1IeVVXejY1T2RkUW1pT0U3MXdQR0JocWtBSTdIX3dJZjBWY1RMcU9rdEg1Z2JaRHNtSm9YbTV5ZFFpQVNZUF9hamFLUThYcURZYWlyLU9HNHYwMUduUlN3S0hnUHdxOFkzeVIxcXFjQ20yTHowbUx4dTcxUnYtM2c3aFJscmFfWW1GUW4tRUp4eXQtQVBCT1RoSjF3?oc=5",
+     "summary": "Top 5 Artificial Intelligence Applications in the FinTech Industry Nasscom",
+     "published": "2026-11-10T09:54:51+00:00",
+     "source": "Nasscom",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "26480dbb4a36",
+     "id": "a51352540506",
      "category": "tech",
-     "category_label": "AI & technology"
+     "category_label": "AI & technology",
+     "figures": [
+      "5 Artificial Intelligence Applications"
+     ]
     },
     {
-     "title": "Darbar Move: A Visionless Step in the Age of IT and Artificial Intelligence",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjNZRXF1UXBvRUVvSGw2UDhMYThualExa1U2TURxTXlzamR6d3lpN25lcDE3NWpnREhPcVNpLWtydkpfTkp6UmExczlpTmtPLWhDbGVhT0tXOFFPV3hLb25PdzZwOHpPZldkcG0wVGgtV013WHhuSGRDZlJSbnl0MXIxNEdfdTB3dERwVjk1c25uRl9pV3gxVFdWdlgwX3hIbXJpcFluWS1kcUpDSVE?oc=5",
-     "summary": "Darbar Move: A Visionless Step in the Age of IT and Artificial Intelligence Kashmir News Service",
-     "published": "2026-11-10T16:51:30+00:00",
-     "source": "Kashmir News Service",
+     "title": "Artificial intelligence is desperately seeking its narrative",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
+     "summary": "Artificial intelligence is desperately seeking its narrative The Conversation",
+     "published": "2026-11-10T13:12:58+00:00",
+     "source": "The Conversation",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "a18bcac4de2f",
+     "id": "4a5e13055ab8",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1884,61 +2019,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Aaryavir Sehwag Reveals 'Promise' To Father Virender Before Scoring 160 For India vs UAE In U-19 Asia Cup",
-     "url": "https://sports.ndtv.com/cricket/aaryavir-sehwag-reveals-promise-to-father-virender-before-scoring-160-for-india-vs-uae-in-u-19-asia-cup-12308936#publisher=newsstand",
-     "summary": "India U19 batter Aaryavir Sehwag revealed that he had promised his father, Virender Sehwag, a big hundred ahead of his match-winning 160 against the United Arab Emirates (UAE)",
-     "published": "2026-11-10T22:12:51+00:00",
+     "title": "'True Great' Harry Kane Set To Break England Appearance Record",
+     "url": "https://sports.ndtv.com/football/true-great-kane-set-to-break-england-appearance-record-12310586#publisher=newsstand",
+     "summary": "England captain Harry Kane is set to cap his golden year by breaking the Three Lions' appearance record in Thursday's Nations League clash with Croatia.",
+     "published": "2026-11-11T02:56:19+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/dps3qq3_virender-sehwag-aaryavir-sehwag_625x300_10_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/9aamuen_harry-kane-getty_625x300_11_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "dde9c5d9d6e7",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "19 Asia Cup",
-      "160 against the United Arab Emirates"
-     ]
+     "id": "b7496ca9b349",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
-     "title": "Jani Nyman Returns To Finland With Seattle Kraken, But Has More To Prove In NHL",
-     "url": "https://sports.ndtv.com/us/nhl/jani-nyman-returns-to-finland-with-seattle-kraken-but-has-more-to-prove-in-nhl-12309967#publisher=newsstand",
-     "summary": "Jani Nyman is working to become a more complete NHL player as he prepares to represent the Seattle Kraken in Finland.",
-     "published": "2026-11-10T18:44:48+00:00",
+     "title": "Young Australian Jockey Dies After Fall During Race",
+     "url": "https://sports.ndtv.com/othersports/young-australian-jockey-dies-after-fall-during-race-12310533#publisher=newsstand",
+     "summary": "A young Australian jockey has died after falling heavily during a race over the weekend, her family said. Izzy Neale, 22, was taking part in the Cotton Cup at Warren on Sunday when her horse fell, and she was airlifted to hospital in a critical condition.",
+     "published": "2026-11-11T02:51:31+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/aheba9us_jani-nyman_625x300_10_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/l881736o_izzy-neale_625x300_11_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "0ae5fa214b6a",
+     "id": "f8eb8b70a508",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "R Praggnanandhaa Exclusive: No Favourites In Total Chess, New Format Puts Everyone On Equal Footing",
-     "url": "https://sports.ndtv.com/chess/r-praggnanandhaa-exclusive-no-favourites-in-total-chess-new-format-puts-everyone-on-equal-footing-12309959#publisher=newsstand",
-     "summary": "Eight of World's top 10 players are competing in this week's Total Chess tournament in Budapest, an initiative of Norway Chess to find the best player in the World",
-     "published": "2026-11-10T18:39:09+00:00",
+     "title": "Coco Gauff Upset At WTA Finals, Jessica Pegula Back On Track",
+     "url": "https://sports.ndtv.com/tennis/gauff-upset-at-wta-finals-pegula-back-on-track-12310352#publisher=newsstand",
+     "summary": "Wimbledon champion Linda Noskova upset Coco Gauff to storm into the last four of the WTA Finals at Indian Wells on Tuesday as Jessica Pegula reignited her challenge with victory over Ukraine's Marta Kostyuk.",
+     "published": "2026-11-11T02:42:45+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/mnuv7n44_praggnanandhaa_625x300_05_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/ljnma0e_coco-gauff-getty_625x300_11_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "02f1b0ecf5b7",
-     "category": "sports",
-     "category_label": "Sports",
-     "figures": [
-      "10 players are competing in this"
-     ]
+     "id": "e8388bcb656e",
+     "category": "conflict",
+     "category_label": "War & conflict"
     },
     {
-     "title": "NHL Trade Rumors: Minnesota Wild Could Target Nikita Kucherov As San Jose Sharks Pursue Simon Edvinsson",
-     "url": "https://sports.ndtv.com/us/nhl/nhl-trade-rumors-minnesota-wild-could-target-nikita-kucherov-as-san-jose-sharks-pursue-simon-edvinsson-12309873#publisher=newsstand",
-     "summary": "The Minnesota Wild could pursue Nikita Kucherov if Quinn Hughes does not re-sign, while the San Jose Sharks have reportedly had a trade offer for Simon Edvinsson rejected by Detroit.",
-     "published": "2026-11-10T18:10:13+00:00",
+     "title": "With 2024 Clean Sweep In Mind, New Zealand Announce Squad For Tests vs India",
+     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/with-2024-clean-sweep-in-mind-new-zealand-announce-squad-for-tests-vs-india-12310531#publisher=newsstand",
+     "summary": "New Zealand on Wednesday announced their squad for the upcoming two-match Test series against India at home, beginning on November 19.",
+     "published": "2026-11-11T02:05:02+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/65n7qp7o_-nikita-kucherov-_625x300_10_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/s5tgu83s_tom-latham-getty_625x300_11_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "6236f7af3232",
+     "id": "cd16440e6003",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Taylor Swift Changes Her Baking Habits To Help Travis Kelce Stay In Shape Amid Retirement Buzz",
+     "url": "https://sports.ndtv.com/us/nfl/taylor-swift-changes-her-baking-habits-to-help-travis-kelce-stay-in-shape-amid-retirement-buzz-12310364#publisher=newsstand",
+     "summary": "Taylor Swift reportedly cuts back on sweets and embraces a protein-rich diet as Travis Kelce steps up his fitness routine amid retirement speculation.",
+     "published": "2026-11-11T01:53:05+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/p299g47o_travis-kelce-taylor-swift_625x300_11_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "903de73bcbc8",
      "category": "general",
      "category_label": "General"
     }
@@ -2001,19 +2142,6 @@
      "id": "ab142aba8f49",
      "category": "crime",
      "category_label": "Crime"
-    },
-    {
-     "title": "Jemima Goldsmith accuses Russell Brand of violence and abuse against her",
-     "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
-     "summary": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while they were in a relationship.",
-     "published": "2026-11-10T02:59:42+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc6f/live/9dd1bab0-dc78-11f1-b23d-9526db010e6c.jpg",
-     "licence": "linkout",
-     "id": "5374a57bf862",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -2023,6 +2151,19 @@
    "title": "Health & Science",
    "upsc": false,
    "items": [
+    {
+     "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+     "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+     "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
+     "published": "2026-11-11T00:17:42+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f3/live/8c631480-dc1a-11f1-8244-051a160372a2.jpg",
+     "licence": "linkout",
+     "id": "39b8acda740b",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "Deal agreed to end health visitor strike affecting baby appointments",
      "url": "https://www.bbc.co.uk/news/articles/c317k7kn44nzo?at_medium=RSS&at_campaign=rss",
@@ -2079,17 +2220,17 @@
      "category_label": "General"
     },
     {
-     "title": "Rare cancer discovered after mum underwent hysterectomy",
-     "url": "https://www.bbc.co.uk/news/articles/crq5n5w26lp5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Mum-of-four Donna Marklew, from Coventry, discovered she had cancer after a post-op biopsy.",
-     "published": "2026-11-10T16:22:18+00:00",
+     "title": "I almost died after a toothache led to sepsis and a rare heart condition",
+     "url": "https://www.bbc.co.uk/news/articles/ckr5ypqrjj32o?at_medium=RSS&at_campaign=rss",
+     "summary": "Doctors told Danny Ellis it was a \"miracle\" he was alive after his first heart surgery failed.",
+     "published": "2026-11-10T05:59:20+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf30/live/bdf8c090-dc4b-11f1-a869-656dc96bd12d.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a446/live/11099240-d478-11f1-9dda-1ba6fcc7d159.jpg",
      "licence": "linkout",
-     "id": "d71c7632eceb",
-     "category": "general",
-     "category_label": "General"
+     "id": "ec63c511f5eb",
+     "category": "human",
+     "category_label": "Human interest"
     }
    ]
   }
