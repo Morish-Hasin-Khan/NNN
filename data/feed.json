@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T16:36:22.738672+00:00",
+ "generated_at": "2026-11-17T00:33:00.724516+00:00",
  "podcasts_fetched_at": "2026-11-15T20:27:01.203372+00:00",
  "markets": [
   {
@@ -36,11 +36,10 @@
    "key": "gold",
    "label": "GOLD",
    "unit": "₹/10g",
-   "value": 112405.0,
-   "change": -3675.0,
-   "changePct": -3.17,
-   "decimals": 0,
-   "stale": true
+   "value": 116498.0,
+   "change": -4290.0,
+   "changePct": -3.55,
+   "decimals": 0
   },
   {
    "key": "silver",
@@ -56,11 +55,10 @@
    "key": "usdinr",
    "label": "USD/INR",
    "unit": "",
-   "value": 95.93,
-   "change": 0.24,
-   "changePct": 0.25,
-   "decimals": 2,
-   "stale": true
+   "value": 93.91,
+   "change": -0.01,
+   "changePct": -0.01,
+   "decimals": 2
   },
   {
    "key": "brent",
@@ -84,16 +82,16 @@
   }
  ],
  "topics": [
-  "Grindr Five",
-  "South Africa",
+  "Paraguay",
+  "West Bengal",
   "Jazeera English",
   "News",
   "Audit Diwas",
-  "India Orders",
-  "Robotics Physical",
-  "Strait Hormuz",
-  "Students Delhi",
-  "Australian"
+  "Mathura Assembly",
+  "Tribute Kartar",
+  "Live Houthis",
+  "Australian",
+  "Prince Princess"
  ],
  "sections": [
   {
@@ -103,80 +101,80 @@
    "upsc": false,
    "items": [
     {
-     "title": "Grindr dating trap: Five held for drugging, robbing men in 14 cases",
-     "url": "https://www.thehindu.com/news/national/telangana/grindr-dating-trap-five-held-for-drugging-robbing-men-in-14-cases/article71708895.ece",
-     "summary": "The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings. Police suspect one member was planning to expand the racket by recruiting more people",
-     "published": "2026-11-16T16:26:58+00:00",
+     "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+     "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+     "summary": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+     "published": "2026-11-16T23:44:32+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb7e2e9314-1794866734.jpg?resize=1200%2C630",
+     "licence": "linkout",
+     "id": "5af00c545ae7",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "West Bengal BJP supporters beating up own party members, says Union Minister as feuds rise in party",
+     "url": "https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece",
+     "summary": "“BJP workers are being beaten up, and those beating them are also from the BJP. The police administration has turned a blind eye and is not functioning impartially,” alleged Bongaon MP Santanu Thakur",
+     "published": "2026-11-16T20:58:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/j2pddr/article71708884.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%205.50.53%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/3bmfqe/article71709426.ece/alternates/LANDSCAPE_1200/TH24-Moyurie-PoG06FBNGHB.3.jpg.jpg",
      "licence": "linkout",
-     "id": "b530a16adfd8",
+     "id": "2e3f3303186f",
      "category": "crime",
      "category_label": "Crime",
-     "from_section": "National News",
+     "from_section": "National News"
+    },
+    {
+     "title": "Murder of BJP worker by own party members sparks speculation of intra-party feud in West Bengal",
+     "url": "https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece",
+     "summary": "Following the death of Arup Saha, the husband of Ruma Saha — the secretary of BJP’s Panihati-1 mandal (zone), Panihati MLA Ratna Debnath said that she feels personally responsible for the death of the BJP worker",
+     "published": "2026-11-16T20:57:47+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/5bp3g4/article71705581.ece/alternates/LANDSCAPE_1200/20261028135L.jpg",
+     "licence": "linkout",
+     "id": "d8589f0a71e7",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "National Hotlines",
      "figures": [
-      "14 cases"
+      "1 mandal (zone), Panihati MLA Ratna"
      ]
     },
     {
-     "title": "At least 17 killed in two South Africa mass shootings",
-     "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
-     "summary": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
-     "published": "2026-11-16T15:26:39+00:00",
-     "source": "Al Jazeera",
+     "title": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+     "summary": "Mr. Karra said that “two SPOs were killed by the Army in a mistaken-identity case on November 11”, while senior BJP leader Sharma said, “Congress is spreading misleading information to shift blame from terrorists to security forces”",
+     "published": "2026-11-16T22:06:43+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb113f006a-1794838847.jpg?resize=1920%2C1440",
+     "image": "https://th-i.thgim.com/public/incoming/374yqi/article71709553.ece/alternates/LANDSCAPE_1200/20261116508L.jpg",
      "licence": "linkout",
-     "id": "f9e5673299a5",
-     "category": "crime",
-     "category_label": "Crime",
+     "id": "99c87d39bfb8",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "National News"
+    },
+    {
+     "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+     "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+     "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+     "published": "2026-11-16T14:58:12+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+     "licence": "linkout",
+     "id": "717c962de6d5",
+     "category": "conflict",
+     "category_label": "War & conflict",
      "from_section": "Global News",
      "figures": [
-      "17 killed in two South Africa"
+      "2,000 drones over the course"
      ]
-    },
-    {
-     "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-     "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-     "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-     "published": "2026-11-16T13:40:56+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg",
-     "licence": "linkout",
-     "id": "b63f5a0f50be",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Culture"
-    },
-    {
-     "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
-     "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
-     "summary": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
-     "published": "2026-11-16T14:58:30+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T121023Z_2060620919_RC2A4OAZTDXA_RTRMADP_3_UKRAINE-CRISIS-STARLINK-FRONTLINE-1792169044_17a937-1792492051.jpg?resize=1200%2C630&quality=80",
-     "licence": "linkout",
-     "id": "d7de5c46f17b",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Yemeni forces retreat to defend port city from Houthis",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-     "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-     "published": "2026-11-16T11:09:38+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-     "licence": "linkout",
-     "id": "7162fe110878",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
     },
     {
      "title": "School assembly news headlines for 17th november 2026: Top national, international, sports and business news",
@@ -192,7 +190,7 @@
       {
        "source": "NDTV",
        "title": "School Assembly Headlines (November 17): Top National, International News",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWk2YkJsMlhlSkR0MzdfZlZ5VzZCT1ZYQ0dxRmhLZjBMUzlkMVpvZmZRT2F6bndrMmdxZ3NES1dQUGg1dnF6OVNwdVBSdnlYeloyOHJrM0Zac2ZWQlB2MlR4ZGJrU05XNEFiSTczbEo2dS1pTUxSNVgwNl9mTXBjVnAzTmphWE4ySHJ6X2xvWTNZMlhPRFlvZUN1ZHd4QW1vNnJnTWxpMHlmXzFQdGc?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWk2YkJsMlhlSkR0MzdfZlZ5VzZCT1ZYQ0dxRmhLZjBMUzlkMVpvZmZRT2F6bndrMmdxZ3NES1dQUGg1dnF6OVNwdVBSdnlYeloyOHJrM0Zac2ZWQlB2MlR4ZGJrU05XNEFiSTczbEo2dS1pTUxSNVgwNl9mTXBjVnAzTmphWE4ySHJ6X2xvWTNZMlhPRFlvZUN1ZHd4QW1vNnJnTWxpMHlmXzFQdGfSAbYBQVVfeXFMTUo2VmU3bmVNZ3FCTi13M0FUSVA5X1VqX09LeFdoNVJPallOeldhQ0hSWXJOa0NxSnp6XzBlX1JKMlJEbF9JcjF2enBSeVBhRGZlRjlKZjFHWnpLdFVhWTFYWkZMbmxrbmNOakZTb0pWbXRNTUVpSEU1aHhlb3RtN2tNUzMzcUc4U2FYcW0weURFSy15THoyc2lxWEZTUmRyYk4zQjBpSkJKVXhUd1R3dm9ocGozY0E?oc=5",
        "summary": "School Assembly Headlines (November 17): Top National, International News NDTV"
       }
      ],
@@ -201,77 +199,88 @@
      "from_section": "National Hotlines"
     },
     {
-     "title": "BJP parts ways with Jana Sena, TDP in Bhimavaram Municipal election citing violation of alliance dharma",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-parts-ways-with-jana-sena-tdp-in-bhimavaram-municipal-election-citing-violation-of-alliance-dharma/article71708511.ece",
-     "summary": "Union Minister and Narsapuram BJP MP Bhupathiraju Srinivas Varma announced that BJP would go alone in the Bhimavaram election, accusing the alliance partners of violating alliance dharma over seat-sharing.",
-     "published": "2026-11-16T16:20:30+00:00",
+     "title": "BJP holds key party meeting in Mathura for Assembly polls",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+     "summary": "The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach",
+     "published": "2026-11-16T23:27:22+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t64w8u/article71709088.ece/alternates/LANDSCAPE_1200/BJP.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/78xw0r/article71709580.ece/alternates/LANDSCAPE_1200/HXQBPS1bUAAKXsb.jpeg",
      "licence": "linkout",
-     "id": "c3dfe8b741ae",
+     "id": "391d5c0dc262",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "Congress leaders stage protest outside Tripura State Election Commission office over civic polls",
-     "url": "https://www.thehindu.com/news/national/tripura/congress-leaders-stage-protest-outside-tripura-state-election-commission-office-over-civic-polls/article71708578.ece",
-     "summary": "Elections to 21 Urban Local Bodies (ULBs) comprising Nagar Panchayats and municipal bodies, including the Agartala Municipal Corporation (AMC), will be held on November 27",
-     "published": "2026-11-16T16:18:18+00:00",
+     "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+     "url": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+     "summary": "The Chief Minister said his government is working to build the progressive Punjab they envision",
+     "published": "2026-11-16T22:57:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/pmhaqi/article71709083.ece/alternates/LANDSCAPE_1200/20261116470L.jpg",
+     "image": "https://th-i.thgim.com/public/incoming/y7hw4f/article71709560.ece/alternates/LANDSCAPE_1200/20261116535L.jpg",
      "licence": "linkout",
-     "id": "619f74dfcc3f",
+     "id": "ec66a4c2e43f",
      "category": "politics",
      "category_label": "Political controversy",
-     "from_section": "National News",
-     "figures": [
-      "21 Urban Local Bodies (ULBs) comprising"
-     ]
+     "from_section": "National News"
     },
     {
-     "title": "Bank Holiday on Friday 20 November: Branches closed in Dehradun, Uttarakhand due to this festival; no cheque clearances",
-     "url": "https://www.livemint.com/money/bank-holiday-on-friday-20-november-branches-closed-in-dehradun-uttarakhand-due-to-this-festival-no-cheque-clearances-11794839699625.html",
-     "summary": "Banks in Dehradun, Uttarakhand, will remain closed on November 20 for Igas-Bagwal, affecting branch services and cheque clearances. Digital banking, ATMs and UPI will remain operational. Branches will reopen on November 21, the third Saturday, and close again on November 22 for Sunday.",
-     "published": "2026-11-16T15:38:16+00:00",
-     "source": "Mint",
+     "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+     "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+     "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+     "published": "2026-11-16T21:40:07+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/16/600x338/ii_1788051824377_1788051834963_bf813610-c40c-4da6-bd7b-3fbc6564b4ac_1794842316428_kL9P_0c0690f8-6c44-44a9-801d-15a8876ab0f4_iHCo.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
      "licence": "linkout",
-     "id": "11344fa42cd6",
+     "id": "a7d276c4a1ca",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business"
+     "from_section": "Global News"
     },
     {
-     "title": "Indian National Sentenced For Fraud Scheme Targeting Elderly Victims",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnRhUDh5WndiQVJGNW5SVE5XaC1WNjNybU9YS1dEVkFkTDhIRGc5dGZUYVNvX0l3eGd3b2R5Y1NMN2tDcUVUNDk0Q2h0Skc3dVQ5TFp5MkVLMnhfaFNnUFEwcTc2YVQzZEZocGd0NHlJTDR6dlMwbFoxdkVQY1NjVVZ2eHlmMjgxdmczRDdsZkhNeGZ1MlU2ZEhqQXE?oc=5",
-     "summary": "Indian National Sentenced For Fraud Scheme Targeting Elderly Victims News India Times",
-     "published": "2026-11-16T15:25:14+00:00",
-     "source": "News India Times",
+     "title": "Sukhu govt to set up panel to probe BJP-era ‘scams’",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHU5RFk2MFBRazhpeEFFTXVBVGFIVVRMb1lhcHRTVTVqSGxpWWQ4VXR5RVByOXdZSVdfcGRoaGlIQlMyOC1RUFlST0o2OE41TldsSEdMWXc0Y05ydjBqN1RXemRxMmZudUp3c28tdElzNXRNWVZ0NFVkWVBhUmREM0JpMmw5RHUzOWwzTXdTZ1hYeW5yZ0s2S3BGamhWQVlQbG5wVUpITTNoV0ktd0ppZTFvZk1NYXdUVGtydzg0WWF4YUpSSWfSAcsBQVVfeXFMUGhVYkEzVDIybjdGdjZUOGNsN21JN0txYV9WZVl6UnB1ODFQLVlaZ205RjFXUFo1bEZKWGZpSVR4b1k1Q25CZGZ4TTQ5WU1jMXNRZ1hodDE1Sjh5V29aMGdHd0hzRWp0bG1GZ0lZcmp4ZVZlTUt4dzdzZXNhRFh5VWg1OXFMTXcwalI4eGhrRXk0TGNzNUQxOW45dy1fZnYtSno4NnFHakpsSWZPaDdEY2xGRXdLamI4enFpUmRZVlV5LXJEaFdMZmJnWHM?oc=5",
+     "summary": "Sukhu govt to set up panel to probe BJP-era ‘scams’ The Times of India",
+     "published": "2026-11-16T18:51:00+00:00",
+     "source": "The Times of India",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "1c0300a6650f",
+     "id": "65be8202dbbb",
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Scandals & Investigations"
     },
     {
-     "title": "CBI files supplementary charge sheet against ex-MC employee in Chandigarh Smart City fraud case",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXI1Qk4wcE03R1RUTzZCcUVMT3BZYXd6U0ltNUtsc0o4R0JQNlB3bE1nX3ZzLXFZUkhld2t0R3JScVU2TkNuNjM1MXpVUjVDVlhsMXNoZEtVSUJYVjJ4Mk1DVkxHUnF4X1lkVFN1cjBhVHViTUVYaFpjdzkwZkhLbkxpTlAweDg4Q0FGcmpkdUxMU2pHeGE4dkFpVGQ1WkN4UzAteGdUdVRRWkREcGI3MnA5VFo4eVlVN2J4LU5uYWI4MEdjWnFhRzAzdGppZXQ2M3QtdVo3MXk?oc=5",
-     "summary": "CBI files supplementary charge sheet against ex-MC employee in Chandigarh Smart City fraud case The Tribune",
-     "published": "2026-11-16T14:57:25+00:00",
-     "source": "The Tribune",
+     "title": "India Facing Aircraft Shortage, To Order More Planes: Piyush Goyal",
+     "url": "https://www.ndtv.com/india-news/india-facing-aircraft-shortage-to-order-more-planes-piyush-goyal-12335783#publisher=newsstand",
+     "summary": "India is one of the world's fastest-growing civil aviation markets, and Indian carriers have placed huge orders for aircraft to be delivered in the coming years.",
+     "published": "2026-11-16T18:44:02+00:00",
+     "source": "NDTV",
      "byline": "",
-     "image": null,
+     "image": "https://c.ndtvimg.com/2026-10/nki9f58_piyush-goyals-work-hours-remark-draws-criticism-from-karnataka-it-employees-union_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "9270ce9c3617",
+     "id": "7ab5c734d237",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Scandals & Investigations"
+     "from_section": "National News"
+    },
+    {
+     "title": "When will we see Robert Pattinson as Bond in cinemas?",
+     "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+     "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+     "published": "2026-11-16T17:18:54+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
+     "licence": "linkout",
+     "id": "15bf1354bff8",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Global News"
     },
     {
      "title": "8th Pay Commission: Unions seek 3.833 fitment factor, ₹69,000 minimum pay and 50% family pension for pensioners",
@@ -311,45 +320,80 @@
      ]
     },
     {
-     "title": "Sectoral mutual funds: Should you invest? Risks, returns and 5 things to consider before investing your money",
-     "url": "https://www.livemint.com/money/personal-finance/sectoral-mutual-funds-should-you-invest-risks-returns-and-5-things-to-consider-before-investing-your-money-11794841437272.html",
-     "summary": "Sectoral mutual funds can deliver higher returns but carry concentration, valuation and timing risks. Experts explain five factors investors should consider, including risk appetite, sector performance, earnings growth, entry timing and portfolio allocation.",
-     "published": "2026-11-16T15:12:55+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/16/600x338/Gemini_Geerated_Image_dx071hdx071hdx07_179484189_1794841911783_mugs_1794841911896_lOCG_d31dd7b2-bda0-4541-9a00-90676422e58e_byHx.png",
-     "licence": "linkout",
-     "id": "44720d7b9d48",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "Business",
-     "figures": [
-      "5 things to consider before investing"
-     ]
-    },
-    {
-     "title": "A.P. govt. approves Robotics and Physical AI Policy 2026–36 aimed at total ecosystem for State",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-approves-robotics-and-physical-ai-policy-202636-aimed-at-total-ecosystem-for-state/article71708466.ece",
-     "summary": "G.O Ms. No. 86 issued by IT Secretary covers manufacture and development of components, robot platforms, system integration, R & D, talent development and adoption eyeing end-to-end solutions",
-     "published": "2026-11-16T16:22:48+00:00",
+     "title": "Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas",
+     "url": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+     "summary": "Bishop of Calcutta Reverend Paritosh Canning ruled out claims of religious conversion by institutions affiliated with the Churches of North India",
+     "published": "2026-11-16T21:36:56+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hfjfhf/article71709097.ece/alternates/LANDSCAPE_1200/10745_29_9_2026_18_42_58_1_IMG_20260929_WA0095.JPG",
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "8f5eab74ccc5",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "National News",
-     "figures": [
-      "36 aimed at total ecosystem",
-      "86 issued by IT Secretary covers"
-     ]
+     "id": "422b2ee7dcdf",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "National News"
     },
     {
-     "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+     "title": "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-akvan-to-bring-light-rainfall-to-parts-of-coastal-tn-on-november-17/article71707572.ece",
+     "summary": "The RMC, Chennai, has forecast that mainly dry weather is likely to prevail over the rest of the State during this time",
+     "published": "2026-11-16T20:19:08+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ly4y51/article71707679.ece/alternates/LANDSCAPE_1200/UMS_9821.JPG",
+     "licence": "linkout",
+     "id": "213e53064a18",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "Toronto Maple Leafs Get Unexpected Boost From Colorado Avalanche As Future Comes Into Focus",
+     "url": "https://sports.ndtv.com/us/nhl/toronto-maple-leafs-get-unexpected-boost-from-colorado-avalanche-as-future-comes-into-focus-12335373#publisher=newsstand",
+     "summary": "Toronto Maple Leafs hold no first-round picks in 2027 or 2028 except one from Colorado. With MacKinnon and Makar injured, that pick is gaining major value and could reshape the Leafs’ options at the trade deadline and beyond.",
+     "published": "2026-11-16T18:41:44+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/dq65pdpc_toronto-maple-leafs_625x300_16_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "82c631f3f86d",
+     "category": "weather",
+     "category_label": "Weather & disaster",
+     "from_section": "Sports"
+    },
+    {
+     "title": "The AI start-ups fixing India's broken roads and messy land records",
+     "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+     "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+     "published": "2026-11-16T23:25:53+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+     "licence": "linkout",
+     "id": "f6d6d71d4d55",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "California sues OpenAI over Hugging Face attack",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+     "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+     "published": "2026-11-16T23:12:24+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+     "licence": "linkout",
+     "id": "3dc2e0addfe5",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Business"
+    },
+    {
+     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-     "published": "2026-11-16T15:31:20+00:00",
+     "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+     "published": "2026-11-16T22:21:27+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
@@ -360,60 +404,18 @@
      "from_section": "Global News"
     },
     {
-     "title": "India and Israel Explore New Frontiers in Artificial Intelligence Cooperation",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXJUQnROVDZwMVNJUUl4bGdKVlE0bjNkZjR0cjNfdUpEcU82QlpobVV3TXBsdXpIY1J6Z25Dd1ZMRi05akNFc3V3UHpBRkZlXzZKU3JYYU1MckUzdHZtMlZabU90MG41cFBXLXhySUxIZFNmejl6Z0x4NTJXS3BManp3SWFBYzBaeUVPZ29fZXlCTTRhLUlsc0QyU01qcTY0ZjhQcTJRZnJROFF2TmFJNWUxemQ0UQ?oc=5",
-     "summary": "India and Israel Explore New Frontiers in Artificial Intelligence Cooperation Elets eGov",
-     "published": "2026-11-16T12:55:56+00:00",
-     "source": "Elets eGov",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "b764d90d77d1",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Technology"
-    },
-    {
-     "title": "Infantino made things worse at FIFA than Blatter, says Jurgen Klopp",
-     "url": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
-     "summary": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
-     "published": "2026-11-16T14:36:23+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "dab8bd79bf4b",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Global News"
-    },
-    {
-     "title": "SAFF Championships: India Eye 10th Title Win, Face Spirited Pakistan In Final",
-     "url": "https://sports.ndtv.com/football/saff-championships-india-eye-10th-title-win-face-spirited-pakistan-in-final-12333328#publisher=newsstand",
-     "summary": "Defending champions India are in sight of a 10th overall and third successive SAFF Championship title when they face Pakistan, a team that is on an unprecedented dream run of its own, in the summit clash of the regional football tournament in Dhaka on Tuesday.",
-     "published": "2026-11-16T13:02:44+00:00",
+     "title": "'Auqib Nabi's Contributions Will Go Unnoticed': Ex-India Spinner's Bold Claim",
+     "url": "https://sports.ndtv.com/cricket/auqib-nabis-contributions-will-go-unnoticed-ex-india-spinners-bold-claim-12331801#publisher=newsstand",
+     "summary": "While he took just five wickets in as many games, Auqib Nabi showed glimpses of the form that saw him finish as the leading wicket-taker in the Ranji Trophy last season.",
+     "published": "2026-11-16T18:32:56+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/u7e48of_indian-team-x-indianfootball_625x300_16_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/tk3uldn8_auqib-nabi_625x300_08_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "a1f1cf7dcbdf",
+     "id": "fffbafe7aa94",
      "category": "sports",
      "category_label": "Sports",
      "from_section": "Sports"
-    },
-    {
-     "title": "Italian Politician's 'Vote Chor, Gaddi Chhod' Chant Violated Visa Rules, Say Govt Sources As BJP Seeks Probe",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUDFOMXpUMFQ3TWRJOGJzOE01UXB0WDRiZEs1ay1NZkFDUThMX21TWVJVSUJsTEJfX0w0UVdvQ0JZTjBIeUZsSXdtSG85UmFBVjQtVWxnSWEyMUtjVndkV1otVG5mX09uTEEtVzRSeXk5a1pLNDV2TTJTTk5SVmp3dUU1cEYtZTAtellKNmlEZFNWM1M0NzBtY1V2RXFPUHlEX2NJUDJjVWJFSWdIem1VRTFsSDlSd1RQczRBajdXcVNiZWI2ZjlkUEJvS0lHWnpaOGhZRTZUZkYtaFdrZjd2LUlCUXZPbHNsZ2fSAfABQVVfeXFMT1Q5dElydXdwa2d3N2gzdGlkVEZQak9sV0JiVkxXVjhpVjBDc3FRaEp3QjBKV0J1czNBVE5IUHdjZFZhZjhpLVZGQzNON1l0UkRyVExiaEdoX19oZUdQemNMVzlBMExkakVtYVRFRVU5Skp2V0Z2eHdBTkh5R2k5NEYxeXlscGprclo5bkt6WllDcmxFTW9wWTNkX01adTE1TGVqZWtLc0ZWekdVRVp5VEh2MGVwcXlSZGloSnI0MVZXNVk5RG5EelpUOUt5eGdmRjByZDFYYnpWQk1oNlpDUVRWcnV5REtfZTZBVWFab1Mx?oc=5",
-     "summary": "Italian Politician's 'Vote Chor, Gaddi Chhod' Chant Violated Visa Rules, Say Govt Sources As BJP Seeks Probe The Daily Jagran",
-     "published": "2026-11-16T08:20:00+00:00",
-     "source": "The Daily Jagran",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "5cce628dc4fa",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
-     "from_section": "Scandals & Investigations"
     }
    ]
   },
@@ -429,7 +431,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-11-16T16:36:03.091231+00:00",
+     "published": "2026-11-17T00:32:48.383149+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -440,7 +442,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-11-16T16:36:03.091245+00:00",
+     "published": "2026-11-17T00:32:48.383167+00:00",
      "image": "https://static.dw.com/image/47219195_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -451,7 +453,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-11-16T16:36:03.091248+00:00",
+     "published": "2026-11-17T00:32:48.383174+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -462,7 +464,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-11-16T16:36:03.091251+00:00",
+     "published": "2026-11-17T00:32:48.383178+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -473,7 +475,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-11-16T16:36:03.091253+00:00",
+     "published": "2026-11-17T00:32:48.383183+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -484,10 +486,32 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-11-16T16:36:03.091256+00:00",
+     "published": "2026-11-17T00:32:48.383188+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+     "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+     "published": "2026-11-16T23:57:49+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?resize=1643%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "4e56eb2b5b97",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+       "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+       "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent."
+      }
+     ],
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -497,6 +521,19 @@
    "title": "Scandals & Investigations",
    "upsc": false,
    "items": [
+    {
+     "title": "Audit Diwas 2026: Audit must go beyond protecting public money, must earn people's trust: CAG K Sanjay Murthy",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN2xLbE9FZTA3LXBhbHEzcUdMYXNjVnluNjh4WmFvaGE3N1FWdmNFQkt6WngydEZCNEdfVnUyVmhFcnhqdXNGV0xHRkhNVXMtc1BROGVsWmJKZ3F1cUhfYWpzWHNZd2V2NXRCN010dG9OcWJiWkw1N3J3aGw1NG5kRXRFUXhBTll3T3c0LXpGYmFJQnJzRVFNU3FSd3VzelNXbl9oSjczY1k0ZUNtMlRKRHpRN0dEaC0tZzNmdWV5T1doRzltZ005VklIaXpaRUFEY1dMQ19HNURTS2g2Zm1kNzNWalUzbk9tMmg1YnhWYnhhbXdia1o3Qw?oc=5",
+     "summary": "Audit Diwas 2026: Audit must go beyond protecting public money, must earn people's trust: CAG K Sanjay Murthy ANI News",
+     "published": "2026-11-16T11:30:00+00:00",
+     "source": "ANI News",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "c5d905aa3d1a",
+     "category": "general",
+     "category_label": "General"
+    },
     {
      "title": "CAG to celebrate Audit Diwas on 16 Nov 2026",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXVUYnoydTFqMkdCaDVpeGxPWGp3aW1zMFk2OUhyX2JUOVc3VmpnUm13VV93dXl5UXliVTgxcmx1LV8wNkgzS0JVNWtRd1dma0swTExsaGRRcmV1cUdPeDRTSDZSVlJQUHFzWFBuRkN3a1ZTWlI3cGNIclczSUIzZEdn0gGPAUFVX3lxTFBKS0Qza1FJQlVZckZPRzVKQUhPYmY5eG9ERmpuNFZKbEVwN0hWNTRRREI5dFRIN1ZXZlprUHdZOGkyejZpaVF3UEFTV0loMFJiREpWUDVvaFNCZkU3dHR4bTNxdWg0ZDc4MW5NRmU4bVR1MUxJeV9HX2pSZ19JdkRjWUxxQWJrV0RIY1kwU05J?oc=5",
@@ -537,15 +574,15 @@
      "category_label": "AI & technology"
     },
     {
-     "title": "Audit Diwas 2026: Audit must go beyond protecting public money, must earn people's trust: CAG K Sanjay Murthy",
-     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZG9GN25MNUpYS1FVa2Zrbk5kN3Y5cmhZUnVacG5NbVMyZmRlcHZvOGFXdGdGSWt1WEJibHYxa3llaXRzOUJaSF9tQjFQdHowejc2NllUQjQwQjBSWlhsVDcyQTJ2dEpLdUNPdkZHQUdfc1BlTUR3RnZaTXNGMjJsRFhmTTVhT3hjVGtqT1NWN3ZtMnpINldSR3o3Z1ozdmFUUlB3ZXRfMUJwX2JEZG8tYjZlT09sVWNWM0RtZE9ZN2hPN3VPMnYzbi1QS01WZHJSdWsyQWp4Y3JXZzZFRTNrakxLenE3UFhrbktRTEVSMS1iUzM4RjRVUFhXRmJQRUt1MXhNNjNxd09tWF9DalBRZTBVNl9CbUhZS055R3lILVVDTEhRamYxUkhrNXBiZVVNZXA1eUFVQmVrdnE4TnBVQjdRNHpXVVpYVlVKWTFzc2dtYnVPRDZvWGh6STVlSExPcjFOZ0MwN1B2a0NZeWdEYy16Qjd6QVRSMW9tb0x4UXF5eEJ3bjdBdFBPNWMxbjQ5c2psWQ?oc=5",
-     "summary": "Audit Diwas 2026: Audit must go beyond protecting public money, must earn people's trust: CAG K Sanjay Murthy Dailyhunt",
-     "published": "2026-11-16T12:30:34+00:00",
-     "source": "Dailyhunt",
+     "title": "Junior doctors demand safety audit in govt medical college hostels in Telangana",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDEtNy1hUHZ5dUVYT2ZlOFBYYy16RnZiWmFDQXZYY0dDV3pad21NdC1tTzEyVXFIOXpRcHlwVmkzX200Ym1kdXBxSEhNVjh0VHVlLUMwM2x1UWRMbzAwc3kxZHRDOW92aGxPMExUemtyNDFVejlCMVkzOVFZcUoyWU5WbUZEQW1Sc3lxaU1YT1ZBaEcwZ0dkMVV5UnBocjJMSThZMzI1c2U2U1JhZ3RHRl9VU3FwT1ZqbGxUU1lqNnpVYzdiTm03eVFtSW50Q096QmgtNQ?oc=5",
+     "summary": "Junior doctors demand safety audit in govt medical college hostels in Telangana The Hans India",
+     "published": "2026-11-16T19:39:01+00:00",
+     "source": "The Hans India",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "b5a1ae14fc4e",
+     "id": "d0fdbc4bb26b",
      "category": "general",
      "category_label": "General"
     },
@@ -563,23 +600,30 @@
      "category_label": "General"
     },
     {
-     "title": "Rs 27 lakh UP dustbin scam: Rs 14,000 paid per bin against Rs 3,400 market price",
-     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNLUlUQUpZRnZBYmhrV0czTHRLSk00aUY1M0xhMkJfY3dfMVN3SUoxN0NDYTlIbW5PcGJDMC1VeDRZY1phODRuTDdKYkdJU3ZuLVhPN3JrV2c3VUNsSjZlZXhYdVVWd0k2R2R2ckRrbktGeXFhMVNxTEllQzljX0hTdFlienBXLVB4MXBpSU5hR0ZuMVRhMHhXbEFDMjkydzQ2MUQ3RHVjR3BNUkhJUEVzR0RLQ09DMWFBVmJ0MEk0X3pKWTRIc3VGSVU3aVl4RzlRbXNOQ2lmUTZxSDNFUlNTUENjZFNFdGh1NVNycm05aWRvWmJsV20tRHZwbUhfaGwweGVYdjNDUlFzbDVhOHczT09ncFcwTEJLV1g4bkg3S0jSAaYCQVVfeXFMUFdKU0RNWEtzQk12N3ZFdHBRa0F6YW05QTVRVmdyQmlQNTNMeG5WVUhUMThNTUpjcHhxdV9MMGMwRzRReU40dVdNRVJpR0RCQ25uWGZRSE84NEo5bFJhb2cyZnlsVEdpU1JtOFNVVm5Eem5hUTI5dXhyQjFLdm5vYzZmRjV4ZExxQksxVTY1dHRTOUdNZFNyOUtVU3hPcTNGbWFNQzgwUUlUa3FXLXNMLUF4WWZxbEhLRUhBRWtNdE1ma0swU0NhRkhFVXlLbHR5MmZSbkVWTzJDelpsMXp5djBXUGV5YTVfQzBFd0l6QnlOZTd6ZjdRdTJRc1hzMlJMN1pRTHlTRXFSczBic0JuRVdIZ2twNnV2dU02Wm5sQTUtSTdVNjZB?oc=5",
-     "summary": "Rs 27 lakh UP dustbin scam: Rs 14,000 paid per bin against Rs 3,400 market price India Today",
-     "published": "2026-11-15T18:19:49+00:00",
-     "source": "India Today",
+     "title": "Indian National Sentenced For Fraud Targeting Elderly Victims In Several States",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzFUaFoxTEI4aWZYZVhnVXFCWEp6VWxXdmRnNHdiNlFLeGVOLWwwc0F4d1R4TmdWLXlHU05MRU13d003a2tjZENaTGVfeVNqUDRESmxKcmVucWhrZ29ZX3NDZ2dTQl9oenZfYVVDWjhnZkhCTHpJSHZUdXh0UlZYM3dUdnZEVUE0c2E2ZFVJU1RJZVFJMmlnNFhJWWxqU2RtM1VibEliZF9WUVE?oc=5",
+     "summary": "Indian National Sentenced For Fraud Targeting Elderly Victims In Several States News India Times",
+     "published": "2026-11-16T15:25:14+00:00",
+     "source": "News India Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "0a26757e12e7",
+     "id": "989366234bea",
      "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "Rs 27 lakh UP dustbin scam: Rs",
-      "Rs 14,000  paid per bin against",
-      "Rs 3,400  market price",
-      "Rs 3,400  market price India Today"
-     ]
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "CBI files supplementary charge sheet against ex-MC employee in Chandigarh Smart City fraud case",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXI1Qk4wcE03R1RUTzZCcUVMT3BZYXd6U0ltNUtsc0o4R0JQNlB3bE1nX3ZzLXFZUkhld2t0R3JScVU2TkNuNjM1MXpVUjVDVlhsMXNoZEtVSUJYVjJ4Mk1DVkxHUnF4X1lkVFN1cjBhVHViTUVYaFpjdzkwZkhLbkxpTlAweDg4Q0FGcmpkdUxMU2pHeGE4dkFpVGQ1WkN4UzAteGdUdVRRWkREcGI3MnA5VFo4eVlVN2J4LU5uYWI4MEdjWnFhRzAzdGppZXQ2M3QtdVo3MXnSAdwBQVVfeXFMTmE3endhMjhNNVZBQXFvOWIybkNBY2xGQ0NFV29PTmZrUm5aT0NmNFVzMzNfbzZqVzMzN2FCUmd0N3RxbDN6WFNMN1RHX3ZYR1JuajNCZWhrb2ZjNnhvTzdTVDY2NHY4ZVE2NVo5djV3YU9OQl9WY0JOeEMyVlo4bVY1NFhaTlAtZGYxTE1xRGQtT1N6Qi12M2JzX1luZkE1b2VsZDVFcVMyV1VhN3BIcWNzbzlXWHFWbGVmVlk4UlJiQmxHQ0ZoR1lpUHJkOFk0dkRwZjdJZlNzcXdINg?oc=5",
+     "summary": "CBI files supplementary charge sheet against ex-MC employee in Chandigarh Smart City fraud case The Tribune",
+     "published": "2026-11-16T14:57:25+00:00",
+     "source": "The Tribune",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "5f7ddc18debc",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
      "title": "U-19 Asia Cup 2026: Pakistan cricketers face age-fraud allegations; Ali Raza, Farhan Yousaf under scanner",
@@ -606,128 +650,103 @@
    "upsc": false,
    "items": [
     {
-     "title": "Grindr dating trap: Five held for drugging, robbing men in 14 cases",
-     "url": "https://www.thehindu.com/news/national/telangana/grindr-dating-trap-five-held-for-drugging-robbing-men-in-14-cases/article71708895.ece",
-     "summary": "The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings. Police suspect one member was planning to expand the racket by recruiting more people",
-     "published": "2026-11-16T16:26:58+00:00",
+     "title": "BJP holds key party meeting in Mathura for Assembly polls",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+     "summary": "The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach",
+     "published": "2026-11-16T23:27:22+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/j2pddr/article71708884.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%205.50.53%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/78xw0r/article71709580.ece/alternates/LANDSCAPE_1200/HXQBPS1bUAAKXsb.jpeg",
      "licence": "linkout",
-     "id": "b530a16adfd8",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "14 cases"
-     ]
-    },
-    {
-     "title": "A.P. govt. approves Robotics and Physical AI Policy 2026–36 aimed at total ecosystem for State",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-approves-robotics-and-physical-ai-policy-202636-aimed-at-total-ecosystem-for-state/article71708466.ece",
-     "summary": "G.O Ms. No. 86 issued by IT Secretary covers manufacture and development of components, robot platforms, system integration, R & D, talent development and adoption eyeing end-to-end solutions",
-     "published": "2026-11-16T16:22:48+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hfjfhf/article71709097.ece/alternates/LANDSCAPE_1200/10745_29_9_2026_18_42_58_1_IMG_20260929_WA0095.JPG",
-     "licence": "linkout",
-     "id": "8f5eab74ccc5",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "36 aimed at total ecosystem",
-      "86 issued by IT Secretary covers"
-     ]
-    },
-    {
-     "title": "BJP parts ways with Jana Sena, TDP in Bhimavaram Municipal election citing violation of alliance dharma",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-parts-ways-with-jana-sena-tdp-in-bhimavaram-municipal-election-citing-violation-of-alliance-dharma/article71708511.ece",
-     "summary": "Union Minister and Narsapuram BJP MP Bhupathiraju Srinivas Varma announced that BJP would go alone in the Bhimavaram election, accusing the alliance partners of violating alliance dharma over seat-sharing.",
-     "published": "2026-11-16T16:20:30+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t64w8u/article71709088.ece/alternates/LANDSCAPE_1200/BJP.jpg",
-     "licence": "linkout",
-     "id": "c3dfe8b741ae",
+     "id": "391d5c0dc262",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "Call for dedicated a Press Commission to protect journalists",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/call-for-dedicated-a-press-commission-to-protect-journalists/article71708842.ece",
-     "summary": "",
-     "published": "2026-11-16T16:14:50+00:00",
+     "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+     "url": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+     "summary": "The Chief Minister said his government is working to build the progressive Punjab they envision",
+     "published": "2026-11-16T22:57:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/68hk5d/article71709064.ece/alternates/LANDSCAPE_1200/DSC_9905.JPG",
+     "image": "https://th-i.thgim.com/public/incoming/y7hw4f/article71709560.ece/alternates/LANDSCAPE_1200/20261116535L.jpg",
      "licence": "linkout",
-     "id": "527892aea7c0",
-     "category": "general",
-     "category_label": "General"
+     "id": "ec66a4c2e43f",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Lashkar Terrorist Killed In J&K Encounter, Another Trapped, Op Underway",
-     "url": "https://www.ndtv.com/india-news/2-lashkar-terrorists-linked-to-crpf-camp-attack-killed-in-encounter-in-jammu-and-kashmirs-kulgam-12332832#publisher=newsstand",
-     "summary": "The police said the whole area has been cordoned off with the help of the army and other security forces.",
-     "published": "2026-11-16T11:02:42+00:00",
+     "title": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+     "summary": "Mr. Karra said that “two SPOs were killed by the Army in a mistaken-identity case on November 11”, while senior BJP leader Sharma said, “Congress is spreading misleading information to shift blame from terrorists to security forces”",
+     "published": "2026-11-16T22:06:43+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/374yqi/article71709553.ece/alternates/LANDSCAPE_1200/20261116508L.jpg",
+     "licence": "linkout",
+     "id": "99c87d39bfb8",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Publisher Arrested In Tamil Nadu Library Books Procurement Scam",
+     "url": "https://www.ndtv.com/india-news/vigilance-arrests-akal-vizhakku-publishers-owner-in-book-procurement-case-12335813#publisher=newsstand",
+     "summary": "R Mohan had reportedly created books under the names of fictitious authors, using information sourced from websites and online platforms, including ChatGPT.",
+     "published": "2026-11-16T19:08:55+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/5ktur0rk_kashmir_625x300_11_November_26.jpg",
+     "image": "https://c.ndtvimg.com/2019-09/ps3hfi48_library-generic_625x300_24_September_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "ac2380509e2c",
+     "id": "69b2c56d1a5c",
      "category": "crime",
      "category_label": "Crime"
     },
     {
-     "title": "Amitabh Bachchan, Abhishek Bachchan Receive Death Threats From Gangster Goldy Dhillon",
-     "url": "https://www.ndtv.com/india-news/amitabh-bachchan-abhishek-bachchan-receive-death-threats-from-gangster-goldy-dhillon-12333576#publisher=newsstand",
-     "summary": "The threats come days after the Delhi Police Special Cell arrested two alleged shooters linked to the Lawrence Bishnoi gang, who investigators suspect were involved in a conspiracy to open fire outside Amitabh Bachchan's residence.",
-     "published": "2026-11-16T11:00:15+00:00",
+     "title": "In Rahul Gandhi's Sonia-Rajiv Anecdote, A Sombre \"Blown To Pieces\" Note",
+     "url": "https://www.ndtv.com/india-news/in-rahul-gandhis-sonia-gandhi-rajiv-gandhi-anecdote-a-sombre-blown-to-pieces-note-12335772#publisher=newsstand",
+     "summary": "In his speech, Rahul Gandhi recalls his parents' deep bond, the one time he saw them fight, and an assassination that changed everything for the family.",
+     "published": "2026-11-16T19:05:07+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/c9lqrivs_amitabh-bachchan-ani_625x300_16_November_26.jpeg",
+     "image": "https://c.ndtvimg.com/2026-10/sgd0l6l_sonia-gandhi_625x300_24_October_26.jpeg",
      "licence": "linkout",
-     "id": "f534316c4281",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "\"Shut It Down\": Father Beaten Up, Varanasi Sisters Vandalise Eatery",
-     "url": "https://www.ndtv.com/india-news/shut-it-down-father-beaten-up-varanasi-sisters-vandalise-eatery-12333471#publisher=newsstand",
-     "summary": "The restaurant owner said the women refused to listen after which he filed a police complaint. A case has been filed following the complaint.",
-     "published": "2026-11-16T10:50:12+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/hdra83f_varanasi-vandalism_625x300_16_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "f3c984486a9a",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "'First-Hand Experience': IIT Madras Invites General Public To Institute Open House 2027",
-     "url": "https://www.ndtv.com/education/iit-madras-invites-general-public-to-institute-open-house-2027-heres-how-to-register-12333495#publisher=newsstand",
-     "summary": "A real-time crowd monitoring system with visual indicators will help visitors identify laboratories experiencing high visitor traffic.",
-     "published": "2026-11-16T10:45:54+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/f6l5dt18_iit-madras_625x300_16_November_26.jpg",
-     "licence": "linkout",
-     "id": "ad5b33668e6f",
+     "id": "159c9917d28b",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Punjab Congress Forms Fail-Safe Panel To Induct Turncoats Ahead Of Polls",
-     "url": "https://www.ndtv.com/india-news/punjab-congress-forms-fail-safe-panel-to-induct-turncoats-ahead-of-polls-12329903#publisher=newsstand",
-     "summary": "The panel will coordinate and supervise the joining process of leaders willing to leave their respective political parties and join the Congress.",
-     "published": "2026-11-16T10:41:34+00:00",
+     "title": "187 Days After Their Murder, Bodies Of 6 Naga Men Buried In Manipur",
+     "url": "https://www.ndtv.com/india-news/187-days-after-their-murder-bodies-of-6-naga-men-buried-in-manipur-12335795#publisher=newsstand",
+     "summary": "The six victims, belonging to the Liangmai/Zeliangrong Naga community, were kidnapped from Leilon Vaiphei village in Manipur's Kangpokpi district on May 13. Their bodies were recovered on June 10.",
+     "published": "2026-11-16T18:49:01+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/e8rtd0c4_plan_625x300_15_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/ifhugcbs_naga-men_625x300_17_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "ec742174092b",
-     "category": "general",
-     "category_label": "General"
+     "id": "624bd9ea5a4f",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "187 Days After Their Murder, Bodies",
+      "6 Naga Men Buried In Manipur",
+      "13. Their bodies were recovered"
+     ]
+    },
+    {
+     "title": "Man Killed After Gunmen Fire Over 20 Rounds Near Delhi Minister Kapil Mishra's Office",
+     "url": "https://www.ndtv.com/india-news/man-killed-after-gunmen-fire-over-20-rounds-near-delhi-minister-kapil-mishras-office-12335776#publisher=newsstand",
+     "summary": "Following the incident, police teams rushed to the spot. A crime team and the Forensic Science Laboratory (FSL) team were also called to collect evidence.",
+     "published": "2026-11-16T18:41:08+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://i.ndtvimg.com/i/2017-05/kapil-mishra-pti_650x400_71495483372.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "6e2823229648",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "20 Rounds Near Delhi Minister Kapil"
+     ]
     }
    ]
   },
@@ -738,52 +757,83 @@
    "upsc": false,
    "items": [
     {
-     "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
-     "summary": "Oil tankers hit sea mines in the Strait of Hormuz",
-     "published": "2026-11-16T15:37:49+00:00",
+     "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+     "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+     "published": "2026-11-16T23:57:49+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794843461.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?resize=1643%2C1080&quality=80",
      "licence": "linkout",
-     "id": "011eb490949c",
+     "id": "4e56eb2b5b97",
+     "also": [
+      {
+       "source": "BBC News",
+       "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+       "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+       "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent."
+      }
+     ],
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Students protest as air pollution chokes New Delhi",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
-     "summary": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
-     "published": "2026-11-16T15:27:07+00:00",
+     "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+     "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+     "summary": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+     "published": "2026-11-16T23:44:32+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794842808.jpg?resize=1920%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb7e2e9314-1794866734.jpg?resize=1200%2C630",
      "licence": "linkout",
-     "id": "551c87c3b5dd",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "5af00c545ae7",
+     "category": "crime",
+     "category_label": "Crime"
     },
     {
-     "title": "At least 17 killed in two South Africa mass shootings",
-     "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
-     "summary": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
-     "published": "2026-11-16T15:26:39+00:00",
+     "title": "Trump departs for ASEAN on summit with Xi and Putin",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+     "summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+     "published": "2026-11-16T23:42:03+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb113f006a-1794838847.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794872451.jpg?resize=1338%2C1080&quality=80",
      "licence": "linkout",
-     "id": "f9e5673299a5",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "17 killed in two South Africa"
-     ]
+     "id": "886263f064d5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "EU agrees to resurrect cooperation deal with Syria",
+     "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+     "summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+     "published": "2026-11-16T23:00:36+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "bcf74afa2471",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+     "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+     "summary": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+     "published": "2026-11-16T22:40:07+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250718__678C3LY__v2__HighRes__UsIsraelDiplomacyDefense-1794860753.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "c95ec2cf0f9c",
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
      "title": "Five EU countries announce migrant deportation centre in Rwanda",
      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-     "published": "2026-11-16T16:27:24+00:00",
+     "published": "2026-11-16T23:20:45+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
@@ -791,35 +841,6 @@
      "id": "8d5a143784b6",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Man sentenced over 'horrific' attempted murder of three children",
-     "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
-     "summary": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
-     "published": "2026-11-16T12:27:15+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5a/live/9c3bd7d0-e1af-11f1-9a3f-99aca912798e.jpg",
-     "licence": "linkout",
-     "id": "400648787213",
-     "category": "crime",
-     "category_label": "Crime"
-    },
-    {
-     "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
-     "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
-     "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
-     "published": "2026-11-16T14:48:55+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee22/live/2a20af90-e1c8-11f1-99a1-253766e7ad8b.jpg",
-     "licence": "linkout",
-     "id": "9f8110f8c529",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "figures": [
-      "11 nominations while Dolly Parton is"
-     ]
     }
    ]
   },
@@ -906,106 +927,67 @@
    "upsc": false,
    "items": [
     {
-     "title": "Grindr dating trap: Five held for drugging, robbing men in 14 cases",
-     "url": "https://www.thehindu.com/news/national/telangana/grindr-dating-trap-five-held-for-drugging-robbing-men-in-14-cases/article71708895.ece",
-     "summary": "The accused allegedly posed as dates on Grindr to groom targets, assessed their lifestyles through video calls and drugged them during meetings. Police suspect one member was planning to expand the racket by recruiting more people",
-     "published": "2026-11-16T16:26:58+00:00",
+     "title": "BJP holds key party meeting in Mathura for Assembly polls",
+     "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+     "summary": "The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach",
+     "published": "2026-11-16T23:27:22+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/telangana/j2pddr/article71708884.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%205.50.53%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/78xw0r/article71709580.ece/alternates/LANDSCAPE_1200/HXQBPS1bUAAKXsb.jpeg",
      "licence": "linkout",
-     "id": "b530a16adfd8",
-     "category": "crime",
-     "category_label": "Crime",
-     "figures": [
-      "14 cases"
-     ]
-    },
-    {
-     "title": "A.P. govt. approves Robotics and Physical AI Policy 2026–36 aimed at total ecosystem for State",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-approves-robotics-and-physical-ai-policy-202636-aimed-at-total-ecosystem-for-state/article71708466.ece",
-     "summary": "G.O Ms. No. 86 issued by IT Secretary covers manufacture and development of components, robot platforms, system integration, R & D, talent development and adoption eyeing end-to-end solutions",
-     "published": "2026-11-16T16:22:48+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/hfjfhf/article71709097.ece/alternates/LANDSCAPE_1200/10745_29_9_2026_18_42_58_1_IMG_20260929_WA0095.JPG",
-     "licence": "linkout",
-     "id": "8f5eab74ccc5",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "figures": [
-      "36 aimed at total ecosystem",
-      "86 issued by IT Secretary covers"
-     ]
-    },
-    {
-     "title": "BJP parts ways with Jana Sena, TDP in Bhimavaram Municipal election citing violation of alliance dharma",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-parts-ways-with-jana-sena-tdp-in-bhimavaram-municipal-election-citing-violation-of-alliance-dharma/article71708511.ece",
-     "summary": "Union Minister and Narsapuram BJP MP Bhupathiraju Srinivas Varma announced that BJP would go alone in the Bhimavaram election, accusing the alliance partners of violating alliance dharma over seat-sharing.",
-     "published": "2026-11-16T16:20:30+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/t64w8u/article71709088.ece/alternates/LANDSCAPE_1200/BJP.jpg",
-     "licence": "linkout",
-     "id": "c3dfe8b741ae",
+     "id": "391d5c0dc262",
      "category": "politics",
      "category_label": "Political controversy"
     },
     {
-     "title": "SC upholds NCLAT order to revisit ₹2,962-cr. Videocon resolution plan",
-     "url": "https://www.thehindu.com/news/national/sc-upholds-nclat-order-to-revisit-2962-cr-videocon-resolution-plan/article71708719.ece",
-     "summary": "",
-     "published": "2026-11-16T16:14:40+00:00",
+     "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+     "url": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+     "summary": "The Chief Minister said his government is working to build the progressive Punjab they envision",
+     "published": "2026-11-16T22:57:18+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://www.thehindu.com/theme/images/og-image.png",
+     "image": "https://th-i.thgim.com/public/incoming/y7hw4f/article71709560.ece/alternates/LANDSCAPE_1200/20261116535L.jpg",
      "licence": "linkout",
-     "id": "3df1e0bea6c6",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "₹2,962 -cr"
-     ]
-    },
-    {
-     "title": "Nikhara drive: Cases registered against 275 traders for cheating on weights",
-     "url": "https://www.thehindu.com/news/national/karnataka/nikhara-drive-cases-registered-against-275-traders-for-cheating-on-weights/article71708688.ece",
-     "summary": "",
-     "published": "2026-11-16T16:14:26+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/181ps3/article71709072.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%2020.08.09.JPEG",
-     "licence": "linkout",
-     "id": "d04aed2545f3",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "275 traders for cheating on weights"
-     ]
-    },
-    {
-     "title": "Ex-servicemen stage protest in Kannur, demand improved ECHS healthcare and pension benefits",
-     "url": "https://www.thehindu.com/news/national/kerala//article71708777.ece",
-     "summary": "The protesters demanded that the Ex-Servicemen Contributory Health Scheme (ECHS) be made mandatory at all hospitals, including those offering super-specialty treatment, and that the package-based treatment system for ex-servicemen be discontinued.",
-     "published": "2026-11-16T16:04:14+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "1c3ccaa1e0eb",
+     "id": "ec66a4c2e43f",
      "category": "politics",
      "category_label": "Political controversy"
+    },
+    {
+     "title": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
+     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+     "summary": "Mr. Karra said that “two SPOs were killed by the Army in a mistaken-identity case on November 11”, while senior BJP leader Sharma said, “Congress is spreading misleading information to shift blame from terrorists to security forces”",
+     "published": "2026-11-16T22:06:43+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/374yqi/article71709553.ece/alternates/LANDSCAPE_1200/20261116508L.jpg",
+     "licence": "linkout",
+     "id": "99c87d39bfb8",
+     "category": "conflict",
+     "category_label": "War & conflict"
+    },
+    {
+     "title": "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi",
+     "url": "https://www.thehindu.com/news/national/kerala/site-inspection-held-for-key-goshree-mamangalam-traffic-corridor-in-keralams-kochi/article71709043.ece",
+     "summary": "Developing the stretch into a major traffic corridor is expected to help resolve the city’s persistent traffic bottlenecks to a great extent and ease the existing pressure on several roads",
+     "published": "2026-11-16T20:23:24+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/abepmf/article71709425.ece/alternates/LANDSCAPE_1200/80968_11_7_2026_19_56_6_1_7O3A3077.JPEG",
+     "licence": "linkout",
+     "id": "2c46a233ed81",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "School Assembly Headlines (November 17): Top National, International News",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWk2YkJsMlhlSkR0MzdfZlZ5VzZCT1ZYQ0dxRmhLZjBMUzlkMVpvZmZRT2F6bndrMmdxZ3NES1dQUGg1dnF6OVNwdVBSdnlYeloyOHJrM0Zac2ZWQlB2MlR4ZGJrU05XNEFiSTczbEo2dS1pTUxSNVgwNl9mTXBjVnAzTmphWE4ySHJ6X2xvWTNZMlhPRFlvZUN1ZHd4QW1vNnJnTWxpMHlmXzFQdGc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWk2YkJsMlhlSkR0MzdfZlZ5VzZCT1ZYQ0dxRmhLZjBMUzlkMVpvZmZRT2F6bndrMmdxZ3NES1dQUGg1dnF6OVNwdVBSdnlYeloyOHJrM0Zac2ZWQlB2MlR4ZGJrU05XNEFiSTczbEo2dS1pTUxSNVgwNl9mTXBjVnAzTmphWE4ySHJ6X2xvWTNZMlhPRFlvZUN1ZHd4QW1vNnJnTWxpMHlmXzFQdGfSAbYBQVVfeXFMTUo2VmU3bmVNZ3FCTi13M0FUSVA5X1VqX09LeFdoNVJPallOeldhQ0hSWXJOa0NxSnp6XzBlX1JKMlJEbF9JcjF2enBSeVBhRGZlRjlKZjFHWnpLdFVhWTFYWkZMbmxrbmNOakZTb0pWbXRNTUVpSEU1aHhlb3RtN2tNUzMzcUc4U2FYcW0weURFSy15THoyc2lxWEZTUmRyYk4zQjBpSkJKVXhUd1R3dm9ocGozY0E?oc=5",
      "summary": "School Assembly Headlines (November 17): Top National, International News NDTV",
      "published": "2026-11-16T14:10:20+00:00",
      "source": "NDTV",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "df15880eb005",
+     "id": "4e18c3d7be4f",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -1116,7 +1098,8 @@
      "category": "money",
      "category_label": "Money & scams"
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "editorial",
@@ -1449,71 +1432,103 @@
    "upsc": false,
    "items": [
     {
-     "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
-     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-     "published": "2026-11-16T15:31:20+00:00",
+     "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+     "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+     "published": "2026-11-16T22:32:47+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg",
      "licence": "linkout",
-     "id": "349134aed1b0",
+     "id": "7360a412f184",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "440,000 young people into work"
+     ]
+    },
+    {
+     "title": "California sues OpenAI over Hugging Face attack",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+     "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+     "published": "2026-11-16T23:12:24+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+     "licence": "linkout",
+     "id": "3dc2e0addfe5",
      "category": "tech",
      "category_label": "AI & technology"
     },
     {
-     "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-     "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-     "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-     "published": "2026-11-16T13:19:33+00:00",
+     "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+     "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+     "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+     "published": "2026-11-17T00:00:03+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
      "licence": "linkout",
-     "id": "339ad517f722",
+     "id": "c6fe273ab62e",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-     "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-     "published": "2026-11-16T15:40:16+00:00",
+     "title": "We couldn't afford a house alone, so we bought one with strangers",
+     "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+     "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+     "published": "2026-11-17T00:00:02+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
      "licence": "linkout",
-     "id": "a5d843ad810e",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "36e03b60e37b",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Intel sued by investors after PC sales slump hits share price",
-     "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-     "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-     "published": "2026-11-16T03:04:01+00:00",
-     "source": "BBC News",
+     "title": "Motor insurance rules from December 15: Your car policy may not cover your spouse, children or parents",
+     "url": "https://www.livemint.com/money/personal-finance/motor-insurance-rules-from-december-15-your-car-policy-may-not-cover-your-spouse-children-or-parents-11794850544270.html",
+     "summary": "From December 15, motor insurance will have four separate coverage sections, with some protections remaining optional. Car and bike owners must understand family exclusions, passenger liability and personal accident cover to ensure their loved ones are adequately protected.",
+     "published": "2026-11-16T17:56:06+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/16/600x338/Gemin_Generated_Image_buhw56buhw56buhw_179485075_1794850766337_XvJe_1794850766469_rCuy_7cb94695-859c-4512-9ef9-51903d441a6c_xq30.png",
      "licence": "linkout",
-     "id": "501905f9bb02",
+     "id": "18dba45c4c29",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "15, motor insurance will have four"
+     ]
+    },
+    {
+     "title": "Bank Holiday on Friday 20 November: Branches closed in Dehradun, Uttarakhand due to this festival; no cheque clearances",
+     "url": "https://www.livemint.com/money/bank-holiday-on-friday-20-november-branches-closed-in-dehradun-uttarakhand-due-to-this-festival-no-cheque-clearances-11794839699625.html",
+     "summary": "Banks in Dehradun, Uttarakhand, will remain closed on November 20 for Igas-Bagwal, affecting branch services and cheque clearances. Digital banking, ATMs and UPI will remain operational. Branches will reopen on November 21, the third Saturday, and close again on November 22 for Sunday.",
+     "published": "2026-11-16T15:38:16+00:00",
+     "source": "Mint",
+     "byline": "",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/16/600x338/ii_1788051824377_1788051834963_bf813610-c40c-4da6-bd7b-3fbc6564b4ac_1794842316428_kL9P_0c0690f8-6c44-44a9-801d-15a8876ab0f4_iHCo.jpg",
+     "licence": "linkout",
+     "id": "11344fa42cd6",
      "category": "money",
      "category_label": "Money & scams"
     },
     {
-     "title": "Gas starts flowing from Jackdaw after government green light",
-     "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-     "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-     "published": "2026-11-16T06:24:08+00:00",
-     "source": "BBC News",
+     "title": "Sectoral mutual funds: Should you invest? Risks, returns and 5 things to consider before investing your money",
+     "url": "https://www.livemint.com/money/personal-finance/sectoral-mutual-funds-should-you-invest-risks-returns-and-5-things-to-consider-before-investing-your-money-11794841437272.html",
+     "summary": "Sectoral mutual funds can deliver higher returns but carry concentration, valuation and timing risks. Experts explain five factors investors should consider, including risk appetite, sector performance, earnings growth, entry timing and portfolio allocation.",
+     "published": "2026-11-16T15:12:55+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015f/live/3d2a7950-e190-11f1-b441-2b33b063138f.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/16/600x338/Gemini_Geerated_Image_dx071hdx071hdx07_179484189_1794841911783_mugs_1794841911896_lOCG_d31dd7b2-bda0-4541-9a00-90676422e58e_byHx.png",
      "licence": "linkout",
-     "id": "8fb768b7b899",
-     "category": "politics",
-     "category_label": "Political controversy",
+     "id": "44720d7b9d48",
+     "category": "celebrity",
+     "category_label": "Celebrity",
      "figures": [
-      "150 miles east of Aberdeen, had"
+      "5 things to consider before investing"
      ]
     },
     {
@@ -1528,25 +1543,6 @@
      "id": "700c9effd540",
      "category": "celebrity",
      "category_label": "Celebrity"
-    },
-    {
-     "title": "Gold rate today in Delhi: Check 24K and 22K gold PM rates on 16 November",
-     "url": "https://www.livemint.com/money/personal-finance/gold-silver-rates-today-16-november-check-24k-22k-gold-and-999-silver-pm-rates-in-delhi-11794837422736.html",
-     "summary": "Gold and silver rates declined on 16 November. IBJA's PM rates put 24K gold at ₹1,34,971 per 10 grams, 22K gold at ₹1,23,633 and 999 silver at ₹1,70,251 per kg.",
-     "published": "2026-11-16T14:02:55+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/16/600x338/Gemini_Generated_Image_22r87722r87722r8_1794837_1794837645811_Hj61_1794837645969_zCpB_746be147-0eda-445c-9ac4-fb616d831a7c_72OH.png",
-     "licence": "linkout",
-     "id": "f3a5c5dedf0d",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "₹1,34,971  per 10 grams, 22K",
-      "10 grams , 22K gold",
-      "₹1,23,633  and 999 silver",
-      "999 silver at ₹1,70,251 per kg"
-     ]
     }
    ]
   },
@@ -1557,10 +1553,36 @@
    "upsc": false,
    "items": [
     {
-     "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+     "title": "The AI start-ups fixing India's broken roads and messy land records",
+     "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+     "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+     "published": "2026-11-16T23:25:53+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+     "licence": "linkout",
+     "id": "f6d6d71d4d55",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "California sues OpenAI over Hugging Face attack",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+     "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+     "published": "2026-11-16T23:12:24+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+     "licence": "linkout",
+     "id": "3dc2e0addfe5",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-     "published": "2026-11-16T15:31:20+00:00",
+     "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+     "published": "2026-11-16T22:21:27+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
@@ -1576,7 +1598,7 @@
      "published": "2026-11-16T13:34:22+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b17/live/41c7a2f0-e1a2-11f1-b0a4-450a350911f4.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/e63476a0-e1ee-11f1-99b6-a35a62fa4264.jpg",
      "licence": "linkout",
      "id": "fe45ff6f0988",
      "category": "general",
@@ -1599,6 +1621,19 @@
      "category_label": "Money & scams"
     },
     {
+     "title": "India and Israel Explore New Frontiers in Artificial Intelligence Cooperation",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXJUQnROVDZwMVNJUUl4bGdKVlE0bjNkZjR0cjNfdUpEcU82QlpobVV3TXBsdXpIY1J6Z25Dd1ZMRi05akNFc3V3UHpBRkZlXzZKU3JYYU1MckUzdHZtMlZabU90MG41cFBXLXhySUxIZFNmejl6Z0x4NTJXS3BManp3SWFBYzBaeUVPZ29fZXlCTTRhLUlsc0QyU01qcTY0ZjhQcTJRZnJROFF2TmFJNWUxemQ0UQ?oc=5",
+     "summary": "India and Israel Explore New Frontiers in Artificial Intelligence Cooperation Elets eGov",
+     "published": "2026-11-16T12:55:56+00:00",
+     "source": "Elets eGov",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "b764d90d77d1",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
      "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjJSYk9GUV92LXFSZDhwRUdsd1hIRC1VcWlGQjJfY0pPUG1JV1A2WmE1OUNyelBaR0dmXzd1c1RjV0pFZ19kWWFuZVc0UnMtVTJsVDZFMVpEa2lqaWl0UllsZVc0X1AxY040NE9oSEtxR1VJMVZSN0RkYTdlUFI4bnBKbWpJVUtmTDRFV0tqb1VGOVl2dUhSOWdoUQ?oc=5",
      "summary": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows Fierce Healthcare",
@@ -1610,6 +1645,19 @@
      "id": "8ca5153ab208",
      "category": "general",
      "category_label": "General"
+    },
+    {
+     "title": "Artificial intelligence drives record surge in software vulnerabilities",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0lvSEZTU2xuZWctNnR5by0wUWgza250ak51SWVhb3VSU0VENHJQVnpCSWNNMTFxX0N3d25kT292dy1PRVdZa0ZiSDI4QjBFczFlM2hDa2o0b05FMGZER01CQkQyTHVXSUtKMFBxcjI5VnkyWk1aRWhRelVVN1ExcTNnSFNyWkRhRDNPa2h1bERWSHhYdm44U1Z6RXd1RjBEdFNZ?oc=5",
+     "summary": "Artificial intelligence drives record surge in software vulnerabilities SC Media",
+     "published": "2026-11-16T18:33:03+00:00",
+     "source": "SC Media",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "7dc706956d40",
+     "category": "tech",
+     "category_label": "AI & technology"
     },
     {
      "title": "Digital Security: How to Protect Trust in the Face of Fraud and Artificial Intelligence",
@@ -1628,25 +1676,12 @@
      "title": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 16 November",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1kzRzJZYUdJM01TTy1wTVFPMjhrOTQ2YjJEQkhVUkNkWF9pRDI4di1PVDNfWGU0UXo5NDVsR1pJQmZwYl9nbDEweGt0TkQ1VkxXc0pmUk93XzZZV3c5a3R4eXJ0bnlpUGx2ZnFlQVRiRWVlbjFaNUVzTVZ2WEJWQlFIdkl2MzRsektFNmtnLTBDSWFRVngwNDhzZE5tZTVoa3N5cFh3VGVyalVib09uclJJVnh0Z0cyR1NSb3RGblBuWGRZaUVYUnRPTHVaVHljX1E?oc=5",
      "summary": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 16 November Investing.com India",
-     "published": "2026-11-16T11:31:20+00:00",
+     "published": "2026-11-16T11:45:17+00:00",
      "source": "Investing.com India",
      "byline": "",
      "image": null,
      "licence": "linkout",
      "id": "92c3649e4d3f",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Qatar, France Sign Technology Cooperation Letter, Highlight Shared Quantum Ambitions",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI1RGR3a3B3MTFNQzhYdFRLWDFWVHRtUjBRamdDWnhCT3Uza05TSnZaaGQtNkFpUFlBdDk4WVh1Yk5PMHB5NTBKRkdvTEluUHFYS0lWSVpIZHpKZ0Z6X2VvT0xpXzVrQU56OC1fOWJMRUxnamRJNTlVa1YtazhyQ0t1ZmZJOC1mX1k0d19lUndUcTJJMllmZ2pCRlhPQ04tTUVIcEhrR0NndUMyTElIQXpBeXBhc3IxXzNiMHRRZGR5QQ?oc=5",
-     "summary": "Qatar, France Sign Technology Cooperation Letter, Highlight Shared Quantum Ambitions The Quantum Insider",
-     "published": "2026-11-16T08:41:15+00:00",
-     "source": "The Quantum Insider",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "19767f85b95c",
      "category": "tech",
      "category_label": "AI & technology"
     }
@@ -1659,92 +1694,72 @@
    "upsc": false,
    "items": [
     {
-     "title": "SAFF Championships: India Eye 10th Title Win, Face Spirited Pakistan In Final",
-     "url": "https://sports.ndtv.com/football/saff-championships-india-eye-10th-title-win-face-spirited-pakistan-in-final-12333328#publisher=newsstand",
-     "summary": "Defending champions India are in sight of a 10th overall and third successive SAFF Championship title when they face Pakistan, a team that is on an unprecedented dream run of its own, in the summit clash of the regional football tournament in Dhaka on Tuesday.",
-     "published": "2026-11-16T13:02:44+00:00",
+     "title": "Toronto Maple Leafs Get Unexpected Boost From Colorado Avalanche As Future Comes Into Focus",
+     "url": "https://sports.ndtv.com/us/nhl/toronto-maple-leafs-get-unexpected-boost-from-colorado-avalanche-as-future-comes-into-focus-12335373#publisher=newsstand",
+     "summary": "Toronto Maple Leafs hold no first-round picks in 2027 or 2028 except one from Colorado. With MacKinnon and Makar injured, that pick is gaining major value and could reshape the Leafs’ options at the trade deadline and beyond.",
+     "published": "2026-11-16T18:41:44+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/u7e48of_indian-team-x-indianfootball_625x300_16_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/dq65pdpc_toronto-maple-leafs_625x300_16_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "a1f1cf7dcbdf",
-     "category": "sports",
-     "category_label": "Sports"
+     "id": "82c631f3f86d",
+     "category": "weather",
+     "category_label": "Weather & disaster"
     },
     {
-     "title": "BCCI Dressing Room Surprise: India Star Wins Special Award After New Zealand ODI Series Triumph",
-     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/bcci-dressing-room-surprise-this-star-wins-special-award-after-new-zealand-odi-series-triumph-12334032#publisher=newsstand",
-     "summary": "Right-arm fast bowler Auqib Nabi was named the winner of the Impact Player of the Series award after India secured a 3-1 ODI series win over New Zealand at Bay Oval.",
-     "published": "2026-11-16T12:54:50+00:00",
+     "title": "Nia Jax Addresses Her WWE Status And Hints At Another Tiffany Stratton Match",
+     "url": "https://sports.ndtv.com/us/wwe/nia-jax-addresses-her-wwe-status-and-hints-at-another-tiffany-stratton-match-12335374#publisher=newsstand",
+     "summary": "Nia Jax has Tiffany Stratton in mind for a possible WWE showdown, with the current Women's Champion now back on her radar. Jax also discusses her dream opponents, recent live event appearances, and her current status away from SmackDown.",
+     "published": "2026-11-16T18:39:28+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/m5os2274_auqib-nabi-bcci_625x300_16_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/nb2dg33g_nia-jax_625x300_11_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "f2f834d1953f",
+     "id": "87fdfeb13e9e",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "13 Sixes, 8 Fours: India Star, Out Of Team For More Than 2 Years, Slams 135 In Syed Mushtaq Ali Trophy",
-     "url": "https://sports.ndtv.com/cricket/13-sixes-8-fours-india-star-out-of-team-for-more-than-2-years-slams-135-not-out-in-smat-2026-12333283#publisher=newsstand",
-     "summary": "Rajat Patidar produced a breathtaking unbeaten 135 off just 48 balls as Madhya Pradesh thrashed Assam by 131 runs in the Syed Mushtaq Ali Trophy 2026",
-     "published": "2026-11-16T12:34:01+00:00",
+     "title": "Taylor Swift’s Decision to Miss Travis Kelce’s Win Against the Atlanta Falcons Could Be Linked to Two Major Reasons",
+     "url": "https://sports.ndtv.com/us/nfl/taylor-swift-s-decision-to-miss-travis-kelce-s-win-against-the-atlanta-falcons-could-be-linked-to-two-major-reasons-12335382#publisher=newsstand",
+     "summary": "As Travis Kelce won the game against the Atlanta Falcons, Taylor Swift was absent from the venue and there could be a few reasons for it.",
+     "published": "2026-11-16T18:38:37+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/eh2mqlrc_rajat-patidar-x_625x300_16_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/kf8njdvs_taylor-swift_625x300_16_November_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "e6172b7b49bf",
+     "id": "32a049c8b44f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Nedbank Golf Challenge: Dean Burmester Joins Star-Studded Field As South Africa Chases Long-Awaited Victory",
+     "url": "https://sports.ndtv.com/us/golf/nedbank-golf-challenge-dean-burmester-joins-star-studded-field-as-south-africa-chases-long-awaited-victory-12335490#publisher=newsstand",
+     "summary": "Dean Burmester is aiming to end South Africa’s wait for a Nedbank Golf Challenge winner since 2017. He will compete at Sun City from December 3 to 6 alongside a strong field of local and international golfers.",
+     "published": "2026-11-16T18:27:50+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-01/pgkkkj0o_golf-generic_625x300_22_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "0d73e3983c00",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "13 Sixes , 8 Fours: India",
-      "8 Fours : India Star, Out",
-      "2 Years , Slams 135",
-      "48 balls as Madhya Pradesh thrashed",
-      "131 runs in the Syed Mushtaq"
+      "6 alongside a strong field"
      ]
     },
     {
-     "title": "Jayson Tatum Admits He Is Still Not Fully Recovered From Achilles Injury",
-     "url": "https://sports.ndtv.com/us/nba/jayson-tatum-admits-he-is-still-not-fully-recovered-from-achilles-injury-12334051#publisher=newsstand",
-     "summary": "Jayson Tatum scored 32 points against Dallas but admitted he is still not fully recovered from his Achilles injury.",
-     "published": "2026-11-16T12:28:31+00:00",
+     "title": "Former Wrestler Confirms 2027 Retirement And Plans A Career Beyond The Wrestling Ring",
+     "url": "https://sports.ndtv.com/us/wwe/former-wrestler-confirms-2027-retirement-and-plans-a-career-beyond-the-wrestling-ring-12335479#publisher=newsstand",
+     "summary": "RYZIN has confirmed that 2027 will be his final year in wrestling. The 40-year-old former WWE and AEW performer is sidelined with a lumbar injury and plans to focus on marketing, hosting and acting. Only a few bookings are planned for his final year.",
+     "published": "2026-11-16T18:10:47+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/it0b79jg_jayson-tatum-and-his-mother_625x300_26_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-10/0369ks34_wwe-arena_625x300_09_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "e0a866c6c839",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "32 points against Dallas but admitted"
-     ]
-    },
-    {
-     "title": "Derek Fisher Spots Lakers’ Fourth-Quarter Problem After Luka Doncic’s Clipboard Moment",
-     "url": "https://sports.ndtv.com/us/nba/derek-fisher-spots-lakers-fourth-quarter-problem-after-luka-doncic-s-clipboard-moment-12334064#publisher=newsstand",
-     "summary": "Derek Fisher believes the Lakers must keep playing the way that built their big leads after Phoenix nearly erased a 31-point advantage on Sunday.",
-     "published": "2026-11-16T12:28:12+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/87bctlu_luka-doncic_625x300_16_November_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "20016f301c36",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Who are IShowSpeed Family? Meet The Viral Streamer’s Parents, Siblings, Close Relatives And More",
-     "url": "https://sports.ndtv.com/us/us-streamers/who-are-ishowspeed-family-meet-the-viral-streamers-parents-siblings-close-relatives-and-more-12334022#publisher=newsstand",
-     "summary": "IShowSpeed has a close-knit family behind his streaming success. Meet his parents, Darren Watkins Sr. and Tiffany Graves, younger brother Dian, and the extended family that shaped his life.",
-     "published": "2026-11-16T12:21:43+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-10/6bdna1e4_ishowspeed_625x300_16_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "43faaf8fac99",
-     "category": "general",
-     "category_label": "General"
+     "id": "76e0a6639d88",
+     "category": "money",
+     "category_label": "Money & scams"
     }
    ]
   },
@@ -1755,20 +1770,33 @@
    "upsc": false,
    "items": [
     {
+     "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+     "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+     "summary": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+     "published": "2026-11-16T19:43:58+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cce/live/ac752f20-e209-11f1-99a1-253766e7ad8b.jpg",
+     "licence": "linkout",
+     "id": "d6f8acd3ad78",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Robert Pattinson: How the Twilight star became 007",
      "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
      "summary": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
      "published": "2026-11-16T15:02:41+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a999/live/2207dba0-e1d5-11f1-99a1-253766e7ad8b.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg",
      "licence": "linkout",
      "id": "a5667c1fa17c",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
+     "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
      "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
      "published": "2026-11-16T14:48:55+00:00",
@@ -1784,26 +1812,23 @@
      ]
     },
     {
-     "title": "James Bond: What we know so far about the next 007 film",
-     "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
-     "summary": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-     "published": "2026-11-16T15:46:45+00:00",
+     "title": "Emma Barnett to leave Radio 4's Today for new BBC show",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
+     "summary": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
+     "published": "2026-11-16T17:46:12+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1679/live/08f260c0-e1d2-11f1-99a1-253766e7ad8b.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85c/live/36fe5760-e1e3-11f1-9f14-b33806cfd783.jpg",
      "licence": "linkout",
-     "id": "7e77f5bdd5e9",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "figures": [
-      "007 film"
-     ]
+     "id": "5580333e2bdf",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
      "summary": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-     "published": "2026-11-16T15:31:58+00:00",
+     "published": "2026-11-16T18:22:22+00:00",
      "source": "BBC News",
      "byline": "",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a9/live/58ecf9b0-e1bd-11f1-99b6-a35a62fa4264.jpg",
@@ -1814,19 +1839,6 @@
      "figures": [
       "10"
      ]
-    },
-    {
-     "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-     "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
-     "summary": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
-     "published": "2026-11-16T10:03:24+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c7/live/710dd010-e12b-11f1-a2d0-ff163dc3689d.jpg",
-     "licence": "linkout",
-     "id": "fb567f6cff15",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1836,6 +1848,19 @@
    "title": "Health & Science",
    "upsc": false,
    "items": [
+    {
+     "title": "Cass report author says she does not support draft conversion practices bill",
+     "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+     "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+     "published": "2026-11-16T22:08:03+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e4/live/e4fbabb0-e1f2-11f1-99b6-a35a62fa4264.jpg",
+     "licence": "linkout",
+     "id": "2b77c4b253d6",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
     {
      "title": "Women's criminal records wiped for abortion offences",
      "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
@@ -1863,17 +1888,20 @@
      "category_label": "General"
     },
     {
-     "title": "Tories pledge to halt screen-based school exams and cut coursework",
-     "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
-     "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
-     "published": "2026-11-15T22:00:37+00:00",
+     "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
+     "url": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o?at_medium=RSS&at_campaign=rss",
+     "summary": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
+     "published": "2026-11-16T22:47:19+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/47994770-e110-11f1-b3df-4961589d9b68.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edcf/live/a82889c0-df76-11f1-b844-3146c4983677.jpg",
      "licence": "linkout",
-     "id": "94fcee867fdf",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "id": "1780622a264a",
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "10 years says it cost her"
+     ]
     },
     {
      "title": "I had to explain to my teacher what a young carer was - we need more support",
