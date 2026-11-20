@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:43:30.175833+00:00",
+ "generated_at": "2026-11-20T10:41:03.129772+00:00",
  "podcasts_fetched_at": "2026-11-20T02:43:16.576268+00:00",
  "markets": [
   {
@@ -66,34 +66,32 @@
    "key": "brent",
    "label": "BRENT",
    "unit": "$/bbl",
-   "value": 93.05,
-   "change": -5.27,
-   "changePct": -5.36,
-   "decimals": 2,
-   "stale": true
+   "value": 87.97,
+   "change": -4.47,
+   "changePct": -4.84,
+   "decimals": 2
   },
   {
    "key": "btc",
    "label": "BITCOIN",
    "unit": "$",
-   "value": 73691.0,
-   "change": -2056.0,
-   "changePct": -2.71,
-   "decimals": 0,
-   "stale": true
+   "value": 62162.0,
+   "change": -2694.0,
+   "changePct": -4.15,
+   "decimals": 0
   }
  ],
  "topics": [
-  "Myanmar Rohingya",
-  "Indonesian",
+  "Three Kyiv",
+  "Russia Kyiv",
   "Jazeera English",
   "News",
   "Were Tamil",
-  "High Court",
+  "Karnataka KPSC",
   "Cyclone Akvan",
-  "Very Srikakulam",
-  "Trump Senate",
-  "Meta"
+  "YSRCP",
+  "Searching Messi",
+  "China Mount"
  ],
  "sections": [
   {
@@ -103,180 +101,204 @@
    "upsc": false,
    "items": [
     {
-     "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-     "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-     "published": "2026-11-19T20:07:02+00:00",
+     "title": "Three Kyiv bridges hit during major Russian missile attack",
+     "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+     "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+     "published": "2026-11-20T10:20:08+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg",
      "licence": "linkout",
-     "id": "11685b3b01c1",
+     "id": "f451b9b779d9",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+     "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+     "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
+     "published": "2026-11-20T09:54:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "b4d8b1b930db",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Karnataka allows police to press corruption charges against 3 KPSC officers",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2JocDFTWmVwUlpMWVUybmszYkl5bUFVV1l4MGIwcVVQRU5DVnpNeHlNSlBwZkFTeld5eHN1bkxzNDIwLWtLSmVkaGJlSUpYdG45VDd5bGpndXBIOW1IMWRwZ093ZGJkUldiZlBSYjNtellpVTdla1J3WkFtOFl5ZnRiZjJzSDduTWJJbk5OUHR0ZVdyX1Z3Snp4VVg2aC1WYjg1bEphbm1YcS11TDRrMmNtLWhqdFJoMFZFeGpWci15eUdXU2NGS9IBzwFBVV95cUxQNkw1S01fN1ctUjlNWXhIQlJFR3pPNEtKbVFMU2paVllQeFRxWmg0ZEdWYVNRcVhFdTFBZXZCUkJwYXQ4UHRFRHhPN2lZalR5OHYtUnFoN2NlUVh1U3l0TnE1SEField2c1BHRmlpT1dXUjhvck5rUkx1LUEtUGpGSklyUGhGNlFsXzJ5aUZ6a1ZJQlRLNVd6d1FweHd0d0x6NUQ0M3cxRU04dERkQldDamY2dDZIZ0poaDAzR005WHpqMjE0LTdMS01GenJjakE?oc=5",
+     "summary": "Karnataka allows police to press corruption charges against 3 KPSC officers The Indian Express",
+     "published": "2026-11-20T09:06:47+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "c1c4cdf90547",
+     "category": "crime",
+     "category_label": "Crime",
+     "from_section": "Scandals & Investigations",
+     "figures": [
+      "3 KPSC officers",
+      "3 KPSC officers The Indian Express"
+     ]
+    },
+    {
+     "title": "Pakistan minister visits India for first time since 2025 war",
+     "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
+     "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
+     "published": "2026-11-20T09:11:57+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "5142390aaa16",
+     "category": "conflict",
+     "category_label": "War & conflict",
+     "from_section": "Global News"
+    },
+    {
+     "title": "Cyclone 'Akvan' LIVE: Disaster Management Minister says no major damage, loss of life in Odisha",
+     "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+     "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
+     "published": "2026-11-20T10:29:37+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/2jf9s3/article71722908.ece/alternates/LANDSCAPE_1200/Akvan-may-spareGPUGQQANF.4.jpg.jpg",
+     "licence": "linkout",
+     "id": "7b1246c3dda3",
      "also": [
       {
-       "source": "BBC Global News Podcast",
-       "title": "UN court says Myanmar committed genocide against Rohingyas",
-       "url": "http://www.bbc.co.uk/programmes/p0pnw5rb",
-       "summary": "The International Court of Justice finds Myanmar guilty of genocide against its Rohingya Muslim minority. It's the first such ruling against a state by the court. The ICJ rejected Myanmar’s argument that it had…"
+       "source": "NDTV",
+       "title": "No Major Damage, Loss Of Life Due To Cyclone Akvan: Odisha Minister",
+       "url": "https://www.ndtv.com/india-news/no-major-damage-loss-of-life-due-to-cyclone-akvan-odisha-disaster-management-minister-suresh-pujari-12353938#publisher=newsstand",
+       "summary": "The India Meteorological Department (IMD), in a bulletin, said the landfall process started around 8 am and was completed by 11.20 am."
       }
      ],
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Indonesian daycare principal jailed for five years over child abuse case",
-     "url": "https://www.bbc.co.uk/news/articles/cvkg58d7z10ro?at_medium=RSS&at_campaign=rss",
-     "summary": "Toddlers were found with their hands and feet tied with rags when police raided the centre in April.",
-     "published": "2026-11-20T01:48:08+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1787/live/a2be3860-e483-11f1-bb74-ddffc6a7ed93.jpg",
-     "licence": "linkout",
-     "id": "603cdf7de7c7",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global Hotline"
-    },
-    {
-     "title": "Haiti police say 34 gang members killed in capital raid",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-     "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
-     "published": "2026-11-20T00:31:02+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-haiti-1911-1795134593.png?resize=1920%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "47855d4f2faf",
-     "category": "crime",
-     "category_label": "Crime",
-     "from_section": "Global News",
-     "figures": [
-      "34 gang members killed in capital",
-      "34 gang members were killed"
-     ]
-    },
-    {
-     "title": "Emerging radicalisation hotspots now under purview of Multi-Agency Centre: Amit Shah",
-     "url": "https://www.thehindu.com/news/national/emerging-radicalisation-hotspots-now-under-purview-of-multi-agency-centre-amit-shah/article71721389.ece",
-     "summary": "Union Home Minister calls on anti-terrorism squads of every State to strengthen their cyber-expert units",
-     "published": "2026-11-20T01:16:15+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/news/national/z4pcn6/article71721390.ece/alternates/LANDSCAPE_1200/IMG_5365.jpeg",
-     "licence": "linkout",
-     "id": "e3497de6c740",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "National Hotlines"
-    },
-    {
-     "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-     "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-     "published": "2026-11-20T00:50:24+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-     "licence": "linkout",
-     "id": "42a972871329",
-     "category": "conflict",
-     "category_label": "War & conflict",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
-     "summary": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
-     "published": "2026-11-20T02:25:33+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795141505.jpg?resize=1620%2C1080&quality=80",
-     "licence": "linkout",
-     "id": "eff1e8640e4e",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Madhya Pradesh scraps two-child policy for Govt employees after 25 years",
-     "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-scraps-two-child-policy-for-govt-employees-after-25-years/article71722904.ece",
-     "summary": "The policy had been introduced in 2001 by the Congress government led by the then Chief Minister Digvijaya Singh as measure to check population rise",
-     "published": "2026-11-20T01:47:45+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/u399eu/article71722906.ece/alternates/LANDSCAPE_1200/20261015230L.jpg",
-     "licence": "linkout",
-     "id": "9b5edd9acbd9",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "from_section": "National Hotlines",
-     "figures": [
-      "25 years"
-     ]
-    },
-    {
-     "title": "Resignation Not Admission Of Guilt: Justice Yashwant Varma Tells Lok Sabha Secretariat",
-     "url": "https://www.ndtv.com/india-news/resignation-not-admission-of-guilt-justice-yashwant-varma-tells-lok-sabha-secretariat-12351554#publisher=newsstand",
-     "summary": "In a letter dated September 10 to Lok Sabha Secretary General Utpal Kumar Singh, he responded to the report of the inquiry committee constituted by Lok Sabha Speaker Om Birla.",
-     "published": "2026-11-20T00:53:23+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-04/v12cln78_justice-yashwant-verma_625x300_10_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "1143ce0b1795",
      "category": "politics",
      "category_label": "Political controversy",
      "from_section": "National News"
     },
     {
-     "title": "ITAT relief for government employee: Why ₹2.5 lakh cash paid for plot was not treated as undisclosed income",
-     "url": "https://www.livemint.com/money/personal-finance/itat-relief-for-government-employee-why-2-5-lakh-cash-paid-for-plot-was-not-treated-as-undisclosed-income-11795136814981.html",
-     "summary": "ITAT Pune has deleted a ₹2.5 lakh income-tax addition against a Maharashtra government employee after accepting that the builder returned the initial cash payment.&nbsp;",
-     "published": "2026-11-20T02:02:43+00:00",
+     "title": "Today News Headlines for School Assembly, November 20, 2026: PM Modi to open SCO summit today, BJP takes lead in Rajasthan Panchayat polls",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMUtlYnJYbHZsUVY1UUJaZml6RlF6OVRuSHRBRDY3QmxtcVFVeFVHQzBzSU1qbjdfcmx1VmJ2dW05TWFYTzV1MUd2N3M4Y3BTaGlzemNVQWl1aW8xcDNnSVc5c1NhN2ZGQ3dodzQ0enZjVDgwOHlxLWpCVFYxUUhKU09neWNZRzVsdFk0a2d6X1djdzF0ZE54UnotN2VSVjlSTmt3VDFLUlMwbWRhNU1uWHpzYXFLaFVULXZaWEp2MW9mN3ZVXzBiRzJ6UzRNU2JtckNwX2FrZjFQS1lhdEMwTFJGenpKSDllalNmYWl0c0VZVVVUSzg5ZnFfTEN0RGJibERaS0RoU2Nmek9zUkVJcjB30gGYAkFVX3lxTE0zekV4aWVXX01HSjFTdzRpdlV1QUtQVE1qQ0JNRDVxWEFCTjRZQS1SRmduZlZhTkQzS29zOExFZ19fYVY2eVdyVHRMMHY4RmhiZ1p2bEZkLW1UdXJZWjJlUEpTM0RJOWZjbERla0NVTGpPdlJsU3JCc0loRV9GRkZrVEhiTWdXMkFjNnZmbHBJVEhkZHRZYzlGS0RqYTlPcWdzcU1JUGYwS25kNE8tYnAtZGFhS2dXSUI4d2U5Ti1aMGFuNUoyU3g1NGFRWld6bE9WeVFEZGtUMEQ5UlpROHZiODN2cVdnM3BGbW1VR0lGOXZ0SDZlWTZLNzVRMmFidUdQR1dzNHJXWFRDSDlKOTNkZ0JYamV5Vkg?oc=5",
+     "summary": "Today News Headlines for School Assembly, November 20, 2026: PM Modi to open SCO summit today, BJP takes lead in Rajasthan Panchayat polls The Indian Express",
+     "published": "2026-11-19T11:38:03+00:00",
+     "source": "The Indian Express",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "09b7559382f7",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "School Assembly News Headlines (November 20): Top National, International, Sports News",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1NZQXBwXy1Jb1ZXSjFQc3NkOTg5bDNoZzZIX0hNSm5LSkQ0MHZGQWNWcDBUQ0dweXA2ZVE2SDUwcVlLSEFJaU1xMEdnRUtYajM2VWU1S1VBT0JSQUh0WGJZZ0cwMkVtU0hlMHYxVVpGdjBHd0JIWXJEYXozak1ia0ZfeWZKbHhBeENqUEtWaGloaGVhUTRJQV9uaGo5T0tGVnRXWFRLSUROUkZINXdtUU1XaVQ5ZkczR2g0TjZR0gHGAUFVX3lxTE5ORWRmUHJxeFdFOHRWYThUeGMtZVI0bFAxSUo5UUxuR3lvMk0wUzlXU2dydW5fd3p2RXFleExYRWVVYVE3RTR2UFRWWExEQU1NMTFIeVBQSFJ6M2VxTXlCTXJiUlV3X0VmLUUxQmZfUTZlTWxrTzU3NlFqdGVDZGJhZ0ZlN3pQcE84dlVDd3VmdDBsU1E4V1dseWZtamo5SjRqb1RHTXNFX2VZclVnLTljT2VaSUs5NVlVdmhxU3hmWXotSjJmZw?oc=5",
+       "summary": "School Assembly News Headlines (November 20): Top National, International, Sports News NDTV"
+      }
+     ],
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National Hotlines"
+    },
+    {
+     "title": "No Major Damage, Loss Of Life Due To Cyclone Akvan: Odisha Minister",
+     "url": "https://www.ndtv.com/india-news/no-major-damage-loss-of-life-due-to-cyclone-akvan-odisha-disaster-management-minister-suresh-pujari-12353938#publisher=newsstand",
+     "summary": "The India Meteorological Department (IMD), in a bulletin, said the landfall process started around 8 am and was completed by 11.20 am.",
+     "published": "2026-11-20T10:11:56+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/bab503v_cyclone-akvan-_625x300_20_November_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "04150468f031",
+     "category": "politics",
+     "category_label": "Political controversy",
+     "from_section": "National News"
+    },
+    {
+     "title": "Income tax department releases FAST-DS FAQs: Rules for NRIs, foreign bank accounts and overseas property clarified",
+     "url": "https://www.livemint.com/money/personal-finance/income-tax-department-releases-fast-ds-faqs-rules-for-nris-foreign-bank-accounts-and-overseas-property-clarified-11795169778284.html",
+     "summary": "The Income Tax Department’s FAST-DS FAQs clarify how taxpayers can disclose previously unreported foreign assets. Key rules cover returning NRIs, jointly held bank accounts, the ₹1 lakh Category B fee, 20% property valuation tolerance and immunity for partial disclosures.",
+     "published": "2026-11-20T10:34:52+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/20/600x338/2-0-951741682-509557490-0_1679732730804_1795137109578_ETyT_f4807e16-a87a-4235-839d-04f3e4836f32_7pmb.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/20/600x338/Gemini_Generated_Image_iekdlmiekdlmiekd_1795170_1795170163009_tVga_1795170163227_elgC_fab3fd9d-05ae-45af-97c0-17176bccacad_gMZ1.png",
      "licence": "linkout",
-     "id": "e8550ed7f870",
+     "id": "bd5f4f3208e5",
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business",
      "figures": [
-      "₹2.5 lakh cash paid for plot",
-      "₹2.5 lakh income-tax addition against"
+      "₹1 lakh Category B fee, 20%"
      ]
     },
     {
-     "title": "Bank holiday today: Are SBI, HDFC branches in Dehradun closed for Igas-Bagwal on Friday, 20 November? Check RBI calendar",
-     "url": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-yes-canara-branches-closed-dehradun-igas-bagwal-friday-20-november-check-rbi-calendar-11795135323216.html",
-     "summary": "Bank holiday today: SBI, HDFC Bank, ICICI Bank, Axis Bank, Canara Bank and Punjab National Bank branches will be closed on 16 days this month, including regional holidays and weekend offs, as per the RBI calendar. &nbsp;",
-     "published": "2026-11-20T01:51:10+00:00",
-     "source": "Mint",
+     "title": "YSRCP accuses NDA government of leaving over ₹8,700 crore in fee reimbursement dues",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-accuses-nda-government-of-leaving-over-8700-crore-in-fee-reimbursement-dues/article71723859.ece",
+     "summary": "The government owes about ₹11,700 crore for 12 quarters but has spent only ₹3,000 crore, YSRCP leader Duvvuri Krishna alleges",
+     "published": "2026-11-20T10:28:10+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/20/600x338/bank_1789638010583_wfKH_1789638013481_li4B_091bb7c_1795138912646_Vyt8_1795138912847_hzgw_7705eb15-7d8b-494a-849b-ccc99e07b856_uCZu.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/3ufcon/article71723984.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-20%20at%203.54.12%20PM.jpeg",
      "licence": "linkout",
-     "id": "578bce44b1e6",
+     "id": "af466857f2db",
      "category": "money",
      "category_label": "Money & scams",
-     "from_section": "Business",
+     "from_section": "National News",
      "figures": [
-      "16 days this month, including regional"
+      "₹8,700 crore in fee reimbursement dues",
+      "₹11,700 crore for 12 quarters",
+      "12 quarters but has spent only",
+      "₹3,000 crore , YSRCP leader Duvvuri"
      ]
     },
     {
-     "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-     "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-     "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-     "published": "2026-11-20T00:02:07+00:00",
-     "source": "BBC News",
+     "title": "You pay for 22K gold but may get 20K: What is Chinese rhenium powder mix scam? Key checks to make before buying gold",
+     "url": "https://www.livemint.com/money/personal-finance/you-pay-for-22k-gold-but-may-get-20k-what-is-chinese-rhenium-powder-mix-scam-key-checks-to-make-before-buying-gold-11795165678556.html",
+     "summary": "Could your 22K gold jewellery actually be 20K despite carrying a BIS hallmark? A reported rhenium powder adulteration scam has raised concerns about gold purity testing. Here's how the alleged scam works, why routine tests may miss it and the key checks buyers should make.",
+     "published": "2026-11-20T09:55:40+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/20/600x338/ehim_gold_1795168169917_mXvT_1795168173877_sC0R_a174b7e2-1639-43e5-ad16-32e73faa6e17_s27V.png",
      "licence": "linkout",
-     "id": "91681bf0848f",
+     "id": "b42cb2f916b7",
      "category": "money",
      "category_label": "Money & scams",
      "from_section": "Business"
+    },
+    {
+     "title": "Actor Owen Cooper stars in new Beatles music video",
+     "url": "https://www.bbc.co.uk/news/articles/ckx280084z2go?at_medium=RSS&at_campaign=rss",
+     "summary": "The film follows a family's love of music across generations and features Liverpool landmarks.",
+     "published": "2026-11-20T06:22:29+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25b2/live/5ce45220-e45b-11f1-9431-9fe383d2f2c7.jpg",
+     "licence": "linkout",
+     "id": "1bf60451d55a",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Culture"
+    },
+    {
+     "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+     "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
+     "summary": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+     "published": "2026-11-20T01:11:57+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/072f/live/f0b3cb40-e3fa-11f1-a1b0-810734adec41.jpg",
+     "licence": "linkout",
+     "id": "5a904ee14dbe",
+     "category": "celebrity",
+     "category_label": "Celebrity",
+     "from_section": "Culture",
+     "figures": [
+      "24 years before the original"
+     ]
     },
     {
      "title": "Rob Brydon says he invented his own fake agent to negotiate fees",
@@ -291,48 +313,6 @@
      "category": "celebrity",
      "category_label": "Celebrity",
      "from_section": "Culture"
-    },
-    {
-     "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
-     "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
-     "summary": "The actress said how \"stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
-     "published": "2026-11-19T12:17:32+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed67/live/ffc65c00-e437-11f1-a094-5fdc692f3e33.jpg",
-     "licence": "linkout",
-     "id": "2a33e26282f6",
-     "category": "celebrity",
-     "category_label": "Celebrity",
-     "from_section": "Culture"
-    },
-    {
-     "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
-     "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
-     "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
-     "published": "2026-11-20T01:06:15+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Photo-7-1795089493.jpg?resize=1200%2C675",
-     "licence": "linkout",
-     "id": "247f47a4c401",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Mike Vrabel's Reputation Takes Another Hit Amid Dianna Russini Scandal And Alcohol Controversy",
-     "url": "https://sports.ndtv.com/us/nfl/mike-vrabels-reputation-takes-another-hit-amid-dianna-russini-scandal-and-alcohol-controversy-12351966#publisher=newsstand",
-     "summary": "Mike Vrabel faces mounting scrutiny as past controversies involving Dianna Russini and alcohol resurface amid the Patriots' recent struggles and growing questions about his leadership.",
-     "published": "2026-11-20T00:03:41+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/a2v5og84_mike-vrabel_625x300_20_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "3ce45b86d91a",
-     "category": "human",
-     "category_label": "Human interest",
-     "from_section": "Sports"
     },
     {
      "title": "'Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times",
@@ -352,27 +332,38 @@
      ]
     },
     {
-     "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
-     "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-     "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
-     "published": "2026-11-20T02:39:31+00:00",
-     "source": "The Hindu",
+     "title": "Two-hour ambulance target missed more than 2,000 times",
+     "url": "https://www.bbc.co.uk/news/videos/cjr4g2r6r5pvo?at_medium=RSS&at_campaign=rss",
+     "summary": "The Release to Rescue initiative was introduced earlier this year",
+     "published": "2026-11-19T16:07:16+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/2jf9s3/article71722908.ece/alternates/LANDSCAPE_1200/Akvan-may-spareGPUGQQANF.4.jpg.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a70/live/b38d0510-e431-11f1-8346-933d3547e297.jpg",
      "licence": "linkout",
-     "id": "7b1246c3dda3",
+     "id": "7a25f7a86966",
+     "category": "human",
+     "category_label": "Human interest",
+     "from_section": "Health & Science",
+     "figures": [
+      "2,000 times"
+     ]
+    },
+    {
+     "title": "Cyclone Akvan Highlights: Cyclone Akvan Makes Landfall Along Odisha Coast, No Major Damage Reported",
+     "url": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand",
+     "summary": "Cyclone Akvan Highlights: The India Meteorological Department (IMD), in a bulletin, said the landfall process started around 8 am and was completed by 11.20 am.",
+     "published": "2026-11-20T09:32:13+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/f8jks8ng_akvan_625x300_20_November_26.jpeg",
+     "licence": "linkout",
+     "id": "6531434c0c16",
      "also": [
       {
-       "source": "NDTV",
-       "title": "Cyclone Akvan LIVE Updates: Akvan Weakens Into Cyclonic Storm, Likely To Cross Odisha-Andhra Coast Today",
-       "url": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand",
-       "summary": "Cyclone Akvan LIVE Updates: The IMD said the storm moved north-northwestwards at a speed of 21 kmph over the past six hours and was centred over the west-central Bay of Bengal at 2:30 am on Friday."
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, November 20, 2026: Ministry cancels 10 train services as Cyclone Akvan approaches the coast",
-       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMUtlYnJYbHZsUVY1UUJaZml6RlF6OVRuSHRBRDY3QmxtcVFVeFVHQzBzSU1qbjdfcmx1VmJ2dW05TWFYTzV1MUd2N3M4Y3BTaGlzemNVQWl1aW8xcDNnSVc5c1NhN2ZGQ3dodzQ0enZjVDgwOHlxLWpCVFYxUUhKU09neWNZRzVsdFk0a2d6X1djdzF0ZE54UnotN2VSVjlSTmt3VDFLUlMwbWRhNU1uWHpzYXFLaFVULXZaWEp2MW9mN3ZVXzBiRzJ6UzRNU2JtckNwX2FrZjFQS1lhdEMwTFJGenpKSDllalNmYWl0c0VZVVVUSzg5ZnFfTEN0RGJibERaS0RoU2Nmek9zUkVJcjB30gGYAkFVX3lxTE0zekV4aWVXX01HSjFTdzRpdlV1QUtQVE1qQ0JNRDVxWEFCTjRZQS1SRmduZlZhTkQzS29zOExFZ19fYVY2eVdyVHRMMHY4RmhiZ1p2bEZkLW1UdXJZWjJlUEpTM0RJOWZjbERla0NVTGpPdlJsU3JCc0loRV9GRkZrVEhiTWdXMkFjNnZmbHBJVEhkZHRZYzlGS0RqYTlPcWdzcU1JUGYwS25kNE8tYnAtZGFhS2dXSUI4d2U5Ti1aMGFuNUoyU3g1NGFRWld6bE9WeVFEZGtUMEQ5UlpROHZiODN2cVdnM3BGbW1VR0lGOXZ0SDZlWTZLNzVRMmFidUdQR1dzNHJXWFRDSDlKOTNkZ0JYamV5Vkg?oc=5",
-       "summary": "Today News Headlines for School Assembly, November 20, 2026: Ministry cancels 10 train services as Cyclone Akvan approaches the coast The Indian Express"
+       "source": "The Hindu",
+       "title": "Cyclone 'Akvan' LIVE: Disaster Management Minister says no major damage, loss of life in Odisha",
+       "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+       "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours"
       }
      ],
      "category": "weather",
@@ -380,133 +371,111 @@
      "from_section": "National News"
     },
     {
-     "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
-     "url": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-     "summary": "Cyclone Akvan: Chief Minister Mohan Charan Majhi conducted another comprehensive review of the preparedness and response measures for the impending Cyclone 'Akvan'.",
-     "published": "2026-11-19T23:48:40+00:00",
-     "source": "NDTV",
+     "title": "White House removes cyber-security chief after series of tech outages",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+     "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+     "published": "2026-11-20T09:37:59+00:00",
+     "source": "BBC News",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/1d5ict8k_akvan_625x300_19_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
      "licence": "linkout",
-     "id": "f4751837d237",
-     "also": [
-      {
-       "source": "The Hindu",
-       "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
-       "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-       "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours"
-      }
-     ],
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National News",
-     "figures": [
-      "47 Train Cancelled, Over 3 Lakh",
-      "3 Lakh Evacuated As Cyclone Akvan"
-     ]
-    },
-    {
-     "title": "Cyclone Akvan LIVE Updates: Akvan Weakens Into Cyclonic Storm, Likely To Cross Odisha-Andhra Coast Today",
-     "url": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand",
-     "summary": "Cyclone Akvan LIVE Updates: The IMD said the storm moved north-northwestwards at a speed of 21 kmph over the past six hours and was centred over the west-central Bay of Bengal at 2:30 am on Friday.",
-     "published": "2026-11-20T01:27:52+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/h6fdoq6_cyclone-akvan_625x300_20_November_26.jpeg",
-     "licence": "linkout",
-     "id": "6531434c0c16",
-     "category": "weather",
-     "category_label": "Weather & disaster",
-     "from_section": "National News",
-     "figures": [
-      "21 kmph over the past six"
-     ]
-    },
-    {
-     "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-     "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-     "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
-     "published": "2026-11-20T01:29:28+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affa5c2-1795139010.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9e020bee1762",
-     "category": "tech",
-     "category_label": "AI & technology",
-     "from_section": "Global News"
-    },
-    {
-     "title": "Artificial Intelligence Meets Numismatics: PNG to Explore AI at 2027 FUN Convention",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzRNUGRZNllFYzdyTS03LXI0LVJhUkNFM3d6aHhHNkVESW4wUk00SWU4MTBiY1BfVzJ4MXdlRV80cmdlM0I3MGlzU29OTXhNOWJRVWZrdG9PNVROaTFWV3RCelBDektnbXBZT3BpUWZ2VjNpTGdrdUxTYWZWN1MzTTd3eVA3d1FrYWtpeTFiaHpHd3dmZTZYTlQ4VDJBVWdIMERhLS1Jdw?oc=5",
-     "summary": "Artificial Intelligence Meets Numismatics: PNG to Explore AI at 2027 FUN Convention CoinWeek",
-     "published": "2026-11-20T00:29:36+00:00",
-     "source": "CoinWeek",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "51e451ac7ec7",
+     "id": "77ce998683fd",
      "category": "tech",
      "category_label": "AI & technology",
      "from_section": "Technology"
     },
     {
-     "title": "California targets Nvidia in China AI chip probe",
-     "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-     "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-     "published": "2026-11-19T23:04:30+00:00",
-     "source": "BBC News",
+     "title": "Recap: Artificial Intelligence, Technology and Health: Examining the Impacts of Inequity in Access, Racism and Structural Discrimination",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaGRzdFNNc29IUTQ2OUQ2Q200ekpsaVZibjlSS3kzdHFNSGFtUEQwOFBEVEdSdWhacktmb0RuM0IzUUYwY3RwWUswd0Z1NU9ENXd5akVUbDFlVV8xT3EweE9yNHBtWVlWeWtUUHp5THNyUjRKZ2RVNjF4NFVfRDh1QURYMXhtME9JMzdySEh4dllueXlPd3hwVFhuWVVKSVdrS1hWMVJjTWdpbk11LTJHSGhzb1FKZFptSDBubm92d2JsN2N1ZU1SeUNRZEZDNUpyWlo4MXZjeFRrY0FnSFRIYVJ0QVFNTmE2ZXI2THhpQ0NzQUh3Tm1xcm9SX2tOd3pxS1Nv?oc=5",
+     "summary": "Recap: Artificial Intelligence, Technology and Health: Examining the Impacts of Inequity in Access, Racism and Structural Discrimination Georgetown University",
+     "published": "2026-11-20T09:06:55+00:00",
+     "source": "Georgetown University",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+     "image": null,
      "licence": "linkout",
-     "id": "28fefe16dbf3",
+     "id": "0534ecd559a4",
      "category": "tech",
      "category_label": "AI & technology",
-     "from_section": "Business"
+     "from_section": "Technology"
     },
     {
-     "title": "India vs New Zealand LIVE Score, 1st Test Day 2: India Take Quick Wickets After Lunch, But Nicholls Holds Fort",
-     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-1st-test-live-score-day-2-ind-vs-nz-live-updates-scorecard-cricket-jasprit-bumrah-shubman-gill-kl-rahul-yashasvi-jaiswal-12351504#publisher=newsstand",
-     "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 2: Underfire pacer Prasidh Krishna struck after Lunch to give India a much-needed breakthrough on Day 2 of the 1st Test against New Zealand in Wellington.",
-     "published": "2026-11-20T01:27:56+00:00",
+     "title": "Jupiter, FL Author Explores Artificial Intelligence and International Espionage",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkNvQlNxaGVrdkJDWlFGMEpqNlRrRW5YYWRPa3JTV2hqNG5qVUJCczhsRWFWenh4U3VxR1k0SkdjOVBwSFNTalJGUjlyQmx1ajMyZnFQdktQSnRjTE9XWVJGb0FPMlNKRUZFMVBqOFM0TWgtRmM5LU1fRk5XR2FjRnhuMFdXbS1jbnBwTjhXRWpDMzJsU3diaVVMWlFyTUpDV3hIVW5ObHZITGdNOXZJZA?oc=5",
+     "summary": "Jupiter, FL Author Explores Artificial Intelligence and International Espionage PRLeap",
+     "published": "2026-11-20T08:00:00+00:00",
+     "source": "PRLeap",
+     "byline": "",
+     "image": null,
+     "licence": "linkout",
+     "id": "f0f24d05d875",
+     "category": "tech",
+     "category_label": "AI & technology",
+     "from_section": "Technology"
+    },
+    {
+     "title": "Aaryavir Sehwag Gives Honest Take On Comparisons With Father Virender Sehwag: 'Not Here To Be Sehwag 2.0'",
+     "url": "https://sports.ndtv.com/cricket/aaryavir-sehwag-gives-honest-take-on-comparisons-with-father-virender-sehwag-not-here-to-be-sehwag-2-0-12353992#publisher=newsstand",
+     "summary": "Aaryavir Sehwag, son of legendary Indian cricket team batter Virender Sehwag, dominated headlines after playing a big role in India's U-19 Asia Cup 2026 triumph.",
+     "published": "2026-11-20T10:10:04+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/bekh9nu_akash-deep-bcci_625x300_20_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/4solgivc_virender-sehwag-aaryavir-sehwag_625x300_19_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "79aebfb9c5ac",
+     "id": "a650be91cc02",
      "category": "sports",
      "category_label": "Sports",
-     "from_section": "Sports"
+     "from_section": "Sports",
+     "figures": [
+      "19 Asia Cup 2026 triumph"
+     ]
     },
     {
-     "title": "Glenn Phillips Breaks Huge Record, Emulates Rohit Sharma For Rare Test Cricket Feat With Century In 1st Test",
-     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/glenn-phillips-breaks-huge-record-emulates-rohit-sharma-for-rare-test-cricket-feat-with-century-in-1st-test-12351938#publisher=newsstand",
-     "summary": "New Zealand all-rounder Glenn Phillips entered the history books on Friday after slamming his second Test century on Day 2 of the Wellington Test against India.",
-     "published": "2026-11-19T23:36:03+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/h882h52g_glenn-phillips-bcci_625x300_20_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "5d21efcd5cf2",
-     "category": "sports",
-     "category_label": "Sports",
-     "from_section": "Sports"
-    },
-    {
-     "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
-     "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
-     "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
-     "published": "2026-11-20T01:10:06+00:00",
+     "title": "Searching for the next Messi at the Under-17 World Cup",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
+     "summary": "Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup.",
+     "published": "2026-11-20T10:03:11+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP18284469601975-1795136726.jpg?resize=1920%2C1440",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795168899.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "82ff5daca275",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
+     "id": "aabd34e695a2",
+     "category": "sports",
+     "category_label": "Sports",
      "from_section": "Global News",
      "figures": [
-      "$11.8 m in free services"
+      "17 World Cup",
+      "100 football scouts are in Qatar"
+     ]
+    },
+    {
+     "title": "Jeff Hardy Reveals Who Helped Him Become WWE World Champion In 2008",
+     "url": "https://sports.ndtv.com/us/wwe/jeff-hardy-reveals-who-helped-him-become-wwe-world-champion-in-2008-12353775#publisher=newsstand",
+     "summary": "Jeff Hardy credits Freddie Prinze Jr. for backing his first WWE Championship win at Armageddon 2008. He says the former writer believed in him and helped turn his childhood dream into reality, a moment he still feels grateful for even now.",
+     "published": "2026-11-20T09:48:52+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/0moim6vk_jeff-hardy_625x300_20_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "97900dfa1540",
+     "category": "sports",
+     "category_label": "Sports",
+     "from_section": "Sports"
+    },
+    {
+     "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+     "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+     "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+     "published": "2026-11-20T04:13:22+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg",
+     "licence": "linkout",
+     "id": "5eb4b83dd826",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "from_section": "Global Hotline",
+     "figures": [
+      "$75,000  reward offered by Chen"
      ]
     },
     {
@@ -555,7 +524,7 @@
      "url": "https://www.aljazeera.com/live/",
      "note": "24/7 world news",
      "summary": "24/7 world news",
-     "published": "2026-11-20T02:43:16.575803+00:00",
+     "published": "2026-11-20T10:40:52.451248+00:00",
      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/live-poster-aje-1750250701.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -566,7 +535,7 @@
      "url": "https://www.dw.com/en/live-tv/channel-english",
      "note": "Europe desk",
      "summary": "Europe desk",
-     "published": "2026-11-20T02:43:16.575815+00:00",
+     "published": "2026-11-20T10:40:52.451255+00:00",
      "image": "https://static.dw.com/image/71501457_6.jpg",
      "licence": "linkout",
      "kind": "stream"
@@ -577,7 +546,7 @@
      "url": "https://www.france24.com/en/live",
      "note": "World, from Paris",
      "summary": "World, from Paris",
-     "published": "2026-11-20T02:43:16.575821+00:00",
+     "published": "2026-11-20T10:40:52.451259+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -588,7 +557,7 @@
      "url": "https://www.ndtv.com/video/live/channel/ndtv24x7",
      "note": "India",
      "summary": "India",
-     "published": "2026-11-20T02:43:16.575826+00:00",
+     "published": "2026-11-20T10:40:52.451261+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -599,7 +568,7 @@
      "url": "https://sansadtv.nic.in/live-tv/",
      "note": "Lok Sabha & Rajya Sabha",
      "summary": "Lok Sabha & Rajya Sabha",
-     "published": "2026-11-20T02:43:16.575830+00:00",
+     "published": "2026-11-20T10:40:52.451264+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
@@ -610,10 +579,24 @@
      "url": "https://www.ddnews.gov.in/en/live-tv/",
      "note": "Public broadcaster",
      "summary": "Public broadcaster",
-     "published": "2026-11-20T02:43:16.575833+00:00",
+     "published": "2026-11-20T10:40:52.451266+00:00",
      "image": null,
      "licence": "linkout",
      "kind": "stream"
+    },
+    {
+     "title": "India A vs Nepal LIVE Score, Asia Cup Rising Stars Updates: All Eyes On Vaibhav Sooryavanshi, Abhishek Sharma's 50-Over Game; India Put In To Bat",
+     "url": "https://sports.ndtv.com/cricket/india-vs-nepal-live-score-asia-cup-rising-stars-ind-vs-nep-live-updates-match-scorecard-vaibhav-sooryavanshi-abhishek-sharma-tilak-varma-12353629#publisher=newsstand",
+     "summary": "India vs Nepal LIVE Score, Asia Cup Rising Stars Updates: Vaibhav Sooryavanshi and Abhishek Sharma are out to open for India, in their first Group B game against Nepal.",
+     "published": "2026-11-20T10:12:16+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/ahdkj0ds_abhishek-sharma-vaibhav-sooryavanshi_625x300_20_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "1046baa5e744",
+     "kind": "liveblog",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -641,25 +624,21 @@
      ]
     },
     {
-     "title": "High Court Pauses Punjab Civil Services Recruitment Over Corruption Charges",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOVc3X08yUkk1NzJMenlCVXlKM0ViVGVsZWlSakkxcm9IaHNDVUpkR3c1WnJ0V2tWeVphXzgxbGtGTWk3NXliNl9tV21jT3lDc0F1eHZ0RmE5NmJYTFhhZmFScl8zOWtOZ0dFUVVsdHVaa1M5X2pJWENrSmVRMWx0VVg0R2Y1dnNBc2xfbnhOMmtibXhlQjV0QWQtQno3WWNBRENoaXQ1VVpDVkh5RmFYdEdXTnQ2bzlJYXA5OXdkVTRQX0xwVHVEQjhvZVFLc0NW0gHYAUFVX3lxTFBuV1VzamdkcGJOVF9RSWdlZ3BsZ01lWU5fTTRxUnhqWVJ6YmJsR0JzaVF4YkM5aktBSjFRWHJ0MGxSejVoQjQyOTFfcDNLOU52TDlZSnJJNVNwa2d1b19rZDJ4Z2UycUR4a045OEV5enpSamV0dFhOZTBaRG9DdGw0czdMd1RQT2pTUlFsTjBUMDluR3hqY0dNYk5ILXFOalJ1TkhYNFRlSGROcnlzdkVVR1htUGE0TXZnN1J2M0ltV1U0ZDFRZ3ZIRHdaQlV1MVo1cFZDNE1veA?oc=5",
-     "summary": "High Court Pauses Punjab Civil Services Recruitment Over Corruption Charges NDTV",
-     "published": "2026-11-19T10:23:28+00:00",
-     "source": "NDTV",
+     "title": "Karnataka allows police to press corruption charges against 3 KPSC officers",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2JocDFTWmVwUlpMWVUybmszYkl5bUFVV1l4MGIwcVVQRU5DVnpNeHlNSlBwZkFTeld5eHN1bkxzNDIwLWtLSmVkaGJlSUpYdG45VDd5bGpndXBIOW1IMWRwZ093ZGJkUldiZlBSYjNtellpVTdla1J3WkFtOFl5ZnRiZjJzSDduTWJJbk5OUHR0ZVdyX1Z3Snp4VVg2aC1WYjg1bEphbm1YcS11TDRrMmNtLWhqdFJoMFZFeGpWci15eUdXU2NGS9IBzwFBVV95cUxQNkw1S01fN1ctUjlNWXhIQlJFR3pPNEtKbVFMU2paVllQeFRxWmg0ZEdWYVNRcVhFdTFBZXZCUkJwYXQ4UHRFRHhPN2lZalR5OHYtUnFoN2NlUVh1U3l0TnE1SEField2c1BHRmlpT1dXUjhvck5rUkx1LUEtUGpGSklyUGhGNlFsXzJ5aUZ6a1ZJQlRLNVd6d1FweHd0d0x6NUQ0M3cxRU04dERkQldDamY2dDZIZ0poaDAzR005WHpqMjE0LTdMS01GenJjakE?oc=5",
+     "summary": "Karnataka allows police to press corruption charges against 3 KPSC officers The Indian Express",
+     "published": "2026-11-20T09:06:47+00:00",
+     "source": "The Indian Express",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "43839eb61ec6",
-     "also": [
-      {
-       "source": "https://www.indiagazette.com/",
-       "title": "High Court stays Punjab PCS selection process; Sachin Pilot slams AAP Govt, alleges irregularities",
-       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkFZLUFXUXFKTGpGQWFnU1ZvZEduczdXRzA5VEJsRmJmdEIzYjloUlNrSF9FdEtpek5PalFneU8yYnR4UDZiRWRVZ3JTSF9MODV3b1dhWGg3TERzQVdKRVJCU3g4RzRqVmNRM0dsY1NzWUo5SjV2Q1lBRzZWV01mSXNZMk5YLWFDTUpHOFlCb3ZhNGZlNmVNYWdFdXRvZGFLdHpGM1RmcGpUbnY3R0IzSUxKUDFPa1l0VW43eE5VbmdxX3EyVnBfYTgyWHFaLV9MNVJaNC1ITQ?oc=5",
-       "summary": "High Court stays Punjab PCS selection process; Sachin Pilot slams AAP Govt, alleges irregularities https://www.indiagazette.com/"
-      }
-     ],
-     "category": "general",
-     "category_label": "General"
+     "id": "c1c4cdf90547",
+     "category": "crime",
+     "category_label": "Crime",
+     "figures": [
+      "3 KPSC officers",
+      "3 KPSC officers The Indian Express"
+     ]
     },
     {
      "title": "KTR charges Congress with corruption",
@@ -692,30 +671,20 @@
      ]
     },
     {
-     "title": "High Court stays Punjab PCS selection process; Sachin Pilot slams AAP Govt, alleges irregularities",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkFZLUFXUXFKTGpGQWFnU1ZvZEduczdXRzA5VEJsRmJmdEIzYjloUlNrSF9FdEtpek5PalFneU8yYnR4UDZiRWRVZ3JTSF9MODV3b1dhWGg3TERzQVdKRVJCU3g4RzRqVmNRM0dsY1NzWUo5SjV2Q1lBRzZWV01mSXNZMk5YLWFDTUpHOFlCb3ZhNGZlNmVNYWdFdXRvZGFLdHpGM1RmcGpUbnY3R0IzSUxKUDFPa1l0VW43eE5VbmdxX3EyVnBfYTgyWHFaLV9MNVJaNC1ITQ?oc=5",
-     "summary": "High Court stays Punjab PCS selection process; Sachin Pilot slams AAP Govt, alleges irregularities https://www.indiagazette.com/",
-     "published": "2026-11-19T06:33:00+00:00",
-     "source": "https://www.indiagazette.com/",
+     "title": "SEC Targets Eight Entities in Alleged $37M Crypto Investment Fraud",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWC1IdEJsNDRxbk1zT2RmSlEzc2hYY3JpNFpHMVRvZkI1elFJSmJ3a3k1Z2NXMG80aF83cFd3NTFxQ0twdlFoLUprWU1OUmhFU3ZEd2RzRmdBODJENnU2ODlrT0NReEt2cV9EenNmTTRuYW13NVl3NDhKNUNPZ1hfOHRvMFpvSXhnRUFNQzhSNWNFQXhHdXBxZkZwRjFneldMZWlhejVYcw?oc=5",
+     "summary": "SEC Targets Eight Entities in Alleged $37M Crypto Investment Fraud The Crypto Times",
+     "published": "2026-11-19T20:29:44+00:00",
+     "source": "The Crypto Times",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "ae66e083a0f2",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Zero FIR Filed Against Ex-Bengal Ministers Bratya Basu, Indranil Sen Over Sexual Offence, Corruption Allegations",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUlRaXBpdGNuMlprWGxHYm1iY2xmWFFMNWh3QkhiTnVKb2ZqRi1FTThDMmMyaW4zc1g3NmNDRlpzWlh4bG1zb3MxUzlYbWpEZDdHV2M1OEFTdmdiRUdfWW5MMnBGTjkzV25RalhZZ0w0Z1lKZFRrNFRvUDdXaERCLVQ4eGhKZnRYYjlkMnFDYmRMMW1xbm8tTVNVTlgxWXJncF9tVFlPZVJwak1sODJCMWZqbXd2NV9hYlBKVEtPS2xIdVRxODZxclBjTmhmRVpTcHhLYWpLR0szNWtQWVE?oc=5",
-     "summary": "Zero FIR Filed Against Ex-Bengal Ministers Bratya Basu, Indranil Sen Over Sexual Offence, Corruption Allegations Ommcom News",
-     "published": "2026-11-19T09:03:06+00:00",
-     "source": "Ommcom News",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "fe41810b176c",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "269d8b863496",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "$37 M Crypto Investment Fraud"
+     ]
     },
     {
      "title": "Who Is Ekrem Imamoglu? The Jailed Erdogan Rival Hit With A New Political Ban",
@@ -739,10 +708,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
+     "title": "Cyclone 'Akvan' LIVE: Disaster Management Minister says no major damage, loss of life in Odisha",
      "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
      "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
-     "published": "2026-11-20T02:39:31+00:00",
+     "published": "2026-11-20T10:29:37+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/2jf9s3/article71722908.ece/alternates/LANDSCAPE_1200/Akvan-may-spareGPUGQQANF.4.jpg.jpg",
@@ -751,102 +720,119 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "Cyclone Akvan LIVE Updates: Akvan Weakens Into Cyclonic Storm, Likely To Cross Odisha-Andhra Coast Today",
-       "url": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand",
-       "summary": "Cyclone Akvan LIVE Updates: The IMD said the storm moved north-northwestwards at a speed of 21 kmph over the past six hours and was centred over the west-central Bay of Bengal at 2:30 am on Friday."
-      },
-      {
-       "source": "The Indian Express",
-       "title": "Today News Headlines for School Assembly, November 20, 2026: Ministry cancels 10 train services as Cyclone Akvan approaches the coast",
-       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMUtlYnJYbHZsUVY1UUJaZml6RlF6OVRuSHRBRDY3QmxtcVFVeFVHQzBzSU1qbjdfcmx1VmJ2dW05TWFYTzV1MUd2N3M4Y3BTaGlzemNVQWl1aW8xcDNnSVc5c1NhN2ZGQ3dodzQ0enZjVDgwOHlxLWpCVFYxUUhKU09neWNZRzVsdFk0a2d6X1djdzF0ZE54UnotN2VSVjlSTmt3VDFLUlMwbWRhNU1uWHpzYXFLaFVULXZaWEp2MW9mN3ZVXzBiRzJ6UzRNU2JtckNwX2FrZjFQS1lhdEMwTFJGenpKSDllalNmYWl0c0VZVVVUSzg5ZnFfTEN0RGJibERaS0RoU2Nmek9zUkVJcjB30gGYAkFVX3lxTE0zekV4aWVXX01HSjFTdzRpdlV1QUtQVE1qQ0JNRDVxWEFCTjRZQS1SRmduZlZhTkQzS29zOExFZ19fYVY2eVdyVHRMMHY4RmhiZ1p2bEZkLW1UdXJZWjJlUEpTM0RJOWZjbERla0NVTGpPdlJsU3JCc0loRV9GRkZrVEhiTWdXMkFjNnZmbHBJVEhkZHRZYzlGS0RqYTlPcWdzcU1JUGYwS25kNE8tYnAtZGFhS2dXSUI4d2U5Ti1aMGFuNUoyU3g1NGFRWld6bE9WeVFEZGtUMEQ5UlpROHZiODN2cVdnM3BGbW1VR0lGOXZ0SDZlWTZLNzVRMmFidUdQR1dzNHJXWFRDSDlKOTNkZ0JYamV5Vkg?oc=5",
-       "summary": "Today News Headlines for School Assembly, November 20, 2026: Ministry cancels 10 train services as Cyclone Akvan approaches the coast The Indian Express"
+       "title": "No Major Damage, Loss Of Life Due To Cyclone Akvan: Odisha Minister",
+       "url": "https://www.ndtv.com/india-news/no-major-damage-loss-of-life-due-to-cyclone-akvan-odisha-disaster-management-minister-suresh-pujari-12353938#publisher=newsstand",
+       "summary": "The India Meteorological Department (IMD), in a bulletin, said the landfall process started around 8 am and was completed by 11.20 am."
       }
      ],
-     "category": "weather",
-     "category_label": "Weather & disaster"
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Very heavy rain lashes Srikakulam as Akvan moves closer to coast",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/very-heavy-rain-lashes-srikakulam-as-akvan-moves-closer-to-coast/article71722916.ece",
-     "summary": "The major rainfall activity has been concentrated in the district of Srikakulam alone, while a few stations in Vizianagaram, Anakapalli, Kakinada, Visakhapatnam, have recorded light showers",
-     "published": "2026-11-20T02:37:20+00:00",
+     "title": "YSRCP accuses NDA government of leaving over ₹8,700 crore in fee reimbursement dues",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-accuses-nda-government-of-leaving-over-8700-crore-in-fee-reimbursement-dues/article71723859.ece",
+     "summary": "The government owes about ₹11,700 crore for 12 quarters but has spent only ₹3,000 crore, YSRCP leader Duvvuri Krishna alleges",
+     "published": "2026-11-20T10:28:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/obk9w1/article71722946.ece/alternates/LANDSCAPE_1200/0000042Erosion.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/3ufcon/article71723984.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-20%20at%203.54.12%20PM.jpeg",
      "licence": "linkout",
-     "id": "b242926ecaff",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "BMC starts demolition of building linked to Dawood Ibrahim in Mumbai",
-     "url": "https://www.thehindu.com/news/cities/mumbai/bmc-starts-demolition-of-building-linked-to-dawood-ibrahim-in-mumbai/article71719043.ece",
-     "summary": "The building was classified as C-1, a category indicating that the structure was dangerous and required demolition",
-     "published": "2026-11-20T02:35:25+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/mfjzo1/article71719098.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-19%20at%2012.11.04%20PM.jpeg",
-     "licence": "linkout",
-     "id": "9e42759a37fd",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Yadadri Thermal Power Plant: The toxic cost of power",
-     "url": "https://www.thehindu.com/news/national/telangana/yadadri-thermal-power-plant-the-toxic-cost-of-power/article71721759.ece",
-     "summary": "Fly ash from the 4,000-MW Yadadri thermal plant is polluting a stream that sustains farms and fishing communities, before flowing into the Krishna river. As Telangana powers up, the fallout extends beyond the vicinity of the project, which started operations less than two years ago, with concerns rising over water quality, public health and livelihoods along the river system, reports Swathi Vadlamudi",
-     "published": "2026-11-20T02:26:49+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/38oqqo/article71721750.ece/alternates/LANDSCAPE_1200/Yadadri%20Thermal%20Power%20Station%20%2001.jpg",
-     "licence": "linkout",
-     "id": "5c20e2d77928",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Tukaram Mundhe withdraws petition after dragging Centre to the court",
-     "url": "https://www.thehindu.com/news/national/maharashtra/two-months-after-deciding-to-drag-the-centre-to-court-maharashtra-government-decides-to-withdraw-petition/article71720000.ece",
-     "summary": "FDA Commissioner Tukaram Mundhe had challenged FSSAI over the constitutional validity of a few regulations. The petition had challenged the creation of a few posts by the Centre, claiming it was against the Food Safety and Standards Act, 2006",
-     "published": "2026-11-20T02:22:04+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/v7ppf2/article71722885.ece/alternates/LANDSCAPE_1200/IMG_PTI08_08_2026_000398_2_1_9QGHN98P.jpg",
-     "licence": "linkout",
-     "id": "00d6b200136a",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Uttarakhand Bank Manager, 2 Agents Arrested In Rs 9 Lakh Bribery Case",
-     "url": "https://www.ndtv.com/india-news/uttarakhand-bank-manager-2-agents-arrested-in-rs-9-lakh-bpribery-case-12351637#publisher=newsstand",
-     "summary": "The complainant alleged that they demanded a bribe of 5 per cent of the loan amount in exchange for facilitating the sanction and disbursement of the Rs 1.8 crore loan. The 5 per cent amounts to Rs 9 lakh.",
-     "published": "2026-11-19T19:48:14+00:00",
-     "source": "NDTV",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2024-07/oia0qjtg_police-generic_625x300_30_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "7d006115a5a7",
+     "id": "af466857f2db",
      "category": "money",
      "category_label": "Money & scams",
      "figures": [
-      "2 Agents Arrested In Rs 9",
-      "Rs 9 Lakh Bribery Case",
-      "5 per cent of the loan amount",
-      "Rs 1.8 crore loan",
-      "5 per cent amounts to Rs 9"
+      "₹8,700 crore in fee reimbursement dues",
+      "₹11,700 crore for 12 quarters",
+      "12 quarters but has spent only",
+      "₹3,000 crore , YSRCP leader Duvvuri"
      ]
     },
     {
-     "title": "Azam Khan's 'Biryani' Jibe At Asaduddin Owaisi Amid Tussle For UP Muslim Votes",
-     "url": "https://www.ndtv.com/india-news/up-likes-pulao-not-hyderabadi-biriyani-azam-khan-snubs-asaduddin-owaisi-12350576#publisher=newsstand",
-     "summary": "Asaduddin Owaisi -- the chief of AIMIM -- has declared his intention to contest in the next year's assembly polls and forged an alliance with Chandrasekhar Azad's Azad Samaj Party",
-     "published": "2026-11-19T19:34:11+00:00",
+     "title": "Supreme Court allows lighting of lamp on ‘Deepathoon’ at Thirupparankundram as limited one-time arrangement",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
+     "summary": "A Bench headed by Justice Aravind Kumar however stayed the conclusive findings of the Madras HC in a January 6 judgment that upheld the right to light the lamp on the ‘Deepathoon’ as an essential practice",
+     "published": "2026-11-20T10:26:28+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/ml1sva/article71723824.ece/alternates/LANDSCAPE_1200/9871_10_1_2026_19_30_1_1_9D9D21DC_98E1_4DD7_B870_84C50B4CCFBD.JPEG",
+     "licence": "linkout",
+     "id": "fc858918dbf5",
+     "also": [
+      {
+       "source": "NDTV",
+       "title": "Supreme Court Allows One-Time Lighting Of Deepam At Thiruparankundram Hill",
+       "url": "https://www.ndtv.com/india-news/supreme-court-allows-one-time-lighting-of-karthigai-deepam-at-thiruparankundram-hill-12353634#publisher=newsstand",
+       "summary": "The top court, however, stayed the Madras High Court judgment allowing the lighting of the traditional Karthigai Deepam lamp atop Thiruparankundram hill."
+      }
+     ],
+     "category": "general",
+     "category_label": "General",
+     "figures": [
+      "6 judgment that upheld the right"
+     ]
+    },
+    {
+     "title": "Vijayasai Reddy cites Pew projection, calls for safeguarding Hinduism’s ideals of tolerance",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayasai-reddy-cites-pew-projection-calls-for-safeguarding-hinduisms-ideals-of-tolerance/article71723435.ece",
+     "summary": "India must remain resilient in a changing world, says the Parivartana Rajaneethi Party founder",
+     "published": "2026-11-20T10:25:46+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/83aqaq/article71481588.ece/alternates/LANDSCAPE_1200/10215_18_9_2026_17_44_10_1_IMG_20260918_WA0090.JPG",
+     "licence": "linkout",
+     "id": "d72225eb8694",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Pregnant woman dies of suspected dengue in Erode district",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/pregnant-woman-dies-of-suspected-dengue-in-erode-district/article71723832.ece",
+     "summary": "Health Department officials have begun inspecting the neighbourhood and are taking preventive measures against dengue",
+     "published": "2026-11-20T10:25:25+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/9ldwei/article71723982.ece/alternates/LANDSCAPE_1200/IMG_iStock-511984734_2_1_JR9NVHKI.jpg",
+     "licence": "linkout",
+     "id": "5319f416162b",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Kiran Bedi Joins National Council Teacher Education's MITRA Initiative To Guide School Teachers",
+     "url": "https://www.ndtv.com/education/kiran-bedi-joins-national-council-teacher-educations-mitra-initiative-to-guide-school-teachers-12353935#publisher=newsstand",
+     "summary": "NCTE has inducted Kiran Bedi as a National Mentor under its MITRA initiative, aimed at guiding school teachers and strengthening professional development in line with NEP 2020.",
+     "published": "2026-11-20T10:07:36+00:00",
      "source": "NDTV",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/79aaadfk_owaisi-azam-khan_625x300_19_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/80m325lg_ncte_625x300_20_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "438aed8a44c2",
+     "id": "9833d6fa5bcf",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Supreme Court Allows One-Time Lighting Of Deepam At Thiruparankundram Hill",
+     "url": "https://www.ndtv.com/india-news/supreme-court-allows-one-time-lighting-of-karthigai-deepam-at-thiruparankundram-hill-12353634#publisher=newsstand",
+     "summary": "The top court, however, stayed the Madras High Court judgment allowing the lighting of the traditional Karthigai Deepam lamp atop Thiruparankundram hill.",
+     "published": "2026-11-20T09:44:07+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-10/001ut9gg_thiruparankundram-hill_625x300_11_October_25.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "e480eeea1c8f",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Analysis | Will Opening \"Sheesh Mahal\" In Delhi Dent AAP In Poll-Bound Punjab?",
+     "url": "https://www.ndtv.com/india-news/punjab-elections-arvind-kejriwal-bhagwant-mann-analysis-will-opening-sheesh-mahal-in-delhi-dent-aap-in-poll-bound-punjab-12353792#publisher=newsstand",
+     "summary": "The \"Sheesh Mahal\" is not a historical monument that would naturally draw ordinary visitors. It is a political prop.",
+     "published": "2026-11-20T09:23:13+00:00",
+     "source": "NDTV",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2025-10/guj5n9p8_sheesh-mahal-_625x300_31_October_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "ee1aea6eab9e",
      "category": "politics",
      "category_label": "Political controversy"
     }
@@ -859,46 +845,89 @@
    "upsc": false,
    "items": [
     {
-     "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
-     "summary": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
-     "published": "2026-11-20T02:25:33+00:00",
+     "title": "Searching for the next Messi at the Under-17 World Cup",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
+     "summary": "Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup.",
+     "published": "2026-11-20T10:03:11+00:00",
      "source": "Al Jazeera",
      "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795141505.jpg?resize=1620%2C1080&quality=80",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795168899.jpg?resize=1920%2C1080&quality=80",
      "licence": "linkout",
-     "id": "eff1e8640e4e",
-     "category": "politics",
-     "category_label": "Political controversy"
-    },
-    {
-     "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-     "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-     "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
-     "published": "2026-11-20T01:29:28+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affa5c2-1795139010.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "9e020bee1762",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
-     "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
-     "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
-     "published": "2026-11-20T01:10:06+00:00",
-     "source": "Al Jazeera",
-     "byline": "",
-     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP18284469601975-1795136726.jpg?resize=1920%2C1440",
-     "licence": "linkout",
-     "id": "82ff5daca275",
-     "category": "mystery",
-     "category_label": "Mystery & investigation",
+     "id": "aabd34e695a2",
+     "category": "sports",
+     "category_label": "Sports",
      "figures": [
-      "$11.8 m in free services"
+      "17 World Cup",
+      "100 football scouts are in Qatar"
      ]
+    },
+    {
+     "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+     "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+     "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
+     "published": "2026-11-20T09:54:00+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "b4d8b1b930db",
+     "category": "crime",
+     "category_label": "Crime"
+    },
+    {
+     "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+     "url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+     "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
+     "published": "2026-11-20T09:16:30+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae7104a-1793527882.jpg?resize=1920%2C1440",
+     "licence": "linkout",
+     "id": "04f6eec64cd9",
+     "category": "sports",
+     "category_label": "Sports",
+     "figures": [
+      "140 Kenyan athletes suspended"
+     ]
+    },
+    {
+     "title": "Russia’s day-long attack on Kyiv damages embassies",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+     "summary": "Russia’s day-long attack on Kyiv damages embassies",
+     "published": "2026-11-20T08:56:08+00:00",
+     "source": "Al Jazeera",
+     "byline": "",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795164954.jpg?resize=1920%2C1080&quality=80",
+     "licence": "linkout",
+     "id": "dfff6b708f3a",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "UK and EU to agree youth mobility scheme, BBC understands",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+     "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+     "published": "2026-11-20T07:14:46+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+     "licence": "linkout",
+     "id": "e3a5c10bd424",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+     "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+     "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+     "published": "2026-11-20T00:13:21+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
+     "licence": "linkout",
+     "id": "eca3e57c2438",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
@@ -914,30 +943,17 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-     "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-     "published": "2026-11-20T00:13:21+00:00",
+     "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+     "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+     "published": "2026-11-19T20:07:02+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
      "licence": "linkout",
-     "id": "eca3e57c2438",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-     "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-     "published": "2026-11-19T17:38:22+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
-     "licence": "linkout",
-     "id": "116411d1d3c7",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "11685b3b01c1",
+     "category": "crime",
+     "category_label": "Crime"
     }
    ]
   },
@@ -947,6 +963,22 @@
    "title": "Global Hotline",
    "upsc": false,
    "items": [
+    {
+     "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+     "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+     "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+     "published": "2026-11-20T04:13:22+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg",
+     "licence": "linkout",
+     "id": "5eb4b83dd826",
+     "category": "mystery",
+     "category_label": "Mystery & investigation",
+     "figures": [
+      "$75,000  reward offered by Chen"
+     ]
+    },
     {
      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
@@ -976,7 +1008,7 @@
     {
      "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
      "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
-     "summary": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+     "summary": "Lawyers will study the way in which The Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
      "published": "2026-11-19T20:02:02+00:00",
      "source": "BBC News",
      "byline": "",
@@ -998,19 +1030,6 @@
      "id": "bac251cd51b8",
      "category": "money",
      "category_label": "Money & scams"
-    },
-    {
-     "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-     "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-     "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-     "published": "2026-11-19T04:42:52+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
-     "licence": "linkout",
-     "id": "5f8bc95c6410",
-     "category": "general",
-     "category_label": "General"
     },
     {
      "title": "Indian driver wins $1.3m in life-changing lottery prize",
@@ -1037,10 +1056,10 @@
    "upsc": false,
    "items": [
     {
-     "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
+     "title": "Cyclone 'Akvan' LIVE: Disaster Management Minister says no major damage, loss of life in Odisha",
      "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
      "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
-     "published": "2026-11-20T02:39:31+00:00",
+     "published": "2026-11-20T10:29:37+00:00",
      "source": "The Hindu",
      "byline": "",
      "image": "https://th-i.thgim.com/public/incoming/2jf9s3/article71722908.ece/alternates/LANDSCAPE_1200/Akvan-may-spareGPUGQQANF.4.jpg.jpg",
@@ -1049,71 +1068,87 @@
      "also": [
       {
        "source": "NDTV",
-       "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
-       "url": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-       "summary": "Cyclone Akvan: Chief Minister Mohan Charan Majhi conducted another comprehensive review of the preparedness and response measures for the impending Cyclone 'Akvan'."
+       "title": "Cyclone Akvan Highlights: Cyclone Akvan Makes Landfall Along Odisha Coast, No Major Damage Reported",
+       "url": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand",
+       "summary": "Cyclone Akvan Highlights: The India Meteorological Department (IMD), in a bulletin, said the landfall process started around 8 am and was completed by 11.20 am."
       }
      ],
-     "category": "weather",
-     "category_label": "Weather & disaster"
+     "category": "politics",
+     "category_label": "Political controversy"
     },
     {
-     "title": "Very heavy rain lashes Srikakulam as Akvan moves closer to coast",
-     "url": "https://www.thehindu.com/news/national/andhra-pradesh/very-heavy-rain-lashes-srikakulam-as-akvan-moves-closer-to-coast/article71722916.ece",
-     "summary": "The major rainfall activity has been concentrated in the district of Srikakulam alone, while a few stations in Vizianagaram, Anakapalli, Kakinada, Visakhapatnam, have recorded light showers",
-     "published": "2026-11-20T02:37:20+00:00",
+     "title": "YSRCP accuses NDA government of leaving over ₹8,700 crore in fee reimbursement dues",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-accuses-nda-government-of-leaving-over-8700-crore-in-fee-reimbursement-dues/article71723859.ece",
+     "summary": "The government owes about ₹11,700 crore for 12 quarters but has spent only ₹3,000 crore, YSRCP leader Duvvuri Krishna alleges",
+     "published": "2026-11-20T10:28:10+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/obk9w1/article71722946.ece/alternates/LANDSCAPE_1200/0000042Erosion.jpg",
+     "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/3ufcon/article71723984.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-20%20at%203.54.12%20PM.jpeg",
      "licence": "linkout",
-     "id": "b242926ecaff",
-     "category": "general",
-     "category_label": "General"
+     "id": "af466857f2db",
+     "category": "money",
+     "category_label": "Money & scams",
+     "figures": [
+      "₹8,700 crore in fee reimbursement dues",
+      "₹11,700 crore for 12 quarters",
+      "12 quarters but has spent only",
+      "₹3,000 crore , YSRCP leader Duvvuri"
+     ]
     },
     {
-     "title": "BMC starts demolition of building linked to Dawood Ibrahim in Mumbai",
-     "url": "https://www.thehindu.com/news/cities/mumbai/bmc-starts-demolition-of-building-linked-to-dawood-ibrahim-in-mumbai/article71719043.ece",
-     "summary": "The building was classified as C-1, a category indicating that the structure was dangerous and required demolition",
-     "published": "2026-11-20T02:35:25+00:00",
+     "title": "Supreme Court allows lighting of lamp on ‘Deepathoon’ at Thirupparankundram as limited one-time arrangement",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
+     "summary": "A Bench headed by Justice Aravind Kumar however stayed the conclusive findings of the Madras HC in a January 6 judgment that upheld the right to light the lamp on the ‘Deepathoon’ as an essential practice",
+     "published": "2026-11-20T10:26:28+00:00",
      "source": "The Hindu",
      "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/mfjzo1/article71719098.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-19%20at%2012.11.04%20PM.jpeg",
+     "image": "https://th-i.thgim.com/public/incoming/ml1sva/article71723824.ece/alternates/LANDSCAPE_1200/9871_10_1_2026_19_30_1_1_9D9D21DC_98E1_4DD7_B870_84C50B4CCFBD.JPEG",
      "licence": "linkout",
-     "id": "9e42759a37fd",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Show cause notice issued to 90 medical shops in Hyderabad over drug sale violations",
-     "url": "https://www.thehindu.com/news/cities/Hyderabad/show-cause-notice-issued-to-90-medical-shops-in-hyderabad-over-drug-sale-violations/article71720988.ece",
-     "summary": "The notices were issued following a special enforcement drive conducted by the drugs wing of TG SAFE, along with its enforcement wing and excise enforcement personnel",
-     "published": "2026-11-20T02:15:33+00:00",
-     "source": "The Hindu",
-     "byline": "",
-     "image": "https://th-i.thgim.com/public/incoming/bzk9gu/article71721002.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-19%20at%207.22.21%20PM.jpeg",
-     "licence": "linkout",
-     "id": "8b2b9eb2a0c6",
+     "id": "fc858918dbf5",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "90 medical shops in Hyderabad over"
+      "6 judgment that upheld the right"
      ]
     },
     {
-     "title": "Today News Headlines for School Assembly, November 20, 2026: Ministry cancels 10 train services as Cyclone Akvan approaches the coast",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMUtlYnJYbHZsUVY1UUJaZml6RlF6OVRuSHRBRDY3QmxtcVFVeFVHQzBzSU1qbjdfcmx1VmJ2dW05TWFYTzV1MUd2N3M4Y3BTaGlzemNVQWl1aW8xcDNnSVc5c1NhN2ZGQ3dodzQ0enZjVDgwOHlxLWpCVFYxUUhKU09neWNZRzVsdFk0a2d6X1djdzF0ZE54UnotN2VSVjlSTmt3VDFLUlMwbWRhNU1uWHpzYXFLaFVULXZaWEp2MW9mN3ZVXzBiRzJ6UzRNU2JtckNwX2FrZjFQS1lhdEMwTFJGenpKSDllalNmYWl0c0VZVVVUSzg5ZnFfTEN0RGJibERaS0RoU2Nmek9zUkVJcjB30gGYAkFVX3lxTE0zekV4aWVXX01HSjFTdzRpdlV1QUtQVE1qQ0JNRDVxWEFCTjRZQS1SRmduZlZhTkQzS29zOExFZ19fYVY2eVdyVHRMMHY4RmhiZ1p2bEZkLW1UdXJZWjJlUEpTM0RJOWZjbERla0NVTGpPdlJsU3JCc0loRV9GRkZrVEhiTWdXMkFjNnZmbHBJVEhkZHRZYzlGS0RqYTlPcWdzcU1JUGYwS25kNE8tYnAtZGFhS2dXSUI4d2U5Ti1aMGFuNUoyU3g1NGFRWld6bE9WeVFEZGtUMEQ5UlpROHZiODN2cVdnM3BGbW1VR0lGOXZ0SDZlWTZLNzVRMmFidUdQR1dzNHJXWFRDSDlKOTNkZ0JYamV5Vkg?oc=5",
-     "summary": "Today News Headlines for School Assembly, November 20, 2026: Ministry cancels 10 train services as Cyclone Akvan approaches the coast The Indian Express",
-     "published": "2026-11-19T11:38:03+00:00",
-     "source": "The Indian Express",
+     "title": "19-year-old B.Tech student found dead at hostel in VIT",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/19-year-old-btech-student-found-dead-at-hostel-in-vit/article71721316.ece",
+     "summary": "",
+     "published": "2026-11-20T10:23:11+00:00",
+     "source": "The Hindu",
      "byline": "",
-     "image": null,
+     "image": "https://www.thehindu.com/theme/images/og-image.png",
      "licence": "linkout",
-     "id": "09b7559382f7",
-     "category": "politics",
-     "category_label": "Political controversy",
-     "figures": [
-      "10 train services as Cyclone Akvan"
-     ]
+     "id": "2157c52d45b5",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Fisherfolk from Kasimedu harbour go on indefinite strike",
+     "url": "https://www.thehindu.com/news/cities/chennai/fisherfolk-from-kasimedu-harbour-go-on-indefinite-strike/article71721418.ece",
+     "summary": "Manivannan, of the Chennai Kasimedu Boat Owners Association, said that the seizure of boats by villagers in Andhra Pradesh had been happening for several decades",
+     "published": "2026-11-20T10:18:32+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/incoming/mm4l2l/article71723968.ece/alternates/LANDSCAPE_1200/FISHERMEN%206.JPG",
+     "licence": "linkout",
+     "id": "14b3e247efeb",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "‘O.M Operation Mole’: Is Mammootty’s casting in the Dhanush-starrer justified?",
+     "url": "https://www.thehindu.com/entertainment/movies/om-operation-mole-mammootty-dhanush-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723402.ece",
+     "summary": "Dhanush’s ‘O.M’ marks Mammootty’s return to Tamil cinema after seven years",
+     "published": "2026-11-20T10:17:56+00:00",
+     "source": "The Hindu",
+     "byline": "",
+     "image": "https://th-i.thgim.com/public/entertainment/movies/98cqjz/article71723401.ece/alternates/LANDSCAPE_1200/Mammootty%20Dhanush%20OM.JPG",
+     "licence": "linkout",
+     "id": "d9b4756385c4",
+     "category": "general",
+     "category_label": "General"
     },
     {
      "title": "School Assembly News Headlines (November 20): Top National, International, Sports News",
@@ -1137,21 +1172,103 @@
    "upsc": true,
    "items": [
     {
-     "title": "Daily Editorial Analysis 19 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbktja0lkRFVMN1F4SFRJMVVxc19YMUhhX21ReUJUcXFfaHdCb05uRkM5b3BfZzRyXzRIMGRpcTF2bjNoX1h1dEllVlZ6b2paSkhqNkJaVzNMcm1GN29BTkNWN2ltZjZyLUtRNzcxVmtiQjNKeFdGZ0J5NktsdFBDY1NxemJPU0RIaG9uNVJB?oc=5",
-     "summary": "Daily Editorial Analysis 19 November 2026 Vajiram & Ravi",
-     "published": "2026-11-19T05:25:30+00:00",
-     "source": "Vajiram & Ravi",
-     "byline": "",
-     "image": null,
+     "title": "Government Stock - Full Auction Results",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=64012",
+     "summary": "",
+     "published": "2026-11-20T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
      "licence": "linkout",
-     "id": "edc8e35fc6fa",
+     "id": "c3be1b3891e9",
      "upsc": {
       "papers": [
        "GS-II — Governance"
       ],
       "terms": [],
       "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Government Stock - Auction Results: Cut-off",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=64011",
+     "summary": "",
+     "published": "2026-11-20T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "181192b3d61d",
+     "upsc": {
+      "papers": [
+       "GS-II — Governance"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Result of the Second 3-day Variable Rate Repo (VRR) auction held on November 20, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=64010",
+     "summary": "",
+     "published": "2026-11-20T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "5e27d7cc46d0",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "VRR"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
+     },
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=64009",
+     "summary": "",
+     "published": "2026-11-20T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "7fedee6bf3ae",
+     "upsc": {
+      "papers": [
+       "GS-II — Polity & Governance",
+       "GS-III — Economy"
+      ],
+      "terms": [],
+      "prompt": "Note the what, the who-issues-it and the date — GS-II answers score on specifics, not adjectives."
+     },
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "RBI to conduct Second 3-day Variable Rate Repo (VRR) auction under LAF on November 20, 2026",
+     "url": "https://rbi.org.in/BS_PressReleaseDisplay.aspx?prid=64008",
+     "summary": "",
+     "published": "2026-11-20T00:00:00+00:00",
+     "source": "Reserve Bank of India",
+     "image": "https://rbi.org.in/images/Twitter_New.png",
+     "licence": "linkout",
+     "id": "cba77bee0443",
+     "upsc": {
+      "papers": [
+       "GS-III — Economy"
+      ],
+      "terms": [
+       "RBI",
+       "VRR",
+       "LAF"
+      ],
+      "prompt": "Note the what, the who-issues-it and the date — GS-III answers score on specifics, not adjectives."
      },
      "category": "general",
      "category_label": "General"
@@ -1355,150 +1472,6 @@
      "id": "f8bf266042a6",
      "category": "general",
      "category_label": "General"
-    },
-    {
-     "title": "Family stories keep alive Georgia’s democratic past and the memory of Soviet repression",
-     "url": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
-     "summary": "“Family stories can open up broader conversations about democracy, human rights, repression, and civic responsibility”",
-     "published": "2026-11-19T08:00:05+00:00",
-     "source": "Global Voices",
-     "byline": "Daria Dergacheva",
-     "image": "https://globalvoices.org/wp-content/uploads/2026/11/960px-Resort-in-Guria-Region_in_Georgia-800x450.jpg",
-     "licence": "cc-by",
-     "body": [
-      {
-       "kind": "p",
-       "text": "In the Guria region, an organization is helping people recover a history the Soviets tried to erase"
-      },
-      {
-       "kind": "p",
-       "text": "Originally published on Global Voices"
-      },
-      {
-       "kind": "p",
-       "text": "Resort in the Guria region of Georgia. Photo by Tinari.totoro on Wikimedia Commons (CC BY-SA 4.0)."
-      },
-      {
-       "kind": "p",
-       "text": "This interview is part of a series of spotlights on the work of some of the grantees of the Digital Spark granting scheme, as part of the Regional Support Mechanism EECA project, implemented by the Metamorphosis Foundation and TechSoup, in partnership with CIVICUS and under the Digital Democracy Initiative (DDI) that covers the Global South. It is being published on Global Voices as part of a content-sharing agreement."
-      },
-      {
-       "kind": "p",
-       "text": "Guria is a region in Georgia, situated in the southwestern part of the country. It has a coastline on the Black Sea to the west, which is about 22 kilometers (13 miles) long, and the region is bordered by the Samegrelo-Zemo Svaneti region to the north, Imereti to the east, and the Autonomous Republic of Adjara to the south. It has a rich history and a historical tradition of democracy."
-      },
-      {
-       "kind": "p",
-       "text": "Today, in the region, independent media access is limited and digital literacy remains low. However, Guria has a civic tradition that most of its own residents do not know about in detail."
-      },
-      {
-       "kind": "p",
-       "text": "In 1904, locals organized protests against imperial (Russian, at the time) institutions, formed institutions of self-governance, and proclaimed the Gurian Republic, an early experiment in participatory democracy."
-      },
-      {
-       "kind": "p",
-       "text": "The republic was violently suppressed first by the Russian tsarist empire, and later all the memories of it were fragmented further by decades of deliberate erasure under Soviet occupation of Georgia (1921–1991) and by repressions."
-      },
-      {
-       "kind": "p",
-       "text": "This is exactly what the Digital Spark Spotlight project in Georgia focused on: history and memory in the Guria region."
-      },
-      {
-       "kind": "p",
-       "text": "Global Voices interviewed Lika Mergaladze, head of the organization Komli Initiative for Civic Engagement, about their project: what they have done and what they learned through it."
-      },
-      {
-       "kind": "p",
-       "text": "Global Voices (GV): Please tell us about your organization and why you chose to get involved with the Digital Spark project?"
-      },
-      {
-       "kind": "p",
-       "text": "Lika Mergaladze (LM): Our organization, Komli Initiative for Civic Engagement, works to preserve local history, strengthen civic engagement, and promote sustainable development in the Guria region of Georgia. We use exhibitions, workshops, digital storytelling, and collaborative activities to connect communities with their history and encourage active participation in civic life."
-      },
-      {
-       "kind": "p",
-       "text": "We chose to get involved in the Digital Spark project because we saw an opportunity to combine local history with modern digital technologies. We wanted to help community members document and share their family stories, develop digital skills, and better understand the connection between the past and present. We believe that preserving historical memory and encouraging critical thinking are essential for building an informed and active community."
-      },
-      {
-       "kind": "p",
-       "text": "GV: What issue/challenge in your community prompted you to undertake this project?"
-      },
-      {
-       "kind": "p",
-       "text": "LM: One of the main challenges in Guria is that many important historical stories have been forgotten or remain untold. These stories were purposely erased during the Soviet Union. Many families who were the victims of a series of repressions in the 1920s and 30s learned to remain silent about their past in the 50s after World War II. As a result, younger generations often know very little about their ancestors and the region’s democratic traditions, including the Gurian Republic of 1904."
-      },
-      {
-       "kind": "p",
-       "text": "Another challenge is limited access to independent media and low levels of digital literacy in local communities. The dominance of social media and television as information sources makes media literacy and critical thinking particularly important."
-      },
-      {
-       "kind": "p",
-       "text": "We undertook this project to address these challenges by helping local people preserve their history, recognize misinformation and propaganda, and use digital tools to share their stories with a wider audience."
-      },
-      {
-       "kind": "p",
-       "text": "GV: What are the key changes/activities that your organization implemented during your participation in the project?"
-      },
-      {
-       "kind": "p",
-       "text": "LM: Through the project ‘From Understanding the Past to the Digital Future,’ implemented from April to October 2026, we organized several activities across the three municipalities of Guria: Ozurgeti, Chokhatauri, and Lanchkhuti. Our main activities included a public discussion. On June 24, we organized ‘What Drove Gurians Crazy? Propaganda Now and Then,’ exploring Guria’s democratic history, Soviet occupation, propaganda, and contemporary challenges. We also did digital storytelling workshops, an AI and Digital Creation workshop and a theatrical performance: on August 12, we presented “My Days and My Father’s Diaries,” dedicated to Meri Chanukvadze and her father, Amberki Chanukvadze, whose life reflected the impact of Soviet repression. These activities helped strengthen participants’ digital skills, encourage historical research, and create opportunities for community members to share their stories online."
-      },
-      {
-       "kind": "p",
-       "text": "GV: How did your participation in the project impact your organization’s beneficiaries and the community that you serve? Please provide examples."
-      },
-      {
-       "kind": "p",
-       "text": "LM: The project generated strong interest across all three municipalities, reaching nearly 50 community members, with particularly strong participation from women and young people. Locals participated in the digital storytelling workshop, including 12 women. These activities gave participants practical opportunities to develop their digital skills and explore new ways of communicating important ideas. Another meaningful example was the theatrical performance dedicated to Meri and her father. More than 35 people attended and participated in a discussion afterwards. The performance encouraged people to reflect on the experiences of families affected by Soviet repression and the importance of preserving historical memory."
-      },
-      {
-       "kind": "p",
-       "text": "The project also laid the foundation for a cross-municipal network of young people, activists, and aspiring digital storytellers. This network can help community members continue documenting local history, sharing civic information, and engaging in public discussions beyond the project itself."
-      },
-      {
-       "kind": "p",
-       "text": "GV: How has your own knowledge, awareness, and experience with digital democracy and civic space changed, thanks to your participation in the project?"
-      },
-      {
-       "kind": "p",
-       "text": "LM: Our participation in the project strengthened our understanding of how digital technologies can support civic engagement and democratic participation. We gained greater awareness of the importance of digital storytelling, media literacy, and critical thinking in helping communities understand their history and respond to contemporary challenges. We also explored how AI-assisted content creation can provide new opportunities for preserving local stories and making them accessible to wider audiences. The project reinforced our belief that digital tools are not simply communication technologies; they can also help people participate in public life, challenge misinformation, and contribute to community development. Most importantly, we recognized that connecting historical memory with modern digital tools can help create a more informed, active, and engaged society."
-      },
-      {
-       "kind": "p",
-       "text": "GV: What are the most valuable lessons and experiences you are taking away from this project?"
-      },
-      {
-       "kind": "p",
-       "text": "LM: One of the most valuable lessons was that many people are interested in learning about their history when they are given a welcoming space to ask questions and share experiences. Family stories can open up broader conversations about democracy, human rights, repression, and civic responsibility."
-      },
-      {
-       "kind": "p",
-       "text": "We also learned that practical workshops and collaborative activities are effective ways to introduce digital tools to community members. The strong participation of women and young people demonstrated the potential for inclusive, community-based learning."
-      },
-      {
-       "kind": "p",
-       "text": "Another important lesson was the value of combining traditional storytelling with digital technologies. Personal stories, family diaries, public discussions, and theatrical performances can make historical events more relatable and meaningful."
-      },
-      {
-       "kind": "p",
-       "text": "GV: What comes next? How will you apply the learning and digital capacity you have built in your future work and within your community?"
-      },
-      {
-       "kind": "p",
-       "text": "LM: We plan to build on the experience and connections developed through the project by continuing to document, digitize, and share historical and civic stories from Guria."
-      },
-      {
-       "kind": "p",
-       "text": "We aim to encourage more community members, especially young people and women, to use digital storytelling and online content creation to preserve family histories and discuss local issues. We also intend to apply the knowledge gained from the workshops to future educational activities, community discussions, and collaborative initiatives."
-      },
-      {
-       "kind": "p",
-       "text": "An important priority will be to strengthen the network of local journalists, activists, and digital storytellers across Ozurgeti, Chokhatauri, and Lanchkhuti. By supporting collaboration and knowledge-sharing, we hope to ensure that these activities continue beyond the project period."
-      }
-     ],
-     "publisher": "Global Voices",
-     "id": "b0631e0ce5fd",
-     "category": "general",
-     "category_label": "General"
     }
    ]
   },
@@ -1657,6 +1630,32 @@
    "upsc": false,
    "items": [
     {
+     "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+     "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+     "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+     "published": "2026-11-20T09:44:56+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg",
+     "licence": "linkout",
+     "id": "41a333d608be",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Airbnb's divisive new house rules come into force",
+     "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+     "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+     "published": "2026-11-20T09:55:20+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3342/live/1c7d3390-e4ca-11f1-99b6-a35a62fa4264.jpg",
+     "licence": "linkout",
+     "id": "8e3d04f61529",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
@@ -1670,84 +1669,67 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-     "published": "2026-11-20T02:13:05+00:00",
+     "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+     "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+     "summary": "What is acceptable to eat at your desk, without annoying your colleagues?",
+     "published": "2026-11-20T00:08:37+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg",
      "licence": "linkout",
-     "id": "819d3babef6f",
-     "category": "general",
-     "category_label": "General",
-     "figures": [
-      "6 breaks records as sales top",
-      "$2bn - industry estimate"
-     ]
+     "id": "9dbb17faab1d",
+     "category": "sports",
+     "category_label": "Sports"
     },
     {
-     "title": "California targets Nvidia in China AI chip probe",
-     "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-     "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-     "published": "2026-11-19T23:04:30+00:00",
+     "title": "Should AI be judging our credit worthiness?",
+     "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+     "published": "2026-11-20T07:32:19+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
      "licence": "linkout",
-     "id": "28fefe16dbf3",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "id": "5b5e77b6ee8e",
+     "category": "money",
+     "category_label": "Money & scams"
     },
     {
-     "title": "Airbnb's divisive new house rules come into force",
-     "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-     "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-     "published": "2026-11-20T00:12:28+00:00",
-     "source": "BBC News",
+     "title": "New NFO alert! Franklin US Equity IFSC Fund—See full offer period, minimum investment amount, benchmark, other details",
+     "url": "https://www.livemint.com/money/new-nfo-alert-franklin-us-equity-ifsc-fund-see-full-offer-period-minimum-investment-amount-benchmark-other-details-11795166971835.html",
+     "summary": "Franklin Templeton has launched the Franklin US Equity IFSC Fund, its first outbound fund offering through Gujarat International Finance Tec-City (GIFT City). Here's all you should know before investing…&nbsp;",
+     "published": "2026-11-20T10:01:15+00:00",
+     "source": "Mint",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/20/600x338/murual_fund_nfo_1785771811341_1785771840069_2805d9ed-262e-4373-8fef-5e5d02997c19_1795168619891_6Iqv_76bb4524-e024-456e-a54c-9a07369f1184_iICF.png",
      "licence": "linkout",
-     "id": "8e3d04f61529",
+     "id": "6ce3a6f46106",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Own car or two-wheeler? Check new PUC rules, BS-wise pollution certificate validity, key changes and possible penalties",
-     "url": "https://www.livemint.com/money/personal-finance/own-car-or-two-wheeler-check-new-puc-rules-bs-wise-pollution-certificate-validity-key-changes-and-possible-penalties-11795134173267.html",
-     "summary": "The government has revised PUC certificate validity periods based on vehicle age, emission standards and usage. Find out how the new rules affect renewal timelines, which vehicles get longer validity and when the revised schedule applies to existing certificates.",
-     "published": "2026-11-20T02:18:51+00:00",
+     "title": "NPCI's UPI Vyapaar Saksham Scheme to boost digital payments, help small merchants with incentives — All we know",
+     "url": "https://www.livemint.com/money/npcis-upi-vyapaar-saksham-scheme-to-boost-digital-payments-help-small-merchants-with-incentives-all-we-know-11795165732819.html",
+     "summary": "NPCI introduces the ‘UPI Vyapaar Saksham Scheme’ to boost digital payments and expand UPI acceptance among small merchants, offering incentives on QR codes and soundbox, subject to eligibility. Here's all we know…&nbsp;",
+     "published": "2026-11-20T09:34:10+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/20/600x338/New_PUC_Rules_Explained_1795139963147_xqJV_1795140013227_keDa_290561e4-4e74-4556-a8c2-fa081a622551_uwOa.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/20/600x338/Gemini_Generted_Image_yuu5lvyuu5lvyuu5_17913489_17_1795166724192_neyG_1795166724301_aJQb_9bb82d38-a2f8-4877-8a2f-dfa0a0460875_aVwZ.png",
      "licence": "linkout",
-     "id": "2bf7ad019f6a",
+     "id": "d889eea42dfd",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Air pollution raises respiratory illness claims: Children & senior citizens account for 58% of hospitalisations",
-     "url": "https://www.livemint.com/money/personal-finance/air-pollution-raises-respiratory-illness-claims-children-and-senior-citizens-account-for-58-of-hospitalisations-care-11795108281360.html",
-     "summary": "Respiratory hospitalisation claims rose 11% in both September and October 2025, with children accounting for 48% of claims in each month, according to Care Health Insurance data. Here are the health risks and precautions families should know about.",
-     "published": "2026-11-19T18:12:28+00:00",
+     "title": "Gold and silver allocation: DSP Mutual Fund announces change in stance for DSP Multi Asset Omni Fund of Funds — Details",
+     "url": "https://www.livemint.com/money/gold-silver-allocation-dsp-mutual-fund-change-stance-dsp-multi-asset-omni-fund-of-funds-details-11795162151674.html",
+     "summary": "DSP Mutual Fund plans to gradually raise gold and silver holdings in its Multi Asset Omni Fund of Funds, which has been underweight on precious metals. It will use a rules-based strategy, here's how…&nbsp;",
+     "published": "2026-11-20T09:10:13+00:00",
      "source": "Mint",
      "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/19/600x338/Gemini_Generated_mage_mj0qw2mj0qw2mj0q_1795108682_1795108689715_QtVb_1795108689884_sg3u_5a1ba894-18c7-4154-b165-9aaf89adb2f6_TL0j.png",
+     "image": "https://www.livemint.com/lm-img/img/2026/11/20/600x338/c016497b-2f73-4c4c-a0e1-5ab04fbf7605_1793590204866_1795165266517_jWuv_1795165266640_2PTf_30f5fa76-f8db-4ab5-8771-e302ef6bab12_Qu4k.png",
      "licence": "linkout",
-     "id": "4ba8561313c5",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "How to analyse a mutual fund? A beginner’s guide to returns, risk, costs and fund performance for better returns",
-     "url": "https://www.livemint.com/money/personal-finance/how-to-analyse-a-mutual-fund-a-beginner-s-guide-to-returns-risk-costs-and-fund-performance-for-better-returns-11795107230060.html",
-     "summary": "Choosing a mutual fund requires more than checking past returns. Beginners should assess rolling returns, risk, expense ratios, portfolio quality, fund manager stability and benchmark performance to find schemes suited to their financial goals.",
-     "published": "2026-11-19T17:02:00+00:00",
-     "source": "Mint",
-     "byline": "",
-     "image": "https://www.livemint.com/lm-img/img/2026/11/19/600x338/Gemini_Generated_Imge_awuiklawuiklawui_179510766_1795107672229_Qc4f_1795107672378_OQJY_db49f0f5-875d-45f5-a2e4-128159381ea4_Fu0V.png",
-     "licence": "linkout",
-     "id": "4eca9419fb35",
+     "id": "85449f0868d6",
      "category": "general",
      "category_label": "General"
     }
@@ -1760,20 +1742,46 @@
    "upsc": false,
    "items": [
     {
-     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-     "published": "2026-11-20T02:13:05+00:00",
+     "title": "White House removes cyber-security chief after series of tech outages",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+     "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+     "published": "2026-11-20T09:37:59+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
+     "licence": "linkout",
+     "id": "77ce998683fd",
+     "category": "tech",
+     "category_label": "AI & technology"
+    },
+    {
+     "title": "Should AI be judging our credit worthiness?",
+     "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+     "published": "2026-11-20T07:32:19+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
+     "licence": "linkout",
+     "id": "5b5e77b6ee8e",
+     "category": "money",
+     "category_label": "Money & scams"
+    },
+    {
+     "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+     "published": "2026-11-20T02:54:40+00:00",
+     "source": "BBC News",
+     "byline": "",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
      "licence": "linkout",
      "id": "819d3babef6f",
      "category": "general",
      "category_label": "General",
      "figures": [
-      "6 breaks records as sales top",
-      "$2bn - industry estimate"
+      "6 breaks records as estimated sales",
+      "$2.3bn"
      ]
     },
     {
@@ -1790,98 +1798,43 @@
      "category_label": "Money & scams"
     },
     {
-     "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-     "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-     "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-     "published": "2026-11-19T23:33:51+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-     "licence": "linkout",
-     "id": "779c3aaa135e",
-     "category": "money",
-     "category_label": "Money & scams"
-    },
-    {
-     "title": "Dutch watchdog tells people not to buy AI smart glasses",
-     "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-     "published": "2026-11-19T16:33:17+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
-     "licence": "linkout",
-     "id": "e802c0298686",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Anthropic raises $81bn in record-breaking stock market debut",
-     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-     "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-     "published": "2026-11-19T15:58:58+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-     "licence": "linkout",
-     "id": "c6d87bb33ae7",
-     "category": "money",
-     "category_label": "Money & scams",
-     "figures": [
-      "$81bn in record-breaking stock market"
-     ]
-    },
-    {
-     "title": "India can leverage AI in aerospace, defence, space sectors: TiE Bangalore",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYVByTzJkeThXcE56TkxOanNqQjBTSlc4QjhQbWNXRFZXQzVTNnZJeDFTa1BZYlBTXy1iU0tldGsyZURLZkNXTjgzMVpQZ25VcmNYZ3dpOUVFMU9lNTE4SThaV1NvTnN6NGg0OXV0OFkwTndwSlNHSVRCbHluT0VQMHZyYVF3N3hXTHJ1dkFZUlY3UEpSdlZJdlN3MDVIVmtOY2tuaEZKWjdKdkNtcE1DTTFHQ3RqWGxkQnFET01fS2xBVmpaVHJJVEFqdEgyTUVOdmI0S3JCYm1ZRHVUUVZUZEpLQTVUemRrX2JlV0ZyNlPSAfYBQVVfeXFMUHpCd0QtdDJEdURrZzhUR19hbDNKc2ltbHlUMXFackU0UGNSUDJlUVNPaWJhaG5sUmRMejZkRVFaVmVtRmVPdy0tMzRkMDJKRG1oWnZva3BIbkxkNS1YRVFleFJFZ256MDB0NlpFX3BjZmFpUVN3azZlbmNnSklNdF8xdEl6NFRfUlJIZ3R0SGg3WHRudVctb01sV1pKVnEyUWIxVk5zNWJxU0xTTDh1TEZ3VnZoMngwTFdwTTQxTUxRVGNyOVVoOTBhcnlpNzBBSFR3akp1TFVadjllU1dKc2l0QUF4ajJDdFBKMGdxb3B2RVFLdnJ3?oc=5",
-     "summary": "India can leverage AI in aerospace, defence, space sectors: TiE Bangalore Business Standard",
-     "published": "2026-11-19T15:27:06+00:00",
+     "title": "AI is giving hackers a head start. What's at risk for essential services?",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmdTd1Jpbl9EZlVaQmJRcll1dnA0LUc5TTJjeW90YTlTbWo2UkJFVUs3Q1lRd21uUy1JcFlMaW5lLWV5SmdyU0ZLcHBmMWJ1alhINGhnX2h3SGNwNkxsUmtENUJON1pmcHdIV0lncFA3X1pjZlBEMVVWd2NuOHo2Slg1UW1RLVNfQWtqNTkyTEFfNVRSUDdFMHI2MEZaMkc1ZXFWVG1LbXZRU0xDOEdMY2tGUG5pZ0FKWVdlWThIUndJNlFwWG1STFlLdXVsdWs4SGlsdzlwNlk1Q3fSAeABQVVfeXFMT18zekZEd25SMW83LVNNVHF3d2pnRnVOdHlrVV9WR2NmQ1FCeHBfTEdFWHpnT1hBSVNhS0wyemdhMFkxQTU2b05Odk1YM0EyR3ZZbGpZOG00d21GNnlYMHJ6U2pMS0wwR1ZXeDVtTUx0UkZfRzBadXRLWkJfQkxmSHI0eFBHcDVFT2NUdjVMbnZXWVJVSzF4U3NwYXZMQWhWV2g1RlFHUEMtS05qOTg5MTdEM2xPUWdsQ3gzRy16UWNBdkJTSWRiN2dnVzdSNVR0dEpVRVhmRU9QS0ZEWmZxRU0?oc=5",
+     "summary": "AI is giving hackers a head start. What's at risk for essential services? Business Standard",
+     "published": "2026-11-20T05:09:02+00:00",
      "source": "Business Standard",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "4ff866493eb6",
+     "id": "dc53fc30e8e1",
      "category": "tech",
      "category_label": "AI & technology"
     },
     {
-     "title": "Data Availability for Artificial Intelligence and Engineering Biology - CSET | Center for Security and Emerging Technology",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmc2Qy1QeXNrWDk3YmliY2ZpMTA5aGNjaEhVcmlDQ2E0eEVxX0ZpREhKeEY3MWpKNVhTVHBzNXpFUjFRdWlwWllJUHNwb3hjdTRPeVhLYzhLN2lOSzJoUkZmZ1VuVlNjNW5rQXNoQ25PNjZGVjB6TXBfb2F3VlRqOC0zdG05N3V4UEZKYVc1T0NTUjBkVkpRSHI4clZEd3AxZ1pyLWxYTnFCbkhEWUh3?oc=5",
-     "summary": "Data Availability for Artificial Intelligence and Engineering Biology CSET | Center for Security and Emerging Technology",
-     "published": "2026-11-19T05:13:25+00:00",
-     "source": "Google News",
+     "title": "Google Gemini has learnt to operate a Mac on its own",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rN2MxWEw3aDFZNzhHcUs0YmZJNk5EdjR2clNORDF2RlJiX1lnTWJBRVBBQjVxSF96blVZM1RVVk5sS21BVWRYSWdLNzhvYXFEWlkzU2t0QXRsbDk4MGlkNzhoTjVhaGpFOFM1R014TWpOSl9TcG1iTg?oc=5",
+     "summary": "Google Gemini has learnt to operate a Mac on its own UkrMedia News",
+     "published": "2026-11-20T08:11:22+00:00",
+     "source": "UkrMedia News",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "b04a66787fd0",
-     "category": "tech",
-     "category_label": "AI & technology"
+     "id": "dddc5e124f57",
+     "category": "general",
+     "category_label": "General"
     },
     {
-     "title": "Arrow Electronics showcases edge artificial intelligence systems at EdgeTech+ - Vietnam Investment Review",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHBQa3Q2bmFyaGptUU5QZTd4OHJoUVRCNkJoX0xSMEI4QklISWk4Z0tiR2lQZmIxRXhUOUMtYUFzTmcydkxLRnR6SXluOExmVjRHNnBtWkhoM1ZBTF8xQVJSbF9YRkRHenlnMnJRbzM2dTE0djNEelBuS183by00algxM19UQzNZWWJiNVI0azJuQmlNTEtxc2dKdFB6cXBvaUhQa1FYcm9XaGM?oc=5",
-     "summary": "Arrow Electronics showcases edge artificial intelligence systems at EdgeTech+ Vietnam Investment Review - VIR",
-     "published": "2026-11-19T05:07:58+00:00",
-     "source": "VIR",
+     "title": "Stowers Institute appoints Brandon Mayer as Chief Technology Officer",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVpIbDI2RzRJODlBMzd4Vkl3bUlzbVI5NGs4UWVIVnlkNlNyaXYxcmdIbGlDbml6ZlBPdEo1SGpMMmg0Ti16TGo5dzhvOFl2OE1ZMHJXamQxanRBNmM3a3ZHakhXWElaMXE3dWtubXo5TjdNalhtM0NUS0VRY1RWZ0lRU01MbXQ5ZnY4Y0Rsd0dHU29aTWVVUVlaNk9xNUNWUjJIMmdJRGNkSWR0?oc=5",
+     "summary": "Stowers Institute appoints Brandon Mayer as Chief Technology Officer BioSpace",
+     "published": "2026-11-20T05:52:00+00:00",
+     "source": "BioSpace",
      "byline": "",
      "image": null,
      "licence": "linkout",
-     "id": "81e7417dc95e",
-     "category": "tech",
-     "category_label": "AI & technology"
-    },
-    {
-     "title": "Is quantum the EU’s path back into the tech race?",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWVnNVdSVjlYWk5qRGczRkFhWnVQZjdZVTU4ek5UMUowYmpIc3p4MlpmaVBCWkxqd3pyTUdGS1hFeHMxSXlWNWxnM0NZaS1SbElYODJnQXBXNXBXaXJLc3JNclZuUjFFS0FnUDdmMndobGtJZFU1VHp3eHV5RlE4RFE3c0RJRW1wN1VkYWg3eGxUbkIzci02VmZJVVREZw?oc=5",
-     "summary": "Is quantum the EU’s path back into the tech race? The Parliament Magazine",
-     "published": "2026-11-19T07:54:14+00:00",
-     "source": "The Parliament Magazine",
-     "byline": "",
-     "image": null,
-     "licence": "linkout",
-     "id": "e318ecb5a439",
-     "category": "politics",
-     "category_label": "Political controversy"
+     "id": "84bb321f0d6c",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   },
@@ -1892,69 +1845,81 @@
    "upsc": false,
    "items": [
     {
-     "title": "India vs New Zealand LIVE Score, 1st Test Day 2: India Take Quick Wickets After Lunch, But Nicholls Holds Fort",
-     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-1st-test-live-score-day-2-ind-vs-nz-live-updates-scorecard-cricket-jasprit-bumrah-shubman-gill-kl-rahul-yashasvi-jaiswal-12351504#publisher=newsstand",
-     "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 2: Underfire pacer Prasidh Krishna struck after Lunch to give India a much-needed breakthrough on Day 2 of the 1st Test against New Zealand in Wellington.",
-     "published": "2026-11-20T01:27:56+00:00",
+     "title": "India A vs Nepal LIVE Score, Asia Cup Rising Stars Updates: All Eyes On Vaibhav Sooryavanshi, Abhishek Sharma's 50-Over Game; India Put In To Bat",
+     "url": "https://sports.ndtv.com/cricket/india-vs-nepal-live-score-asia-cup-rising-stars-ind-vs-nep-live-updates-match-scorecard-vaibhav-sooryavanshi-abhishek-sharma-tilak-varma-12353629#publisher=newsstand",
+     "summary": "India vs Nepal LIVE Score, Asia Cup Rising Stars Updates: Vaibhav Sooryavanshi and Abhishek Sharma are out to open for India, in their first Group B game against Nepal.",
+     "published": "2026-11-20T10:12:16+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/bekh9nu_akash-deep-bcci_625x300_20_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/ahdkj0ds_abhishek-sharma-vaibhav-sooryavanshi_625x300_20_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "79aebfb9c5ac",
+     "id": "1046baa5e744",
+     "category": "general",
+     "category_label": "General"
+    },
+    {
+     "title": "Aaryavir Sehwag Gives Honest Take On Comparisons With Father Virender Sehwag: 'Not Here To Be Sehwag 2.0'",
+     "url": "https://sports.ndtv.com/cricket/aaryavir-sehwag-gives-honest-take-on-comparisons-with-father-virender-sehwag-not-here-to-be-sehwag-2-0-12353992#publisher=newsstand",
+     "summary": "Aaryavir Sehwag, son of legendary Indian cricket team batter Virender Sehwag, dominated headlines after playing a big role in India's U-19 Asia Cup 2026 triumph.",
+     "published": "2026-11-20T10:10:04+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/4solgivc_virender-sehwag-aaryavir-sehwag_625x300_19_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "a650be91cc02",
      "category": "sports",
-     "category_label": "Sports"
+     "category_label": "Sports",
+     "figures": [
+      "19 Asia Cup 2026 triumph"
+     ]
     },
     {
-     "title": "Yashasvi Jaiswal Wants To Leave Rajasthan Royals, But Multiple Trades Fell Through. Report Reveals Details",
-     "url": "https://sports.ndtv.com/ipl-2027/yashasvi-jaiswal-wants-to-leave-rajasthan-royals-but-multiple-trades-fell-through-report-reveals-details-12351385#publisher=newsstand",
-     "summary": "Yashasvi Jaiswal is reportedly keen on leaving Rajasthan Royals (RR), but the 2008 IPL champions have not been able to agree a deal with another team yet.",
-     "published": "2026-11-20T00:35:30+00:00",
+     "title": "\"No Hindu-Muslim Angle In Indian Team\": Gautan Gambhir's Childhood Coach Backs Mohammed Siraj's Non-selection",
+     "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/no-hindu-muslim-angle-in-indian-team-gambhir-s-childhood-coach-backs-siraj-s-non-selection-12353530#publisher=newsstand",
+     "summary": "Gautam Gambhir's childhood coach, Sanjay Bharadwaj, on Friday dismissed allegations of a religious angle behind Mohammed Siraj's omission from India's playing XI for the first Test against New Zealand",
+     "published": "2026-11-20T10:00:44+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/81080oac_yashasvi-jaiswal_625x300_19_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2025-08/d50po0a4_mohammed-siraj-afp_625x300_04_August_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "3aaa9a913890",
+     "id": "41b2d399be36",
+     "category": "politics",
+     "category_label": "Political controversy"
+    },
+    {
+     "title": "\"What A Way To Ruin An Experience\": Fans React To BrycexD Finishing GTA 6 Story In Just 40 Hours",
+     "url": "https://sports.ndtv.com/us/us-streamers/what-a-way-to-ruin-an-experience-fans-react-to-brycexd-finishing-gta-6-story-in-just-40-hours-12353854#publisher=newsstand",
+     "summary": "BrycexD's claimed GTA 6 world-first completion has received mixed reactions, with some players questioning his decision to finish the story in just 40 hours. Others congratulated the streamer for staying awake for over 50 hours to complete it.",
+     "published": "2026-11-20T09:49:10+00:00",
+     "source": "NDTV Sports",
+     "byline": "",
+     "image": "https://c.ndtvimg.com/2026-11/79jpbsd_brycexd_625x300_20_November_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "licence": "linkout",
+     "id": "c9a3bda852ad",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "6 Story In Just 40 Hours",
+      "6 world -first completion has received",
+      "50 hours to complete it"
+     ]
     },
     {
-     "title": "Mike Vrabel's Reputation Takes Another Hit Amid Dianna Russini Scandal And Alcohol Controversy",
-     "url": "https://sports.ndtv.com/us/nfl/mike-vrabels-reputation-takes-another-hit-amid-dianna-russini-scandal-and-alcohol-controversy-12351966#publisher=newsstand",
-     "summary": "Mike Vrabel faces mounting scrutiny as past controversies involving Dianna Russini and alcohol resurface amid the Patriots' recent struggles and growing questions about his leadership.",
-     "published": "2026-11-20T00:03:41+00:00",
+     "title": "Kai Cenat Claims GTA 6 Graphics Are A Scam After Comparing Them To Trailers",
+     "url": "https://sports.ndtv.com/us/us-streamers/kai-cenat-claims-gta-6-graphics-are-a-scam-after-comparing-them-to-trailers-12353836#publisher=newsstand",
+     "summary": "Kai Cenat has sparked a GTA 6 graphics debate after allegedly calling the visuals a scam compared to Rockstar’s trailers, criticising animations and hinting at waiting for the PC version.",
+     "published": "2026-11-20T09:49:01+00:00",
      "source": "NDTV Sports",
      "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/a2v5og84_mike-vrabel_625x300_20_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+     "image": "https://c.ndtvimg.com/2026-11/h3oq57q8_kai-cenat_625x300_18_November_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
      "licence": "linkout",
-     "id": "3ce45b86d91a",
-     "category": "human",
-     "category_label": "Human interest"
-    },
-    {
-     "title": "Travis Kelce Reflects On Taylor Swift’s Arrowhead Stadium Impact With 'Lucky Man’ Confession",
-     "url": "https://sports.ndtv.com/us/nfl/travis-kelce-reflects-on-taylor-swift-s-arrowhead-stadium-impact-with-lucky-man-confession-12351957#publisher=newsstand",
-     "summary": "Travis Kelce feels ‘lucky’ as he praises Chiefs fans for making Taylor Swift and his guests feel welcome in his Arrowhead Stadium suite.",
-     "published": "2026-11-20T00:03:11+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/e2p4d79o_travis-kelce-taylor-swift_625x300_20_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "b3a75895b4be",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Kyle Kuzma Slams NFL Over Saquon Barkley’s Polymarket Exit",
-     "url": "https://sports.ndtv.com/us/nfl/kyle-kuzma-slams-nfl-over-saquon-barkley-s-polymarket-exit-12351523#publisher=newsstand",
-     "summary": "Kyle Kuzma has criticised the NFL for making Saquon Barkley sell his Polymarket stake, arguing that professional athletes should have more freedom to invest outside sports.",
-     "published": "2026-11-19T23:09:37+00:00",
-     "source": "NDTV Sports",
-     "byline": "",
-     "image": "https://c.ndtvimg.com/2026-11/94jchcig_kyle-kuzma_625x300_20_November_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-     "licence": "linkout",
-     "id": "41d0927a215b",
+     "id": "9b32f2c83ed7",
      "category": "money",
-     "category_label": "Money & scams"
+     "category_label": "Money & scams",
+     "figures": [
+      "6 Graphics Are A Scam",
+      "6 graphics debate after allegedly calling"
+     ]
     }
    ]
   },
@@ -1965,67 +1930,64 @@
    "upsc": false,
    "items": [
     {
-     "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
-     "url": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o?at_medium=RSS&at_campaign=rss",
-     "summary": "Langley won six awards, weeks after her hit Choosin' Texas broke a Billboard chart record in the US.",
-     "published": "2026-11-19T12:01:35+00:00",
+     "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+     "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
+     "summary": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+     "published": "2026-11-20T01:11:57+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa1/live/4fe0f450-e408-11f1-99b6-a35a62fa4264.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/072f/live/f0b3cb40-e3fa-11f1-a1b0-810734adec41.jpg",
      "licence": "linkout",
-     "id": "89de1afb7235",
-     "category": "general",
-     "category_label": "General"
-    },
-    {
-     "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
-     "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
-     "summary": "The actress said how \"stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
-     "published": "2026-11-19T12:17:32+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed67/live/ffc65c00-e437-11f1-a094-5fdc692f3e33.jpg",
-     "licence": "linkout",
-     "id": "2a33e26282f6",
+     "id": "5a904ee14dbe",
      "category": "celebrity",
-     "category_label": "Celebrity"
+     "category_label": "Celebrity",
+     "figures": [
+      "24 years before the original"
+     ]
     },
     {
-     "title": "Fiona Harvey to appear at Crown Court on harassment charge",
-     "url": "https://www.bbc.co.uk/news/articles/cq143j81g6l3o?at_medium=RSS&at_campaign=rss",
-     "summary": "Harvey, who allegedly inspired Netflix's Baby Reindeer, racially aggravated harassment without violence.",
-     "published": "2026-11-19T13:39:56+00:00",
+     "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+     "published": "2026-11-20T02:54:40+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a38/live/03ae11c0-e41d-11f1-9e08-55a8a3b48445.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
      "licence": "linkout",
-     "id": "35d4cd9ca06a",
+     "id": "819d3babef6f",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "6 breaks records as estimated sales",
+      "$2.3bn"
+     ]
     },
     {
-     "title": "PM urges social media companies to 'show some decency' and take down Brand video",
-     "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
-     "summary": "The comments came after YouTube owner Google refused a government request to remove a clip posted by the wife of the jailed comedian in which he claims he is innocent.",
-     "published": "2026-11-19T15:47:56+00:00",
+     "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
+     "url": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
+     "summary": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target.",
+     "published": "2026-11-20T00:38:57+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0537/live/bd670b70-e3ec-11f1-a16c-7de3762c094b.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e693/live/c254bab0-e42d-11f1-a630-a951c13e48b7.jpg",
      "licence": "linkout",
-     "id": "c8d94c32e48f",
+     "id": "acc287cc4f39",
      "category": "general",
-     "category_label": "General"
+     "category_label": "General",
+     "figures": [
+      "£500 m target"
+     ]
     },
     {
-     "title": "Westside Cowboy named BBC Introducing Artist of the Year 2026",
-     "url": "https://www.bbc.co.uk/news/articles/c6eq4l4y81l2o?at_medium=RSS&at_campaign=rss",
-     "summary": "The band follow previous winners including Olivia Dean, Myles Smith and Tom Grennan.",
-     "published": "2026-11-19T09:00:54+00:00",
+     "title": "Remember Monday 'still feel nerves' after Eurovision",
+     "url": "https://www.bbc.co.uk/news/articles/cke89vdd77p3o?at_medium=RSS&at_campaign=rss",
+     "summary": "Life is an adrenaline rush for the trio after their rise to fame through the 2025 Eurovision final.",
+     "published": "2026-11-20T06:13:47+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd5f/live/a6762b30-e41e-11f1-99a1-253766e7ad8b.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ccc/live/3baf4d60-e435-11f1-8346-933d3547e297.png",
      "licence": "linkout",
-     "id": "feb7747cbea0",
+     "id": "4728e8539493",
      "category": "general",
      "category_label": "General"
     }
@@ -2044,7 +2006,7 @@
      "published": "2026-11-20T00:08:22+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png",
      "licence": "linkout",
      "id": "4360ac421a2d",
      "category": "general",
@@ -2064,46 +2026,30 @@
      "category_label": "Mystery & investigation"
     },
     {
-     "title": "Resident doctors to begin 24-hour strike over pay",
+     "title": "Striking doctors warn staff will leave NI for better pay",
      "url": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&at_campaign=rss",
-     "summary": "A full 24-hour strike begins at 07:00 GMT - the second such action taken by doctors this year.",
-     "published": "2026-11-20T00:02:03+00:00",
+     "summary": "A full 24-hour strike began at 07:00 GMT - the second such action taken by doctors this year.",
+     "published": "2026-11-20T10:39:00+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/655d/live/12226d10-e462-11f1-b62d-ef7f83cfcec4.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4130/live/46bd3670-e4cd-11f1-8ebd-0fa6091698b5.jpg",
      "licence": "linkout",
      "id": "e931db4375ea",
      "category": "general",
      "category_label": "General"
     },
     {
-     "title": "Two-hour ambulance target missed more than 2,000 times",
-     "url": "https://www.bbc.co.uk/news/videos/cjr4g2r6r5pvo?at_medium=RSS&at_campaign=rss",
-     "summary": "The Release to Rescue initiative was introduced earlier this year",
-     "published": "2026-11-19T16:07:16+00:00",
+     "title": "'Better results for patients' since SWAH surgery suspended, says health chief",
+     "url": "https://www.bbc.co.uk/news/articles/cq2d944g077lo?at_medium=RSS&at_campaign=rss",
+     "summary": "Emergency general surgery was temporarily suspended at SWAH in December 2022.",
+     "published": "2026-11-20T07:11:13+00:00",
      "source": "BBC News",
      "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a70/live/b38d0510-e431-11f1-8346-933d3547e297.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/c4c548e0-e456-11f1-a094-5fdc692f3e33.jpg",
      "licence": "linkout",
-     "id": "7a25f7a86966",
-     "category": "human",
-     "category_label": "Human interest",
-     "figures": [
-      "2,000 times"
-     ]
-    },
-    {
-     "title": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
-     "url": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&at_campaign=rss",
-     "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
-     "published": "2026-11-19T15:30:48+00:00",
-     "source": "BBC News",
-     "byline": "",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0bf/live/715d23f0-e41d-11f1-9e08-55a8a3b48445.png",
-     "licence": "linkout",
-     "id": "84370a45750d",
-     "category": "crime",
-     "category_label": "Crime"
+     "id": "f6f5b5ab83d0",
+     "category": "general",
+     "category_label": "General"
     }
    ]
   }
